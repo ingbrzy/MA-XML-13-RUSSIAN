@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>1 неделя</item>
+        <item>2 неделя</item>
+        <item>3 неделя</item>
+        <item>%1$d неделя</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Автомобиль</item>
+        <item>Общественный транспорт</item>
+        <item>Такси</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 минут</item>
+        <item>20 минут</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>Очень чистый воздух</item>
+        <item>Чистый воздух</item>
+        <item>Легкое загрязнение</item>
+        <item>Умеренное загрязнение</item>
+        <item>Серьезное загрязнение</item>
+        <item>Экстремальное загрязнение</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s загрязнение</item>
+        <item>%1$s загрязнение</item>
+        <item>%1$s загрязнение</item>
+        <item>%1$s загрязнение</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>Воздух %1$s</item>
+        <item>Воздух  %1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Ночь</item>
+        <item>Ночь</item>
+        <item>Утро</item>
+        <item>День</item>
+        <item>День</item>
+        <item>Вечер</item>
+        <item>Вечер</item>
+    </string-array>
+    <string-array name="commute_transit_strategy">
+        <item>Умная рекомендация</item>
+        <item>Минимальное время</item>
+        <item>Меньше пересадок</item>
+        <item>Меньше ходьбы</item>
+        <item>Без метро</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Ночь</item>
+        <item>Раннее утро</item>
+        <item>Утро</item>
+        <item>Полдень</item>
+        <item>День</item>
+        <item>Конец дня</item>
+        <item>Вечер</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Маленький</item>
+        <item>Нормальный</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Красный - вверх, зеленый - вниз</item>
+        <item>Зеленый - вверх, красный - вниз</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>доступ к сети</item>
+        <item>чтение SMS</item>
+        <item>изменение SMS</item>
+        <item>получение SMS</item>
+        <item>отправка SMS</item>
+        <item>осуществление вызовов</item>
+        <item>чтение контактов</item>
+        <item>изменение контактов</item>
+        <item>чтение журнала вызовов</item>
+        <item>изменение журнала вызовов</item>
+        <item>доступ к камере</item>
+        <item>использование геолокации</item>
+    </string-array>
+    <array name="religious_languages" />
+    <array name="religious_regions" />
+</resources>

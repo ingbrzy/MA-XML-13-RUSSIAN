@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="permissions_desc">
+        <item>Для доступа, сохранения и передачи изображений, приложений и других файлов</item>
+        <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_china">
+        <item>Для доступа, сохранения и передачи изображений, приложений и других файлов</item>
+        <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12">
+        <item>Для отправки и приема файлов</item>
+        <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
+        <item>Для поиска доступных устройств поблизости с помощью Bluetooth</item>
+        <item>Для поиска доступных устройств поблизости и передачи файлов по Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_desc_v12_china">
+        <item>Для отправки и приема файлов</item>
+        <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
+        <item>Для поиска доступных устройств поблизости с помощью Bluetooth</item>
+        <item>Для поиска доступных устройств поблизости и передачи файлов по Wi-Fi</item>
+    </string-array>
+</resources>

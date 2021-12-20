@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_connection_request_dialog_title">Подключение к устройству</string>
+    <string name="suggested_fingerprint_lock_settings_summary"/>
+</resources>

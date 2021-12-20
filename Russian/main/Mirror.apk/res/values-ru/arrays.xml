@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="settings_search_mirror">
+        <item>MIUI+</item>
+        <item>Подключения/MIUI+</item>
+        <item>Screen Combo;Многоэкранный режим;Зеркалирование экрана;ПК;Компьютер;MIUI+</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Отключите точку доступа, Mi Share или Трансляцию на мобильном устройстве перед использованием этой функции.
+2. Отключите Wi-Fi на мобильном устройстве и ПК.
+3. Убедитесь, что мобильное устройство находится рядом с ПК."</item>
+        <item>Ваш ПК использует Bluetooth для обнаружения ранее подключенных мобильных устройств. Проверьте, включен ли Bluetooth на мобильном устройстве.</item>
+        <item>Мобильные устройства не могут синхронизировать данные с ПК, когда экран заблокирован. По умолчанию приложение не позволяет блокировать экран, когда мобильное устройство подключено к ПК. Вы можете изменить это в настройках.</item>
+        <item>"1. Совместимые мобильные устройства: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Если после сканирования QR-кода вы перенаправлены на наш официальный сайт, ваше устройство еще не поддерживается.
+2. Совместимые ПК: Xiaomi Notebook Pro 15 (расширенная версия), Xiaomi Notebook Pro 15.6 (модель 2020 года) , игровой ноутбук Redmi G, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Загрузите MIUI+ Beta для ПК отсюда: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Не удается подключиться с помощью QR-кода?</item>
+        <item>Не удается найти мобильные устройства с помощью компьютера?</item>
+        <item>Не удается заблокировать мобильное устройство?</item>
+        <item>Совместимость</item>
+    </string-array>
+</resources>

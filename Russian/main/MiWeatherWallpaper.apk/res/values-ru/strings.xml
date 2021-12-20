@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="accessibility_battery_level">Уровень заряда: %d</string>
+    <string name="accessibility_battery_level_charging">Батарея заряжается, уровень заряда: %d</string>
+    <string name="aod_battery_text">%1$d%%</string>
+    <string name="aod_lock_screen_date">EE, d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="weather_data_unavailable_cancel">Отмена</string>
+    <string name="weather_data_unavailable_content">Приложению Погода нужны дополнительные разрешения для отображения информации о текущей погоде</string>
+    <string name="weather_data_unavailable_ok">Настройки</string>
+    <string name="weather_data_unavailable_title">Успешно применено</string>
+    <string name="weather_id">weather</string>
+    <string name="weather_summary">Информация о текущей погоде</string>
+    <string name="weather_super_data_source_time_format">"yyyy-MM-dd'T'HH:mm:ssz"</string>
+    <string name="weather_super_data_source_timezone">GMT%1$s</string>
+    <string name="weather_super_wallpaper_label">Погода</string>
+    <string name="weather_title">Погода</string>
+</resources>

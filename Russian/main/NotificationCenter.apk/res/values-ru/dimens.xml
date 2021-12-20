@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_action_btn_max_width">108.0dip</dimen>
+    <dimen name="dimen_action_btn_text_size">13.0dip</dimen>
+    <dimen name="dimen_action_btn_start_padding">8.0dip</dimen>
+</resources>

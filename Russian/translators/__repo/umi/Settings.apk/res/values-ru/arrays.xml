@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bearer_entries">
+        <item>Не указано</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>NR</item>		
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA предпочтительно</item>
+        <item>GSM только</item>
+        <item>WCDMA только</item>
+        <item>GSM/WCDMA авто</item>
+        <item>CDMA/EvDo авто</item>
+        <item>CDMA без EvDo</item>
+        <item>EvDo только</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>LTE, CDMA, EvDo, GSM/WCDMA</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>TDSCDMA только</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>NR только</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>	
+</resources>

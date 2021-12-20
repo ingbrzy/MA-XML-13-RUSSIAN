@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Камера</item>
+        <item>Галерея</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>Создать</item>
+        <item>Переименовать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Псевдоним</item>
+        <item>Телефон</item>
+        <item>Email</item>
+        <item>Компания</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>День рождения</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Примечание</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Добро пожаловать!</item>
+        <item>Делайте заметки</item>
+        <item>Вы можете использовать текст, изображения и записи голоса. Богатая библиотека стилей и шрифтов сделает ваши простые наброски потрясающими.</item>
+        <item>Контрольные списки и напоминания придут на помощь, когда нужны простые и эффективные инструменты для планирования поездки или составления списка продуктов.</item>
+        <item>Делитесь заметками</item>
+        <item>Вы можете автоматически создавать снимки с прокруткой, а затем делиться ими со своими друзьями.</item>
+        <item>Создавайте папки и управляйте ими</item>
+        <item>Нажмите на стрелку, чтобы создать новую папку или переключиться между существующими.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Переименовать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>По дате создания</item>
+        <item>По дате изменения</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Голосовые заметки</item>
+        <item>Создавайте заметки, используя встроенный механизм преобразования речи в текст и прикрепляя к ним записи вашего голоса.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Голосовые заметки</item>
+        <item>Теперь вы можете создавать голосовые заметки. Нажмите на значок, запишите свой голос и прикрепите аудиофайл к заметке.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>Создать</item>
+    </string-array>
+</resources>

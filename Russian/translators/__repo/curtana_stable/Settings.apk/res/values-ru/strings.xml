@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">Введите от %d до %d цифр</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">Введите от %d до %d цифр</string>
+</resources>

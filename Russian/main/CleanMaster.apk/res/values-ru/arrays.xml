@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Уведомлять</item>
+        <item>Очищать</item>
+        <item>Очищать и уведомлять</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Частота использования</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>Размер</item>
+        <item>Частота использования</item>
+        <item>Время установки</item>
+    </string-array>
+    <string-array name="wechat_sort">
+        <item>Дата</item>
+        <item>Размер</item>
+    </string-array>
+</resources>

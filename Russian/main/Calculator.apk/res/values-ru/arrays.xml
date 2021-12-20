@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>Сантиметры</item>
+        <item>Метры</item>
+        <item>Футы</item>
+        <item>Дюймы</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Равные взносы</item>
+        <item>По убывающей</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>левая скобка</item>
+        <item>правая скобка</item>
+        <item>факториал</item>
+        <item>натуральный логарифм</item>
+        <item>логарифм</item>
+        <item>квадратный корень</item>
+        <item>деленное на</item>
+        <item>умноженное на</item>
+        <item>плюс</item>
+        <item>минус</item>
+        <item>точка</item>
+        <item>степень</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>равно</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Килограммы</item>
+        <item>Фунты</item>
+    </string-array>
+</resources>

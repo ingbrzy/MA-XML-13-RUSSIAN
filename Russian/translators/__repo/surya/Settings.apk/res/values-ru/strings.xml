@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">Введите от %d до %d цифр</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1$s</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">Введите от %d до %d цифр</string>
+    <string name="repeat_call_info">Не отключать звук и вибрацию для повторных вызовов в течение 15 минут</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Добавить частые фразы</string>
+    <string name="delete_frequent_phrases">Удалить частые фразы</string>
+    <string name="delete_frequent_phrases_confirm">Удалить выбранные частые фразы?</string>
+    <string name="edit_frequent_phrases">Редактировать частые фразы</string>
+    <string name="frequent_phrases_des">Вводите частые фразы с помощью всего нескольких нажатий во время редактирования текста</string>
+    <string name="frequent_phrases_size_exceeded">Можно добавить до %1$d частых фраз. Удалите ненужные, чтобы добавить больше.</string>
+    <string name="input_method_clipboard_check_more_add_to_phrase">Добавить частую фразу</string>
+    <string name="input_method_clipboard_check_more_copy">Копировать</string>
+    <string name="input_method_clipboard_check_more_delete">Удалить</string>
+    <string name="input_method_clipboard_checkbox_cancle">Отмена</string>
+    <string name="input_method_clipboard_checkbox_confirm">Очистить</string>
+    <string name="input_method_clipboard_clear_all_button">Очистить все</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">Удалить все элементы из буфера обмена?</string>
+    <string name="input_method_clipboard_clear_all_phrase_title">Очистка буфера обмена</string>
+    <string name="input_method_clipboard_copy_success">Успешно скопировано</string>
+    <string name="input_method_clipboard_delete_success">Успешно очищено</string>
+    <string name="input_method_clipboard_move_cursor_guide1">Нажмите и удерживайте синюю область для перемещения курсора</string>
+    <string name="input_method_clipboard_move_cursor_guide2">Проведите пальцем по горизонтали</string>
+    <string name="input_method_clipboard_participle">Разделить слова</string>
+    <string name="input_method_clipboard_settings_button">Настройки</string>
+    <string name="input_method_clipboard_tips">Скопированные элементы будут удалены из буфера обмена через 48 часов</string>
+    <string name="input_method_edit_phrase_text">Редактирование частых фраз</string>
+    <string name="input_method_no_content_text">Ничего нет</string>
+    <string name="input_method_phrase_edit">Редактировать</string>
+    <string name="input_method_phrase_top">Закрепить</string>
+    <string name="input_method_switch_settings_text">Настройки клавиатуры</string>
+    <string name="input_method_tab_clipboard_text">Буфер обмена</string>
+    <string name="input_method_tab_phrase_text">Частые фразы</string>
+    <string name="menu_add_frequent_phrases">Добавить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_edit">Редактировать</string>
+    <string name="sync_phrase_label">Частые фразы</string>
+</resources>

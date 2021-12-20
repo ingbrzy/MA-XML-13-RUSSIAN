@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gb_game_macro_action_unit_count">
+        <item quantity="other">%d раз</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d раза</item>
+    </plurals>
+    <plurals name="gb_game_macro_action_unit_seconds">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+    </plurals>
+</resources>

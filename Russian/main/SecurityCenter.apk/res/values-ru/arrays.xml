@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Однократно</item>
+        <item>Каждый день</item>
+        <item>В рабочие дни</item>
+        <item>По будням</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Однократно</item>
+        <item>Каждый день</item>
+        <item>По будням</item>
+        <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Все записи</item>
+        <item>Автозапуск</item>
+        <item>Цепной запуск</item>
+        <item>Разрешения</item>
+        <item>Действия</item>
+    </string-array>
+    <string-array name="app_initials_label">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Графический ключ</item>
+        <item>PIN-код</item>
+        <item>Пароль</item>
+    </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>" ГБ"</item>
+        <item>" МБ"</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Ежемесячный тариф</item>
+        <item>Безлимитный тариф</item>
+        <item>Ежедневный тариф</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Выбор</item>
+        <item>Mi Fan карта</item>
+        <item>Xiao Tiansheng карта</item>
+        <item>Tencent King карта</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Выбор</item>
+        <item>Mi Mobile</item>
+        <item>Mi Fan карта</item>
+        <item>Tianshen карта</item>
+        <item>Tencent карта</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Вчера (моб. интернет) "</item>
+        <item>"Сегодня (моб. интернет) "</item>
+        <item>"За прошлый месяц (моб. интернет) "</item>
+        <item>"За месяц (моб. интернет) "</item>
+        <item>"Вчера (Wi-Fi) "</item>
+        <item>"Сегодня (Wi-Fi) "</item>
+        <item>"За прошлый месяц (Wi-Fi) "</item>
+        <item>"За месяц (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Вчера "</item>
+        <item>"Сегодня "</item>
+        <item>"За прошлый месяц "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"За неделю "</item>
+        <item>"Сегодня "</item>
+        <item>"За месяц "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Вчера: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За прошлый месяц: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"За неделю: "</item>
+        <item>"Сегодня: "</item>
+        <item>"За месяц: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Удаленно получать доступ к файлам на устройстве и изменять их.</item>
+        <item>Устанавливать приложения на устройство без подтверждения.</item>
+        <item>Удаленно отслеживать и записывать содержимое экрана.</item>
+        <item>Получать доступ к подробной информации об устройстве.</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Очень низкая</item>
+        <item>Низкая</item>
+        <item>Стандартная</item>
+        <item>Высокая</item>
+        <item>Очень высокая</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>При блокировке экрана</item>
+        <item>При блокировке или сразу после выхода из приложения</item>
+        <item>При блокировке или через минуту после выхода из приложения</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"мобильный трафик "</item>
+        <item>"Wi-Fi трафик "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Важно: некоторые системные приложения могут работать неправильно.</item>
+        <item>Текстовые макеты, учетные записи и содержимое могут отображаться неправильно.</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Уведомлять</item>
+        <item>Уведомлять и отключать интернет</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Режим по умолчанию</item>
+        <item>Приоритет производительности</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Режим контроля температуры по умолчанию</item>
+        <item>Приоритет производительности</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Читать уведомления, сообщения и другие данные, содержащие личную информацию</item>
+        <item>Ограничивать вывод уведомлений для некоторых приложений</item>
+        <item>Эмулировать нажатия на уведомления и открывать приложения</item>
+        <item>Включать и выключать режим \"Не беспокоить\"</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Собирать статистику об используемых приложениях, ваших интересах и предпочтениях </item>
+        <item>Получать доступ к настройкам вашего оператора связи, языковым настройкам и другим сведениям</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Непровереные сторонние приложения могут вызывать проблемы и снижать стабильность системы.</item>
+        <item>Некоторые сторонние приложения могут содержать вредоносное ПО и подвергать риску ваши личные данные.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Хранилище</item>
+        <item>Внешний накопитель</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Всегда</item>
+        <item>Только для исключений</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Трафик</item>
+        <item>Баланс</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Сортировка по состоянию</item>
+        <item>Сортировка по имени приложения</item>
+        <item>Сортировка по частоте использования</item>
+        <item>Сортировка по занимаемому месту</item>
+        <item>Сортировка по времени установки</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Состояние</item>
+        <item>Имя приложения</item>
+        <item>Частота использования</item>
+        <item>Занимаемое место</item>
+        <item>Время установки</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Уведомлять и отключать точку</item>
+        <item>Уведомлять</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Источник установки</item>
+        <item>Время установки</item>
+        <item>Источник обновления</item>
+        <item>Время обновления</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Месячный тариф</item>
+        <item>Суточный тариф</item>
+        <item>Безлимитный тариф</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"мобильный трафик "</item>
+        <item>"Wi-Fi трафик "</item>
+    </string-array>
+</resources>

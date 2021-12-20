@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="audio_effect_file_names">
+        <item>Lock.ogg</item>
+        <item>Unlock.ogg</item>
+        <item>EffectTick.ogg</item>
+        <item>KeypressDelete.ogg</item>
+        <item>KeypressReturn.ogg</item>
+        <item>KeypressStandard.ogg</item>
+        <item>KeypressSpacebar.ogg</item>
+        <item>CameraClick.ogg</item>
+        <item>VideoRecord.ogg</item>
+        <item>CameraCountDown.ogg</item>
+        <item>CameraBeepSuccess.ogg</item>
+        <item>CameraBeepFail.ogg</item>
+        <item>CameraBeepInProgress.ogg</item>
+        <item>CameraBeepInProgress1.ogg</item>
+        <item>CameraBeepInProgress2.ogg</item>
+        <item>MusicShake.ogg</item>
+        <item>MessageComplete.ogg</item>
+        <item>SoundRecorderPlay.ogg</item>
+        <item>SoundRecorderPause.ogg</item>
+        <item>SoundRecorderRewind.ogg</item>
+        <item>LowBattery.ogg</item>
+    </string-array>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Блокировка</item>
+        <item>Разблокировка</item>
+        <item>EffectTick</item>
+        <item>KeypressDelete</item>
+        <item>KeypressReturn</item>
+        <item>KeypressStandard</item>
+        <item>KeypressSpacebar</item>
+        <item>CameraClick</item>
+        <item>VideoRecord</item>
+        <item>CameraCountDown</item>
+        <item>CameraBeepSuccess</item>
+        <item>CameraBeepFail</item>
+        <item>CameraBbeepInProgress</item>
+        <item>CameraBeepInProgress1</item>
+        <item>CameraBeepInProgress2</item>
+        <item>MusicShake</item>
+        <item>MessageComplete</item>
+        <item>SoundRecorderPlay</item>
+        <item>SoundRecorderPause</item>
+        <item>SoundRecorderRewind</item>
+        <item>LowBattery</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>заблокировать замену пакета</item>
+    </string-array>
+    <string-array name="wallpaper_version">
+        <item>Визуальный Китай</item>
+        <item>Восточный IC</item>
+    </string-array>
+</resources>

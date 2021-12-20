@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="settings_search_earth">
+        <item>Земля</item>
+        <item>Обои/Суперобои/Земля</item>
+        <item>Земля;Суперобои;Земля;Обои</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Геометрия</item>
+        <item>Обои/Суперобои/Геометрия</item>
+        <item>Геометрия;Абстрактные;Суперобои;Обои</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Марс</item>
+        <item>Обои/Суперобои/Марс</item>
+        <item>Марс;Марсианский;Суперобои;Обои</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Сатурн</item>
+        <item>Обои/Суперобои/Сатурн</item>
+        <item>Планета;Сатурн;Суперобои;Обои</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Заснеженные вершины</item>
+        <item>Обои/Суперобои/Заснеженные вершины</item>
+        <item>Земля;Горы;Суперобои;Обои</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Суперобои</item>
+        <item>Обои/Суперобои</item>
+        <item>Суперобои;Обои;Динамические обои;3D-обои</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Погода</item>
+        <item>Обои/Суперобои/Погода</item>
+        <item>Погода;Информация о погоде;Суперобои;Обои</item>
+    </string-array>
+</resources>

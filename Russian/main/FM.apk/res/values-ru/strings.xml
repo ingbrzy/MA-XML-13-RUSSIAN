@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сервис FM Радио</string>
+    <string name="frequency_mhz_fomart">%s МГц</string>
+    <string name="notification_rec_title">Нажмите для просмотра записи</string>
+    <string name="record_completed">Запись завершена</string>
+    <string name="station_freq_format">%s МГц</string>
+</resources>

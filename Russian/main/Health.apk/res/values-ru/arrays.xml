@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Здоровье</item>
+        <item>Тренировки</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Изображение</item>
+        <item>Маршрут</item>
+        <item>Карта</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Бег</item>
+        <item>Ходьба</item>
+        <item>Велосипед</item>
+        <item>Беговая дорожка</item>
+        <item>Тренировка</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Достаточно</item>
+        <item>Долго</item>
+        <item>Слишком долго</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Время двигаться!</item>
+        <item>Подробнее</item>
+        <item>Выпейте воды и прогуляйтесь</item>
+        <item>Подробнее</item>
+        <item>Поднимитесь по лестнице</item>
+        <item>Подробнее</item>
+        <item>Не сидите слишком долго</item>
+        <item>Подробнее</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 час</item>
+        <item>2 часа</item>
+    </string-array>
+    <string-array name="blood_types">
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+        <item>A(II) Rh-</item>
+        <item>A(II) Rh+</item>
+        <item>B(III) Rh-</item>
+        <item>B(III) Rh+</item>
+        <item>AB(IV) Rh-</item>
+        <item>AB(IV) Rh+</item>
+        <item>O(I) Rh-</item>
+        <item>O(I) Rh+</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Не указано</item>
+        <item>Родитель</item>
+        <item>Сестра</item>
+        <item>Брат</item>
+        <item>Супруг(а)</item>
+        <item>Партнер(ша)</item>
+        <item>Друг</item>
+        <item>Коллега</item>
+        <item>Одноклассник</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item> ккал</item>
+        <item> кДж</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Не указано</item>
+        <item>Мужчина</item>
+        <item>Женщина</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" см"</item>
+        <item>" м"</item>
+        <item>" км"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Не указана</item>
+        <item>A(II)</item>
+        <item>B(III)</item>
+        <item>AB(IV)</item>
+        <item>O(I)</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Пн, Ср, Пт</item>
+        <item>Вт, Чт, Сб</item>
+        <item>Ср, Пт, Вс</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Каждый понедельник</item>
+        <item>Каждый вторник</item>
+        <item>Каждую среду</item>
+        <item>Каждый четверг</item>
+        <item>Каждую пятницу</item>
+        <item>Каждую субботу</item>
+        <item>Каждое воскресенье</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Не указан</item>
+        <item>Отрицательный</item>
+        <item>Положительный</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Без ограничений</item>
+        <item>Ограничить фоновую активность</item>
+        <item>Закрыть через 10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" км/ч"</item>
+        <item>" м/с"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>Сидячий образ жизни вызывает множество проблем со здоровьем. Если общая продолжительность времени сидя не может быть уменьшена, периодическая активность может улучшить ситуацию.</item>
+        <item>Xiaomi Health будет напоминать о необходимости активности по крайней мере 1 минуту в час для достижения ежедневной цели, чтобы избежать проблем сидячей жизни.</item>
+        <item>Нажмите кнопку \"Продолжить\" для включения функции.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Health может отслеживать и записывать вашу активность. Если в течение часа не будет зафиксировано никакой активности, будет отправлено напоминание о разминке:</item>
+        <item>Эта функция отслеживает вашу активность и отправляет напоминания на основе результатов.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>воскресение</item>
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>пятница</item>
+        <item>суббота</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>вс</item>
+        <item>пн</item>
+        <item>вт</item>
+        <item>ср</item>
+        <item>чт</item>
+        <item>пт</item>
+        <item>сб</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" г"</item>
+        <item>" кг"</item>
+        <item>" т"</item>
+        <item>" лян"</item>
+        <item>" цзинь"</item>
+        <item>" фунт"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Не указано</item>
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>
+</resources>

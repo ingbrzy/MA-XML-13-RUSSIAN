@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="de_detail_follow_btn_width">80.0dip</dimen>
+    <dimen name="de_detail_operation_btn_width">80.0dip</dimen>
+    <dimen name="local_grid_bg_width">164.0dip</dimen>	
+    <dimen name="local_grid_title_text_size">14.669983sp</dimen>
+    <dimen name="component_list_grid_item_horizontal_side_margin">16.0dip</dimen>	
+    <dimen name="component_list_grid_item_horizontal_inner_margin">1.0dip</dimen>
+    <dimen name="component_list_grid_item_horizontal_padding">1.0dip</dimen>
+</resources>

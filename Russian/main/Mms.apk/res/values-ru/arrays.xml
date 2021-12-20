@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Имя</item>
+        <item>Псевдоним</item>
+        <item>Телефон</item>
+        <item>Email</item>
+        <item>Организация</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>День рождения</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Примечание</item>
+        <item>Родственник</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>Рекламные сообщения от %s</item>
+        <item>Сервисные сообщения от %s</item>
+        <item>Финансовые сообщения от %s</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Максимум</item>
+        <item>2 дня</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Не настроено</item>
+        <item>1 час</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>Максимум</item>
+    </string-array>
+    <string-array name="message_sending_method">
+        <item>Предложенная служба сообщений</item>
+        <item>SMS, MMS</item>
+        <item>RCS чат, RCS передача файлов</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме \"Без звука\"</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>Не спрашивать и отправлять как SMS-ссылку</item>
+        <item>Не спрашивать и не отправлять как SMS-ссылку</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>Не спрашивать и отправлять как SMS</item>
+        <item>Не спрашивать и не отправлять как SMS</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>Всегда спрашивать</item>
+        <item>Не изменять</item>
+        <item>Изменить и сохранить как значение по умолчанию</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>Всегда спрашивать</item>
+        <item>Не изменять</item>
+        <item>Изменить и сохранить как значение по умолчанию</item>
+    </string-array>
+    <string-array name="reason_type">
+        <item>Мошенничество</item>
+        <item>Нецензурное содержимое</item>
+        <item>Спам</item>
+        <item>Другое</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="recv_type">
+        <item>Получать и уведомлять</item>
+        <item>Только получать</item>
+        <item>Отклонять</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Через MMS</item>
+        <item>Через Mi сообщение</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Через SMS</item>
+        <item>Через Mi сообщение</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунды</item>
+        <item>3 секунды</item>
+        <item>4 секунды</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Mi сообщения</item>
+        <item>CMCC Smart SMS</item>
+    </string-array>
+</resources>

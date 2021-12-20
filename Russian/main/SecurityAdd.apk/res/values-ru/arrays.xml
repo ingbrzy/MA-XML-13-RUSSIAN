@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="app_start_setting">
+        <item>Разрешить запуск только из белого списка</item>
+        <item>Запретить для всех</item>
+    </string-array>
+    <string-array name="city_label">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Ч</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="data_net_usage_number">
+        <item>Без ограничений</item>
+        <item>100 МБ</item>
+        <item>200 МБ</item>
+        <item>500 МБ</item>
+        <item>Настроить</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Очень низкая</item>
+        <item>Низкая</item>
+        <item>Стандартная</item>
+        <item>Высокая</item>
+        <item>Очень высокая</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_texture">
+        <item>Максимальная скорость</item>
+        <item>Баланс скорости и качества</item>
+        <item>Наилучшее качество</item>
+    </string-array>
+    <string-array name="parent_center_item_array">
+        <item>Управление приложениями</item>
+        <item>Управление временем</item>
+        <item>Параметры сети</item>
+        <item>Безопасность</item>
+        <item>Режим защиты глаз</item>
+        <item>Дополнительно</item>
+    </string-array>
+</resources>

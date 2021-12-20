@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_chars2">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Сегодня вечером</item>
+        <item>Завтра</item>
+        <item>На выходных</item>
+        <item>На следующей неделе</item>
+        <item>В следующем месяце</item>
+        <item>Выбрать дату</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Ответить</item>
+        <item>Ответить всем</item>
+        <item>Переслать</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+    </string-array>
+    <string-array name="invoice_amount">
+        <item>Сумма счета</item>
+        <item>Сумма счета</item>
+        <item>Сумма</item>
+    </string-array>
+    <string-array name="invoice_buyer">
+        <item>Плательщик</item>
+        <item>Покупатель</item>
+        <item>Счет</item>
+        <item>Просмотр</item>
+    </string-array>
+    <string-array name="invoice_card_keyword">
+        <item>Счет</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>Счет</item>
+        <item>invoice</item>
+    </string-array>
+    <string-array name="invoice_date">
+        <item>Дата выставления счета</item>
+    </string-array>
+    <string-array name="invoice_seller">
+        <item>Бенефициар</item>
+        <item>Продавец</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Недавно просмотренные</item>
+        <item>Формат</item>
+        <item>Имя</item>
+        <item>Отправитель</item>
+        <item>Дата получения</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Системные</item>
+        <item>Недавние</item>
+        <item>Все папки</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Перейти к более новому</item>
+        <item>Перейти к более старому</item>
+        <item>Перейти во \"Входящие\"</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Все</item>
+        <item>Только отправители</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>более новые</item>
+        <item>более старые</item>
+        <item>по порядку</item>
+    </string-array>
+    <array name="preferenceCategoryBackground" />
+    <string-array name="signature_normal_string_array">
+        <item>Блог:</item>
+        <item>Сайт:</item>
+        <item>Email:</item>
+        <item>Мобильный:</item>
+        <item>Телефон:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Тел:</item>
+        <item>Факс:</item>
+        <item>Почта:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Адрес:</item>
+        <item>Телефон:</item>
+        <item>Имя:</item>
+        <item>Почта:</item>
+        <item>Мобильный:</item>
+        <item>WeChat:</item>
+        <item>Факс:</item>
+        <item>Почтовый индекс:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Отказ от ответственности:</item>
+        <item>Email отказ от ответственности</item>
+        <item>Отправлено через WPSMail</item>
+        <item>Отправлено с моего</item>
+        <item>Отправлено с</item>
+        <item>Спасибо,</item>
+        <item>С уважением,</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Спасибо,</item>
+        <item>С уважением,</item>
+        <item>Отправлено с моего</item>
+        <item>Оригинальный Email</item>
+        <item>Отправлено с моего</item>
+        <item>Отправлено с</item>
+        <item>От</item>
+        <item>Это сообщение</item>
+        <item>Отказ от ответственности</item>
+        <item>Заявление-отказ от ответственности</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="special_function_gridview_padding_horizontal">12.0dip</dimen>
+    <dimen name="special_function_gridview_spacing_horizontal">10.0dip</dimen>
+    <dimen name="special_function_gridview_spacing_vertical">10.0dip</dimen>	
+    <dimen name="special_function_itemview_padding_horizontal">12.0dip</dimen>	
+    <dimen name="special_function_itemview_title_text_size">16.299988sp</dimen>
+    <dimen name="special_function_itemview_status_text_size">12.699982sp</dimen>
+</resources>

@@ -1,0 +1,26 @@
+!! missed changes for arrays in Settings.apk
+
+begonia
+equuleus
+nitrogen
+perseus
+platina
+solaris
+perseus
+platina
+sirius
+ursa
+
+!! missed modified string in Settings.apk
+<string name="repeat_call_info">Не отключать звук и вибрацию для повторных вызовов в течение 15 минут</string>
+
+begonia
+cesanne
+equuleus
+laurus
+perseus
+platina
+polaris
+sirius
+ursa
+violet

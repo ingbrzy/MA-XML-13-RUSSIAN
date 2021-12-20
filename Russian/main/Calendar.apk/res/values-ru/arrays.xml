@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aquarius_info">
+        <item>водолей</item>
+        <item>Водолей</item>
+        <item>20.01-18.02</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>овен</item>
+        <item>Овен</item>
+        <item>21.03-19.04</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>рак</item>
+        <item>Рак</item>
+        <item>22.06-22.07</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>козерог</item>
+        <item>Козерог</item>
+        <item>22.12-19.01</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только это мероприятие</item>
+        <item>Все мероприятия в серии</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Только в этот раз</item>
+        <item>Отключить повторное напоминание</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Вперед</item>
+        <item>Назад</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>В момент начала</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
+        <item>За 2 дня</item>
+        <item>За 1 неделю</item>
+    </string-array>
+    <string-array name="default_reminder_later_time_labels">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Только это мероприятие</item>
+        <item>Это и будущие мероприятия</item>
+        <item>Все мероприятия</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>близнецы</item>
+        <item>Близнецы</item>
+        <item>21.05-21.06</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>лев</item>
+        <item>Лев</item>
+        <item>23.07-22.08</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>весы</item>
+        <item>Весы</item>
+        <item>23.09-23.10</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Только в этот раз</item>
+        <item>Установить повторное напоминание</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>рыбы</item>
+        <item>Рыбы</item>
+        <item>19.02-20.03</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Выкл.</item>
+        <item>Для всех событий</item>
+        <item>Для наиболее актуальных событий</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Выкл.</item>
+        <item>Для всех событий</item>
+        <item>Для чувствительных ко времени событий</item>
+    </string-array>
+    <string-array name="prefValues_alerts_popup">
+        <item>нет</item>
+        <item>все</item>
+        <item>умные</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме \"Без звука\"</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Региональные настройки</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Никогда</item>
+        <item>Время</item>
+        <item>Счетчик</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>перв.</item>
+        <item>втор.</item>
+        <item>трет.</item>
+        <item>четверт.</item>
+        <item>последн.</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>будни</item>
+        <item>выходные</item>
+        <item>вся неделя</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Никогда</item>
+        <item>Ежемесячно</item>
+        <item>Ежегодно</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>день</item>
+        <item>неделя</item>
+        <item>месяц</item>
+        <item>год</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>первый понедельник</item>
+        <item>первый вторник</item>
+        <item>первая среда</item>
+        <item>первый четверг</item>
+        <item>первая пятница</item>
+        <item>первая суббота</item>
+        <item>первое воскресенье</item>
+        <item>второй понедельник</item>
+        <item>второй вторник</item>
+        <item>вторая среда</item>
+        <item>второй четверг</item>
+        <item>вторая пятница</item>
+        <item>вторая суббота</item>
+        <item>второе воскресенье</item>
+        <item>третий понедельник</item>
+        <item>третий вторник</item>
+        <item>третья среда</item>
+        <item>третий четверг</item>
+        <item>третья пятница</item>
+        <item>третья суббота</item>
+        <item>третье воскресенье</item>
+        <item>четвертый понедельник</item>
+        <item>четвертый вторник</item>
+        <item>четвертая среда</item>
+        <item>четвертый четверг</item>
+        <item>четвертая пятница</item>
+        <item>четвертая суббота</item>
+        <item>четвертое воскресенье</item>
+        <item>последний понедельник</item>
+        <item>последний вторник</item>
+        <item>последняя среда</item>
+        <item>последний четверг</item>
+        <item>последняя пятница</item>
+        <item>последняя суббота</item>
+        <item>последнее воскресенье</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нет ответа</item>
+        <item>Да</item>
+        <item>Возможно</item>
+        <item>Нет</item>
+    </string-array>
+     <string-array name="response_labels2">
+        <item>Оставить без ответа</item>
+        <item>Принять</item>
+        <item>Решить позже</item>
+        <item>Отклонить</item>
+     </string-array>
+    <string-array name="sagittarius_info">
+        <item>стрелец</item>
+        <item>Стрелец</item>
+        <item>23.11-21.12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>скорпион</item>
+        <item>Скорпион</item>
+        <item>24.10-22.11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>Чемпионат Италии</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>телец</item>
+        <item>Телец</item>
+        <item>20.04-20.05</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>Маршалловы острова</item>
+        <item>Мидуэй</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>Тихоокеанское время</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Горное время</item>
+        <item>Центральная Америка</item>
+        <item>Центральное время</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Восточное время</item>
+        <item>Венесуэла</item>
+        <item>Атлантическое время (Барбадос)</item>
+        <item>Атлантическое время (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилиа</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Среднеатлантическое время</item>
+        <item>Азорские острова</item>
+        <item>Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон</item>
+        <item>Дублин</item>
+        <item>Амстердам</item>
+        <item>Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Западноафриканское время</item>
+        <item>Амман</item>
+        <item>Афины</item>
+        <item>Стамбул</item>
+        <item>Бейрут</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+		<item>Чунцин</item>
+        <item>Гонконг</item>
+        <item>Макао</item>
+        <item>Сингапур</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней</item>
+        <item>Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="timezone_values_v3">
+        <item>Тихий океан/Маджуро</item>
+        <item>Тихий океан/Мидуэй</item>
+        <item>Тихий океан/Гонолулу</item>
+        <item>Америка/Анкоридж</item>
+        <item>Америка/Лос-Анджелес</item>
+        <item>Америка/Тихуана</item>
+        <item>Америка/Финикс</item>
+        <item>Америка/Чиуауа</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Коста-Рика</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Мехико</item>
+        <item>Америка/Реджайна</item>
+        <item>Америка/Богота</item>
+        <item>Америка/Нью-Йорк</item>
+        <item>Америка/Каракас</item>
+        <item>Америка/Барбадос</item>
+        <item>Америка/Галифакс</item>
+        <item>Америка/Манаус</item>
+        <item>Америка/Сантьяго</item>
+        <item>Америка/Сент-Джонс</item>
+        <item>Америка/Сан-Паулу</item>
+        <item>Америка/Аргентина/Буэнос-Айрес</item>
+        <item>Америка/Нуук</item>
+        <item>Америка/Монтевидео</item>
+        <item>Атлантика/Южная_Георгия</item>
+        <item>Атлантика/Азорские_острова</item>
+        <item>Атлантика/Кабо-Верде</item>
+        <item>Африка/Касабланка</item>
+        <item>Европа/Лондон</item>
+        <item>Европа/Дублин</item>
+        <item>Европа/Амстердам</item>
+        <item>Европа/Берлин</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Брюссель</item>
+        <item>Европа/Сараево</item>
+        <item>Африка/Виндхук</item>
+        <item>Африка/Браззавиль</item>
+        <item>Азия/Амман</item>
+        <item>Европа/Афины</item>
+        <item>Европа/Стамбул</item>
+        <item>Азия/Бейрут</item>
+        <item>Африка/Каир</item>
+        <item>Европа/Хельсинки</item>
+        <item>Азия/Иерусалим</item>
+        <item>Европа/Минск</item>
+        <item>Африка/Хараре</item>
+        <item>Азия/Багдад</item>
+        <item>Европа/Москва</item>
+        <item>Азия/Кувейт</item>
+        <item>Африка/Найроби</item>
+        <item>Азия/Тегеран</item>
+        <item>Азия/Баку</item>
+        <item>Азия/Тбилиси</item>
+        <item>Азия/Ереван</item>
+        <item>Азия/Дубай</item>
+        <item>Азия/Кабул</item>
+        <item>Азия/Карачи</item>
+        <item>Азия/Уральск</item>
+        <item>Азия/Екатеринбург</item>
+        <item>Азия/Калькутта</item>
+        <item>Азия/Шри-Ланка</item>
+        <item>Азия/Катманду</item>
+        <item>Азия/Астана</item>
+        <item>Азия/Янгон</item>
+        <item>Азия/Красноярск</item>
+        <item>Азия/Бангкок</item>
+        <item>Азия/Пекин</item>
+        <item>Азия/Чунцин</item>
+        <item>Азия/Гонконг</item>
+        <item>Азия/Макао</item>
+        <item>Азия/Сингапур</item>
+        <item>Азия/Иркутск</item>
+        <item>Азия/Куала-Лумпур</item>
+        <item>Австралия/Перт</item>
+        <item>Азия/Тайбэй</item>
+        <item>Азия/Сеул</item>
+        <item>Азия/Токио</item>
+        <item>Азия/Якутск</item>
+        <item>Австралия/Аделаида</item>
+        <item>Австралия/Дарвин</item>
+        <item>Австралия/Брисбен</item>
+        <item>Австралия/Хобарт</item>
+        <item>Австралия/Сидней</item>
+        <item>Австралия/Канберра</item>
+        <item>Азия/Владивосток</item>
+        <item>Тихий океан/Гуам</item>
+        <item>Азия/Магадан</item>
+        <item>Тихий океан/Окленд</item>
+        <item>Тихий океан/Фиджи</item>
+        <item>Тихий океан/Тонга</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>За 3 часа</item>
+        <item>За 4 часа</item>
+        <item>За 5 часов</item>
+        <item>За 6 часов</item>
+        <item>За 1 день</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>дева</item>
+        <item>Дева</item>
+        <item>23.08-22.09</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Прозрачный</item>
+        <item>Белый фон</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>В</item>
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
+    </string-array>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="emode_app_groups">
+        <item>Системные приложения</item>
+        <item>Другие приложения</item>
+        <item>Избранные приложения</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>Пользовательские настройки</item>
+        <item>Умный режим</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Активные приложения</item>
+        <item>Неактивные приложения</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Сделать неактивным</item>
+        <item>Контроль фоновой активности</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Производительный</item>
+        <item>Сбалансированный</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Контроль температуры по умолчанию</item>
+        <item>Производительность</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Приоритет контроля температуры</item>
+        <item>Приоритет производительности</item>
+        <item>Не работает в режиме Максимальной экономии</item>
+    </string-array>
+</resources>

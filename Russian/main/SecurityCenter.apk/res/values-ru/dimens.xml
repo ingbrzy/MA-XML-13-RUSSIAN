@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_font_size_50">16.0sp</dimen>
+    <dimen name="phone_manage_bottom_tab_margin_lr">40.0dip</dimen>
+    <dimen name="phone_manage_bottom_tab_text_size">12.7dip</dimen>
+    <dimen name="six_pices_card_item_column_padding_start">8.0dip</dimen>
+    <dimen name="pp_preference_function_item_title_text_size">15.0sp</dimen>
+    <dimen name="pp_preference_function_item_summary_text_size">12.0sp</dimen>
+    <dimen name="pp_preference_function_item_icon_margin_start_top">12.0dip</dimen>
+    <dimen name="pp_preference_function_item_title_margin_start">8.339996dip</dimen>
+    <dimen name="pp_preference_function_item_padding_bottom">12.0dip</dimen>
+    <dimen name="pp_preference_function_item_margin_top_start_end">10.0dip</dimen>
+    <dimen name="phone_manage_card_summary_size">12.0sp</dimen>	
+    <dimen name="perm_selected_tips_left_margin">4.0dip</dimen>
+    <dimen name="perm_selected_tips_size">9.0sp</dimen>
+    <dimen name="perm_selected_tips_size_w">60.0dip</dimen>
+    <dimen name="perm_intercept_btn_margin_hor">20.0dip</dimen>
+    <dimen name="perm_intercept_content_margin_hor">33.0dip</dimen>	
+    <dimen name="view_dimen_924">322.0dip</dimen>
+</resources>

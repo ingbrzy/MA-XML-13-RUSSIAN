@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aggregate_entries">
+        <item>Группировка</item>
+        <item>Группировка и низкий приоритет</item>
+        <item>Без группировки</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>Рекламные и контентные push-уведомления будут сгруппированы</item>
+        <item>Push-уведомления будут сгруппированы и показаны ниже других уведомлений</item>
+        <item>Push-уведомления не будут сгруппированы</item>
+    </string-array>
+</resources>

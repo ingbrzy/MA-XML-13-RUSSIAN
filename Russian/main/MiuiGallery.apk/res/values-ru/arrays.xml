@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="acc_category_color_description">
+        <item>Белый</item>
+        <item>Темно-синий</item>
+        <item>Светло-синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Розовый</item>
+        <item>Коричневый</item>
+        <item>Серый</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Выберите изображение</item>
+        <item>Прозрачный фон</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Особенный день</item>
+        <item>Памятный день</item>
+        <item>Яркие моменты</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Мальчик</item>
+        <item>Девочка</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Резервное копирование фотографий</item>
+        <item>Синхронизация фотографий с облаком</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>Прошлый понедельник</item>
+        <item>Прошлый вторник</item>
+        <item>Прошлая среда</item>
+        <item>Прошлый четверг</item>
+        <item>Прошлая пятница</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>Прошлый канун китайского Нового года</item>
+        <item>Прошлый китайский Новый год</item>
+        <item>Прошлый фестиваль фонарей</item>
+        <item>Прошлый фестиваль лодок-драконов</item>
+        <item>Прошлый фестиваль Циси</item>
+        <item>Прошлый фестиваль середины осени</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>Канун китайского Нового года через годы</item>
+        <item>Китайский Новый год через годы</item>
+        <item>Фестиваль фонарей через годы</item>
+        <item>Фестиваль лодок-драконов через годы</item>
+        <item>Фестиваль Циси через годы</item>
+        <item>Фестиваль середины осени через годы</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>Прошлый Новый год</item>
+        <item>Прошлый День святого валентина</item>
+        <item>Прошлый День труда</item>
+        <item>Прошлый День детей</item>
+        <item>Прошлый Национальный день</item>
+        <item>Прошлое Рождество</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>Новый год через годы</item>
+        <item>День cвятого валентина через годы</item>
+        <item>День труда через годы</item>
+        <item>День детей через годы</item>
+        <item>Национальный день через годы</item>
+        <item>Рождество через годы</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Время играть</item>
+        <item>Детские выходные</item>
+        <item>Малыш</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Мои выходные</item>
+        <item>Ритмы жизни</item>
+        <item>Воспоминания о выходных</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Новые друзья и старые приятели</item>
+        <item>Прошлогодние встречи</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Досуг</item>
+        <item>Бриз</item>
+        <item>Мечты</item>
+        <item>Облака</item>
+        <item>Мысли</item>
+        <item>Бутоны</item>
+        <item>Метаморфозы</item>
+        <item>Глубина</item>
+        <item>Отражения</item>
+        <item>Минимализм</item>
+        <item>Тайна</item>
+        <item>Туман</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Фон в виде эскиза</item>
+        <item>Фон в стиле акварели</item>
+        <item>Киберпанк-ретро</item>
+        <item>Вертикальные сегменты</item>
+        <item>Расплывчатые очертания</item>
+        <item>Футуристический вид</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Эскиз</item>
+        <item>Акварель</item>
+        <item>RGB</item>
+        <item>Сегменты</item>
+        <item>Туманное окно</item>
+        <item>Техно</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Цветной контур</item>
+        <item>Пунктирный контур</item>
+        <item>Флуоресцентный контур</item>
+        <item>Цветная тень</item>
+        <item>Электрическая волна</item>
+        <item>Текущий</item>
+        <item>Волны</item>
+        <item>Частицы</item>
+        <item>Текст</item>
+        <item>Крылья</item>
+        <item>Ангел</item>		
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Общие</item>
+        <item>Путешествие</item>
+        <item>Работа</item>
+        <item>Документы</item>
+        <item>Образование</item>
+        <item>Экзамены</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Соц. страховка</item>
+        <item>Мед. карта</item>
+        <item>Мед. страховка</item>
+        <item>Удостоверение</item>
+        <item>Вид на жительство</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>25х35 мм</item>
+        <item>35х49 мм</item>
+        <item>22х32 мм</item>
+        <item>35х45 мм</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Заявление о приеме</item>
+        <item>Студ. сеть</item>
+        <item>Студ. сеть для нач. школ</item>
+        <item>Профиль студента</item>
+        <item>Поступление в ВУЗ</item>
+        <item>NCEE</item>
+        <item>Резюме</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Тест по англ. языку 1</item>
+        <item>Тест по англ. языку 2</item>
+        <item>Тест по англ. языку 3</item>
+        <item>Тест по кит. языку 1</item>
+        <item>Тест по кит. языку 2</item>
+        <item>Дипл. тест по англ. языку</item>
+        <item>PET для колледжей</item>
+        <item>PETS уровень 3</item>
+        <item>Нац. рейт. экзамен 1</item>
+        <item>Нац. рейт. экзамен 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Серт. преподавателя нач. и ср. школ</item>
+        <item>Серт. преподавателя</item>
+        <item>Водит. удостоверение</item>
+        <item>Разрешение гида</item>
+        <item>Эл. разрешение гида</item>
+        <item>Нац. судебная экспертиза</item>
+        <item>Серт. конструктора 1 класса</item>
+        <item>Серт. конструктора 2 класса</item>
+        <item>Экзамен на мл. бухгалтера</item>
+        <item>Серт. бухгалтер</item>
+        <item>Разрешение гида по Пекину</item>
+        <item>Промеж. экзамен по бухучету</item>
+        <item>Экзамен на ст. бухгалтера</item>
+        <item>Квал. аттестат бухгалтера</item>
+        <item>Экзамен на дипл. бухгалтера</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Соединенные Штаты</item>
+        <item>Вьетнам</item>
+        <item>Япония</item>
+        <item>Гонконг и Макао</item>
+        <item>Южная Корея</item>
+        <item>Таиланд (туристы)</item>
+        <item>Таиланд (по прибытии)</item>
+        <item>Индия</item>
+        <item>Израиль</item>
+        <item>Тайвань</item>
+        <item>Малайзия</item>
+        <item>Новая Зеландия</item>
+        <item>Италия</item>
+        <item>Аргентина</item>
+        <item>Бразилия</item>
+        <item>Исландия</item>
+        <item>Кения</item>
+    </string-array>
+    <string-array name="magic_system_model">
+        <item>Mi 10</item>
+        <item>Mi 10 Pro</item>
+        <item>Mi 11</item>
+        <item>Mi 11 Pro</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Переместить</item>
+        <item>Копировать</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Январь прошлого года</item>
+        <item>Февраль прошлого года</item>
+        <item>Март прошлого года</item>
+        <item>Апрель прошлого года</item>
+        <item>Май прошлого года</item>
+        <item>Июнь прошлого года</item>
+        <item>Июль прошлого года</item>
+        <item>Август прошлого года</item>
+        <item>Сентябрь прошлого года</item>
+        <item>Октябрь прошлого года</item>
+        <item>Ноябрь прошлого года</item>
+        <item>Декабрь прошлого года</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Папа</item>
+        <item>Мама</item>
+        <item>Дедушка по отцу</item>
+        <item>Бабушка по отцу</item>
+        <item>Дедушка по матери</item>
+        <item>Бабушка по матери</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Вместе</item>
+        <item>Хорошие времена</item>
+        <item>В унисон</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Совместно</item>
+        <item>Связи и контакты</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Я</item>
+        <item>Ребенок</item>
+        <item>Семья</item>
+        <item>Коллеги</item>
+        <item>Одноклассники</item>
+        <item>Друзья</item>
+        <item>Не указано</item>
+    </string-array>
+    <string-array name="season">
+        <item>Весна</item>
+        <item>Лето</item>
+        <item>Осень</item>
+        <item>Зима</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Весна прошлого года</item>
+        <item>Лето прошлого года</item>
+        <item>Осень прошлого года</item>
+        <item>Зима прошлого года</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Папа</item>
+        <item>Мама</item>
+        <item>Дедушка по отцу</item>
+        <item>Бабушка по отцу</item>
+        <item>Дедушка по матери</item>
+        <item>Бабушка по матери</item>
+    </string-array>
+    <string-array name="spinner_list">
+        <item>px</item>
+        <item>мм</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Движение вперед</item>
+        <item>Полный энергии</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Они растут так быстро</item>
+        <item>Детские фото</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Прошедшие выходные</item>
+        <item>Памятные дни</item>
+        <item>Повседневные события</item>
+        <item>Обычное и необычное</item>
+    </string-array>
+</resources>
