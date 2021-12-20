@@ -10,9 +10,9 @@ SET exec_p=XMLCompare.exe /fp /au
 SET xmlcmp_s=D:\Android\XMLCompare\%exec_s%
 SET xmlcmp_p=D:\Android\XMLCompare\%exec_p%
 
-SET _src=D:\Android\Github\MA-XML-12-RUSSIAN\Russian\translators\__repo\
-SET _dst=D:\Android\Github\MA-XML-12-RUSSIAN\Russian\device\
-SET _mnt=D:\Android\Github\MA-XML-12-RUSSIAN\Russian\main
+SET _src=D:\Android\Github\MA-XML-13-RUSSIAN\Russian\translators\__repo\
+SET _dst=D:\Android\Github\MA-XML-13-RUSSIAN\Russian\device\
+SET _mnt=D:\Android\Github\MA-XML-13-RUSSIAN\Russian\main
 
 SET _dir=\%_APKFILE%\res\values-ru\
 

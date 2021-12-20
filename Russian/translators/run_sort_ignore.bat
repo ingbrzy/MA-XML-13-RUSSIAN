@@ -1,7 +1,7 @@
 cls
 
 SET _run=D:\Android\XMLCompare\
-SET _dst=D:\Android\Github\MA-XML-12-RUSSIAN\Russian\translators\
+SET _dst=D:\Android\Github\MA-XML-13-RUSSIAN\Russian\translators\
 
 del %_dst%result.xml
 %_run%XMLCompare /s %_dst%empty.xml /d %_dst%ignore.xml /n 4

@@ -3,9 +3,9 @@ SET _APKFILE=%2
 SET _EXT=%3
 
 SET _run=D:\Android\XMLCompare\
-SET _src=D:\Android\Github\MA-XML-12-Compare\%_DEVICE%\%_APKFILE%.apk\res\values\
-SET _dst=D:\Android\Github\MA-XML-12-RUSSIAN\Russian\main\%_APKFILE%.apk\res\values-ru%_EXT%\
-SET _dat=D:\Android\Github\MA-XML-12-RUSSIAN\Russian\translators\
+SET _src=D:\Android\Github\MA-XML-13-Compare\%_DEVICE%\%_APKFILE%.apk\res\values\
+SET _dst=D:\Android\Github\MA-XML-13-RUSSIAN\Russian\main\%_APKFILE%.apk\res\values-ru%_EXT%\
+SET _dat=D:\Android\Github\MA-XML-13-RUSSIAN\Russian\translators\
 
 IF EXIST %_src%strings.xml (
   copy %_src%strings.xml D:\Android\XMLCompare\SRC 
