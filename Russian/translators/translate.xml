@@ -775,6 +775,13 @@ mm"</string>
     <string name="notification_channel_alerts">Предупреждения</string>
     <string name="oem_unlock_enable">OEM разблокировка</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
+    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
+    <string name="offline_notification_title">Просмотр рекламы</string>
+    <string name="offline_opt_in_confirm">ОК</string>
+    <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда сеть снова будет доступна</string>
+    <string name="offline_opt_in_decline">Отмена</string>
+    <string name="offline_opt_in_message">Вы получите уведомление со ссылкой на сайт рекламодателя для просмотра, когда сеть снова будет доступна</string>
+    <string name="offline_opt_in_title">Просмотр рекламы</string>
     <string name="ok">ОК</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>
     <string name="osu_connect_failed">Не удалось подключиться</string>

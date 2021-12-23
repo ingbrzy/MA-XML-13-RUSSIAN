@@ -124,6 +124,8 @@
     <string name="auto_sound_quality">Авто</string>
     <string name="auto_update">Автообновление</string>
     <string name="auto_update_tip">Вы можете обновлять системные приложения через мобильный интернет. Это может вызвать дополнительные затраты.</string>
+    <string name="autoplay_is_off">Автовоспроизведение отключено</string>
+    <string name="autoplay_is_on">Автовоспроизведение включено</string>
     <string name="available_playlist_name_format">Новый плейлист %d</string>
     <string name="avoid_to_use_traffic_summary">Загружать онлайн музыку только по сети Wi-Fi</string>
     <string name="avoid_to_use_traffic_title">Предупреждать при использовании мобильного интернета</string>
@@ -885,7 +887,14 @@
     <string name="nowplaying_circle_style_wave">Волна</string>
     <string name="nowplaying_dialog_title_delete_tracks">Удалить трек из очереди?</string>
     <string name="nowplaying_menu_item_delete">Удалить из очереди</string>
-    <string name="ok">OK</string>
+    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
+    <string name="offline_notification_title">Просмотр рекламы</string>
+    <string name="offline_opt_in_confirm">ОК</string>
+    <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда сеть снова будет доступна</string>
+    <string name="offline_opt_in_decline">Отмена</string>
+    <string name="offline_opt_in_message">Вы получите уведомление со ссылкой на сайт рекламодателя для просмотра, когда сеть снова будет доступна</string>
+    <string name="offline_opt_in_title">Просмотр рекламы</string>
+    <string name="ok">ОК</string>
     <string name="online_apk_acquired">Получено %d%%</string>
     <string name="online_apk_acquiring">Получение… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Не удалось загрузить из-за нехватки свободного места.</string>

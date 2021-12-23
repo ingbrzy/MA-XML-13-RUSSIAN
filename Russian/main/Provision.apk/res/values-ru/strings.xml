@@ -480,7 +480,7 @@
     <string name="service_policy_adjust_content">Политика конфиденциальности Xunlei</string>
     <string name="service_policy_download"><Data>Перед использованием сервиса, прочитайте и примите &lt;a href=\"%1$s\"&gt;Политику конфиденциальности Xunlei&lt;/a &gt;.</Data></string>
     <string name="service_privacy_index">Политика конфиденциальности</string>
-    <string name="service_security_over_r"><Data>Прочтите и примите нашу &lt;a href=%1$s>Политику конфиденциальности&lt;/a>.&lt;br/>&lt;br/>В соответствии со стандартами Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>, однократное разрешение будет отозвано в течение определенного периода времени (около &lt;xliff:g example=5 сек. id=short>%3$s&lt;/xliff:g>) после завершения работы соответствующего приложения. Если приложение в течение этого периода времени будет запущено вновь, разрешение будет отозвано позже.</Data></string>	
+    <string name="service_security_over_r"><Data>Прочтите и примите нашу &lt;a href=%1$s>Политику конфиденциальности&lt;/a>.&lt;br/>&lt;br/>В соответствии со стандартами Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g>, однократное разрешение будет отозвано в течение определенного периода времени (около &lt;xliff:g example=5 сек. id=short>%3$s&lt;/xliff:g>) после завершения работы соответствующего приложения. Если приложение в течение этого периода времени будет запущено вновь, разрешение будет отозвано позже.</Data></string>
     <string name="service_sim_activation">Активация SIM-карты</string>
     <string name="servicestate_title">Заявление об основных сервисах</string>
     <string name="setting_locale">Настройка региона…</string>

@@ -49,6 +49,10 @@
     <string name="add_slide_hint">Нажмите для добавления слайда</string>
     <string name="add_smiley">Смайлик</string>
     <string name="add_timing">Таймер</string>
+    <string name="add_to_block_by_number">"%s добавлен
+в черный список"</string>
+    <string name="add_to_block_by_tag">"Сообщение, содержащее \"%s\",
+добавлено в черный список"</string>
     <string name="add_to_browser_favorite_failed">Не удалось добавить</string>
     <string name="add_to_browser_favorite_success">Успешно добавлено</string>
     <string name="add_video">Добавить видео</string>
@@ -1269,6 +1273,10 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="suspected_fraud_action">Нажмите, чтобы сообщить.</string>
+    <string name="suspected_fraud_action_tip">"Возможно, мошенничество. "</string>
+    <string name="suspected_fraud_link_tip">"Небезопасный URL. "</string>
+    <string name="suspected_fraud_tip">Возможно, мошенничество</string>
     <string name="switch_to_editor">Режим редактирования</string>
     <string name="switch_to_menu">Режим меню</string>
     <string name="system_permission_declare_agree">Принимаю</string>

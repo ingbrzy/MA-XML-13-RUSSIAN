@@ -1222,6 +1222,7 @@
     <string name="talk_back_read_date">Текущая дата: %1$s (%2$s по лунному календарю).</string>
     <string name="talk_back_setting">Настройки</string>
     <string name="talk_back_tab_switch">Переключиться между представлениями</string>
+    <string name="talk_back_tab_switch_language">Выберите язык календаря</string>
     <string name="talkback_bengali">Бенгальский</string>
     <string name="talkback_english">Английский</string>
     <string name="talkback_festival_and"> и </string>

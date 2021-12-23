@@ -185,6 +185,7 @@
     <string name="album_sort_type_name_desc">От Я до А</string>
     <string name="album_tab_page_switch_view_style_to_grid">Таблица</string>
     <string name="album_tab_page_switch_view_style_to_linear">Список</string>
+    <string name="album_tab_tool_tips">%s МБ</string>
     <string name="album_type_baby">Детский альбом</string>
     <string name="album_type_share">Общие альбомы</string>
     <string name="album_type_system">Системные альбомы</string>
@@ -665,6 +666,9 @@
     <string name="double_tap_for_hr_preview_108m">Нажмите дважды еще раз для предпросмотра 108MP</string>
     <string name="double_tap_to_higher_definition">Нажмите дважды для просмотра в HD</string>
     <string name="download_canceled">Загрузка отменена</string>
+    <string name="download_delete_error_desc">Невозможно восстановить этот файл, поскольку он удален с этого устройства и из облака. Удалить отсутствующий файл?</string>
+    <string name="download_delete_error_positive">Удалить</string>
+    <string name="download_delete_error_title">Файл отсутствует</string>
     <string name="download_error_format">Не удалось загрузить %s</string>
     <string name="download_error_tip">Загрузка прервана</string>
     <string name="download_retry_message">Не удалось загрузить файлы. Проверьте подключение и повторите попытку.</string>
@@ -1136,6 +1140,7 @@
     <string name="grant_permission_unlock_and_set_2">Разблокировать</string>
     <string name="grant_permission_write_clipboard">Для возможности копирования содержимого, разрешите приложению запись в буфер обмена</string>
     <string name="group_header_title_immutable_album">Организация фото</string>
+    <string name="group_header_title_media_group">Типы медиа</string>
     <string name="group_header_title_third_album">Еще</string>
     <string name="group_header_title_user_create_album">Мои альбомы</string>
     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
@@ -1395,7 +1400,8 @@
     <string name="map_guide_message">Посмотрите на карте где сняты фото и видео</string>
     <string name="map_location">Перейти к текущему местоположению</string>
     <string name="map_positioning_failed_tip">Не удалось получить информацию о местоположении из-за слабого сигнала</string>
-    <string name="map_privacy_dialog_message"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Для обеспечения сервиса используется Baidu Map Open SDK. Чтобы узнать больше, ознакомьтесь с &lt;a href=\"%1$s\">Политикой конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
+    <string name="map_privacy_dialog_content"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Сервис использует Baidu Map Open SDK. Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Заявление Карты галереи о совместном использовании данных третьей стороной&lt;/a>.</Data></string>
+    <string name="map_privacy_dialog_message"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Сервис использует Baidu Map Open SDK. Чтобы узнать больше, ознакомьтесь с &lt;a href=\"%1$s\">Политикой конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
     <string name="map_privacy_dialog_title">Карта галереи</string>
     <string name="map_privacy_policy">Политика конфиденциальности Карты галереи</string>
     <string name="map_privacy_policy_1">Политика конфиденциальности</string>
@@ -1407,6 +1413,18 @@
     <string name="mark_operation_processing">Обработка…</string>
     <string name="mark_operation_succeeded">Успешно добавлено</string>
     <string name="mark_people_ignore_info_message">Нажмите и удерживайте фото людей для добавления их в группы</string>
+    <string name="media_type_burst_photo">Серийные снимки</string>
+    <string name="media_type_clone_photo">Клоны</string>
+    <string name="media_type_doc_photo">Документы</string>
+    <string name="media_type_fast_motion_video">Таймлапс</string>
+    <string name="media_type_front_photo">Селфи</string>
+    <string name="media_type_gif">GIF</string>
+    <string name="media_type_live_vv">ВЛОГ</string>
+    <string name="media_type_motion_photo">Живые фото</string>
+    <string name="media_type_pano_photo">Панорама</string>
+    <string name="media_type_portrait_photo">Портрет</string>
+    <string name="media_type_raw">RAW</string>
+    <string name="media_type_slow_motion_video">Замедленное видео</string>
     <string name="megabyteShort">" МБ"</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
@@ -1543,7 +1561,7 @@
     <string name="mosaic_item_talkback_effect8">Цветы</string>
     <string name="mosaic_item_talkback_effect9">Звезды</string>
     <string name="mosaic_item_talkback_eraser">Ластик</string>
-    <string name="motion_photo_enter">Динамический снимок</string>
+    <string name="motion_photo_enter">Живые фото</string>
     <string name="motion_photo_play">Воспроизведение</string>
     <string name="move_to_other_albums_tip">Переместить в альбом Другие?</string>
     <string name="move_to_rubbish_albums_tip">Переместить выбранные альбомы в корзину?</string>
@@ -2040,6 +2058,7 @@
     <string name="privacy_map">Карта галереи</string>
     <string name="privacy_map_detail"><Data>Этот сервис позволяет отображать на карте фото и видео с информацией о местоположении. Для обеспечения сервиса используется Baidu Map Open SDK. Прежде чем продолжить, примите &lt;a href=\"%1$s\">Политику конфиденциальности Baidu Map для продуктов и сервисов Open Platform&lt;/a>.</Data></string>
     <string name="privacy_map_detail_content">Политика конфиденциальности Baidu Map для продуктов и сервисов Open Platform</string>
+    <string name="privacy_map_detail_content_new">Заявление Карты галереи о совместном использовании данных третьей стороной</string>
     <string name="privacy_permission">Разрешения</string>
     <string name="privacy_permission_account">Аккаунты</string>
     <string name="privacy_permission_account_detail">Для входа в аккаунт и синхронизации с облаком</string>
@@ -2062,9 +2081,12 @@
     <string name="privacy_permission_shotcut_detail">Для создания ярлыков на рабочем столе</string>
     <string name="privacy_permission_storage">Хранилище</string>
     <string name="privacy_permission_storage_detail">Для хранения фото и видео</string>
+    <string name="privacy_reject_map_detail_new"><Data>Отзыв согласия с&lt;a href=\"%1$s\">Заявлением Карты галереи о совместном использовании данных третьей стороной&lt;/a> будет рассматриваться как отказ от использования сервиса. Другие функции галереи по-прежнему будут доступны. Отозвать согласие?</Data></string>
     <string name="privacy_rejected">Отзыв согласия</string>
     <string name="privacy_rejected_map">Отзыв согласия с Политикой конфиденциальности Карты галереи</string>
     <string name="privacy_rejected_map_detail">Отзыв согласия с Политикой конфиденциальности Карты галереи будет расцениваться как отказ от использования сервиса. Другие основные функции и сервисы Галереи затронуты не будут. Отозвать согласие?</string>
+    <string name="privacy_rejected_map_new">Отзыв согласия с Заявлением Карты галереи о совместном использовании данных третьей стороной</string>
+    <string name="privacy_rejected_pos_btn">Отозвать</string>
     <string name="private_entry_lock_state_activated_text">Отпустите для открытия приватного альбома</string>
     <string name="private_entry_lock_state_enterd_text">Потяните вниз для открытия приватного альбома</string>
     <string name="problem_feedback">Обратная связь</string>
@@ -2756,8 +2778,8 @@
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
-    <string name="time_burst_photo_enter">Серийные снимки</string>
-    <string name="time_burst_preview_title">Серийные снимки</string>
+    <string name="time_burst_photo_enter">Серийная съемка по таймеру</string>
+    <string name="time_burst_preview_title">Серийная съемка по таймеру</string>
     <string name="time_burst_save_all">Экспортировать все</string>
     <string name="time_burst_save_dialog_title">Экспорт</string>
     <string name="time_burst_save_select">Экспортировать выбранные</string>
