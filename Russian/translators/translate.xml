@@ -545,6 +545,7 @@ ID: %s
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
+    <string name="input_length_exceeds_limit">Слишком длинный текст</string>
     <string name="input_method_function_clipboard">Буфер обмена и частые фразы</string>
     <string name="input_method_function_clipboard_des">Нажмите для просмотра содержимого буфера обмена и частых фраз</string>
     <string name="input_method_function_select_guide_title">Нажмите и удерживайте для дополнительных функций</string>
@@ -576,6 +577,12 @@ ID: %s
     <string name="local_backup_password_toast_confirmation_mismatch">Пароли не совпадают</string>
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
+    <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
+    <string name="login_by_local_phone_short_text">Вход</string>
+    <string name="login_other">Другой Mi Аккаунт</string>
+    <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
+    <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
+    <string name="login_with_sns">Другие варианты входа</string>
     <string name="long_screenshot_guide_text">"Нажмите для создания
 скриншота с прокруткой"</string>
     <string name="long_screenshot_not_support_msg">Приложение не поддерживает скриншоты с прокруткой</string>
@@ -617,6 +624,7 @@ ID: %s
     <string name="menu_pc_open">Открыть на ПК</string>
     <string name="mibi_button_count_down_finish">ОК (%1$s)</string>
     <string name="midnight">Ночь</string>
+    <string name="mishop_login_other">Другой аккаунт</string>
     <string name="miui_clock_city_name_local">Местное время</string>
     <string name="miui_clock_city_name_second">Вторые часы</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
@@ -766,6 +774,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="night">Вечер</string>
     <string name="no_application">Нет</string>
     <string name="no_network">Не удалось подключиться к сети</string>
@@ -886,6 +896,7 @@ mm"</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
+    <string name="please_agree_protocal">Примите Протокол</string>
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать в наложенном окне данные сенсора</string>
     <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>
@@ -918,13 +929,27 @@ mm"</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
+    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="protocal_dialog_cancel">Отмена</string>
+    <string name="protocal_dialog_confirm">Принимаю</string>
+    <string name="protocal_dialog_title">Внимание</string>
     <string name="provision_back">Назад</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
     <string name="radio_info_nr_available">Доступность NR:</string>
     <string name="radio_info_nr_frequency">Частота NR:</string>
     <string name="radio_info_nr_state">Состояние NR:</string>
+    <string name="register_by_local_phone_long_text">Создать аккаунт</string>
+    <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="remaining_length_format">Осталось %1$s</string>
+    <string name="request_agree">Разрешить</string>
+    <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Этому приложению для нормальной работы требуются следующие разрешения:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не предоставите такие разрешения, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему доступна. Вы всегда можете ограничить разрешения или отозвать свое разрешение в Настройках."</string>
+    <string name="request_cancel">Отмена</string>
+    <string name="request_empty_data">Данных нет</string>
+    <string name="request_error_invalid_token">Не удалось проверить</string>
+    <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
+    <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
     <string name="retail_demo_reset_message">Для сброса настроек в деморежиме введите пароль.</string>
     <string name="retail_demo_reset_next">Далее</string>
     <string name="retail_demo_reset_title">Требуется пароль</string>
@@ -1013,6 +1038,7 @@ mm"</string>
     <string name="size_mega_byte">" МБ"</string>
     <string name="size_peta_byte">" ПБ"</string>
     <string name="size_tera_byte">" ТБ"</string>
+    <string name="skip_query_account">Пропустить</string>
     <string name="softap_beacon_protection">Включить защиту SoftAp Beacon</string>
     <string name="softap_beacon_protection_summary">Включить защиту SoftAp Beacon  с использованием точки доступа</string>
     <string name="softap_ocv">Включить SoftAp OCV</string>
@@ -1064,6 +1090,7 @@ mm"</string>
     <string name="support_go_back_descirption">Перейти назад</string>
     <string name="support_next_button_label">Далее</string>
     <string name="support_skip_button_label">Пропустить</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
     <string name="tether_settings_title_all">Модем и точка доступа</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
@@ -1164,6 +1191,7 @@ mm"</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="unknown">Неизвестно</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="usb_audio_disable_routing">Отключить передачу звука по USB</string>
     <string name="usb_audio_disable_routing_summary">Отключить автоматическую передачу звука на внешние USB-устройства</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
@@ -1181,11 +1209,24 @@ mm"</string>
 Любой пользователь может обновлять приложения для всех остальных пользователей."</string>
     <string name="user_add_user_title">Добавить нового пользователя?</string>
     <string name="user_add_user_type_title">Добавить</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a> При первом входе в систему будет автоматически создан аккаунт Xiaomi."</Data></string>
+    <string name="user_agreement_hint_first_login">"Если вы впервые используете свой номер телефона, аккаунт будет создан автоматически."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
     <string name="user_guest">Гость</string>
     <string name="user_image_choose_photo">Выбрать изображение</string>
     <string name="user_image_photo_selector">Выбрать фото</string>
     <string name="user_image_take_photo">Сделать фото</string>
     <string name="user_info_settings_title">Информация о пользователе</string>
+    <string name="user_name_phone_number">Номер телефона</string>
     <string name="user_need_lock_message">Перед созданием ограниченного профиля необходимо настроить блокировку экрана для защиты приложений и персональных данных.</string>
     <string name="user_new_profile_name">Новый профиль</string>
     <string name="user_new_user_name">Новый пользователь</string>

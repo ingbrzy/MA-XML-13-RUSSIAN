@@ -34,6 +34,7 @@
     <string name="about_newest">Карусель обоев устарела.</string>
     <string name="about_permission">Разрешения</string>
     <string name="about_update">Обновление</string>
+    <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -251,6 +252,9 @@ ID:%s
     <string name="disable_dlg_title">Карусель обоев</string>
     <string name="dislike">Удалить</string>
     <string name="dlg_cancel">Отмена</string>
+    <string name="doing_login">Вход…</string>
+    <string name="doing_query_account">Проверка информации об аккаунте…</string>
+    <string name="doing_register">Создание аккаунта…</string>
     <string name="dot_and_space">• </string>
     <string name="double_click_to_exit_activity">Нажмите еще раз для выхода</string>
     <string name="early_morning">Утро</string>
@@ -304,12 +308,15 @@ ID:%s
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 аккаунтов. Невозможно добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
+    <string name="getverifycode_seconde">сек.</string>
     <string name="google_application_id"/>
     <string name="goto_confirm">Настройки</string>
     <string name="goto_sign_up">Создать аккаунт</string>
+    <string name="header_help">Помощь</string>
     <string name="history_list_no_data">Ничего нет</string>
     <string name="hour_1">Каждый час</string>
     <string name="hour_3">Каждые 3 часа</string>
+    <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="idbct_desc">Выбор качества загружаемых обоев</string>
     <string name="idbct_opt_auto_select_desc_text">Загружать в стандартном качестве по мобильному 
@@ -323,6 +330,7 @@ ID:%s
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения аккаунта</string>
+    <string name="input_length_exceeds_limit">Слишком длинный текст</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="isornot_your_mi_account">Это ваш Mi Аккаунт?</string>
     <string name="just_a_second">Подождите…</string>
@@ -382,6 +390,12 @@ ID:%s
     <string name="login_app">Вход</string>
     <string name="login_app_cancel">Отмена</string>
     <string name="login_app_confirm">Войти</string>
+    <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
+    <string name="login_by_local_phone_short_text">Вход</string>
+    <string name="login_other">Другой Mi Аккаунт</string>
+    <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
+    <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
+    <string name="login_with_sns">Другие варианты входа</string>
     <string name="login_xiaomi_account_summary">Я принимаю &lt;font color ='#0D84FF'>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/font>&lt;/a> и &lt;font color ='#0D84FF'>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/font>&lt;/a> Mi Аккаунта.</string>
     <string name="logout">Выход</string>
     <string name="logout_account">Выйти из аккаунта</string>
@@ -398,6 +412,7 @@ ID:%s
     <string name="midnight">Ночь</string>
     <string name="minutes_15">Каждые 15 минут</string>
     <string name="minutes_5">Каждые 5 минут</string>
+    <string name="mishop_login_other">Другой аккаунт</string>
     <string name="miui_clock_city_name_local">Местное время</string>
     <string name="miui_clock_city_name_second">Вторые часы</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
@@ -521,6 +536,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="need_open_gallery">Включить Карусель обоев</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="new_feature_title">Что нового</string>
     <string name="nick_name">Имя</string>
     <string name="night">Вечер</string>
@@ -549,6 +566,7 @@ mm"</string>
     <string name="open_gallery">Карусель обоев</string>
     <string name="open_gallery_tips">Нажмите, чтобы включить Карусель обоев</string>
     <string name="open_guid_des">Перейдите в Настройки &gt; Приложения &gt; Разрешения &gt; Другие разрешения &gt; Карусель обоев и дайте приложению все необходимые разрешения.</string>
+    <string name="open_settings">Настройки</string>
     <string name="open_sub_title">Выберите категории</string>
     <string name="open_title">Карусель обоев</string>
     <string name="open_unable">"Карусель обоев работает только со стандартным экраном блокировки MIUI."</string>
@@ -661,6 +679,7 @@ mm"</string>
     <string name="platform_unavailable_wechat">Установите WeChat</string>
     <string name="platform_unavailable_wechatmoment">Установите WeChat</string>
     <string name="platform_unavailable_weibo">Установите Weibo</string>
+    <string name="please_agree_protocal">Примите Протокол</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_setting">Настройки конфиденциальности</string>
@@ -672,6 +691,10 @@ mm"</string>
     <string name="privacy_update_summary3">Вы не сможете использовать Карусель обоев, если не примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?</string>
     <string name="privacy_update_title1">Обновленная политика конфиденциальности</string>
     <string name="privacy_update_title2">Внимание</string>
+    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="protocal_dialog_cancel">Отмена</string>
+    <string name="protocal_dialog_confirm">Принимаю</string>
+    <string name="protocal_dialog_title">Внимание</string>
     <string name="prv_end">Больше ничего нет</string>
     <string name="prv_loading">Подождите…</string>
     <string name="prv_nodata">Нет данных</string>
@@ -690,8 +713,18 @@ mm"</string>
     <string name="recommend_switch_dlg_title">Отключить рекомендации?</string>
     <string name="recommend_switch_title">Рекомендации</string>
     <string name="refresh_network">Обновить</string>
+    <string name="register_by_local_phone_long_text">Создать аккаунт</string>
+    <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="remove">Удалить</string>
     <string name="req_permission_dis_tip">Требуются разрешения</string>
+    <string name="request_agree">Разрешить</string>
+    <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Этому приложению для нормальной работы требуются следующие разрешения:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не предоставите такие разрешения, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему доступна. Вы всегда можете ограничить разрешения или отозвать свое разрешение в Настройках."</string>
+    <string name="request_cancel">Отмена</string>
+    <string name="request_empty_data">Данных нет</string>
+    <string name="request_error_invalid_token">Не удалось проверить</string>
+    <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
+    <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
     <string name="require_permission">Требуются разрешения</string>
     <string name="require_permission_text">Разрешите Карусели обоев доступ к памяти устройства для сохранения и просмотра файлов</string>
     <string name="resend_active_email">Отправить снова</string>
@@ -771,6 +804,7 @@ mm"</string>
     <string name="sign_in">Войти</string>
     <string name="sign_in_progress">Вход…</string>
     <string name="sign_in_title">Войти с помощью Mi Аккаунта</string>
+    <string name="skip_query_account">Пропустить</string>
     <string name="sliding_on_unlock">Свайп вверх для разблокировки</string>
     <string name="sms_send_success">Успешно отправлено</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
@@ -895,6 +929,7 @@ mm"</string>
     <string name="sure_close_gallery">Отключить Карусель обоев?</string>
     <string name="sure_close_gallery_des">Вы не сможете получать обновляемые обои на рабочий стол и экран блокировки, если отключите Карусель обоев. Выключить?</string>
     <string name="system_default">По умолчанию</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="tab_user_title_bar_text">Настройки</string>
     <string name="tb_collapse_desc">Скрыть меню \"Поделиться\"</string>
     <string name="temporary_not_available">Эта функция еще недоступна</string>
@@ -985,15 +1020,29 @@ mm"</string>
     <string name="uninstall_introduction_text_title">О Карусели обоев</string>
     <string name="uninstall_warning_text_desc">Удалив Карусель обоев, вы не сможете получать регулярно обновляемые обои на экран блокировки. Но вы можете позже снова загрузить и установить приложение. Удалить приложение?</string>
     <string name="uninstall_warning_text_title">Удаление</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="update_email_address_dialog_message">Перед обновлением адреса почты необходимо подтвердить вашу личность.</string>
     <string name="update_email_address_dialog_title">Обновление адреса</string>
     <string name="update_phone_notice">Настройки безопасности</string>
     <string name="upload_error_log">Отправить журнал</string>
     <string name="user_ac_click_to_login">Нажмите для входа</string>
     <string name="user_ac_not_login">Вход</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a> При первом входе в систему будет автоматически создан аккаунт Xiaomi."</Data></string>
+    <string name="user_agreement_hint_first_login">"Если вы впервые используете свой номер телефона, аккаунт будет создан автоматически."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Электронная почта/Телефон</string>
+    <string name="user_name_phone_number">Номер телефона</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="v_code_title">Введите 2-шаговый проверочный код</string>
