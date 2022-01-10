@@ -430,6 +430,9 @@
     <string name="slavewifi_disconnect">Отключить</string>
     <string name="slavewifi_notification_title">Использование двухдиапазонного Wi-Fi</string>
     <string name="slavewifi_settings">Нажмите для изменения настроек</string>
+    <string name="small_freeform_check_memory_exception_message">Ошибка памяти в приложении %1$s. Закройте это приложение.</string>
+    <string name="small_freeform_check_memory_exception_negative_message">Отмена</string>
+    <string name="small_freeform_check_memory_exception_positive_message">Закрыть</string>
     <string name="small_freeform_enter_warning">Плавающее окно</string>
     <string name="small_freeform_exit_tip">Закройте плавающее окно</string>
     <string name="small_freeform_memory_toast_app_type">Не удалось открыть. Приложение требует слишком много памяти для работы.</string>
@@ -522,9 +525,12 @@
     <string name="voice_button_action_up">Нажмите и говорите</string>
     <string name="voice_input_error_network">Не удалось подключиться к сети. Проверьте настройки и повторите попытку.</string>
     <string name="voice_input_error_other">Произошла ошибка. Подождите немного и повторите попытку.</string>
+    <string name="wallpaper_group_black_gobi_title">Пески Гоби</string>
     <string name="wallpaper_group_black_white_title">Черное и белое</string>
     <string name="wallpaper_group_color_move_title">Жидкие цвета</string>
     <string name="wallpaper_group_concerto_title">Концерт</string>
+    <string name="wallpaper_group_crystallization_subtitle">Красота науки</string>
+    <string name="wallpaper_group_crystallization_title">Кристаллизация</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Тен ван дер Залм</string>
     <string name="wallpaper_group_dynamic_nebula_title">Динамическая туманность</string>
     <string name="wallpaper_group_geometric_subtitle">Рутгер Паулюсс</string>

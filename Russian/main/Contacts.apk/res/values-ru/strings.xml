@@ -960,6 +960,7 @@
     <string name="ic_menu_back">Назад</string>
     <string name="ic_menu_done">Готово</string>
     <string name="icon_content_description">Иконка диалога</string>
+    <string name="identify_numbers_text">Включите идентификацию абонента для определения спам-вызовов</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
     <string name="imei_invalid">Неверный IMEI</string>

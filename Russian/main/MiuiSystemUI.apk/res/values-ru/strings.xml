@@ -1344,6 +1344,7 @@
     <string name="input_pin_code">Введите PIN-код</string>
     <string name="input_pin_hint_text_v11">Введите PIN-код</string>
     <string name="input_puk_code">Введите PUK-код</string>
+    <string name="input_second_pattern_after_restart_msg">Чтобы продолжить, подтвердите пароль второго пространства</string>
     <string name="install_other_apps">Ненадежные источники</string>
     <string name="installer_cd_button_title">Установить Android File Transfer для Mac</string>
     <string name="instant_apps">Приложения с мгновенным запуском</string>
@@ -2409,6 +2410,8 @@ mm"</string>
     <string name="quick_settings_financed_disclosure_named_management">Устройство предоставлено %s</string>
     <string name="quick_settings_flashlight_camera_in_use">Камера используется</string>
     <string name="quick_settings_flashlight_label">Фонарик</string>
+    <string name="quick_settings_googlehome_label">Google Home</string>
+    <string name="quick_settings_googlepay_label">Google Pay</string>
     <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_header_onboarding_text">Нажмите и удерживайте значки для дополнительных параметров</string>
     <string name="quick_settings_hotspot_label">Точка доступа</string>

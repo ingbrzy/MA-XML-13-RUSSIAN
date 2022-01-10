@@ -22,6 +22,7 @@
     <string name="default_filedownloader_notification_title">Загрузчик файлов</string>
     <string name="dialog_3g_desc">Помните, что использование мобильных данных для загрузки прошивки может привести к повышенному расходу вашего траффика.</string>
     <string name="dialog_3g_title">Внимание!</string>
+    <string name="dialog_ab">Устройство поддерживает \"Бесшовное обновление системы", выберите \"Слот A\" при появлении запроса в TWRP!</string>
     <string name="dialog_btn_3g">Все равно продолжить</string>
     <string name="dialog_btn_wifi">Переключиться на Wi-Fi</string>
     <string name="dialog_stop_desc">Вы можете приостановить или остановить загрузку, сделайте выбор сейчас.</string>

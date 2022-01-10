@@ -271,6 +271,7 @@
     <string-array name="entries_pref_key_voice_report"></string-array>
     <string-array name="entries_sms_validity_period_value"></string-array>
     <string-array name="eras"></string-array>
+    <string-array name="error_message_respond_revert"></string-array>
     <string-array name="etws_alerts_range_strings"></string-array>
     <string-array name="etws_test_alerts_range_strings"></string-array>
     <string-array name="eu_regions"></string-array>

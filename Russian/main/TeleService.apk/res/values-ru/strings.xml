@@ -1187,6 +1187,8 @@
     <string name="fiveg_sa_vice_switch_summary">Разрешить вторичной SIM-карте использовать независимую сеть 5G</string>
     <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
     <string name="fiveg_signal_strength1">Сила сигнала 5G :</string>
+    <string name="fiveg_switch_per_slot_summary">Использование 5G для увеличения скорости мобильного интернета</string>
+    <string name="fiveg_switch_per_slot_title">5G</string>
     <string name="fiveg_switch_status1">Состояние переключателя 5G :</string>
     <string name="fiveg_switch_title">Сеть 5G</string>
     <string name="fiveg_upperlayer_indication1">Состояние индикации верхнего уровня :</string>

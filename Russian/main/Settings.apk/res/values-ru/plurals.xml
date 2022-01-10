@@ -164,6 +164,10 @@
         <item quantity="few">%d доступных устройства</item>
         <item quantity="one">%d доступное устройство</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Каждые %d сек.</item>
         <item quantity="one">Каждую %d сек.</item>

@@ -35,6 +35,10 @@
     <string name="airplane_error_msg">В режиме полета нельзя использовать Bluetooth.</string>
     <string name="airplane_error_title">Режим полета</string>
     <string name="app_name">Bluetooth</string>
+    <string name="aptx_notification_aptx">Это устройство поддерживает Qualcomm® aptX™</string>
+    <string name="aptx_notification_aptx_adaptive">Это устройство поддерживает Qualcomm® aptX™ Adaptive</string>
+    <string name="aptx_notification_aptx_hd">Это устройство поддерживает Qualcomm® aptX™ HD</string>
+    <string name="aptx_notification_title">Bluetooth</string>
     <string name="auth_notif_message">Введите ключ сеанса для %1$s</string>
     <string name="auth_notif_ticker">Запрос на аутентификацию Obex</string>
     <string name="auth_notif_title">Ключ сеанса</string>

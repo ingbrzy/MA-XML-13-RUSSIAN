@@ -72,6 +72,7 @@
     <string name="calories_logo_text">Поддержка AI предоставляется Health Hope</string>
     <string name="calories_request_interface_text">Поддержка AI</string>
     <string name="camera_error_title">Ошибка Камеры</string>
+    <string name="camera_permissions_text">Для использования этой функции, разрешите Сканеру доступ к камере</string>
     <string name="camera_stealth_mode_message">Камера недоступна. Отключите режим инкогнито.</string>
     <string name="camera_stealth_mode_title">Режим инкогнито</string>
     <string name="can_only_be_English_Chinese">Языком онлайн-перевода может быть только английский или упрощенный китайский.</string>
@@ -249,6 +250,7 @@
     <string name="food_module_thumbs_up">Нравится</string>
     <string name="food_module_tip">Поместите объект в рамку</string>
     <string name="food_module_title_food">Калории</string>
+    <string name="format_error">Неверный пароль</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -300,6 +302,8 @@
     <string name="kuaidi100_data">Обеспечено Kuaidi 100</string>
     <string name="label_choose_picture">Выбор изображения</string>
     <string name="label_flash_light">Вспышка</string>
+    <string name="label_flash_light_off">Фонарик отключен</string>
+    <string name="label_flash_light_on">Фонарик включен</string>
     <string name="language_entry_chinese_cn">Китайский (упрощенный)</string>
     <string name="language_entry_english">Английский</string>
     <string name="language_entry_french">Французский</string>
@@ -353,6 +357,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
@@ -662,6 +667,7 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="spaceIsLow_content">Недостаточно места в хранилище. Освободите место.</string>
+    <string name="storage_permissions_text">Для использования этой функции, разрешите Сканеру доступ к хранилищу</string>
     <string name="store_feedback_prompt">Напишите отзыв</string>
     <string name="store_location_dialog">Сервис предоставляется Dianping. Все фотографии, сделанные вами во время использования этого сервиса, включая информацию о местоположении, будут переданы в Dianping для получения информации о магазинах.</string>
     <string name="store_location_fail">Не удалось получить информацию о местоположении</string>
@@ -682,6 +688,7 @@
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="switch_open">Включить</string>
+    <string name="switchover">Переключить</string>
     <string name="take_a_picture">Камера</string>
     <string name="take_the_word">Поместите слово в поле и нажмите, чтобы получить слово</string>
     <string name="taobao">Taobao</string>

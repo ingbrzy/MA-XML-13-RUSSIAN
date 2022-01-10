@@ -1500,4 +1500,9 @@ mm"</string>
     <string name="zen_mode_forever">До отключения</string>
     <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Включите режим \"Не беспокоить\"</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Перетащите угол, чтобы свернуть приложение</string>
+    <string name="multi_window_cvw_summary_global">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
+    <string name="multi_window_cvw_title">Плавающее окно</string>
+	
 </resources>

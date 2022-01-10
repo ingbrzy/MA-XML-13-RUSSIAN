@@ -1193,6 +1193,8 @@ mm"</string>
     <string name="shortcut_message">Создайте ярлык на рабочем столе!</string>
     <string name="shortcut_show_tip">Больше не показывать</string>
     <string name="shortcut_title">Нравятся наши обои?</string>
+    <string name="show_exchange">Ярлык центра обмена</string>
+    <string name="show_exchange_desc">Скрытие или отображение ярлыка центра обмена</string>
     <string name="show_free_aod">Показать бесплатные темы</string>
     <string name="show_free_font">Показать бесплатные шрифты</string>
     <string name="show_free_icons">Показать бесплатные иконки</string>
@@ -1207,6 +1209,8 @@ mm"</string>
     <string name="show_mamual_hide_theme">Показать скрытые темы</string>
     <string name="show_mamual_hide_wallpaper">Показать скрытые обои</string>
     <string name="show_phone_wallpaper">Показать обои на устройстве</string>
+    <string name="show_theme_community">Ярлык сообщества</string>
+    <string name="show_theme_community_desc">Отображение или скрытие ярлыка сообщества тем</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -1246,6 +1250,7 @@ mm"</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Местоположение</string>
     <string name="super_wallpaper_setting_coordinate_title">Координаты</string>
     <string name="super_wallpaper_setting_view_height_title">Высота</string>
+    <string name="supersave_mode_toast_message">Функция недоступна при включенной ультраэкономии заряда. Отключите ультраэкономию заряда.</string>
     <string name="support_theme_store_des">Хорошие темы создаются талантливыми дизайнерами. Наше приложение содержит небольшое количество рекламы, которая позволяет нам поддерживать их работу.</string>
     <string name="support_theme_store_supported">Спасибо за поддержку!</string>
     <string name="support_theme_store_title">Поддержка дизайнеров</string>

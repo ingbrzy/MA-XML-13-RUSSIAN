@@ -1221,6 +1221,7 @@
     <string name="input_or_select_a_name">Введите или выберите имя</string>
     <string name="input_relation_name">Введите имя группы</string>
     <string name="install_fail">Не удалось загрузить плагин из-за ошибки.</string>
+    <string name="install_media_editor_function_message">Для возможности использования \"%1$s\" загрузите последнюю версию редактора галереи.</string>
     <string name="install_media_editor_latest_message">Для возможности редактирования загрузите последнюю версию плагина.</string>
     <string name="install_media_editor_message">Для возможности редактирования необходимо загрузить плагин. Загрузить?</string>
     <string name="install_media_editor_title">Загрузка плагина</string>

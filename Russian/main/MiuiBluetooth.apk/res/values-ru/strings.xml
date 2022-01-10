@@ -140,6 +140,7 @@
     <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Использовать для BA</string>
     <string name="bluetooth_connected">Подключено</string>
+    <string name="bluetooth_connected_active">Подключено %1$s</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Батарея %1$s%2$s</string>

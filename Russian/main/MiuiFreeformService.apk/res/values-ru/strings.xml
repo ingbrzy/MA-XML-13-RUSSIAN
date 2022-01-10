@@ -67,6 +67,8 @@
     <string name="freeform_demo_previous_tutorial">Назад</string>
     <string name="freeform_demo_title_finish">Отлично!</string>
     <string name="freeform_demo_title_skip">Пропустить</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_slide_to_small_freeform">Уменьшение окна</string>
     <string name="freeform_slide_to_small_freeform_summary">Нажмите и переместите панель действий плавающего окна в правый верхний угол</string>
     <string name="freeform_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
@@ -156,6 +158,8 @@
     <string name="morning">Утро</string>
     <string name="multi_window_cvw">Плавающее окно</string>
     <string name="multi_window_cvw_summary">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
+    <string name="multi_window_cvw_summary_global">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
+    <string name="multi_window_cvw_title">Плавающее окно</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>

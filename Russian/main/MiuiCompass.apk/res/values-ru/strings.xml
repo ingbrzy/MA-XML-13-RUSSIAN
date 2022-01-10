@@ -51,6 +51,7 @@
     <string name="calibrate_success">Калибровка завершена</string>
     <string name="calibrate_tip">Наклоняйте устройство так, чтобы шар катился по кругу</string>
     <string name="calibrate_title">Калибровка компаса</string>
+    <string name="calibrating">Калибровка компаса</string>
     <string name="cancel">Отмена</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -189,6 +190,7 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
+    <string name="new_cta_app_purpose">Отображение направления и координат</string>
     <string name="new_cta_v2_app_purpose">Отображение направления, координат, атмосферного давления и текущей высоты</string>
     <string name="new_permission_camera_desc">Для калибровки</string>
     <string name="new_permission_location_desc">Для отображения координат</string>

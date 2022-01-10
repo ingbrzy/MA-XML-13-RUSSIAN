@@ -395,6 +395,8 @@
     <string name="mi_router_label">Роутер</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Ночь</string>
+    <string name="midriver_install_button_text">Установить</string>
+    <string name="midriver_not_install_title">Mi Drive не установлен</string>
     <string name="midrop_msg_1">Включите Mi Drop на другом устройстве</string>
     <string name="midrop_msg_2">После включения Mi Drop вы сможете искать устройства поблизости и отправлять файлы</string>
     <string name="midrop_send_files">Выберите файлы для отправки</string>
@@ -657,6 +659,7 @@
     <string name="refresh_fail">Ошибка обновления</string>
     <string name="refresh_success">Обновление завершено</string>
     <string name="refreshing">Обновление</string>
+    <string name="reinstall_midriver_message">Переустановить?</string>
     <string name="release_enter_private">Отпустите, чтобы открыть приватную папку</string>
     <string name="release_refresh">Отпустите для обновления</string>
     <string name="remainder_size">| %s доступно</string>

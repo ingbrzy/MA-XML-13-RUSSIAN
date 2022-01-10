@@ -452,6 +452,7 @@
     <string name="video_call_downgrade_insufficient_bandwidth">Недостаточная пропускная способность, переход на голосовой вызов</string>
     <string name="video_conference_caller_info_name">Видео-конференц-вызов пользователя %1$s</string>
     <string name="video_crbt_title">Видеосигнал обратного вызова другой стороны</string>
+    <string name="voice_control_deny_permission_msg">Голосовое управление недоступно. Разрешите этому приложению запись звука.</string>
     <string name="voicemail">Голосовая почта</string>
     <string name="volte_call">VoLTE вызов</string>
     <string name="volume_boost_text">Громкость увеличена</string>

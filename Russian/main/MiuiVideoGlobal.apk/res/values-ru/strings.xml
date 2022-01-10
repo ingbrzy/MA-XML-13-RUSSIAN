@@ -610,6 +610,7 @@ ID: %s
     <string name="galleryplus_v_dialog_hint_too_long">Слишком длинное имя файла</string>
     <string name="galleryplus_v_network_failed">Не удалось подключиться к сети</string>
     <string name="galleryplus_v_ok">ОК</string>
+    <string name="galleryplus_video_circulate_quit">Нажмите для выхода</string>
     <string name="galleryplus_video_edit_save_video">Создание видео с субтитрами…</string>
     <string name="galleryplus_vp_hardware_unsported">Это видео не может быть воспроизведено на вашем устройстве</string>
     <string name="galleryplus_vp_videoview_error_button">Понятно</string>
@@ -947,6 +948,8 @@ ID: %s
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="neverthink_player_loading">Загрузка видео с Neverthink…</string>
     <string name="new_channel_tip">Взгляните на новые каналы!</string>
+    <string name="newyearfestival_go_to_draw_prizes">Розыгрыш призов</string>
+    <string name="newyearfestival_watch_the_video_to_draw_prizes">Посмотрите видео для участия в розыгрыше призов</string>
     <string name="next">Далее</string>
     <string name="next_step">Далее</string>
     <string name="nick_name">Псевдоним</string>
@@ -982,6 +985,13 @@ ID: %s
     <string name="notify_apk_installed">Загрузка завершена</string>
     <string name="off">[откл.]</string>
     <string name="off_tip_firework_recommend">Вы больше не будете получать персонализированные рекомендации по контенту от Firework.</string>
+    <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
+    <string name="offline_notification_title">Просмотр рекламы</string>
+    <string name="offline_opt_in_confirm">ОК</string>
+    <string name="offline_opt_in_confirmation">Вы получите уведомление со ссылкой, когда сеть снова будет доступна</string>
+    <string name="offline_opt_in_decline">Отмена</string>
+    <string name="offline_opt_in_message">Вы получите уведомление со ссылкой на сайт рекламодателя для просмотра, когда сеть снова будет доступна</string>
+    <string name="offline_opt_in_title">Просмотр рекламы</string>
     <string name="ok">ОК</string>
     <string name="on_tip_firework_recommend">Включены персонализированные рекомендации по контенту от Firework</string>
     <string name="open_settings">Настройки</string>
@@ -1218,6 +1228,7 @@ ID: %s
     <string name="plus_deleting_wait">Удаление</string>
     <string name="plus_fallback">Отзыв</string>
     <string name="plus_gallery_allvideos">Все видео</string>
+    <string name="plus_gallery_files">Файлы</string>
     <string name="plus_gallery_folder_switch_guid">Нажмите для переключения вида</string>
     <string name="plus_gallery_mediatype_aimusic">Саундтреки</string>
     <string name="plus_gallery_mediatype_changtu">Длинные изображения</string>
@@ -1450,6 +1461,9 @@ ID: %s
     <string name="share_ugc_waitting">Создание ссылки…</string>
     <string name="show_the_location">Тип уведомлений</string>
     <string name="sign_in">Выполняется вход</string>
+    <string name="sign_in_google_account">Вход с аккаунтом Google</string>
+    <string name="sign_in_google_account_hint">Войдите в свой аккаунт Google, чтобы увидеть больше видео</string>
+    <string name="sign_in_mi_account">Вход c Mi аккаунтом</string>
     <string name="sign_in_progress">Выполняется вход…</string>
     <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
     <string name="slid_fail_message">Не удалось сохранить видео</string>
@@ -1555,6 +1569,7 @@ ID: %s
     <string name="tab_name_video">Видео</string>
     <string name="talkback_ad_clicked">Реклама</string>
     <string name="talkback_background_playback">Фоновое воспроизведение</string>
+    <string name="talkback_voice_search">Голосовой поиск</string>
     <string name="target_sdk_version_30_upgrade_tips">Некоторые видео могут быть недоступны для просмотра из-за ограничений Android 11. Нажмите \"Файлы\", чтобы найти другие видео</string>
     <string name="temporary_not_available">Эта функция пока недоступна</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>

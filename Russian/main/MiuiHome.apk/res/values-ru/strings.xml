@@ -437,6 +437,7 @@
     <string name="menu_lock">Защитить от изменений</string>
     <string name="menu_more">Еще</string>
     <string name="menu_new_display_open">Открыть в новом окне</string>
+    <string name="menu_no_word">Скрыть названия ярлыков</string>
     <string name="menu_pc_open">Открыть на ПК</string>
     <string name="menu_picktheme">Выбор темы</string>
     <string name="menu_reset_scene">Сбросить по умолчанию</string>
@@ -647,6 +648,10 @@
     <string name="recents_title_market">Магазин приложений</string>
     <string name="recents_title_security_scan">Антивирус</string>
     <string name="recents_tv_small_window_text">Плавающие окна</string>
+    <string name="recents_worldcirculate_text">Отпустите, чтобы выбрать</string>
+    <string name="recnets_worldcirculate_display_computer_info">Приложение работает на %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Нажмите, чтобы вернуть его сюда.</string>
+    <string name="recnets_worldcirculate_display_pad_info">Приложение работает на %s.</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
     <string name="recommend_app">Недавние приложения</string>
     <string name="recommend_apps_default_title">Пусто</string>
