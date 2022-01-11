@@ -647,6 +647,8 @@
     <string name="aod_style_description">Отображение часов, даты, времени, уведомлений и других элементов при выключенном экране</string>
     <string name="aod_style_title">Стиль</string>
     <string name="aod_to_close">Выключить</string>
+    <string name="ap_connect_failed">ошибка подключения</string>
+    <string name="ap_connected_battery_level">" | заряд %1$s"</string>	
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Тип аутентификации</string>
     <string name="apn_auth_type_chap">CHAP</string>
