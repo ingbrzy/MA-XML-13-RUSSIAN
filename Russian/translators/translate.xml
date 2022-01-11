@@ -495,8 +495,8 @@ ID: %s
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Запрещено</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки для %1$s</string>
-    <string name="fiveg_sa_switch_summary">Использовать сеть SA на вторичной SIM-карте (только для тестирования)</string>
-    <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
+    <string name="fiveg_sa_switch_summary">Использовать сеть SA на дополнительной SIM-карте (только для тестирования)</string>
+    <string name="fiveg_sa_vice_switch_title">SA на дополнительной SIM-карте</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>

@@ -3648,8 +3648,8 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключиться к Интернету с помощью Wi-Fi.</string>
     <string name="firmware_version">Версия Android</string>
-    <string name="fiveg_sa_switch_summary">Использовать сеть SA на вторичной SIM-карте (только для тестирования)</string>
-    <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
+    <string name="fiveg_sa_switch_summary">Использовать сеть SA на дополнительной SIM-карте (только для тестирования)</string>
+    <string name="fiveg_sa_vice_switch_title">SA на дополнительной SIM-карте</string>
     <string name="fix_connectivity">Исправить проблемы с подключением</string>
     <string name="flash_drive_backup_disable">Подключите USB-накопитель</string>
     <string name="flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования или восстановления</string>
@@ -8642,9 +8642,9 @@ UT-интерфейс: %5$s"</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
     <string name="speed_mode">Скоростной режим</string>
-    <string name="speed_mode_noti_summary">Включение скоростного режима увеличит расход заряда и нагрев.</string>
+    <string name="speed_mode_noti_summary">Включение скоростного режима увеличит расход батареи и нагрев.</string>
     <string name="speed_mode_noti_title">Скоростной режим</string>
-    <string name="speed_mode_summary">Максимальная производительность. Расход заряда и нагрев увеличатся, используйте с осторожностью.</string>
+    <string name="speed_mode_summary">Максимальная производительность. Расход батареи и нагрев увеличатся, используйте с осторожностью.</string>
     <string name="spell_checker_master_switch_title">Включить проверку орфографии</string>
     <string name="spell_checker_not_selected">Не выбрано</string>
     <string name="spell_checker_primary_switch_title">Включить проверку правописания</string>

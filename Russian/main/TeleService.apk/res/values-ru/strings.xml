@@ -1184,8 +1184,8 @@
     <string name="fiveg_sa_switch_summary">Разрешить подключение к сетям 5G в автономном режиме</string>
     <string name="fiveg_sa_switch_title">Использовать сеть SA</string>
     <string name="fiveg_sa_switch_warning_toast">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
-    <string name="fiveg_sa_vice_switch_summary">Разрешить вторичной SIM-карте использовать независимую сеть 5G</string>
-    <string name="fiveg_sa_vice_switch_title">SA на вторичной SIM-карте</string>
+    <string name="fiveg_sa_vice_switch_summary">Использовать независимую сеть 5G на дополнительной SIM-карте</string>
+    <string name="fiveg_sa_vice_switch_title">SA на дополнительной SIM-карте</string>
     <string name="fiveg_signal_strength1">Сила сигнала 5G :</string>
     <string name="fiveg_switch_per_slot_summary">Использование 5G для увеличения скорости мобильного интернета</string>
     <string name="fiveg_switch_per_slot_title">5G</string>
@@ -2533,7 +2533,7 @@ UT-интерфейс: %5$s"</string>
     <string name="skt_msim_emm_cause_7_8_15">SIM %d не удалось зарегистрировать сеть. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, свяжитесь со службой поддержки (1599-0011).</string>
     <string name="smart_divert_summary">Настройки CFNRc</string>
     <string name="smart_divert_title">Умное перенаправление</string>
-    <string name="smart_dual_sim_prompt">При плохом соединении на основной SIM-карте, устройство будет использовать мобильный интернет вторичной SIM-карты. Установите лимит мобильного трафика, чтобы избежать дополнительных расходов.</string>
+    <string name="smart_dual_sim_prompt">При плохом соединении на основной SIM-карте, устройство будет использовать мобильный интернет дополнительной SIM-карты. Установите лимит мобильного трафика, чтобы избежать дополнительных расходов.</string>
     <string name="smart_dual_sim_prompt_ok">Настройки</string>
     <string name="smart_dual_sim_prompt_title">Мобильный интернет (SIM %s)</string>
     <string name="smart_dual_sim_summary">Автоматическое переключение на SIM-карту с лучшим подключением к мобильному интернету</string>

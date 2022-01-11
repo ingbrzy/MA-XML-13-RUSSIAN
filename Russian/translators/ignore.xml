@@ -705,6 +705,8 @@
     <string name="back_equuleus">2:SHOT ON MI 8 UD:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_equuleus_global">2:SHOT ON MI 8 PRO:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_evergo">2:REDMI NOTE 11 5G</string>
+    <string name="back_evergoin">2:REDMI NOTE 11T 5G</string>
+    <string name="back_evergreen">2:POCO M4 PRO 5G</string>
     <string name="back_excalibur">4:REDMI NOTE 9 PRO:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_excalibur_india">4:REDMI NOTE 9 PRO MAX:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_galahad">4:SHOT ON MI 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
@@ -744,7 +746,9 @@
     <string name="back_limegl">4:REDMI 9 POWER</string>
     <string name="back_limegl_global">4:REDMI 9T</string>
     <string name="back_limein">4:SHOT ON MI PHONE</string>
+    <string name="back_lisa">3:MI 11 LE</string>
     <string name="back_lisa_global">3:XIAOMI 11 LITE 5G NE</string>
+    <string name="back_lisa_india">3:XIAOMI 11 LITE NE</string>
     <string name="back_lmi">4:REDMI K30 PRO:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_lmi_global">0:POCO:SHOT ON POCO F2 PRO:SHOT ON POCO F2 PRO</string>
     <string name="back_lmiin_india">4:REDMI K30 PRO 5G:AI QUAD CAMERA:64MP QUAD CAMERA</string>
@@ -2248,10 +2252,12 @@
     <string name="front_laurus">1:SHOT ON MI CC 9e</string>
     <string name="front_mona">1:SHOT ON MI PHONE</string>
     <string name="front_pyxis">1:SHOT ON MI CC 9</string>
+    <string name="front_taoyao">1:SHOT ON MI PHONE</string>
     <string name="front_tucana">1:SHOT ON MI CC9 PRO</string>
     <string name="front_tucana_global">5:SHOT ON MI NOTE 10</string>
     <string name="front_tucana_global_pro">5:MI NOTE 10 PRO</string>
     <string name="front_vela">1:MI CC 9 MEITU</string>
+    <string name="front_zijin">1:SHOT ON MI PHONE</string>
     <string name="fully_managed_device_provisioning_permissions_subheader">@string/fully_managed_device_provisioning_step_2_subheader</string>
     <string name="function_aiqiyi_title">iQiyi</string>
     <string name="function_bilibili_title">Bilibili</string>
@@ -3426,10 +3432,6 @@
     <string name="pref_skin_beautify_eye_default">2</string>
     <string name="pref_skin_beautify_slim_default">3</string>
     <string name="pref_skin_beautify_smooth_default">5</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d">333</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_i">000</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_ii">111</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_original">222</string>
     <string name="pref_video_autoexposure_default">1</string>
     <string name="pref_video_encoder_default">h264</string>
     <string name="pref_video_focusmode_entryvalue_auto">auto</string>
@@ -3633,6 +3635,8 @@
     <string name="rename_letter_count">%1$d/150</string>
     <string name="reply_subject_label">Re:</string>
     <string name="required_permissions"> </string>
+    <string name="required_permissions_global">android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_SMS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+    <string name="required_permissions_supportModifiable">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
     <string name="resAuthority">miuibrowser</string>
     <string name="resolution_300_dpi">300 dpi</string>
     <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
