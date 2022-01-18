@@ -122,9 +122,9 @@
     <string name="activity_title_permissions_manager">Разрешения</string>
     <string name="activity_title_power_manager">Батарея</string>
     <string name="activity_title_risk_app_install_manager">Приложения с возможными рисками</string>
-    <string name="activity_title_root_acquired">Разрешить ROOT доступ</string>
-    <string name="activity_title_root_manager">ROOT доступ</string>
-    <string name="activity_title_root_note">О ROOT доступе</string>
+    <string name="activity_title_root_acquired">Разрешить ROOT-доступ</string>
+    <string name="activity_title_root_manager">ROOT-доступ</string>
+    <string name="activity_title_root_note">О ROOT-доступе</string>
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_virus">Вирусы</string>
     <string name="activity_title_virus_settings">Настройки</string>
@@ -691,7 +691,7 @@
     <string name="apps_item_sms_reset_button_text">Сброс настроек</string>
     <string name="apps_item_sms_title">Настройки сообщений по умолчанию</string>
     <string name="apps_item_summary_sms">%s имеет доступ к вашим сообщениям, это может привести к проблемам безопасности</string>
-    <string name="apps_item_summary_system_rooted">Разрешен ROOT доступ. Восстановите настройки по умолчанию чтобы избежать угроз безопасности.</string>
+    <string name="apps_item_summary_system_rooted">Разрешен ROOT-доступ. Восстановите настройки по умолчанию чтобы избежать угроз безопасности.</string>
     <string name="apps_item_summary_system_update">В новой версии были исправлены некоторые ошибки, платежи стали более безопасными</string>
     <string name="apps_item_title_system">Обновление системы</string>
     <string name="apps_item_virus_cleanup_success">Очистка завершена</string>
@@ -1161,7 +1161,7 @@
     <string name="cpu_usage_view_action_btn_text">Просмотр</string>
     <string name="create_gamebooster_destop">Ярлык на рабочем столе успешно создан</string>
     <string name="create_shortcut">Создать на рабочем столе ярлык для Ускорения игр</string>
-    <string name="cta_HIPS_Perm_Location_Desc">использовать точную геолокацию (по GPS и координатам сети)</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Для использования информации о вашем местоположении в сервисах Центр предупреждения MIUI, Экстренный вызов, Контроль активности, Безопасность платежей, а также для приблизительной геолокации</string>
     <string name="cta_agree_desc">Чтобы использовать наши сервисы, предоставьте приложению доступ к интернету и вышеперечисленные разрешения.</string>
     <string name="cta_close_dialog_cancel">Отмена</string>
     <string name="cta_close_dialog_content">Если вы ограничите Безопасности доступ в интернет и геолокацию, вы не сможете получать предупреждения о землетрясениях, обновлять описания вирусов и черные списки. Устройство станет менее безопасным. Ограничить?</string>
@@ -1170,7 +1170,7 @@
     <string name="cta_dialog_negative">Выйти</string>
     <string name="cta_dialog_positive">Принять</string>
     <string name="cta_dialog_title">Доступ в интернет</string>
-    <string name="cta_main_purpose">Добро пожаловать в Безопасность. Вы можете использовать это приложение для очистки мусора на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого.</string>
+    <string name="cta_main_purpose">Добро пожаловать в Безопасность! Вы можете использовать приложение и его модули (включая компоненты безопасности MIUI и системные службы) для очистки мусора на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и экономии заряда, управления приложениями и многого другого.</string>
     <string name="cta_settings">Разрешить доступ в интернет и геолокацию</string>
     <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Для использования черного списка и вызова экстренных контактов для предупреждения о землетрясении</string>
@@ -1179,7 +1179,7 @@
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Для использования черного списка и распознавания сообщений от оператора связи</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Для использования черного списка и отправки калибровочных сообщений оператору связи</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Для удаления сообщений из черного списка</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для предоставления информации о вашем местоположении Центру предупреждения MIUI и экстренного вызова</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для предоставления функций, связанных с геолокацией, в сервисах Центр предупреждения MIUI, Экстренный вызов, Контроль активности, Безопасность платежей и в службах приблизительной геолокации</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для очистки корзины и антивирусного сканирования</string>
     <string name="customize_limit_pkg">%s (особый)</string>
     <string name="customizer_mode_user_define_name">Мой профиль</string>
@@ -1378,7 +1378,7 @@
     <string name="empty_title_manual_item_white_list">Список пуст</string>
     <string name="empty_title_perm_apps">Нет приложений с разрешениями</string>
     <string name="empty_title_permission_apps_list">Нет приложений</string>
-    <string name="empty_title_root_apps">Нет приложений с ROOT доступом</string>
+    <string name="empty_title_root_apps">Нет приложений с ROOT-доступом</string>
     <string name="enable_extreme_power_save_mode">Экстремальная экономия заряда</string>
     <string name="enable_network">Необходимо подключение к сети</string>
     <string name="enter">Войти</string>
@@ -1716,8 +1716,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="first_aid_card_kadun_summary3">Включено слишком много специальных возможностей. Это может замедлить работу вашего устройства.</string>
     <string name="first_aid_card_kadun_title">Устройство работает медленно</string>
     <string name="first_aid_card_system_root_button">Запретить</string>
-    <string name="first_aid_card_system_root_summary">Запретите ROOT доступ во избежание угроз безопасности</string>
-    <string name="first_aid_card_system_root_title">Вы разрешили ROOT доступ</string>
+    <string name="first_aid_card_system_root_summary">Запретите ROOT-доступ во избежание угроз безопасности</string>
+    <string name="first_aid_card_system_root_title">Вы разрешили ROOT-доступ</string>
     <string name="first_aid_card_unable_install_button">Освободить</string>
     <string name="first_aid_card_unable_install_summary">Доступно только %s памяти. Освободите место для установки приложений.</string>
     <string name="first_aid_card_unable_install_title">Не удается установить приложения</string>
@@ -2422,7 +2422,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="low_temperature_button_ok">Понятно</string>
     <string name="low_temperature_warning_message">Слишком низкая температура. Телефон может выключиться раньше, чем вы ожидаете. Сохраните все важные изменения.</string>
     <string name="low_temperature_warning_title">Низкая температура</string>
-    <string name="main_activity_content_summary_root">ROOT доступ</string>
+    <string name="main_activity_content_summary_root">ROOT-доступ</string>
     <string name="main_activity_content_summary_update">Обновление системы</string>
     <string name="main_alert_message_no_imsi">Нет SIM карты</string>
     <string name="main_alert_message_open_traffic_ctrl">Включите контроль трафика</string>
@@ -2780,6 +2780,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="not_limited_brand">Без ограничений</string>
     <string name="not_set">Не задано</string>
     <string name="not_settled">Не задано</string>
+    <string name="not_support_root_summary">Разрешение root-доступа для сторонних приложений может представлять угрозу безопасности и повредить устройство. В связи с этим мы больше не предоставляем возможность управления разрешениями root-доступа.</string>
+    <string name="not_support_root_title">ROOT-доступ</string>
     <string name="note">Заметка</string>
     <string name="note_call_none">Нет вызовов</string>
     <string name="note_list_none">Список пуст</string>
@@ -3192,7 +3194,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pm_newfeature_sub_text">НОВОЕ</string>
     <string name="pm_remember_choice">Запомнить выбор</string>
     <string name="pm_root_success_notification_infomation">Убедитесь, что вы понимаете риски, связанные с ROOT доступом</string>
-    <string name="pm_root_success_notification_title">ROOT доступ разрешен</string>
+    <string name="pm_root_success_notification_title">ROOT-доступ разрешен</string>
     <string name="power_ambient_display">Активный экран</string>
     <string name="power_analysis_consume_title">Расход</string>
     <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с питанием</string>
@@ -4070,12 +4072,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="roaming_not_start_title">Интернет-роуминг</string>
     <string name="roaming_start_body">Нажмите для просмотра списка исключений.</string>
     <string name="roaming_start_title">Интернет-роуминг</string>
-    <string name="root">ROOT доступ</string>
-    <string name="root_apply_step_1">Разрешить ROOT доступ приложению \"%s\"?</string>
-    <string name="root_apply_step_2">ROOT доступ может привести к нестабильной работе системы.</string>
+    <string name="root">ROOT-доступ</string>
+    <string name="root_apply_step_1">Разрешить ROOT-доступ приложению \"%s\"?</string>
+    <string name="root_apply_step_2">ROOT-доступ может привести к нестабильной работе системы.</string>
     <string name="root_apply_step_3">Безопасность личных данных может быть нарушена.</string>
     <string name="root_apply_step_4">Используйте с осторожностью!</string>
-    <string name="root_apply_step_5">Разрешить ROOT доступ приложению \"%s\"?</string>
+    <string name="root_apply_step_5">Разрешить ROOT-доступ приложению \"%s\"?</string>
     <string name="root_apply_title">Предупреждение</string>
     <string name="safe_result_header_info_protecting">Защищено</string>
     <string name="safe_result_item_button_monitor">Настройки мониторинга</string>
@@ -4086,7 +4088,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="safe_result_item_info_sms_default">Восстановлено приложение обмена сообщениями по умолчанию</string>
     <string name="safe_result_item_info_sms_url">Защищено от вредоносных ссылок в SMS</string>
     <string name="safe_result_item_info_system_antivirus">Защищено от фишинговых вирусов</string>
-    <string name="safe_result_item_info_system_root">ROOT доступ не разрешен</string>
+    <string name="safe_result_item_info_system_root">ROOT-доступ не разрешен</string>
     <string name="safe_result_item_info_system_scan">Мониторинг платежей включен</string>
     <string name="safe_result_item_info_system_version">Обновление MIUI не требуется</string>
     <string name="safepay_alert_dialog_button_continue">Продолжить</string>
@@ -4145,6 +4147,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="select_province_and_city">Выберите провинцию и город</string>
     <string name="send">Отправить</string>
     <string name="send_msg_to_query">Отправить бесплатное SMS для проверки</string>
+    <string name="send_sms_title">Разрешить %s отправлять сообщения?</string>
     <string name="set_applock_password">Задать пароль</string>
     <string name="set_complete">Готово</string>
     <string name="set_location">Местоположение</string>
@@ -4156,6 +4159,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="set_pattern_password_name">Задайте графический ключ</string>
     <string name="set_traffic_tips">Настройка пакетов позволяет более эффективно управлять трафиком и предотвращать дополнительные расходы.</string>
     <string name="setting">Настройки</string>
+    <string name="setting_back_sound_loading_msg">Подождите…</string>
     <string name="setting_online_service">Онлайн-сервисы</string>
     <string name="setting_privacy_password">Задайте графический ключ</string>
     <string name="setting_wireless_reverse_charging_fg_control_summary">Остановить обратную беспроводную зарядку, когда заряд этого устройства %s</string>
@@ -4313,6 +4317,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sms_blacklist">Сообщения</string>
     <string name="sms_cloud_block">Облачная блокировка</string>
     <string name="sms_contact_block">Блокировать SMS от контактов</string>
+    <string name="sms_content">"Сообщение: "</string>
     <string name="sms_delete_all_hint">Удалить все сообщения?</string>
     <string name="sms_delete_hint">Удалить все заблокированные сообщения с этого номера?</string>
     <string name="sms_delete_title">Удалить сообщения</string>
@@ -4323,6 +4328,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sms_keywords">Черный список</string>
     <string name="sms_malicious_url">Блокировать SMS с вредоносными ссылками</string>
     <string name="sms_prefix">Префиксы</string>
+    <string name="sms_sender">"Кому: "</string>
     <string name="sms_service">Блокировать сервисные SMS</string>
     <string name="sms_smart_engine_update">Автообновление базы SMS</string>
     <string name="sms_smart_engine_update_now">Обновить</string>
@@ -4362,7 +4368,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_background_risk_dialog_title">Внимание</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Публичная сеть Wi-Fi</string>
     <string name="sp_background_risk_type_messaging">Системное приложение обмена сообщениями было заменено</string>
-    <string name="sp_background_risk_type_root">Разрешен ROOT доступ</string>
+    <string name="sp_background_risk_type_root">Разрешен ROOT-доступ</string>
     <string name="sp_background_risk_type_sign">Запущено неофициальное приложение</string>
     <string name="sp_background_risk_type_virus">Запущено вирусное приложение</string>
     <string name="sp_background_risk_type_wifi">Эта сеть Wi-Fi не является безопасной</string>
@@ -4407,7 +4413,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_security_scan_title">Антивирус</string>
     <string name="sp_settings_check_item_summary_sign_exception">Управление исключениями подписей</string>
     <string name="sp_settings_check_item_summary_virus_exception">Управление исключениями антивируса</string>
-    <string name="sp_settings_check_item_title_root">ROOT доступ</string>
+    <string name="sp_settings_check_item_title_root">ROOT-доступ</string>
     <string name="sp_settings_check_item_title_sign_exception">Исключения подписей</string>
     <string name="sp_settings_check_item_title_update">Обновления системы</string>
     <string name="sp_settings_check_item_title_virus_exception">Исключения</string>
@@ -4774,7 +4780,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="summary_password_manager">Менеджер паролей позволяет шифровать пароли и хранить их в облаке</string>
     <string name="summary_payment_risk">Платежи с этого устройства небезопасны</string>
     <string name="summary_permission">Избегайте нежелательных платежей и защищайте личные данные</string>
-    <string name="summary_permission_root">Устройство имеет ROOT доступ. Это может повлиять на безопасность устройства.</string>
+    <string name="summary_permission_root">Устройство имеет ROOT-доступ. Это может повлиять на безопасность устройства.</string>
     <string name="summary_power_optimizer">Понижение производительности при низком заряде батареи</string>
     <string name="summary_rcs_switch">Бесплатная отправка SMS другим абонентам China Mobile</string>
     <string name="summary_realname_verify">Подтвердите вашу личность, чтобы сделать платежи более безопасными.</string>
@@ -5116,7 +5122,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_dev_model_off">Режим разработчика отключен</string>
     <string name="title_dev_no">Режим разработчика включен</string>
     <string name="title_dev_yes">Режим разработчика отключен</string>
-    <string name="title_device_not_root">ROOT доступ запрещен</string>
+    <string name="title_device_not_root">ROOT-доступ запрещен</string>
     <string name="title_do_not_disturb">Не слышите звонков?</string>
     <string name="title_eye_shield">Цвета на экране выглядят неправильно?</string>
     <string name="title_find_device">Поиск устройства</string>
@@ -5146,7 +5152,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_payment_protection">Платежи безопасны</string>
     <string name="title_payment_risk">Платежи небезопасны</string>
     <string name="title_permission_no">Управление разрешениями отключено</string>
-    <string name="title_permission_root">ROOT доступ</string>
+    <string name="title_permission_root">ROOT-доступ</string>
     <string name="title_permission_yes">Управление разрешениями включено</string>
     <string name="title_power_optimizer">Экономия заряда</string>
     <string name="title_rcs_switch">Включить сообщения China Mobile</string>
@@ -5208,8 +5214,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="toast_network_switch">Приложение может подключаться к интернету</string>
     <string name="toast_reject_sms_read_permission_success">Настройка завершена</string>
     <string name="toast_removed_from_virus_white_list">Удалено из исключений. Объект будет проверен в следующий раз.</string>
-    <string name="toast_root_apply_accept">Приложению \"%s\" предоставлен ROOT доступ</string>
-    <string name="toast_root_apply_reject">Приложению \"%s\" запрещен ROOT доступ</string>
+    <string name="toast_root_apply_accept">Приложению \"%s\" предоставлен ROOT-доступ</string>
+    <string name="toast_root_apply_reject">Приложению \"%s\" запрещен ROOT-доступ</string>
     <string name="toast_set_success">Настройка завершена</string>
     <string name="toast_show_notification">Виджет в шторке уведомлений включен</string>
     <string name="toast_update_fail">Ошибка обновления</string>
@@ -5421,6 +5427,8 @@ Xiaomi не обещает и не гарантирует точность, до
 Попробуйте увеличить разрешение!"</string>
     <string name="verify_shut_down_password_content">Требовать ввода пароля, если устройство выключено в заблокированном состоянии</string>
     <string name="verify_shut_down_password_title">Подтверждение выключения</string>
+    <string name="verify_sms_ensure_allow">Отправить</string>
+    <string name="verify_sms_title">%1$s пытается отправить сообщение…</string>
     <string name="video_repeat">Повторить</string>
     <string name="videobox_hangup_tips_content">Функция позволяет приложению работать в фоновом режиме, когда экран выключен. Включить?</string>
     <string name="videobox_hangup_tips_title">Внимание</string>

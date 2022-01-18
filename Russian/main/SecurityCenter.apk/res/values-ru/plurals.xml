@@ -396,14 +396,14 @@
         <item quantity="few">%d приложения с автозапуском</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d приложений без ROOT доступа</item>
-        <item quantity="one">%d приложение без ROOT доступа</item>
-        <item quantity="few">%d приложения без ROOT доступа</item>
+        <item quantity="other">%d приложений без ROOT-доступа</item>
+        <item quantity="one">%d приложение без ROOT-доступа</item>
+        <item quantity="few">%d приложения без ROOT-доступа</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d приложений с ROOT доступом</item>
-        <item quantity="one">%d приложение с ROOT доступом</item>
-        <item quantity="few">%d приложения с ROOT доступом</item>
+        <item quantity="other">%d приложений с ROOT-доступом</item>
+        <item quantity="one">%d приложение с ROOT-доступом</item>
+        <item quantity="few">%d приложения с ROOT-доступом</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d угроз,</item>

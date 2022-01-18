@@ -50,8 +50,8 @@
     <string name="HIPS_Perm_PhoneID">Информация об устройстве</string>
     <string name="HIPS_Perm_PhoneID_Desc">Доступ к номеру телефона, IMEI и IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и состоянию устройства</string>
-    <string name="HIPS_Perm_ROOT">ROOT доступ</string>
-    <string name="HIPS_Perm_ROOT_Desc">Получение ROOT доступа</string>
+    <string name="HIPS_Perm_ROOT">ROOT-доступ</string>
+    <string name="HIPS_Perm_ROOT_Desc">Получение ROOT-доступа</string>
     <string name="HIPS_Perm_Read_Call_Log">Чтение журнала вызовов</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Чтение журнала вызовов</string>
     <string name="HIPS_Perm_Read_Contact">Чтение контактов</string>
@@ -125,7 +125,7 @@
     <string name="HIPS_SecurityPrompt_Reject_Once">Запретить однократно (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Ограничить однократно (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s запрашивает разрешение на %2$s</string>
-    <string name="Su_Package_Forbidden2">не имеет ROOT доступа.</string>
+    <string name="Su_Package_Forbidden2">не имеет ROOT-доступа.</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>

@@ -1787,6 +1787,7 @@
     <string name="brightness">Яркость</string>
     <string name="brightness_auto_adjust_off">Яркость останется неизменной при любом освещении</string>
     <string name="brightness_auto_adjust_on">Коррекция яркости в зависимости от освещения</string>
+    <string name="brightness_auto_summary">Регулировка яркости в зависимости от освещения, для экономии заряда батареи</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="brightness_title">Яркость</string>
     <string name="bssid_label">"BSSID: "</string>
@@ -3251,8 +3252,8 @@
     <string name="enable_service_pattern_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести графический ключ.</string>
     <string name="enable_service_pin_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести PIN-код.</string>
     <string name="enable_service_title">Сервису будут доступны следующие действия:</string>
-    <string name="enable_sizecompat_freeform">Свободная форма sizecompat</string>
-    <string name="enable_sizecompat_freeform_summary">Разрешить свободную форму для приложений c sizecompat</string>
+    <string name="enable_sizecompat_freeform">Принудительный запуск в окнах с изменяемым размером</string>
+    <string name="enable_sizecompat_freeform_summary">Разрешить приложениям с ограничениями совместимости запускаться в окнах с изменяемым размером</string>
     <string name="enable_snapshot_screenlock">Удерживайте кнопку \"Назад\", чтобы сделать фото</string>
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
@@ -4047,6 +4048,7 @@
     <string name="headphone_assisted_summary">Передача звука с микрофона устройства на подключенные по Bluetooth наушники</string>
     <string name="headphone_assisted_title">Ушные мониторы</string>
     <string name="headset_aac">AAC</string>
+    <string name="headset_ambient_sound">Окружающие звуки</string>
     <string name="headset_aptx-adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_aptx_adapter">Qualcomm® aptX™ Adaptive</string>
     <string name="headset_connectiong">Подключение…</string>
@@ -4066,7 +4068,7 @@
     <string name="headset_find_tip_title">Внимание</string>
     <string name="headset_find_title">Поиск наушников</string>
     <string name="headset_find_voice_warning">Предупреждение о высокой громкости</string>
-    <string name="headset_head_tracking_desc">Регулировка объемного звука движением головы</string>
+    <string name="headset_head_tracking_desc">Регулировка иммерсивного звука движением головы</string>
     <string name="headset_head_tracking_title">Отслеживание движения головы</string>
     <string name="headset_notification_switch_summary">Отображать статус на виджете в шторке уведомлений при подключении наушников</string>
     <string name="headset_notification_switch_title">Виджет в шторке уведомлений</string>
@@ -4074,7 +4076,7 @@
     <string name="headset_remove_message_indicate">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
-    <string name="headset_spatial_audio">Пространственный звук</string>
+    <string name="headset_spatial_audio">Объемный звук</string>
     <string name="headset_toast_tip_disconnect_others">Возможно, наушники подключены к другому устройству</string>
     <string name="headset_unsaved_device">Удалить устройство</string>
     <string name="headset_unsaved_devices">Используется на других устройствах</string>
@@ -4194,6 +4196,7 @@
     <string name="hide_extra_apps">Использование приложений</string>
     <string name="hide_silent_icons_summary">Не показывать значки беззвучных уведомлений в строке состояния</string>
     <string name="hide_silent_icons_title">Скрыть значки беззвучных уведомлений</string>
+    <string name="high_brightness_hint_summary">При ярком окружающем освещении в верхней части экрана появляется маленький значок солнца</string>
     <string name="high_label">Высокая</string>
     <string name="high_performance_notif_summary">Устройство может перегреваться.</string>
     <string name="high_performance_notif_title">Высокая производительность</string>
@@ -7374,7 +7377,7 @@ UT-интерфейс: %5$s"</string>
 
 Настройки будут изменены для всех пользователей устройства."</string>
     <string name="rom_total_size">Общий размер памяти</string>
-    <string name="root">ROOT доступ</string>
+    <string name="root">ROOT-доступ</string>
     <string name="rssi_label">"RSSI: "</string>
     <string name="rule_name">Имя</string>
     <string name="running_frequency">Как часто используется</string>
@@ -7426,6 +7429,7 @@ UT-интерфейс: %5$s"</string>
     <string name="scanning_status_text_wifi_on_ble_on">Поиск сетей Wi-Fi и устройств Bluetooth включен</string>
     <string name="scheduled_style">Запланированные</string>
     <string name="screen">Экран</string>
+    <string name="screen_brightness">Яркость экрана</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_color_and_optimize">Цвета и контраст</string>
     <string name="screen_color_and_optimize_disabled">Настройка в режиме чтения недоступна</string>
@@ -7773,7 +7777,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_other_settings_sync_settings">Синхронизация;Автоматически;Только WiFi</string>
     <string name="search_owner_info_settings_title">Информация о владельце</string>
     <string name="search_page_layout_settings">Размер текста;Размер шрифта;Параметры шрифта;Маленький шрифт;Большой шрифт;Средний шрифт;Очень большой шрифт;Огромный шрифт;Размер шрифтов</string>
-    <string name="search_permission_manager">Разрешения;ROOT доступ</string>
+    <string name="search_permission_manager">Разрешения;ROOT-доступ</string>
     <string name="search_permission_settings_title">Разрешения приложений</string>
     <string name="search_pick_up_gesture_wakeup_title">Подъем;Пробуждение</string>
     <string name="search_pointer_speed">Скорость указателя</string>
@@ -9046,8 +9050,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sunlight_mode">Дневной режим</string>
-    <string name="sunlight_mode_summary">Использовать регулировку при ярком освещении, когда автояркость отключена</string>
-    <string name="sunlight_mode_summary_new">Использовать регулировку при ярком освещении. В верхней части экрана появится небольшой значок солнца.</string>
+    <string name="sunlight_mode_summary">Регулировать яркость экрана при ярком окружающем освещении</string>
     <string name="supl_not_set">&lt;Не настроено&gt;</string>
     <string name="supplicant_state_label">Статус подключения:</string>
     <string name="support_summary">Справочные статьи, поддержка по телефону и в чате</string>
@@ -9055,7 +9058,7 @@ UT-интерфейс: %5$s"</string>
     <string name="surround_sound_all_desc">Усиление глубины звука для наушников и динамиков</string>
     <string name="surround_sound_only_headset_desc">Усиление глубины звука для наушников</string>
     <string name="surround_sound_only_speaker_desc">Усиление глубины звука для динамиков</string>
-    <string name="surround_sound_title">Объемный звук</string>
+    <string name="surround_sound_title">Иммерсивный звук</string>
     <string name="suw_back_button_label">Назад</string>
     <string name="suw_more_button_label">Ещё</string>
     <string name="suw_next_button_label">Далее</string>

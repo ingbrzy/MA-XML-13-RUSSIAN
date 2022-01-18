@@ -45,6 +45,7 @@
     <string name="console_guide_subtitle_private">Можно включить скрытие всплывающих уведомлений, входящих вызовов и другой конфиденциальной информацию</string>
     <string name="console_guide_subtitle_small_window">Можно свернуть окно во время трансляции для работы с  другими приложениями</string>
     <string name="copy">Копировать</string>
+    <string name="current_wifi_tv">Текущая сеть</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="device_desc_trust">Доверенные устройства</string>
@@ -291,6 +292,9 @@
     <string name="notification_rc_title">Помощник Xiaomi TV</string>
     <string name="notification_show_more">Дополнительные функции</string>
     <string name="notify">Трансляция работает в фоновом режиме</string>
+    <string name="notify_wifiap_dialog_msg">Чтобы отсканировать код и настроить сеть, сначала отключите точку доступа.</string>
+    <string name="notify_wifiap_dialog_negative">Понятно</string>
+    <string name="notify_wifiap_dialog_title">Настройка сети</string>
     <string name="open_game_accelerate">Включить Ускорение игр</string>
     <string name="p2p_location_des">Для подключения  устройства к внешним мониторам</string>
     <string name="paipai_connect_btn_text">Готово</string>

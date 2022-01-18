@@ -493,7 +493,7 @@ ID:%s
     <string name="exercise_notification_content">%1$d мин. упражнения (%2$d Кал)</string>
     <string name="exercise_notification_meet_title">Шаги сегодня: %d. Цель достигнута!</string>
     <string name="exercise_notification_no_meet_title">Шаги сегодня: %d. Продолжайте двигаться, чтобы достичь цели!</string>
-    <string name="exercise_question_answer_one">"1. Некоторые модели устройств не оснащены датчиками с низким энергопотреблением. Приложение Здоровье не отслеживает данные активности для экономии заряда аккумулятора на следующих устройствах: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+    <string name="exercise_question_answer_one">"1. Некоторые модели устройств не оснащены датчиками с низким энергопотреблением. Приложение Здоровье не отслеживает данные активности для экономии заряда батареи на следующих устройствах: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
 Если ваше устройство указано здесь, вы можете добавить источники данных вручную в меню Источники данных > Добавить источник данных."</string>
     <string name="exercise_question_answer_two">2. Иногда датчики движения могут не подключаться. Перезагрузите телефон и проверьте, нормально ли работает отслеживание в данных случаях.</string>
     <string name="exercise_question_title">Почему вы не видите свою статистику?</string>

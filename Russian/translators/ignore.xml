@@ -702,6 +702,11 @@
     <string name="back_durandal_india">4:REDMI NOTE 9 PRO:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_elish">2:XIAOMI PAD 5 PRO</string>
     <string name="back_enuma">2:XIAOMI PAD 5 PRO 5G</string>
+    <string name="back_eos_global_redmi_10">4:REDMI 10</string>
+    <string name="back_eos_global_redmi_10_2022">4:REDMI 10 2022</string>
+    <string name="back_eos_india_redmi_10_prime">4:REDMI 10 PRIME</string>
+    <string name="back_eos_india_redmi_10_prime_2022">4:REDMI 10 PRIME 2022</string>
+    <string name="back_eos_redmi_note_11_4g">3:REDMI NOTE 11 4G</string>
     <string name="back_equuleus">2:SHOT ON MI 8 UD:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_equuleus_global">2:SHOT ON MI 8 PRO:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_evergo">2:REDMI NOTE 11 5G</string>
@@ -796,6 +801,11 @@
     <string name="back_rosemary">4:REDMI NOTE 10S</string>
     <string name="back_secret">4:REDMI NOTE 10S</string>
     <string name="back_secretin">4:REDMI NOTE 10S</string>
+    <string name="back_selene_global_redmi_10">4:REDMI 10</string>
+    <string name="back_selene_global_redmi_10_2022">4:REDMI 10 2022</string>
+    <string name="back_selene_india_redmi_10_prime">4:REDMI 10 PRIME</string>
+    <string name="back_selene_india_redmi_10_prime_2022">4:REDMI 10 PRIME 2022</string>
+    <string name="back_selene_redmi_note_11_4g">3:REDMI NOTE 11 4G</string>
     <string name="back_shiva">0:POCO:SHOT ON POCO M2:SHOT ON POCO M2</string>
     <string name="back_shiva_india_reloaded">0:POCO:POCO M2 RELOADED</string>
     <string name="back_sirius">2:SHOT ON MI 8 SE:AI DUAL CAMERA:48MP DUAL CAMERA</string>
@@ -3244,6 +3254,16 @@
     <string name="platform_carrier_config_package">com.android.carrierconfig</string>
     <string name="play_count">%s播放</string>
     <string name="pm">PM</string>
+    <string name="policy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+    <string name="policy_link_lawer_ft">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=ft</string>
+    <string name="policy_link_lawer_wy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=wy</string>
+    <string name="policy_link_lawer_zh">http://cdn.hpplay.com.cn/xm/lawer.html</string>
+    <string name="policy_link_lawer_zy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=zy</string>
+    <string name="policy_link_privacy_en">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+    <string name="policy_link_privacy_ft">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=ft</string>
+    <string name="policy_link_privacy_wy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=wy</string>
+    <string name="policy_link_privacy_zh">http://cdn.hpplay.com.cn/xm/privacy.html</string>
+    <string name="policy_link_privacy_zy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=zy</string>
     <string name="port">Номер порта</string>
     <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
     <string name="power_center_list_item_battery_health_model_voltage">%s В</string>
@@ -4540,6 +4560,7 @@
     <string name="vector_large_crossA"> </string>
     <string name="vector_large_crossB"> </string>
     <string name="velocity_tracker_impl">platform</string>
+    <string name="verify_sms_cancel">@string/cancel_button</string>
     <string name="vernal_equinox">春分</string>
     <string name="vernal_equinox_tradition">春分</string>
     <string name="vertical_text_divider">|</string>

@@ -355,6 +355,7 @@
     <string name="instruction">Введите нижеприведенный адрес в FTP-клиент: </string>
     <string name="instruction_pre_pad">Запуск FTP-сервера</string>
     <string name="instruction_pre_phone">Запуск FTP-сервера</string>
+    <string name="internal_storage">Хранилище</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_now">только что</string>
     <string name="kilobyteShort">" КБ"</string>

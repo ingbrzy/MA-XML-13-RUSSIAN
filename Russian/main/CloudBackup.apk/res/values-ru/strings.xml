@@ -49,6 +49,7 @@
     <string name="backup_action_no_space_with_wechat_on_title">Недостаточно места</string>
     <string name="backup_action_retry_now">Повтор</string>
     <string name="backup_fail_wifi_needed">Резервное копирование не удалось, требуется подключение к Wi-Fi</string>
+    <string name="backup_failed_reason_app_data_error">Не удалось создать резервную копию данных WeChat</string>
     <string name="backup_failed_reason_app_usage_denied">Предоставьте необходимые разрешения для резервного копирования</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Недостаточно места в облачном хранилище для резервного копирования. Обновите тарифный план или освободите место.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Недостаточно места. Освободите место.</string>
@@ -387,6 +388,7 @@
     <string name="restore_detail_category_settings">Настройки</string>
     <string name="restore_detail_more">Еще</string>
     <string name="restore_detail_title">Объекты для восстановления</string>
+    <string name="restore_failed_reason_app_data_error">Не удалось восстановить данные WeChat</string>
     <string name="restore_failed_reason_disk_space_not_enough">Недостаточно места. Высвободите память.</string>
     <string name="restore_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
     <string name="restore_finish_description">Восстановление завершено</string>

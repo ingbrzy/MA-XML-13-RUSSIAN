@@ -312,6 +312,15 @@
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
+    <string name="exo_download_completed">Загрузка завершена</string>
+    <string name="exo_download_description">Загрузка</string>
+    <string name="exo_download_downloading">Загрузка…</string>
+    <string name="exo_download_failed">Ошибка загрузки</string>
+    <string name="exo_download_notification_channel_name">Загрузки</string>
+    <string name="exo_download_paused">Загрузки приостановлены</string>
+    <string name="exo_download_paused_for_network">Ожидание сети</string>
+    <string name="exo_download_paused_for_wifi">Ожидание Wi-Fi</string>
+    <string name="exo_download_removing">Удаление загрузок…</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="facebook_clean_exit_confirm_cancel">Продолжить</string>
     <string name="facebook_clean_exit_confirm_msg">Проверка Facebook не завершена. Остановить проверку и выйти?</string>
@@ -1142,6 +1151,7 @@
     <string name="white_list_large_file_header">Большие файлы и видео: %d</string>
     <string name="white_list_residual_header">Остатки данных: %d</string>
     <string name="white_list_title">Исключения</string>
+    <string name="widget_cleaner_size_unit">МБ</string>
     <string name="wqfile_group_chat_file">Файлы из мессенджеров</string>
     <string name="wqfile_group_chat_pic">Изображения из мессенджеров</string>
     <string name="wqfile_group_chat_video">Видео из мессенджеров</string>

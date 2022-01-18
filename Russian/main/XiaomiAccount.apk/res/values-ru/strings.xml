@@ -662,7 +662,7 @@ ID:%s
     <string name="passport_title_reg">Создание Mi Аккаунта</string>
     <string name="passport_trust_device">Доверять этому устройству</string>
     <string name="passport_trying_read_verify_code_sms">Получение кода подтверждения…</string>
-    <string name="passport_tz_invalid">Найдена угроза безопасности. Возможно, устройство перепрошито или получен ROOT доступ. Попробуйте другие варианты входа в систему.</string>
+    <string name="passport_tz_invalid">Найдена угроза безопасности. Возможно, устройство перепрошито или получен ROOT-доступ. Попробуйте другие варианты входа в систему.</string>
     <string name="passport_uplink_reg">Использовать номер телефона</string>
     <string name="passport_uplink_send_sms_hint">Нажмите \"Send\" после того, как вы будете перенаправлены на страницу с составленным сообщением.</string>
     <string name="passport_uplink_slot1_reg">Использовать SIM 1</string>
