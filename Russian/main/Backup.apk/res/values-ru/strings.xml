@@ -81,7 +81,6 @@
     <string name="backup_hint_pad">Не выключайте устройство</string>
     <string name="backup_is_running">Резервное копирование устройства</string>
     <string name="backup_new">Новый</string>
-    <string name="backup_notification_title">Выполняется резервное копирование…</string>
     <string name="backup_progress">Резервное копирование…</string>
     <string name="backup_report">Подробности</string>
     <string name="backup_security_tips_message">Для некоторых приложений резервное копирование и восстановление недоступно.</string>
