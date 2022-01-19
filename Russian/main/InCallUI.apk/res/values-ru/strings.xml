@@ -94,6 +94,7 @@
     <string name="call_recording_notification_message_sd_unmounted">SD-карта извлечена.</string>
     <string name="call_recording_notification_title">Вызов записан</string>
     <string name="call_recording_notification_title_error">Не удалось записать вызов</string>
+    <string name="caller_info_name_delimiter">" или "</string>
     <string name="caller_manage_header">Конференц-вызов %s</string>
     <string name="can_not_use">Использование невозможно</string>
     <string name="cancel">Отмена</string>

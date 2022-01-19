@@ -4076,6 +4076,8 @@
     <string name="headset_remove_message_indicate">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
+    <string name="headset_silent_upgrade_switch_summary">Гарнитура автоматически обновляется при определенных условиях</string>
+    <string name="headset_silent_upgrade_switch_title">Автообновление</string>	
     <string name="headset_spatial_audio">Объемный звук</string>
     <string name="headset_toast_tip_disconnect_others">Возможно, наушники подключены к другому устройству</string>
     <string name="headset_unsaved_device">Удалить устройство</string>
