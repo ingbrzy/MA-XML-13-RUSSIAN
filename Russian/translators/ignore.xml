@@ -456,6 +456,7 @@
     <string name="app_express_send_provider_cainiao">Guoguo</string>
     <string name="app_express_send_provider_xiaomi">Mi Express</string>
     <string name="app_express_settings_phone_item_desc_1">SIM %d</string>
+    <string name="app_font_mi_lan_pro_medium">mipro-medium</string>
     <string name="app_health_card_energy">@string/step_cal_unit</string>
     <string name="app_health_setting_key_default_duration">key_health_setting_default_duration</string>
     <string name="app_health_setting_key_title">key_health_setting_title</string>
@@ -473,11 +474,16 @@
     <string name="app_pa_setting_key_head_setting">key_head_setting</string>
     <string name="app_pa_setting_key_my_collection">key_my_collection</string>
     <string name="app_pa_setting_key_my_payment">key_my_payment</string>
+    <string name="app_pa_setting_key_perm_desc">key_perm_desc</string>
+    <string name="app_pa_setting_key_permission">key_permission</string>
     <string name="app_pa_setting_key_private">key_private</string>
+    <string name="app_pa_setting_key_retract">key_retract</string>
     <string name="app_pa_setting_key_service_management">key_service_management</string>
     <string name="app_pa_setting_key_service_personal_manage">key_service_personal_manage</string>
+    <string name="app_pa_setting_key_tripartite">key_tripartite</string>
     <string name="app_pa_setting_private_key_auth">key_private_auth</string>
     <string name="app_pa_setting_private_key_policy">key_private_policy</string>
+    <string name="app_pa_setting_ps_key">perm_desc_perf_key</string>
     <string name="app_pa_setting_service_key_commute">key_service_commute</string>
     <string name="app_pa_setting_service_key_forecast">key_service_forecast</string>
     <string name="app_pa_setting_service_key_my_book">key_service_my_book</string>

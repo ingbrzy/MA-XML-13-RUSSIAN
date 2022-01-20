@@ -77,6 +77,7 @@
     <string name="agenda_payment_not_available">Платежный сервис недоступен</string>
     <string name="agenda_repay_date">Срок платежа: %1$s</string>
     <string name="agenda_repay_immediately">Оплатить</string>
+    <string name="agenda_request_perm">Разрешите этому приложению доступ к Календарю</string>
     <string name="agenda_setting_brief">Мероприятия, напоминания и прочее</string>
     <string name="agenda_setting_brief_detail">Просмотр запланированных мероприятий, получение напоминаний.</string>
     <string name="agenda_settings_account">Управление аккаунтами календаря</string>
@@ -314,6 +315,7 @@
     <string name="app_olympic_gold_medal_total">Всего</string>
     <string name="app_pa_more">Еще</string>
     <string name="app_pa_search">Поиск</string>
+    <string name="app_pa_setting_about_title">О приложении</string>
     <string name="app_pa_setting_bugreport">Обратная связь</string>
     <string name="app_pa_setting_global_display">Экран</string>
     <string name="app_pa_setting_global_display_backdrop_blur_option">Размытие фона карточки</string>
@@ -328,12 +330,36 @@
     <string name="app_pa_setting_head_info_default">Не задано</string>
     <string name="app_pa_setting_head_info_set">Добавлено</string>
     <string name="app_pa_setting_head_setting">Заголовок</string>
+    <string name="app_pa_setting_individualization_title">Персонализация</string>
     <string name="app_pa_setting_my_collection">Избранное</string>
     <string name="app_pa_setting_my_payment">Платежи</string>
+    <string name="app_pa_setting_perm_calendar">Доступ к календарю</string>
+    <string name="app_pa_setting_perm_denied">Не предоставлено</string>
+    <string name="app_pa_setting_perm_desc">Сведения о разрешениях</string>
+    <string name="app_pa_setting_perm_granted">Предоставлено</string>
+    <string name="app_pa_setting_perm_location">Использование геолокации</string>
+    <string name="app_pa_setting_perm_state">Доступ к информации об устройстве</string>
+    <string name="app_pa_setting_perm_storage">Доступ к хранилищу</string>
+    <string name="app_pa_setting_perm_title">Разрешения</string>
+    <string name="app_pa_setting_permission">Сведения о разрешениях</string>
+    <string name="app_pa_setting_preference_title">Настройки</string>
+    <string name="app_pa_setting_priv_policy_title">Политика конфиденциальности</string>
     <string name="app_pa_setting_private">Конфиденциальность</string>
     <string name="app_pa_setting_private_auth">Разрешить сбор статистики использования</string>
     <string name="app_pa_setting_private_auth_summary">Статистика использования используется для рекомендации вам релевантных товаров.</string>
-    <string name="app_pa_setting_private_policy">Политика Конфиденциальности</string>
+    <string name="app_pa_setting_private_policy">Политика конфиденциальности</string>
+    <string name="app_pa_setting_retract">Отзыв согласия</string>
+    <string name="app_pa_setting_retract_dialog_message">Если вы продолжите, согласие с Политикой конфиденциальности приложения \"Ассистент\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку приложение \"Ассистент\" предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласия будет рассматриваться как отказ от использования этих сервисов. Отозвать согласие?</string>
+    <string name="app_pa_setting_retract_dialog_negative">Отозвать</string>
+    <string name="app_pa_setting_retract_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="app_pa_setting_retract_error_message">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="app_pa_setting_retract_error_title">Не удалось отозвать согласие</string>
+    <string name="app_pa_setting_retract_no_net_message">Для отозыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="app_pa_setting_retract_no_net_title">Ошибка подключения к сети</string>
+    <string name="app_pa_setting_retract_positive">Понятно</string>
+    <string name="app_pa_setting_retract_sec_left">Отозвать (%d сек.)</string>
+    <string name="app_pa_setting_retract_summary">Отзыв согласия с Политикой конфиденциальности Ассистента</string>
+    <string name="app_pa_setting_retract_title">Отзыв согласия и отказ от использования</string>
     <string name="app_pa_setting_service_airstar">Airstar</string>
     <string name="app_pa_setting_service_airstar_summary">Просмотр финансовой, кредитной и страховой информации</string>
     <string name="app_pa_setting_service_commute">Поездки</string>
@@ -377,9 +403,11 @@
     <string name="app_pa_setting_service_surrounding_summary">Откройте для себя интересные места поблизости</string>
     <string name="app_pa_setting_service_timetable">Расписание занятий</string>
     <string name="app_pa_setting_service_timetable_summary">Нажмите, чтобы запланировать занятия</string>
+    <string name="app_pa_setting_service_title">Сервисы</string>
     <string name="app_pa_setting_service_wufu">Пять благословений Alipay</string>
     <string name="app_pa_setting_service_wufu_summry">Соберите благословения с помощью сканера AR</string>
     <string name="app_pa_setting_title">Настройки</string>
+    <string name="app_pa_setting_tripartite">О передаче данных третьим лицам</string>
     <string name="app_pa_setting_version">Версия: %1$s</string>
     <string name="app_screen_time_auth">Время экрана</string>
     <string name="app_screen_time_no_time_title">&lt;1 мин.</string>
@@ -443,6 +471,7 @@
     <string name="app_sports_title_add_team">Добавить команды</string>
     <string name="app_sports_title_all_leagues">Все матчи</string>
     <string name="app_sports_title_tip">Соответствующие данные, предоставленные третьей стороной</string>
+    <string name="app_stock_info_desc">Инструкция</string>
     <string name="app_stock_more_add_stock">Добавить</string>
     <string name="app_stock_name_cyb">GEM</string>
     <string name="app_stock_name_szcs">SZSE</string>
@@ -715,7 +744,16 @@
     <string name="cta_not_now">Не сейчас</string>
     <string name="cta_old_not_use">Не сейчас</string>
     <string name="cta_old_start">Начать</string>
+    <string name="cta_policy_change_dialog_agree">Принимаю</string>
+    <string name="cta_policy_change_dialog_exit">Выход</string>
+    <string name="cta_policy_change_dialog_message" formatted="false">"Политика конфиденциальности Ассистента обновлена:
+%s
+Прежде чем продолжить, прочтите и примите обновленную %s."</string>
+    <string name="cta_policy_change_dialog_title">Обновленная политика конфиденциальности</string>
     <string name="cta_positive">Подробнее</string>
+    <string name="cta_privacy_policy">Политика конфиденциальности</string>
+    <string name="cta_refuse_policy_dialog_message">Вы не сможете использовать Ассистент, если не примите обновленную %s. Принимаете?</string>
+    <string name="cta_refuse_policy_dialog_title">Внимание</string>
     <string name="cta_start">Начать</string>
     <string name="cta_text5">Приложению требуются подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
     <string name="cta_title">Добро пожаловать в Ассистент</string>
@@ -1426,6 +1464,8 @@ Please send this code to the technician."</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_wechat_title">WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -1440,6 +1480,7 @@ Please send this code to the technician."</string>
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
