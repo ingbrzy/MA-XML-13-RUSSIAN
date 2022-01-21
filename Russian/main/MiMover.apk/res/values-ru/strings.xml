@@ -45,6 +45,10 @@
     <string name="app_update_64_dialog_title">Обновление приложений</string>
     <string name="app_update_64_notfication_body">Обновление приложений до 64-разрядной архитектуры, для повышения производительности</string>
     <string name="app_update_title">Обновление приложений</string>
+    <string name="apple_calendar">Мероприятия календаря</string>
+    <string name="apple_contacts">Контакты</string>
+    <string name="apple_image">Фото</string>
+    <string name="apple_video">Видео</string>
     <string name="appname_app_data_suffix">Данные приложения %1$s</string>
     <string name="audio">Аудио</string>
     <string name="audio_video_document">Аудио, видео и документы</string>
@@ -85,6 +89,7 @@
     <string name="calendar_permission_desc">Для передачи мероприятий календаря на другие устройства</string>
     <string name="calllog">История звонков</string>
     <string name="cancel">Отмена</string>
+    <string name="cancel_btn">Отмена</string>
     <string name="cancel_description">Отмена</string>
     <string name="cancel_moving_dialog_message">Прекратить импорт сейчас?</string>
     <string name="cancel_moving_dialog_title">Прекратить импорт</string>
@@ -244,6 +249,7 @@
     <string name="guest_unfinished_task_alert_btn_positive">Продолжить</string>
     <string name="guest_unfinished_task_alert_message">Похоже, у вас есть незавершенные задания. Продолжить передачу?</string>
     <string name="guest_unfinished_task_alert_title">Незавершенные задания</string>
+    <string name="guest_wainting_title">Продолжить на новом устройстве</string>
     <string name="hide_password_description">Скрыть пароль</string>
     <string name="high_temp_summary">Во время передачи большого объема данных устройство может нагреваться, это нормальное явление</string>
     <string name="host_boot_installation_bottom_tips">Не можете найти Mi Mover? Нажмите, чтобы загрузить.</string>
@@ -271,6 +277,10 @@
     <string name="host_memory_insuff_summary">На новом устройстве недостаточно места для запуска передачи.</string>
     <string name="host_memory_insuff_title">Недостаточно места</string>
     <string name="host_new_device_hint">Это устройство</string>
+    <string name="host_verify_lock_hint">Настройте защиту</string>
+    <string name="host_verify_lock_retry">Подтвердите защиту</string>
+    <string name="host_verify_lock_summary">Настройка защиты нового устройства</string>
+    <string name="host_verify_lock_title">Введите пароль разблокировки старого устройства</string>
     <string name="hsa_code_null">Код подтверждения не может быть пустым</string>
     <string name="hsa_input_tip">Ваш Apple ID использует двухфакторную аутентификацию. Введите код подтверждения.</string>
     <string name="hsa_send_again">Повторить отправку</string>
@@ -302,6 +312,9 @@
     <string name="icloud_signin_fail_message">Ваш Apple ID был заблокирован по соображениям безопасности. Перейдите на iforgot.apple.com и следуйте инструкциям.</string>
     <string name="icloud_start_now">Использовать мобильные данные</string>
     <string name="icloud_verify_tips">Нажмите \"Разрешить\" на вашем устройстве iOS и введите код, который отображается здесь.</string>
+    <string name="idm_discovery_positive_text">Перенести</string>
+    <string name="idm_discovery_summary">Вы активируете новое устройство. Перенести данные с этого устройства на новое устройство?</string>
+    <string name="idm_discovery_title">Перенос данных</string>
     <string name="im">IM</string>
     <string name="im_recipient">Я получатель</string>
     <string name="im_sender">Я отправитель</string>
@@ -333,6 +346,9 @@
     <string name="loading_data">Подождите…</string>
     <string name="location_permission_desc">Для поиска устройств поблизости</string>
     <string name="location_permission_request">Для сопряжения и подключения к другому устройству</string>
+    <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
+    <string name="lockscreen_access_pattern_cleared">Ключ очищен</string>
+    <string name="lockscreen_access_pattern_start">Ввод ключа</string>
     <string name="login">Войти</string>
     <string name="login_failed">Не удаётся войти. Попробуйте ещё раз.</string>
     <string name="logining">Вход в систему…</string>
@@ -541,7 +557,9 @@
     <string name="perm_storage">Доступ к хранилищу</string>
     <string name="perm_write_settings">Изменение настроек системы</string>
     <string name="permdesc_sendSmsNoConfirmation">Приложение может отправлять SMS-сообщения без вашего разрешения. Ваш оператор может взимать плату за эти сообщения.</string>
-    <string name="permission_alert_message_usage_access">Mi Mover необходим доступ к статистике использования приложения. Дайте Mi Mover необходимые разрешения в настройках.</string>
+    <string name="permission_about_contacts">Требуется разрешение на редактирование контактов и журнала вызовов</string>
+    <string name="permission_about_storage">Требуется разрешение на доступ к хранилищу устройства</string>
+    <string name="permission_alert_message_usage_access">Mi Mover требуется доступ к статистике использования приложения. Предоставьте Mi Mover необходимые разрешения в настройках.</string>
     <string name="permission_alert_title">Требуются разрешения</string>
     <string name="permission_bluetooth_summary">Для поиска доступных устройств поблизости</string>
     <string name="permission_bluetooth_title">Включение и выключение Bluetooth</string>
@@ -554,6 +572,7 @@
     <string name="permission_grant_request">Предоставьте Mi Mover \"%1$s\"</string>
     <string name="permission_locale_summary">Для подключения к устройствам поблизости</string>
     <string name="permission_locale_title">Использование геолокации</string>
+    <string name="permission_location_content">Разрешите Mi Mover доступ к геолокации для подключения к старому устройству. В случае отказа предоставить доступ к геолокации, вы не сможете перенести данные.</string>
     <string name="permission_message_summary">Для переноса сообщений на новое устройство</string>
     <string name="permission_message_title">Доступ к SMS</string>
     <string name="permission_request_title">Предоставьте \"%1$s\"</string>
@@ -576,7 +595,12 @@
     <string name="prompt_before_transmission_message4_title">Сохранение подключения</string>
     <string name="prompt_before_transmission_message5_summary">Беспроводная передача больших объемов данных может приводить к нагреву устройства, что является нормальным.</string>
     <string name="prompt_before_transmission_message5_title">Нагрев устройства</string>
+    <string name="provisiion_set_old_phone">Импорт со старого устройства</string>
+    <string name="provisiion_set_old_phone_summary">Используйте Mi Mover для импорта данных со старого устройства без подключения к интернету</string>
+    <string name="provision_cta_title">Перенос со старого устройства</string>
     <string name="provision_receiver_finish_button">Далее</string>
+    <string name="provision_select_data_null">Выберите данные для передачи</string>
+    <string name="provision_set_new_phone">Использовать как новое устройство</string>
     <string name="qq_app_receive_fail">Не удалось получить QQ</string>
     <string name="qq_app_send_fail">Не удалось отправить QQ</string>
     <string name="qq_data_external">QQ данные SD-карты</string>
@@ -586,6 +610,9 @@
     <string name="receiver_finish_detail_fail">Не удалось передать</string>
     <string name="receiver_finish_detail_success">Переданные данные</string>
     <string name="receiver_finish_title">Все готово!</string>
+    <string name="receiver_video_summary">Разблокируйте свое старое устройство, нажмите \"Перенести\" и отсканируйте это изображение</string>
+    <string name="receiver_video_title">Перенос со старого устройства</string>
+    <string name="recommend_hint">Рекомендуемые</string>
     <string name="reconnect">Подключиться снова</string>
     <string name="recreate_soft_ap_tips">Нажмите кнопку ниже, чтобы повторить попытку.</string>
     <string name="request_all_permission_content">"Для переноса данных, разрешите Mi Mover:
@@ -659,6 +686,14 @@
     <string name="sender">Отправить</string>
     <string name="sender_finish_bottom_tips">Перед удалением данных на этом устройстве убедитесь, что вы создали резервные копии всех важных данных.</string>
     <string name="sender_finish_title">Успешно передано</string>
+    <string name="sender_scanning_code">Поместите изображение в рамку</string>
+    <string name="sender_scanning_connecting">Подключение к новому устройству…</string>
+    <string name="set_new_device_account">Синхронизация с Mi аккаунтом</string>
+    <string name="set_new_device_lock">Настройка защиты</string>
+    <string name="set_new_device_more">Дополнительные системные настройки…</string>
+    <string name="set_new_device_navigationbar">Настройка системной навигации</string>
+    <string name="set_new_device_title">Настройка нового устройства…</string>
+    <string name="set_new_device_wlan">Настройка Wi-Fi</string>
     <string name="settings_phone">Настройки телефона</string>
     <string name="settings_powerkeeper">Данные счетчика шагов</string>
     <string name="settings_sms">Настройки сообщений</string>
@@ -677,8 +712,10 @@
     <string name="size_mega_byte">" МБ"</string>
     <string name="size_peta_byte">" ПБ"</string>
     <string name="size_tera_byte">" ТБ"</string>
+    <string name="skip_transfer">Пропустить</string>
     <string name="skip_underline">Пропустить этот шаг</string>
     <string name="soft_ap_create_failed">Не удалось создать точку доступа</string>
+    <string name="soft_ap_create_failed_apple">Не удалось сгенерировать QR-код</string>
     <string name="soft_ap_creating">Создание точки доступа…</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
@@ -775,6 +812,19 @@
     <string name="title_request_write_settings_perm">Требуется разрешение на изменение настроек системы</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
+    <string name="trans_apple">Подключите iPhone</string>
+    <string name="trans_apple_button_cancel">Отменить передачу</string>
+    <string name="trans_apple_button_cancel_hint">Отменить передачу?</string>
+    <string name="trans_apple_button_cancel_negative">Не отменять</string>
+    <string name="trans_apple_button_cancel_positive">Отменить передачу</string>
+    <string name="trans_apple_button_reconnect">Подключиться снова</string>
+    <string name="trans_apple_hint">Не покидайте эту страницу и не пользуйтесь Wi-Fi до завершения передачи данных.</string>
+    <string name="trans_apple_hint_1_content">Загрузите Mi Mover из App Store или отсканируйте этот QR-код с помощью приложения \"Камера\" вашего iPhone.</string>
+    <string name="trans_apple_hint_1_title">%d. Установите Mi Mover</string>
+    <string name="trans_apple_hint_2_content">Откройте Mi Mover на iPhone, нажмите \"Нажмите для отправки\" и отсканируйте QR-код.</string>
+    <string name="trans_apple_hint_2_title">%d. Подключите устройства</string>
+    <string name="trans_apple_interrupt_sub">Нажмите ниже, чтобы подключиться снова.</string>
+    <string name="trans_apple_interrupt_title">Передача прервана</string>
     <string name="trans_detail_item_app_data_skip_data">Не удалось передать данные приложения</string>
     <string name="trans_detail_item_app_skip_data">Не удалось переместить это приложение</string>
     <string name="trans_detail_qq_data">Данные QQ (включая историю чата)</string>
@@ -792,8 +842,10 @@
     <string name="trans_show_qr_code_label">Подключиться к старому устройству</string>
     <string name="trans_show_qr_code_label_for_pad">Откройте Mi Mover на старом устройстве</string>
     <string name="trans_sync_transfer_data_list">Выберите данные для передачи на старое устройство</string>
+    <string name="trans_sync_transfer_data_list_apple">"Выберите данные для передачи
+на вашем iPhone"</string>
     <string name="trans_sync_transfer_data_list_hint">Подождите…</string>
-    <string name="trans_sync_transfer_data_list_summary_for_pad">Выберите файлы на старом устройстве и нажмите \"Отправить\".</string>
+    <string name="trans_sync_transfer_data_list_summary_for_pad">Выберите данные на старом устройстве и нажмите \"Отправить\".</string>
     <string name="trans_time_format_second">Менее 1 минуты</string>
     <string name="trans_time_spent">Время: %s</string>
     <string name="transfer_bottom_tip">Вы не сможете использовать Wi-Fi или Bluetooth во время передачи. Не покидайте эту страницу.</string>
