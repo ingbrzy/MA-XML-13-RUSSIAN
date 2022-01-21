@@ -145,6 +145,32 @@
         <item>Ответить всем</item>
         <item>Переслать</item>
     </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN Ошибка входа или неверный пароль</item>
+        <item>LOGIN Ошибка входа. Неверный пароль.</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Используйте код авторизации для входа. Подробнее: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Ошибка входа. Пользователь заблокирован.</item>
+        <item>LOGIN errno:1423, ошибка пароля пользователя (sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Неверные учетные данные</item>
+        <item>Ошибка входа. Неверный пароль или служба не доступна.</item>
+        <item>LOGIN imap4 не поддерживается</item>
+        <item>LOGIN errno:1328, пользовательский imap отключен</item>
+        <item>LOGIN Ошибка входа. Пользователь заблокирован.</item>
+        <item>LOGIN пользователь в черном списке</item>
+        <item>LOGIN Ошибка входа. Аккаунт заблокирован. Войдите в свой аккаунт через веб-браузер, чтобы подтвердить свою личность.</item>
+        <item>LOGIN пользователь в черном списке</item>
+        <item>LOGIN errno:1412 status=51 Пароль давно не изменялся. Измените пароль. http://mail.10086.cn</item>
+        <item>LOGIN imap4 не поддерживается</item>
+        <item>LOGIN Ошибка входа. Аккаунт заблокирован. Войдите в свой аккаунт через веб-браузер, чтобы подтвердить свою личность.</item>
+        <item>ERR Ошибка входа или неверный пароль</item>
+        <item>Ошибка входа. Используйте пароль приложения для входа. Подробнее: http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR пользовательский pop3 отключен</item>
+        <item>LOGIN Ошибка входа. Ошибка имени пользователя или пароля.</item>
+        <item>Неверный логин или пароль</item>
+        <item>IP-адрес XXXXXXX в черном списке. Переключите сеть или войдите на https://mail.sohu.com, чтобы настроить белый список IP-адресов клиента</item>
+        <item>java.net.UnknownHostException: Невозможно определить хост XXXX : отсутствует адрес, связанный с именем хоста</item>
+    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Мелкий</item>
         <item>Нормальный</item>

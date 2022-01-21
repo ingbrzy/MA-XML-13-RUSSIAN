@@ -143,6 +143,7 @@
     <string name="account_setup_correct_address_tips">Неверный адрес электронной почты</string>
     <string name="account_setup_creating_account_msg">"    Создание аккаунта…"</string>
     <string name="account_setup_deleting_account_msg">"    Удаление аккаунта…"</string>
+    <string name="account_setup_domain_invalid_toast">Некорректное доменное имя электронной почты, проверьте его</string>
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
     <string name="account_setup_exchange_device_id_label">ID мобильного устройства</string>
     <string name="account_setup_exchange_no_certificate">Не используется</string>
@@ -384,6 +385,7 @@
     <string name="click_download_all_content">[Нажмите для загрузки]</string>
     <string name="click_to_reload">Нажмите для обновления</string>
     <string name="close">Закрыть</string>
+    <string name="close_custom_folder">Свернуть</string>
     <string name="collapse_recipient_details">Скрыть информацию</string>
     <string name="compose">Создать</string>
     <string name="compose_add_attachment_permission_denied">Невозможно переслать электронную почту. Требуется разрешение на доступ к внешней памяти.</string>
@@ -500,6 +502,7 @@
     <string name="default_signature">Отправлено с Mi Phone</string>
     <string name="default_signature_2">Отправлено с %s</string>
     <string name="default_signature_pad">Отправлено с Mi Pad</string>
+    <string name="default_signature_phone">Отправлено с Mi phone</string>
     <string name="del_account_questionnair_hint">Почему вы хотите удалить этот аккаунт?</string>
     <string name="delete">Удалить</string>
     <string name="delete_contact_content">Удалить этот контакт?</string>
@@ -586,6 +589,18 @@
     <string name="eras_bc">до н. э.</string>
     <string name="error">Ошибка</string>
     <string name="error_icon_content_description">Ошибка</string>
+    <string name="error_message_account_or_password">Неверный ID аккаунта или пароль.</string>
+    <string name="error_message_auth_error">Используйте проверочный код для входа.</string>
+    <string name="error_message_blacklist">Ваш аккаунт добавлен в черный список. Обратитесь к провайдеру электронной почты для решения этой проблемы.</string>
+    <string name="error_message_imap_or_pop3_service_not_open">Включите IMAP или POP3 и повторите попытку.</string>
+    <string name="error_message_imap_service_not_open">Включите IMAP и повторите попытку.</string>
+    <string name="error_message_outlook_error">Сначала подтвердите свою личность в веб-версии Outlook.</string>
+    <string name="error_message_respond_revert_03">Доменное имя не существует. Проверьте URL-адрес и повторите попытку.</string>
+    <string name="error_message_respond_revert_06">Неверный пароль.</string>
+    <string name="error_message_respond_revert_07">Не удалось подтвердить вашу личность. Используйте проверочный код для входа в систему.</string>
+    <string name="error_message_respond_revert_16">Срок действия пароля истек. Обновите пароль и выполните вход снова.</string>
+    <string name="error_message_respond_revert_21">Включите POP3 и повторите попытку.</string>
+    <string name="error_message_respond_revert_25">Проверьте подключение к сети и повторите попытку.</string>
     <string name="evening">После полудня</string>
     <string name="exception_cancel">"
         Следующее событие было отменено:
@@ -665,6 +680,7 @@
     <string name="folder_list_current_account">Текущий ящик</string>
     <string name="folder_list_display_all">Отображать все папки</string>
     <string name="folder_list_display_only_import">Отображать только важные папки</string>
+    <string name="folder_list_switch_account">Переключить</string>
     <string name="folder_no_mails">Писем нет</string>
     <string name="folder_notification_setting_tip">\"Входящие\" содержат несколько папок. Установите уведомления о новых сообщениях для определенных папок.</string>
     <string name="folder_picker_title">Выбор папки</string>
@@ -978,6 +994,8 @@
     <string name="mibill_privacy_policy_title">Автоматическое управление платежами</string>
     <string name="midnight">Ночь</string>
     <string name="min_payment_text">Минимальный платеж</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -992,6 +1010,8 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -1163,6 +1183,7 @@
     <string name="one_month">1 месяц</string>
     <string name="one_week">1 неделя</string>
     <string name="open_calendar_and_contacts_permission">Разрешить приложению Почта доступ к контактам и информации календаря в Настройках</string>
+    <string name="open_custom_folder">Развернуть</string>
     <string name="open_external_storage_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">Разрешить приложению Почта доступ к хранилищу, контактам и информации календаря в Настройках</string>
     <string name="open_external_storage_and_contacts_permission">Разрешить приложению Почта доступ к хранилищу и контактам в Настройках</string>
