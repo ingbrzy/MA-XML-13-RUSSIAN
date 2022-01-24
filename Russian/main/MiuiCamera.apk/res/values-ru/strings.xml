@@ -1647,10 +1647,12 @@
     <string name="pref_camera_touch_focus_delay_title">Увеличить время ожидания фокусировки касанием</string>
     <string name="pref_camera_touchafaec_entry_off">Откл.</string>
     <string name="pref_camera_touchafaec_entry_on">Вкл.</string>
+    <string name="pref_camera_track_eye_preferred_description">Отслеживание движения глаз для автоматической фокусировки по глазам, работает когда один человек в кадре.</string>
+    <string name="pref_camera_track_eye_preferred_title">Автофокусировка по глазам</string>
     <string name="pref_camera_track_focus_intro_description">Автоматическое распознавание движущихся людей или животных и удерживание их в фокусе во время съемки. Для отслеживания дважды коснитесь объекта на экране.</string>
     <string name="pref_camera_track_focus_intro_goto">Включить</string>
     <string name="pref_camera_track_focus_preferred_description">Автоматическая фокусировка на движущихся людях или животных. Для отслеживания дважды коснитесь объекта на экране.</string>
-    <string name="pref_camera_track_focus_preferred_title">Автоматическая фокусировка</string>
+    <string name="pref_camera_track_focus_preferred_title">Автофокусировка</string>
     <string name="pref_camera_ubifocus_title">Комбо фокус</string>
     <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искажения на ультраширокоугольных снимках</string>
     <string name="pref_camera_ultra_wide_ldc_title">Коррекция искажений</string>
@@ -1739,6 +1741,7 @@
     <string name="pref_hdr_value_default">Откл.</string>
     <string name="pref_histogram_off">Откл.</string>
     <string name="pref_histogram_on">Вкл.</string>
+    <string name="pref_hybrid_video_mode_description">Использование технологии HLG для улучшения цветов и динамического диапазона видео в высоком разрешении</string>
     <string name="pref_i_n_r_b">Умное шумоподавление</string>
     <string name="pref_k_h">Ушные мониторы</string>
     <string name="pref_k_s_i">Контроль звукозаписи при подключении наушников</string>

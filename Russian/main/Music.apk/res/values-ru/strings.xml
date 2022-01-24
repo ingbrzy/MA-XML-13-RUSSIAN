@@ -533,6 +533,7 @@
     <string name="hungama_category_radio">Радио</string>
     <string name="hungama_category_video">Видео</string>
     <string name="hungama_category_vip">PRO</string>
+    <string name="hungama_download_subscription_toast">Подпишитесь на Hungama Music, чтобы скачать эту песню</string>
     <string name="hungama_free_download_out_summary">Вы больше не можете загружать бесплатные треки. Купить PRO подписку для загрузки без ограничений?</string>
     <string name="hungama_free_download_out_summary_toast">Вы уже загрузили %d треков. Оформите подписку, чтобы загрузить больше.</string>
     <string name="hungama_playlist_category">Категория</string>
