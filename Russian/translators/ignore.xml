@@ -49,6 +49,7 @@
     <string name="account_manager_type_imap">com.android.email</string>
     <string name="account_manager_type_legacy_imap">com.android.email</string>
     <string name="account_manager_type_pop3">com.android.email</string>
+    <string name="account_provider_uri">content://com.android.email.provider/uiaccts</string>
     <string name="account_settings_address">account_settings_address</string>
     <string name="account_settings_background_attachments">account_settings_background_attachments</string>
     <string name="account_settings_bcc">account_settings_bcc</string>
@@ -890,6 +891,7 @@
     <string name="bl_open_failed">手环开通失败,你可以点击其它手环再试</string>
     <string name="bl_open_failed_exit">手环开通失败</string>
     <string name="bl_validate_failed_change_pwd">手环校验失败将转密码支付</string>
+    <string name="blank_place_holder">　</string>
     <string name="ble_profile_1">ble_profile_mi_band</string>
     <string name="ble_profile_2">ble_profile_mi_key</string>
     <string name="bluetooth_item_single_battery_level">%d%%</string>
@@ -1490,6 +1492,7 @@
     <string name="colon">:</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
     <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
+    <string name="command_139_mail_open_pop3_imap">KQ</string>
     <string name="commute_banner_congestion_text">路况拥堵</string>
     <string name="commute_banner_warning_text">预警信息</string>
     <string name="commute_card_drving_button_text">推荐路线导航</string>
@@ -2075,6 +2078,24 @@
     <string name="empty">" "</string>
     <string name="empty_activity_title">" "</string>
     <string name="enumeration_delimiter">" | "</string>
+    <string name="error_message_respond_revert_01">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_02">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_04">@string/error_message_auth_error</string>
+    <string name="error_message_respond_revert_05">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_08">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_09">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_10">@string/error_message_imap_or_pop3_service_not_open</string>
+    <string name="error_message_respond_revert_11">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_12">@string/error_message_blacklist</string>
+    <string name="error_message_respond_revert_14">@string/error_message_outlook_error</string>
+    <string name="error_message_respond_revert_15">@string/error_message_blacklist</string>
+    <string name="error_message_respond_revert_17">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_18">@string/error_message_outlook_error</string>
+    <string name="error_message_respond_revert_19">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_20">@string/error_message_auth_error</string>
+    <string name="error_message_respond_revert_22">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_23">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_24">@string/error_message_blacklist</string>
     <string name="event_lunar_month">月</string>
     <string name="exception_network_error_check_network">网络无法连接</string>
     <string name="exception_network_error_retry">网络出错，请稍后再试</string>
@@ -4539,6 +4560,7 @@
     <string name="united_nations_day">联合国日</string>
     <string name="united_nations_day_tradition">聯合國日</string>
     <string name="unread_convo_overflow">%1$d+</string>
+    <string name="uri_139_mail_open_pop3_imap">10658139139</string>
     <string name="uri_package_details">market://details?id=%1$s</string>
     <string name="url_ad">http://ad.hpplay.cn</string>
     <string name="url_adeng">http://adeng.hpplay.cn</string>
