@@ -215,7 +215,7 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="status_unable_to_connect">Не удалось подключиться к сети</string>
-    <string name="status_wifi_connected">Соединение установлено</string>
+    <string name="status_wifi_connected">Подключено</string>
     <string name="summary_confirm_url_open">"Получена ссылка через NFC: "</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>

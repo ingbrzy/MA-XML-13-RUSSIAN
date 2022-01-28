@@ -2321,7 +2321,7 @@
     <string name="connected_via_network_scorer">Автоматически подключено через %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено через %1$s</string>
-    <string name="connected_wifi">Подключенные сети</string>
+    <string name="connected_wifi">Подключено</string>
     <string name="connecting_to_vpn">Подключение к VPN</string>
     <string name="connection_and_sharing">Подключения</string>
     <string name="connection_control">Управление подключениями</string>
@@ -3052,7 +3052,7 @@
     <string name="dndm_vip_list_starred_contact">Избранные</string>
     <string name="dndm_wristband">Активировать с помощью Mi Band</string>
     <string name="dndm_wristband_detailed">Включить режим \"Не беспокоить\", если Mi Band определит, что вы уснули в течение часа перед запланированным началом</string>
-    <string name="dns_select_dialog_title">Выбор режима приватного DNS</string>
+    <string name="dns_select_dialog_title">Частный DNS-сервер</string>
     <string name="do_disclosure_generic">Этим устройством управляет ваша организация.</string>
     <string name="do_disclosure_learn_more_separator">" "</string>
     <string name="do_disclosure_with_name">Этим устройством управляет %s.</string>
@@ -6214,7 +6214,7 @@
     <string name="notif_type_alerting">Уведомления</string>
     <string name="notif_type_alerting_summary">Звук или вибрация в зависимости от настроек</string>
     <string name="notif_type_conversation">Диалоги</string>
-    <string name="notif_type_conversation_summary">SMS и другие сообщения</string>
+    <string name="notif_type_conversation_summary">SMS, текстовые сообщения и прочая коммуникация</string>
     <string name="notif_type_ongoing">В реальном времени</string>
     <string name="notif_type_ongoing_summary">Уведомления от навигатора, телефона и других приложений</string>
     <string name="notif_type_silent">Без звука</string>
