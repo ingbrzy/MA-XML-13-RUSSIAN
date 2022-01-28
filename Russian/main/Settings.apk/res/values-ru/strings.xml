@@ -9028,7 +9028,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sud_more_button_label">Еще</string>
     <string name="sud_next_button_label">Далее</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Совместимы с полноэкранным режимом</string>
-    <string name="suggested_fingerprint_lock_settings_summary">Разблокируйте устройство с помощью отпечатка</string>
+    <string name="suggested_fingerprint_lock_settings_summary" />
     <string name="suggested_fingerprint_lock_settings_title">Используйте отпечаток</string>
     <string name="suggested_lock_settings_summary">Защитите устройство</string>
     <string name="suggested_lock_settings_title">Блокировка экрана</string>

@@ -1140,6 +1140,17 @@
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>NR только</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_world_mode">
         <item>LTE, CDMA, EvDo, GSM/WCDMA</item>
@@ -1507,12 +1518,10 @@
         <item>PIN-код этого устройства</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Нет</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>Нет</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
         <item>SIM</item>

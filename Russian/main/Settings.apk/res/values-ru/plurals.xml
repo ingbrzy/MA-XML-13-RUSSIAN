@@ -59,17 +59,16 @@
         <item quantity="one">Сверхкраткая задержка (%1$d мсек.)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">Долгая задержка (%1$d мсек.)</item>
-        <item quantity="one">Долгая задержка (%1$d мсек.)</item>
+        <item quantity="other">Долгая задержка (%1$s мсек.)</item>
+        <item quantity="one">Долгая задержка (%1$s мсек.)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
-        <item quantity="other">Средняя (%1$s секунд)</item>
-        <item quantity="one">Средняя (%1$s секунда)</item>
-        <item quantity="few">Средняя (%1$s секунды)</item>
+        <item quantity="other">Средняя (%1$s сек.)</item>
+        <item quantity="one">Средняя (%1$s сек.)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">Короткая задержка (%1$d мсек.)</item>
-        <item quantity="one">Короткая задержка (%1$d мсек.)</item>
+        <item quantity="other">Короткая задержка (%1$s мсек.)</item>
+        <item quantity="one">Короткая задержка (%1$s мсек.)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
         <item quantity="other">Очень долгая задержка (%1$d мсек.)</item>
@@ -756,9 +755,9 @@
         <item quantity="few">Неверный PIN-код. Осталось %d попытки.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Уведомления от %1$d приложений могут изменить режим \"Не беспокоить\"</item>
-        <item quantity="zero">Нет приложений, которые могут изменить режим \"Не беспокоить\"</item>
-        <item quantity="one">Уведомления от 1 приложения могут изменить режим \"Не беспокоить\"</item>
+        <item quantity="other">%s могут прерывать режим</item>
+        <item quantity="zero">Нет приложений, которые могут прерывать режим</item>
+        <item quantity="one">%s может прерывать режим</item>
     </plurals>
     <plurals name="zen_mode_contacts_count">
         <item quantity="other">%d контактов</item>
