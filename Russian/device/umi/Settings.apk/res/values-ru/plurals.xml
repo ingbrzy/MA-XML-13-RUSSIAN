@@ -164,6 +164,10 @@
         <item quantity="few">%d доступных устройства</item>
         <item quantity="one">%d доступное устройство</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Каждые %d сек.</item>
         <item quantity="one">Каждую %d сек.</item>
@@ -265,13 +269,13 @@
         <item quantity="other">Только что</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
-        <item quantity="other">%1$d из %2$d приложений имеют доступ к местоположению</item>
-        <item quantity="one">%1$d из %2$d приложений имеют доступ к местоположению</item>
+        <item quantity="other">%1$d из %2$d приложений используют геолокацию</item>
+        <item quantity="one">%1$d из %2$d приложений используют геолокацию</item>
     </plurals>
     <plurals name="location_settings_summary_location_on">
-        <item quantity="other">Вкл. - %1$d приложений имеют доступ к местоположению</item>
-        <item quantity="one">Вкл. - %1$d приложение имеет доступ к местоположению</item>
-        <item quantity="few">Вкл. - %1$d приложения имеют доступ к местоположению</item>
+        <item quantity="other">Вкл. - %1$d приложений используют геолокацию</item>
+        <item quantity="one">Вкл. - %1$d приложение использует геолокацию</item>
+        <item quantity="few">Вкл. - %1$d приложения используют геолокацию</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Используйте как минимум %d букв</item>
@@ -299,9 +303,9 @@
         <item quantity="few">Используйте как минимум %d цифры</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Используйте как минимум %d специальных символов</item>
-        <item quantity="one">Используйте как минимум %d специальный символ</item>
-        <item quantity="few">Используйте как минимум %d специальных символа</item>
+        <item quantity="other">Используйте как минимум %d спецсимволов</item>
+        <item quantity="one">Используйте как минимум %d спецсимвол</item>
+        <item quantity="few">Используйте как минимум %d спецсимвола</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Используйте как минимум %d заглавных букв</item>
@@ -500,9 +504,9 @@
         <item quantity="few">%s секунды</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">Настроено %1$d отпечатков</item>
-        <item quantity="one">Настроен %1$d отпечаток</item>
-        <item quantity="few">Настроено %1$d отпечатка</item>
+        <item quantity="other">Добавлено %1$d отпечатков</item>
+        <item quantity="one">Добавлен %1$d отпечаток</item>
+        <item quantity="few">Добавлено %1$d отпечатка</item>
     </plurals>
     <plurals name="see_all_apps_title">
         <item quantity="other">Просмотр всех %1$d приложений</item>
@@ -554,9 +558,9 @@
         <item quantity="few"> Сохранено %1$d слуховых аппарата</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Осталось %1$d шагов до открытия информации о телефоне</item>
-        <item quantity="one">Остался %1$d шаг до открытия информации о телефоне</item>
-        <item quantity="few">Осталось %1$d шага до открытия информации о телефоне</item>
+        <item quantity="other">Осталось %1$d шагов до открытия информации об устройстве</item>
+        <item quantity="one">Остался %1$d шаг до открытия информации об устройстве</item>
+        <item quantity="few">Осталось %1$d шага до открытия информации об устройстве</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Осталось %1$d шагов до отправки отчета об ошибках</item>

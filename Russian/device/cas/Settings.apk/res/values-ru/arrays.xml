@@ -197,7 +197,7 @@
         <item>громкость Bluetooth-устройств</item>
         <item>не отключать</item>
         <item>Отслеживать местоположение</item>
-        <item>контролировать использование энергии при определении местоположения</item>
+        <item>контролировать использование заряда при геолокации</item>
         <item>посмотреть статистику использования</item>
         <item>включить/отключить микрофон</item>
         <item>показ оповещения</item>
@@ -358,11 +358,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
+        <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>Включить дополнительные кодеки</item>
-        <item>Отключить дополнительные кодеки</item>
+        <item>Отключить дополнительные кодеки</item>		
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Выбор системы</item>
@@ -373,11 +373,11 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
+        <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>Включить дополнительные кодеки</item>
-        <item>Отключить дополнительные кодеки</item>
+        <item>Отключить дополнительные кодеки</item>		
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -386,9 +386,9 @@
         <item>" | Активно (устройство)"</item>
     </string-array>	
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (по умолчанию)</item>
+        <item>AVRCP 1.5 (по умолчанию)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
@@ -408,8 +408,6 @@
     <string-array name="bt_hci_snoop_log_entries">
         <item>Отключен</item>
         <item>Включен фильтр</item>
-        <item>Включен фильтр заголовков</item>
-        <item>Включен фильтр медиа пакетов</item>
         <item>Включен</item>
     </string-array>	
     <string-array name="button_light_timeout_entries">
@@ -797,7 +795,7 @@
         <item>Красный</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Блокировка экрана</item>
+        <item>Разблокировка устройства</item>
         <item>Защита личных данных</item>
         <item>Детский режим</item>
         <item>Проводник</item>
@@ -1154,7 +1152,7 @@
         <item>GSM/WCDMA предпочтительно</item>
     </string-array>	
     <string-array name="priority_storage_entries">
-        <item>Внутренняя память</item>
+        <item>Хранилище</item>
         <item>Внешний накопитель</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
@@ -1247,6 +1245,15 @@
         <item>10 мин.</item>
         <item>Не выключать</item>
     </string-array>
+    <string-array name="screen_timeout_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>2147483645</item>
+    </string-array>	
     <string-array name="security_settings_premium_sms_values">
         <item>Спросить</item>
         <item>Запретить</item>
@@ -1264,7 +1271,7 @@
         <item>256 КБ на буфер</item>
         <item>1 МБ на буфер</item>
         <item>4 МБ на буфер</item>
-        <item>16 МБ на буфер</item>
+        <item>8 МБ на буфер</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Отключен</item>
@@ -1272,7 +1279,7 @@
         <item>256 КБ</item>
         <item>1 МБ</item>
         <item>4 МБ</item>
-        <item>16 МБ</item>
+        <item>8 МБ</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Отключен</item>
