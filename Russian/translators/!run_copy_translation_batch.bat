@@ -5,7 +5,6 @@ if "%~1"=="" (
   goto _end_batch
 )
 ;
-call run_copy_translation.bat %1 AppIndexProvider
 call run_copy_translation.bat %1 AuthManager
 call run_copy_translation.bat %1 Backup
 call run_copy_translation.bat %1 BackupRestoreConfirmation
@@ -15,8 +14,6 @@ call run_copy_translation.bat %1 BuiltInPrintService
 call run_copy_translation.bat %1 Calculator
 call run_copy_translation.bat %1 Calendar
 call run_copy_translation.bat %1 CalendarProvider
-call run_copy_translation.bat %1 CallEnhancement
-call run_copy_translation.bat %1 CellBroadcastReceiver
 call run_copy_translation.bat %1 CertInstaller
 call run_copy_translation.bat %1 CleanMaster
 call run_copy_translation.bat %1 CloudBackup
@@ -28,7 +25,6 @@ call run_copy_translation.bat %1 ContactsProvider
 call run_copy_translation.bat %1 DeskClock
 call run_copy_translation.bat %1 DownloadProvider
 call run_copy_translation.bat %1 DownloadProviderUi
-call run_copy_translation.bat %1 EasterEgg
 call run_copy_translation.bat %1 Email
 call run_copy_translation.bat %1 EmergencyInfo.apk
 call run_copy_translation.bat %1 ExternalStorageProvider
@@ -36,7 +32,6 @@ call run_copy_translation.bat %1 FileExplorer
 call run_copy_translation.bat %1 FindDevice
 call run_copy_translation.bat %1 FM
 call run_copy_translation.bat %1 framework-res
-call run_copy_translation.bat %1 FrequentPhrase
 call run_copy_translation.bat %1 GuardProvider
 call run_copy_translation.bat %1 Health
 call run_copy_translation.bat %1 HTMLViewer
@@ -55,14 +50,12 @@ call run_copy_translation.bat %1 MiGalleryLockscreen
 call run_copy_translation.bat %1 MiLinkService
 call run_copy_translation.bat %1 MiMover
 call run_copy_translation.bat %1 MiRadio
-call run_copy_translation.bat %1 MiRecycle
 call run_copy_translation.bat %1 Mirror
 call run_copy_translation.bat %1 MiService
 call run_copy_translation.bat %1 MiSettings
 call run_copy_translation.bat %1 MiShare
 call run_copy_translation.bat %1 MiSound
 call run_copy_translation.bat %1 MiSubScreenUi
-call run_copy_translation.bat %1 MiuiAccessibility
 call run_copy_translation.bat %1 MiuiAod
 call run_copy_translation.bat %1 MiuiBiometric
 call run_copy_translation.bat %1 MiuiBluetooth
@@ -81,10 +74,8 @@ call run_copy_translation.bat %1 MiuiScreenRecorder
 call run_copy_translation.bat %1 MiuiScreenshot
 call run_copy_translation.bat %1 MiuiSystemUI
 call run_copy_translation.bat %1 MiuiSystemUIPlugin
-call run_copy_translation.bat %1 MiuiTelecomOverlay
 call run_copy_translation.bat %1 MiuiVideoGlobal
 call run_copy_translation.bat %1 MiuiWallpaper
-call run_copy_translation.bat %1 MiWeatherWallpaper
 call run_copy_translation.bat %1 Mms
 call run_copy_translation.bat %1 Music
 call run_copy_translation.bat %1 MusicFX
@@ -95,19 +86,18 @@ call run_copy_translation.bat %1 PaymentService
 call run_copy_translation.bat %1 PersonalAssistant
 call run_copy_translation.bat %1 PowerChecker
 call run_copy_translation.bat %1 PowerKeeper
-call run_copy_translation.bat %1 PrintRecommendationService
 call run_copy_translation.bat %1 PrintSpooler
-call run_copy_translation.bat %1 Protips
 call run_copy_translation.bat %1 Provision
 call run_copy_translation.bat %1 QuickSearchBox
 call run_copy_translation.bat %1 SecurityAdd
 call run_copy_translation.bat %1 SecurityCenter
 call run_copy_translation.bat %1 SecurityCoreAdd
+call run_copy_translation.bat %1 ServiceConnectivityResources
+call run_copy_translation.bat %1 ServiceWifiResources
 call run_copy_translation.bat %1 Settings
 call run_copy_translation.bat %1 SettingsProvider
 call run_copy_translation.bat %1 Shell
-call run_copy_translation.bat %1 slaservice
-call run_copy_translation.bat %1 SmsExtra
+call run_copy_translation.bat %1 SmartHomePlus
 call run_copy_translation.bat %1 SoundPicker
 call run_copy_translation.bat %1 SoundRecorder
 call run_copy_translation.bat %1 Tag
@@ -130,7 +120,6 @@ call run_copy_translation.bat %1 XiaomiAccount
 call run_copy_translation.bat %1 XiaomiEUExt
 call run_copy_translation.bat %1 XiaomiServiceFramework
 call run_copy_translation.bat %1 XiaomiSimActivateService
-call run_copy_translation.bat %1 XMRemoteController
 
 ;
 call run_copy_translation.bat %1 framework-ext-res -rRU
