@@ -76,6 +76,8 @@
     <string-array name="bing_zh_CN_in_list"></string-array>
     <string-array name="ble_frequencytype"></string-array>
     <string-array name="ble_packages"></string-array>
+    <string-array name="blood_type_content_description"></string-array>
+    <string-array name="blood_type_entries"></string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_values"></string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_values"></string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values"></string-array>
@@ -444,6 +446,7 @@
     <string-array name="operate_memory_entryValues"></string-array>
     <string-array name="operator_defined_alert_range_strings"></string-array>
     <string-array name="operators"></string-array>
+    <string-array name="organ_donor_entries"></string-array>
     <string-array name="organized_inputmethod_list_international"></string-array>
     <string-array name="organized_inputmethod_list_international_ee"></string-array>
     <string-array name="organized_inputmethod_list_international_hu"></string-array>

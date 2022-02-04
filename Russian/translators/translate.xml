@@ -534,7 +534,8 @@ ID: %s
     <string name="guest_resetting">Сброс гостевого аккаунта…</string>
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
-    <string name="help_label">Помощь и обратная связь</string>
+    <string name="help_feedback_label">Обратная связь</string>
+    <string name="help_label">Справка/отзыв</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>

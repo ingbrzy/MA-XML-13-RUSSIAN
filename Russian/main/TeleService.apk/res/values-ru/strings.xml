@@ -1270,8 +1270,8 @@
     <string name="handon_ringer_title">Приглушать звонок при взятии в руки</string>
     <string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
-    <string name="help_feedback_label">Справка/отзыв</string>
-    <string name="help_label">Помощь и обратная связь</string>
+    <string name="help_feedback_label">Обратная связь</string>
+    <string name="help_label">Справка/отзыв</string>
     <string name="help_url_imsi_protection"/>
     <string name="home">Настройки</string>
     <string name="icon_content_description">Иконка диалога</string>
