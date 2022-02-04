@@ -410,6 +410,11 @@ ID:%s
     <string name="dialog_sleep_goal_title">Продолжительность сна</string>
     <string name="dialog_sleep_record_auto_start">Для получения более точной статистики разрешите приложению Здоровье автозапуск.</string>
     <string name="dialog_sure">ОК</string>
+    <string name="dialog_upgrade_description">"1. Новый дизайн.
+2. Синхронизация данных между устройствами.
+3. Данные о состоянии здоровья из приложений Здоровье, Xiaomi Wear и других приложений в одном месте."</string>
+    <string name="dialog_upgrade_positive_btn">Обновить</string>
+    <string name="dialog_upgrade_title">Mi Фитнес</string>
     <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Используйте приложение для подсчета пройденных шагов, сбора статистики о вашем сне, менструальном цикле и весе, а также для синхронизации статистики с облаком.</string>
     <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Вы можете использовать это приложение для спортивного шагомера, отслеживания сна, менструального цикла, веса, а также для использования сервиса Xiaomi Health Cloud и других функций.</string>
     <string name="diastolic_pressure">Диастолическое</string>
