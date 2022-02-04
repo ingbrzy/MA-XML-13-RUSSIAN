@@ -26,7 +26,7 @@ call run_copy_translation.bat %1 DeskClock
 call run_copy_translation.bat %1 DownloadProvider
 call run_copy_translation.bat %1 DownloadProviderUi
 call run_copy_translation.bat %1 Email
-call run_copy_translation.bat %1 EmergencyInfo.apk
+call run_copy_translation.bat %1 EmergencyInfo
 call run_copy_translation.bat %1 ExternalStorageProvider
 call run_copy_translation.bat %1 FileExplorer
 call run_copy_translation.bat %1 FindDevice
