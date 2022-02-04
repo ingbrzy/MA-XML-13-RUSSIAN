@@ -3268,6 +3268,7 @@
     <string name="person_have_hongbao"> </string>
     <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
     <string name="phone_info_divider">" ｜ "</string>
+    <string name="phone_type_and_phone_number">%1$s • %2$s</string>
     <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_transition_image_view">photo_view</string>

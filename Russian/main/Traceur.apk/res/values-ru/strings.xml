@@ -680,7 +680,7 @@
     <string name="thirty_minutes">30 минут</string>
     <string name="thirtytwo_thousand_kb">32768 КБ</string>
     <string name="time_unit_just_now">Сейчас</string>
-    <string name="title_convert_fbe">Переход к шифрованию отдельных файлов…</string>
+    <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
     <string name="trace_debuggable_applications">Трассировка отлаживаемых приложений</string>
     <string name="trace_is_being_recorded">Трассировка записана</string>
     <string name="trace_saved">Трассировка сохранена</string>

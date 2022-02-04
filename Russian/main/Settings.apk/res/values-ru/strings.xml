@@ -9282,7 +9282,7 @@ UT-интерфейс: %5$s"</string>
     <string name="timezone_settings">Часовой пояс</string>
     <string name="tip_remove_data">Сброс к заводским настройкам удалит эти элементы с вашего устройства</string>
     <string name="title_color_calibration">Коррекция цвета</string>
-    <string name="title_convert_fbe">Переход к шифрованию отдельных файлов…</string>
+    <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
     <string name="title_font">Шрифт</string>
     <string name="title_font2">Шрифт</string>
     <string name="title_font_current">Системный шрифт</string>
