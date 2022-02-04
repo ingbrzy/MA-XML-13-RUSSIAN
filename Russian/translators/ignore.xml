@@ -2168,6 +2168,7 @@
     <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="flatshow_page_no">%1$d</string>
+    <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
     <string name="flybird_auto_switch_channel">系统推荐</string>
     <string name="flybird_baoxian_close_text">开启账户安全险，享100万保险</string>
     <string name="flybird_baoxian_open_text">账户安全险保障中</string>

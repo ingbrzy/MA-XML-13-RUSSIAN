@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_frequent_phrases">Добавить частые фразы</string>
+    <string name="call">Вызов</string>
+    <string name="edit_frequent_phrases">Редактировать частые фразы</string>
+    <string name="floating_toolbar_close_overflow_description">Закрыть доп. меню</string>
+    <string name="floating_toolbar_open_overflow_description">Ещё</string>
+    <string name="frequent_phrases">Частые фразы</string>
+    <string name="open">Просмотр</string>
+    <string name="query">Запрос</string>
+    <string name="select">Выбрать</string>
+    <string name="translate">Перевести</string>
+    <string name="translation_more">Еще</string>
+    <string name="translation_query_error">Ничего не найдено</string>
+    <string name="translation_query_error_network">Не удалось получить информацию. Проверьте подключение к сети и повторите попытку.</string>
 </resources>

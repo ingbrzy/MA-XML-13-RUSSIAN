@@ -76,6 +76,7 @@ call run_copy_translation.bat %1 MiuiSystemUI
 call run_copy_translation.bat %1 MiuiSystemUIPlugin
 call run_copy_translation.bat %1 MiuiVideoGlobal
 call run_copy_translation.bat %1 MiuiWallpaper
+call run_copy_translation.bat %1 MiuixEditor
 call run_copy_translation.bat %1 Mms
 call run_copy_translation.bat %1 Music
 call run_copy_translation.bat %1 MusicFX
