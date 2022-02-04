@@ -179,11 +179,15 @@
     <string-array name="config_drip_right_block_statusBarIcons"></string-array>
     <string-array name="config_except_charge_support_lite"></string-array>
     <string-array name="config_forbidenLongScreenshot"></string-array>
+    <string-array name="config_legacy_networktype_restore_timers"></string-array>
     <string-array name="config_load_only_fiveg_apns"></string-array>
+    <array name="config_networkNotifySwitches" />
+    <string-array name="config_networkSupportedKeepaliveCount"></string-array>
     <integer-array name="config_notification_snooze_times"></integer-array>
     <string-array name="config_pluginWhitelist"></string-array>
     <string-array name="config_preInstalledPackages"></string-array>
     <string-array name="config_prioritizedPackages"></string-array>
+    <integer-array name="config_protectedNetworks"></integer-array>
     <string-array name="config_quickSettingsAutoAdd"></string-array>
     <string-array name="config_rcs_provision_error_on_publish_response"></string-array>
     <string-array name="config_show_datatraffic_dialog_mccmnc"></string-array>
@@ -196,6 +200,7 @@
     <string-array name="config_systemUIServiceComponents"></string-array>
     <string-array name="config_systemUIServiceComponentsPerUser"></string-array>
     <string-array name="config_volte_provision_error_on_publish_response"></string-array>
+    <array name="config_wakeonlan_supported_interfaces" />
     <string-array name="config_xmsfNotificationChannel"></string-array>
     <string-array name="connect_disconnect_vibrate_entries"></string-array>
     <string-array name="connect_disconnect_vibrate_entry_values"></string-array>

@@ -3,6 +3,7 @@
     <string name="accept">Принять</string>
     <string name="config_wifiSoftap2gChannelList" />
     <string name="config_wifiSoftap5gChannelList" />
+    <string name="config_wifiSoftap60gChannelList" />
     <string name="config_wifiSoftap6gChannelList" />
     <string name="decline">Отклонить</string>
     <string name="dlg_ok">ОК</string>
@@ -68,5 +69,4 @@
     <string name="wifi_wakeup_onboarding_title">Wi-Fi включится автоматически</string>
     <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение."</string>
-
 </resources>

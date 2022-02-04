@@ -1641,6 +1641,8 @@
     <string name="config_wallpaper_picker_class">com.android.settings.Settings$WallpaperSettingsActivity</string>
     <string name="config_wallpaper_picker_launch_extra">com.android.wallpaper.LAUNCH_SOURCE</string>
     <string name="config_wallpaper_picker_package">com.android.settings</string>
+    <string name="config_wifiCoexTableFilepath">/vendor/etc/wifi/coex_table.xml</string>
+    <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
     <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
     <string name="config_wifi_random_mac_oui">DA-A1-19</string>

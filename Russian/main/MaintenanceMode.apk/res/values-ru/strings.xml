@@ -144,6 +144,7 @@
     <string name="open_maintenance_mode">Открыть режим обслуживания</string>
     <string name="open_maintenance_mode_msg">Чтобы избежать потери данных, рекомендуется выполнить резервное копирование до отправки устройства в ремонт</string>
     <string name="open_maintenance_mode_msg_sub">Резервное копирование данных</string>
+    <string name="open_maintenance_mode_tips">Идет удаление связанных данных после отключения режима обслуживания. Повторите попытку позже.</string>
     <string name="reached_max_user">Достигнуто максимальное количество пользователей</string>
     <string name="reboot_maintenance_mode">Удаление режима обслуживания завершено, для повышения производительности устройства перезагрузите его.</string>
     <string name="reboot_msg">Включение режима обслуживания перезагрузит устройство, убедитесь, что оно включилось сразу после перезагрузки</string>
