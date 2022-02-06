@@ -72,12 +72,12 @@
     <string name="activate_popup_confirm_failed_receive_sms">Повторить</string>
     <string name="activate_popup_confirm_failed_send_sms">Повторить</string>
     <string name="activate_popup_confirm_failed_server">Повторить</string>
-    <string name="activate_popup_desc_2_intl_sim_cards">Для активации %s будет отправлено 2 международных SMS. Оплата согласно тарифу вашего оператора.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg">Для активации %2$s будет отправлено %1$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Для активации %2$s будет отправлено &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>. Оплата согласно тарифу вашего оператора.</string>
-    <string name="activate_popup_desc_2_sim_cards">Для активации %s будет отправлено 2 обычных SMS. Оплата согласно тарифу вашего оператора.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg">Для активации %2$s будет отправлено %1$d обычн. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Для активации %2$s будет отправлено &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>. Оплата согласно тарифу вашего оператора.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards">Для активации сервиса %s будет отправлено 2 международных SMS. Оплата согласно тарифу вашего оператора.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg">Для активации сервиса \"%2$s\" будет отправлено %1$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Для активации сервиса \"%2$s\" будет отправлено &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>. Оплата согласно тарифу вашего оператора</string>
+    <string name="activate_popup_desc_2_sim_cards">Для активации сервиса %s будет отправлено 2 обычных SMS. Оплата согласно тарифу вашего оператора.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg">Для активации сервиса \"%2$s\" будет отправлено %1$d обычн. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Для активации сервиса %2$s будет отправлено &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font>. Оплата согласно тарифу вашего оператора</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Не удалось найти номер телефона. Убедитесь, что SIM-карта активирована.
 Введите номер телефона новой SIM-карты для повторной активации %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Не удалось отправить SMS для активации. Убедитесь, что SIM-карта активирована.
@@ -96,12 +96,12 @@
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Для активации %3$s введите номер телефона SIM-карты %2$d. Если вы замените эту SIM-карту, будет отправлено еще одно SMS для активации.</string>
     <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Для активации %2$s введите номер телефона. Если вы замените эту SIM-карту, будет отправлено еще одно SMS для активации.</string>
     <string name="activate_popup_desc_intl_sim_card">Для активации %s будет отправлено международное SMS. Оплата согласно тарифу вашего оператора.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg">Для активации %2$s будет отправлено %1$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Для активации %2$s будет отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>. Оплата согласно тарифу вашего оператора.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg">Для активации сервиса \"%2$s\" будет отправлено %1$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Для активации сервиса \"%2$s\" будет отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>В случае каких-либо вопросов, обратитесь к &lt;a href="https://account.xiaomi.com/helpcenter/faq">Руководству пользователя Mi аккаунта&lt;/a>.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">Для активации %s будет отправлено 2 SMS (обычное и международное). Оплата согласно тарифу вашего оператора.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg">Для активации %3$s будет отправлено %1$d обычн. и %2$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Для активации %3$s будет отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b> и &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>. Оплата согласно тарифу вашего оператора.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg">Для активации сервиса \"%3$s\" будет отправлено %1$d обычн. и %2$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Для активации сервиса \"%3$s\" будет отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font> и &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Вы заменили SIM карту. Для активации %s будет отправлено 2 международных SMS. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_new_2_sim_cards">Вы заменили SIM карту. Для активации %s будет отправлено 2 обычных SMS. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_new_intl_sim_card">Вы заменили SIM карту. Для активации %s будет отправлено международное SMS. Оплата согласно тарифу вашего оператора.</string>

@@ -3816,8 +3816,8 @@
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
 	
 • Потяните вниз панель действий плавающего окна.
-• Нажмите кнопку \"Плавающие окна\" в Недавних приложениях для выбора приложения.
-• Зажмите миниатюру приложения в Недавних приложениях и нажмите значок \"Плавающего окна\"."</string>
+• Нажмите кнопку \"Плавающие окна\" в Недавних и выберите приложение.
+• Зажмите миниатюру приложения в Недавних и нажмите значок \"Плавающего окна\"."</string>
     <string name="freeform_vedio_description_pad">Перетащите элемент из панели, чтобы открыть плавающее окно</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
@@ -4768,8 +4768,8 @@
     <string name="locale_not_translated">Может быть недоступен в некоторых приложениях</string>
     <string name="locale_remove_menu">Удалить</string>
     <string name="locale_settings">Регион</string>
-    <string name="location_access_summary">Разрешить приложениям использовать геолокацию</string>
-    <string name="location_access_title">Использование геолокации</string>
+    <string name="location_access_summary">Приложения, у которых есть разрешение использовать геолокацию, смогут получать информацию о местоположении</string>
+    <string name="location_access_title">Разрешить геолокацию</string>
     <string name="location_agps_apn_choose_dialog_title">Тип APN</string>
     <string name="location_agps_apn_summary">Выберите тип APN</string>
     <string name="location_agps_apn_type">Тип APN</string>
@@ -4794,9 +4794,9 @@
     <string name="location_agps_supl_server_addr">Сервер</string>
     <string name="location_agps_supl_server_port">Порт</string>
     <string name="location_agps_supl_settings">Настройки SUPL</string>
-    <string name="location_app_level_permissions">Использование геолокации приложениями</string>
-    <string name="location_app_permission_summary_location_off">Использование геолокации отключено</string>
-    <string name="location_category">Местоположение</string>
+    <string name="location_app_level_permissions">Геолокация для приложений</string>
+    <string name="location_app_permission_summary_location_off">Геолокация отключена</string>
+    <string name="location_category">Геолокация</string>
     <string name="location_category_location_services">Геолокация</string>
     <string name="location_category_recent_location_access">Недавний доступ</string>
     <string name="location_category_recent_location_requests">Недавние запросы</string>
@@ -4813,22 +4813,22 @@
     <string name="location_mode_screen_title">Режим геолокации</string>
     <string name="location_mode_sensors_only_description">Использовать GPS для геолокации</string>
     <string name="location_mode_sensors_only_title">По спутникам GPS</string>
-    <string name="location_modem_summary">Разрешение операторам связи определять местоположение устройства по базовым станциям</string>
-    <string name="location_modem_title">Разрешение операторам связи</string>
+    <string name="location_modem_summary">Разрешить оператору связи определять местоположение устройства по базовым станциям</string>
+    <string name="location_modem_title">Геолокация для оператора связи</string>
     <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для геолокации</string>
     <string name="location_neighborhood_level_wifi">По сетям Wi-Fi</string>
     <string name="location_network_based">По Wi-Fi и мобильным сетям</string>
-    <string name="location_no_recent_accesses">Запросы отсутствуют</string>
+    <string name="location_no_recent_accesses">Нет приложений</string>
     <string name="location_no_recent_apps">Запросы отсутствуют</string>
-    <string name="location_recent_location_access_see_all">Показать все</string>
+    <string name="location_recent_location_access_see_all">История доступа</string>
     <string name="location_recent_location_access_view_details">Подробнее</string>
-    <string name="location_recent_location_requests_see_all">Показать все</string>
+    <string name="location_recent_location_requests_see_all">Все запросы</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Разрешить приложениям и сервисам искать устройства поблизости, даже когда Bluetooth отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Поиск устройств Bluetooth</string>
     <string name="location_scanning_screen_title">Поиск</string>
     <string name="location_scanning_wifi_always_scanning_description">Разрешить приложениям и сервисам искать сети Wi-Fi, даже когда Wi-Fi отключен. Это может улучшить работу функций и сервисов, использующих данные о местоположении.</string>
     <string name="location_scanning_wifi_always_scanning_title">Поиск сетей Wi-Fi</string>
-    <string name="location_services_preference_title">Геолокация</string>
+    <string name="location_services_preference_title">Сервисы геолокации</string>
     <string name="location_services_screen_title">Геолокация</string>
     <string name="location_settings_footer_general">Приложения с доступом к устройствам поблизости могут определять относительное местоположение подключенных устройств</string>
     <string name="location_settings_footer_learn_more_content_description">Подробнее о настройках местоположения…</string>
@@ -4837,7 +4837,7 @@
     <string name="location_settings_master_switch_title">Использование геолокации</string>
     <string name="location_settings_primary_switch_title">Использование геолокации</string>
     <string name="location_settings_summary_location_off">Откл.</string>
-    <string name="location_settings_title">Местоположение</string>
+    <string name="location_settings_title">Геолокация</string>
     <string name="location_sources_heading">Геолокация</string>
     <string name="location_street_level">Разрешить приложениям использовать GPS для точной геолокации</string>
     <string name="location_time_zone_detection_auto_is_off">Автоопределение часового пояса отключено</string>
@@ -5690,7 +5690,7 @@
     <string name="mms_breathing_light_freq_title">Частота мерцания для сообщений</string>
     <string name="mms_message_summary">Отправка и получение при отключенном мобильном интернете</string>
     <string name="mms_message_title">MMS-сообщения</string>
-    <string name="mms_privacy_password_role_instruction">Здесь будут храниться ваши скрытые диалоги</string>
+    <string name="mms_privacy_password_role_instruction">Ваши личные диалоги будут храниться здесь</string>
     <string name="mobile_connect_to_internet">Подключитесь к интернету</string>
     <string name="mobile_data_active">Мобильный интернет включен</string>
     <string name="mobile_data_always_on">Мобильный интернет</string>
@@ -6205,7 +6205,7 @@
     <string name="notch_style_show">Не скрывать</string>
     <string name="notch_style_status_bar_inside">Скрыть без перемещения строки состояния</string>
     <string name="notch_style_status_bar_outside">Скрыть и переместить строку состояния</string>
-    <string name="notes_privacy_password_role_instruction">Здесь будут храниться ваши скрытые заметки</string>
+    <string name="notes_privacy_password_role_instruction">Ваши скрытые заметки будут храниться здесь</string>
     <string name="notice_header" />
     <string name="notif_listener_excluded_app_screen_title">Приложения, показываемые на устройстве</string>
     <string name="notif_listener_excluded_app_summary">Изменение настроек для приложений, отправляющих уведомления</string>
@@ -7186,7 +7186,7 @@ UT-интерфейс: %5$s"</string>
     <string name="recent_conversations">Недавние диалоги</string>
     <string name="recent_convo_removed">Диалог удален</string>
     <string name="recent_convos_removed">Недавние диалоги удалены</string>
-    <string name="recent_location_requests_summary">Управление разрешениями приложений</string>
+    <string name="recent_location_requests_summary">Настройка геолокации для приложений</string>
     <string name="recent_location_requests_title">Использование геолокации</string>
     <string name="recent_notifications">Недавно отправленные</string>
     <string name="recent_notifications_see_all_title">За последние 7 дней</string>
@@ -7334,8 +7334,8 @@ UT-интерфейс: %5$s"</string>
     <string name="restricted_true_label">Установлено ограничение</string>
     <string name="restriction_bluetooth_config_summary">Разрешить изменение настроек Bluetooth-подключения</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
-    <string name="restriction_location_enable_summary">Разрешить приложениям использовать данные о вашем местоположении</string>
-    <string name="restriction_location_enable_title">Местоположение</string>
+    <string name="restriction_location_enable_summary">Разрешить приложениям использовать геолокацию</string>
+    <string name="restriction_location_enable_title">Геолокация</string>
     <string name="restriction_menu_change_pin">Изменить PIN-код</string>
     <string name="restriction_menu_reset">Отменить ограничения</string>
     <string name="restriction_nfc_enable_summary">Разрешить обмен данными, когда вы подносите устройство к другому устройству</string>
@@ -8613,7 +8613,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_policy_revoke">Отзыв согласия</string>
     <string name="sos_privacy_policy_revoke_message_reject">"Если вы продолжите, согласие с Политикой конфиденциальности функции \"Экстренный вызов\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока, в соответствии с действующими законами и правилами, если не требуется иное.
 
-Поскольку функция \"Экстренный вызов\" предоставляет свои сервисы на основе сбора необходимой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов безопасности.
+Поскольку функция \"Экстренный вызов\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов безопасности.
 
 Отозвать согласие для %s?"</string>
     <string name="sos_privacy_policy_revoke_title_reject">Внимание</string>
@@ -10153,7 +10153,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wfc_disclaimer_location_desc_text">"Для предоставления этой услуги оператор связи может собирать сведения о вашем местоположении.
 
 Ознакомьтесь с Политикой конфиденциальности оператора."</string>
-    <string name="wfc_disclaimer_location_title_text">Местоположение</string>
+    <string name="wfc_disclaimer_location_title_text">Геолокация</string>
     <string name="wfc_disclaimer_title_text">Важная информация</string>
     <string name="wfc_provisioned_switch_string">Связь по Wi-Fi предоставлена</string>
     <string name="wfd_available_devices">Доступные устройства</string>
