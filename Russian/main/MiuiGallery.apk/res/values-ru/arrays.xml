@@ -78,6 +78,19 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
+    <string-array name="annual_foods_title">
+        <item>Вкусный год</item>
+        <item>Три блюда. Четыре сезона.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Привет, мир!</item>
+        <item>В дороге</item>
+        <item>Калейдоскоп мест</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Великолепие осени</item>
+        <item>Сияющая осень</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>Мальчик</item>
         <item>Девочка</item>
@@ -109,6 +122,46 @@
         <item>Фестиваль Циси через годы</item>
         <item>Фестиваль середины осени через годы</item>
     </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Памятная ночь</item>
+        <item>Новая страница</item>
+        <item>Фейерверк</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>С Новым Годом!</item>
+        <item>Начало нового года</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Год Обезьяны</item>
+        <item>Год Петуха</item>
+        <item>Год Собаки</item>
+        <item>Год Свиньи</item>
+        <item>Год Крысы</item>
+        <item>Год Быка</item>
+        <item>Год Тигра</item>
+        <item>Год Кролика</item>
+        <item>Год Дракона</item>
+        <item>Год Змеи</item>
+        <item>Год Лошади</item>
+        <item>Год Козы</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Городские пейзажи</item>
+        <item>Улицы и закоулки</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Нежные лепестки</item>
+        <item>В цветении</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>В дикой природе</item>
+        <item>Дикий и свободный</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Наши встречи</item>
+        <item>В компании друзей</item>
+        <item>Давно не виделись</item>
+    </string-array>
     <string-array name="holiday_last_year">
         <item>Прошлый Новый год</item>
         <item>Прошлый День святого валентина</item>
@@ -125,6 +178,11 @@
         <item>Национальный день через годы</item>
         <item>Рождество через годы</item>
     </string-array>
+    <string-array name="important_people_title">
+        <item>Любимые вещи</item>
+        <item>Родственные души</item>
+        <item>Яркие моменты</item>
+    </string-array>
     <string-array name="last_month">
         <item>Январь</item>
         <item>Февраль</item>
@@ -138,6 +196,36 @@
         <item>Октябрь</item>
         <item>Ноябрь</item>
         <item>Декабрь</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Взросление</item>
+        <item>Милее и милее</item>
+        <item>Маленький исследователь</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Фитнес-дневник</item>
+        <item>Сильнее и сильнее</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Bon appétit!</item>
+        <item>Еще кусочек?</item>
+        <item>Приятного аппетита!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Улыбнись и помаши!</item>
+        <item>Время игр</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>На природе</item>
+        <item>Следы на снегу</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Неудержимый</item>
+        <item>Быть в форме</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Важный день</item>
+        <item>К алтарю</item>
     </string-array>
     <string-array name="last_week_baby_title">
         <item>Время играть</item>
@@ -317,6 +405,19 @@
         <item>Ноябрь прошлого года</item>
         <item>Декабрь прошлого года</item>
     </string-array>
+    <string-array name="monthly_babies_title">
+        <item>Ты вырос!</item>
+        <item>Ты снова вырос!</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Мое личное меню</item>
+        <item>Вкусные воспоминания</item>
+        <item>Вторую порцию, пожалуйста!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>Лучшие виды в мире</item>
+        <item>Продолжай восхождение</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Папа</item>
         <item>Мама</item>
@@ -329,6 +430,22 @@
         <item>Вместе</item>
         <item>Хорошие времена</item>
         <item>В унисон</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Куда ведет нас дорога</item>
+        <item>Совместные поездки</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Веселая весна</item>
+        <item>Радостное лето</item>
+        <item>Счастливая осень</item>
+        <item>Веселая зима</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Весенние блюда</item>
+        <item>Летние угощения</item>
+        <item>Осенние праздники</item>
+        <item>Зимние угощения</item>
     </string-array>
     <string-array name="recent_group_people">
         <item>Совместно</item>
@@ -371,6 +488,19 @@
         <item>Движение вперед</item>
         <item>Полный энергии</item>
     </string-array>
+    <string-array name="spring_season_title">
+        <item>Весенние цветы</item>
+        <item>Весна в воздухе</item>
+        <item>Здравствуй весна!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Немного лета</item>
+        <item>Где лето не кончается</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Золотые часы</item>
+        <item>Лучи золота</item>
+    </string-array>
     <string-array name="three_month_baby_title">
         <item>Они растут так быстро</item>
         <item>Детские фото</item>
@@ -380,5 +510,9 @@
         <item>Памятные дни</item>
         <item>Повседневные события</item>
         <item>Обычное и необычное</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Зимние дни</item>
+        <item>Зимняя сказка</item>
     </string-array>
 </resources>

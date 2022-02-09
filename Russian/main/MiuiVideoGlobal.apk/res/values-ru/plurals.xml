@@ -96,6 +96,18 @@
         <item quantity="other">%d видео</item>
         <item quantity="one">%d видео</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">Доступно серий: %1$1d из %2$2d</item>
+        <item quantity="one">Доступно серий: %1$1d из %2$2d</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">Доступно серий: %1$1d из %2$2d</item>
+        <item quantity="one">Доступно серий: %1$1d из %2$2d</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">Всего серий: %d</item>
+        <item quantity="one">Всего серий: %d</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">Осталось %s сек.</item>
         <item quantity="one">Осталось %s сек.</item>

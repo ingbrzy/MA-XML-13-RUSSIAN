@@ -119,6 +119,8 @@
     <string name="brvah_load_end">Ничего нет</string>
     <string name="brvah_load_failed">Ошибка загрузки. Нажмите, чтобы повторить попытку.</string>
     <string name="brvah_loading">Загрузка…</string>
+    <string name="btn_clear_history">Очистить историю</string>
+    <string name="btn_empty_go_to_download">Загрузить</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_choose">Снять выбор</string>
     <string name="cancel_subscribe_tips">Отписаться?</string>
@@ -275,6 +277,7 @@
     <string name="content">Описание</string>
     <string name="content_can_not_null">Нельзя отправить отзыв без описания.</string>
     <string name="continue_play">Возобновить</string>
+    <string name="controller_bar_edit">Редактирование</string>
     <string name="data_empty">Ничего нет</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -300,15 +303,27 @@ ID: %s
     <string name="dialog_app_comment_title">Оцените приложение</string>
     <string name="dialog_bookmark_add">Добавить</string>
     <string name="dialog_bookmark_cancel">Отмена</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_clearn_content">Очистить историю просмотра?</string>
+    <string name="dialog_clearn_title">Очистка истории</string>
+    <string name="dialog_confirm">ОК</string>
+    <string name="dialog_delete_bookmarks_content">Удалить закладку?</string>
     <string name="dialog_disagree_privacychange_info">В случае несогласия с нашей Политикой конфиденциальности, вы не сможете использовать онлайн-сервисы потоковой передачи Mi Видео. Нажмите \"Отмена\", чтобы вернуться, или \"Отказ\", чтобы продолжить использовать Mi Видео только как локальный видеоплеер.</string>
     <string name="dialog_disagree_privacychange_title">Отказ</string>
+    <string name="dialog_edit_bookmarks">Изменить закладку</string>
     <string name="dialog_edit_hint_bookmarks_name">Имя закладки</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
+    <string name="dialog_edit_hint_name">Имя</string>
+    <string name="dialog_edit_hint_url">URL</string>
     <string name="dialog_jumpto_choose">Больше не показывать</string>
     <string name="dialog_jumpto_content">Переключиться на Mi Видео для дополнительных функций воспроизведения?</string>
     <string name="dialog_jumpto_title">Mi Видео</string>
+    <string name="dialog_no_video_confirm">Понятно</string>
+    <string name="dialog_no_video_tip">Попробуйте сначала открыть сведения о видео. Кнопка загрузки будет доступна, как только видео будет найдено.</string>
+    <string name="dialog_no_video_title">Не удалось найти видео</string>
     <string name="dialog_privacy_change_info">Мы обновили политику конфиденциальности Mi Видео в связи с корректировкой предлагаемых услуг. Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</string>
     <string name="dialog_privacy_change_title">Обновление политики конфиденциальности</string>
+    <string name="dialog_privacy_experience_plan">Присоединяйтесь к программе пользовательского опыта, чтобы делиться с нами пользовательскими данными и помочь нам улучшить наши продукты и сервисы.</string>
     <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Принимаю\", вы соглашаетесь с нашей Политикой конфиденциальности.</string>
     <string name="dialog_privacy_info_new3">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные в соответствии с политикой конфиденциальности. Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt; и &lt;a href=\"%3$s\"&gt;Пользовательским соглашением&lt;/a&gt; Xiaomi. &lt;br/&gt;&lt;br/&gt; Mi Видео получит доступ к списку приложений на устройстве для определения наличия приложений на устройстве, их версии и безопасности.</string>
     <string name="dialog_privacy_info_new4">"Добро пожаловать в Mi Видео! Приложение предоставляет следующие сервисы:
@@ -327,9 +342,17 @@ ID: %s
     <string name="dialog_privacy_title">Условия и положения</string>
     <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
     <string name="dialog_revoke_privacy_title">Отзыв разрешения</string>
+    <string name="dialog_select_folder_content">Сохранять все последующие загрузки в эту папку?</string>
+    <string name="dialog_select_folder_title">Выбор папки</string>
     <string name="dialog_set_default_later">Нет, спасибо</string>
     <string name="dialog_set_default_set">Установить</string>
     <string name="dialog_set_default_text">Установить Mi Видео видеоплеером по умолчанию?</string>
+    <string name="dialog_video_change">Изменить</string>
+    <string name="dialog_video_download_tip">Добавлено в очередь загрузки</string>
+    <string name="dialog_video_download_view">Просмотр</string>
+    <string name="dialog_video_high">Высокая</string>
+    <string name="dialog_video_low">Низкая</string>
+    <string name="dialog_video_medium">Средняя</string>
     <string name="disagree">Отказ</string>
     <string name="diy_channels_tips">Теперь вы можете настроить список ваших каналов.</string>
     <string name="do_not_show_again">Больше не показывать</string>
@@ -394,6 +417,9 @@ ID: %s
     <string name="exo_download_notification_channel_name">Загрузки</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Повторить все</string>
+    <string name="exo_media_action_repeat_off_description">Не повторять</string>
+    <string name="exo_media_action_repeat_one_description">Повторить текуший</string>
     <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
     <string name="exo_track_mono">Моно</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
@@ -537,6 +563,7 @@ ID: %s
     <string name="galleryplus_network_connect_confirm">Подключитесь к Wi-Fi или включите мобильный интернет в настройках сети</string>
     <string name="galleryplus_network_error">Не удалось подключиться к сети</string>
     <string name="galleryplus_network_not_wifi">Использование мобильного интернета для потоковой передачи видео может повлечь за собой дополнительные расходы</string>
+    <string name="galleryplus_next_step">Далее</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Управление файлами %$s Добавление субтитров %$s Трансляция %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Защитите личные видео паролем %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Загружайте видео из TikTok, Instagram и Twitter %$s</string>
@@ -556,6 +583,8 @@ ID: %s
 1. Доступ к хранилищу
 2. Доступ к ID устройства"</string>
     <string name="galleryplus_permission_content_opt">Для нормальной работы Mi Видео предоставьте необходимые разрешения. Выполните очистку данных приложения и снова откройте приложение.</string>
+    <string name="galleryplus_permission_content_opt2">"Для нормальной работы Mi Video предоставьте необходимые разрешения. Очистите все данные приложения в Настройках и снова откройте приложение.
+Эта операция не повлияет на файлы в Галерее."</string>
     <string name="galleryplus_permission_content_xms">Для нормальной работы Mi Видео предоставьте необходимые разрешения</string>
     <string name="galleryplus_permission_open_settings">Настройки</string>
     <string name="galleryplus_permission_refuse">Нет, спасибо</string>
@@ -591,7 +620,9 @@ ID: %s
     <string name="galleryplus_talkback_btn_send">Отправить</string>
     <string name="galleryplus_talkback_btn_unfold_speed_view">Панель скорости</string>
     <string name="galleryplus_talkback_btn_unmute">Включить звук</string>
+    <string name="galleryplus_talkback_btn_volume_adjust">Громкость</string>
     <string name="galleryplus_talkback_focused_speed">Выбрано, %sX</string>
+    <string name="galleryplus_talkback_miplay_volume_change">Громкость изменена на %d</string>
     <string name="galleryplus_talkback_sound_track_item_ai_music">Автовыбор саундтрека</string>
     <string name="galleryplus_talkback_sound_track_item_local_music">Локальный саундтрек</string>
     <string name="galleryplus_talkback_sound_track_item_no_music">Нет саундтрека</string>
@@ -625,6 +656,7 @@ ID: %s
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="grant_write_settings_permission">Предоставьте разрешение для управления яркостью плеера</string>
     <string name="have_learned">Понятно</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
     <string name="hidden_channels">Следующие каналы не будут отображаться на главной странице.</string>
     <string name="hide">Скрыть</string>
     <string name="hint_icon_ad_title">Рекомендация</string>
@@ -648,6 +680,9 @@ ID: %s
     <string name="item_card_more_trailers">Еще</string>
     <string name="item_card_open_in">"Открыть в "</string>
     <string name="item_card_related">Похожие</string>
+    <string name="item_download_only_wify">Загрузка только по Wi-Fi</string>
+    <string name="item_download_path">Папка загрузки</string>
+    <string name="item_download_path_setting">Настройка папки загрузки</string>
     <string name="item_setting_go_back">Отзыв согласия</string>
     <string name="just_a_second">Подождите…</string>
     <string name="language_later_setting_tips">Вы можете изменить предпочитаемый язык в разделе Профиль > Язык.</string>
@@ -677,6 +712,7 @@ ID: %s
     <string name="local_play_tip">Воспроизведение видео на устройстве</string>
     <string name="local_push_setting_power_tag">Уведомления о локальных видео</string>
     <string name="local_push_title">Популярное сегодня</string>
+    <string name="local_push_video_title">Поиск новых локальных видео</string>
     <string name="local_video_create_a_new_playlist">Создать плейлист</string>
     <string name="local_video_date">Дата</string>
     <string name="local_video_dialog_default">По умолчанию</string>
@@ -834,6 +870,10 @@ ID: %s
     <string name="lv_video_null">Нет видео</string>
     <string name="lv_volume">Громкость</string>
     <string name="manage">Управление</string>
+    <string name="mangotv_feature_list_title3">Добавлена серия %s</string>
+    <string name="mangotv_feature_more">Еще</string>
+    <string name="mangotv_feature_title1">Серии</string>
+    <string name="mangotv_feature_title2">Серии</string>
     <string name="mediation_ad">Реклама</string>
     <string name="mediation_ad_can_not_share">Не удалось поделиться этим видео</string>
     <string name="mi_video">Mi Видео</string>
@@ -994,6 +1034,8 @@ ID: %s
     <string name="offline_opt_in_title">Просмотр рекламы</string>
     <string name="ok">ОК</string>
     <string name="on_tip_firework_recommend">Включены персонализированные рекомендации по контенту от Firework</string>
+    <string name="online_play_hint">Например: http://www.example.com/video.mp4</string>
+    <string name="online_play_title">Введите URL</string>
     <string name="open_settings">Настройки</string>
     <string name="order_recently_subscribe">Новые подписки</string>
     <string name="order_recently_updated">Недавние</string>
@@ -1347,16 +1389,21 @@ ID: %s
     <string name="popup_click_for_download_video">Загрузить</string>
     <string name="popup_pip_activate_button">Настройки</string>
     <string name="popup_pip_not_activated">Разрешите Mi Видео использовать функцию \"Картинка в картинке\"</string>
+    <string name="popup_window_home_tip">Загрузка онлайн-видео</string>
     <string name="privacy_agree_subtitle">Согласие с Политикой конфиденциальности Mi Видео позволит использовать все его функции</string>
     <string name="privacy_agree_title">Согласие</string>
+    <string name="privacy_experience_plan">Присоединяйтесь к нашей программе пользовательского опыта, чтобы делиться с нами пользовательскими данными и помочь улучшить наши продукты и сервисы</string>
+    <string name="privacy_experience_title">Программа пользовательского опыта</string>
     <string name="privacy_revoke_setting">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Mi Видео.</string>
     <string name="privacy_revoke_subtitle">Отзыв согласия с Политикой конфиденциальности Mi Видео</string>
     <string name="privacy_revoke_title">Отзыв согласия</string>
+    <string name="privatestr">MIIBSw</string>
     <string name="pro_prize_popup_style_one">Удалить рекламу для %s</string>
     <string name="pro_prize_popup_style_two">Разблокировать доп. возможности для %s</string>
     <string name="progressbar_title">Проверка на наличие проблем безопасности…</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Войти с паролем</string>
+    <string name="publicstr">MIIBtz</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Потяните вверх для обновления…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Подождите…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Отпустите для обновления…</string>
@@ -1456,6 +1503,7 @@ ID: %s
     <string name="share">Поделиться</string>
     <string name="share_fail">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
     <string name="share_success">Отправлено</string>
+    <string name="share_text_before_link">Смотрите и загружайте видео бесплатно в Mi Видео</string>
     <string name="share_ugc_content">Обратите внимание на %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Присоединиться</string>
     <string name="share_ugc_waitting">Создание ссылки…</string>
@@ -1624,18 +1672,33 @@ ID: %s
     <string name="time_picker_label_minute">М</string>
     <string name="tip_auth_again">Из-за отсутствия соглашения с условиями Политики конфиденциальности стороннего поставщика контента, мы не можем отображать видеоконтент из Moments. Нажмите кнопку ниже, для согласия с Политикой конфиденциальности и доступа к этой функции.</string>
     <string name="tip_author_click">Нажмите, чтобы просмотреть больше видео из этого аккаунта</string>
+    <string name="tip_download_video_to_save_here">%d. Видео будет сохранено в ваших загрузках</string>
+    <string name="tip_enter_the_website">%d. Откройте веб-сайт или приложение</string>
+    <string name="tip_local_long_press_for_manager">Нажмите и удерживайте для управления видео</string>
+    <string name="tip_local_manager_here">Управляйте своими файлами здесь</string>
+    <string name="tip_play_a_video">%d. Воспроизведите видео</string>
     <string name="tip_pop"><Data>Контент из Moments предоставляется Firework. Для улучшения впечатления от просмотра и получения релевантных рекомендаций по контенту, разрешите Firework собирать, обрабатывать и использовать вашу личную информацию в соответствии с Политикой конфиденциальности. Перед использованием этого сервиса прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности Firework&lt;/a>.</Data></string>
+    <string name="tip_storage_used_space" formatted="false">Использовано: %.2f из %.2f ГБ</string>
+    <string name="tip_tap_download_button">%d. Нажите \"Загрузить\"</string>
     <string name="tip_topic_click">Нажмите, чтобы найти больше видео по этой теме</string>
+    <string name="title_bookmarks">Закладки</string>
+    <string name="title_continue_to_borwser">Открыть в браузере</string>
+    <string name="title_download_setting">Настройки загрузки</string>
     <string name="title_firework_recommend">Рекомендации Firework</string>
+    <string name="title_history">История</string>
     <string name="title_publisher">Создатели</string>
+    <string name="title_select_directory">Выбор папки</string>
+    <string name="title_selected">Выбрано</string>
     <string name="title_subscribe">Подписки</string>
     <string name="toast_bookmark_add_success">Закладка добавлена</string>
     <string name="toast_bookmark_already_created">Эта закладка уже существует</string>
+    <string name="toast_bookmark_edit_success">Закладка изменена</string>
     <string name="toast_bookmark_input_name">Введите имя закладки</string>
     <string name="toast_bookmark_input_url">Введите URL</string>
     <string name="toast_bookmark_success_to_add">Закладка добавлена</string>
     <string name="toast_bookmark_success_to_delete">Закладка удалена</string>
     <string name="toast_bookmark_url_error">Введите действительный URL</string>
+    <string name="toast_m3u8_download_path_tip">Невозможно изменить путь загрузки контента в формате m3u8</string>
     <string name="toast_no_data">Недоступно на данный момент. Попробуйте позже.</string>
     <string name="toast_request_too_frequently">Не так быстро!</string>
     <string name="toast_share_failed">Не удалось поделиться. Повторите попытку позже.</string>
@@ -1687,6 +1750,7 @@ ID: %s
     <string name="v_network_failed">Произошла ошибка сети.</string>
     <string name="v_next">Далее</string>
     <string name="v_ok">OK</string>
+    <string name="v_online_play">Трансляция онлайн</string>
     <string name="v_pw_need_update_app">Обновите Mi Видео для использования всех функций</string>
     <string name="v_save">Сохранить</string>
     <string name="v_search">Поиск</string>
@@ -1746,6 +1810,12 @@ ID: %s
     <string name="wednesday_shortest">Ср</string>
     <string name="weibo_application_id"/>
     <string name="weibo_redirect_uri"/>
+    <string name="welcome_tip_content1">Мощный локальный видеоплеер</string>
+    <string name="welcome_tip_content2">Миллионы видео для просмотра онлайн или загрузки</string>
+    <string name="welcome_tip_explore_more">Ознакомиться</string>
+    <string name="welcome_tip_into_mivideo">Начать</string>
+    <string name="welcome_tip_skip">Пропустить</string>
+    <string name="welcome_tip_title">Добро пожаловать в Mi Видео</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
     <string name="xiaomi_update_sdk_dialog_message">Доступна версия %1$s

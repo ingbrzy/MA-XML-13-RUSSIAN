@@ -160,6 +160,7 @@
     <string name="album_rubbish_page_title">Мусор</string>
     <string name="album_rubbish_tip_title">Возможно, ненужные альбомы</string>
     <string name="album_scanner">Сканер</string>
+    <string name="album_screen_record">Записи экрана</string>
     <string name="album_screen_recorder">Записи экрана</string>
     <string name="album_screenshot_and_screen_recorder_name">Скриншоты и записи экрана</string>
     <string name="album_screenshot_name">Скриншоты</string>
@@ -207,6 +208,11 @@
     <string name="already_create_baby_album">Детский альбом уже существует в Xiaomi Cloud.</string>
     <string name="already_share">Доступно</string>
     <string name="and"> и </string>
+    <string name="annual_babies_title">Они так быстро растут</string>
+    <string name="annual_group_people_title">Вместе</string>
+    <string name="annual_pets_title">Лапа в лапу</string>
+    <string name="annual_year_title">Этот год</string>
+    <string name="annula_sports_title">Движение вперед</string>
     <string name="app_is_launching">%s запускается…</string>
     <string name="app_is_launching_common">Запуск приложения…</string>
     <string name="app_name">Галерея</string>
@@ -258,6 +264,7 @@
     <string name="baby_album_sharer_recommand_face">Добавить существующие фото %1$s?</string>
     <string name="baby_album_sharers_page_title">Поделиться с семьей</string>
     <string name="baby_birthday">День рождения</string>
+    <string name="baby_birthday_title">С днем рождения!</string>
     <string name="baby_face_desc">Детский альбом</string>
     <string name="baby_lock_wallpaper">Обои экрана блокировки</string>
     <string name="baby_lock_wallpaper_cancelled">Используются обои экрана блокировки по умолчанию</string>
@@ -418,6 +425,19 @@
     <string name="channel_min_name">Уведомления галереи</string>
     <string name="checked">Выбрано</string>
     <string name="checked_something">Выбрано %s</string>
+    <string name="chinese_dragon_boat_festival">Праздник лодок-драконов %1$s</string>
+    <string name="chinese_dragon_boat_festival_title">Праздник лодок-драконов</string>
+    <string name="chinese_dragon_head_up">Праздник \"Дракон поднимает голову\" %1$s</string>
+    <string name="chinese_dragon_head_up_title">Праздник \"Дракон поднимает голову\"</string>
+    <string name="chinese_lantern_festival">Фестиваль фонарей %1$s</string>
+    <string name="chinese_lantern_festival_title">Фестиваль фонарей</string>
+    <string name="chinese_mid_automn_festival">Праздник середины осени %1$s</string>
+    <string name="chinese_mid_automn_festival_title">Праздник середины осени</string>
+    <string name="chinese_new_year">Китайский Новый год %1$s</string>
+    <string name="chinese_new_year_eve">Канун китайского Нового года %1$s</string>
+    <string name="chinese_new_year_title">Счастливого %1$!</string>
+    <string name="chinese_night_of_sevens">Праздник ЦиСи %1$s</string>
+    <string name="chinese_night_of_sevens_title">Праздник ЦиСи</string>
     <string name="choose_baby_sexy">Пол</string>
     <string name="choose_owner_relation">Отношения</string>
     <string name="choose_people">Выберите альбом</string>
@@ -1108,6 +1128,11 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="foods_people_title">Рай для вкуса</string>
+    <string name="foods_people_travel_title">Блюда %2$s с %1$s</string>
+    <string name="foods_travel_title_one">Вкус %1$s</string>
+    <string name="foods_travel_title_three">%1$s гурмана</string>
+    <string name="foods_travel_title_two">%1$s еды</string>
     <string name="frame_color_selector_talkback_hide">Скрыть палитру</string>
     <string name="frame_color_selector_talkback_show">Показать палитру</string>
     <string name="frame_not_support_image_ratio">Это соотношение не поддерживается</string>
@@ -1152,6 +1177,8 @@
     <string name="hide_nearby_photos">Скрыть фото и видео поблизости</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="holiday_travel_title_one">%1$s отпуск</string>
+    <string name="holiday_travel_title_two">Возвращение к работе</string>
     <string name="home_menu_all_photos">Все</string>
     <string name="home_menu_art_still">Арт</string>
     <string name="home_menu_camera">Камера</string>
@@ -1249,6 +1276,13 @@
     <string name="kick_sharer_failed">Ошибка удаления пользователя</string>
     <string name="kick_sharer_successfully">Пользователь удален</string>
     <string name="kilobyteShort">" КБ"</string>
+    <string name="last_some_day_pets_title">Лапы и усы</string>
+    <string name="last_some_day_show_title">Время для шоу</string>
+    <string name="last_some_day_surfing_title">Попутный ветер</string>
+    <string name="last_some_day_travel_title_four">Привет %1$s!</string>
+    <string name="last_some_day_travel_title_one">В %1$s</string>
+    <string name="last_some_day_travel_title_three">Исследуя %1$s</string>
+    <string name="last_some_day_travel_title_two">Моменты %1$s</string>
     <string name="limit_height">Высота должна быть &gt; 0</string>
     <string name="limit_width">Ширина должна быть &gt; 0</string>
     <string name="live_photo">Динамический снимок</string>
@@ -1466,6 +1500,8 @@
     <string name="midnight">Ночь</string>
     <string name="migrate_msg">Для некоторых альбомов требуются разрешения на перемещение файлов после обновления системы.</string>
     <string name="miplay_adjust_volume">Уровень громкости: %d</string>
+    <string name="miplay_circulate_failed">Ошибка трансляции. Повторите попытку позже.</string>
+    <string name="miplay_circulating_msg">Трансляция…</string>
     <string name="miplay_pause_video">Пауза</string>
     <string name="miplay_play_video">Воспроизведение</string>
     <string name="miplay_seekbar_content_description">Прогресс воспроизведения: %1$s %2$s</string>
@@ -1544,6 +1580,9 @@
     <string name="month_view_tip_sub_title">"Сделайте щипок на экране, чтобы переключиться 
 на просмотр по месяцам"</string>
     <string name="month_view_tip_title">Просмотр по месяцам</string>
+    <string name="monthly_pets_title">Пушистые друзья</string>
+    <string name="monthly_sports_title">Полны энергии</string>
+    <string name="monthly_travel_title">Поездки в %1$s</string>
     <string name="more">Еще</string>
     <string name="more_album_hint">, и т.д.</string>
     <string name="more_album_tip">Еще</string>
@@ -2113,6 +2152,7 @@
     <string name="publish_succeeded">Общий доступ к альбому открыт</string>
     <string name="publishing">Открытие доступа…</string>
     <string name="purge_or_recovery_processing">Обработка…</string>
+    <string name="quarterly_pets_title">Пушистые компаньоны</string>
     <string name="quotation">\"%s\"</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
@@ -2285,6 +2325,7 @@
     <string name="screen_talkback_shape">Форма</string>
     <string name="screen_talkback_small">Очень маленький</string>
     <string name="screen_talkback_text">Текст</string>
+    <string name="sea_title">Волны</string>
     <string name="search_backup_full_screen">Включите синхронизацию с облаком для поиска объектов и людей</string>
     <string name="search_backup_full_screen_new">Включите синхронизацию с облаком, чтобы сделать поиск более эффективным</string>
     <string name="search_backup_now">Включить</string>
@@ -2471,6 +2512,16 @@
     <string name="slow_motion_enter"/>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
+    <string name="solar_children_day_title">День детей</string>
+    <string name="solar_christmas_title">Рождество</string>
+    <string name="solar_fathers_day_title">День отца</string>
+    <string name="solar_halloween_title">Хэллоуин</string>
+    <string name="solar_labour_day_title">День труда</string>
+    <string name="solar_mothers_day_title">День матери</string>
+    <string name="solar_national_day_title">День нации</string>
+    <string name="solar_new_year_eve_title_one">Канун Нового года</string>
+    <string name="solar_new_year_eve_title_two">Последние моменты %1$s</string>
+    <string name="solar_new_year_title">Новый год</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -2495,6 +2546,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="solar_valentines_day_title">День святого Валентина</string>
     <string name="sort">Сортировка</string>
     <string name="special_type_8k">AI 8K</string>
     <string name="special_type_ai_audio">AI аудио</string>
