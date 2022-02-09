@@ -725,6 +725,9 @@
     <string-array name="user_detail_fixed_item_click_action"></string-array>
     <array name="user_detail_fixed_item_icons"></array>
     <array name="user_guide_images"></array>
+    <string-array name="uwb_scan_distance_entries_values"></string-array>
+    <string-array name="uwb_shortcut_entries"></string-array>
+    <string-array name="uwb_shortcut_entries_values"></string-array>
     <string-array name="values_pref_key_voice_report"></string-array>
     <integer-array name="vibration_recorder_major_action"></integer-array>
     <integer-array name="vibration_recorder_minor_action"></integer-array>

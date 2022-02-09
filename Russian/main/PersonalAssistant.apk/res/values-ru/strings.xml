@@ -117,6 +117,13 @@
     <string name="already_connect">Соединено</string>
     <string name="already_download">Загружено</string>
     <string name="announce_for_drag">Перетаскивание одного элемента</string>
+    <string name="app_accessibility_olympic_bronze_medal">Бронзовая медаль</string>
+    <string name="app_accessibility_olympic_gold_medal">Золотая медаль</string>
+    <string name="app_accessibility_olympic_info_title">Подробнее</string>
+    <string name="app_accessibility_olympic_silver_medal">Серебрянная медаль</string>
+    <string name="app_accessibility_olympic_the_first">Первое место: %s</string>
+    <string name="app_accessibility_olympic_the_second">Второе место: %s</string>
+    <string name="app_accessibility_olympic_the_third">Третье место: %s</string>
     <string name="app_agenda_i_known">Понятно</string>
     <string name="app_agenda_need_install_alipay">Перед использованием этой функции установите Alipay.</string>
     <string name="app_airstar_card_title">Airstar</string>
@@ -311,6 +318,7 @@
     <string name="app_olympic_card_service_des">Рейтинги в режиме реального времени</string>
     <string name="app_olympic_card_service_title">Таблица олимпийских медалей</string>
     <string name="app_olympic_card_title">Таблица олимпийских медалей</string>
+    <string name="app_olympic_card_title_info">Эти данные предоставляются третьей стороной и могут обновляться с задержкой.</string>
     <string name="app_olympic_gold_medal_country_region">Страна</string>
     <string name="app_olympic_gold_medal_total">Всего</string>
     <string name="app_pa_more">Еще</string>
