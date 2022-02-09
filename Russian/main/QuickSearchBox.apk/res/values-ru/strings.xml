@@ -373,7 +373,7 @@
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="network_unavailable">Не удалось подключиться к сети</string>
     <string name="new_cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
-    <string name="new_cta_declaration_location">Предоставление точных данных о погоде, местных сервисов и оффлайн-магазинов</string>
+    <string name="new_cta_declaration_location">Предоставление точных данных о погоде, местных сервисов и офлайн-магазинов</string>
     <string name="new_cta_declaration_read_contacts">Поиск контактов</string>
     <string name="new_cta_main_purpose">Поиск на устройстве и в интернете (включая контакты, сообщения, заметки, закладки браузера, настройки, новости, приложения, музыку, видео и другое)</string>
     <string name="new_cta_permission_get_accounts">Вход в систему и управление системными аккаунтами</string>

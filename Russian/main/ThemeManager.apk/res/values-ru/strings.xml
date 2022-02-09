@@ -177,6 +177,7 @@
     <string name="copy">Копировать</string>
     <string name="count_down_tip">Осталось %d сек.</string>
     <string name="create_home_icon">Ярлык на рабочем столе</string>
+    <string name="current_device_not_support_superwallpaper_dialog_content">Суперобои не поддерживаются на этом устройстве</string>
     <string name="current_using">Текущая</string>
     <string name="current_using_desktop_wallpaper_text">Рабочий стол</string>
     <string name="current_using_float_wallpaper_text">Прозрачность</string>
@@ -230,6 +231,8 @@
     <string name="de_super_wp_land_position_default_des">Координаты</string>
     <string name="de_to_comment">Комментарий</string>
     <string name="de_try">Попробовать</string>
+    <string name="deep_sea">Морские глубины</string>
+    <string name="deep_sea_resource_comment">Зарождение жизни на Земле</string>
     <string name="deleting">Удаление…</string>
     <string name="desc_more_online_wallpaper">Больше обоев онлайн</string>
     <string name="description_author">Автор</string>
@@ -292,6 +295,8 @@
     <string name="error_icon_content_description">Ошибка</string>
     <string name="evening">PM</string>
     <string name="exchange_alert">Вы можете активировать здесь коды, полученные во время наших мероприятий</string>
+    <string name="exchange_code_dialog_title">Внимание</string>
+    <string name="exchange_code_not_match_account_dialog_content">Этот код уже был использован в другом Mi аккаунте. Войдите этот Mi аккаунт и повторите попытку.</string>
     <string name="exit_extreme_mode_dialog_agree">Отключить</string>
     <string name="exit_extreme_mode_dialog_cancel">Отмена</string>
     <string name="exit_extreme_mode_dialog_title">Отключение режима</string>
@@ -482,6 +487,13 @@
     <string name="loading_picture">Загрузка изображения…</string>
     <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
     <string name="loading_resource_detail_info">Загрузка…</string>
+    <string name="local_mode">Офлайн-режим</string>
+    <string name="local_mode_close">Отключить офлайн-режим?</string>
+    <string name="local_mode_close_desc">Отключите офлайн-режим, если хотите использовать онлайн-сервисы. Отключить?</string>
+    <string name="local_mode_desc">В офлайн-режиме используется только локальный контент, онлайн-сервисы недоступны.</string>
+    <string name="local_mode_hint">"Включен офлайн-режим.
+Нажмите, чтобы отключить."</string>
+    <string name="local_mode_open">Офлайн-режим</string>
     <string name="local_photos">Фото на устройстве</string>
     <string name="local_resouce_creator_name">Автор: %1$s</string>
     <string name="lock_screen_apply">Установить на экран блокировки</string>
@@ -900,6 +912,9 @@ mm"</string>
     <string name="refresh_footer_release">Отпустите для загрузки</string>
     <string name="region_not_support">Темы недоступны в вашем регионе.</string>
     <string name="reload">Повторить</string>
+    <string name="repeat_exchange_dialog_content">Не удалось активировать код. Проверить другие доступные?</string>
+    <string name="repeat_exchange_dialog_positive_btn">Проверить</string>
+    <string name="repeat_exchange_dialog_title">Повтор</string>
     <string name="request_time_out">Время запроса истекло. Повторите попытку.</string>
     <string name="resource_account_abnormal_state">Ошибка аккаунта. Повторите попытку позже.</string>
     <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
@@ -1251,6 +1266,7 @@ mm"</string>
     <string name="super_wallpaper_setting_coordinate_title">Координаты</string>
     <string name="super_wallpaper_setting_view_height_title">Высота</string>
     <string name="supersave_mode_toast_message">Функция недоступна при включенной ультраэкономии заряда. Отключите ультраэкономию заряда.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Эти обои уже связаны с другим Mi аккаунтом. Войдите в этот Mi аккаунт и повторите попытку.</string>
     <string name="support_theme_store_des">Хорошие темы создаются талантливыми дизайнерами. Наше приложение содержит небольшое количество рекламы, которая позволяет нам поддерживать их работу.</string>
     <string name="support_theme_store_supported">Спасибо за поддержку!</string>
     <string name="support_theme_store_title">Поддержка дизайнеров</string>
@@ -1386,6 +1402,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage_summary">Для применения изменений потребуется перезапуск приложения</string>
     <string name="theme_log_out">Выход</string>
     <string name="theme_multiple_button_title_customize">Компоненты тем</string>
+    <string name="theme_need_login_dialog_content">Войдите в Mi аккаунт, чтобы продолжить</string>
     <string name="theme_no">Отмена</string>
     <string name="theme_not_include_module_desc">Тема не содержит следующие компоненты: %s</string>
     <string name="theme_on_the_phone_alert">Воспроизведение во время вызова недоступно</string>
@@ -1407,6 +1424,7 @@ mm"</string>
     <string name="theme_user_agreement_remind_never">Больше не показывать</string>
     <string name="theme_user_agreement_remind_summary">Показывать Условия использования при каждом открытии приложения. Изменения вступят в силу после перезагрузки устройства.</string>
     <string name="theme_user_agreement_title">Условия использования</string>
+    <string name="theme_version_need_update_prompt_dialog_content">Обновите \"Темы\" до версии %s или выше, чтобы продолжить</string>
     <string name="theme_wallpaper">Категории</string>
     <string name="theme_yes">ОК</string>
     <string name="third_party_pickers_activity_title">Выбор на устройстве</string>

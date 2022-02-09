@@ -47,6 +47,7 @@
     <string name="avrcp_notification_name">BT ADVANCE FEATURE AVRCP</string>
     <string name="bluetooth_a2dp_sink_queue_name">Сейчас играет</string>
     <string name="bluetooth_advanced_feat_description">Расширенная функция просмотра Bluetooth</string>
+    <string name="bluetooth_broadcast_status">Идет трансляция</string>
     <string name="bluetooth_connected">Звук через Bluetooth включен</string>
     <string name="bluetooth_disconnected">Звук через Bluetooth отключен</string>
     <string name="bluetooth_map_remote_advance_feature_support">Доступны расширенные функции доступа к сообщениям</string>
@@ -70,6 +71,7 @@
     <string name="bluetooth_sap_notif_message">Попросить клиента отключиться?</string>
     <string name="bluetooth_sap_notif_ticker">Доступ к SIM-карте через Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Доступ к SIM-карте через Bluetooth</string>
+    <string name="broadcast_notification_name">Статус трансляции</string>
     <string name="bt_audio_share_notification_content">Параметры</string>
     <string name="bt_audio_share_notification_title">Передача аудио</string>
     <string name="bt_enable_cancel">Отмена</string>

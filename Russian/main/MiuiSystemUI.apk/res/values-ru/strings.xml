@@ -1061,7 +1061,7 @@
     <string name="face_data_manage_unlock_slide_msg">Заменить действия слайдера разблокировкой по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
-    <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
+    <string name="face_data_siggesstion_next_time">Далее (%d сек.)</string>
     <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем использование PIN-кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и освещено.</string>
     <string name="face_dialog_looking_for_face">Поиск лица…</string>
@@ -1724,6 +1724,10 @@ d MMMM"</string>
     <string name="miui_guide_dialog_button_negative_text">Настройки</string>
     <string name="miui_guide_dialog_button_positive_text">Понятно</string>
     <string name="miui_guide_dialog_message">Звуки мультимедиа (музыка, видео и т.д.) будут по-прежнему воспроизводиться в режиме \"Без звука\". Для изменения перейдите в Настройки.</string>
+    <string name="miui_keyboard_shortcut_click">Нажатие</string>
+    <string name="miui_keyboard_shortcut_double_click">Двойное нажатие</string>
+    <string name="miui_keyboard_shortcut_system_dock">Показать панель приложения</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">Переключение между недавними приложениями</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Разблокировано Bluetooth устройством</string>
     <string name="miui_lock_screen_date">EEEE, d MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>

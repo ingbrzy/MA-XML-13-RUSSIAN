@@ -69,6 +69,10 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 минуту назад</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">Через %d мин.</item>
+        <item quantity="one">Через %d мин.</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s дней</item>
         <item quantity="one">%1$s день</item>
@@ -228,9 +232,14 @@
         <item quantity="few">" дня"</item>
     </plurals>
     <plurals name="other_all_day_events">
-        <item quantity="other">Еще %d событий</item>
-        <item quantity="one">Еще %d событие</item>
-        <item quantity="few">Еще %d события</item>
+        <item quantity="other">Еще %d мероприятий</item>
+        <item quantity="one">Еще %d мероприятие</item>
+        <item quantity="few">Еще %d мероприятия</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">Еще %d мероприятий</item>
+        <item quantity="one">Еще %d мероприятие</item>
+        <item quantity="few">Еще %d мероприятия</item>
     </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" дней"</item>
@@ -309,24 +318,53 @@
         <item quantity="one">Расчетный период: %1$d день</item>
         <item quantity="few">Расчетный период: %1$d дня</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d мероприятий сегодня</item>
+        <item quantity="one">%d мероприятие сегодня</item>
+        <item quantity="few">%d мероприятия сегодня</item>
+    </plurals>
     <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s минут езды до %1$s.</item>
-        <item quantity="one">%2$s минута езды до %1$s.</item>
-        <item quantity="few">%2$s минуты езды до %1$s.</item>
+        <item quantity="other">%2$s мин. езды до %1$s.</item>
+        <item quantity="one">%2$s мин. езды до %1$s.</item>
     </plurals>
     <plurals name="travel_time_range_hours">
-        <item quantity="other">%d часов</item>
-        <item quantity="one">%d час</item>
-        <item quantity="few">%d часа</item>
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
     </plurals>
     <plurals name="travel_time_range_mins">
-        <item quantity="other">%d минут</item>
-        <item quantity="one">%d минута</item>
-        <item quantity="few">%d минуты</item>
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">Неделя %d</item>
-        <item quantity="one">Неделя %d</item>
+        <item quantity="other">%d неделя</item>
+        <item quantity="one">%d неделя</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s дней</item>
+        <item quantity="one">%1$s день</item>
+        <item quantity="few">%1$s дня</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%1$s дней</item>
+        <item quantity="one">%1$s день</item>
+        <item quantity="few">%1$s дня</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d текущих мероприятий</item>
+        <item quantity="one">%d текущее мероприятие</item>
+        <item quantity="few">%d текущих мероприятия</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">След. мероприятие через %d мин.</item>
+        <item quantity="one">След. мероприятие через %d мин.</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d мероприятий завтра</item>
+        <item quantity="one">%d мероприятие завтра</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">%d неделя</item>
+        <item quantity="one">%d неделя</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d рабочих дней</item>

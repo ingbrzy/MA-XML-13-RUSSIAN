@@ -120,9 +120,8 @@
         <item quantity="few">Найдено %1$s задачи</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">Осталось %d секунд</item>
-        <item quantity="one">Осталась %d секунда</item>
-        <item quantity="few">Осталось %d секунды</item>
+        <item quantity="other">Осталось %d сек.</item>
+        <item quantity="one">Осталась %d сек.</item>
     </plurals>
     <plurals name="toast_notes_hidden_count">
         <item quantity="other">%1$s заметок скрыты</item>

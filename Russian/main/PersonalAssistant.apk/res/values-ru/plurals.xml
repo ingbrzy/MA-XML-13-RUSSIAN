@@ -54,6 +54,29 @@
         <item quantity="one">Начнется через %1$d минуту</item>
         <item quantity="few">Начнется через %1$d минуты</item>
     </plurals>
+    <plurals name="app_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d бронзовых медалей</item>
+        <item quantity="one">%d бронзовая медаль</item>
+        <item quantity="few">%d бронзовые медали</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d золотых медалей</item>
+        <item quantity="one">%d золотая медаль</item>
+        <item quantity="few">%d золотые медали</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_medal_count">
+        <item quantity="other">Всего медалей: %d</item>
+        <item quantity="one">Всего медалей: %d</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_rank">
+        <item quantity="other">%d место</item>
+        <item quantity="one">%d место</item>
+    </plurals>
+    <plurals name="app_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d серебрянных медалей</item>
+        <item quantity="one">%d серебрянная медаль</item>
+        <item quantity="few">%d серебрянные медали</item>
+    </plurals>
     <plurals name="app_course_to_start">
         <item quantity="other">Начнется через %1$d мин.</item>
         <item quantity="one">Начнется через %1$d мин.</item>

@@ -549,7 +549,7 @@
 
 Вы должны принять Условия использования и Политику конфиденциальности, прежде чем использовать MIUI. %s и компоненты Mi аккаунта подключатся к интернету и получат информацию о вашем местоположении."</string>
     <string name="terms_of_use_label_MSA">MSA</string>
-    <string name="terms_of_use_label_Mistore">, системный плагин Mi Store</string>
+    <string name="terms_of_use_label_Mistore">Системный плагин Mi Store</string>
     <string name="terms_of_use_label_RMS">Менеджер разрешений</string>
     <string name="terms_of_use_label_ai_assistant">AI Ассистент</string>
     <string name="terms_of_use_label_app_vault">Ассистент</string>
@@ -566,14 +566,14 @@
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">функция оптимизации просмотра в альбомной ориентации</string>
-    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Компоненты Mi Аккаунта</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">AI Настройка OS</string>
-    <string name="terms_of_use_label_package">, установщик пакетов</string>
+    <string name="terms_of_use_label_package">Установщик пакетов</string>
     <string name="terms_of_use_label_parallel_windows">Разделение экрана</string>
-    <string name="terms_of_use_label_phrase">, Частые фразы</string>
+    <string name="terms_of_use_label_phrase">Частые фразы</string>
     <string name="terms_of_use_label_power_detection">Контроль батареи</string>
     <string name="terms_of_use_label_power_performance">Батарея и производительность</string>
     <string name="terms_of_use_label_quickapp">Быстрые приложения</string>
@@ -581,9 +581,9 @@
     <string name="terms_of_use_label_simcard">Сервис активации Mi SIM</string>
     <string name="terms_of_use_label_smart_service">умные сервисы</string>
     <string name="terms_of_use_label_statistics">Статистика</string>
-    <string name="terms_of_use_label_systemhelper">, cаморегистрируемые сервисы</string>
+    <string name="terms_of_use_label_systemhelper">Саморегистрируемые сервисы</string>
     <string name="terms_of_use_label_translation">Сервис перевода</string>
-    <string name="terms_of_use_label_updater">, Обновление</string>
+    <string name="terms_of_use_label_updater">Обновление</string>
     <string name="terms_of_use_label_use_location_and_network_global">Перед использованием MIUI Вы должны согласиться с нашими Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети и будут использовать геолокацию:</string>
     <string name="terms_of_use_label_use_network_china">Перед использованием MIUI Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности.  Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
     <string name="terms_of_use_label_wallpaper">Обои</string>
@@ -598,9 +598,9 @@
     <string name="terms_of_use_lable_default_input_method_mint">"
 
 Перед использованием вы должны принять Политику конфиденциальности Mint Keyboard."</string>
-    <string name="terms_of_use_lable_gms">, сервисы Google Play</string>
-    <string name="terms_of_use_lable_smart_cards">, смарт-карты</string>
-    <string name="terms_of_use_lable_vsimcore">, MConnService</string>
+    <string name="terms_of_use_lable_gms">Сервисы Google Play</string>
+    <string name="terms_of_use_lable_smart_cards">Смарт-карты</string>
+    <string name="terms_of_use_lable_vsimcore">MConnService</string>
     <string name="terms_of_use_lable_xmsf">Xiaomi service framework</string>
     <string name="terms_privacy_policy_input_method_facemoji">Политика конфиденциальности Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Политика конфиденциальности Kika</string>

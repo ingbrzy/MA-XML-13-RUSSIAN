@@ -932,6 +932,14 @@
         <item>Проверять только DRM-контент</item>
         <item>Всегда проверять</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Уровень 0</item>
+        <item>Уровень 1</item>
+        <item>Уровень 2</item>
+        <item>Уровень 3</item>
+        <item>Уровень 4</item>
+        <item>Уровень 5</item>
+    </string-array>	
     <string-array name="keyguard_notification_status_entries">
         <item>Включать экран</item>
         <item>Показывать анимацию</item>

@@ -2984,6 +2984,12 @@
     <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_keyboard_assistance_category">@string/keyboard_assistance_category</string>
+    <string name="miui_keyboard_back_light">@string/keyboard_back_light</string>
+    <string name="miui_keyboard_layout_default_label">@string/keyboard_layout_default_label</string>
+    <string name="miui_keyboard_mouse_touch">@string/keyboard_mouse_touch</string>
+    <string name="miui_keyboard_shortcuts_helper">@string/keyboard_shortcuts_helper</string>
+    <string name="miui_keyboard_shortcuts_helper_summary">@string/keyboard_shortcuts_helper_summary</string>
     <string name="miui_m_com_aligames_kuang_kybc_mi">狂野飙车9</string>
     <string name="miui_m_com_happyelements_androidanimal">开心消消乐</string>
     <string name="miui_m_com_imangi_templerun2">神庙逃亡2</string>
@@ -3911,6 +3917,7 @@
     <string name="sms">SMS</string>
     <string name="snip_pic">%1$s</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
+    <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="special_text_1">写道:</string>
     <string name="special_text_2">写道：</string>
     <string name="special_text_3">寫道:</string>
@@ -4384,6 +4391,7 @@
     <string name="store_comment__shared__come_from_web">来自网页版</string>
     <string name="store_comment__too_frequent">发布或者回复评论过于频繁，需要间隔15秒</string>
     <string name="store_feed_book_list_exchange">换一换</string>
+    <string name="stylus_default_percent">100</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>
     <string name="sudFontSecondary">google-sans</string>
     <string name="sudFontSecondaryMedium">google-sans-medium</string>

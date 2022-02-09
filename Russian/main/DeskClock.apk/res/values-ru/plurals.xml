@@ -95,8 +95,8 @@
         <item quantity="few">%d минуты назад</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d с.</item>
-        <item quantity="one">%d с.</item>
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
     </plurals>
     <plurals name="sleep_duration_hour">
         <item quantity="other">%1$s часов</item>

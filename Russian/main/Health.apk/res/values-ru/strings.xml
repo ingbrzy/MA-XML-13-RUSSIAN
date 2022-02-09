@@ -1390,7 +1390,7 @@ ID:%s
     <string name="sleep_snore_audio_file_mamagement_desc">Автоматически удалять старые записи для экономии места на устройстве (будут храниться только 100 МБ последних записей).</string>
     <string name="sleep_snore_audio_file_mamagement_title">Автоочистка записей</string>
     <string name="sleep_snore_audio_file_saved">Записи сохранены на устройстве</string>
-    <string name="sleep_snore_audio_file_saved_desc">Для обнаружения храпа и разговоров используется оффлайн-алгоритм. Все записи будут храниться локально на этом устройстве без раскрытия вашей личной информации.</string>
+    <string name="sleep_snore_audio_file_saved_desc">Для обнаружения храпа и разговоров используется офлайн-алгоритм. Все записи будут храниться локально на этом устройстве без раскрытия вашей личной информации.</string>
     <string name="sleep_snore_audio_hight_power_desc">Убедитесь, что ваше устройство достаточно заряжено, прежде чем ложиться спать.</string>
     <string name="sleep_snore_detection">Обнаружение храпа и разговора</string>
     <string name="sleep_snore_detection_desc">Отслеживайте свой сон</string>

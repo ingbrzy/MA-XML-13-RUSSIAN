@@ -899,6 +899,13 @@
     <string name="storage_category">Хранилище</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
+    <string name="stylus_firmware_failed_summary">Включите геолокацию и перезапустите Bluetooth. После этого снова подключите стилус и повторите попытку.</string>
+    <string name="stylus_firmware_failed_title">Не удалось обновить прошивку</string>
+    <string name="stylus_firmware_success_summary">Подключите стилус для сопряжения</string>
+    <string name="stylus_firmware_success_title">Прошивка успешно обновлена</string>
+    <string name="stylus_firmware_timeout_summary">Таймаут соединения. Пробуйте снова.</string>
+    <string name="stylus_firmware_update_summary">Обновление прошивки стилуса…</string>
+    <string name="stylus_firmware_update_title">Прошивка стилуса</string>
     <string name="stylus_ota_check_update">Обновление</string>
     <string name="summary_separator">" / "</string>
     <string name="sunday">Воскресенье</string>

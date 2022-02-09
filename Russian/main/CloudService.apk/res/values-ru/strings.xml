@@ -1092,6 +1092,9 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="wipe_secret_photo_dialog_title">Скрытые фото не синхронизированы</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Всё важное в одном месте</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xmpp_server_addr"/>
     <string name="yesterday">Вчера</string>
 </resources>

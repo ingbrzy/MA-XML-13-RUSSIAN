@@ -114,9 +114,9 @@
         <item quantity="few">%1$s + %2$d файла</item>
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Повторите попытку через %d секунд.</item>
-        <item quantity="one">Повторите попытку через 1 секунду.</item>
-        <item quantity="few">Повторите попытку через %d секунды.</item>
+        <item quantity="other">Повторите попытку через %d сек.</item>
+        <item quantity="one">Повторите попытку через 1 сек.</item>
+        <item quantity="few">Повторите попытку через %d сек.</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">За последние %d дня</item>

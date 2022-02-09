@@ -242,6 +242,14 @@
     <string name="keyboard_upgrade_failed">Не удалось обновить клавиатуру</string>
     <string name="keyboard_upgrade_start">Обновление клавиатуры…</string>
     <string name="keyboard_upgrade_success">Клавиатура успешно обновлена</string>
+    <string name="ks_back_home">Рабочий стол</string>
+    <string name="ks_close_window">Закрыть текущее окно</string>
+    <string name="ks_launch_control_center">Центр управления</string>
+    <string name="ks_launch_notification_center">Шторка уведомлений</string>
+    <string name="ks_launch_recents_tasks">Открыть Недавние</string>
+    <string name="ks_lock_screen">Экран блокировки</string>
+    <string name="ks_regional_screen_shot">Частичный скриншот</string>
+    <string name="ks_screenshot">Скриншот</string>
     <string name="kungfu">Кунг-фу</string>
     <string name="leisure">Отдых</string>
     <string name="livetalk_not_enable">Пакет пополнения баланса отключен</string>

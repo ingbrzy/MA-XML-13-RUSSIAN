@@ -37,6 +37,7 @@
     <string name="app_notification_title">Запись экрана</string>
     <string name="auto_stop_title">Видео сохранено</string>
     <string name="battery_not_allowed" formatted="false">Запись невозможна при заряде батареи менее 3%. Заряд батареи должен быть не менее 20%.</string>
+    <string name="battery_not_allowed_warning">Запись невозможна при заряде батареи менее %1$s. Заряд батареи должен быть не менее %2$s.</string>
     <string name="bit_rate">Качество видео</string>
     <string name="bit_rate_summary">Влияет на размер файла</string>
     <string name="bubble_text">Начать запись</string>
@@ -108,8 +109,9 @@
     <string name="low_battery_for_pad">Зарядите устройство перед началом записи</string>
     <string name="low_battery_title">Батарея разряжена</string>
     <string name="low_battery_warning">Батарея разряжена. Запись остановлена и сохранена.</string>
-    <string name="low_memory">Менее 1 ГБ свободного места. Доступно для записи до 20 минут видео.</string>
-    <string name="low_memory_for_pad">Менее %1$d ГБ свободного места. Доступно для записи до %2$d мин. видео.</string>
+    <string name="low_memory">Менее 1 ГБ свободного места. Для записи доступно до 20 мин.</string>
+    <string name="low_memory_for_pad">Менее %1$d ГБ свободного места. Для записи доступно до %2$d мин.</string>
+    <string name="low_memory_for_phone">Менее %1$d ГБ свободного места. Для записи доступно до %2$d мин.</string>
     <string name="low_memory_title">Недостаточно места</string>
     <string name="low_momery_warning">Недостаточно места. Запись остановлена и сохранена.</string>
     <string name="memory_not_allowed">Нет свободного места. Освободите место для записи.</string>

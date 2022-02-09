@@ -1108,7 +1108,7 @@
     <string name="lockscreen_sound_off_label">Откл. звук</string>
     <string name="lockscreen_sound_on_label">Вкл. звук</string>
     <string name="lockscreen_storage_locked">Разблок. для доступа ко всем функциям и данным</string>
-    <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message">"Вы %1$d раз неверно указали графический ключ. 
 
 Повтор через %2$d сек."</string>

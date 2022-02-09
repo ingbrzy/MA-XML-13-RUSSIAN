@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">Аккаунты</string>
+    <string name="Intelligentpickfree">Распознавание речи</string>
     <string name="MiSans_title">MiSans</string>
     <string name="a11y_settings_label">Спец. возможности</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
@@ -618,6 +619,9 @@
     <string name="ambient_display_tap_screen_title">Коснитесь для проверки</string>
     <string name="ambient_display_title">Просмотр времени и уведомлений двойным касанием</string>
     <string name="ambient_display_wake_screen_title">Включение экрана</string>
+    <string name="anc_auto">Авто</string>
+    <string name="anc_depth">Глубокий</string>
+    <string name="anc_mild">Мягкий</string>
     <string name="android_beam_disabled_summary">Для использования этой функции включите NFC</string>
     <string name="android_beam_explained">Эта функция позволяет обмениваться информацией между устройствами, приложив их друг к другу. Передавать можно практически любые данные, включая контакты, веб-страницы и видео.</string>
     <string name="android_beam_label">Android Beam</string>
@@ -850,6 +854,11 @@
     <string name="audio_share_confirm">Передать</string>
     <string name="auto_adjst_effect_summary">Автоматическая регулировка цветового тона под окружающее освещение</string>
     <string name="auto_adjust_effect_title">Авторегулировка тона</string>
+    <string name="auto_anc_closed">Откл.</string>
+    <string name="auto_anc_fifteen_recover">%d сек.</string>
+    <string name="auto_anc_five_recover">%d сек.</string>
+    <string name="auto_anc_not_recover">Оставить</string>
+    <string name="auto_anc_ten_recover">%d сек.</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
     <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Вы можете перемещать ползунок вручную, чтобы адаптивная яркость запомнила ваши предпочтения.</string>
     <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости ее можно временно изменить.</string>
@@ -3092,6 +3101,8 @@
     <string name="done_button">Готово</string>
     <string name="double_click_power_key">Двойное нажатие \"Питание\"</string>
     <string name="double_click_volume_down_when_lock">Двойное нажатие \"Уменьшение громкости\"</string>
+    <string name="double_connect">Двойное подключение</string>
+    <string name="double_connect_summary">Подключение к двум устройствам</string>
     <string name="double_knock">Двойное касание костяшкой</string>
     <string name="double_tap_power_for_camera_suggestion_title">Быстрый доступ к камере</string>
     <string name="double_tap_power_for_camera_summary">Включение камеры двойным нажатием кнопки питания в любом приложении</string>
@@ -3672,7 +3683,7 @@
     <string name="flashback_summary">Показывать основные сведения о приложениях при отображении в плавающих окнах</string>
     <string name="flashback_support_apps_title">Доступные приложения</string>
     <string name="flashback_title">Карточки приложений</string>
-    <string name="flashback_wangzhe_summary">Показывать внутриигровой таймер</string>
+    <string name="flashback_wangzhe_summary">Показывать обратный таймер</string>
     <string name="floating_window_switch_label">Плавающие окна</string>
     <string name="floating_window_switch_label_disable">Отключить плавающие окна</string>
     <string name="fluency_mode">Системная анимация</string>
@@ -3894,6 +3905,8 @@
     <string name="global_actions_panel_title">Панель общих действий</string>
     <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства.</string>
     <string name="global_locale_change_title">Изменение языка</string>
+    <string name="global_stylus_summary">Преобразование рукописного ввода в текст (если поддерживается)</string>
+    <string name="global_stylus_title">Рукописный ввод</string>
     <string name="gmscore_settings_title">Основные сервисы Google</string>
     <string name="go_back_button_label">Назад</string>
     <string name="go_to_sleep">Отключение экрана</string>
@@ -4076,7 +4089,7 @@
     <string name="headset_remove_message_indicate">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="headset_sbc">SBC</string>
     <string name="headset_settings_title">Звуковые эффекты</string>
-    <string name="headset_silent_upgrade_switch_summary">Гарнитура автоматически обновляется при определенных условиях</string>
+    <string name="headset_silent_upgrade_switch_summary">Автообновление прошивки наушников в случае выполнения всех необходимых условий</string>
     <string name="headset_silent_upgrade_switch_title">Автообновление</string>
     <string name="headset_spatial_audio">Объемный звук</string>
     <string name="headset_toast_tip_disconnect_others">Возможно, наушники подключены к другому устройству</string>
@@ -4371,6 +4384,9 @@
     <string name="input_pattern_hint_text">Введите графический ключ</string>
     <string name="input_settings">Настройки ввода</string>
     <string name="input_text">Поле ввода</string>
+    <string name="inputdebuglog_select_level">Уровень журналирования</string>
+    <string name="inputdebuglog_select_level_show">Уровень %d</string>
+    <string name="inputdebuglog_select_level_summary">Выбор уровня</string>
     <string name="insert_sim_card_and_try_again">Вставьте SIM-карту и повторите попытку</string>
     <string name="install_all_warning">Ваши личные данные и данные устройства более уязвимы для атак приложений из неизвестных источников. Устанавливая приложения из этого источника, вы принимаете на себя полную ответственность за любой ущерб, нанесенный устройству, и потерю данных при использовании этих приложений.</string>
     <string name="install_applications">Неизвестные источники</string>
@@ -4456,6 +4472,8 @@
     <string name="key_gesture_function_optional">Кнопки и жесты</string>
     <string name="key_gesture_function_preview">Предварительный просмотр</string>
     <string name="key_gesture_function_shortcut">Функции кнопок и жестов</string>
+    <string name="key_handwriting_input_summary">Редактирование текста с помощью стилуса, включая такие действия, как удаление, выделение, вставка и начало нового абзаца.</string>
+    <string name="key_handwriting_input_title">Рукописный ввод</string>
     <string name="key_none">Нет</string>
     <string name="key_operation_diagram">Схема работы</string>
     <string name="key_position_cat">Положение кнопок</string>
@@ -4465,6 +4483,7 @@
     <string name="key_system_control">Управление системой</string>
     <string name="keyboard_and_input_methods_category">Клавиатура и способы ввода</string>
     <string name="keyboard_assistance_category">Подсказки клавиатуры</string>
+    <string name="keyboard_back_light">Подсветка клавиатуры</string>
     <string name="keyboard_disconnected">Не подключено</string>
     <string name="keyboard_funtion_key">Функциональная клавиша</string>
     <string name="keyboard_layout_default_label">По умолчанию</string>
@@ -4648,6 +4667,24 @@
     <string name="knock_long_press_horizontal_slid">Нажмите и проведите горизонтально костяшкой</string>
     <string name="knock_slide_shape">Нарисуйте окружность костяшкой</string>
     <string name="knock_slide_v">Нарисуйте \"V\" костяшкой</string>
+    <string name="ks_add_title">Добавить ярлык</string>
+    <string name="ks_back_home">Рабочий стол</string>
+    <string name="ks_category_app">Открытые приложения</string>
+    <string name="ks_category_key">Горячие клавиши</string>
+    <string name="ks_category_system">Системные ярлыки</string>
+    <string name="ks_dialog_add_text">Введите комбинацию клавиш, чтобы добавить ярлык</string>
+    <string name="ks_dialog_conflict">Этот ярлык уже используется для \"%s\"</string>
+    <string name="ks_dialog_modify_text">Введите комбинацию клавиш, чтобы изменить ярлык</string>
+    <string name="ks_dialog_reset_btn">Восстановить</string>
+    <string name="ks_dialog_reset_text_app">Настройки ярлыков для открытия приложений будут восстановлены по умолчанию. Все пользовательские ярлыки будут удалены. Восстановить?</string>
+    <string name="ks_dialog_reset_text_system">Восстановить настройки системных ярлыков по умолчанию?</string>
+    <string name="ks_dialog_title">Открыть %s</string>
+    <string name="ks_launch_control_center">Центр управления</string>
+    <string name="ks_launch_notification_center">Шторка уведомлений</string>
+    <string name="ks_reset_title">Настройки по умолчанию</string>
+    <string name="ks_screenshot">Скриншот</string>
+    <string name="ks_search_summary">Поиск</string>
+    <string name="ks_title">Горячие клавиши</string>
     <string name="label_available">Доступные сети</string>
     <string name="label_mi_stats">Mi аналитика</string>
     <string name="language_and_input_for_work_category_title">Клавиатура и инструменты</string>
@@ -5432,6 +5469,7 @@
     <string name="menu_stats_total">Всего</string>
     <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
     <string name="menu_use_uss">Использовать USS</string>
+    <string name="mi_headset_healthy">Здоровье слуха</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="mi_pay_indonesia">Аккаунт Mi Pay</string>
     <string name="mi_pay_summary">Транспортная карта/Mi Pay/Эмулятор карты</string>
@@ -5942,6 +5980,7 @@
     <string name="n_cacrts">Сертификатов ЦС: %d</string>
     <string name="natural_haptic">Реалистичный виброотклик</string>
     <string name="natural_haptic_summary">Новые шаблоны виброотклика привносят дополнительное измерение во все, что вы видите и к чему прикасаетесь на экране</string>
+    <string name="natural_scroll">Натуральная прокрутка</string>
     <string name="nature_color">Стандарт</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо на полосе навигации</string>
@@ -8191,6 +8230,8 @@ UT-интерфейс: %5$s"</string>
     <string name="settings_charging_fully_charged">Полностью заряжено</string>
     <string name="settings_charging_not_charging">Без зарядки</string>
     <string name="settings_forbidden_message">Настройка ограничена</string>
+    <string name="settings_keyboard_title">Клавиатура</string>
+    <string name="settings_keyboard_warning">Клавиатура не подключена</string>
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
     <string name="settings_license_activity_loading">Загрузка…</string>
@@ -8995,11 +9036,22 @@ UT-интерфейс: %5$s"</string>
     <string name="style_and_wallpaper_settings_title">Обои и стиль</string>
     <string name="style_suggestion_summary">Попробуйте различные стили, обои, часы и прочее</string>
     <string name="style_suggestion_title">Персонализация Pixel</string>
+    <string name="stylus_btn_continue">Далее</string>
+    <string name="stylus_btn_learn">Руководство</string>
+    <string name="stylus_btn_quick_write">Рукописный ввод</string>
+    <string name="stylus_btn_screen_shot">Скриншот</string>
+    <string name="stylus_btn_skip">Пропустить</string>
+    <string name="stylus_connect">Нажмите, чтобы подключить</string>
     <string name="stylus_connect_fail">Не удалось подключить. Повторите сопряжение.</string>
     <string name="stylus_connect_fail_no_battery">Зарядите стилус</string>
     <string name="stylus_connect_fail_no_reason">Не удалось подключить</string>
     <string name="stylus_connect_fail_not_open_gps">Не удалось подключить. Включите геолокацию и повторите попытку.</string>
     <string name="stylus_connecting">Подключение…</string>
+    <string name="stylus_function_and_action">Функции</string>
+    <string name="stylus_keyboard_settings_title">Стилус и клавиатура</string>
+    <string name="stylus_language_summary">Распознавать цифры и рукописный текст на английском и дополнительно выбранном языке</string>
+    <string name="stylus_language_title">Язык</string>
+    <string name="stylus_not_connect_message">Стилус не подключен</string>
     <string name="stylus_ota_check_failed_battery">Не удалось проверить. Батарея стилуса разряжена.</string>
     <string name="stylus_ota_check_failed_info">Не удалось проверить версию прошивки. Подключите стилус.</string>
     <string name="stylus_ota_check_update">Проверить обновления</string>
@@ -9022,6 +9074,20 @@ UT-интерфейс: %5$s"</string>
     <string name="stylus_ota_update">Обновить</string>
     <string name="stylus_ota_update_failed">Не удалось обновить прошивку</string>
     <string name="stylus_ota_updating">Обновление…</string>
+    <string name="stylus_primary_key">Первая кнопка</string>
+    <string name="stylus_quick_write">Рукописный ввод</string>
+    <string name="stylus_quick_write_summary">Нажмите и удерживайте кнопку рукописного ввода, чтобы написать или сделать рисунок</string>
+    <string name="stylus_schematic_diagram">Демо</string>
+    <string name="stylus_screen_shot">Скриншот</string>
+    <string name="stylus_screen_shot_summary">Нажмите и удерживайте кнопку скриншота, чтобы сделать скриншот и отредактировать его</string>
+    <string name="stylus_settings_title">Стилус</string>
+    <string name="stylus_shortcut_actions_summary">Нажмите и удерживайте первую кнопку для рукописного ввода. Нажмите и удерживайте вторую кнопку для скриншота.</string>
+    <string name="stylus_shortcut_actions_title">Быстрые действия</string>
+    <string name="stylus_shortcut_title_note">Рукописный ввод</string>
+    <string name="stylus_shortcut_title_screenshot">Скриншот</string>
+    <string name="stylus_success">Готово</string>
+    <string name="stylus_vice_key">Вторая кнопка</string>
+    <string name="stylus_welcome">Познакомьтесь с умной ручкой Xiaomi</string>
     <string name="subscreen_title">Задний экран</string>
     <string name="subscription_available">Доступна</string>
     <string name="sud_back_button_label">Назад</string>
@@ -9337,6 +9403,9 @@ UT-интерфейс: %5$s"</string>
     <string name="transcode_settings_title">Настройки перекодирования медиа</string>
     <string name="transcode_user_control">Отменить настройки перекодирования по умолчанию</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
+    <string name="transparent_human_voice">Голос</string>
+    <string name="transparent_normal">Стандартный</string>
+    <string name="transparent_surroundings">Окружающий</string>
     <string name="trigger_carrier_provisioning">Триггер обеспечения несущей</string>
     <string name="truetone_summary">Автоматическая регулировка цветового тона под окружающее освещение</string>
     <string name="truetone_title">Авторегулировка тона</string>
@@ -9414,7 +9483,7 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_keyguard_password_alert_choose">Запомните свой пароль. Если вы его забудете, то придется стереть все данные на вашем устройстве, а затем задать новый.</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Не сейчас</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Понятно</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">Понятно (%d с)</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">Понятно (%d сек.)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">Запомните свой пароль блокировки экрана. Если вы его забудете, то придется стереть все данные на вашем устройстве, включая фото и контакты, а затем задать новый.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Запомните свой пароль</string>
     <string name="turn_on_security_lock">Способ защиты</string>
@@ -9424,9 +9493,10 @@ UT-интерфейс: %5$s"</string>
     <string name="twilight_mode_launch_location">Использование геолокации</string>
     <string name="twilight_mode_location_off_dialog_message">Чтобы определять время заката и рассвета, разрешите использование геолокации.</string>
     <string name="twohours">1 час</string>
-    <string name="tx_link_speed">%1$d Мбит/с</string>
+    <string name="tx_link_speed">%1$d Мбит/сек.</string>
     <string name="tx_link_speed_label">Скорость передачи:</string>
     <string name="tx_wifi_speed">Скорость передачи</string>
+    <string name="ucar_screen_projection_title">CarWith</string>
     <string name="under_keyguard">Экран блокировки</string>
     <string name="unimportant">Неважное</string>
     <string name="uninstall_all_users_text">Удалить для всех пользователей</string>

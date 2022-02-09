@@ -58,9 +58,11 @@
     <string name="dolby_dax_setting">Эффекты Dolby</string>
     <string name="dolby_dax_title">Объемный звук</string>
     <string name="early_morning">Утро</string>
-    <string name="effect_3dsurround">Объемный звук</string>
+    <string name="effect_3dsurround">Иммерсивный звук</string>
     <string name="effect_3dsurround_summary">Усиление глубины звука для наушников и динамиков</string>
     <string name="effect_3dsurround_summary_headphone">Усиление глубины звука для наушников</string>
+    <string name="effect_virtual_surround">Виртуальный иммерсивный звук</string>
+    <string name="effect_virtual_surround_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %.1f)</string>
     <string name="end_wireless_transmission">Остановить</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>
@@ -161,6 +163,8 @@
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="midnight">Ночь</string>
     <string name="misound_effect_setting">Mi Sound</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -175,6 +179,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>
@@ -491,7 +496,7 @@
     <string name="sound_transmission_stop">Остановить</string>
     <string name="sound_transmission_title">Беспроводной микрофон</string>
     <string name="spatial_audio">Отслеживание движения головы</string>
-    <string name="spatial_audio_summary">Регулировка объемного звука движением головы</string>
+    <string name="spatial_audio_summary">Регулировка иммерсивного звука движением головы</string>
     <string name="speaker_scenario_resume">Восстановить исходный</string>
     <string name="speaker_scenario_selection">Звук динамика</string>
     <string name="speaker_scenario_selection_another">Оригинал</string>
