@@ -37,6 +37,19 @@
     <string name="downloading">Загрузка:</string>
     <string name="downloading_desc">Идет загрузка, проверьте статус в области уведомлений.</string>
     <string name="fastboot_update_warning">Это обновление только для установки через fastboot!</string>
+    <string name="fetch_notification_default_channel_name">Загрузки</string>
+    <string name="fetch_notification_download_cancel">Отмена</string>
+    <string name="fetch_notification_download_complete">Готово</string>
+    <string name="fetch_notification_download_downloading">Загрузка…</string>
+    <string name="fetch_notification_download_eta_hrs">Осталось %1$d ч. %2$d мин. %3$d сек.</string>
+    <string name="fetch_notification_download_eta_min">Осталось %1$d мин. %2$d сек.</string>
+    <string name="fetch_notification_download_eta_sec">Осталось %1$d сек.</string>
+    <string name="fetch_notification_download_failed">Ошибка</string>
+    <string name="fetch_notification_download_pause">Пауза</string>
+    <string name="fetch_notification_download_paused">Пауза</string>
+    <string name="fetch_notification_download_resume">Возобновление</string>
+    <string name="fetch_notification_download_retry">Повтор</string>
+    <string name="fetch_notification_download_starting">Запуск</string>
     <string name="fetching_data">Получение ссылки для скачивания, пожалуйста, подождите…</string>
     <string name="install_desc">"Устройство перезагрузится в Recovery и установит выбранный файл: %1$s
 Все данные будут сохранены."</string>
@@ -50,7 +63,7 @@
     <string name="message_title">ПРИМЕЧАНИЕ!</string>
     <string name="new_desc">%1$s</string>
     <string name="new_version">Найдена новая версия!</string>
-    <string name="no_info">Информация недоступна.</string>
+    <string name="no_info">Информация недоступна</string>
     <string name="no_mirror">Все зеркала в данный момент отключены, попробуйте позже…</string>
     <string name="no_network">Сеть недоступна.</string>
     <string name="no_update">Установлена последняя версия</string>

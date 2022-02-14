@@ -967,7 +967,7 @@ ID: %s
     <string name="mr_controller_collapse_group">Свернуть</string>
     <string name="mr_controller_disconnect">Отключить</string>
     <string name="mr_controller_expand_group">Развернуть</string>
-    <string name="mr_controller_no_info_available">Данных нет</string>
+    <string name="mr_controller_no_info_available">Информация недоступна</string>
     <string name="mr_controller_no_media_selected">Медиафайл не выбран</string>
     <string name="mr_controller_pause">Приостановить</string>
     <string name="mr_controller_play">Воспроизвести</string>
