@@ -435,6 +435,7 @@
     <string name="calllog_menu_blacklist">Заблокировать</string>
     <string name="calllog_menu_edit_before_call">Изменить номер и вызвать</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
+    <string name="calllog_record_none_toast">Нет записей</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин %2$d с</string>
     <string name="callrecordview_item_op_time_missed">Нет ответа</string>
@@ -1292,6 +1293,12 @@
     <string name="name_phonetic_middle">Отчество (транскрипция)</string>
     <string name="name_prefix">Префикс имени</string>
     <string name="name_suffix">Суффикс имени</string>
+    <string name="new_saf_permission_dialog_content">"Разрешения обновлены. Предоставьте приложению Контакты доступ к записям вызовов.
+
+Чтобы предоставить разрешение,
+нажмите \"%1$s\", затем выберите \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Далее</string>
+    <string name="new_saf_permission_dialog_title"><b>Требуются разрешения</b></string>
     <string name="next">Далее</string>
     <string name="next_birthday">Следующий день рождения: %s</string>
     <string name="nfc_vcard_file_name">Контакт получен по NFC</string>
@@ -1918,6 +1925,7 @@
     <string name="theme_dialog_confirm_button">Понятно</string>
     <string name="theme_dialog_confirm_content">Эта версия приложения Контакты не поддерживает текущую тему</string>
     <string name="theme_dialog_confirm_title">Неподдерживаемая тема</string>
+    <string name="this_folder">Использовать эту папку</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>

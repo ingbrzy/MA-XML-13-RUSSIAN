@@ -452,6 +452,8 @@
     <string name="shortcut_new_alarm">Будильник</string>
     <string name="shortcut_start_timer">Таймер</string>
     <string name="shortcut_stop_watch">Секундомер</string>
+    <string name="show_life_post_desc">Если вы отключите эту функцию, утренние отчеты показываться не будут</string>
+    <string name="show_life_post_lable">Показывать утренний отчет</string>
     <string name="shut_down_alarm_no_news">После отключения будильника утренние новости будут недоступны.</string>
     <string name="shut_down_keep_screen">Экран не будет включен постоянно</string>
     <string name="shutdown_alarm_alert_enable_summary">Сигналы отключения сработают как минимум через 10 минут после выключения устройства</string>
@@ -465,6 +467,7 @@
     <string name="sleep_analysis">Статистика</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">Данные о сне предоставлены приложением Mi Здоровье</string>
+    <string name="sleep_date_provider_text_new">Данные о сне предоставлены Mi Fitness</string>
     <string name="sleep_duration">"Длительность сна: "</string>
     <string name="sleep_duration_avg_text_diff">Средняя продолжительность сна (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Сон %1$s %2$s</string>
@@ -479,7 +482,8 @@
     <string name="sleep_notification_title">Время ложиться спать</string>
     <string name="sleep_record">Отслеживание сна</string>
     <string name="sleep_record_desc">Включить отслеживание сна</string>
-    <string name="sleep_record_desc_detailed">Функция отслеживания сна предоставляется приложением Mi Здоровье. После включения приложение будет автоматически отслеживать ваш сон на основе использования телефона и статистики активности, а также установленного времени начала сна и пробуждения, показывая статистику в виде диаграмм. Для более точного отслеживания сна, разрешите автозапуск для приложения Mi Здоровье. Все данные будут храниться локально на вашем устройстве, что позволяет легко управлять ими.</string>
+    <string name="sleep_record_desc_detailed">Функция отслеживания сна предоставляется приложением Mi Здоровье. После включения приложение будет автоматически отслеживать ваш сон на основе использования телефона и статистики активности, а также установленного времени начала сна и пробуждения, показывая статистику в виде диаграмм. Для более точного отслеживания сна, разрешите автозапуск для приложения Mi Здоровье. Все данные будут храниться локально на вашем устройстве, это позволяет легко управлять ими.</string>
+    <string name="sleep_record_desc_detailed_new">Отслеживание сна обеспечивается функцией Mi Fitness Sleep. Если вы включите эту функцию, Mi Fitness будет автоматически собирать и отображать статистику о вашем сне на основе использовании телефона и вашей активности, а также установленного времени начала сна и пробуждения. Для более точного отслеживания сна, разрешите автозапуск для Mi Fitness.</string>
     <string name="sleep_record_no_data">Ваша статистика появится здесь после того, как наберется достаточно данных и Mi Здоровье проанализирует их</string>
     <string name="sleep_remind">Напоминание</string>
     <string name="sleep_time">Начало сна</string>
@@ -657,6 +661,8 @@
     <string name="upcoming_alarm_hint">Вы можете отключить этот будильник</string>
     <string name="update_health_app">Обновление приложения</string>
     <string name="update_health_app_desc">Функция отслеживания сна предоставляется приложением Mi Здоровье. Обновите приложение до последней версии, чтобы получить доступ к соответствующим функциям.</string>
+    <string name="update_health_app_desc_new">Функция отслеживания сна предоставляется Mi Fitness. Обновите Mi Fitness до последней версии, чтобы получить доступ к соответствующим функциям.</string>
+    <string name="update_health_app_new">Обновление Mi Fitness</string>
     <string name="update_it">Обновить</string>
     <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
     <string name="usage_start">Начать</string>

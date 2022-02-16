@@ -299,6 +299,11 @@
     <string name="network_tip_dialog_title">Подключение к интернету</string>
     <string name="network_unavailable_tip">Подключитесь к сети и повторите попытку.</string>
     <string name="new_record_name">Новая запись</string>
+    <string name="new_saf_permission_dialog_content">"Разрешения обновлены. Предоставьте приложению Диктофон доступ к записям вызовов.
+
+Чтобы предоставить разрешение,
+нажмите \"%1$s\", затем выберите \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Далее</string>
     <string name="night">Вечер</string>
     <string name="no_content">Ничего нет</string>
     <string name="no_file">Нет записей</string>
@@ -618,6 +623,7 @@
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
+    <string name="this_folder">Использовать эту папку</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>

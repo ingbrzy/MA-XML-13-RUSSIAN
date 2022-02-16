@@ -186,6 +186,7 @@
     <string name="function_not_support">Функция не поддерживается</string>
     <string name="game_booster">Ускорение игр</string>
     <string name="gamebooster_network_dialog_message">Разрешить приложению Безопасность подключение к сети, чтобы использовать все функции Ускорения игр?</string>
+    <string name="gamebooster_network_dialog_message_pad">Разрешить приложению Безопасность подключение к сети, чтобы использовать все функции Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
     <string name="gamebox_no_network_btn">Перегрузить</string>
     <string name="gb_adv_touch_adv_title">Обычный режим (по умолчанию)</string>
@@ -234,6 +235,7 @@
     <string name="gb_game_speed_closed_fail">Не удалось отключить режим \"скорость света\"</string>
     <string name="gb_game_speed_open">Режим \"скорость света\" включен</string>
     <string name="gb_game_speed_open_fail">Не удалось включить режим \"скорость света\"</string>
+    <string name="gb_global_settings">Общие настройки</string>
     <string name="gb_gpu_control_anisotropic_filtering">Анизотропная фильтрация</string>
     <string name="gb_gpu_control_anti_aliasing">Сглаживание</string>
     <string name="gb_gpu_control_fps">Частота кадров</string>
@@ -265,6 +267,9 @@
     <string name="gb_pannel_control_mode_high_quality">Высокое качество</string>
     <string name="gb_pannel_control_mode_normal">По умолчанию</string>
     <string name="gb_pannel_control_mode_power_saving">Экономия заряда</string>
+    <string name="gb_webwindow_schemedialog_accept">Открыть</string>
+    <string name="gb_webwindow_schemedialog_cancel">Отмена</string>
+    <string name="gb_webwindow_schemedialog_title">Открыть Ускорение игр?</string>
     <string name="gb_weixinpay_can_not_complete">Для завершения платежа установите WeChat Pay.</string>
     <string name="gdpr_msg">Чтобы использовать основные функции Безопасности, вы должны согласиться с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая информацию об используемых функциях (например, статистику использования мобильных данных, информацию о вредоносных программах, а также основную информацию об устройстве) и другие виды информации, указанные в нашей Политике конфиденциальности.</string>
     <string name="gtb_dialog_privacy_speed_message">Вы собираетесь использовать Ускорение игр Xunyou. Служба получит доступ к идентификатору Mi аккаунта для оформления подписки.</string>

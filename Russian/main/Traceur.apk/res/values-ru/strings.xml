@@ -652,6 +652,7 @@
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
     <string name="standby_bucket_summary">Приложение в режиме ожидания: %s</string>
+    <string name="start_new_trace">Начать новую трассировку</string>
     <string name="status_unavailable">Недоступен</string>
     <string name="stop_on_bugreport">Завершение трассировки</string>
     <string name="stop_on_bugreport_summary">Завершать активные записи трассировки при запуске отчета об ошибке</string>

@@ -2155,6 +2155,7 @@
     <string name="feedback_cancel">取消</string>
     <string name="feedback_ok">反馈</string>
     <string name="feedback_tip_msg">亲，您是否遇到了支付问题？您可以选择告诉我们。</string>
+    <string name="fetch_notification_default_channel_id">fetch_downloads_channel_id</string>
     <string name="fiction__refresh_header_view__finish">刷新成功</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_progress">%1$s%%</string>
@@ -3853,6 +3854,10 @@
     <string name="settings_display">settings_display</string>
     <string name="settings_notification">settings_notification</string>
     <string name="settings_package">com.android.settings</string>
+    <string name="settingslib_config_bodyFontFamily">@android:string/config_bodyFontFamily</string>
+    <string name="settingslib_config_bodyFontFamilyMedium">@android:string/config_bodyFontFamilyMedium</string>
+    <string name="settingslib_config_headlineFontFamily">@android:string/config_headlineFontFamily</string>
+    <string name="settingslib_config_headlineFontFamilyMedium">@android:string/config_headlineFontFamilyMedium</string>
     <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
@@ -4715,6 +4720,7 @@ feedsContentId:
     <string name="winter_solstice_tradition">冬至</string>
     <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
     <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="wps_lite_app_svn">svn</string>
     <string name="wps_lite_app_version">2.2.1</string>
     <string name="wps_title">WPS Mail</string>
@@ -4749,7 +4755,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-<!-- ### FROM SOURCE -->
-    <string name="fetch_notification_default_channel_id">fetch_downloads_channel_id</string>
-	
 </resources>

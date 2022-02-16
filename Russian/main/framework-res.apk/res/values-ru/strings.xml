@@ -756,6 +756,7 @@
     <string name="face_error_timeout">Повторите попытку</string>
     <string name="face_error_unable_to_process">Не удалось распознать лицо. Повторите попытку.</string>
     <string name="face_error_user_canceled">Отменено пользователем</string>
+    <string name="face_error_vendor_unknown">Что-то пошло не так. Попробуйте снова.</string>
     <string name="face_icon_content_description">Значок лица</string>
     <string name="face_name_template">Данные лица %d</string>
     <string name="face_or_screen_lock_app_setting_name">Использовать разблокировку по лицу или другой способ разблокировки</string>
@@ -807,6 +808,7 @@
     <string name="fingerprint_error_timeout">Превышено время ожидания. Повторите попытку.</string>
     <string name="fingerprint_error_unable_to_process">Повторите попытку.</string>
     <string name="fingerprint_error_user_canceled">Распознавание отпечатка отменено пользователем</string>
+    <string name="fingerprint_error_vendor_unknown">Что-то пошло не так. Попробуйте снова.</string>
     <string name="fingerprint_icon_content_description">Значок отпечатка пальца</string>
     <string name="fingerprint_name_template">Отпечаток %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">Использовать отпечаток или другой способ разблокировки</string>

@@ -1135,6 +1135,7 @@
     <string name="compatible_dialog_title">Внимание</string>
     <string name="comprehensive_protection_measures">Комплексная защита</string>
     <string name="confirmSecondSpacePassword">Подтвердите пароль второго пространства</string>
+    <string name="confirm_ai_allow_all_permission">Изменить статус разрешения на \"Решать за меня\" для всех приложений?</string>
     <string name="confirm_allow_all_permission">Разрешить всем приложениям использовать эту функцию?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi Аккаунта</string>
     <string name="confirm_fingerprint_msg">Подтвердите отпечаток пальца</string>
@@ -2016,10 +2017,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
     <string name="gb_performance_balance">Сбалансированный</string>
+    <string name="gb_performance_balance_tips">"Сбалансированный режим экономит заряд,
+снижая частоту обновления и вероятность перегрева"</string>
     <string name="gb_performance_high">Производительный</string>
     <string name="gb_performance_mode">Игровой режим</string>
-    <string name="gb_performance_tips">"Длительное использование производительного режима
-может привести к повышенному разряду батареи и перегреву"</string>
+    <string name="gb_performance_tips">"Производительный режим повышает производительность графики,
+но увеличивает разряд батареи и вероятность перегрева"</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
     <string name="gb_shoulder_key">Навесные триггеры</string>
     <string name="gb_shoulder_key_add_show_btn">Показывать виртуальные кнопки во время игр</string>
@@ -2140,6 +2143,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gd_setting_title">Боковая панель</string>
     <string name="gd_setting_vtb">Показывать во время воспроизведения</string>
     <string name="gd_setting_vtb_desc">Специальные функции для воспроизведения видео</string>
+    <string name="gd_sidebar_long_press_tips">Нажмите и удерживайте индикатор для перемещения, держите устройство вертикально</string>
     <string name="gd_splite_screen_tips">Разделение экрана при использовании плавающих окон не поддерживается</string>
     <string name="gdpr_msg"><Data>Для возможности обнаружения угроз безопасности и защиты ваших данных, нам необходимо собрать информацию о вашем устройстве. Перед использованием наших сервисов прочтите и примите Политику конфиденциальности. В случае отказа предоставить необходимую информацию, вы все равно сможете использовать это приложение, но некоторые функции будут недоступны.</Data></string>
     <string name="get_detail_by_click">Подробности</string>
@@ -2217,6 +2221,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_exit_game_to_gtb">Открыть Ускорение игр</string>
     <string name="gtb_exit_game_to_home">Вернуться на рабочий стол</string>
     <string name="gtb_guide_finish">Пропустить</string>
+    <string name="gtb_guide_game_mode_tips">Выберите предпочтительный игровой режим</string>
     <string name="gtb_guide_gtb_button_done">Готово</string>
     <string name="gtb_guide_gtb_community_desc">Обмен опытом с другими игроками</string>
     <string name="gtb_guide_gtb_community_title">Сообщество</string>
@@ -2224,7 +2229,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_guide_gtb_func_title">Ускорение игр</string>
     <string name="gtb_guide_gtb_game_effected">Применено</string>
     <string name="gtb_guide_gtb_game_new">Новое</string>
-    <string name="gtb_guide_gtb_line_new">Повысьте уровень игры с помощью совершенно нового Ускорения игр!</string>
+    <string name="gtb_guide_gtb_line_new">Попробуйте производительный режим в Ускорении игр!</string>
+    <string name="gtb_guide_gtb_line_xspace">Повысьте уровень игры с помощью нового Ускорения игр!</string>
     <string name="gtb_guide_small_window_app_desc">Использование других приложений во время игры</string>
     <string name="gtb_guide_small_window_app_title">Плавающие окна</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">Отключение дополнительной SIM-карты во время игры для стабильного соединения и предотвращения переключения между сетями. SIM-карта будет включена обратно по окончанию игры.</string>
@@ -4598,6 +4604,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_title_editblacklist">Изменение черного списка</string>
     <string name="st_title_editwhitelist">Изменение белого списка</string>
     <string name="st_title_keywords_blacklist">Черный список</string>
+    <string name="st_title_keywords_list">Список ключевых слов</string>
     <string name="st_title_keywords_whitelist">Белый список</string>
     <string name="st_title_man_addblacklist">Добавить номер в черный список</string>
     <string name="st_title_man_addwhitelist">Добавить номер в белый список</string>

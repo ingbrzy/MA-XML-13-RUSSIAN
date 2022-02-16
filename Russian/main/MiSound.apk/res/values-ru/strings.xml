@@ -62,7 +62,7 @@
     <string name="effect_3dsurround_summary">Усиление глубины звука для наушников и динамиков</string>
     <string name="effect_3dsurround_summary_headphone">Усиление глубины звука для наушников</string>
     <string name="effect_virtual_surround">Виртуальный иммерсивный звук</string>
-    <string name="effect_virtual_surround_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %.1f)</string>
+    <string name="effect_virtual_surround_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %.1f аудио)</string>
     <string name="end_wireless_transmission">Остановить</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>

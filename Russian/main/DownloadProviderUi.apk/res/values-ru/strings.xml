@@ -71,6 +71,7 @@
     <string name="cancel">Отмена</string>
     <string name="cancel_running_download">Отмена</string>
     <string name="cancle">Отмена</string>
+    <string name="category">Категория</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="check_new_downloaded_action">Просмотр</string>
     <string name="check_new_downloaded_file">Найден новый файл</string>
@@ -163,6 +164,7 @@ ID: %s
     <string name="do_not_support_url">Этот тип URL не поддерживается</string>
     <string name="doc_filter">Документы</string>
     <string name="download">Загрузки</string>
+    <string name="downloadCount">Загрузки</string>
     <string name="download_auth">Получение авторизации…</string>
     <string name="download_complete">Завершенные</string>
     <string name="download_description_content">Приложение \"Загрузки\" является системным. После удаления вы не сможете управлять загрузками файлов.</string>
@@ -277,6 +279,7 @@ ID: %s
     <string name="high_speed_tryout_time">Пробный период. Осталось: %1$s. Оформите подписку Xunlei.</string>
     <string name="hint">Внимание</string>
     <string name="home_page_new_download_guide">Новые загрузки будут здесь</string>
+    <string name="hundredmillions" />
     <string name="immediately_a_renewal">Обновить</string>
     <string name="info_download_details">Подробности</string>
     <string name="info_download_progress">Показать прогресс загрузки</string>
@@ -408,6 +411,7 @@ ID: %s
     <string name="notify_install_guide_title">Установлено %s успешно</string>
     <string name="notify_not_support">Такие уведомления не поддерживаются, обновите сейчас</string>
     <string name="notify_only_wifi_download">Ожидание Wi-Fi</string>
+    <string name="nowInstall">Установить</string>
     <string name="ok">ОК</string>
     <string name="one_month">1 месяц</string>
     <string name="only_support_torrent">Поддерживаются только торрент-файлы</string>
@@ -552,6 +556,7 @@ ID: %s
     <string name="shortcut_dialog_create">Создать</string>
     <string name="shortcut_dialog_title">Создать ярлык на рабочем столе?</string>
     <string name="show_more">Показать все (%s)</string>
+    <string name="size">Размер</string>
     <string name="size_byte">" Б"</string>
     <string name="size_giga_byte">" ГБ"</string>
     <string name="size_kilo_byte">" КБ"</string>
@@ -656,6 +661,7 @@ ID: %s
     <string name="task_detail_notfound_confirm">OK</string>
     <string name="task_fail">Ошибка</string>
     <string name="temporary_not_available">временно недоступно</string>
+    <string name="tenthousands" />
     <string name="terabyteShort">" ТБ"</string>
     <string name="test_speed">Тест</string>
     <string name="test_speed_detail">Информация</string>

@@ -64,6 +64,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="garbage_count">Присутствуют старые экземпляры: %1$s</string>
+    <string name="long_screenshot_error">Не удалось сделать скриншот. Попробуйте снова.</string>
     <string name="long_screenshot_guide_text">"Нажмите для создания
 скриншота с прокруткой"</string>
     <string name="long_screenshot_intercepted_error">Не удалось сделать скриншот. Попробуйте снова.</string>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">Хранилище</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам в хранилище</string>
+    <string name="HIPS_Perm_Read_Contact">Контакты</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Чтение контактов</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN разблокировки корпоративной RUIM</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Запрос разблокировки корпоративной RUIM не выполнен</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Запрос разблокировки корпоративной RUIM…</string>
