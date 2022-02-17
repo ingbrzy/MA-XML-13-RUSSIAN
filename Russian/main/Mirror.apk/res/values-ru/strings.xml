@@ -249,7 +249,7 @@
     <string name="pad_settings_pc_use_tile">О функции</string>
     <string name="pad_settings_phone_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим Mi аккаунтом</string>
     <string name="pad_settings_phone_handoff_title">Функция Handoff</string>
-    <string name="pad_settings_scanner_summary">Подключение к MIUI+ с помощью QR-кода</string>
+    <string name="pad_settings_scanner_summary">Подключение с помощью QR-кода</string>
     <string name="pad_settings_trusted_delete_dialog_msg">Автоподключение к этому устройству будет недоступно после удаления из списка</string>
     <string name="pad_settings_trusted_tips">Автоподключение к выбранным устройствам поблизости при включенных Bluetooth и Wi-Fi</string>
     <string name="pad_settings_trusted_tips_china">Автоподключение к выбранным устройствам поблизости при включенных Bluetooth и Wi-Fi</string>
@@ -326,7 +326,7 @@
     <string name="settings_permission_description">Сведения о разрешениях</string>
     <string name="settings_privacy_policy">Политика конфиденциальности</string>
     <string name="settings_scanner_button">Сканер</string>
-    <string name="settings_scanner_summary">Подключение к MIUI+ с помощью QR-кода</string>
+    <string name="settings_scanner_summary">Подключение с помощью QR-кода</string>
     <string name="settings_trusted">Автоподключение</string>
     <string name="settings_trusted_delete">Удалить</string>
     <string name="settings_trusted_delete_dialog_msg">После удаления устройства из списка, автоматическое подключение к нему будет недоступно</string>

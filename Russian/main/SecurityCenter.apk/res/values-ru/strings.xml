@@ -2239,7 +2239,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gtb_setting_item_title_brightness">Автоматическое снижение яркости экрана</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">Отключение дополнительной SIM-карты</string>
     <string name="gtb_setting_item_title_smart_5g">Оптимизация сети 5G</string>
-    <string name="gtb_setting_item_title_smart_wlan_speed">Повышение скорости Mi Wi-Fi</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Повышение скорости Wi-Fi</string>
     <string name="gtb_spring_festival_back_game">Вернуться в игру</string>
     <string name="gtb_spring_festival_egg_obtain_fail">Не удалось подключиться к сети</string>
     <string name="gtb_spring_festival_goto_gameturbo">Просмотр</string>
@@ -3222,13 +3222,13 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_battery_charge_times">Заряжено сегодня</string>
     <string name="power_center_battery_chargefull_time">До полной зарядки</string>
     <string name="power_center_battery_detail">Прочая информация</string>
-    <string name="power_center_battery_duration">Оставшееся время</string>
+    <string name="power_center_battery_duration">Осталось</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_hardware">Устройство: %s</string>
     <string name="power_center_battery_health_poor_tip">Похоже, батарея не в порядке. Проверьте ее в авторизованном сервисном центре</string>
     <string name="power_center_battery_health_summary">Полностью зарядите и разрядите устройство %1$d-%2$d раз, чтобы повысить точность статистики состояния батареи</string>
     <string name="power_center_battery_last">Осталось %s</string>
-    <string name="power_center_battery_level">Заряжено: %s</string>
+    <string name="power_center_battery_level">Заряд: %s</string>
     <string name="power_center_battery_level_general">Нормальный</string>
     <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
     <string name="power_center_battery_software">Приложения: %s</string>

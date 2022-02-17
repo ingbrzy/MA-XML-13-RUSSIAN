@@ -216,7 +216,7 @@
     <string name="dc_group_title_appclean">Приложения</string>
     <string name="dc_header_can_clean">Можно очистить</string>
     <string name="dc_header_can_not_clean">Занято</string>
-    <string name="dc_header_used_space_text">всей памяти использовано</string>
+    <string name="dc_header_used_space_text">хранилища использовано</string>
     <string name="dc_item_summary_wechat_chat">Очистка истории чатов для освобождения места</string>
     <string name="dc_item_title_apk">Установочные APK</string>
     <string name="dc_item_title_app_data">Данные приложений</string>

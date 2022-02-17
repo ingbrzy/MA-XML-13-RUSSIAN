@@ -130,6 +130,26 @@
         <item>Нормальный</item>
         <item>Большой</item>
     </string-array>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Код здоровья</item>
+        <item>PCR</item>
+        <item>Районы повышенного риска</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Красный - вверх, зеленый - вниз</item>
+        <item>Зеленый - вверх, красный - вниз</item>
+    </string-array>
     <string-array name="stock_color_schema">
         <item>Красный - вверх, зеленый - вниз</item>
         <item>Зеленый - вверх, красный - вниз</item>

@@ -464,6 +464,7 @@
     <array name="origin_carrier_names" />
     <string-array name="overlay_display_devices_values"></string-array>
     <string-array name="owner_relation_value"></string-array>
+    <string-array name="pa_express_sending_providers"></string-array>
     <integer-array name="page_options_values"></integer-array>
     <string-array name="pc_battery_history_spinner_choice"></string-array>
     <string-array name="pc_battery_history_spinner_choice_new"></string-array>
