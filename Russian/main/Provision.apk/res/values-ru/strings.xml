@@ -552,7 +552,7 @@
     <string name="terms_of_use_label_Mistore">Системный плагин Mi Store</string>
     <string name="terms_of_use_label_RMS">Менеджер разрешений</string>
     <string name="terms_of_use_label_ai_assistant">AI Ассистент</string>
-    <string name="terms_of_use_label_app_vault">Ассистент</string>
+    <string name="terms_of_use_label_app_vault">Лента виджетов</string>
     <string name="terms_of_use_label_back">Служба резервного копирования</string>
     <string name="terms_of_use_label_ble">Поставщик геолокации</string>
     <string name="terms_of_use_label_cloud">Облако Xiaomi</string>

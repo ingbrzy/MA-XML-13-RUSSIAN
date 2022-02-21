@@ -1500,7 +1500,7 @@
     <string name="midnight">Ночь</string>
     <string name="migrate_msg">Для некоторых альбомов требуются разрешения на перемещение файлов после обновления системы.</string>
     <string name="miplay_adjust_volume">Уровень громкости: %d</string>
-    <string name="miplay_circulate_failed">Ошибка трансляции. Повторите попытку позже.</string>
+    <string name="miplay_circulate_failed">Ошибка трансляции потока. Повторите попытку позже.</string>
     <string name="miplay_circulating_msg">Трансляция…</string>
     <string name="miplay_pause_video">Пауза</string>
     <string name="miplay_play_video">Воспроизведение</string>

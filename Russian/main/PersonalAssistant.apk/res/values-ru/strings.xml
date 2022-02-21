@@ -31,7 +31,7 @@
     <string name="access_deselected">Удалено: %s</string>
     <string name="access_select">Выбрано: %s</string>
     <string name="access_selected">Выбрано: %s</string>
-    <string name="accessibility_title">Ассистент</string>
+    <string name="accessibility_title">Лента виджетов</string>
     <string name="accordingto_position">Распознавать частые места используя GPS</string>
     <string name="account_address">Адрес</string>
     <string name="actionbar_button_up_description">Назад</string>
@@ -142,7 +142,7 @@
     <string name="app_assist_sleep_notifycation_content">Воспроизведение %s…</string>
     <string name="app_assist_sleep_notifycation_description">Уведомления во время воспроизведения перед сном</string>
     <string name="app_assist_sleep_notifycation_name">Здоровый сон</string>
-    <string name="app_assist_sleep_notifycation_title">Ассистент</string>
+    <string name="app_assist_sleep_notifycation_title">Лента виджетов</string>
     <string name="app_assist_sleep_redownload_dialog_cancel">Отмена</string>
     <string name="app_assist_sleep_redownload_dialog_confirm">Настройки</string>
     <string name="app_assist_sleep_redownload_dialog_content">Аудиофайлы, необходимые для этой функции, можно загрузить в настройках</string>
@@ -173,7 +173,7 @@
     <string name="app_commute_guide_button_text">Добавить адрес</string>
     <string name="app_commute_location_close">Использование геолокации</string>
     <string name="app_commute_location_open">Разрешить</string>
-    <string name="app_commute_location_open_tip">Разрешите Ассистенту использовать геолокацию для возможности просмотра и построения маршрутов.</string>
+    <string name="app_commute_location_open_tip">Разрешите использование геолокации в Ленте виджетов, для просмотра и построения маршрутов.</string>
     <string name="app_commute_more_lines">Еще</string>
     <string name="app_commute_no_data">Не удалось построить маршрут</string>
     <string name="app_commute_no_data_tip">Попробуйте изменить точку старта или пункт назначения.</string>
@@ -218,9 +218,9 @@
     <string name="app_debug_settings_vaid_summary">(Нажмите, чтобы скопировать VAID)</string>
     <string name="app_disclaimer_content">Эта функция предоставляется %1$s. %1$s несет всю ответственность за предоставляемые услуги. Если у вас есть вопросы, вы можете связаться с %1$s.</string>
     <string name="app_disclaimer_title">Отказ от ответственности</string>
-    <string name="app_display_linkage_default">Ассистент</string>
+    <string name="app_display_linkage_default">Лента виджетов</string>
     <string name="app_display_setting_edit_hint">Введите текст</string>
-    <string name="app_display_setting_edit_instruction">Заголовки отображаются в верхней части Ассистента. Они могут содержать до 14 китайских иероглифов или до 28 букв.</string>
+    <string name="app_display_setting_edit_instruction">Заголовки отображаются в верхней части Ленты виджетов. Они могут содержать до 14 китайских иероглифов или до 28 букв.</string>
     <string name="app_display_setting_edit_toast">Этот заголовок слишком длинный</string>
     <string name="app_display_setting_title">Изменить заголовок</string>
     <string name="app_download_failure">Ошибка загрузки</string>
@@ -292,7 +292,7 @@
     <string name="app_health_setting_text_download_alert_message">Отсутствует подключение к Wi-Fi. Использовать для загрузки мобильный интернет (%1$s)?</string>
     <string name="app_health_setting_text_sleep_aid_settings">Сон</string>
     <string name="app_health_setting_text_title">Здоровье</string>
-    <string name="app_label">Ассистент</string>
+    <string name="app_label">Лента виджетов</string>
     <string name="app_memory_free">Доступно</string>
     <string name="app_memory_info">%1$.1f ГБ/%2$d ГБ</string>
     <string name="app_memory_title">Память</string>
@@ -333,7 +333,7 @@
     <string name="app_pa_setting_head_bg_img">Фон</string>
     <string name="app_pa_setting_head_bg_img_default">Не задано</string>
     <string name="app_pa_setting_head_bg_img_set">Установить</string>
-    <string name="app_pa_setting_head_bg_img_summary">Установка фонового изображения заголовка Ассистента</string>
+    <string name="app_pa_setting_head_bg_img_summary">Установка фонового изображения заголовка Ленты виджетов</string>
     <string name="app_pa_setting_head_info">Заголовок</string>
     <string name="app_pa_setting_head_info_default">Не задано</string>
     <string name="app_pa_setting_head_info_set">Добавлено</string>
@@ -357,7 +357,7 @@
     <string name="app_pa_setting_private_auth_summary">Статистика использования используется для рекомендации вам релевантных товаров.</string>
     <string name="app_pa_setting_private_policy">Политика конфиденциальности</string>
     <string name="app_pa_setting_retract">Отзыв согласия</string>
-    <string name="app_pa_setting_retract_dialog_message">Если вы продолжите, согласие с Политикой конфиденциальности приложения \"Ассистент\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку приложение \"Ассистент\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования этих сервисов. Отозвать согласие?</string>
+    <string name="app_pa_setting_retract_dialog_message">Если вы продолжите, согласие с Политикой конфиденциальности приложения \"Лента виджетов\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку приложение \"Лента виджетов\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования этих сервисов. Отозвать согласие?</string>
     <string name="app_pa_setting_retract_dialog_negative">Отозвать</string>
     <string name="app_pa_setting_retract_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="app_pa_setting_retract_error_message">Ошибка сервера. Повторите попытку позже.</string>
@@ -366,7 +366,7 @@
     <string name="app_pa_setting_retract_no_net_title">Ошибка подключения к сети</string>
     <string name="app_pa_setting_retract_positive">Понятно</string>
     <string name="app_pa_setting_retract_sec_left">Отозвать (%d сек.)</string>
-    <string name="app_pa_setting_retract_summary">Отзыв согласия с Политикой конфиденциальности Ассистента</string>
+    <string name="app_pa_setting_retract_summary">Отзыв согласия с Политикой конфиденциальности Лента виджетов</string>
     <string name="app_pa_setting_retract_title">Отзыв согласия и отказ от использования</string>
     <string name="app_pa_setting_service_airstar">Airstar</string>
     <string name="app_pa_setting_service_airstar_summary">Просмотр финансовой, кредитной и страховой информации</string>
@@ -387,11 +387,11 @@
     <string name="app_pa_setting_service_my_schedule">Мероприятия</string>
     <string name="app_pa_setting_service_my_schedule_summary">Мероприятия, дни рождения, годовщины, таймеры и многое другое</string>
     <string name="app_pa_setting_service_my_shopping">Покупки</string>
-    <string name="app_pa_setting_service_my_shopping_summary">Храните информацию о своих покупках в Ассистенте.</string>
+    <string name="app_pa_setting_service_my_shopping_summary">Храните информацию о своих покупках в Ленте виджетов</string>
     <string name="app_pa_setting_service_news">Новости</string>
     <string name="app_pa_setting_service_news_summary">Последние новости и интересные истории</string>
     <string name="app_pa_setting_service_note">Заметки</string>
-    <string name="app_pa_setting_service_note_summary">Делайте краткие заметки в Ассистенте</string>
+    <string name="app_pa_setting_service_note_summary">Делайте краткие заметки в Ленте виджетов</string>
     <string name="app_pa_setting_service_personal">Персональные сервисы</string>
     <string name="app_pa_setting_service_personal_manage_list_summary">Связанный контент</string>
     <string name="app_pa_setting_service_personal_manage_list_title">Связанный контент</string>
@@ -399,7 +399,7 @@
     <string name="app_pa_setting_service_quick_func">Ярлыки</string>
     <string name="app_pa_setting_service_quick_func_summary">Запускайте специальные функции приложений</string>
     <string name="app_pa_setting_service_recent">Недавние элементы</string>
-    <string name="app_pa_setting_service_recent_summary">Быстрые приложения и ярлыки, которые появляются после смахивания вниз в Ассистенте</string>
+    <string name="app_pa_setting_service_recent_summary">Приложения и ярлыки, которые появляются после свайпа вниз в Лента виджетов</string>
     <string name="app_pa_setting_service_red_envelope">Помощник красных конвертов</string>
     <string name="app_pa_setting_service_red_envelope_summary">Получение скидок и предложений</string>
     <string name="app_pa_setting_service_screen_duration">Время экрана</string>
@@ -423,7 +423,7 @@
     <string name="app_screen_time_time">- %1$d ч. %2$d мин.</string>
     <string name="app_screen_time_time_minute">- %1$d мин.</string>
     <string name="app_screen_time_title">"Время экрана "</string>
-    <string name="app_setting">Настройки Ассистента</string>
+    <string name="app_setting">Настройки Ленты виджетов</string>
     <string name="app_setting_account">Аккаунты</string>
     <string name="app_setting_account_binding">Добавить</string>
     <string name="app_setting_account_unbinding">Удалить</string>
@@ -637,8 +637,8 @@
     <string name="card_expand_note_clear">Очистить</string>
     <string name="card_expand_note_clear_all">Очистить все</string>
     <string name="card_expand_note_dialog_button">Понятно</string>
-    <string name="card_expand_note_dialog_message">Новая заметка создается каждый раз, когда вы нажимаете кнопку \"Сохранить\" в Ассистенте</string>
-    <string name="card_expand_note_dialog_message_new">Новая заметка создается каждый раз, когда вы нажимаете кнопку \"Сохранить\" в Ассистенте</string>
+    <string name="card_expand_note_dialog_message">Новая заметка создается каждый раз, после нажатия кнопки \"Сохранить\" в Ленте виджетов</string>
+    <string name="card_expand_note_dialog_message_new">Новая заметка создается каждый раз, после нажатия кнопки \"Сохранить\" в Ленте виджетов</string>
     <string name="card_expand_note_dialog_title">Сохранение заметок</string>
     <string name="card_expand_note_dialog_title_new">Сохранение заметок</string>
     <string name="card_expand_note_sure_clear_all">Очистить сейчас</string>
@@ -736,7 +736,7 @@
     <string name="corpus_hint_apps">Поиск приложений</string>
     <string name="corpus_label_apps">Приложения</string>
     <string name="cta_desc">Все важные функции в одном месте</string>
-    <string name="cta_dialog_all_purpose">Добро пожаловать в Ассистент! Это приложение объединяет сервисы, связанные с работой, образом жизни и путешествиями.</string>
+    <string name="cta_dialog_all_purpose">"Добро пожаловать в Ленту виджетов! Это приложение объединяет сервисы, связанные с работой, образом жизни и путешествиями. "</string>
     <string name="cta_dialog_desc_calendar">Для отображения мероприятий календаря и запланированных поездок</string>
     <string name="cta_dialog_desc_location">Для расчета продолжительности ежедневных поездок на работу</string>
     <string name="cta_dialog_desc_phone_state">Для идентификации вашего устройства по IMEI</string>
@@ -744,9 +744,9 @@
     <string name="cta_dialog_miot_text_all">Для нормальной работы Mi Home требуется подключение к интернету, разрешение использовать геолокацию и сотовую сеть, включать Bluetooth, а также доступ к микрофону и чтение контактов. Разрешить?</string>
     <string name="cta_dialog_negative">Выход</string>
     <string name="cta_dialog_positive">Принять</string>
-    <string name="cta_dialog_text_all">Чтобы использовать Ассистент необходимо принять %1$s \"Пользовательское соглашение\" %2$s и %3$s \"Политику конфиденциальности\" %4$s. Приложению требуется подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
+    <string name="cta_dialog_text_all">Чтобы использовать Ленту виджетов необходимо принять %1$s \"Пользовательское соглашение\" %2$s и %3$s \"Политику конфиденциальности\" %4$s. Приложению требуется подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
     <string name="cta_dialog_text_new_user">Прочитайте и примите наши %1$sПользовательское соглашение%2$s и %3$sПолитику конфиденциальности%4$s.</string>
-    <string name="cta_dialog_text_old_user">Перед использованием приложения вы должны принять %1$s\"Политику конфиденциальности Ассистента\"%2$s. Нажмите \"Начать\", чтобы принять.</string>
+    <string name="cta_dialog_text_old_user">Перед использованием приложения вы должны принять %1$s\"Политику конфиденциальности Ленты виджетов\"%2$s. Нажмите \"Начать\", чтобы принять.</string>
     <string name="cta_dialog_title">Условия и положения</string>
     <string name="cta_negative">Закрыть</string>
     <string name="cta_not_now">Не сейчас</string>
@@ -754,17 +754,17 @@
     <string name="cta_old_start">Начать</string>
     <string name="cta_policy_change_dialog_agree">Принимаю</string>
     <string name="cta_policy_change_dialog_exit">Выход</string>
-    <string name="cta_policy_change_dialog_message" formatted="false">"Политика конфиденциальности Ассистента обновлена:
+    <string name="cta_policy_change_dialog_message" formatted="false">"Политика конфиденциальности Ленты виджетов обновлена:
 %s
 Прежде чем продолжить, прочтите и примите обновленную %s."</string>
     <string name="cta_policy_change_dialog_title">Обновленная политика конфиденциальности</string>
     <string name="cta_positive">Подробнее</string>
     <string name="cta_privacy_policy">Политика конфиденциальности</string>
-    <string name="cta_refuse_policy_dialog_message">Вы не сможете использовать Ассистент, если не примите обновленную %s. Принимаете?</string>
+    <string name="cta_refuse_policy_dialog_message">Вы не сможете использовать Ленту виджетов, если не примите обновленную %s. Принимаете?</string>
     <string name="cta_refuse_policy_dialog_title">Внимание</string>
     <string name="cta_start">Начать</string>
     <string name="cta_text5">Приложению требуются подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
-    <string name="cta_title">Добро пожаловать в Ассистент</string>
+    <string name="cta_title">Добро пожаловать в Ленту виджетов</string>
     <string name="currency_china">CNY</string>
     <string name="daily_greeting">Ежедневные приветствия</string>
     <string name="data_error">Произошла ошибка, повторите попытку позже</string>
@@ -1214,7 +1214,7 @@ Please send this code to the technician."</string>
     <string name="function_zhihu_search">Поиск</string>
     <string name="go_to_pay">Оплатить сейчас</string>
     <string name="go_to_school">В и с работы или школы</string>
-    <string name="google_assistant">Ассистент</string>
+    <string name="google_assistant">Google Ассистент</string>
     <string name="greeting_open">Включить ежедневные поздравления</string>
     <string name="greeting_setting_brief">Получайте информацию о погоде и напоминания о запланированных событиях, будильниках и днях рождения каждое утро и вечер</string>
     <string name="greeting_setting_brief_notice">Вы можете изменить город в приложении Погода</string>
@@ -1416,8 +1416,8 @@ Please send this code to the technician."</string>
     <string name="mini_weakpassword_error_serial">Не используйте несколько цифр подряд</string>
     <string name="miot_abnormal_device">Проблемные устройства</string>
     <string name="miot_auth_btn">Синхронизировать</string>
-    <string name="miot_auth_content">Используйте Ассистент для управления умными устройствами для дома</string>
-    <string name="miot_auth_dialog_content">Синхронизировать данные умных устройств для дома с Ассистентом?</string>
+    <string name="miot_auth_content">Используйте Ленту виджетов для управления устройствами Умного дома</string>
+    <string name="miot_auth_dialog_content">Синхронизировать данные устройств Умного дома с Лентой виджетов?</string>
     <string name="miot_auth_dialog_neg_btn">Отмена</string>
     <string name="miot_auth_dialog_pos_btn">Синхронизировать</string>
     <string name="miot_auth_dialog_title">Синхронизация</string>
@@ -1425,16 +1425,16 @@ Please send this code to the technician."</string>
     <string name="miot_cta_dialog_title">Предоставление разрешения</string>
     <string name="miot_del_dialog_cancel">Оставить</string>
     <string name="miot_del_dialog_sure">Удалить</string>
-    <string name="miot_delete_dialog_content">"Вы можете восстановить карточку Mi Home в настройках Ассистента."</string>
+    <string name="miot_delete_dialog_content">Вы можете восстановить карточку Mi Home в настройках Ленты виджетов</string>
     <string name="miot_delete_dialog_title">Удаление карточки Mi Home</string>
     <string name="miot_device_add_device">Добавить устройство</string>
     <string name="miot_device_all_device">Все устройства</string>
     <string name="miot_device_cancel">Отмена</string>
     <string name="miot_device_card_title">Устройства Mi Home</string>
-    <string name="miot_device_click_show_detail">"Нажмите, чтобы узнать больше об интеллектуальных устройствах для дома."</string>
+    <string name="miot_device_click_show_detail">Нажмите, чтобы узнать больше об устройствах Умного дома</string>
     <string name="miot_device_closed">Устройство отключено</string>
     <string name="miot_device_cta_and"> и </string>
-    <string name="miot_device_cta_message">"Добавьте свои интеллектуальные устройства для управления ими в Ассистенте. Нажмите Авторизация, чтобы принять "</string>
+    <string name="miot_device_cta_message">"Добавьте устройства Умного дома для управления ими в Ленте виджетов. Нажмите \"Авторизация\", чтобы принять "</string>
     <string name="miot_device_cta_priv">Политика конфиденциальности.</string>
     <string name="miot_device_cta_use_info">Пользовательское соглашение Mi Home</string>
     <string name="miot_device_disabled">Управление устройством сейчас недоступно</string>
@@ -1442,7 +1442,7 @@ Please send this code to the technician."</string>
     <string name="miot_device_edit_device">Сортировка устройств</string>
     <string name="miot_device_empty_text">Добавьте очиститель воздуха, камеру, робот-пылесос и другие интеллектуальные устройства для управления ими.</string>
     <string name="miot_device_install_mijia">Загрузить</string>
-    <string name="miot_device_introduction">Свайп вниз в Ассистенте для просмотра доступных элементов управления</string>
+    <string name="miot_device_introduction">Свайп вниз в Ленте виджетов для просмотра доступных элементов управления</string>
     <string name="miot_device_loading">Загрузка…</string>
     <string name="miot_device_login">Авторизация</string>
     <string name="miot_device_mijia_logout_message">Вы должны войти в свой Mi Аккаунт, прежде чем добавлять или использовать любые устройства. Авторизоваться сейчас?</string>
@@ -1622,6 +1622,651 @@ Please send this code to the technician."</string>
     <string name="open_bluetooth_now">Активация Bluetooth…</string>
     <string name="open_bluetooth_tips">Пожалуйста, активируйте Bluetooth, чтобы разрешить браслету доступ</string>
     <string name="opened">Вкл.</string>
+    <string name="pa_accessibility_home_search">Нажмите дважды для поиска</string>
+    <string name="pa_accessibility_home_widget_drag">Перетаскивание элемента</string>
+    <string name="pa_accessibility_olympic_bronze_medal">Бронзовые медали</string>
+    <string name="pa_accessibility_olympic_gold_medal">Золотые медали</string>
+    <string name="pa_accessibility_olympic_info_title">Подробнее</string>
+    <string name="pa_accessibility_olympic_silver_medal">Серебрянные медали</string>
+    <string name="pa_accessibility_olympic_the_first">Первое место: %s</string>
+    <string name="pa_accessibility_olympic_the_second">Второе место: %s</string>
+    <string name="pa_accessibility_olympic_the_third">Третье место: %s</string>
+    <string name="pa_accessibility_picker_back">Назад</string>
+    <string name="pa_accessibility_picker_widget_detail_edit">Редактирование</string>
+    <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Нажмите дважды для редактирования.</string>
+    <string name="pa_alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+    <string name="pa_announce_for_delete_gadget_and_widget">Виджет</string>
+    <string name="pa_app_label">Лента виджетов</string>
+    <string name="pa_base_hour12_format_en">hh:mm</string>
+    <string name="pa_base_hour24_format_en">HH:mm</string>
+    <string name="pa_base_hour_minute">%1$d ч. %2$d мин.</string>
+    <string name="pa_base_minute_second">mm:ss</string>
+    <string name="pa_base_time_just_now">Только что</string>
+    <string name="pa_base_time_month">dd.MM</string>
+    <string name="pa_base_time_year">dd.MM.yyyy</string>
+    <string name="pa_base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
+    <string name="pa_base_yesterday">Вчера</string>
+    <string name="pa_cancel">Отмена</string>
+    <string name="pa_clear">Очистить</string>
+    <string name="pa_covid_card_title">COVID-19</string>
+    <string name="pa_cta_dialog_all_purpose">Добро пожаловать в Ленту виджетов! Это приложение объединяет сервисы, связанные с работой, образом жизни и путешествиями.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_cta_dialog_desc_location">For providing commuting suggestions</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_cta_dialog_desc_phone_state">For identifying your device based on IMEI</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_cta_dialog_desc_storage">For caching items</string>
+    <string name="pa_day_date">MM:dd</string>
+    <string name="pa_day_time">H:mm</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_disclaimer_content">This feature is provided by %1$s. %1$s shall bear all responsibility related to the services it provides. You can contact %1$s if you have any questions.</string>
+    <string name="pa_disclaimer_title">Отказ от ответственности</string>
+    <string name="pa_download">Загрузить</string>
+    <string name="pa_edit">Изменить</string>
+    <string name="pa_edit_apply">Применить</string>
+    <string name="pa_edit_color">Цветовая схема</string>
+    <string name="pa_edit_color_group">Цветовая схема</string>
+    <string name="pa_edit_every_month">Каждый месяц</string>
+    <string name="pa_edit_every_week">Каждую неделю</string>
+    <string name="pa_edit_every_year">Каждый год</string>
+    <string name="pa_edit_not_repeat">Не повторять</string>
+    <string name="pa_edit_repeat">Повторять</string>
+    <string name="pa_edit_select_image">Формат</string>
+    <string name="pa_edit_set_time">Установить время</string>
+    <string name="pa_edit_state_onoff">Статус управления</string>
+    <string name="pa_edit_switch">Переключить</string>
+    <string name="pa_edit_text">Отображение</string>
+    <string name="pa_edit_text_align">Выравнивание</string>
+    <string name="pa_edit_text_max_length">Текст слишком длинный</string>
+    <string name="pa_edit_text_size">Размер текста</string>
+    <string name="pa_express_all">Все</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_auth_extra">Add phone number</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_auth_title">Track express delivery</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_call">Call</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_company">Courier service</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_content_title_2">Express delivery</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_detail_list_empty_text">"Items might appear here with a delay.
+You can also track express delivery on the official websites of courier services."</string>
+    <string name="pa_express_detail_more">Еще</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_detail_order_number_prefix">Tracking number: %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_dialog_sign_message">Mark this package as delivered? Its status will no longer be updated after that.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_empty_extra">Track</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_empty_title">No delivery info here</string>
+    <string name="pa_express_i_known">ОК</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_inqiury_select_logistics">Select courier service</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_inquiry">Check order</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_inquiry_frequently_used_logistics">Popular</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_inquiry_no_history">Nothing here yet</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_install_scan_toast">Install Scanner to be able to use this feature.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_item_menu_delete">Delete</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_item_menu_edit">Edit</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_item_menu_signed">Delivered</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_main_select">Select</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_manual_query_hint">Enter order number to search</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_manual_select_company">Select</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_manual_select_company_toast">Select courier service</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_order_number">Order number: %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_phone_binding_input_verifacation_code">Enter code</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_phone_binding_next_step">Next</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_phone_binding_number">Phone number</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_phone_binding_retry">Send again</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_phone_binding_send_ok">Sent code to %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_phone_binding_send_verifacation_code">Send code</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_phone_binding_title">Add phone number</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_provider_banner">Provided by %s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_provider_cainiao">Guoguo</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_provider_jingdong">JD</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_provider_kuaidi100">Kuaidi 100</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_provider_miguo">Mi Express</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_provider_mimall">Mi Store</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_provider_shunfeng">SF Express</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_query_history">Order history</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_send">Send</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_send_provider_cainiao">Guoguo</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_send_provider_xiaomi">Mi Express</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting">Express delivery settings</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_authorized_number_limit">You can add up to 4 phone numbers</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_dialog_delete_failed">"Couldn't delete phone number"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_dialog_delete_success">Phone number deleted</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_number_already_add">This phone number has already been added. Try a different one.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_number_title">Add phone number</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_request_failed">"Couldn't send request. Error code: %s."</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_service_unavailable">An error occurred, wait a minute or two and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_subscribe_phone_failed">"Couldn't add phone number"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_subscribe_phone_success">Phone number added</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_setting_verification_code_failed">"Couldn't send SMS"</string>
+    <string name="pa_express_setting_verify_failed">Не удалось проверить</string>
+    <string name="pa_express_setting_verify_success">Успешно проверено</string>
+    <string name="pa_express_settings_bind_other_phone">Добавить номер телефона</string>
+    <string name="pa_express_settings_dialog_cancel">Оставить</string>
+    <string name="pa_express_settings_dialog_desc">Если вы удалите этот номер телефона, вы не сможете отслеживать посылки, связанные с ним.</string>
+    <string name="pa_express_settings_dialog_ok">Удалить</string>
+    <string name="pa_express_settings_dialog_title">Удалить номер телефона</string>
+    <string name="pa_express_settings_disclaimer_desc">Вы можете добавить свой номер телефона для отслеживания посылок курьерских служб: Guoguo, SF Express, JD, Mi Store и Youpin.</string>
+    <string name="pa_express_settings_disclaimer_ok">ОК</string>
+    <string name="pa_express_settings_phone_bind">Добавить</string>
+    <string name="pa_express_settings_phone_item_desc_1">SIM %d</string>
+    <string name="pa_express_settings_phone_item_desc_2">SIM %d (не добавлено)</string>
+    <string name="pa_express_settings_phone_unbind">Удалить</string>
+    <string name="pa_express_settings_recommend_item_1">Не можете найти посылку?</string>
+    <string name="pa_express_settings_recommend_item_2">Заявление о конфиденциальности</string>
+    <string name="pa_express_settings_recommend_title">Подробнее</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_settings_subtitle">Add phone numbers to track express delivery packages</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_settings_title_1">"You haven't added any phone numbers yet."</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_shunfeng_verify_dialog_message">"To ensure the privacy and security of SF Express users, enter the last four digits of the recipient/sender's phone number."</string>
+    <string name="pa_express_shunfeng_verify_dialog_ok">ОК</string>
+    <string name="pa_express_shunfeng_verify_dialog_title">Проверка</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_shunfeng_verify_failed">"Couldn't verify contact info. Check whether the last four digits of the phone number you entered are correct and try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_abandoned">Abandoned</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_accept">Dispatched</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_agent_sign">Waiting for pickup</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_canceled">Canceled</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_create">Ordered</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_delivering">Out for delivery</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_failed">Issues found</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_reject">Rejected</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_shipped">Shipped</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_sign">Delivered</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_transport">In transit</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_state_unknown">No data yet</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_tail_number">Order number: %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_title">Express delivery</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_widget_logout">Sign in to track your packages</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_widget_order_42">Track package</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_express_widget_post">Send package</string>
+    <string name="pa_finish">Готово</string>
+    <string name="pa_guide_dialog_desc">Нажмите и удерживайте виджет, чтобы изменить его расположение. Нажмите \"+\", чтобы добавить виджет.</string>
+    <string name="pa_guide_dialog_sure">Понятно</string>
+    <string name="pa_guide_dialog_title">Посетите магазин виджетов</string>
+    <string name="pa_half_day_time">h:mm</string>
+    <string name="pa_home_head_time_format">%1$s / %2$s</string>
+    <string name="pa_horizontal_center">Горизонтальное расположение. Выравнивание по центру.</string>
+    <string name="pa_horizontal_left">Горизонтальное расположение. Выравнивание по левому краю.</string>
+    <string name="pa_horizontal_right">Горизонтальное расположение. Выравнивание по правому краю.</string>
+    <string name="pa_install">Установить</string>
+    <string name="pa_lite_cell_layout_empty">Нет виджетов</string>
+    <string name="pa_lite_setting_others">Дополнительные настройки</string>
+    <string name="pa_lite_setting_private_auth">Разрешить анализ использования приложений</string>
+    <string name="pa_lite_setting_private_auth_summary">Рекомендации по приложениям будут основываться на ваших предпочтениях</string>
+    <string name="pa_lite_setting_private_policy">Политика конфиденциальности</string>
+    <string name="pa_lite_setting_service_covid">COVID-19</string>
+    <string name="pa_lite_setting_service_covid_summry">Информация и сервисы, связанные с пандемией</string>
+    <string name="pa_lite_setting_service_express">Экспресс-доставка</string>
+    <string name="pa_lite_setting_service_express_summry">Отслеживание посылок экспресс-доставки</string>
+    <string name="pa_lite_setting_service_management">Управление сервисами</string>
+    <string name="pa_lite_setting_service_memory">Ускорение</string>
+    <string name="pa_lite_setting_service_memory_summary">Очистка памяти одним касанием</string>
+    <string name="pa_lite_setting_service_my_schedule">Расписание</string>
+    <string name="pa_lite_setting_service_my_schedule_summary">Просмотр предстоящих мероприятий</string>
+    <string name="pa_lite_setting_service_note">Заметки</string>
+    <string name="pa_lite_setting_service_note_summary">Просмотр заметок</string>
+    <string name="pa_lite_setting_service_quick_func">Ярлыки</string>
+    <string name="pa_lite_setting_service_quick_func_summary">Запуск часто используемых приложений и сервисов</string>
+    <string name="pa_lite_setting_service_search">Поиск</string>
+    <string name="pa_lite_setting_service_search_summary">Поиск в интернете и на устройстве</string>
+    <string name="pa_lite_setting_service_sports">Спорт</string>
+    <string name="pa_lite_setting_service_sports_summary">Последняя информация о спортивных событиях</string>
+    <string name="pa_lite_setting_service_stock">Акции</string>
+    <string name="pa_lite_setting_service_stock_summary">Последние новости о компаниях</string>
+    <string name="pa_lite_setting_service_timetable">Расписание занятий</string>
+    <string name="pa_lite_setting_service_timetable_summary">Просмотр предстоящих занятий</string>
+    <string name="pa_lite_setting_service_weather">Погода</string>
+    <string name="pa_lite_setting_service_weather_summary">Просмотр информации о погоде</string>
+    <string name="pa_login_before_use">Выполните вход</string>
+    <string name="pa_login_dialog_negative">Отмена</string>
+    <string name="pa_login_dialog_positive">Войти</string>
+    <string name="pa_login_ok">Вход</string>
+    <string name="pa_more">Еще</string>
+    <string name="pa_net_unavailable">Не удалось подключиться к сети</string>
+    <string name="pa_notification_chanel_name_widget_offline">Облачные уведомления</string>
+    <string name="pa_notification_chanel_name_widget_offline_des">Уведомления о действиях в облаке</string>
+    <string name="pa_olympic_country_name">Страна</string>
+    <string name="pa_olympic_info_content">Данные предоставлены третьей стороной и могут обновляться с задержкой</string>
+    <string name="pa_olympic_label">Медали</string>
+    <string name="pa_olympic_medal_count">Всего медалей</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_olympic_medals_description">Check Olympic medal rankings</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_operation_switch_summary">View recent popular widgets</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_operation_switch_title">Popular promotions</string>
+    <string name="pa_picker_classic_widget">Виджеты для Android</string>
+    <string name="pa_picker_detail_add_maml_net_unavailable">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="pa_picker_detail_add_to_home">Добавить на рабочий стол</string>
+    <string name="pa_picker_detail_add_to_minus">Добавить в Ленту виджетов</string>
+    <string name="pa_picker_detail_add_widget_success">Успешно добавлено</string>
+    <string name="pa_picker_detail_app_not_in_market">В этом приложении нет виджетов</string>
+    <string name="pa_picker_detail_app_not_off_shelf">Виджеты этого приложения больше не доступны</string>
+    <string name="pa_picker_detail_bottom_bt_source_home">Рабочий стол</string>
+    <string name="pa_picker_detail_bottom_bt_source_minus">Лента виджетов</string>
+    <string name="pa_picker_detail_bottom_bt_text_to_home">Добавить на рабочий стол</string>
+    <string name="pa_picker_detail_bottom_bt_text_to_minus">Добавить в Ленту виджетов</string>
+    <string name="pa_picker_detail_bottom_bt_text_un_install">Установите приложение, чтобы использовать его виджеты</string>
+    <string name="pa_picker_detail_bottom_bt_text_upgrade">Обновите приложение, чтобы использовать его виджеты</string>
+    <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Откройте Ленту виджетов, чтобы добавить виджеты оттуда</string>
+    <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Использование Ленты виджетов</string>
+    <string name="pa_picker_detail_download_app_dialog_cancel">Отмена</string>
+    <string name="pa_picker_detail_download_app_dialog_confirm">ОК</string>
+    <string name="pa_picker_detail_download_app_dialog_message_install_prefix">Установить</string>
+    <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Добавленные</string>
+    <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Обновить</string>
+    <string name="pa_picker_detail_download_maml_dialog_cancel">Подождать Wi-Fi</string>
+    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">Не показывать в течение %d мин.</string>
+    <string name="pa_picker_detail_download_maml_dialog_confirm">Загрузить</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_download_maml_dialog_message">%s of mobile data is required to download this widget now. Download anyway?</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_download_maml_dialog_title">Data usage warning</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_edit_maml_net_unavailable">"Couldn't connect to the network. Check your network settings and try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_install_tip_un_install">Install the app first</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_install_tip_un_upgrade">Update the app first</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_launcher_screen_lock">"Your Home screen layout is locked. Can't add widgets."</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_maml_download_error">"Couldn't download"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_modify_maml">Edit</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_net_error">Network error. Tap to try again.</string>
+    <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Подождите…</string>
+    <string name="pa_picker_detail_small_widget">Виджеты</string>
+    <string name="pa_picker_detail_theme_app_cta">Настройки</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_theme_app_cta_pre">"To be able to use this widget, allow Themes to connect to the internet first. "</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_picker_detail_wait_wifi_download_maml">This item will be downloaded via Wi-Fi</string>
+    <string name="pa_picker_home_app_group_title">Приложения с виджетами</string>
+    <string name="pa_picker_home_group_more">Все</string>
+    <string name="pa_picker_home_request_failed">Ошибка сети</string>
+    <string name="pa_picker_home_search_hint">Поиск виджетов</string>
+    <string name="pa_picker_home_title">Добавление виджетов</string>
+    <string name="pa_picker_item_retry">Не удалось загрузить. Повторите попытку.</string>
+    <string name="pa_picker_list_app_footer_classic_widget">Виджеты Android</string>
+    <string name="pa_picker_list_app_title">Приложения с виджетами</string>
+    <string name="pa_picker_list_app_widget_count">%s</string>
+    <string name="pa_picker_list_load_complete">Нажмите, чтобы загрузить еще</string>
+    <string name="pa_picker_list_load_end">Больше ничего нет</string>
+    <string name="pa_picker_list_load_failed">Не удалось загрузить. Нажмите, чтобы повторить попытку.</string>
+    <string name="pa_picker_list_loading">Подождите…</string>
+    <string name="pa_picker_loading">Подождите…</string>
+    <string name="pa_picker_maml_list_activity_title">Добавление виджетов</string>
+    <string name="pa_picker_permission_denied">"Ленте виджетов требуется доступ к статусу установки
+для отображения виджетов."</string>
+    <string name="pa_picker_request">Настройки</string>
+    <string name="pa_picker_retry">Повтор</string>
+    <string name="pa_picker_search_empty">Ничего не найдено</string>
+    <string name="pa_picker_search_error">Не удалось подключиться к сети</string>
+    <string name="pa_picker_search_layout_cancel">Отмена</string>
+    <string name="pa_picker_suit_list_activity_title">Пакеты персонализации</string>
+    <string name="pa_picker_tips_count_limit_forbidden">Не удалось добавить виджеты в Ленту виджетов. Удалите старые виджеты, чтобы добавить новые.</string>
+    <string name="pa_picker_toast_add_successfully">Успешно добавлено</string>
+    <string name="pa_picker_toast_count_limit_forbidden">Достигнут лимит виджетов</string>
+    <string name="pa_picker_toast_count_limit_forbidden_for_type">Больше нельзя добавить виджеты этого типа</string>
+    <string name="pa_picker_toast_count_limit_warning">Успешно добавлено. Помните, слишком большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
+    <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
+    <string name="pa_privacy_text">Конфиденциальность</string>
+    <string name="pa_recommend_add_btn">Начать</string>
+    <string name="pa_recommend_add_msg">Добавить</string>
+    <string name="pa_recommend_card">Рекомендации</string>
+    <string name="pa_recommend_card_add_des">Добавьте этот виджет в Ленту виджетов</string>
+    <string name="pa_recommend_card_image_content_des">Это виджет. Откройте магазин виджетов для ознакомления.</string>
+    <string name="pa_recommend_card_image_text_null_des">Нет данных</string>
+    <string name="pa_recommend_card_summary">Рекомендации по виджетам</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_recommend_card_text_des">%s. Open our widget store to learn more.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_recommend_card_title">Recommended</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_recommend_no_network">Download the app first</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_rtk_card_title">Dashboard</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_rtk_more_content_description">Options</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_rtk_place_holder_text">This widget was moved to your dashboard for now</string>
+    <string name="pa_rtk_unlike_text">Открепить</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_rts_summary">Place most frequently used widgets on the dashboard</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_rts_text">Dashboard</string>
+    <string name="pa_scan">Сканирование</string>
+    <string name="pa_scan_app">Сканер</string>
+    <string name="pa_search_hint">Поиск</string>
+    <string name="pa_search_summary">Отображать строку поиска</string>
+    <string name="pa_search_title">Поиск</string>
+    <string name="pa_setting">Настройки</string>
+    <string name="pa_setting_app_usage_auth_close_auth">Отключить</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_app_usage_auth_dialog_message">"You won't be able to use the \"App suggestions\" widget after you turn this feature off. Turn off anyway?"</string>
+    <string name="pa_setting_app_usage_auth_dialog_title">Внимание</string>
+    <string name="pa_setting_bugreport">Обратная связь</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_auth">Allow analyzing app usage</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_auth_summary">"You'll receive suggestions based on your usage habits"</string>
+    <string name="pa_setting_privacy_category_perm">Разрешения</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_category_priv">Privacy Policy</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_category_revoke">Withdrawal of consent and service cancelation</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_logout">Cancel services</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_logout_dialog_message">"If you continue, you'll cancel App vault services. After that, you won't be able to see or use App vault widgets. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations. Cancel services anyway?"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_logout_dialog_title">Cancel App vault services</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_logout_summary">Cancel App vault services</string>
+    <string name="pa_setting_privacy_perm_desc">Сведения о разрешениях</string>
+    <string name="pa_setting_privacy_perm_granted">Предоставлено</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_perm_install_app">Access the list of apps installed on this device</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_perm_install_app_desc">For providing app suggestions</string>
+    <string name="pa_setting_privacy_perm_location">Использование геолокации</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_perm_location_desc">For calculating your Super slopes regional leaderboard ranking</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_perm_not_granted">Не предоставлено</string>
+    <string name="pa_setting_privacy_perm_storage">Доступ к хранилищу</string>
+    <string name="pa_setting_privacy_policy">Политика конфиденциальности</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_policy_update_again_message">"You won't be able to keep using our services unless you agree to the new version of %s. Agree to the updated Privacy policy now?"</string>
+    <string name="pa_setting_privacy_policy_update_again_title">Внимание</string>
+    <string name="pa_setting_privacy_policy_update_agree">Принимаю</string>
+    <string name="pa_setting_privacy_policy_update_exit">Выход</string>
+    <string name="pa_setting_privacy_policy_update_link">Политика конфиденциальности</string>
+    <string name="pa_setting_privacy_policy_update_message" formatted="false">"Политика конфиденциальности Ленты виджетов обновлена:
+%sПрежде чем продолжить, примите новую версию %s."</string>
+    <string name="pa_setting_privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
+    <string name="pa_setting_privacy_revoke_cta">Отзыв согласия</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_revoke_cta_message">"If you continue, you'll withdraw your consent to the Privacy Policy of App vault. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As App vault provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept App vault services. Withdraw consent now?"</string>
+    <string name="pa_setting_privacy_revoke_cta_positive">Отозвать</string>
+    <string name="pa_setting_privacy_revoke_cta_progress">Отозвать (%d сек.)</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_revoke_cta_summary">Withdraw consent to the Privacy Policy of App vault</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_revoke_error_message">A server error occurred. Wait a minute or two and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_revoke_error_title">"Couldn't withdraw consent"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_revoke_no_net_message">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_revoke_no_net_title">"Couldn't connect to the network"</string>
+    <string name="pa_setting_privacy_revoke_positive">Понятно</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_setting_privacy_third_parties">Statement on sharing data with third parties</string>
+    <string name="pa_setting_privacy_view_priv">Политика конфиденциальности</string>
+    <string name="pa_setting_version">Версия：%1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_accessibility_description">"App vault provides shortcuts for selected third party apps. These shortcuts won't work if you turn the feature off."</string>
+    <string name="pa_shortcut_accessibility_service">Лента виджетов</string>
+    <string name="pa_shortcut_add_limit">Можно добавить до %1$d ярлыков</string>
+    <string name="pa_shortcut_apps">Приложения</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_desc_add_button">Add %1$s to start page</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_desc_add_button_install">To be able to use \"%2$s\", install %1$s first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_desc_delete_button">Remove %1$s from start page</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_desc_more_button">View all shortcuts</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_download_tip">To be able to use \"%2$s\", install %1$s first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_empty">Not added</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_group_title_start_page">Start page</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_memory_clean_nothing">Nothing to clear in cache</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_memory_clean_result">%1$sB cleared</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_paycode">Alipay</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_setting_activity_subtitle">Drag items to rearrange</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_setting_activity_title">Added shortcuts</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_setting_select_other_applications">Select other apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_widget_label">Quick access</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_shortcut_widget_label_4x2">Shortcuts</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_ski_foreground_service_noitification_name">Location access</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_ski_foreground_service_title">App vault is trying to access your location</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_smart_shortcut_widget_label">App suggestions</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_action_live">Live</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_action_preview">Preview</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_action_review">Replay</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_add_followed">Add teams</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_add_shown">Add to shown</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_all_club">Teams</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_all_league">Events</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_all_match">View all</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_all_title">Add teams and events</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_cancel_followed">Unfollow</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_cancel_shown">Remove from shown</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_concern_club">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_download_douyu_tip">Install Douyu to view the info about sporting events.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_download_hupu_tip">Install Hupu to view the info about sporting events.</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_fav_add">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_fav_cancel_club">Hide this team?</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_fav_cancel_league">Hide this events?</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_fav_club">My teams</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_fav_league">My events</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_fav_title">My teams</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_followed">Following</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_league_detail_download_douyu">Download Douyu to view</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_league_detail_download_hupu">Download Hupu to view</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_league_detail_view">View</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_match_league_title">All events</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_match_match_title">Forthcoming events</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_match_title">Sporting events</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_not_followed">Not following</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_not_shown">Not shown</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_shown">Shown</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_title">Sports</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_unstalled_tip_douyu">Install Douyu first</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_unstalled_tip_hupu">Install Hupu first</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_widget_empty_basketball">Basketball</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_widget_empty_football">Football</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_widget_empty_game">Honor of Kings</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_sports_widget_empty_recommend">Recommended</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_add_stock_button">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_change_cp_code_alert">This operation may cause the data to fail to display properly</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_change_cp_code_error">"Couldn't switch data source"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_change_cp_code_progress_msg">Syncing data…</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_color_scheme_label">Color scheme</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_data_source_label">Select data source</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_delisted">(Delisted)</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_desc_add_stock">Add %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_desc_add_success">Added successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_desc_cancel_pin">Unpin</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_desc_delete_stock">Delete %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_desc_move_stock">Press and hold to move stock</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_desc_pin_stock">Pin to start page</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_display_limit_alert">"Can't add more companies"</string>
+    <string name="pa_stock_empty_display_list">Ничего нет. Нажмите \"Добавить\".</string>
+    <string name="pa_stock_empty_follow_list">Ничего нет</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_follow_limit_alert">You can add up to %1$d companies</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_follow_list_label">My companies</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_green_grow">Green - up, red - down</string>
+    <string name="pa_stock_hszs">Hang Sen</string>
+    <string name="pa_stock_init_toast">Инициализация виджетов…</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_label_stock">Stocks</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_load_data_failure">"Couldn't load info"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_network_unavailable">"Couldn't connect to the network"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_not_found_related_items">"Couldn't find results"</string>
+    <string name="pa_stock_nsdk">Nasdaq</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_red_grow">Red - up, green - down</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_search_failure">"Couldn't find results"</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_search_input_hint">Enter stock name or code</string>
+    <string name="pa_stock_search_loading">Подождите…</string>
+    <string name="pa_stock_szzs">SSE</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_update_limitation_tip">The information about the US and Hong Kong stock markets is updated with a 15-minute delay.</string>
+    <string name="pa_stock_webview_bottom_button">Загрузить</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_webview_bottom_text">Open the client to view more info</string>
+    <string name="pa_stock_widget_button_add_stock">Добавить</string>
+    <string name="pa_stock_widget_empty">Ничего нет</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_stock_widget_name">Stocks</string>
+    <string name="pa_sure">ОК</string>
+    <string name="pa_toast_home_layout_locked">Рабочий стол защищен от изменений</string>
+    <string name="pa_toast_message_not_support_size">Виджеты этого размера не поддерживаются Лентой виджетов</string>
+    <string name="pa_vertical_center">Вертикальное расположение. Выравнивание по центру.</string>
+    <string name="pa_vertical_left">Вертикальное расположение. Выравнивание по левому краю.</string>
+    <string name="pa_vertical_right">Вертикальное расположение. Выравнивание по правому краю.</string>
+    <string name="pa_widget_menu_edit">Изменить</string>
+    <string name="pa_widget_menu_remove">Удалить</string>
+    <string name="pa_widget_need_download_dialog_cancel">Отмена</string>
+    <string name="pa_widget_need_download_dialog_confirm">ОК</string>
+    <string name="pa_widget_need_download_dialog_message_install">Чтобы использовать виджеты, сначала установите \"%s\".</string>
+    <string name="pa_widget_need_download_dialog_message_load">Чтобы использовать виджеты, сначала загрузите \"%s\".</string>
+    <string name="pa_widget_need_download_dialog_message_upgrade">Чтобы использовать виджеты, сначала обновите \"%s\".</string>
     <string name="park_assistant">Парковка</string>
     <string name="passenger_name">Имя пассажира</string>
     <string name="passenger_name_example">Например, Дебби Смит</string>
@@ -1637,12 +2282,12 @@ Please send this code to the technician."</string>
     <string name="payment_clear_records_failed">Не удалось очистить историю платежей</string>
     <string name="payment_clear_records_success">Очищенная история платежей</string>
     <string name="payment_date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="payment_dialog_notice_message">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ассистент вручную. Информация об оплате из других приложений может быть экспортирована вручную.</string>
-    <string name="payment_dialog_notice_message_inside">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ассистент вручную.</string>
+    <string name="payment_dialog_notice_message">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ленту виджетов вручную. Информация об оплате из других приложений может быть экспортирована вручную.</string>
+    <string name="payment_dialog_notice_message_inside">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ленту виджетов вручную.</string>
     <string name="payment_dialog_notice_ok">Понятно</string>
     <string name="payment_dialog_notice_title">Платежная информация</string>
     <string name="payment_guide_hint">Сбор информации об оплате из Сообщений и других приложений.</string>
-    <string name="payment_guide_hint_link">\"Политика конфиденциальности\" Ассистента</string>
+    <string name="payment_guide_hint_link">Политика конфиденциальности Ленты виджетов</string>
     <string name="payment_method_bank">Дебетовая карточка</string>
     <string name="payment_method_cash">Наличные</string>
     <string name="payment_method_credit">Кредитная карта</string>
@@ -1673,7 +2318,7 @@ Please send this code to the technician."</string>
     <string name="payment_record_menu_delete">Удалить</string>
     <string name="payment_record_menu_select">Выбрать</string>
     <string name="payment_report_failed_record_dialog_cancel">Отмена</string>
-    <string name="payment_report_failed_record_dialog_message">Сообщайте о необработанных счетах, чтобы помочь нам сделать расчет платежей более точным. Данные, которыми вы делитесь, будут использоваться только для улучшения Ассистента.</string>
+    <string name="payment_report_failed_record_dialog_message">Сообщайте о необработанных счетах, чтобы помочь нам сделать расчет платежей более точным. Данные, которыми вы делитесь, будут использоваться только для улучшения Ленты виджетов.</string>
     <string name="payment_report_failed_record_dialog_ok">Отчёт</string>
     <string name="payment_setting">настройка</string>
     <string name="payment_total_month_desc">Этот месяц</string>
@@ -1710,11 +2355,11 @@ Please send this code to the technician."</string>
     <string name="preload_empty">Ничего нет. Потяните вниз для обновления.</string>
     <string name="qq_new">Новый статус</string>
     <string name="qq_qzone">Qzone</string>
-    <string name="quick_app_setting_brief">Свайп вниз в Ассистенте для просмотра недавних Быстрых приложений</string>
-    <string name="quick_app_setting_brief_detail">"Просмотр всех недавних Быстрых приложений"</string>
+    <string name="quick_app_setting_brief">Свайп вниз в Ленте виджетов для просмотра недавних Быстрых приложений</string>
+    <string name="quick_app_setting_brief_detail">Просмотр всех недавних Быстрых приложений</string>
     <string name="quick_app_title">Недавние Быстрые приложения</string>
-    <string name="quickstart_accessibility_description">"Ассистент поддерживает создание ярлыков для выбранных сторонних приложений. Эти ярлыки не будут работать, если вы отключите эту функцию."</string>
-    <string name="quickstart_accessibility_service">Ассистент</string>
+    <string name="quickstart_accessibility_description">Лента виджетов поддерживает создание ярлыков для сторонних приложений. Эти ярлыки не будут работать, если вы отключите эту функцию.</string>
+    <string name="quickstart_accessibility_service">Лента виджетов</string>
     <string name="recharge_flow">Купить мобильные данные</string>
     <string name="recharge_tel">Пополнить баланс телефона</string>
     <string name="recharge_title_monthused">Использовано в этом месяце</string>
@@ -1856,19 +2501,18 @@ Please send this code to the technician."</string>
     <string name="shopping_recommend">Рекомендуемые продукты</string>
     <string name="shopping_recommend_coupon">Купон ￥%s</string>
     <string name="shopping_setting_authorize">Разрешить экспорт информации о покупках</string>
-    <string name="shopping_setting_authorize_sub">Ассистент будет иметь доступ к вашим избранным и корзинам товаров.</string>
+    <string name="shopping_setting_authorize_sub">Лента виджетов будет иметь доступ к вашим избранным и корзинам товаров.</string>
     <string name="shopping_setting_base">Настройки</string>
-    <string name="shopping_setting_brief">Храните информацию о покупках в Ассистенте.</string>
-    <string name="shopping_setting_brief_detail">Храните информацию о ваших покупках из различных платежных приложений в Ассистенте.</string>
+    <string name="shopping_setting_brief">Храните информацию о покупках в Ленте виджетов</string>
+    <string name="shopping_setting_brief_detail">Храните информацию о ваших покупках из различных платежных приложений в Ленте виджетов</string>
     <string name="shopping_setting_notification">Уведомлять о новинках</string>
-    <string name="shopping_setting_remove">После того, как вы отмените авторизацию, Ассистент прекратит сбор информации о ваших покупках, и Карта покупок будет удалена. Отменить?</string>
+    <string name="shopping_setting_remove">После отмены авторизации, Лента виджетов прекратит сбор информации о ваших покупках, карта покупок будет удалена. Отменить?</string>
     <string name="shopping_source">От %s</string>
     <string name="shopping_support">Поддерживаемые приложения</string>
     <string name="shortcut">Ярлыки</string>
     <string name="shortcuts_download_dialog_text_install">Установка</string>
     <string name="shortcuts_download_dialog_text_install_tip">Чтобы использовать \"%2$s\", установите %1$s.</string>
     <string name="show_more">Еще</string>
-    <string name="smart_assistant_enter_tip">Ассистент</string>
     <string name="sms_address">Адрес</string>
     <string name="sms_airline">Авиакомпания</string>
     <string name="sms_button_add_calendar">Добавить в календарь</string>
@@ -1961,7 +2605,7 @@ Please send this code to the technician."</string>
     <string name="sure">Подтвердить</string>
     <string name="switch_minus_flavor_to_new">Вы уверены, что хотите перейти на новую версию?</string>
     <string name="system_favorite_dialog_link">Безопасность и конфиденциальность</string>
-    <string name="system_favorite_dialog_message">Избранное из некоторых приложений и служб будут добавлено в Ассистент. Разрешить?</string>
+    <string name="system_favorite_dialog_message">Избранное из некоторых приложений и служб будут добавлено в Ленту виджетов. Разрешить?</string>
     <string name="system_favorite_dialog_negative">Выход</string>
     <string name="system_favorite_dialog_positive">Разрешить</string>
     <string name="system_favorite_dialog_title_confirm">Требуется авторизация</string>
@@ -2058,7 +2702,7 @@ Please send this code to the technician."</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="understandassistant">Об Ассистенте</string>
+    <string name="understandassistant">О Ленте виджетов</string>
     <string name="uninstall">Не установлен</string>
     <string name="unusual_weather">Оповещения о погоде</string>
     <string name="unusual_weather_open">Включить оповещения о погоде</string>

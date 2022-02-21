@@ -814,7 +814,7 @@
     <string name="usage_state_app_use_time">Время экрана</string>
     <string name="usage_state_card_add">Добавить</string>
     <string name="usage_state_card_cancel">Отмена</string>
-    <string name="usage_state_card_summary">Добавьте карточку \"Время экрана\" в Ассистент для более эффективного управления своим временем.</string>
+    <string name="usage_state_card_summary">Добавьте карточку \"Время экрана\" в Ленту виджетов для более эффективного управления своим временем.</string>
     <string name="usage_state_category">Категории</string>
     <string name="usage_state_channel_mouth">За месяц</string>
     <string name="usage_state_channel_week">За неделю</string>

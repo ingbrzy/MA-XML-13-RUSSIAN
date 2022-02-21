@@ -209,9 +209,9 @@
         <item>Заметки;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Синхронизировать Ассистент с Xiaomi Cloud</item>
+        <item>Синхронизировать Ленту виджетов с Xiaomi Cloud</item>
         <item>Включить синхронизацию</item>
-        <item>Ассистент;Карточки;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
+        <item>Лента виджетов;Карточки;Облако;Синхронизация;Облачные сервисы;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_phrase">
         <item>Синхронизировать быстрые ответы</item>

@@ -449,7 +449,7 @@
     <string name="menu_workspace_preview">Просмотр рабочего стола</string>
     <string name="mi_wallpaper">Темы MIUI</string>
     <string name="midnight">Ночь</string>
-    <string name="minus_one_screen">Ассистент</string>
+    <string name="minus_one_screen">Лента виджетов</string>
     <string name="miui_screen_config_title">Настройки рабочего стола</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
@@ -571,12 +571,12 @@
     <string name="online_wallpaper">Онлайн</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Отмена</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Отключить</string>
-    <string name="open_personal_assistant_dialog_desc">После отключения Ассистента, его виджеты и обновления будут недоступны. Отключить?</string>
-    <string name="open_personal_assistant_dialog_desc_international">После отключения этой функции вы не сможете использовать Ассистент (ярлыки, быстрые заметки, мероприятия, подсчет шагов и другие функции)</string>
-    <string name="open_personal_assistant_dialog_title">Отключение Ассистента</string>
-    <string name="open_personal_assistant_settings">Настройки Ассистента</string>
-    <string name="open_personal_assistant_title">Ассистент</string>
-    <string name="open_personal_assistant_title_synonyms">Ассистент</string>
+    <string name="open_personal_assistant_dialog_desc">После отключения Ленты виджетов, виджеты и обновления приложения будут недоступны. Отключить?</string>
+    <string name="open_personal_assistant_dialog_desc_international">После отключения этой функции, Лента виджетов будет недоступна (ярлыки, быстрые заметки, мероприятия, подсчет шагов и другие функции)</string>
+    <string name="open_personal_assistant_dialog_title">Отключение Ленты виджетов</string>
+    <string name="open_personal_assistant_settings">Настройки Ленты виджетов</string>
+    <string name="open_personal_assistant_title">Лента виджетов</string>
+    <string name="open_personal_assistant_title_synonyms">Лента виджетов</string>
     <string name="ota_layout_adjustment_button_text">Понятно</string>
     <string name="ota_layout_adjustment_content">Макеты рабочего стола синхронизированы в новой версии</string>
     <string name="ota_layout_adjustment_title">Макеты рабочего стола</string>
@@ -760,7 +760,7 @@
     <string name="sunday_shortest">Вс</string>
     <string name="swipe_the_desktop_to_the_left">Свайп влево на рабочем столе</string>
     <string name="swipe_the_desktop_to_the_right">Свайп вправо на рабочем столе</string>
-    <string name="switch_personal_assistant_app_vault">Ассистент</string>
+    <string name="switch_personal_assistant_app_vault">Лента виджетов</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Нет</string>
     <string name="switch_screen_button_order">Поменять кнопки местами</string>
@@ -819,7 +819,7 @@
     <string name="title_jeejen">Рабочий стол для пожилых</string>
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
-    <string name="toast_drag_to_assistant_reject">Инициализация Ассистента…</string>
+    <string name="toast_drag_to_assistant_reject">Инициализация Ленты виджетов…</string>
     <string name="toast_screen_icons_misplaced">Восстановлено из другого источника, порядок приложений и ярлыков может быть изменен</string>
     <string name="today">Сегодня</string>
     <string name="toggle_select_title">Выберите переключатели</string>

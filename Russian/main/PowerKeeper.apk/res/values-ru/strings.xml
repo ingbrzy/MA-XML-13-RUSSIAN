@@ -47,8 +47,9 @@
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
-    <string name="checking_intranet">Проверка интранет-соединения, подождите…</string>
+    <string name="checking_intranet">Проверка интранет-соединения…</string>
     <string name="chip_text">Текст</string>
+    <string name="clear_temperature">Конечная температура</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
@@ -78,7 +79,7 @@
     <string name="dark_mode_summary">Использовать темную цветовую палитру для экономии заряда</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="delete_data_confirm">Подтвердите удаление данных</string>
+    <string name="delete_data_confirm">Удалить элемент?</string>
     <string name="early_morning">Утро</string>
     <string name="empty_title_apps_container_list">Нет приложений</string>
     <string name="enable_sleep_mode">Включите режим сна для экономии заряда ночью</string>
@@ -128,9 +129,9 @@
     <string name="important_warning">Внимание</string>
     <string name="insert_data">Вставить данные</string>
     <string name="item_view_role_description">Вкладка</string>
-    <string name="kill_all_back_pro_toast_message">Использование всех фоновых процессов невозможно из-за перегрева устройства</string>
+    <string name="kill_all_back_pro_toast_message">Перегрев устройства. Все приложения, работающие в фоновом режиме, закрыты.</string>
     <string name="kill_pkg_toast_message">Использование приложений невозможно из-за перегрева устройства</string>
-    <string name="kill_some_back_pro_toast_message">Использование некоторых фоновых процессов невозможно из-за перегрева устройства</string>
+    <string name="kill_some_back_pro_toast_message">Перегрев устройства. Некоторые приложения, работающие в фоновом режиме, закрыты.</string>
     <string name="lasttime_applist_cloud">Обновление приложений:</string>
     <string name="lasttime_feature_cloud">Обновление функций:</string>
     <string name="material_clock_display_divider">:</string>
@@ -297,6 +298,8 @@
     <string name="scenario_policies_summary">Различные стратегии экономии заряда для разных сценариев использования устройства</string>
     <string name="scenario_policies_title">Сценарии экономии</string>
     <string name="scenario_policies_warmcontrol">Контроль температуры</string>
+    <string name="screen_off_current">Экран выключен</string>
+    <string name="screen_on_current">Экран включен</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_result_text">Приложения не найдены</string>
@@ -308,7 +311,7 @@
     <string name="sleep_config_enhance_title">Режим сна</string>
     <string name="sleepmode_disclaimer_agree">Принять</string>
     <string name="sleepmode_disclaimer_cancel">Отмена</string>
-    <string name="sleepmode_privacy_content">Эта функция будет использовать данные о вашей системе и устройстве. Они не будут загружены на наши серверы.</string>
+    <string name="sleepmode_privacy_content">Функции требуется доступ к информации о системе и устройстве. Эта информация не будет загружена на наши серверы.</string>
     <string name="sleepmode_privacy_link">Подробнее о конфиденциальности</string>
     <string name="sleepmode_privacy_title">Режим сна</string>
     <string name="softbank_high_temp_toast_time_10min">Фонарик отключен для избежания перегрева</string>
@@ -382,8 +385,8 @@
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
-    <string name="thermal_cancel">НЕТ</string>
-    <string name="thermal_confirm">ДА</string>
+    <string name="thermal_cancel">Отмена</string>
+    <string name="thermal_confirm">ОК</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
@@ -395,6 +398,7 @@
     <string name="title_home">Домой</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
+    <string name="trig_temperature">Начальная температура</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>

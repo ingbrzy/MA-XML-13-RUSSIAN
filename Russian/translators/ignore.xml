@@ -643,6 +643,7 @@
     <string name="autumn_equinox">秋分</string>
     <string name="autumn_equinox_tradition">秋分</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
+    <string name="avd_true_colour_logo_path">M 57.081663,10.522296 V 7.067896 H 32.291263 V 10.522296 H 42.756063 V 43.237495 H 46.616863 V 10.522296 Z M 86.713144,32.772696 H 82.852344 C 81.887144,37.243096 78.686744,40.087895 74.165544,40.087895 71.727144,40.087895 69.593544,39.224295 67.917144,37.547896 65.631144,35.211096 65.377144,32.569496 65.377144,25.152696 65.377144,17.735896 65.631144,15.094296 67.917144,12.757496 69.593544,11.081096 71.727144,10.217496 74.165544,10.217496 78.686744,10.217496 81.785544,13.062296 82.750744,17.532696 H 86.713144 C 85.443144,10.776296 80.718744,6.763096 74.165544,6.763096 70.406344,6.763096 67.358344,8.083896 65.123144,10.319096 61.719544,13.722696 61.516344,16.872296 61.516344,25.152696 61.516344,33.433096 61.719544,36.582696 65.123144,39.986295 67.358344,42.221495 70.406344,43.542295 74.165544,43.542295 80.667944,43.542295 85.443144,39.529095 86.713144,32.772696 Z</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="back_XIG02">3:REDMI NOTE 10 JE</string>
     <string name="back_ad">铺底广告%s</string>
@@ -1482,7 +1483,6 @@
     <string name="class_schedule_use_button">继续使用</string>
     <string name="clear_and_bright">清明</string>
     <string name="clear_and_bright_tradition">清明</string>
-    <string name="clear_temperature">Clr_Temp</string>
     <string name="close_lucky_money_dialog_ok"> </string>
     <string name="close_lucky_money_dialog_summary"> </string>
     <string name="close_lucky_money_dialog_title"> </string>
@@ -3221,6 +3221,14 @@
     <string name="numbers">0123456789</string>
     <string name="oem_preferred_feedback_reporter"/>
     <string name="olympic_vs">VS</string>
+    <string name="om_app_background_restrict_1_new">%d</string>
+    <string name="om_app_background_restrict_2_new">%d</string>
+    <string name="om_app_background_restrict_3_new">%d</string>
+    <string name="om_app_background_restrict_4_new">%d</string>
+    <string name="om_occupy_memory_percent_1_new">%d</string>
+    <string name="om_occupy_memory_percent_2_new">%d</string>
+    <string name="om_occupy_memory_percent_3_new">%d</string>
+    <string name="om_occupy_memory_percent_4_new">%d</string>
     <string name="online_reminder_header_text">提醒</string>
     <string name="open_bluetooth">开启</string>
     <string name="open_bluetooth_now">蓝牙开启中...</string>
@@ -3232,6 +3240,10 @@
     <string name="open_xiangkan_view_all">打开想看APP阅读全文</string>
     <string name="order_alphabet">A-Z</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
+    <string name="pa_font_mi_lan_pro_light">mipro-light</string>
+    <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>
+    <string name="pa_font_mi_sans">sans-serif-medium</string>
+    <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
     <string name="page_search_result" formatted="false">%d/%d</string>
     <string name="pairing_ui_package">com.android.settings</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -3737,8 +3749,6 @@
     <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
     <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_text">@string/photo_editor_text</string>
-    <string name="screen_off_current">Off_Cur</string>
-    <string name="screen_on_current">On_Cur</string>
     <string name="screen_shot">截屏</string>
     <string name="search_alarm_clock">@string/alarm_list_title</string>
     <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
@@ -4517,7 +4527,6 @@
     <string name="transport">Протокол</string>
     <string name="travel_over_days">+%d</string>
     <string name="travel_time_range_hours_mins">%1$s %2$s</string>
-    <string name="trig_temperature">Trig_Temp</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
     <string name="trigger_y_char">y</string>

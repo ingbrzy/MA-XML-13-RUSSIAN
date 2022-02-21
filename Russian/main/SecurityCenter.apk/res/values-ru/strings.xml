@@ -1158,7 +1158,8 @@
     <string name="copy">Копировать</string>
     <string name="correction_attention_dialog_message">Идет корректировка настроек. Дождитесь завершения и повторите попытку.</string>
     <string name="cpu_usage_android_system">Система Android</string>
-    <string name="cpu_usage_process_run_time_little_time">Менее 1 минуты</string>
+    <string name="cpu_usage_process_run_time_little_time">Менее 1 мин.</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Менее %d мин.</string>
     <string name="cpu_usage_view_action_btn_text">Просмотр</string>
     <string name="create_gamebooster_destop">Ярлык на рабочем столе успешно создан</string>
     <string name="create_shortcut">Создать на рабочем столе ярлык для Ускорения игр</string>
@@ -1708,6 +1709,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="first_aid_card_consume_power_button2">Отключить</string>
     <string name="first_aid_card_consume_power_summary1">Разрешен автозапуск более 5 приложений. Ограничьте их число для экономии заряда.</string>
     <string name="first_aid_card_consume_power_summary2">Отключите точку доступа для экономии заряда</string>
+    <string name="first_aid_card_consume_power_summary_app">Разрешен автозапуск более %d приложений. Ограничьте их число для экономии заряда.</string>
     <string name="first_aid_card_consume_power_title">Расход батареи</string>
     <string name="first_aid_card_kadun_button1">Освободить</string>
     <string name="first_aid_card_kadun_button2">Запретить</string>
@@ -4842,7 +4844,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="system_anti_fraud_dialog_content">Вероятно, это мошеннический звонок или сообщение. Выполнение данного платежа может привести к финансовым потерям.</string>
     <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Если сотрудники службы поддержки, представители власти или люди, которых вы можете знать, просят вас завершить этот платеж, &lt;/font>&lt;font = color=#F22424>проверьте их личность, прежде чем продолжить.&lt;/font></string>
     <string name="system_anti_fraud_dialog_image_txt">Защита от мошенничества</string>
+    <string name="system_anti_fraud_dialog_message">Защита от мошенничества</string>
     <string name="system_anti_fraud_dialog_title">Предупреждение о мошенничестве</string>
+    <string name="system_anti_fraud_dialog_title2">Предупреждение о мошенничестве</string>
     <string name="system_app">Системные приложения</string>
     <string name="system_app_permission_instruction">Этому приложению необходимы определенные разрешения для обеспечения основных системных сервисов. Управление разрешениями для этого приложения ограничено, так как изменение разрешений приведет к сбоям в работе системы.</string>
     <string name="system_application">Системное приложение</string>

@@ -207,6 +207,10 @@
     <string name="help_page_text_55_global">"Если вы не можете подключиться к сети, убедитесь, что ваш внешний монитор поддерживает функцию Miracast и он включен. В некоторых моделях эта функция называется беспроводным дисплеем, зеркальным отображением экрана или несколькими экранами.
 %1$d. Если у вас возникнут какие-либо проблемы, вы можете сообщить о них в приложении \"Обратная связь\"."</string>
     <string name="help_page_text_end">"Если марка устройства не указана здесь, обратитесь к производителю, чтобы узнать о поддержке функции Miracast."</string>
+    <string name="invisible_mode_dialog_content">Трансляция недоступна. Отключите режим инкогнито.</string>
+    <string name="invisible_mode_dialog_content_audio_relay">Трансляция потока недоступна. Отключите режим инкогнито.</string>
+    <string name="invisible_mode_dialog_pos">Отключить</string>
+    <string name="invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="keyguard_security_setting_privacy_policy">Политика конфиденциальности</string>
     <string name="micloud_downloading_clipboard_message_from_web">Буфер обмена: получено сообщение с компьютера</string>
     <string name="micloud_send_message_desc">Отправка Mi Сообщения</string>

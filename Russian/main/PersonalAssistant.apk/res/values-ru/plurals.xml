@@ -185,6 +185,115 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d бронзовых медалей</item>
+        <item quantity="one">%d бронзовая медаль</item>
+        <item quantity="few">%d бронзовые медали</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d золотых медалей</item>
+        <item quantity="one">%d золотая медаль</item>
+        <item quantity="few">%d золотые медали</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">Всего медалей: %d</item>
+        <item quantity="one">Всего медалей: %d</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">%d место</item>
+        <item quantity="one">%d место</item>
+    </plurals>
+    <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d серебрянных медалей</item>
+        <item quantity="one">%d серебрянная медаль</item>
+        <item quantity="few">%d серебрянные медали</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Магазин виджетов. Список приложений. %d элементов в списке.</item>
+        <item quantity="one">Магазин виджетов. Список приложений. %d элемент в списке.</item>
+        <item quantity="few">Магазин виджетов. Список приложений. %d элемента в списке.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Номер %d в списке.</item>
+        <item quantity="one">Номер %d в списке.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Элемент содержит %d виджетов. Нажмите дважды, чтобы открыть описание.</item>
+        <item quantity="one">Элемент содержит %d виджет. Нажмите дважды, чтобы открыть описание.</item>
+        <item quantity="few">Элемент содержит %d виджета. Нажмите дважды, чтобы открыть описание.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Магазин виджетов. Список приложений. %d элементов в списке.</item>
+        <item quantity="one">Магазин виджетов. Список приложений. %d элемент в списке.</item>
+        <item quantity="few">Магазин виджетов. Список приложений. %d элемента в списке.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Номер %d в списке.</item>
+        <item quantity="one">Номер %d в списке.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Элемент содержит %d виджетов. Нажмите дважды, чтобы открыть описание.</item>
+        <item quantity="one">Элемент содержит %d виджет. Нажмите дважды, чтобы открыть описание.</item>
+        <item quantity="few">Элемент содержит %d виджета. Нажмите дважды, чтобы открыть описание.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Магазин виджетов. Список приложений. %d элементов в списке.</item>
+        <item quantity="one">Магазин виджетов. Список приложений. %d элемент в списке.</item>
+        <item quantity="few">Магазин виджетов. Список приложений. %d элемента в списке.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Номер %d в списке.</item>
+        <item quantity="one">Номер %d в списке.</item>
+    </plurals>
+    <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Элемент содержит %d виджетов. Нажмите дважды, чтобы открыть описание.</item>
+        <item quantity="one">Элемент содержит %d виджет. Нажмите дважды, чтобы открыть описание.</item>
+        <item quantity="few">Элемент содержит %d виджета. Нажмите дважды, чтобы открыть описание.</item>
+    </plurals>
+    <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">%d ч. назад</item>
+        <item quantity="one">%d ч. назад</item>
+    </plurals>
+    <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">%d мин. назад</item>
+    </plurals>
+    <plurals name="pa_edit_text_limit">
+        <item quantity="other">Можно ввести не более %1$d символов</item>
+        <item quantity="one">Можно ввести не более %1$d символа</item>
+    </plurals>
+    <plurals name="pa_edit_text_min_length">
+        <item quantity="other">Введите не менее %1$d символов</item>
+        <item quantity="one">Введите не менее %1$d символа</item>
+    </plurals>
+    <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d посылок в пути</item>
+        <item quantity="one">%d посылка в пути</item>
+        <item quantity="few">%d посылки в пути</item>
+    </plurals>
+    <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">Удалить %s элементов?</item>
+        <item quantity="one">Удалить %s элемент?</item>
+        <item quantity="few">Удалить %s элемента?</item>
+    </plurals>
+    <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">Выбрано: %s</item>
+        <item quantity="one">Выбрано: %s</item>
+    </plurals>
+    <plurals name="pa_express_settings_title_2">
+        <item quantity="other">Добавлено %d номеров телефона</item>
+        <item quantity="one">Добавлен %d номер телефона</item>
+        <item quantity="few">Добавлено %d номера телефона</item>
+    </plurals>
+    <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d компаний</item>
+        <item quantity="one">%1$d компания</item>
+        <item quantity="few">%1$d компании</item>
+    </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Удалить %s записей из оплаты?</item>
         <item quantity="one">Удалить %s запись из оплаты?</item>

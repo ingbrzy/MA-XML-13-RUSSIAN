@@ -361,6 +361,8 @@
     <string name="permission_desc">Сведения о разрешениях</string>
     <string name="permission_dialog_cancel">Отмена</string>
     <string name="permission_dialog_ok">Настройки</string>
+    <string name="permission_read_phone_state">Информация об устройстве</string>
+    <string name="permission_read_phone_state_description">Для доступа к состоянию вызова (для автоматического прерывания записи при приеме вызова)</string>
     <string name="permission_record">Микрофон</string>
     <string name="permission_record_description">Для записи аудио</string>
     <string name="permission_storage">Хранилище</string>
