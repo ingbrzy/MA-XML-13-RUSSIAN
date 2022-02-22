@@ -73,9 +73,9 @@
         <item quantity="one">%d место</item>
     </plurals>
     <plurals name="app_accessibility_olympic_silver_medal_count">
-        <item quantity="other">%d серебрянных медалей</item>
-        <item quantity="one">%d серебрянная медаль</item>
-        <item quantity="few">%d серебрянные медали</item>
+        <item quantity="other">%d серебряных медалей</item>
+        <item quantity="one">%d серебряная медаль</item>
+        <item quantity="few">%d серебряные медали</item>
     </plurals>
     <plurals name="app_course_to_start">
         <item quantity="other">Начнется через %1$d мин.</item>
@@ -204,9 +204,9 @@
         <item quantity="one">%d место</item>
     </plurals>
     <plurals name="pa_accessibility_olympic_silver_medal_count">
-        <item quantity="other">%d серебрянных медалей</item>
-        <item quantity="one">%d серебрянная медаль</item>
-        <item quantity="few">%d серебрянные медали</item>
+        <item quantity="other">%d серебряных медалей</item>
+        <item quantity="one">%d серебряная медаль</item>
+        <item quantity="few">%d серебряные медали</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
         <item quantity="other">Магазин виджетов. Список приложений. %d элементов в списке.</item>

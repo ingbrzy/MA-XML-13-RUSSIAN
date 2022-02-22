@@ -120,7 +120,7 @@
     <string name="app_accessibility_olympic_bronze_medal">Бронзовая медаль</string>
     <string name="app_accessibility_olympic_gold_medal">Золотая медаль</string>
     <string name="app_accessibility_olympic_info_title">Подробнее</string>
-    <string name="app_accessibility_olympic_silver_medal">Серебрянная медаль</string>
+    <string name="app_accessibility_olympic_silver_medal">Серебряная медаль</string>
     <string name="app_accessibility_olympic_the_first">Первое место: %s</string>
     <string name="app_accessibility_olympic_the_second">Второе место: %s</string>
     <string name="app_accessibility_olympic_the_third">Третье место: %s</string>
@@ -232,7 +232,7 @@
     <string name="app_express_detail_list_empty_text">"Информация здесь может появиться с задержкой.
 Вы также можете отслеживать экспресс доставку на официальных сайтах служб доставки."</string>
     <string name="app_express_detail_more">Еще</string>
-    <string name="app_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого её статус больше не будет обновляться.</string>
+    <string name="app_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого ее статус больше не будет обновляться.</string>
     <string name="app_express_empty_extra">Проверить</string>
     <string name="app_express_empty_title">Нет информации о доставке</string>
     <string name="app_express_install_scan_toast">Установите сканер, чтобы использовать эту функцию.</string>
@@ -362,7 +362,7 @@
     <string name="app_pa_setting_retract_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="app_pa_setting_retract_error_message">Ошибка сервера. Повторите попытку позже.</string>
     <string name="app_pa_setting_retract_error_title">Не удалось отозвать согласие</string>
-    <string name="app_pa_setting_retract_no_net_message">Для отозыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="app_pa_setting_retract_no_net_message">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="app_pa_setting_retract_no_net_title">Ошибка подключения к сети</string>
     <string name="app_pa_setting_retract_positive">Понятно</string>
     <string name="app_pa_setting_retract_sec_left">Отозвать (%d сек.)</string>
@@ -507,13 +507,13 @@
     <string name="app_surround_empty_result">Ничего нет</string>
     <string name="app_surround_favorite_network_error_toast">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="app_surround_feature_menus">Рекомендуемые: %1$s</string>
-    <string name="app_surround_meituan">Мэйтуань</string>
+    <string name="app_surround_meituan">Meituan</string>
     <string name="app_surround_network_unavailable">Не удалось подключиться к сети</string>
     <string name="app_surround_rank_tag_must_eat">Еда в %1$s</string>
     <string name="app_surround_rank_tag_must_go">Покупки в %1$s</string>
     <string name="app_surround_rank_tag_must_play">Развлечения в %1$s</string>
     <string name="app_surround_score">★%1$s</string>
-    <string name="app_surround_start_meituan_fail">Install Meituan to be able to use this feature</string>
+    <string name="app_surround_start_meituan_fail">Установите Meituan для использования этой функции</string>
     <string name="app_surround_title">Интересные места поблизости</string>
     <string name="app_surround_title_my_fav">Избранные</string>
     <string name="app_switch_minus_flavor_to_new">Перейти на новую версию?</string>
@@ -1747,44 +1747,29 @@ Please send this code to the technician."</string>
     <string name="pa_express_settings_recommend_item_1">Не можете найти посылку?</string>
     <string name="pa_express_settings_recommend_item_2">Заявление о конфиденциальности</string>
     <string name="pa_express_settings_recommend_title">Подробнее</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_settings_subtitle">Add phone numbers to track express delivery packages</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_settings_title_1">"You haven't added any phone numbers yet."</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_shunfeng_verify_dialog_message">"To ensure the privacy and security of SF Express users, enter the last four digits of the recipient/sender's phone number."</string>
+    <string name="pa_express_settings_subtitle">Добавьте номера телефонов для отслеживания посылок экспресс-доставки</string>
+    <string name="pa_express_settings_title_1">Номера телефонов еще не добавлены</string>
+    <string name="pa_express_shunfeng_verify_dialog_message">Чтобы обеспечить конфиденциальность и безопасность пользователей SF Express, введите последние четыре цифры номера телефона получателя/отправителя.</string>
     <string name="pa_express_shunfeng_verify_dialog_ok">ОК</string>
     <string name="pa_express_shunfeng_verify_dialog_title">Проверка</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_shunfeng_verify_failed">"Couldn't verify contact info. Check whether the last four digits of the phone number you entered are correct and try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_abandoned">Abandoned</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_accept">Dispatched</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_agent_sign">Waiting for pickup</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_canceled">Canceled</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_create">Ordered</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_delivering">Out for delivery</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_failed">Issues found</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_state_reject">Rejected</string>
+    <string name="pa_express_shunfeng_verify_failed">Не удалось проверить контактную информацию. Проверьте правильность последних четырех цифр введенного номера телефона и повторите попытку.</string>
+    <string name="pa_express_state_abandoned">Отказ</string>
+    <string name="pa_express_state_accept">Отправлено</string>
+    <string name="pa_express_state_agent_sign">Ожидание получения</string>
+    <string name="pa_express_state_canceled">Отменено</string>
+    <string name="pa_express_state_create">Создан заказ</string>
+    <string name="pa_express_state_delivering">Передано в доставку</string>
+    <string name="pa_express_state_failed">Возникли проблемы</string>
+    <string name="pa_express_state_reject">Отклонено</string>
     <string name="pa_express_state_shipped">Отправлено</string>
-    <string name="pa_express_state_sign">Доставлено</string>
+    <string name="pa_express_state_sign">Получено адресатом</string>
     <string name="pa_express_state_transport">В пути</string>
     <string name="pa_express_state_unknown">Нет данных</string>
     <string name="pa_express_tail_number">Номер заказа: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_title">Express delivery</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_widget_logout">Sign in to track your packages</string>
+    <string name="pa_express_title">Экспресс-доставка</string>
+    <string name="pa_express_widget_logout">Войдите, чтобы отследить посылки</string>
     <string name="pa_express_widget_order_42">Отследить посылку</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_express_widget_post">Send package</string>
+    <string name="pa_express_widget_post">Отправить посылку</string>
     <string name="pa_finish">Готово</string>
     <string name="pa_guide_dialog_desc">Нажмите и удерживайте виджет, чтобы изменить его расположение. Нажмите \"+\", чтобы добавить виджет.</string>
     <string name="pa_guide_dialog_sure">Понятно</string>
@@ -1873,10 +1858,8 @@ Please send this code to the technician."</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Подождите…</string>
     <string name="pa_picker_detail_small_widget">Виджеты</string>
     <string name="pa_picker_detail_theme_app_cta">Настройки</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_picker_detail_theme_app_cta_pre">"To be able to use this widget, allow Themes to connect to the internet first. "</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_picker_detail_wait_wifi_download_maml">This item will be downloaded via Wi-Fi</string>
+    <string name="pa_picker_detail_theme_app_cta_pre">"Чтобы использовать этот виджет, разрешите приложению Темы подключение к интернету. "</string>
+    <string name="pa_picker_detail_wait_wifi_download_maml">Ожидание загрузки через Wi-Fi</string>
     <string name="pa_picker_home_app_group_title">Приложения с виджетами</string>
     <string name="pa_picker_home_group_more">Все</string>
     <string name="pa_picker_home_request_failed">Ошибка сети</string>
@@ -1994,28 +1977,17 @@ Please send this code to the technician."</string>
     <string name="pa_ski_foreground_service_noitification_name">Использование геолокации</string>
     <string name="pa_ski_foreground_service_title">Лента виджетов пытается получить доступ к геоданным</string>
     <string name="pa_smart_shortcut_widget_label">Рекомендации по приложениям</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_action_live">Live</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_action_preview">Preview</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_action_review">Replay</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_add_followed">Add teams</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_add_shown">Add to shown</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_all_club">Teams</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_all_league">Events</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_all_match">View all</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_all_title">Add teams and events</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_cancel_followed">Unfollow</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_cancel_shown">Remove from shown</string>
+    <string name="pa_sports_action_live">Прямая трансляция</string>
+    <string name="pa_sports_action_preview">Предпросмотр</string>
+    <string name="pa_sports_action_review">Повтор</string>
+    <string name="pa_sports_add_followed">Добавить команды</string>
+    <string name="pa_sports_add_shown">Добавить в список</string>
+    <string name="pa_sports_all_club">Команды</string>
+    <string name="pa_sports_all_league">События</string>
+    <string name="pa_sports_all_match">Посмотреть все</string>
+    <string name="pa_sports_all_title">Добавление команд и событий</string>
+    <string name="pa_sports_cancel_followed">Отписаться</string>
+    <string name="pa_sports_cancel_shown">Удалить из списка</string>
     <string name="pa_sports_concern_club">Добавить</string>
     <string name="pa_sports_download_douyu_tip">Установите Douyu для просмотра информации о спортивных мероприятиях</string>
     <string name="pa_sports_download_hupu_tip">Установите Hupu для просмотра информации о спортивных мероприятиях</string>
@@ -2023,21 +1995,18 @@ Please send this code to the technician."</string>
     <string name="pa_sports_fav_cancel_club">Скрыть команду?</string>
     <string name="pa_sports_fav_cancel_league">Скрыть событие?</string>
     <string name="pa_sports_fav_club">Мои команды</string>
-    <string name="pa_sports_fav_league">Мои мероприятия</string>
+    <string name="pa_sports_fav_league">Мои события</string>
     <string name="pa_sports_fav_title">Мои команды</string>
     <string name="pa_sports_followed">Подписки</string>
     <string name="pa_sports_league_detail_download_douyu">Загрузите Douyu для просмотра</string>
     <string name="pa_sports_league_detail_download_hupu">Загрузите Hupu для просмотра</string>
     <string name="pa_sports_league_detail_view">Просмотр</string>
     <string name="pa_sports_match_league_title">Все события</string>
-    <string name="pa_sports_match_match_title">Предстоящие мероприятия</string>
-    <string name="pa_sports_match_title">Спортивные мероприятия</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_not_followed">Not following</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_not_shown">Not shown</string>
-<!-- ### FROM SOURCE -->
-    <string name="pa_sports_shown">Shown</string>
+    <string name="pa_sports_match_match_title">Предстоящие события</string>
+    <string name="pa_sports_match_title">Спортивные события</string>
+    <string name="pa_sports_not_followed">Подписаться</string>
+    <string name="pa_sports_not_shown">Не в списке</string>
+    <string name="pa_sports_shown">В списке</string>
     <string name="pa_sports_title">Спорт</string>
     <string name="pa_sports_unstalled_tip_douyu">Установите Douyu</string>
     <string name="pa_sports_unstalled_tip_hupu">Установите Hupu</string>
