@@ -4317,7 +4317,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="size_byte">" Б"</string>
     <string name="size_giga_byte">" ГБ"</string>
     <string name="size_kilo_byte">" КБ"</string>
-    <string name="size_mega_byte">" MB"</string>
+    <string name="size_mega_byte">" MБ"</string>
     <string name="size_peta_byte">" ПБ"</string>
     <string name="size_tera_byte">" ТБ"</string>
     <string name="skin_change_close_toast">Изменения вступят в силу при следующем запуске Безопасности</string>

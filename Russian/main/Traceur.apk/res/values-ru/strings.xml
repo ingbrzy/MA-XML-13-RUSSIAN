@@ -358,7 +358,7 @@
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Запрещено</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки для %1$s</string>
-    <string name="five_gb">5 GB</string>
+    <string name="five_gb">5 ГБ</string>
     <string name="force_allow_on_external">Сохранение на внешних накопителях</string>
     <string name="force_allow_on_external_summary">Разрешить приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
     <string name="force_hw_ui">GPU-ускорение</string>
@@ -534,7 +534,7 @@
     <string name="oem_unlock_enable">OEM разблокировка</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
     <string name="okay">ОК</string>
-    <string name="one_gb">1 GB</string>
+    <string name="one_gb">1 ГБ</string>
     <string name="one_hour">1 час</string>
     <string name="orb_search_action">Поиск действия</string>
     <string name="osu_completing_sign_up">Завершение регистрации…</string>

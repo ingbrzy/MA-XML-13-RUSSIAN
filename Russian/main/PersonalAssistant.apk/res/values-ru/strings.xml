@@ -68,7 +68,7 @@
     <string name="agenda_gas">Счет за газ</string>
     <string name="agenda_i_known">Понятно</string>
     <string name="agenda_loan_payment">Погашение кредита %1$s (%2$s)</string>
-    <string name="agenda_minute">мин</string>
+    <string name="agenda_minute">мин.</string>
     <string name="agenda_minutes">минут</string>
     <string name="agenda_need_install_alipay">Установите Alipay перед использованием этой функции.</string>
     <string name="agenda_no_title">(Без имени)</string>
@@ -790,7 +790,7 @@
     <string name="diagnosis_log_send_failed">Ошибка отправки журнала.</string>
     <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
 ID:%s
-Please send this code to the technician."</string>
+Отправьте этот код техническому специалисту."</string>
     <string name="dialog_cancel_like">Успешно удалено</string>
     <string name="dialog_delete_cancel">Отмена</string>
     <string name="dialog_delete_delete">Удалить</string>
@@ -1737,7 +1737,7 @@ Please send this code to the technician."</string>
     <string name="pa_express_send_provider_cainiao">Guoguo</string>
     <string name="pa_express_send_provider_xiaomi">Mi Express</string>
     <string name="pa_express_setting">Настройки экспресс-доставки</string>
-    <string name="pa_express_setting_authorized_number_limit">Можно добавить до 4 номеров телефона</string>
+    <string name="pa_express_setting_authorized_number_limit">Можно добавить не более 4 номеров телефона</string>
     <string name="pa_express_setting_dialog_delete_failed">Не удалось удалить номер телефона</string>
     <string name="pa_express_setting_dialog_delete_success">Номер телефона удален</string>
     <string name="pa_express_setting_number_already_add">Этот номер телефона уже добавлен. Попробуйте другой.</string>
@@ -1787,7 +1787,7 @@ Please send this code to the technician."</string>
     <string name="pa_express_widget_order_42">Отследить посылку</string>
     <string name="pa_express_widget_post">Отправить посылку</string>
     <string name="pa_finish">Готово</string>
-    <string name="pa_guide_dialog_desc">Нажмите и удерживайте виджет, чтобы изменить его расположение. Нажмите \"+\", чтобы добавить виджет.</string>
+    <string name="pa_guide_dialog_desc">Нажмите и удерживайте виджет, чтобы чтобы переместить его. Нажмите \"+\", чтобы добавить виджет.</string>
     <string name="pa_guide_dialog_sure">Понятно</string>
     <string name="pa_guide_dialog_title">Посетите магазин виджетов</string>
     <string name="pa_half_day_time">h:mm</string>
@@ -1860,14 +1860,14 @@ Please send this code to the technician."</string>
     <string name="pa_picker_detail_download_app_dialog_message_install_suffix">Добавленные</string>
     <string name="pa_picker_detail_download_app_dialog_message_upgrade_prefix">Обновить</string>
     <string name="pa_picker_detail_download_maml_dialog_cancel">Подождать Wi-Fi</string>
-    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">Не показывать в течение %d мин.</string>
+    <string name="pa_picker_detail_download_maml_dialog_checkbox_text">Не показывать %d мин.</string>
     <string name="pa_picker_detail_download_maml_dialog_confirm">Загрузить</string>
     <string name="pa_picker_detail_download_maml_dialog_message">Для загрузки виджета требуется %s мобильного интернета. Загрузить?</string>
     <string name="pa_picker_detail_download_maml_dialog_title">Мобильный интернет</string>
     <string name="pa_picker_detail_edit_maml_net_unavailable">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="pa_picker_detail_install_tip_un_install">Установите приложение</string>
     <string name="pa_picker_detail_install_tip_un_upgrade">Обновите приложение</string>
-    <string name="pa_picker_detail_launcher_screen_lock">Не удалось добавить виджет. Включена защита рабочего стола от изменений.</string>
+    <string name="pa_picker_detail_launcher_screen_lock">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
     <string name="pa_picker_detail_maml_download_error">Ошибка загрузки</string>
     <string name="pa_picker_detail_modify_maml">Изменить</string>
     <string name="pa_picker_detail_net_error">Ошибка сети. Нажмите, чтобы повторить попытку.</string>
@@ -1899,12 +1899,12 @@ Please send this code to the technician."</string>
     <string name="pa_picker_search_error">Не удалось подключиться к сети</string>
     <string name="pa_picker_search_layout_cancel">Отмена</string>
     <string name="pa_picker_suit_list_activity_title">Пакеты персонализации</string>
-    <string name="pa_picker_tips_count_limit_forbidden">Не удалось добавить виджеты в Ленту виджетов. Удалите старые виджеты, чтобы добавить новые.</string>
-    <string name="pa_picker_toast_add_successfully">Успешно добавлено</string>
+    <string name="pa_picker_tips_count_limit_forbidden">Не удалось добавить виджеты. Удалите виджеты, чтобы добавить новые.</string>
+    <string name="pa_picker_toast_add_successfully">Добавлено</string>
     <string name="pa_picker_toast_count_limit_forbidden">Достигнут лимит виджетов</string>
-    <string name="pa_picker_toast_count_limit_forbidden_for_type">Больше нельзя добавить виджеты этого типа</string>
-    <string name="pa_picker_toast_count_limit_warning">Успешно добавлено. Помните, слишком большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
-    <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Включена защита рабочего стола от изменений.</string>
+    <string name="pa_picker_toast_count_limit_forbidden_for_type">Больше нельзя добавить виджетов такого типа</string>
+    <string name="pa_picker_toast_count_limit_warning">Добавлено. Слишком большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
+    <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
     <string name="pa_privacy_text">Конфиденциальность</string>
     <string name="pa_recommend_add_btn">Начать</string>
     <string name="pa_recommend_add_msg">Добавить</string>
@@ -1973,21 +1973,21 @@ Please send this code to the technician."</string>
     <string name="pa_setting_version">Версия：%1$s</string>
     <string name="pa_shortcut_accessibility_description">Лента виджетов позволяет создавать ярлыки для сторонних приложений. Эти ярлыки не будут работать, если вы отключите эту функцию.</string>
     <string name="pa_shortcut_accessibility_service">Лента виджетов</string>
-    <string name="pa_shortcut_add_limit">Можно добавить до %1$d ярлыков</string>
+    <string name="pa_shortcut_add_limit">Можно добавить не более %1$d ярлыков</string>
     <string name="pa_shortcut_apps">Приложения</string>
-    <string name="pa_shortcut_desc_add_button">Добавить %1$s на стартовую страницу</string>
+    <string name="pa_shortcut_desc_add_button">Добавить %1$s на начальную страницу</string>
     <string name="pa_shortcut_desc_add_button_install">Чтобы использовать \"%2$s\", установите %1$s.</string>
-    <string name="pa_shortcut_desc_delete_button">Удалить %1$s со стартовой страницы</string>
+    <string name="pa_shortcut_desc_delete_button">Удалить %1$s с начальной страницы</string>
     <string name="pa_shortcut_desc_more_button">Все ярлыки</string>
     <string name="pa_shortcut_download_tip">Чтобы использовать \"%2$s\", установите %1$s.</string>
     <string name="pa_shortcut_empty">Ничего нет</string>
-    <string name="pa_shortcut_group_title_start_page">Стартовая страница</string>
+    <string name="pa_shortcut_group_title_start_page">Начальная страница</string>
     <string name="pa_shortcut_memory_clean_nothing">Очистка не требуется</string>
     <string name="pa_shortcut_memory_clean_result">Очищено %1$s Б</string>
     <string name="pa_shortcut_paycode">Alipay</string>
-    <string name="pa_shortcut_setting_activity_subtitle">Перетащите для сортировки</string>
-    <string name="pa_shortcut_setting_activity_title">Добавленные ярлыки</string>
-    <string name="pa_shortcut_setting_select_other_applications">Выбрать другие приложения</string>
+    <string name="pa_shortcut_setting_activity_subtitle">Перетаскивайте для сортировки</string>
+    <string name="pa_shortcut_setting_activity_title">Ярлыки</string>
+    <string name="pa_shortcut_setting_select_other_applications">Другие приложения</string>
     <string name="pa_shortcut_widget_label">Быстрый доступ</string>
     <string name="pa_shortcut_widget_label_4x2">Ярлыки</string>
     <string name="pa_ski_foreground_service_noitification_name">Использование геолокации</string>
@@ -2046,7 +2046,7 @@ Please send this code to the technician."</string>
     <string name="pa_stock_display_limit_alert">Достигнут лимит количества компаний</string>
     <string name="pa_stock_empty_display_list">Ничего нет. Нажмите \"Добавить\".</string>
     <string name="pa_stock_empty_follow_list">Ничего нет</string>
-    <string name="pa_stock_follow_limit_alert">Можно добавить до %1$d компаний</string>
+    <string name="pa_stock_follow_limit_alert">Можно добавить не более %1$d компаний</string>
     <string name="pa_stock_follow_list_label">Мои компании</string>
     <string name="pa_stock_green_grow">Зеленый - вверх, красный - вниз</string>
     <string name="pa_stock_hszs">Hang Sen</string>
@@ -2068,8 +2068,8 @@ Please send this code to the technician."</string>
     <string name="pa_stock_widget_empty">Ничего нет</string>
     <string name="pa_stock_widget_name">Акции</string>
     <string name="pa_sure">ОК</string>
-    <string name="pa_toast_home_layout_locked">Включена защита рабочего стола от изменений</string>
-    <string name="pa_toast_message_not_support_size">Виджеты этого размера не поддерживаются Лентой виджетов</string>
+    <string name="pa_toast_home_layout_locked">Рабочий стол защищен от изменений</string>
+    <string name="pa_toast_message_not_support_size">Лента виджетов не поддерживает виджеты этого размера</string>
     <string name="pa_vertical_center">Вертикальное расположение. Выравнивание по центру.</string>
     <string name="pa_vertical_left">Вертикальное расположение. Выравнивание по левому краю.</string>
     <string name="pa_vertical_right">Вертикальное расположение. Выравнивание по правому краю.</string>
@@ -2077,9 +2077,9 @@ Please send this code to the technician."</string>
     <string name="pa_widget_menu_remove">Удалить</string>
     <string name="pa_widget_need_download_dialog_cancel">Отмена</string>
     <string name="pa_widget_need_download_dialog_confirm">ОК</string>
-    <string name="pa_widget_need_download_dialog_message_install">Чтобы использовать виджеты, сначала установите \"%s\".</string>
-    <string name="pa_widget_need_download_dialog_message_load">Чтобы использовать виджеты, сначала загрузите \"%s\".</string>
-    <string name="pa_widget_need_download_dialog_message_upgrade">Чтобы использовать виджеты, сначала обновите \"%s\".</string>
+    <string name="pa_widget_need_download_dialog_message_install">Чтобы использовать виджеты, установите \"%s\".</string>
+    <string name="pa_widget_need_download_dialog_message_load">Чтобы использовать виджеты, загрузите \"%s\".</string>
+    <string name="pa_widget_need_download_dialog_message_upgrade">Чтобы использовать виджеты, обновите \"%s\".</string>
     <string name="park_assistant">Парковка</string>
     <string name="passenger_name">Имя пассажира</string>
     <string name="passenger_name_example">Например, Дебби Смит</string>

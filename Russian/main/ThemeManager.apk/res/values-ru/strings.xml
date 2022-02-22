@@ -1117,8 +1117,8 @@ mm"</string>
     <string name="resource_title_subject">Рекомендуемые</string>
     <string name="resource_trial_15_days_end_title">15-дневный пробный период окончен</string>
     <string name="resource_trial_15_days_immediately">Пробная версия на 15 дней сейчас</string>
-    <string name="resource_trial_days">(пробная версия: %1$d д)</string>
-    <string name="resource_trial_days_hours">(пробная версия: %1$d д %2$d ч)</string>
+    <string name="resource_trial_days">(пробная версия: %1$d д.)</string>
+    <string name="resource_trial_days_hours">(пробная версия: %1$d д. %2$d ч.)</string>
     <string name="resource_trial_end_change">Изменить</string>
     <string name="resource_trial_end_get_mibi">Получение Mi Credits</string>
     <string name="resource_trial_end_jump_hint">Перенаправление…</string>
@@ -1132,9 +1132,9 @@ mm"</string>
     <string name="resource_trial_fail_go_settings">Настройки</string>
     <string name="resource_trial_fail_message">Убедитесь, что системное время установлено правильно.</string>
     <string name="resource_trial_fail_title">Не удалось создать пробную сессию</string>
-    <string name="resource_trial_hours">(пробная версия: %1$d ч)</string>
-    <string name="resource_trial_hours_minutes">(пробная версия: %1$d ч %2$d мин)</string>
-    <string name="resource_trial_minutes">(пробная версия: %1$d мин)</string>
+    <string name="resource_trial_hours">(пробная версия: %1$d ч.)</string>
+    <string name="resource_trial_hours_minutes">(пробная версия: %1$d ч. %2$d мин.)</string>
+    <string name="resource_trial_minutes">(пробная версия: %1$d мин.)</string>
     <string name="resource_unknow_error">Неизвестная ошибка</string>
     <string name="resource_update">Обновить</string>
     <string name="resource_user_know">OK</string>

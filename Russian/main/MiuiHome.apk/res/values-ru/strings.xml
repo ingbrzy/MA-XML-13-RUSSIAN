@@ -412,7 +412,7 @@
     <string name="lock_screen_wallpaper">Обои экрана блокировки</string>
     <string name="maml_download_dialog_cancel_text">Подождать Wi-Fi</string>
     <string name="maml_download_dialog_cancel_text_china">Подождать Wi-Fi</string>
-    <string name="maml_download_dialog_checkbox_text">Не показывать в течение %d мин.</string>
+    <string name="maml_download_dialog_checkbox_text">Не показывать %d мин.</string>
     <string name="maml_download_dialog_confirm_text">Загрузить</string>
     <string name="maml_download_dialog_message">Для загрузки потребуется %s МБ мобильного трафика. Загрузить?</string>
     <string name="maml_download_dialog_title">Предупреждение о трафике</string>

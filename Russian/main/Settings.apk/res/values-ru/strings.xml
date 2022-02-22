@@ -5438,9 +5438,9 @@
     <string name="memory_system_rom">Система</string>
     <string name="memory_system_space">Системное хранилище</string>
     <string name="memory_title">Доступно: %1$s\u0009\u0009Всего: %2$s</string>
-    <string name="memory_usage">Занято</string>
+    <string name="memory_usage">Используется</string>
     <string name="memory_usage_apps">Используется приложениями</string>
-    <string name="memory_use_summary">За последние 3 часа использовано %1$s памяти</string>
+    <string name="memory_use_summary">За последние 3 часа использовалось в среднем %1$s</string>
     <string name="memorycard_calculating">Вычисление…</string>
     <string name="menu_cancel">Отмена</string>
     <string name="menu_check">Попробовать</string>
