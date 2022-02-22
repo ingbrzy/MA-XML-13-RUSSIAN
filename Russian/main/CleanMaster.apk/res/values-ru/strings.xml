@@ -53,6 +53,7 @@
     <string name="activity_title_uninstall_apps">Приложения</string>
     <string name="activity_title_video">Видео</string>
     <string name="activity_title_white_list">Исключения</string>
+    <string name="ad_description" formatted="false">%s | Версия %s | %s | %s</string>
     <string name="ad_install_success_dialog_lunch">Открыть</string>
     <string name="ad_install_success_dialog_title">Установка %1$s завершена. Открыть его?</string>
     <string name="afternoon">После полудня</string>
@@ -67,9 +68,13 @@
     <string name="app_clean_group_document_send">Отправленные</string>
     <string name="app_clean_group_image_recv">Полученные</string>
     <string name="app_clean_group_image_send">Отправленные</string>
+    <string name="app_cleaned">Успешно очищено</string>
     <string name="app_description_content">Приложение ищет мусор на вашем устройстве и освобождает память для хранения данных. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="app_description_title">О приложении</string>
     <string name="app_name">JunkEngine</string>
+    <string name="app_reset">Сброс</string>
+    <string name="app_specific_clean">Очистка данных</string>
+    <string name="app_unload">Удалить</string>
     <string name="app_usage_never">Работало давно</string>
     <string name="app_usage_recently">Работало недавно</string>
     <string name="appcleaner_g_audio_summary_qq">Безвозвратное удаление голосовых сообщений QQ</string>
@@ -178,6 +183,7 @@
     <string name="cached_garbage">Кэш</string>
     <string name="call_log">Журнал вызовов</string>
     <string name="cancel">Отмена</string>
+    <string name="cancel_select_all">Отмена</string>
     <string name="cd_back">Назад</string>
     <string name="cd_check_box_checked">Проверено</string>
     <string name="cd_check_box_middle">Выбор раздела</string>
@@ -188,6 +194,10 @@
     <string name="cd_scanning">Сканирование</string>
     <string name="cd_settings">Настройки</string>
     <string name="cd_sort_type">Сортировка</string>
+    <string name="clean_ing">Очистка…</string>
+    <string name="clean_item_tip_data_app">Очистить данные %s</string>
+    <string name="clean_item_tip_reset_app">Выполнить сброс %s</string>
+    <string name="clean_item_tip_unload_app">Удалить %s</string>
     <string name="clean_master_icon_recall_button_text">Добавить</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Отмена</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Добавить</string>
@@ -198,6 +208,7 @@
     <string name="clean_master_icon_recall_title">Очистка</string>
     <string name="clean_master_icon_recall_toast_text">Ярлык добавлен на рабочий стол</string>
     <string name="clean_summary">Очищено %1$s</string>
+    <string name="clear_app_data">Очистить</string>
     <string name="clear_bigfiles">Удаление больших файлов, дубликатов фото и других устаревших объектов</string>
     <string name="clear_immediately">Очистить</string>
     <string name="clear_safe_notify">Виджет в шторке уведомлений</string>
@@ -208,7 +219,10 @@
     <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Сетевое подключение приложения \"Безопасность\"</string>
     <string name="connecting">Подключение…</string>
+    <string name="continue_check">Выбрать</string>
+    <string name="continue_to_do">Продолжить</string>
     <string name="copy">Копировать</string>
+    <string name="data_selected">Выбранные элементы</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="dc_activity_title">Глубокая очистка</string>
@@ -269,6 +283,7 @@
     <string name="default_cache_type">Данные приложения</string>
     <string name="delete_confirm">Удалить</string>
     <string name="delete_confirm_msg">Удалить выбранные файлы навсегда?</string>
+    <string name="delete_slected_data">Сбросить</string>
     <string name="desc_image">Фото</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Также удалить фото из Mi Cloud</string>
     <string name="dialog_content_select_all_confirm">Оставить копию этого фото?</string>
@@ -492,7 +507,10 @@
     <string name="install_time_invalid">--</string>
     <string name="installed">Установлено</string>
     <string name="installing">Установка</string>
+    <string name="is_Scanning">Сканирование…</string>
+    <string name="item_content_app_reset">%s занято</string>
     <string name="item_title_process_mode">Режим очистки</string>
+    <string name="jump_to_next">Пропустить</string>
     <string name="junk_syscache_alert_desc">Этот кэш не рекомендуется очищать. Очистка может повлиять на работу приложения.</string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Кэш системы (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">Демо видео LG</string>
@@ -677,10 +695,12 @@
     <string name="nb_clear_set">Очистка памяти, управление батареей и антиспамом из шторки уведомлений</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="news_change">Изменить</string>
+    <string name="next_step">Далее</string>
     <string name="night">Вечер</string>
     <string name="no_network">Не удалось подключиться к сети, повторите попытку позже</string>
     <string name="no_network_btn">Повторить</string>
     <string name="noon">Полдень</string>
+    <string name="not_selected_tips">Выберите приложения</string>
     <string name="not_set">Не задано</string>
     <string name="nothing" />
     <string name="notification_apk_clean_button_text">Очистить</string>
@@ -841,6 +861,9 @@
     <string name="recommended">Рекомендуемые</string>
     <string name="remain_item_name_n7p"/>
     <string name="remain_item_name_pamp"/>
+    <string name="reset_app_dialog_summary">Будет выполнен сброс выбранных приложений. Все данные приложений (включая статус входа в систему, настройки, кэшированные изображения, видео, файлы и чаты) будут удалены безвозвратно, это вернет приложения в исходное состояние.</string>
+    <string name="reset_app_dialog_title">Сброс приложений</string>
+    <string name="reset_selected">Сброс %s</string>
     <string name="resutl_function_deep_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
@@ -857,6 +880,7 @@
     <string name="search_menu_title">Поиск</string>
     <string name="security_center_slogan">Безопасность. Всегда на защите.</string>
     <string name="see_more">Еще</string>
+    <string name="select_all">Выбрать все</string>
     <string name="send">Отправить</string>
     <string name="set_immediately">Настроить</string>
     <string name="seton_immediately">Включить</string>
@@ -896,6 +920,7 @@
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="sponsored">Реклама</string>
+    <string name="start_clean">Начать</string>
     <string name="start_downloading_app">Начинается загрузка: %1$s</string>
     <string name="start_install">Установить</string>
     <string name="storage_activity_title">Хранилище</string>
@@ -984,6 +1009,11 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
+    <string name="tips_app_reset_dialog">Сброс позволяет максимально освободить место без удаления приложения. При этом все данные приложения (включая статус входа в систему, настройки, кэшированные изображения, видео, файлы и чаты) будут безвозвратно удалены.</string>
+    <string name="tips_app_reset_result_page">Выполните сброс приложений для их возврата в исходное состояние и стирания всех данных</string>
+    <string name="tips_app_reset_top">Сброс возвращает приложения в исходное состояние и стирает все их данные</string>
+    <string name="tips_app_specific_clean_result_page">Освободите место в хранилище</string>
+    <string name="tips_data_page">Попробуйте очистить данные приложений, чтобы освободить место</string>
     <string name="tips_low_storage_dialog_cancel">Отмена</string>
     <string name="tips_low_storage_dialog_msg_qq">Размер кэша QQ достиг 3 ГБ. Это может замедлить работу устройства. Очистить кэш QQ?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">Размер кэша QQ достиг %d ГБ. Это может замедлить работу устройства. Очистить кэш QQ?</string>
@@ -1006,6 +1036,9 @@
     <string name="tips_of_traffic_notification">Просмотр сведений о трафике в шторке уведомлений</string>
     <string name="tips_of_traffic_pack_threshold">Оплатите дополнительный пакет трафика, когда ваш месячный лимит на исходе</string>
     <string name="tips_of_virus_scan">Проверка устройства на наличие вирусов</string>
+    <string name="tips_reset_page">Выполните сброс приложений с очисткой данных, чтобы освободить место.</string>
+    <string name="tips_result_ad">Освободилось место. Попробовать эти приложения?</string>
+    <string name="tips_unload_page">Удалите приложения, которые давно не использовались (%d д.)</string>
     <string name="title_auto_cleaner">Напоминания об очистке</string>
     <string name="title_delete_cache">Очистка кэша приложений</string>
     <string name="title_delete_clipboard">Содержимое буфера</string>
@@ -1022,6 +1055,7 @@
     <string name="title_of_traffic_notification">Панель трафика</string>
     <string name="title_optimizer">Условия использования</string>
     <string name="title_share_link">Поделиться ссылкой</string>
+    <string name="to_reset_app">Сброс</string>
     <string name="toast_add_white_list_success">Успешно добавлено в исключения</string>
     <string name="toast_app_no_residual_on_sdcard">Приложение не имеет данных на накопителе</string>
     <string name="toast_backup_is_running">Идет резервное копирование</string>
@@ -1054,6 +1088,7 @@
     <string name="unit_mb">%s МБ</string>
     <string name="unlike">Нет, спасибо</string>
     <string name="update_date_format">dd.MM.yyyy</string>
+    <string name="updating_tips">Подождите…</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="video_clean">Очистить кеш видео</string>

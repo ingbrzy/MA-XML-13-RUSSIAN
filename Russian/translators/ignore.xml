@@ -3240,6 +3240,9 @@
     <string name="open_xiangkan_view_all">打开想看APP阅读全文</string>
     <string name="order_alphabet">A-Z</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
+    <string name="pa_accessibility_picker_widget_item_add_to_desktop">%s</string>
+    <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
+    <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
     <string name="pa_font_mi_lan_pro_light">mipro-light</string>
     <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>
     <string name="pa_font_mi_sans">sans-serif-medium</string>

@@ -44,6 +44,10 @@
         <item quantity="one">%d год назад</item>
         <item quantity="few">%d года назад</item>
     </plurals>
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Очистить данные %d приложений</item>
+        <item quantity="one">Очистить данные %d приложения</item>
+    </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"Очистка %1$d файлов (%2$d%%)
 "</item>
@@ -75,6 +79,11 @@
     <plurals name="dc_item_summary_app_data">
         <item quantity="other">&lt;Data>Можно удалить данные &lt;font color=#0097FF>%d&lt;/font> приложений&lt;/Data></item>
         <item quantity="one">&lt;Data>Можно удалить данные &lt;font color=#0097FF>%d&lt;/font> приложения&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> приложений занимают много места&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> приложение занимает много места&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> приложения занимают много места&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data>Найдено &lt;font color=#0097FF>%d&lt;/font> фото&lt;/Data></item>
@@ -175,9 +184,8 @@
         <item quantity="few">%d группы</item>
     </plurals>
     <plurals name="hour">
-        <item quantity="other">%1$d часов</item>
-        <item quantity="one">%1$d час</item>
-        <item quantity="few">%1$d часа</item>
+        <item quantity="other">%1$d ч.</item>
+        <item quantity="one">%1$d ч.</item>
     </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d часов назад</item>
@@ -252,23 +260,36 @@
         <item quantity="other">Загрузок: %1$d</item>
         <item quantity="one">Загрузок: %1$d</item>
     </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Выполнить сброс %d приложений</item>
+        <item quantity="one">Выполнить сброс %d приложения</item>
+    </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложений долго не использовались, обратите внимание&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложение долго не использовалось, обратите внимание&lt;/Data></item>
-        <item quantity="few">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложения долго не использовались, обратите внимание&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложений долго не использовались&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложение долго не использовалось&lt;/Data></item>
+        <item quantity="few">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> приложения долго не использовались&lt;/Data></item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">
-        <item quantity="other">Места достаточно для %d фото</item>
-        <item quantity="one">Места достаточно для %d фото</item>
+        <item quantity="other">Места хватит для %d фото</item>
+        <item quantity="one">Места хватит для %d фото</item>
     </plurals>
     <plurals name="rs_clean_size_hint_song">
-        <item quantity="other">Места достаточно для %d треков</item>
-        <item quantity="one">Места достаточно для %d трека</item>
+        <item quantity="other">Места хватит для %d треков</item>
+        <item quantity="one">Места хватит для %d трека</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%1$d секунд</item>
-        <item quantity="one">%1$d секунда</item>
-        <item quantity="few">%1$d секунды</item>
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">Выбрано %d приложений</item>
+        <item quantity="one">Выбрано %d приложение</item>
+        <item quantity="few">Выбрано %d приложения</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">Удалить %d приложений</item>
+        <item quantity="one">Удалить %d приложение</item>
+        <item quantity="few">Удалить %d приложения</item>
     </plurals>
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d приложений с кешем видео</item>

@@ -1624,6 +1624,8 @@ Please send this code to the technician."</string>
     <string name="opened">Вкл.</string>
     <string name="pa_accessibility_home_search">Нажмите дважды для поиска</string>
     <string name="pa_accessibility_home_widget_drag">Перетаскивание элемента</string>
+    <string name="pa_accessibility_home_widget_drag_move">Переместить в строку %1$d, позицию %2$d</string>
+    <string name="pa_accessibility_home_widget_drop_workspace">Перемещено в строку %1$d, позицию %2$d</string>
     <string name="pa_accessibility_olympic_bronze_medal">Бронзовые медали</string>
     <string name="pa_accessibility_olympic_gold_medal">Золотые медали</string>
     <string name="pa_accessibility_olympic_info_title">Подробнее</string>
@@ -1632,7 +1634,21 @@ Please send this code to the technician."</string>
     <string name="pa_accessibility_olympic_the_second">Второе место: %s</string>
     <string name="pa_accessibility_olympic_the_third">Третье место: %s</string>
     <string name="pa_accessibility_picker_back">Назад</string>
-    <string name="pa_accessibility_picker_widget_detail_edit">Редактирование</string>
+    <string name="pa_accessibility_picker_search_cancel">Панель поиска виджета. Нажмите дважды для отмены.</string>
+    <string name="pa_accessibility_picker_search_tips">Панель поиска виджета. Нажмите дважды для поиска.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_desktop">Магазин виджетов. Выбран %s. Нажмите дважды для подробностей.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Магазин виджетов. Выбран %s. Нажмите дважды для подробностей.</string>
+    <string name="pa_accessibility_picker_suit_item_add_to_third">Магазин виджетов. Выбран %s. Нажмите дважды для подробностей.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">Выбран %s.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">Выбран %s.</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">Выбран %s.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Нажмите дважды, чтобы добавить на рабочий стол.</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Нажмите дважды, чтобы добавить в Ленту виджетов.</string>
+    <string name="pa_accessibility_picker_widget_detail_edit">Изменить</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Виджет выбран. Перетащите, чтобы добавить на рабочий стол.</string>
+    <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Виджет выбран. Перетащите, чтобы добавить в Ленту виджетов.</string>
+    <string name="pa_accessibility_picker_widget_group_all" formatted="false">Магазин виджетов. Выберите для просмотра всех виджетов для %s. Нажмите дважды для просмотра всех виджетов для %s.</string>
+    <string name="pa_accessibility_picker_widget_group_item" formatted="false">Магазин виджетов. Выбран %s. Нажмите дважды для просмотра описания виджета. Всего %s виджетов.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Нажмите дважды для редактирования.</string>
     <string name="pa_alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Виджет</string>
