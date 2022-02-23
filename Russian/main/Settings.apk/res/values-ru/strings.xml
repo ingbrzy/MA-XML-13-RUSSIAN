@@ -5511,7 +5511,7 @@
     <string name="miheadset_auto_ack_mode">Автоподтверждение</string>
     <string name="miheadset_auto_ack_mode_summary">Автоподтверждение устройства</string>
     <string name="miheadset_auto_answer_call">Автоответ при вызовах</string>
-    <string name="miheadset_bluetooth_audio_title">Частота дискретизации звука Bluetooth LC%dplus</string>
+    <string name="miheadset_bluetooth_audio_title">Частота дискретизации звука Bluetooth LC3plus</string>
     <string name="miheadset_bright">Яркость</string>
     <string name="miheadset_call_assist">Помощник вызовов</string>
     <string name="miheadset_cancel_device">Отмена</string>
@@ -5625,7 +5625,7 @@
     <string name="miheadset_unpair_device">Отменить сопряжение?</string>
     <string name="miheadset_unpair_device_text">Сопряжение с %1$s будет отменено на всех устройствах, связанных с этим Mi аккаунтом</string>
     <string name="miheadset_virtual_surround">Виртуальный иммерсивный звук</string>
-    <string name="miheadset_virtual_surround_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %1$d.%2$d аудио)</string>
+    <string name="miheadset_virtual_surround_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %s аудио)</string>
     <string name="miheadset_voiceIncrease">Улучшение звучания</string>
     <string name="miheadset_voice_control_summary">Когда эта функция включена, вы можете использовать Mi AI для навигации по устройству или для управления воспроизведением аудио с помощью голосовых команд</string>
     <string name="miheadset_windnoise">Ветер</string>
@@ -8335,6 +8335,7 @@ UT-интерфейс: %5$s"</string>
     <string name="shoulder_key_shortcut_mute">Беззвучный режим</string>
     <string name="shoulder_key_shortcut_none">Нет</string>
     <string name="shoulder_key_shortcut_settings">Навесные триггеры</string>
+    <string name="shoulder_key_shortcut_settings_summary" />
     <string name="shoulder_key_shortcut_single_click">Нажатие</string>
     <string name="shoulder_key_shortcut_turn_on_torch">Фонарик</string>
     <string name="shoulder_key_shortcut_vibrate">Вибрация</string>
