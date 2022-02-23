@@ -773,7 +773,7 @@
     <string name="auto_task_exit_finish">Задача автоматически завершена</string>
     <string name="auto_task_font_setting_weight_toast">Не удалось настроить толщину этого шрифта</string>
     <string name="auto_task_leave_app">Выйти из %s</string>
-    <string name="auto_task_lock_screen_now">Заблокировать экран</string>
+    <string name="auto_task_lock_screen_now">После блокировки экрана</string>
     <string name="auto_task_loop_exclude_cancel">Отмена зацикленной задачи</string>
     <string name="auto_task_main_title">Центр задач</string>
     <string name="auto_task_mamange_activity_title">Автоматизация действий</string>
@@ -5118,7 +5118,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_condition_leave">Отбытие из места</string>
     <string name="title_condition_leave_activity">Выход из приложения</string>
     <string name="title_condition_location">Местоположение</string>
-    <string name="title_condition_lock_screen">После блокировки экрана</string>
+    <string name="title_condition_lock_screen">Блокировка экрана</string>
     <string name="title_condition_meeting">Встреча</string>
     <string name="title_condition_message">Сообщение</string>
     <string name="title_condition_mute">Режимы \"Без звука\"/\"Не беспокоить\"</string>
