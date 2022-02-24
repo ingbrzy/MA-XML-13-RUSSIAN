@@ -419,6 +419,7 @@ ID:%s
     <string name="my_device_title">Текущее устройство</string>
     <string name="need_install_wechat">Установите WeChat</string>
     <string name="night">Вечер</string>
+    <string name="no_account_or_forget_password">Создать учетную запись или забыли пароль?</string>
     <string name="no_install">Не установлено</string>
     <string name="no_network_btn">Обновить</string>
     <string name="no_network_title">Не удалось подключиться к сети</string>

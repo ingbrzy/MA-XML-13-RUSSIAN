@@ -90,6 +90,7 @@
     <string name="app_name">Темы</string>
     <string name="app_name_pad">Персонализация</string>
     <string name="application_list_permission_desc">Приложения, совместимые с прозрачными обоями</string>
+    <string name="application_notify_title">Внимание</string>
     <string name="apply_choosen_type_resource">Применить выбранные компоненты</string>
     <string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
     <string name="apply_failed">Не удалось применить</string>
@@ -174,6 +175,7 @@
     <string name="component_title_video_wallpaper">Живые обои</string>
     <string name="component_title_wallpaper">Обои</string>
     <string name="concentration_old_period">Еще</string>
+    <string name="configure_success_not_enable_aod">Включите Активный экран, чтобы применить тему</string>
     <string name="copy">Копировать</string>
     <string name="count_down_tip">Осталось %d сек.</string>
     <string name="create_home_icon">Ярлык на рабочем столе</string>
@@ -1257,6 +1259,7 @@ mm"</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="super_wallpaper">Суперобои</string>
+    <string name="super_wallpaper_dialog_content">Динамические функции обоев будут отключены для экономии заряда</string>
     <string name="super_wallpaper_download_progress">%1$d%%</string>
     <string name="super_wallpaper_list_footer_text">Следите за новыми релизами!</string>
     <string name="super_wallpaper_list_label">Суперобои</string>
@@ -1520,6 +1523,7 @@ mm"</string>
     <string name="video_not_support_message">Это видео может воспроизводиться некорректно или замедлять работу устройства. Все равно применить?</string>
     <string name="video_not_support_title">Видео слишком большое</string>
     <string name="video_silence_apply_success">Видео без звука установлено</string>
+    <string name="video_wallpaper_apply_warning">Применить обои на рабочий стол и экран блокировки?</string>
     <string name="video_wallpaper_import">Нажмите чтобы добавить</string>
     <string name="vip_level_dialog_positive">Я знаю</string>
     <string name="vip_level_dialog_title">Совет</string>
