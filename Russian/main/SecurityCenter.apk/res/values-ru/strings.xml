@@ -2143,7 +2143,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gd_setting_miui_dock">Всегда показывать</string>
     <string name="gd_setting_shorthand">Быстрые заметки</string>
     <string name="gd_setting_title">Боковая панель</string>
-    <string name="gd_setting_vtb">Во время воспроизведения видео</string>
+    <string name="gd_setting_vtb">При воспроизведении видео</string>
     <string name="gd_setting_vtb_desc">Специальные функции для воспроизведения видео</string>
     <string name="gd_sidebar_long_press_tips">Нажмите и удерживайте индикатор для перемещения, держите устройство вертикально</string>
     <string name="gd_splite_screen_tips">Разделение экрана при использовании плавающих окон не поддерживается</string>
