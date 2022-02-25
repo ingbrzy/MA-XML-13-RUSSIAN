@@ -860,7 +860,7 @@ ID:%s
     <string name="error_share_not_support">Такие элементы не поддерживаются в избранном.</string>
     <string name="evening">После полудня</string>
     <string name="exercise_setting_brief">Подсчет шагов и расстояния</string>
-    <string name="exercise_setting_misport_detail">Измерьте расстояние и посчитайте количество шагов, которые вы делаете ежедневно (Разрешите Mi Fit автоматический запуск в Безопасность - Разрешения).</string>
+    <string name="exercise_setting_misport_detail">Ежедневный подсчет шагов и пройденного расстояния (Разрешите Mi Fit автоматический запуск в Безопасность - Разрешения).</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="express">Экспресс доставка</string>
     <string name="express_add_new_address">Добавить адрес</string>
@@ -1903,7 +1903,7 @@ ID:%s
     <string name="pa_picker_toast_add_successfully">Добавлено</string>
     <string name="pa_picker_toast_count_limit_forbidden">Достигнут лимит виджетов</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">Больше нельзя добавить виджетов такого типа</string>
-    <string name="pa_picker_toast_count_limit_warning">Добавлено. Слишком большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
+    <string name="pa_picker_toast_count_limit_warning">Добавлено. Большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
     <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
     <string name="pa_privacy_text">Конфиденциальность</string>
     <string name="pa_recommend_add_btn">Начать</string>

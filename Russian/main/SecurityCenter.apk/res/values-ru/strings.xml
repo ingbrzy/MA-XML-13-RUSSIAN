@@ -580,7 +580,7 @@
     <string name="app_predict_loading_text">Подождите…</string>
     <string name="app_predict_privacy_btn_exit_text">Выход</string>
     <string name="app_predict_privacy_btn_sure_text">Принять</string>
-    <string name="app_predict_privacy_content">Эта служба использует алгоритмы, которые действуют в рамках наших механизмов защиты конфиденциальности, они изучают как используются приложения на устройстве. Это позволяет давать рекомендации по приложениям, которые, возможно, нужны вам в данный момент.</string>
+    <string name="app_predict_privacy_content">Этот сервис использует алгоритмы, действующие в рамках механизмов защиты конфиденциальности и изучающие использование приложений на устройстве. Это позволяет давать рекомендации по приложениям, которые, скорее всего, нужны вам в данный момент.</string>
     <string name="app_predict_privacy_privacy_policy_text">Политику конфиденциальности</string>
     <string name="app_predict_privacy_title">Рекомендации по приложениям</string>
     <string name="app_predict_privacy_user_agreement_privacy_policy_text">Прежде чем продолжить, прочитайте и примите %1$s и %2$s.</string>
@@ -592,7 +592,7 @@
     <string name="app_predict_setting_black_list">Черный список</string>
     <string name="app_predict_setting_black_list_message">Блокировка нежелательных для рекомендаций приложений</string>
     <string name="app_predict_setting_privacy">Политика конфиденциальности</string>
-    <string name="app_predict_setting_switch_message">Получение рекомендаций по приложениям на основе ваших предпочтений</string>
+    <string name="app_predict_setting_switch_message">Получать рекомендации по приложениям на основе ваших предпочтений</string>
     <string name="app_predict_setting_switch_title">Персонализированные рекомендации</string>
     <string name="app_predict_setting_title">Рекомендации по приложениям</string>
     <string name="app_predict_widget_experience_now">Попробовать</string>

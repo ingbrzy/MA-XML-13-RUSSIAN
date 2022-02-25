@@ -2695,7 +2695,7 @@
     <string name="date_time_24hour">24-часовой формат</string>
     <string name="date_time_24hour_auto">Региональные настройки</string>
     <string name="date_time_24hour_title">24-часовой формат</string>
-    <string name="date_time_auto">Настраивать время автоматически</string>
+    <string name="date_time_auto">Настраивать автоматически</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="date_time_search_region">Поиск региона</string>
     <string name="date_time_select_fixed_offset_time_zones">Выбор смещения UTC</string>
@@ -4886,7 +4886,7 @@
     <string name="location_time_zone_detection_not_allowed">Вы не можете изменить настройки определения часового пояса с помощью геолокации</string>
     <string name="location_time_zone_detection_not_applicable">Определение часового пояса с помощью геолокации отключено</string>
     <string name="location_time_zone_detection_not_supported">Определение часового пояса с помощью геолокации не поддерживается</string>
-    <string name="location_time_zone_detection_toggle_title">Определять часовой пояс по местоположению</string>
+    <string name="location_time_zone_detection_toggle_title">Определять по местоположению</string>
     <string name="location_title">Мое местоположение</string>
     <string name="lock_after_timeout">Автоблокировка</string>
     <string name="lock_after_timeout_summary">Через %1$s после отключения экрана</string>
@@ -11379,7 +11379,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zone_auto">Часовой пояс сети</string>
     <string name="zone_auto_summaryOff">Использовать часовой пояс сети</string>
     <string name="zone_auto_summaryOn">Использовать часовой пояс сети</string>
-    <string name="zone_auto_title">Настраивать часовой пояс автоматически</string>
+    <string name="zone_auto_title">Настраивать автоматически</string>
     <string name="zone_change_to_from_dst">Переход на %1$s: %2$s</string>
     <string name="zone_info_footer">%1$s. Переход на %2$s: %3$s.</string>
     <string name="zone_info_footer_no_dst">%1$s. Без перехода на летнее время.</string>
