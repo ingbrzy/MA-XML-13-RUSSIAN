@@ -306,9 +306,9 @@
         <item>Адаптивное</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Качество звука (990/909 Кбит/с)</item>
-        <item>Баланс качества и скорости (660/606 Кбит/с)</item>
-        <item>Скорость подключения (330/303 Кбит/с)</item>
+        <item>Качество звука (990/909 Кбит/сек.)</item>
+        <item>Баланс качества звука и соединения (660/606 Кбит/сек.)</item>
+        <item>Качество соединения (330/303 Кбит/сек.)</item>
         <item>Лучшее возможное (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
@@ -329,10 +329,10 @@
         <item>Адаптивное</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Минимальная задержка (256 Кбит/с)</item>
-        <item>Скорость подключения (400 Кбит/с)</item>
-        <item>Баланс качества и скорости (500/560 Кбит/с)</item>
-        <item>Качество звука (900 Кбит/с)</item>
+        <item>Минимальная задержка (256 Кбит/сек.)</item>
+        <item>Качество соединения (400 Кбит/сек.)</item>
+        <item>Баланс качества звука и соединения (500/560 Кбит/сек.)</item>
+        <item>Качество звука (900 Кбит/сек.)</item>
         <item>Лучшее возможное (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">

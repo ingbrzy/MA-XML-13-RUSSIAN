@@ -201,9 +201,9 @@
     <string name="bluetooth_select_a2dp_codec_channel_mode">Режим аудиоканала Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Аудиокодек для Bluetooth:
     режим канала"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Аудиокодек LDAC для Bluetooth: качество воспроизведения</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Аудиокодек LDAC для Bluetooth: качество звука</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Аудиокодек LDAC для Bluetooth:
-    качество воспроизведения"</string>
+    качество звука"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации при передаче через Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Аудиокодек для Bluetooth:
     частота дискретизации"</string>

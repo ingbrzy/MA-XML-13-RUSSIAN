@@ -636,6 +636,7 @@
     <string name="angle_enabled_app">Выбрать приложение с поддержкой ANGLE</string>
     <string name="angle_enabled_app_not_set">Приложение с поддержкой ANGLE не выбрано</string>
     <string name="angle_enabled_app_set">Приложение с поддержкой ANGLE: %1$s</string>
+    <string name="animation_off">Без анимации</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="another_migration_already_in_progress">Другая операция переноса уже выполняется.</string>
     <string name="anti_spam">Антиспам</string>
@@ -844,6 +845,7 @@
     <string name="asst_feedback_indicator_title">Отзывы об адаптивных уведомлениях</string>
     <string name="asst_importance_reset_summary">Сбросить настройки важности, измененные пользователем, и разрешить определять приоритет приложению для уведомлений</string>
     <string name="asst_importance_reset_title">Сбросить настройки важности</string>
+    <string name="at_most_one_process">Не более %d процесса</string>
     <string name="attempt_other_network">Попробовать другую сеть</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_and_captions_category_title">Аудио и озвучивание текста</string>
@@ -884,7 +886,7 @@
     <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений.</string>
     <string name="auto_clean_description">"О функции
 1. Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
-2. Если динамик сильно загрязнен, запустите эту функцию 2-5 раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
+2. Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
     <string name="auto_clean_description_pad">"О функции
 - Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
 - Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
@@ -1324,6 +1326,10 @@
     <string name="block_list_title">Черный список</string>
     <string name="block_title">Показывать уведомления</string>
     <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Качество звука (%1$d/%2$d Кбит/сек.)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Баланс качества звука и соединения (%1$d/%2$d Кбит/сек.)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Качество соединения (%1$d/%2$d Кбит/сек.)</string>
+    <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Лучшее возможное (адаптивный битрейт)</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
     <string name="bluetooth_active_battery_level">Активно. Уровень заряда: %1$s</string>
@@ -3757,7 +3763,9 @@
     <string name="force_immersive_compatibility_hint_message">При скрытии экранных кнопок некоторые приложения могут работать неправильно.</string>
     <string name="force_immersive_compatibility_hint_title">Проблемы совместимости</string>
     <string name="force_msaa">Включить 4x MSAA</string>
+    <string name="force_msaa_new">Включить %dx MSAA</string>
     <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
+    <string name="force_msaa_summary_new">Включить %2$dx MSAA в приложениях OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Изменение размера окон</string>
     <string name="force_resizable_activities_summary">Разрешать изменение размера окон в режиме разделения экрана независимо от значений в манифесте</string>
     <string name="force_rtl_layout_all_locales">Отразить интерфейс</string>
@@ -5364,6 +5372,7 @@
     <string name="max_cpu8_info">"8 x "</string>
     <string name="max_fingerprint_number_reached">Можно добавить не более 5 отпечатков. Для добавления нового отпечатка удалите один из существующих.</string>
     <string name="max_fingerprint_reached_toast">Можно добавить не более 5 отпечатков.</string>
+    <string name="max_number_of_processes">Не более %d процессов</string>
     <string name="maximum_memory_use">Макс. объем исп. памяти</string>
     <string name="mechanical_ime">Механическая клавиатура</string>
     <string name="mechanical_ime_hint">Поддерживается только клавиатура Xiaomi</string>
@@ -6221,6 +6230,7 @@
     <string name="no_5g_in_dsds_text">При использовании 2 SIM-карт это устройство будет ограничено 4G. <annotation id="url">Подробности</annotation></string>
     <string name="no_application">Нет</string>
     <string name="no_applications">Нет приложений</string>
+    <string name="no_background_processes">Без фоновых процессов</string>
     <string name="no_battery_summary">Батарея с момента последней полной зарядки не расходовалась</string>
     <string name="no_battery_summary_24hr">Батарея не использовалась последние 24 ч.</string>
     <string name="no_bluetooth_devices">Bluetooth-устройства не найдены</string>
@@ -7238,7 +7248,7 @@ UT-интерфейс: %5$s"</string>
     <string name="radio_info_smsc_update_label">Обновить</string>
     <string name="radio_info_subid">Текущий SubId:</string>
     <string name="radio_info_toggle_dns_check_label">Включить/отключить проверку DNS</string>
-    <string name="radio_info_ul_kbps">Пропускная способность UL-канала (кбит/с):</string>
+    <string name="radio_info_ul_kbps">Пропускная способность UL-канала (Кбит/сек.):</string>
     <string name="radio_info_voice_network_type_label">Тип сети для голосовой связи:</string>
     <string name="raise_bottom_height_of_keyboard">Увеличенная высота</string>
     <string name="raise_bottom_height_of_keyboard_sub_title">Под клавиатурой появится панель с настраиваемыми ярлыками</string>
@@ -8748,6 +8758,7 @@ UT-интерфейс: %5$s"</string>
     <string name="stable_build">Стабильная</string>
     <string name="standard">Без звука</string>
     <string name="standard_info">Вызовы и уведомления будут без звука</string>
+    <string name="standard_limit">Стандартный лимит</string>
     <string name="standby_bucket_summary">Статус приложения в режиме ожидания: %s</string>
     <string name="start_silent_mode">Включить режим \"Без звука\"</string>
     <string name="starting_android">Запуск Android…</string>
@@ -9014,12 +9025,41 @@ UT-интерфейс: %5$s"</string>
     <string name="storageuse_settings_title">Использование памяти</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
+    <string name="string_24hour" />
     <string name="string_KB">%d КБ</string>
     <string name="string_KB_per_log_buffer">%d КБ на буфер журнала</string>
     <string name="string_MB">%d МБ</string>
     <string name="string_MB_per_log_buffer">%d МБ на буфер журнала</string>
+    <string name="string_after_int_minute">Через %d мин.</string>
+    <string name="string_after_int_minutes">Через %d мин.</string>
+    <string name="string_after_int_seconds">Через %d сек.</string>
+    <string name="string_always">Всегда</string>
+    <string name="string_bits_per_sample">%d бит/отсчет</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Короткая задержка (%1$d~%2$d мс)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Средняя задержка (%1$d~%2$d мс)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Длинная задержка (%1$d~%2$d мс)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Минимальная задержка (%d Кбит/сек.)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Качество соединения (%d Кбит/сек.)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Баланс качества звука и соединения (%1$d/%2$d Кбит/сек.)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Качество звука (%d Кбит/сек.)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Лучшее возможное (адаптивный битрейт)</string>
+    <string name="string_float_inches">%f дюймов</string>
+    <string name="string_float_seconds">%f сек.</string>
+    <string name="string_immediately">Сразу</string>
+    <string name="string_int">%d</string>
+    <string name="string_int_hour">%d ч.</string>
+    <string name="string_int_hours">%d ч.</string>
+    <string name="string_int_minute">%d мин.</string>
+    <string name="string_int_minutes">%d мин.</string>
+    <string name="string_int_second">%d сек.</string>
+    <string name="string_int_seconds">%d сек.</string>
+    <string name="string_kHz">%.1f кГц</string>
+    <string name="string_never">Никогда</string>
     <string name="string_off">Откл.</string>
     <string name="string_offed">Вкл.</string>
+    <string name="string_scale_float">Анимация %.1fx</string>
+    <string name="string_scale_int">Анимация %dx</string>
+    <string name="string_unlimited">Без ограничений</string>
     <string name="strong_suppression_summary">Устройство будет меньше реагировать на случайные касания вблизи краев экрана, некоторые жесты могут не работать</string>
     <string name="strong_suppression_title">Большая область</string>
     <string name="structure_add_facerecoginition_text">Добавить 3D данные лица</string>
@@ -9368,6 +9408,9 @@ UT-интерфейс: %5$s"</string>
     <string name="time_floating_window">Плавающие часы</string>
     <string name="time_floating_window_summary">Показывать часы в плавающем окне поверх других приложений</string>
     <string name="time_format_category_title">Формат времени</string>
+    <string name="time_format_entries_1">%d-часовой</string>
+    <string name="time_format_entries_2">%d-часовой</string>
+    <string name="time_format_entries_3">Автоматически</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
@@ -9875,6 +9918,7 @@ UT-интерфейс: %5$s"</string>
     <string name="use_personalized_ad_service_summary_for_global">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы в системных приложениях MIUI. Однако реклама от Xiaomi и сторонних платформ больше не будет актуальной, поскольку не будет основываться на ваших предпочтениях.</string>
     <string name="use_privacy_password_immediate">Попробовать</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
+    <string name="use_system_preference">Выбор системы</string>
     <string name="use_this_wlan">Использовать</string>
     <string name="use_wifi_hotsopt_main_switch_title">Использовать точку доступа Wi-Fi</string>
     <string name="user_account_title">Аккаунт для контента</string>

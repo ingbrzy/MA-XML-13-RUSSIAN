@@ -145,6 +145,8 @@
     <string-array name="chinese_symbol_animals"></string-array>
     <string-array name="clean_cached_process_white_list"></string-array>
     <string-array name="clir_choices"></string-array>
+    <string-array name="clir_choices_default_only"></string-array>
+    <string-array name="clir_values_default_only"></string-array>
     <string-array name="cmas_alert_extreme_channels_range_strings"></string-array>
     <string-array name="cmas_alerts_severe_range_strings"></string-array>
     <string-array name="cmas_amber_alerts_channels_range_strings"></string-array>

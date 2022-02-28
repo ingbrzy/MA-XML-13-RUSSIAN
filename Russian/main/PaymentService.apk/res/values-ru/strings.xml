@@ -156,8 +156,10 @@ ID:%s
     <string name="mibi_bill_record">Транзакции</string>
     <string name="mibi_bill_record_empty">Нет записей.</string>
     <string name="mibi_btn_agree">Согласиться</string>
+    <string name="mibi_btn_agree_continue">Принять и продолжить</string>
     <string name="mibi_btn_back">Назад</string>
     <string name="mibi_btn_count_down_auto">Спросить через %1$d секунд</string>
+    <string name="mibi_btn_exit">Выход</string>
     <string name="mibi_btn_finish">готово</string>
     <string name="mibi_btn_mili_center_recharge">Пополнить счёт</string>
     <string name="mibi_btn_net_connection_retry">Попробовать еще</string>
@@ -186,8 +188,20 @@ ID:%s
     <string name="mibi_change_security_lock">Другие варианты блокировки</string>
     <string name="mibi_check_giftcard">Посмотреть все купоны</string>
     <string name="mibi_click_retry">%1$s, нажмите, чтобы попробовать еще</string>
+    <string name="mibi_cta_agreement_checkbox_description">Прочтите и примите %1$s и %2$s</string>
+    <string name="mibi_cta_agreement_tips">Примите условия использования</string>
+    <string name="mibi_cta_description">"Добро пожаловать в Mi Coin, это приложение предоставляет такие функции, как пополнение Mi Coin и просмотр подарочных сертификатов. Мы будем обрабатывать вашу соответствующую информацию в соответствии с требованиями законов и правил:
+1. 1. Перед использованием продуктов или сервисов Mibi, внимательно прочтите и примите Политику конфиденциальности, используйте соответствующие продукты или сервисы только после полного своего согласия.
+2. 2. Приложению требуются разрешения на использование интернета и камеры. При первом запуске мы запросим необходимые разрешения. Изменить разрешения можно в \"Настройки конфиденциальности\" - \"Управление авторизацией\" или в Настройках устройства.
+%1$s"</string>
+    <string name="mibi_cta_description_suffix">"3. Мы очень серьезно относимся к вашей личной информации и защищаем ее. Если у вас есть какие-либо вопросы, комментарии или предложения по содержанию этой политики, вы можете связаться с нами, посетив %1$s.
+"</string>
+    <string name="mibi_cta_description_with_review_entry_suffix">"3. Если вы не согласны с Политикой конфиденциальности, можно воспользоваться режимом \"Только просмотр\". Вы можете выбрать из [%1$s].
+4. Мы очень серьезно относимся к вашей личной информации и защищаем ее. Если у вас есть какие-либо вопросы, комментарии или предложения по содержанию этой политики, вы можете связаться с нами, посетив %2$s.
+"</string>
+    <string name="mibi_cta_title">Дорогие поклонники Mi</string>
     <string name="mibi_deduct_goods_name">Товар</string>
-    <string name="mibi_deduct_open_prompt">%1$s сможет автоматически списывать средства с помощью %2$s без проверки. Вы можете отключить эту функцию через %1$s.</string>
+    <string name="mibi_deduct_open_prompt">%1$s сможет автоматически без проверки списывать средства с помощью %2$s. Вы можете отключить эту функцию через %1$s.</string>
     <string name="mibi_deduct_order_price">Цена</string>
     <string name="mibi_deduct_pay_group_title">Выберите метод списания</string>
     <string name="mibi_deduct_payment_title">Автоматические списания</string>
@@ -453,6 +467,27 @@ ID:%s
     <string name="mibi_recharge_value_money_special_unit">Покупка %1$s %2$s стоит Mi Coins</string>
     <string name="mibi_recharge_warn_text">Вы не можете покупать физические товары, используя Mi Coins.</string>
     <string name="mibi_return">Возврат</string>
+    <string name="mibi_review_model_btn_entry">Режим \"Только просмотр\"</string>
+    <string name="mibi_review_model_btn_use">Попробовать сервис Micoin</string>
+    <string name="mibi_review_model_icon_1">Темы</string>
+    <string name="mibi_review_model_icon_2">Облачный сервис</string>
+    <string name="mibi_review_model_icon_3">Чтение</string>
+    <string name="mibi_review_model_icon_4">Видео</string>
+    <string name="mibi_review_model_icon_5">Музыка</string>
+    <string name="mibi_review_model_icon_6">Игры</string>
+    <string name="mibi_review_model_introduction_description">"Если вы не согласны с Политикой конфиденциальности, мы предоставим режим \"Только просмотр\". В этом режиме мы покажем вам введение в услуги, связанные с Micoin.
+
+Для этого режима необходим только доступ в интернет, мы не будем собирать, хранить, передавать или использовать вашу личную информацию.
+
+Если вы захотите вести бизнес, связанный с Micoin, вам нужно будет согласиться с соответствующими правилами обработки личной информации. Мы будем обрабатывать вашу личную информацию в соответствии с вашим разрешением и соответствующими положениями законов и нормативных актов."</string>
+    <string name="mibi_review_model_introduction_title">Ознакомление с режимом \"Только просмотр\"</string>
+    <string name="mibi_review_model_mibi_function">Пополнение MiCoin. Проверка баланса. Управление подарочными картами.</string>
+    <string name="mibi_review_model_mibi_introduction">"MiCoin - это объединенная касса для виртуальных предприятий группы Xiaomi. Она поддерживает такие способы оплаты, как Alipay, WeChat и Mi Wallet. Она также предоставляет предоплаченные карты и маркетинговые продукты, такие как Mi Coin Card и MiCoin Gift Vouchers.
+
+Сервисы предоставляются："</string>
+    <string name="mibi_review_model_tips">Включен режим \"Только просмотр\", нажмите кнопку, чтобы воспользоваться сервисом Micoin.</string>
+    <string name="mibi_review_model_title">Режим "только просмотр"</string>
+    <string name="mibi_review_model_use_tips">Попробуйте сервис Micoin</string>
     <string name="mibi_revoke_agreement_failed_msg">Не удалось отозвать согласие, попробуйте позже</string>
     <string name="mibi_revoke_agreement_msg">"В случае отзыва согласия с Политикой конфиденциальности приложения Mibibi, сбор Вашей личной информации будет прекращен. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство.
 Для предоставления сервисов Mi Coin требуется сбор некоторой личной информации. Отзыв согласия будет рассматриваться как отказ от использования сервисов и от своих активов и прав, которые нельзя будет восстановить."</string>
@@ -522,6 +557,7 @@ ID:%s
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
