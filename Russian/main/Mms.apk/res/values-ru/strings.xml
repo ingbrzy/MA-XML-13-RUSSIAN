@@ -152,7 +152,7 @@
     <string name="cm_privacy_dialog_allow">Принимаю</string>
     <string name="cm_privacy_dialog_cancel">Отмена</string>
     <string name="cm_privacy_dialog_spannable_tips">Политика конфиденциальности</string>
-    <string name="cm_privacy_dialog_tips">"Сервис Умные сообщения предоставляется вашим оператором. Для предоставления сервиса приложению требуются подключение к интернету и разрешение использовать геолокацию. Примите %1s вашего оператора перед использованием сервиса."</string>
+    <string name="cm_privacy_dialog_tips">"Сервис Умные сообщения предоставляется вашим оператором. Для предоставления сервиса приложению требуются подключение к интернету и разрешение использовать геолокацию. Перед использованием сервиса примите %1s вашего оператора связи."</string>
     <string name="cm_privacy_dialog_title">Внимание</string>
     <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
     <string name="cn_privacy_dialog_title">Внимание</string>
@@ -250,14 +250,14 @@
     <string name="dialog_message_correct_as_ad">Все сообщения от %s (кроме проверочных кодов) будут перемещены в рекламные сообщения.</string>
     <string name="dialog_message_correct_as_normal">Выберите сообщения для перемещения</string>
     <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
-    <string name="dialog_message_mx">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI. Для активации Mi Сообщений требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Нажав \"Принимаю\", вы принимаете \"%1$s\" и \"%2$s\".</string>
+    <string name="dialog_message_mx">Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI. Для активации сервиса требуется отправка SMS. Оплата взимается согласно тарифу вашего оператора. Нажав \"Принимаю\", вы принимаете \"%1$s\" и \"%2$s\".</string>
     <string name="dialog_message_networking">Для распознавания ID отправителя Сообщения должны использовать Справочник. Сообщениям и Справочнику для нормальной работы требуются подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
-    <string name="dialog_message_rcs">Сообщения China Mobile позволяют вам бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile вы должны принять \"%1$s\".</string>
+    <string name="dialog_message_rcs">Сообщения China Mobile позволяют бесплатно отправлять сообщения другим абонентам China Mobile в материковом Китае. Перед использованием Сообщений China Mobile необходимо принять \"%1$s\".</string>
     <string name="dialog_quit">Выход</string>
     <string name="dialog_revoke">Отозвать</string>
     <string name="dialog_sim_locked_confirm">ОК</string>
     <string name="dialog_sim_locked_message">"Ваша SIM-карта не полностью работоспособна с этим телефоном, потому что не соответствует условиям подписки. Если у вас есть какие-либо вопросы или нужна дополнительная информация по этому вопросу, обратитесь в сервисный центр Xiaomi или в магазин, где приобрели телефон."</string>
-    <string name="dialog_smart_message_privacy_tips">Услуга Умные сообщения частично предоставляется Dianhuabang. Перед использованием Умных сообщений вы должны согласиться с \"%1$s\". Умным сообщениям для нормальной работы требуются подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
+    <string name="dialog_smart_message_privacy_tips">Сервис Умные сообщения частично предоставляется Dianhuabang. Перед использованием Умных сообщений необходимо принять \"%1$s\". Для нормальной работы сервису требуются подключение к интернету и разрешение использовать геолокацию. Разрешить?</string>
     <string name="dialog_smart_message_privacy_tips_title">Политика конфиденциальности Dianhuabang</string>
     <string name="dialog_title_correct_as_ad">Переместить в рекламные сообщения</string>
     <string name="dialog_title_correct_as_normal">Переместить в обычные сообщения</string>
@@ -324,9 +324,9 @@
     <string name="favorite_at_time">Добавлено в избранные: %1s</string>
     <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из списка разрешенных.</string>
     <string name="feature_mx">Mi Сообщения</string>
-    <string name="feature_mx_summary">&lt;b&gt;\"Mi Сообщения\" позволяют отправлять сообщения другим пользователям MIUI через интернет без дополнительной оплаты.&lt;/b&gt;.  Для активации этой услуги необходима отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение. Перед использованием этой функции прочитайте и согласитесь с нашими &lt;font color="#B3000000"&gt;Пользовательским соглашением&lt;/font&gt; и &lt;font color="#B3000000"&gt;Политикой конфиденциальности&lt;/font&gt;.</string>
+    <string name="feature_mx_summary">&lt;b&gt;Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет.&lt;/b&gt;. Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение. Перед использованием этого сервиса прочтите и примите &lt;font color="#B3000000"&gt;Пользовательское соглашение&lt;/font&gt; и &lt;font color="#B3000000"&gt;Политику конфиденциальности&lt;/font&gt;.</string>
     <string name="feature_smart_sms">Умные сообщения</string>
-    <string name="feature_smart_sms_summary">"&lt;b&gt;Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню&lt;/b&gt;". Умные сообщения частично предоставлены Yulore. Перед использованием этой функции прочитайте и согласитесь с "&lt;font color="#B3000000"&gt;Политикой конфиденциальности&lt;/font&gt; Yulore."</string>
+    <string name="feature_smart_sms_summary">"&lt;b&gt;Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню&lt;/b&gt;". Умные сообщения частично предоставлены Yulore. Перед использованием этого сервиса прочтите и примите "&lt;font color="#B3000000"&gt;Политику конфиденциальности&lt;/font&gt; Yulore."</string>
     <string name="festival_sms_loading">Загрузка…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Время создания:</string>
@@ -531,7 +531,13 @@
 Это сообщение может быть нежелательным."</string>
     <string name="mms_block_hint_highlight">Блокировка MMS</string>
     <string name="mms_main_purpose">Чтобы использовать все функции, разрешите приложению подключение к интернету, включите Mi Сообщения и Умные сообщения.</string>
+    <string name="mms_mi_message_main_purpose">Добро пожаловать в Mi Сообщения! Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
+    <string name="mms_mi_message_request_notice">Используйте Mi Сообщения с максимальной отдачей</string>
+    <string name="mms_mx_privacy_policy">Политика конфиденциальности Mi Сообщений</string>
+    <string name="mms_smart_msg_main_purpose">Умные сообщения обеспечивают распознавание ID отправителей и услуги интеллектуального меню, выявляют подозрительные сообщения.</string>
+    <string name="mms_smart_msg_privacy_policy">Политика конфиденциальности Умных сообщений</string>
     <string name="mms_title">Сообщения</string>
+    <string name="mms_user_agreement">Пользовательское соглашение</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -621,17 +627,17 @@
     <string name="mx_current_status">Настройки</string>
     <string name="mx_dspt">Бесплатно отправляйте SMS и MMS другим пользователям MIUI при подключении к Wi-Fi</string>
     <string name="mx_dspt_listview">Бесплатно отправляйте сообщения другим пользователям MIUI</string>
-    <string name="mx_dspt_provision">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет. Для повторной активации Mi Сообщений может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
+    <string name="mx_dspt_provision">Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет. Для повторной активации этого сервиса может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора. Кроме того, когда эта функция включена, ей требуется небольшое количество мобильного трафика для проверки статуса адресата. Вы согласны?</string>
     <string name="mx_dspt_provision_ex2">Политика конфиденциальности</string>
     <string name="mx_enable">Mi Сообщения</string>
     <string name="mx_enable_ex">Mi Сообщения и телефония</string>
-    <string name="mx_enable_popup_msg">\"Mi Сообщения\" позволяют бесплатно отправлять сообщения другим пользователям MIUI.</string>
+    <string name="mx_enable_popup_msg">Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI.</string>
     <string name="mx_filter_message_from_stranger">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">Вы по-прежнему сможете получать SMS с неизвестных номеров. Включить или отключить эту функцию можно в разделе Сообщения &gt; Настройки.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Блокировать Mi сообщения с неизвестных номеров</string>
     <string name="mx_filter_message_from_stranger_summary">Вы по-прежнему сможете получать SMS с неизвестных номеров</string>
-    <string name="mx_main_purpose">"\"Mi Сообщения\" позволяют отправлять сообщения другим пользователям MIUI через интернет без дополнительной оплаты.
-Для активации Mi Сообщений потребуется отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение."</string>
+    <string name="mx_main_purpose">"Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет.
+Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение."</string>
     <string name="mx_main_purpose_short">Приложение позволяет пользователям MIUI бесплатно отправлять и получать SMS и MMS сообщения.</string>
     <string name="mx_message">Mi Сообщения</string>
     <string name="mx_msg">Mi Сообщения</string>
@@ -1044,7 +1050,7 @@
     <string name="recommend_mx_dialog_title">Добро пожаловать в Mi Сообщения!</string>
     <string name="recommend_mx_setting_summary">\"Mi Сообщения\" позволяет отправлять сообщения другим пользователям через интернет без дополнительной оплаты.</string>
     <string name="recommend_smart_sms_dialog_title">Добро пожаловать в Умные сообщения!</string>
-    <string name="recommend_smart_sms_setting_summary">Умные сообщения обеспечивает распознавание идентификатора отправителя и интеллектуальные меню.</string>
+    <string name="recommend_smart_sms_setting_summary">Умные сообщения обеспечивают распознавание ID отправителя и интеллектуальные меню.</string>
     <string name="recording_failed">Ошибка записи</string>
     <string name="refill_now">Пополнить</string>
     <string name="refreshing">Обновление…</string>
@@ -1287,18 +1293,22 @@
 Нажатие \"Принимаю\" означает что вы согласны с вышеперечисленным."</string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Добро пожаловать в %1s! 
 %2s"</string>
+    <string name="system_permission_declare_mi_message">Добро пожаловать в Mi Сообщения!</string>
     <string name="system_permission_declare_no_say_no">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Если вы не согласны предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать это приложение.</string>
     <string name="system_permission_declare_privacy_declare">%1s для нормальной работы требуются сбор ваших данных и следующие разрешения:</string>
     <string name="system_permission_declare_privacy_declare_new">Приложению для нормальной работы требуются подключение к интернету и следующие разрешения:</string>
     <string name="system_permission_declare_privacy_link">Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите %1s.</string>
+    <string name="system_permission_declare_rcs">Добро пожаловать в 5G Сообщения!</string>
     <string name="system_permission_declare_revoke_path">Вы можете отменить авторизацию и отключить сервисы в настройках Сообщений.</string>
-    <string name="system_permission_declare_single_link">Прочтите и примите %1s перед использованием этого сервиса.</string>
+    <string name="system_permission_declare_single_link">Перед использованием этого сервиса прочтите и примите %1s.</string>
+    <string name="system_permission_declare_smart_message">Добро пожаловать в Умные сообщения!</string>
     <string name="system_permission_declare_triple_link" formatted="false">"%1s. 
 %2s. 
 %3s. 
 
 Нажатие \"Принимаю\" означает что вы согласны с вышеперечисленным."</string>
     <string name="system_permission_declare_use_network">Подключение к сети</string>
+    <string name="system_permission_declare_user_agree">Принимаю</string>
     <string name="system_permission_disabled">Не предоставлено</string>
     <string name="system_permission_enabled">Предоставлено</string>
     <string name="system_permission_perm_agree_desc">Предоставьте этому приложению доступ к интернету и дополнительные разрешения, чтобы использовать все его функции</string>
@@ -1330,6 +1340,7 @@
     <string name="system_permission_perm_write_mms">Сохранение MMS</string>
     <string name="system_permission_perm_write_sms">Сохранение SMS</string>
     <string name="system_permission_requested">Спросить</string>
+    <string name="system_permission_user_privacy">Прежде чем продолжить, прочтите и примите следующие положения и условия.</string>
     <string name="tab_finance">Финансы</string>
     <string name="tab_message">Сообщения</string>
     <string name="tab_promotions">Реклама</string>

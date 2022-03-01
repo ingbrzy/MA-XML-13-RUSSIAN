@@ -48,6 +48,7 @@
     <string name="alert_message_delete_excerpt">Удалить заметку? Выдержка также будет удалена.</string>
     <string name="alert_message_delete_note">Удалить заметку?</string>
     <string name="alert_message_edit_anyway">Редактирование может привести к потере данных.</string>
+    <string name="alert_message_edit_anyway_new">Заметка содержит неизвестные ресурсы. Редактирование может привести к изменению формата или потере данных.</string>
     <string name="alert_message_restore">Не удалось открыть заметку. Восстановите её для возможности редактирования содержимого.</string>
     <string name="alert_title_delete">Удаление заметок</string>
     <string name="alert_title_edit_anyway">Содержимое не поддерживается</string>
@@ -206,6 +207,7 @@
     <string name="error_send_empty_note">Нельзя отправить пустую заметку</string>
     <string name="error_send_empty_note_to_weibo">Нельзя отправить пустую заметку в Weibo</string>
     <string name="error_unsupport_content">Заметка содержит неизвестные ресурсы, нажмите для обновления</string>
+    <string name="error_unsupport_content_format">Заметка содержит неизвестные ресурсы. Обновитесь до версии %1$s или более поздней.</string>
     <string name="error_widget_exist_for_send_to_desktop">Эта заметка уже есть на рабочем столе</string>
     <string name="evening">После полудня</string>
     <string name="exceed_todo_text_limitation">Описание слишком длинное.</string>
@@ -688,6 +690,12 @@
     <string name="select_account_prompt">Синхронизация заметок</string>
     <string name="send">Отправить</string>
     <string name="set_alarm_description">Установить напоминание</string>
+    <string name="setting_big_screen_layout_columns">Боковая панель</string>
+    <string name="setting_big_screen_layout_flat">Плитка</string>
+    <string name="setting_big_screen_layout_title">Макет для большого экрана</string>
+    <string name="setting_layout">Макет</string>
+    <string name="setting_micloud_sync_title">Синхронизация с облаком</string>
+    <string name="setting_note_list_layout_title">Макет</string>
     <string name="setting_other">ПРОЧЕЕ</string>
     <string name="setting_privacy">Политика конфиденциальности</string>
     <string name="single_link_excerpt_saving">Сохранение…</string>
@@ -934,6 +942,15 @@
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_all_notes">Показать все</string>
+    <string name="warn_cannot_add_new_bullet">Не удалось добавить новый маркированный список, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_checkbox">Не удалось добавить новый флажок, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_doodle">Не удалось добавить новый эскиз, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_element">Не удалось добавить новый элемент, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_link_card">Не удалось добавить новую ссылку, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_picture">Не удалось добавить новое изображение, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_style">Не удалось добавить новый формат, заметка слишком длинная</string>
+    <string name="warn_disable_edit_in_browse_mode">Редактирование заметок в режиме \"только для чтения\" недоступно</string>
+    <string name="warn_enter_browse_mode">Режим \"только для чтения\"</string>
     <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
     <string name="web_sso_login_message">Авторизация…</string>
     <string name="webview_reload">Повторить</string>

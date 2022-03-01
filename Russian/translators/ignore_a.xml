@@ -69,6 +69,7 @@
     <integer-array name="batterymeter_color_levels"></integer-array>
     <array name="batterymeter_color_values"></array>
     <integer-array name="batterymeter_plus_points"></integer-array>
+    <string-array name="big_screen_layouts"></string-array>
     <array name="big_thunder_1"></array>
     <array name="big_thunder_2"></array>
     <string-array name="bing"></string-array>
@@ -466,6 +467,7 @@
     <array name="origin_carrier_names" />
     <string-array name="overlay_display_devices_values"></string-array>
     <string-array name="owner_relation_value"></string-array>
+    <string-array name="pa_day_time_space"></string-array>
     <string-array name="pa_express_sending_providers"></string-array>
     <integer-array name="page_options_values"></integer-array>
     <string-array name="pc_battery_history_spinner_choice"></string-array>

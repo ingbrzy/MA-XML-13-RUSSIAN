@@ -10724,6 +10724,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_protection_tip">MIUI защитит ваши личные данные от запросов Wi-Fi probe, которые могут поступать со случайных MAC-адресов, и анализаторов этих запросов, когда ваше устройство ищет доступные Wi-Fi сети.</string>
     <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_region_summary">Установка региона для Wi-Fi (необходимо переподключение, чтобы применить)</string>
+    <string name="wifi_region_title">Регион Wi-Fi</string>
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_remembered_disabled_auto_connect">Сохранено, без автоподключения</string>
     <string name="wifi_require_sim_card_to_connect">Для подключения требуется SIM-карта</string>

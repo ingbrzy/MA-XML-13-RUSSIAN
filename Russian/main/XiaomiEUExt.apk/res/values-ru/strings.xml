@@ -31,6 +31,7 @@
     <string name="add">Добавить</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">Расширение Xiaomi.eu</string>
+    <string name="auto">Авто</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="confirm_reset">Сброс ярлыков</string>
@@ -226,5 +227,6 @@
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="wifi_region">Регион Wi-Fi</string>
     <string name="yesterday">Вчера</string>
 </resources>

@@ -576,6 +576,10 @@
     <string name="armed_forces_day">军人节</string>
     <string name="armed_forces_day_tradition">軍人節</string>
     <string name="art_still_module_failed">@string/error_install_connect_fail</string>
+    <string name="asp_client1">2882</string>
+    <string name="asp_debug1">9ssA</string>
+    <string name="asp_release1">svIm</string>
+    <string name="asp_sign1">j_zIR</string>
     <string name="assistant_day_suffix">后</string>
     <string name="at_miui_browser">\@小米浏览器</string>
     <string name="atlas_next">左滑进入下一图集</string>

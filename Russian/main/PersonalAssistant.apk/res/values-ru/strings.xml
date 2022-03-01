@@ -1705,6 +1705,7 @@ ID:%s
     <string name="pa_express_empty_extra">Отслеживание</string>
     <string name="pa_express_empty_title">Нет информации</string>
     <string name="pa_express_i_known">ОК</string>
+    <string name="pa_express_input_again">Введите еще раз</string>
     <string name="pa_express_inqiury_select_logistics">Выберите курьерскую службу</string>
     <string name="pa_express_inquiry">Проверить заказ</string>
     <string name="pa_express_inquiry_frequently_used_logistics">Популярные</string>
@@ -1732,6 +1733,9 @@ ID:%s
     <string name="pa_express_provider_miguo">Mi Express</string>
     <string name="pa_express_provider_mimall">Mi Store</string>
     <string name="pa_express_provider_shunfeng">SF Express</string>
+    <string name="pa_express_query_fail_content_input_again">Не удалось найти информацию об экспресс-доставке. Проверьте номер отслеживания и попробуйте еще раз.</string>
+    <string name="pa_express_query_fail_content_manual_select">Не удалось найти информацию об экспресс-доставке. Попробуйте выбрать компанию доставки вручную.</string>
+    <string name="pa_express_query_fail_title">Нет информации</string>
     <string name="pa_express_query_history">История заказов</string>
     <string name="pa_express_send">Отправить</string>
     <string name="pa_express_send_provider_cainiao">Guoguo</string>
@@ -1783,8 +1787,8 @@ ID:%s
     <string name="pa_express_state_unknown">Нет данных</string>
     <string name="pa_express_tail_number">Номер заказа: %1$s</string>
     <string name="pa_express_title">Экспресс-доставка</string>
-    <string name="pa_express_widget_logout">Войдите, чтобы отследить посылки</string>
-    <string name="pa_express_widget_order_42">Отследить посылку</string>
+    <string name="pa_express_widget_logout">Войдите, чтобы просмотреть посылки экспресс-доставки</string>
+    <string name="pa_express_widget_order_42">Введите номер отслеживания</string>
     <string name="pa_express_widget_post">Отправить посылку</string>
     <string name="pa_finish">Готово</string>
     <string name="pa_guide_dialog_desc">Нажмите и удерживайте виджет, чтобы чтобы переместить его. Нажмите \"+\", чтобы добавить виджет.</string>
@@ -1869,6 +1873,7 @@ ID:%s
     <string name="pa_picker_detail_install_tip_un_upgrade">Обновите приложение</string>
     <string name="pa_picker_detail_launcher_screen_lock">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
     <string name="pa_picker_detail_maml_download_error">Ошибка загрузки</string>
+    <string name="pa_picker_detail_maml_downloading">Загрузка…</string>
     <string name="pa_picker_detail_modify_maml">Изменить</string>
     <string name="pa_picker_detail_net_error">Ошибка сети. Нажмите, чтобы повторить попытку.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Подождите…</string>
