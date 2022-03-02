@@ -34,6 +34,65 @@
         <item>Будильник зазвонит через %2$s %3$s</item>
         <item>Будильник зазвонит через %1$s, %2$s %3$s</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="aqi_value">
         <item>Хороший</item>
         <item>Приемлемый</item>
@@ -62,7 +121,7 @@
         <item>Понедельник-пятница</item>
         <item>Рабочие дни</item>
         <item>По выбору</item>
-    </string-array>	
+    </string-array>
     <string-array name="cities_names_miui">
         <item>Абиджан</item>
         <item>Аккра</item>
@@ -652,7 +711,14 @@
         <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
-    </string-array>	
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>В заданное время</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>Отключено</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 минута</item>
         <item>5 минут</item>
@@ -661,15 +727,6 @@
         <item>20 минут</item>
         <item>25 минут</item>
         <item>30 минут</item>
-    </string-array>
-    <string-array name="time">
-        <item>%1$s</item>
-        <item>%2$s</item>
-        <item>%1$s%2$s</item>
-        <item>%3$s</item>
-        <item>%1$s%3$s</item>
-        <item>%2$s%3$s</item>
-        <item>%1$s%2$s%3$s</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Всего %1$s</item>
@@ -680,16 +737,37 @@
         <item>Всего %2$s %3$s</item>
         <item>Всего %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="timezone_alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Нет действий</item>
         <item>Отложить</item>
         <item>Отключить</item>
     </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>В заданное время</item>
-        <item>За 15 минут</item>
-        <item>За 30 минут</item>
-        <item>За 1 час</item>
-        <item>Отключено</item>
-    </string-array>    
 </resources>

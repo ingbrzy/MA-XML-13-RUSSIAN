@@ -1580,7 +1580,7 @@
         <item>VPN-соединение по протоколу IKEv2/IPSec с использованием сертификатов и аутентификацией пользователь/пароль</item>
         <item>VPN-соединение по протоколу IKEv2/IPSec с общими ключами</item>
         <item>VPN-подключение по протоколу IKEv2/IPSec с использованием сертификатов</item>
-    </string-array>	
+    </string-array>
     <string-array name="wfd_status">
         <item>Создание сессии…</item>
         <item>Сессия создана</item>

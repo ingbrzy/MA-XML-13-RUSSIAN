@@ -6,6 +6,12 @@
         <item>Другой</item>
         <item>Новый тип</item>
     </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Новый тип</item>
+    </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
@@ -15,6 +21,13 @@
         <item>Google Talk</item>
         <item>ICQ</item>
         <item>Jabber</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Мобильный интернет</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
     </string-array>
     <string-array name="organizationTypes">
         <item>Рабочий</item>
@@ -36,21 +49,6 @@
         <item>Рабочий</item>
         <item>Другой</item>
         <item>Новый тип</item>
-    </string-array>
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
-    <string-array name="imAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другое</item>
-        <item>Новый тип</item>
-    </string-array>
-    <string-array name="network_switch_type_name">
-        <item>Мобильный интернет</item>
-        <item>Wi-Fi</item>
-        <item>Bluetooth</item>
-        <item>Ethernet</item>
-        <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>Чтобы совершать звонки и отправлять сообщения по Wi-Fi, необходимо подключить эту услугу через оператора связи. После этого вы сможете выбрать этот параметр в настройках. Код ошибки: %1$s.</item>
