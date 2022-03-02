@@ -886,7 +886,7 @@
     <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений.</string>
     <string name="auto_clean_description">"О функции
 1. Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
-2. Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
+2. Если динамик сильно загрязнен, запустите эту функцию 2-5 раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
     <string name="auto_clean_description_pad">"О функции
 - Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
 - Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
@@ -10724,7 +10724,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_protection_tip">MIUI защитит ваши личные данные от запросов Wi-Fi probe, которые могут поступать со случайных MAC-адресов, и анализаторов этих запросов, когда ваше устройство ищет доступные Wi-Fi сети.</string>
     <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
-    <string name="wifi_region_summary">Установка региона для Wi-Fi (необходимо переподключение, чтобы применить)</string>
+    <string name="wifi_region_summary">Требуется перезапуск Wi-Fi, чтобы применить изменения</string>
     <string name="wifi_region_title">Регион Wi-Fi</string>
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_remembered_disabled_auto_connect">Сохранено, без автоподключения</string>

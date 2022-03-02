@@ -483,6 +483,7 @@
     <string name="app_manager_manage_space">Очистить</string>
     <string name="app_manager_memory">ОЗУ</string>
     <string name="app_manager_menu_clear_data">Очистить</string>
+    <string name="app_manager_mobile_slot">Моб. интернет (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Моб. интернет (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Моб. интернет (SIM 2)</string>
     <string name="app_manager_net_control_title">Сетевые подключения</string>
@@ -659,6 +660,9 @@
     <string name="applock_gulide_third_part">Аккаунт будет удален после выхода</string>
     <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
     <string name="applock_lock_all">Выбрать все</string>
+    <string name="applock_lock_mode_locked">При блокировке устройства</string>
+    <string name="applock_lock_mode_locked_or_exit">При блокировке устройства или после выхода из приложения</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait">При блокировке устройства или через %d мин. после выхода из приложения</string>
     <string name="applock_login_and_add_account">Привязать</string>
     <string name="applock_mixtype_hidepwd_icon">Скрыть</string>
     <string name="applock_mixtype_showpwd_icon">Показать</string>
@@ -5143,6 +5147,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_flow_rank">Потребление трафика</string>
     <string name="title_flow_verify">Статистика трафика от оператора</string>
     <string name="title_flow_verify_failed">Не удалось скорректировать 5 дней подряд</string>
+    <string name="title_flow_verify_failed_new">Не удалось скорректировать %d д. подряд</string>
     <string name="title_garbage_clean">Размер кэша приложений достиг %s</string>
     <string name="title_garbage_less">Размер кэша приложений в норме</string>
     <string name="title_garbage_lib">Обновить базы очистки</string>

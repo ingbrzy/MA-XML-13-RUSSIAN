@@ -800,6 +800,7 @@
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
+    <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
@@ -821,6 +822,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="mulit_choice_management">Управление элементами</string>
     <string name="music_browser_label">Музыка</string>
     <string name="music_filter">Фильтр аудиофайлов</string>
@@ -1073,7 +1075,7 @@
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_clip_desc">Выберите фрагмент</string>
-    <string name="select_desc_sub">Вы можете выбрать до 3 языков</string>
+    <string name="select_desc_sub">Вы можете выбрать до %d языков</string>
     <string name="select_device">Выберите устройство</string>
     <string name="select_displayed_folders">Выберите папки</string>
     <string name="select_local_album_cover">Выберите изображение</string>
@@ -1081,8 +1083,8 @@
     <string name="select_local_lyric">Выберите файл</string>
     <string name="select_local_lyric_file">Выберите файл с текстом</string>
     <string name="select_none">Снять выбор</string>
-    <string name="select_one_language">Выберите хотя бы 1 язык</string>
-    <string name="select_three_languages">Вы можете выбрать до 3 языков</string>
+    <string name="select_one_language">Выберите хотя бы %d язык</string>
+    <string name="select_three_languages">Вы можете выбрать до %d языков</string>
     <string name="selected_count">Выбрано %1$d из %2$d</string>
     <string name="send">Отправить</string>
     <string name="send_to_title">Отправить (%1$s)</string>

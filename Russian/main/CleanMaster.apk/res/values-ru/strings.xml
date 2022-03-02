@@ -333,8 +333,8 @@
     <string name="exo_download_failed">Ошибка загрузки</string>
     <string name="exo_download_notification_channel_name">Загрузки</string>
     <string name="exo_download_paused">Загрузки приостановлены</string>
-    <string name="exo_download_paused_for_network">Ожидание сети</string>
-    <string name="exo_download_paused_for_wifi">Ожидание Wi-Fi</string>
+    <string name="exo_download_paused_for_network">Ожидание сети…</string>
+    <string name="exo_download_paused_for_wifi">Ожидание Wi-Fi…</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="facebook_clean_exit_confirm_cancel">Продолжить</string>
