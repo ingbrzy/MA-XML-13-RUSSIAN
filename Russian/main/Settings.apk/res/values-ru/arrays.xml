@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Кнопка</item>
+        <item>Жест</item>
+    </string-array>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Поверх других приложений</item>
+        <item>Панель навигации</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Маленький</item>
+        <item>Большой</item>
+    </string-array>
     <string-array name="aggregate_entries">
         <item>Группировка</item>
         <item>Без группировки</item>
@@ -38,7 +50,7 @@
         <item>Фонарик</item>
         <item>Режим чтения</item>
         <item>Нет действия</item>
-    </string-array>	
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Ежедневно</item>
         <item>По будням</item>
@@ -50,6 +62,65 @@
         <item>По будням</item>
         <item>По выходным</item>
         <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Без анимации</item>
@@ -69,11 +140,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP или CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Внутренний накопитель устройства</item>
@@ -233,7 +299,7 @@
         <item>Отключено</item>
         <item>Отладка</item>
         <item>Подробно</item>
-    </string-array>	
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Добавленные более 30 дней назад</item>
         <item>Добавленные более 60 дней назад</item>
@@ -244,11 +310,6 @@
         <item>Процентный (внутри)</item>
         <item>Процентный (рядом)</item>
         <item>Полоска вверху экрана</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>Не указано</item>
@@ -384,12 +445,17 @@
         <item>" | Активно"</item>
         <item>" | Активно (медиа)"</item>
         <item>" | Активно (устройство)"</item>
-    </string-array>	
+    </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.5 (по умолчанию)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (по умолчанию)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>По умолчанию: %1$d</item>
@@ -398,7 +464,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-    </string-array>    
+    </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 мин.</item>
         <item>5 мин.</item>
@@ -409,7 +475,7 @@
         <item>Отключен</item>
         <item>Включен фильтр</item>
         <item>Включен</item>
-    </string-array>	
+    </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 секунда</item>
         <item>2 секунды</item>
@@ -432,7 +498,7 @@
         <item>Средний размер текста</item>
         <item>Крупный размер текста</item>
         <item>Очень крупный размер текста</item>
-    </string-array>	
+    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Очень мелкий</item>
         <item>Мелкий</item>
@@ -468,7 +534,7 @@
     <string-array name="cdma_system_select_choices">
         <item>Только домашние сети</item>
         <item>Автоматически</item>
-    </string-array>	
+    </string-array>
     <string-array name="change_security_lock_picker">
         <item>Данные лица</item>
         <item>Графический ключ</item>
@@ -802,6 +868,16 @@
         <item>Защита приложений</item>
         <item>Второе пространство</item>
     </string-array>
+    <array name="config_device_lock_need" />
+    <array name="config_order_audio_services" />
+    <array name="config_order_captions_services" />
+    <array name="config_order_display_services" />
+    <array name="config_order_interaction_control_services" />
+    <array name="config_preinstalled_audio_services" />
+    <array name="config_preinstalled_captions_services" />
+    <array name="config_preinstalled_display_services" />
+    <array name="config_settings_slices_accessibility_components" />
+    <array name="config_suppress_injected_tile_keys" />
     <string-array name="connect_mode_entries">
         <item>Совместимость</item>
         <item>Высокая скорость</item>
@@ -810,6 +886,8 @@
         <item>Темный</item>
         <item>Светлый</item>
     </string-array>
+    <array name="data_type_name_miui_mcc_key" />
+    <array name="data_type_name_miui_mcc_value" />
     <string-array name="data_usage_data_range">
         <item>За последние 30 дней</item>
         <item>Цикл использования данных</item>
@@ -841,6 +919,13 @@
         <item>OpenGL (по умолчанию)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
+    <array name="default_camera_package" />
+    <array name="default_dialer_package" />
+    <array name="default_music_package" />
+    <string-array name="default_vol_stream_entries">
+        <item>Рингтон</item>
+        <item>Мультимедиа</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Никогда</item>
         <item>15 сек.</item>
@@ -867,7 +952,7 @@
         <item>Запросить статус сертификата</item>
         <item>Требовать статус сертификата</item>
         <item>Требовать все статусы недоверенных сертификатов</item>
-    </string-array>	
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Нет</item>
         <item>Logcat</item>
@@ -877,7 +962,7 @@
     <string-array name="enabled_networks_subsidy_locked_choices">
         <item>LTE только</item>
         <item>GSM/WCDMA/LTE</item>
-    </string-array>	
+    </string-array>
     <string-array name="entries_font_size">
         <item>Мелкий</item>
         <item>По умолчанию</item>
@@ -906,15 +991,14 @@
         <item>Все уведомления в шторке уведомлений</item>
         <item>Все уведомления в отдельной папке</item>            
     </string-array>
+    <string-array name="fps_list_entries">
+        <item>120 Гц</item>
+        <item>60 Гц</item>
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 дюйма</item>
         <item>4.0 дюйма</item>
         <item>3.5 дюйма</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Нет</item>
@@ -939,7 +1023,7 @@
         <item>Уровень 3</item>
         <item>Уровень 4</item>
         <item>Уровень 5</item>
-    </string-array>	
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Включать экран</item>
         <item>Показывать анимацию</item>
@@ -982,6 +1066,11 @@
         <item>Через 2 минуты</item>
         <item>Через 5 минут</item>
         <item>Никогда</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Небольшая</item>
+        <item>Средняя</item>
+        <item>Большая</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Небольшая</item>
@@ -1072,14 +1161,13 @@
         <item>Процентный (внутри)</item>
         <item>Процентный (рядом)</item>
     </string-array>
-    <string-array name="wide_notch_battery_indicator_style_entries">
-        <item>Графический</item>
-        <item>Процентный (внутри)</item>
-        <item>Процентный (в шторке)</item>
-    </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Поиск</item>
         <item>Настройки</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Нет</item>
@@ -1099,7 +1187,7 @@
         <item>Насыщенные</item>
         <item>Светлые</item>
         <item>Черный и белый</item>
-    </string-array>	
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Разрешить</item>
         <item>Спросить</item>
@@ -1164,12 +1252,12 @@
         <item>LTE, CDMA, EvDo, GSM/WCDMA</item>
         <item>LTE/CDMA</item>
         <item>LTE/GSM/UMTS</item>
-    </string-array>	
+    </string-array>
     <string-array name="preferred_network_mode_gsm_wcdma_choices">
         <item>GSM только</item>
         <item>WCDMA только</item>
         <item>GSM/WCDMA предпочтительно</item>
-    </string-array>	
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Хранилище</item>
         <item>Внешний накопитель</item>
@@ -1245,7 +1333,7 @@
     <string-array name="screen_reader_mode_input_type_selector_titles">
         <item>Одиночное касание</item>
         <item>Двойное касание</item>
-    </string-array>	
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1272,7 +1360,12 @@
         <item>300000</item>
         <item>600000</item>
         <item>2147483645</item>
-    </string-array>	
+    </string-array>
+    <string-array name="screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Спросить</item>
         <item>Запретить</item>
@@ -1332,15 +1425,20 @@
         <item>2 часа</item>
         <item>8 часов</item>
     </string-array>
+    <array name="slice_allowlist_package_names" />
     <string-array name="startup_hips_action">
         <item>Разрешить</item>
         <item>Запретить</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>По умолчанию</item>
+        <item>Компактный</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Четкость</item>
         <item>Наглядность</item>
         <item>Акцент</item>
-    </string-array>	
+    </string-array>
     <string-array name="time_format_entries">
         <item>12-часовой</item>
         <item>24-часовой</item>
@@ -1387,7 +1485,7 @@
         <item>Авто (рекомендуется)</item>
         <item>Насыщенные</item>
         <item>Оригинальные</item>
-    </string-array>    
+    </string-array>
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
         <item>Медленная</item>
@@ -1405,6 +1503,18 @@
         <item>Обычная</item>
         <item>Быстрая</item>
         <item>Очень быстрая</item>    
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TDSCDMA</item>
+        <item>LTE</item>
+        <item>Тройной режим</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Тройной режим</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
@@ -1424,6 +1534,13 @@
         <item>Только зарядка</item>
         <item>USB накопитель</item>
     </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Просветленный</item>
+        <item>Человек</item>
+        <item>Неандерталец</item>
+        <item>Шимпанзе</item>
+        <item>Обезьяна</item>
+    </string-array>
     <string-array name="vip_mode_text">
         <item>Все</item>
         <item>От контактов</item>
@@ -1433,7 +1550,7 @@
     <string-array name="vpn_proxy_settings">
         <item>Не используется</item>
         <item>Ручная настройка</item>
-    </string-array>	
+    </string-array>
     <string-array name="vpn_states">
         <item>Нет подключения</item>
         <item>Инициализация…</item>
@@ -1442,6 +1559,17 @@
         <item>Время ожидания истекло</item>
         <item>Сбой</item>
     </string-array>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+        <item>IKEv2/IPSec MSCHAPv2</item>
+        <item>IKEv2/IPSec PSK</item>
+        <item>IKEv2/IPSec RSA</item>
+    </string-array>
     <string-array name="vpn_types_long">
         <item>VPN-подключение по протоколу PPTP</item>
         <item>VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
@@ -1449,7 +1577,10 @@
         <item>VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
         <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
         <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
-    </string-array>
+        <item>VPN-соединение по протоколу IKEv2/IPSec с использованием сертификатов и аутентификацией пользователь/пароль</item>
+        <item>VPN-соединение по протоколу IKEv2/IPSec с общими ключами</item>
+        <item>VPN-подключение по протоколу IKEv2/IPSec с использованием сертификатов</item>
+    </string-array>	
     <string-array name="wfd_status">
         <item>Создание сессии…</item>
         <item>Сессия создана</item>
@@ -1463,6 +1594,11 @@
         <item>Низкая</item>
         <item>Средняя</item>
         <item>Высокая</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Графический</item>
+        <item>Процентный (внутри)</item>
+        <item>Процентный (в шторке)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Приоритет у Wi-Fi</item>
@@ -1479,7 +1615,7 @@
         <item>Wi-Fi</item>
         <item>Мобильный Интернет</item>
         <item>Только Wi-Fi</item>
-    </string-array>	
+    </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>Мобильный Интернет</item>
@@ -1488,26 +1624,23 @@
         <item>Предпочтительно Ims</item>
         <item>Wi-Fi</item>
         <item>Мобильный Интернет</item>
-    </string-array>	
+    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Подключаться автоматически</item>
         <item>Подключаться вручную</item>
         <item>Всегда спрашивать</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+    <string-array name="wifi_eap_method_tts_strings">
+        <item>AKA основной</item>
     </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Авто</item>
+        <item>Только 5 ГГц</item>
+        <item>Только 2.4 ГГц</item>
+    </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>Нет</item>
+        <item>Да</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -1525,7 +1658,7 @@
         <item>Автоопределение</item>
         <item>Тарифицируемый</item>
         <item>Не тарифицируемый</item>
-    </string-array>	
+    </string-array>
     <string-array name="wifi_p2p_status">
         <item>Подключено</item>
         <item>Приглашено</item>
@@ -1538,28 +1671,10 @@
         <item>PIN-код с обнаруженного устройства</item>
         <item>PIN-код этого устройства</item>
     </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>Нет</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifi_privacy_entries">
         <item>Случайный</item>
         <item>Реальный</item>
-    </string-array>	
+    </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Нет</item>
         <item>Вручную</item>
@@ -1614,6 +1729,10 @@
         <item>Заблокировано</item>
         <item>Временно избегать плохого соединения</item>
     </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
         <item>Поиск…</item>
@@ -1627,7 +1746,7 @@
         <item>Сбой</item>
         <item>Заблокировано</item>
         <item>Временно избегать плохого соединения</item>
-    </string-array>	
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимации</item>
         <item>Анимация 0.5x</item>
@@ -1636,13 +1755,5 @@
         <item>Анимация 2x</item>
         <item>Анимация 5x</item>
         <item>Анимация 10x</item>
-    </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>По умолчанию</item>
-        <item>Компактный</item>
-    </string-array>
-    <string-array name="default_vol_stream_entries">
-        <item>Рингтон</item>
-        <item>Мультимедиа</item>
     </string-array>
 </resources>
