@@ -10639,14 +10639,14 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_link_turbo_app_settings_summary">Выберите приложения, для которых будет доступна эта функция</string>
     <string name="wifi_link_turbo_app_settings_title">Выбор приложений</string>
     <string name="wifi_link_turbo_customize">Выбранные приложения</string>
-    <string name="wifi_link_turbo_customize_summary">Выберите приложения, которые будут работать с помощником WLAN в соответствии с индивидуальными настройками</string>
+    <string name="wifi_link_turbo_customize_summary">Выбрать приложения, для которых будет доступно ускорение</string>
     <string name="wifi_link_turbo_list">Приложения</string>
     <string name="wifi_link_turbo_mode">Режим ускорения</string>
     <string name="wifi_link_turbo_no_app">Нет приложений</string>
     <string name="wifi_link_turbo_off">Откл.</string>
     <string name="wifi_link_turbo_on">Вкл.</string>
     <string name="wifi_link_turbo_recommendation">Рекомендуемые приложения</string>
-    <string name="wifi_link_turbo_recommendation_summary">Получение рекомендаций на основе статистики использования данных</string>
+    <string name="wifi_link_turbo_recommendation_summary">Получать рекомендации на основе статистики использования</string>
     <string name="wifi_link_turbo_summary">Использовать мобильный интернет для увеличения скорости соединения. Использование этой функции может привести к дополнительным расходам.</string>
     <string name="wifi_menu_advanced">Дополнительные функции</string>
     <string name="wifi_menu_configure">Настроить</string>
@@ -10930,7 +10930,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_venue_website_button_text">Открыть сайт</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
-    <string name="wifi_wakeup">Включать Wi-Fi автоматически</string>
+    <string name="wifi_wakeup">Автовключение Wi-Fi</string>
     <string name="wifi_wakeup_location_summary">Включите геолокацию для использования этой функции.</string>
     <string name="wifi_wakeup_negative_button">Отмена</string>
     <string name="wifi_wakeup_positive_button">Включить</string>

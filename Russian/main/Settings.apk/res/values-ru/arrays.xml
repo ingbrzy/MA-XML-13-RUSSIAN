@@ -1513,6 +1513,19 @@
         <item>DHCP</item>
         <item>Пользовательские</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Вспомогательный</item>
+        <item>Полный</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Использовать мобильный интернет при плохом сигнале Wi-Fi</item>
+        <item>Комбинировать Wi-Fi и мобильный интернет</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Автоопределение</item>
+        <item>Тарифицируемый</item>
+        <item>Не тарифицируемый</item>
+    </string-array>	
     <string-array name="wifi_p2p_status">
         <item>Подключено</item>
         <item>Приглашено</item>
