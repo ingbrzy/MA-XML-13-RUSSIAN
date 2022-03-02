@@ -353,7 +353,7 @@
     <string name="permission_list_include">Включая следующие</string>
     <string name="permission_reminders">Уведомления о разрешениях</string>
     <string name="permission_warning_template">Разрешить приложению %1$s %2$s?</string>
-    <string name="permission_warning_template_ask">Приложение %1$s запрашивает следующее разрешение:</string>
+    <string name="permission_warning_template_ask">Разрешить %1$s доступ?</string>
     <string name="permisson_reject_notice_toast_text2">нет разрешения на %1$s.</string>
     <string name="pp_privacy_lab_operator_introduction">Внимание</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
