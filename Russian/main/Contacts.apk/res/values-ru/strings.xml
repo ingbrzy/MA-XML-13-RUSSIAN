@@ -1861,9 +1861,9 @@
     <string name="t9_search_empty_send_sms">Отправить сообщение</string>
     <string name="t9_search_empty_video_call">Видеовызов</string>
     <string name="t9_search_guide_pinyin_title1">Введите цифры для поиска контактов</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false"><font fgcolor="">Э</font><font fgcolor="">К</font>ант\"Введите \"9\" и \"4\", чтобы найти \"ммануил </string>
+    <string name="t9_search_guide_pinyin_title2">Введите \"9\" и \"4\", чтобы найти \"<font fgcolor="">Э</font>ммануил <font fgcolor="">К</font>ант\"</string>
     <string name="t9_search_guide_zhuyin_title1">Введите цифры для поиска контактов</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">Н</font><font fgcolor="">Р</font>аташа Введите \"5\" и \"6\", чтобы найти \"остова\"</string>
+    <string name="t9_search_guide_zhuyin_title2">Введите \"5\" и \"6\", чтобы найти \"<font fgcolor="">Н</font>аташа <font fgcolor="">Р</font>остова\"</string>
     <string name="take_new_photo">Снять новое фото</string>
     <string name="take_photo">Снять фото</string>
     <string name="text_buy_time">Заказ создан</string>
