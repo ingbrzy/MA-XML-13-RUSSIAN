@@ -2280,7 +2280,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="hide_mode_summary_text">Управление фоновой активностью приложений для экономии заряда</string>
     <string name="hide_system_app">Скрыть системные приложения</string>
     <string name="hint_antispam_mode_edit">Особый профиль</string>
-    <string name="hints_handle_item_text_virus">Угроза</string>
+    <string name="hints_handle_item_text_virus">Внимание</string>
     <string name="hints_input_roaming_daily_limit">Введите лимит трафика</string>
     <string name="hints_loading_text">Загрузка…</string>
     <string name="hints_risk_descx_title">Описание:</string>
