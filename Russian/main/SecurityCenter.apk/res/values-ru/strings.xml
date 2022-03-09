@@ -777,7 +777,7 @@
     <string name="auto_task_exit_finish">Задача автоматически завершена</string>
     <string name="auto_task_font_setting_weight_toast">Не удалось настроить толщину этого шрифта</string>
     <string name="auto_task_leave_app">Выйти из %s</string>
-    <string name="auto_task_lock_screen_now">После блокировки экрана</string>
+    <string name="auto_task_lock_screen_now">После блокировки</string>
     <string name="auto_task_loop_exclude_cancel">Отмена зацикленной задачи</string>
     <string name="auto_task_main_title">Центр задач</string>
     <string name="auto_task_mamange_activity_title">Автоматизация действий</string>
@@ -2853,7 +2853,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_masked_item">Скрытие содержимого</string>
     <string name="notification_masked_subtitle">Скрыть содержимое уведомлений защищенных приложений</string>
     <string name="notification_optimize_button_text">Очистить</string>
-    <string name="notification_optimize_message">Очистите память для ускорения работы</string>
+    <string name="notification_optimize_message">Выполните очистку для ускорения работы</string>
     <string name="notification_optimize_title">%d%% памяти занято</string>
     <string name="notification_power_consume_issue_summary">Высокий расход батареи</string>
     <string name="notification_power_consume_suggest_summary">Исправьте проблемы для экономии заряда</string>
@@ -4922,7 +4922,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_open_dark_mode">Включить темный режим</string>
     <string name="task_summary_open_dc_light">Включить устранение мерцания</string>
     <string name="task_summary_open_dial_tone">Включить звук набора номера</string>
-    <string name="task_summary_open_disturb_mode">Включить режим\"Не беспокоить\"</string>
+    <string name="task_summary_open_disturb_mode">Включить режим \"Не беспокоить\"</string>
     <string name="task_summary_open_drive_mode">Включить режим вождения</string>
     <string name="task_summary_open_eye_care_mode">Включить режим чтения</string>
     <string name="task_summary_open_hotspot">Включить точку доступа</string>
@@ -4936,7 +4936,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_open_screen_display">Включить Активный дисплей</string>
     <string name="task_summary_open_system_touch">Включить виброотклик</string>
     <string name="task_summary_open_wlan">Включить Wi-Fi</string>
-    <string name="task_summary_open_zen_mode">Включить режим\"Не беспокоить\"</string>
+    <string name="task_summary_open_zen_mode">Включить режим \"Не беспокоить\"</string>
     <string name="task_title_charge">Зарядка</string>
     <string name="task_title_nfc">NFC</string>
     <string name="tc_cmd_invalid">Недопустимый шаблон</string>
@@ -5111,8 +5111,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_condition_alarm">Будильник</string>
     <string name="title_condition_battery">Батарея</string>
     <string name="title_condition_bluetooth">Bluetooth</string>
-    <string name="title_condition_bluetooth_device">Подключение к устройству Bluetooth</string>
-    <string name="title_condition_bluetooth_disconnect_device">Отключение от устройства Bluetooth</string>
+    <string name="title_condition_bluetooth_device">Подключение к Bluetooth-устройству</string>
+    <string name="title_condition_bluetooth_disconnect_device">Отключение от Bluetooth-устройства</string>
     <string name="title_condition_charge">Зарядка</string>
     <string name="title_condition_connect_wlan">Подключение к Wi-Fi</string>
     <string name="title_condition_disconnect_wlan">Отключение от Wi-Fi</string>

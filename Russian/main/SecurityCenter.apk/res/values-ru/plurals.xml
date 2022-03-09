@@ -1028,8 +1028,8 @@
         <item quantity="few">Доступны обновления для %d приложений.</item>
     </plurals>
     <plurals name="summary_condition_lock_screen_format">
-        <item quantity="other">Через %d мин. после блокировки экрана</item>
-        <item quantity="one">Через %d мин. после блокировки экрана</item>
+        <item quantity="other">Через %d мин. после блокировки</item>
+        <item quantity="one">Через %d мин. после блокировки</item>
     </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">Статистика трафика не синхронизирована с оператором %d дней</item>
