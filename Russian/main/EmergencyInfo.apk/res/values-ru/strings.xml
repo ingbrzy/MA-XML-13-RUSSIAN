@@ -137,6 +137,8 @@
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Использовать для BA</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
@@ -151,6 +153,8 @@
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку.</string>
     <string name="bluetooth_disconnected">Нет подключения</string>
     <string name="bluetooth_disconnecting">Отключение...</string>
+    <string name="bluetooth_dun_profile_summary_connected">Подключено к серверу коммутируемого доступа</string>
+    <string name="bluetooth_dun_profile_summary_use_for">Использовать для коммутируемого доступа к сети</string>
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Включить стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству телефона</string>
@@ -183,6 +187,9 @@
     <string name="bluetooth_profile_a2dp">Профиль A2DP</string>
     <string name="bluetooth_profile_a2dp_high_quality">HD Audio: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD Audio</string>
+    <string name="bluetooth_profile_bc">Профиль BC</string>
+    <string name="bluetooth_profile_broadcast">Трансляция</string>
+    <string name="bluetooth_profile_dun">Коммутируемый доступ к сети</string>
     <string name="bluetooth_profile_headset">Звонки</string>
     <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
     <string name="bluetooth_profile_hid">Профиль HID</string>
@@ -193,6 +200,7 @@
     <string name="bluetooth_profile_pbap">Обмен контактами</string>
     <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами</string>
     <string name="bluetooth_profile_sap">Доступ к SIM-карте</string>
+    <string name="bluetooth_profile_vcp">Регулировка громкости</string>
     <string name="bluetooth_sap_profile_summary_connected">Подключено к точке доступа</string>
     <string name="bluetooth_sap_profile_summary_use_for">Использовать для доступа к SIM-карте</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Глубина кодирования звука при передаче через Bluetooth</string>
@@ -219,6 +227,7 @@
     <string name="bluetooth_show_devices_without_names_summary">Показывать Bluetooth-устройства без названий (только с MAC-адресами)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Компьютер</string>
+    <string name="bluetooth_talkback_group">Группа устройств</string>
     <string name="bluetooth_talkback_headphone">Наушники</string>
     <string name="bluetooth_talkback_headset">Гарнитура</string>
     <string name="bluetooth_talkback_imaging">Камера</string>
@@ -253,6 +262,10 @@
     <string name="clear_all_message">Очистить всю информацию и удалить контакты?</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clock_component_name" />
+    <string name="config_rat_2g">2G</string>
+    <string name="config_rat_3g">3G</string>
+    <string name="config_rat_4g">4G</string>
+    <string name="config_rat_unknown" />
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
@@ -285,7 +298,10 @@
     <string name="data_connection_4g">4G</string>
     <string name="data_connection_4g_plus">4G+</string>
     <string name="data_connection_5g">5G</string>
+    <string name="data_connection_5g_basic">5GBasic</string>
     <string name="data_connection_5g_plus">5G+</string>
+    <string name="data_connection_5g_sa">5GSA</string>
+    <string name="data_connection_5g_uwb">5GUWB</string>
     <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
     <string name="data_connection_carrier_wifi">W+</string>
     <string name="data_connection_cdma">1X</string>
@@ -602,6 +618,8 @@
     <string name="show_touches_summary">Визуализировать касания и жесты</string>
     <string name="simulate_color_space">Имитация аномалии</string>
     <string name="slider_seek_bar_content_description">Проведите двумя пальцами, чтобы активировать</string>
+    <string name="smart_dds_switch">Умное переключение DDS</string>
+    <string name="smart_dds_switch_summary">Разрешить модему умное переключение DDS</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
     <string name="speed_label_okay">OK</string>
@@ -736,6 +754,8 @@
     <string name="wifi_check_password_try_again">Проверьте пароль и повторите попытку</string>
     <string name="wifi_connected_low_quality">Низкое качество</string>
     <string name="wifi_connected_no_internet">Подключено. Интернет отсутствует.</string>
+    <string name="wifi_coverage_extend">Расширение покрытия Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Расширение покрытия Wi-Fi с использованием точки доступа</string>
     <string name="wifi_disabled_by_recommendation_provider">Не подключено из-за низкого качества сети</string>
     <string name="wifi_disabled_generic">Отключено</string>
     <string name="wifi_disabled_network_failure">Ошибка конфигурации IP</string>
@@ -759,6 +779,7 @@
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>
+    <string name="wifi_security_dpp">DPP</string>
     <string name="wifi_security_eap">WPA/WPA2-Enterprise</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
@@ -771,6 +792,7 @@
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">WPA3-Personal</string>
+    <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>

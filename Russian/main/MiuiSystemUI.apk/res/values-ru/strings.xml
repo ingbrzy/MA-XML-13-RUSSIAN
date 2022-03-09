@@ -561,6 +561,8 @@
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
+    <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
+    <string name="bluetooth_bc_profile_summary_use_for">Использовать для BA</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
@@ -616,6 +618,8 @@
     <string name="bluetooth_profile_a2dp">Мультимедийное аудиоустройство</string>
     <string name="bluetooth_profile_a2dp_high_quality">HD Audio: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD Audio</string>
+    <string name="bluetooth_profile_bc">Профиль BC</string>
+    <string name="bluetooth_profile_broadcast">Трансляция</string>
     <string name="bluetooth_profile_dun">Коммутируемый доступ к сети</string>
     <string name="bluetooth_profile_headset">Аудиоустройство телефона</string>
     <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
@@ -628,6 +632,7 @@
     <string name="bluetooth_profile_pbap">Обмен контактами</string>
     <string name="bluetooth_profile_pbap_summary">Использовать для обмена контактами</string>
     <string name="bluetooth_profile_sap">Доступ к SIM карте</string>
+    <string name="bluetooth_profile_vcp">Регулировка громкости</string>
     <string name="bluetooth_sap_profile_summary_connected">Доступ к SIM карте</string>
     <string name="bluetooth_sap_profile_summary_use_for">Использовать для доступа к SIM карте</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Глубина кодирования звука при передаче через Bluetooth</string>
@@ -654,6 +659,7 @@
     <string name="bluetooth_show_devices_without_names_summary">Устройства Bluetooth без имен (только MAC-адреса) будут отображаться</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Компьютер</string>
+    <string name="bluetooth_talkback_group">Группа устройств</string>
     <string name="bluetooth_talkback_headphone">Наушники</string>
     <string name="bluetooth_talkback_headset">Гарнитура</string>
     <string name="bluetooth_talkback_imaging">Камера</string>
@@ -2727,6 +2733,8 @@ mm"</string>
     <string name="small_window_guide_title">Плавающее окно</string>
     <string name="small_window_notification_text">Нажмите, чтобы узнать больше о функции MIUI %d</string>
     <string name="small_window_notification_title">Плавающие окна</string>
+    <string name="smart_dds_switch">Умное переключение DDS</string>
+    <string name="smart_dds_switch_summary">Разрешить модему умное переключение DDS</string>
     <string name="snooze_option_15_min">15 минут</string>
     <string name="snooze_option_1_hour">1 час</string>
     <string name="snooze_option_2_hour">2 часа</string>

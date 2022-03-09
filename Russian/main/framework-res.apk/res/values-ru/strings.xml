@@ -471,6 +471,7 @@
     <string name="config_dozeLongPressSensorType"/>
     <string name="config_dozeTapSensorType"/>
     <string name="config_dozeUdfpsLongPressSensorType" />
+    <string name="config_emergency_apn">sos</string>
     <string name="config_factoryResetPackage" />
     <string name="config_feedbackIntentExtraKey"/>
     <string name="config_feedbackIntentNameKey"/>
