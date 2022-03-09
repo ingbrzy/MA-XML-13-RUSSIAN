@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
     <string-array name="aquarius_info">
         <item>водолей</item>
         <item>Водолей</item>
@@ -55,6 +114,20 @@
         <item>Это и будущие мероприятия</item>
         <item>Все мероприятия</item>
     </string-array>
+    <string-array name="english_complete_months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>	
     <string-array name="gemini_info">
         <item>близнецы</item>
         <item>Близнецы</item>
@@ -74,6 +147,15 @@
         <item>Только в этот раз</item>
         <item>Установить повторное напоминание</item>
     </string-array>
+    <string-array name="panchang_weeks">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
     <string-array name="pisces_info">
         <item>рыбы</item>
         <item>Рыбы</item>
@@ -88,11 +170,6 @@
         <item>Выкл.</item>
         <item>Для всех событий</item>
         <item>Для чувствительных ко времени событий</item>
-    </string-array>
-    <string-array name="prefValues_alerts_popup">
-        <item>нет</item>
-        <item>все</item>
-        <item>умные</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
@@ -326,7 +403,7 @@
         <item>Красноярск</item>
         <item>Бангкок</item>
         <item>Пекин</item>
-		<item>Чунцин</item>
+        <item>Чунцин</item>
         <item>Гонконг</item>
         <item>Макао</item>
         <item>Сингапур</item>
@@ -455,6 +532,34 @@
         <item>Дева</item>
         <item>23.08-22.09</item>
     </string-array>
+    <string-array name="weather_forecasts">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Сильная буря</item>
+        <item>Буря</item>
+        <item>Легкая буря</item>
+        <item>Гроза</item>
+        <item>Ливень</item>
+        <item>Проливной дождь</item>
+        <item>Дождь</item>
+        <item>Легкий дождь</item>
+        <item>Дождь и снег</item>
+        <item>Метель</item>
+        <item>Снегопад</item>
+        <item>Сильный снегопад</item>
+        <item>Снег</item>
+        <item>Легкий снег</item>
+        <item>Сильная пыльная буря</item>
+        <item>Пыльная буря</item>
+        <item>Пыль</item>
+        <item>Легкая пыльная буря</item>
+        <item>Град</item>
+        <item>Взвешенная пыль</item>
+        <item>Дымка</item>
+        <item>Ледяной дождь</item>
+    </string-array>	
     <string-array name="week_header_name">
         <item>ВС</item>
         <item>ПН</item>

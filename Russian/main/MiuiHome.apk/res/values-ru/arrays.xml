@@ -88,8 +88,8 @@
         <item>Пыль</item>
         <item>Пыльная буря</item>
         <item>Град</item>
-        <item>Пыль</item>
-        <item>Смог</item>
+        <item>Взвешенная пыль</item>
+        <item>Дымка</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>По умолчанию</item>
