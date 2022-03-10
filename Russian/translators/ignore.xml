@@ -3865,6 +3865,7 @@
     <string name="setting_key_confirm_send">confirm_send</string>
     <string name="setting_key_contact_add_options">contact_add_options</string>
     <string name="setting_key_default_open_attachment">default_open_attachment</string>
+    <string name="setting_key_delete_message">preference_delete_message</string>
     <string name="setting_key_email_about">email_about</string>
     <string name="setting_key_help_QQ">help_QQ</string>
     <string name="setting_key_help_weixin">help_weixin</string>

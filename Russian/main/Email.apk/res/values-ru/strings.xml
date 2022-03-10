@@ -79,6 +79,7 @@
     <string name="account_settings_description_label">Имя аккаунта</string>
     <string name="account_settings_display">Отображение</string>
     <string name="account_settings_does_not_support_pop">Эта функция не поддерживается протоколом POP3</string>
+    <string name="account_settings_does_not_support_pop_attachment">Протокол POP3 поддерживает автозагрузку вложений, без возможности редактирования</string>
     <string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
     <string name="account_settings_edit_quick_responses_summary">Редактирование быстрых ответов</string>
     <string name="account_settings_enforced_label">Политика</string>
@@ -514,6 +515,10 @@
     <string name="del_account_questionnair_hint">Почему вы хотите удалить этот аккаунт?</string>
     <string name="delete">Удалить</string>
     <string name="delete_contact_content">Удалить этот контакт?</string>
+    <string name="delete_message_dialog_content">Удалить письмо и заблокировать отправителя?</string>
+    <string name="delete_message_dialog_left_button">Удалить и заблокировать</string>
+    <string name="delete_message_dialog_right_button">Удалить</string>
+    <string name="delete_message_dialog_title">Удаление письма</string>
     <string name="delete_message_event">Удалить это приглашение?</string>
     <string name="delete_message_flow">Удалить диалог</string>
     <string name="delete_message_flow_keywords">удалить диалог;удалить перенаправление</string>
@@ -736,6 +741,7 @@
     <string name="from_heading">"От: "</string>
     <string name="general_preference_confirm_delete_label">Подтверждение перед удалением</string>
     <string name="general_preference_confirm_send_label">Подтверждение перед отправкой</string>
+    <string name="general_preference_delete_message_prompt_title">Подтверждение удаления</string>
     <string name="general_preference_load_picture">Загрузить онлайн-изображения</string>
     <string name="general_preference_str_auto_translation">Быстрый перевод</string>
     <string name="general_preference_str_auto_translation_prompt">Скопировать текст для перевода</string>
@@ -804,6 +810,8 @@
     <string name="installing_module">Установка модуля:</string>
     <string name="interact_with_server_error">Не удалось подключиться к серверу</string>
     <string name="invalid_recipient">Адрес %s неверен.</string>
+    <string name="invalid_recipient_dialog_message">Введите действительный адрес электронной почты получателя</string>
+    <string name="invalid_recipient_dialog_title">Не удалось отправить</string>
     <string name="invalid_recipient_title">Неверный получатель</string>
     <string name="invoice_card_amount">Сумма</string>
     <string name="invoice_card_buyer">Получатель</string>
@@ -1485,6 +1493,7 @@
     <string name="request_entity_large">Файл слишком большой</string>
     <string name="request_permission_activity">Требуемые разрешения</string>
     <string name="respond_inline">Вставить в текст</string>
+    <string name="respond_inline_text">Изменить исходное письмо</string>
     <string name="retry">Повтор</string>
     <string name="retry_login">Войти повторно</string>
     <string name="saturday">Суббота</string>
@@ -1584,6 +1593,7 @@
     <string name="show_images_all">Загрузить и показать все изображения</string>
     <string name="show_password">Показать пароль</string>
     <string name="show_server_cet">Просмотр сертификата</string>
+    <string name="shrink">Свернуть</string>
     <string name="sign_in_dialog_office365">Office 365</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook для бизнеса (без календаря)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (с календарем)</string>
