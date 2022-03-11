@@ -186,12 +186,7 @@
 Вы можете изменить функцию ярлыка на другую функцию в Настройки &gt; Дополнительно &gt; Спец. возможности"</string>
     <string name="accessibility_shortcut_single_service_warning_title">Включить %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Чтобы использовать %1$s, нажмите и удерживайте обе кнопки громкости в течение трех секунд.</string>
-    <string name="accessibility_shortcut_toogle_warning">"Чтобы использовать функцию специальных возможностей, когда она включена, нажмите и удерживайте три секунды обе кнопки громкости.
-
-Текущая функция спец. возможностей:
-%1$s
-
-Вы можете изменить ее в Настройки &gt; Дополнительно &gt; Спец. возможности"</string>
+    <string name="accessibility_shortcut_toogle_warning">"Когда функция специальных возможностей включена, нажатие и удержание в течение трех секунд обоих кнопок громкости запустит функцию спец. возможностей"</string>
     <string name="accessibility_shortcut_warning_dialog_title">Использовать быстрое включение?</string>
     <string name="accessibility_system_action_back_label">Назад</string>
     <string name="accessibility_system_action_dismiss_notification_shade">Закрыть шторку уведомлений</string>

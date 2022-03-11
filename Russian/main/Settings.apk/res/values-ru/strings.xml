@@ -6084,7 +6084,7 @@
     <string name="network_connection_errorstate_dialog_message">Произошла ошибка. Приложение отменило запрос на выбор устройства.</string>
     <string name="network_connection_request_dialog_showall">Показать все</string>
     <string name="network_connection_request_dialog_summary">Приложение %1$s хочет использовать временную сеть Wi-Fi для подключения к вашему устройству</string>
-    <string name="network_connection_request_dialog_title">Устройство для %1$s</string>
+    <string name="network_connection_request_dialog_title">Подключение к устройству</string>
     <string name="network_connection_searching_message">Поиск устройства…</string>
     <string name="network_connection_timeout_dialog_message">Устройства не найдены. Убедитесь, что устройство подключено и доступно для подключения.</string>
     <string name="network_connection_timeout_dialog_ok">Повторите попытку</string>

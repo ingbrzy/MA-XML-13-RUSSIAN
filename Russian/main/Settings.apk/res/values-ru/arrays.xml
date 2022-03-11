@@ -941,7 +941,6 @@
         <item>Не проверять</item>
         <item>Запросить статус сертификата</item>
         <item>Требовать статус сертификата</item>
-        <item>Требовать все статусы недоверенных сертификатов</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Нет</item>
@@ -1139,7 +1138,6 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-        <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Медленная скорость из-за большой нагрузки</item>

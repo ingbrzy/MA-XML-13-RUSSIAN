@@ -493,7 +493,7 @@
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="battery_low_button_not_open_power_save">Не сейчас</string>
     <string name="battery_low_button_open_power_save">Включить</string>
-    <string name="battery_low_percent_format">Осталось %d%%</string>
+    <string name="battery_low_percent_format">Осталось %s</string>
     <string name="battery_low_percent_format_hybrid">Осталось %1$s, хватит примерно на %2$s при текущем использовании</string>
     <string name="battery_low_percent_format_hybrid_short">Осталось %1$s, хватит на %2$s</string>
     <string name="battery_low_percent_format_save_mode_closed">Осталось менее %d%% заряда. Зарядите устройство.</string>
@@ -2028,7 +2028,7 @@ mm"</string>
     <string name="notification_aggregate_text">Пометить уведомления от %1$s как неважные</string>
     <string name="notification_alert_title">По умолчанию</string>
     <string name="notification_all_categories">Все категории</string>
-    <string name="notification_app_settings">Настройка: %1$s</string>
+    <string name="notification_app_settings">Настройка</string>
     <string name="notification_appops_ok">ОК</string>
     <string name="notification_appops_settings">Настройки</string>
     <string name="notification_automatic_title">Авто</string>

@@ -601,6 +601,7 @@
     <string-array name="enabled_networks_tdscdma_choices"></string-array>
     <string-array name="enabled_networks_tdscdma_values"></string-array>
     <string-array name="enabled_networks_values"></string-array>
+    <string-array name="english_complete_months"></string-array>
     <string-array name="english_premium_league"></string-array>
     <string-array name="enhanced_4g_lte_mode_sumary_variant"></string-array>
     <string-array name="enhanced_4g_lte_mode_title_variant"></string-array>

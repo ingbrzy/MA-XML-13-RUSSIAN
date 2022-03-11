@@ -612,7 +612,7 @@
     <string name="document_mode_use_hint_text_title">Сканирование документов</string>
     <string name="document_origin">Исходный</string>
     <string name="document_strengthen">Улучшенный</string>
-    <string name="dolly_zoom_capture_tip1">Поместите объект в кадр на расстоянии не менее %d м.</string>
+    <string name="dolly_zoom_capture_tip1">Поместите объект в кадр</string>
     <string name="dolly_zoom_capture_tip2">Постепенно отодвигайтесь от объекта.</string>
     <string name="dolly_zoom_capture_tip3">Объект вне кадра. Начните сначала.</string>
     <string name="dolly_zoom_capture_tip4">Вы отодвинулись слишком далеко. Начните сначала.</string>
@@ -1366,8 +1366,8 @@
     <string name="pref_camera_device_watermark_title">Водяной знак</string>
     <string name="pref_camera_dual_enable_title">Двойная камера</string>
     <string name="pref_camera_dual_sat_enable_title">Двойная SAT камера</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Изменение частоты кадров при низкой освещенности с %1$d до %2$d кадров в секунду для улучшения качества видео</string>
-    <string name="pref_camera_dynamic_frame_rate_summary_new">Автоматическое уменьшение частоты кадров для видео при низкой освещенности или при нагреве</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Автоматическое уменьшение частоты кадров при низкой освещенности или нагреве, для улучшения качества видео</string>
+    <string name="pref_camera_dynamic_frame_rate_summary_new">Автоматическое уменьшение частоты кадров для видео при низкой освещенности или нагреве</string>
     <string name="pref_camera_dynamic_frame_rate_title">Динамическая частота кадров</string>
     <string name="pref_camera_dynamic_frame_rate_title_new">Автовыбор частоты кадров</string>
     <string name="pref_camera_eis_entry_normal">Стабилизация видео</string>

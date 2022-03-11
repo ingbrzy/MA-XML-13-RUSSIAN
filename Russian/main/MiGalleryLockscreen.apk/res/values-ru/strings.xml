@@ -1066,7 +1066,7 @@ mm"</string>
     <string name="wp_lockscreen_enable_title">Слайд-шоу экрана блокировки</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xw_subscribe"/>
     <string name="yesterday">Вчера</string>
 </resources>

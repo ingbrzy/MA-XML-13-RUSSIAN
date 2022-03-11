@@ -3333,6 +3333,7 @@
     <string name="photo_editor_transition_image_view">photo_view</string>
     <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
     <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
+    <string name="photo_view_count">%1$d/%2$d</string>
     <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
     <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
     <string name="picture_preview_image_num">%1$d/%2$d</string>

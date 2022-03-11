@@ -1311,7 +1311,6 @@
     <string name="personal_data_collection_title">Сбор личных данных</string>
     <string name="phone">телефоном</string>
     <string name="photo_load_failed">Не удалось загрузить изображение</string>
-    <string name="photo_view_count">%1$d/%2$d</string>
     <string name="pl_select_age">Укажите возраст</string>
     <string name="please_fill_in_your_mailbox_information2">Введите данные</string>
     <string name="pls_parse_bill_discribe">"Анализируйте счета и информацию о поездках в вашей почте
@@ -1865,7 +1864,7 @@
     <string name="xiaomi_email">Почта</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="xiaomi_under_certification">Авторизация…</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>

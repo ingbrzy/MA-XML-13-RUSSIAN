@@ -1494,7 +1494,7 @@
     <string name="xiaomi_account_service_retry_main_purpose">Для нормальной работы этой функции должны быть включены службы Mi Аккаунта. Включить службы можно включить в Настройки > Приложения.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Новая версия %s</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="yellowpage_recommend_msg">"Проверьте функции обмена сообщениями MIUI"</string>
     <string name="yes">OK</string>
     <string name="yesterday">Вчера</string>

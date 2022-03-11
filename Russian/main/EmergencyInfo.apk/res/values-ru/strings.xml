@@ -345,7 +345,7 @@
     <string name="disabled">Отключено</string>
     <string name="disabled_by_admin">Отключено администратором</string>
     <string name="disabled_by_admin_summary_text">Управляется администратором</string>
-    <string name="dob">(%1$ сек.)</string>
+    <string name="dob">(%1$s)</string>
     <string name="edit_info">Редактирование экстренной информации</string>
     <string name="emergency_action_subtitle">Вызов %1$s …</string>
     <string name="emergency_action_title">Экстренный вызов</string>

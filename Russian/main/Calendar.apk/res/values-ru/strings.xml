@@ -551,7 +551,7 @@
     <string name="life_card_electricity_bill_primary_no_account">Оплата электричества</string>
     <string name="life_card_gas_bill_primary">Оплата газа (счет %1$s)</string>
     <string name="life_card_gas_bill_primary_no_account">Оплата газа</string>
-    <string name="life_card_gas_bill_secondary">Сегодня | %1$s</string>
+    <string name="life_card_gas_bill_secondary">Сегодня</string>
     <string name="life_card_gas_bill_secondary_title">Дата оплаты</string>
     <string name="life_card_loan_primary">Погашение кредита (%1$s)</string>
     <string name="life_card_loan_primary_no_bank">Погашение кредита</string>
@@ -1083,9 +1083,9 @@
     <string name="set_interval">Установить интервал</string>
     <string name="set_reminder">Установить напоминание</string>
     <string name="setting">Настройки</string>
-    <string name="setting_about_calendar_version">"Версия приложения: %1$s-%2$s"</string>
-    <string name="setting_about_imei">"IMEI: %1$s"</string>
-    <string name="setting_about_miui_version">"Версия MIUI: %1$s-%2$s"</string>
+    <string name="setting_about_calendar_version">Версия:</string>
+    <string name="setting_about_imei">IMEI:</string>
+    <string name="setting_about_miui_version">Версия MIUI:</string>
     <string name="setting_about_oaid">OAID: %1$s</string>
     <string name="setting_about_summary">"Версия: "</string>
     <string name="setting_accounts">Аккаунты календаря</string>
@@ -1392,9 +1392,9 @@
     <string name="travel_train_number_text">Поезд</string>
     <string name="travel_train_station">Вокзал</string>
     <string name="trip_card_flight_primary">Рейс: %1$s  %2$s - %3$s</string>
-    <string name="trip_card_hotel_secondary">Проверьте сегодня | %1$s</string>
+    <string name="trip_card_hotel_secondary">Проверьте сегодня</string>
     <string name="trip_card_hotel_secondary_title">День заезда</string>
-    <string name="trip_card_movie_secondary">Смотрите сегодня  | %1$s</string>
+    <string name="trip_card_movie_secondary">Смотрите сегодня | %1$s</string>
     <string name="trip_card_movie_secondary_no_cinema">Смотрите сегодня</string>
     <string name="trip_card_title">Напоминания о поездках</string>
     <string name="trip_card_train_primary">Поезд: %1$s  %2$s - %3$s</string>
