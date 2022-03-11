@@ -29,6 +29,11 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Найдено %d результатов</item>
+        <item quantity="one">Найден %d результат</item>
+        <item quantity="few">Найдено %d результата</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>

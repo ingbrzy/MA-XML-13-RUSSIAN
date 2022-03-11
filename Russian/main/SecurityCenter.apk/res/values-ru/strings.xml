@@ -1865,6 +1865,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_app_not_find">Приложение не найдено</string>
     <string name="gamebox_brightness">Яркость</string>
     <string name="gamebox_browser_not_find">Установите сначала Mi Браузер</string>
+    <string name="gamebox_bullet_chat">Комментарии на экране</string>
     <string name="gamebox_collimator">Коллиматор</string>
     <string name="gamebox_display_1">Цвета по умолчанию</string>
     <string name="gamebox_display_2">Насыщенные цвета</string>
@@ -1966,7 +1967,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_dialog_record_way_ai">AI записи сохраняются в Ускорении игр и хранятся 7 дней.</string>
     <string name="gb_dialog_record_way_finish">Готово</string>
     <string name="gb_dialog_record_way_manual">Запись видео длительностью до 30 секунд вручную</string>
-    <string name="gb_dialog_record_way_setting_tips">Примечание: запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Запись видео длительностью %d-%d сек. вручную</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Повышенный расход заряда батареи и подтормаживание</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Эта функция может вызвать следующие проблемы:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Конфликт с другими программами записи экрана</string>
+    <string name="gb_dialog_record_way_setting_tips">Примечание: запись игровых сессий может приводить к повышенному расходу заряда батареи и подтормаживанию</string>
     <string name="gb_dialog_record_way_title">Выберите метод записи</string>
     <string name="gb_dialog_wlan_wifi_weak">460 мс.</string>
     <string name="gb_first_guide_function_shiled_title">Отключить системные функции, когда включено Ускорение игр</string>
@@ -1996,6 +2001,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_game_video_page_null">Запись ключевых моментов игровых сессий</string>
     <string name="gb_game_video_record_finish_tips">Записи сохранены в Ускорении игр</string>
     <string name="gb_game_video_save">Сохранить</string>
+    <string name="gb_game_video_save_tip">Успешно сохранено</string>
     <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">AI запись</string>
     <string name="gb_game_video_type_manual">Вручную</string>
@@ -2008,6 +2014,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_gpu_driver_update_app_tips">Версия актуальна</string>
     <string name="gb_have_signed">Отметились сегодня</string>
     <string name="gb_manual_record_dialog_del_video_message">Удалить выбранные видео?</string>
+    <string name="gb_manual_video_record_title">Записи</string>
     <string name="gb_msg_completely_shielded">Скрыть сообщения</string>
     <string name="gb_msg_completely_shielded_summary">Скрыть</string>
     <string name="gb_msg_not_shielded_summary">Показать</string>
@@ -2030,13 +2037,22 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_performance_tips">"Производительный режим повышает производительность графики,
 но увеличивает разряд батареи и вероятность перегрева"</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
+    <string name="gb_shoulder_guide_message1">Переместите [Л] в любое функциональное положение для использования с навесным триггером.</string>
+    <string name="gb_shoulder_guide_message2">Действие [1] активируется при нажатии кнопки. Действие [2] активируется при отпускании кнопки.</string>
+    <string name="gb_shoulder_guide_tips1">Откройте панель инструментов и настройте навесные триггеры</string>
+    <string name="gb_shoulder_guide_title1">Действие</string>
+    <string name="gb_shoulder_guide_title2">Последовательность</string>
     <string name="gb_shoulder_key">Навесные триггеры</string>
     <string name="gb_shoulder_key_add_show_btn">Показывать виртуальные кнопки во время игр</string>
-    <string name="gb_shoulder_key_add_tips">Переместите кнопки [Л] и [П] в любое функциональное положение и используйте их с навесными триггерами</string>
+    <string name="gb_shoulder_key_add_tips">Переместите кнопки [Л] и [П] в любое функциональное положение для использования с навесными триггерами</string>
     <string name="gb_shoulder_key_btn_cancel">Сохранить</string>
     <string name="gb_shoulder_key_btn_save_exit">Отмена</string>
     <string name="gb_shoulder_key_circle_left">Л</string>
+    <string name="gb_shoulder_key_circle_left_sub1">Л1</string>
+    <string name="gb_shoulder_key_circle_left_sub2">Л2</string>
     <string name="gb_shoulder_key_circle_right">П</string>
+    <string name="gb_shoulder_key_circle_right_sub1">П1</string>
+    <string name="gb_shoulder_key_circle_right_sub2">П2</string>
     <string name="gb_shoulder_key_dialog_message">Вы можете запустить Ускорение игр одновременным нажатием обоих кнопок навесных триггеров</string>
     <string name="gb_shoulder_key_dialog_txt">Вы можете включить Ускорение игр с помощью навесных триггеров</string>
     <string name="gb_shoulder_key_guide_btn_done">Понятно</string>
@@ -2052,6 +2068,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_shoulder_key_settings_summary">Запуск Ускорения игр нажатием обоих кнопок навесных триггеров</string>
     <string name="gb_shoulder_key_settings_title">Навесные триггеры для Ускорения игр</string>
     <string name="gb_shoulder_key_settings_title_new">Быстрый запуск Ускорения игр</string>
+    <string name="gb_shoulder_set_left_right">Настройка [%s]</string>
+    <string name="gb_shoulder_set_title">Включите навесные триггеры, чтобы настроить их</string>
+    <string name="gb_shoulder_set_title2">Переместите [%s] в любое функциональное положение для использования с навесным триггером</string>
+    <string name="gb_shoulder_single_trigger">Действие</string>
+    <string name="gb_shoulder_subsection_down">Нажатие</string>
+    <string name="gb_shoulder_subsection_trigger">Последовательность</string>
+    <string name="gb_shoulder_subsection_up">Отпускание</string>
+    <string name="gb_shoulder_update_left_right">Редактирование %s</string>
     <string name="gb_sign_gift">Отмечайтесь и получайте награды</string>
     <string name="gb_sign_gift_button_text">Получить</string>
     <string name="gb_sign_notification_summary">Играйте в игры без задержек в сети</string>
@@ -2702,9 +2726,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="nd_result_title_network">Подключение к сети</string>
     <string name="nd_result_title_optimize">Оптимизация сети</string>
     <string name="net_booster">Ускорение сети</string>
-    <string name="net_booster_expire_notification">Сеанс ускорения сети скоро завершится</string>
-    <string name="net_booster_overdue_notification">Сеанс ускорения сети скоро завершится</string>
-    <string name="net_booster_overdue_notification_tip">Сеанс ускорения сети скоро завершится. Продлить сеанс?</string>
+    <string name="net_booster_expire_notification">Сеанс ускорения сети завершается</string>
+    <string name="net_booster_overdue_notification">Сеанс ускорения сети завершается</string>
+    <string name="net_booster_overdue_notification_tip">Сеанс ускорения сети завершается. Продлить сеанс?</string>
     <string name="net_booster_tip">Включите ускорение сети, чтобы сделать Wi-Fi соединение более стабильным и уменьшить задержки</string>
     <string name="net_booster_title">Ускорение сети</string>
     <string name="net_boostering">Ускорение сети</string>
@@ -4059,6 +4083,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="result_sms_title_antispam">Угроза вредоносных ссылок в SMS</string>
     <string name="result_sms_title_auth">Угроза утечки финансовых данных</string>
     <string name="result_wifi_header">Угроза для Wi-Fi</string>
+    <string name="resume">Восстановить</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Доверять этому приложению</string>
     <string name="risk_app_install_agree_checkbox">Я осознаю возможные риски</string>

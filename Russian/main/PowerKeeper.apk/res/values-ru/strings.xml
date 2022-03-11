@@ -124,6 +124,7 @@
     <string name="high_temp_benchmark_state_message">"Устройство слишком горячее. Подождите, когда устройство остынет: "</string>
     <string name="high_temp_state">Перегрев</string>
     <string name="high_temp_state_message">Устройство перегрелось. Мобильный интернет, точка доступа Wi-Fi, GPS и камера будут отключены.</string>
+    <string name="high_temp_state_message_orange_es">Некоторые приложения временно недоступны для повышения производительности устройства.</string>
     <string name="hints_loading_text">Подождите…</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="important_warning">Внимание</string>

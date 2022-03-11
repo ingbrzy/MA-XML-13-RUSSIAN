@@ -1639,6 +1639,7 @@
     <string name="config_usbContaminantActivity">com.android.systemui/com.android.systemui.usb.UsbContaminantActivity</string>
     <string name="config_usbPermissionActivity">com.android.systemui/com.android.systemui.usb.UsbPermissionActivity</string>
     <string name="config_usbResolverActivity">com.android.systemui/com.android.systemui.usb.UsbResolverActivity</string>
+    <string name="config_vendor_wifi_tether_bridge_interface_name">wifi_br0</string>
     <string name="config_videos_storage_category_uri">content://com.android.providers.media.documents/root/videos_root</string>
     <string name="config_wallpaperCropperPackage">com.android.wallpapercropper</string>
     <string name="config_wallpaperManagerServiceName">com.android.server.wallpaper.WallpaperManagerService</string>
@@ -1647,6 +1648,10 @@
     <string name="config_wallpaper_picker_package">com.android.settings</string>
     <string name="config_wifiCoexTableFilepath">/vendor/etc/wifi/coex_table.xml</string>
     <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
+    <string name="config_wifiSoftap2gChannelList" />
+    <string name="config_wifiSoftap5gChannelList" />
+    <string name="config_wifiSoftap60gChannelList" />
+    <string name="config_wifiSoftap6gChannelList" />
     <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
     <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
     <string name="config_wifi_random_mac_oui">DA-A1-19</string>

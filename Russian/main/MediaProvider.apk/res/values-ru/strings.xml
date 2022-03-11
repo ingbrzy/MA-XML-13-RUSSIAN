@@ -42,6 +42,8 @@
     <string name="deny">Запретить</string>
     <string name="grant_dialog_button_allow">Разрешить</string>
     <string name="grant_dialog_button_deny">Отклонить</string>
+    <string name="id_photo">ID ФОТО</string>
+    <string name="my_favorite">Избранное</string>
     <string name="notification_sound_default">Звук уведомления по умолчанию</string>
     <string name="permission_audio">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этой музыки?</string>
     <string name="permission_images">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этого изображения?</string>

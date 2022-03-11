@@ -105,6 +105,8 @@ ID вашего аккаунта: %s"</string>
     <string name="afternoon">После полудня</string>
     <string name="agreement_and_privacy">Условия и положения</string>
     <string name="app_name">Mi Аккаунт</string>
+    <string name="area_code_no_search_result">Ничего не найдено</string>
+    <string name="area_code_search_hint">Поиск страны или региона</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
     <string name="authorize_title">Авторизация</string>
     <string name="bind_facebook">Подключите аккаунт Facebook</string>
@@ -658,7 +660,9 @@ ID:%s
     <string name="passport_talkback_voice_captcha">Голосовой защитный код</string>
     <string name="passport_ticket_login_select_sim_card">Выберите SIM</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM1: %s</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM2: %s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Отмена</string>
     <string name="passport_title_reg">Создание Mi Аккаунта</string>
     <string name="passport_trust_device">Доверять этому устройству</string>

@@ -868,16 +868,6 @@
         <item>Защита приложений</item>
         <item>Второе пространство</item>
     </string-array>
-    <array name="config_device_lock_need" />
-    <array name="config_order_audio_services" />
-    <array name="config_order_captions_services" />
-    <array name="config_order_display_services" />
-    <array name="config_order_interaction_control_services" />
-    <array name="config_preinstalled_audio_services" />
-    <array name="config_preinstalled_captions_services" />
-    <array name="config_preinstalled_display_services" />
-    <array name="config_settings_slices_accessibility_components" />
-    <array name="config_suppress_injected_tile_keys" />
     <string-array name="connect_mode_entries">
         <item>Совместимость</item>
         <item>Высокая скорость</item>
@@ -1425,7 +1415,6 @@
         <item>2 часа</item>
         <item>8 часов</item>
     </string-array>
-    <array name="slice_allowlist_package_names" />
     <string-array name="startup_hips_action">
         <item>Разрешить</item>
         <item>Запретить</item>

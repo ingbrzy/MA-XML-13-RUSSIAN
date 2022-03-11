@@ -769,6 +769,7 @@
     <string name="plugin_ota_messages1">Добавлена поддержка других моделей наушников</string>
     <string name="plugin_ota_messages2">Обновлен фреймворк службы Bluetooth</string>
     <string name="plugin_ota_progress">Обновление…</string>
+    <string name="plugin_ota_tip_text">Перезапустите Bluetooth и связанные с ним системные службы, подключите гарнитуру Bluetooth</string>
     <string name="plugin_start_update">Обновление плагина Bluetooth…</string>
     <string name="plugin_update_failed">"Не удалось обновить. "</string>
     <string name="plugin_update_notification_summary">Включите и выключите Bluetooth, чтобы завершить обновление плагинов</string>

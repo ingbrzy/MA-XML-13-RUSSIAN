@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Принять</string>
-    <string name="config_wifiSoftap2gChannelList" />
-    <string name="config_wifiSoftap5gChannelList" />
-    <string name="config_wifiSoftap60gChannelList" />
-    <string name="config_wifiSoftap6gChannelList" />
     <string name="decline">Отклонить</string>
     <string name="dlg_ok">ОК</string>
     <string name="notification_channel_network_alerts">Оповещения сети</string>

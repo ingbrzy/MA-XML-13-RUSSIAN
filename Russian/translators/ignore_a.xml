@@ -2,8 +2,10 @@
 <resources>
     <string-array name="ADJUST_WHITE_LIST"></string-array>
     <string-array name="ADJUST_WHITE_LIST_GLOBAL"></string-array>
+    <string-array name="MILLET_WHITE_LIST"></string-array>
     <string-array name="MediaControlView_playback_speeds"></string-array>
     <string-array name="PERSIST_PACKAGES"></string-array>
+    <string-array name="WAKEUP_WHITE_LIST"></string-array>
     <string-array name="aborted_intent_actions"></string-array>
     <string-array name="aborted_packages"></string-array>
     <string-array name="aborted_types"></string-array>
@@ -319,6 +321,7 @@
     <string-array name="config_defaultPinnerServiceFiles"></string-array>
     <array name="config_default_vm_number" />
     <array name="config_deviceSpecificSystemServices" />
+    <array name="config_device_lock_need" />
     <array name="config_device_state_postures" />
     <array name="config_disableApkUnlessMatchedSku_skus_list" />
     <array name="config_disableApksUnlessMatchedSku_apk_list" />
@@ -367,6 +370,7 @@
     <array name="config_highRefreshRateBlacklist" />
     <array name="config_hightGrayBrightnessLevels" />
     <array name="config_integrityRuleProviderPackages" />
+    <array name="config_jitzygoteBootImagePinnerServiceFiles" />
     <array name="config_keep_warming_services" />
     <array name="config_keySystemUuidMapping" />
     <integer-array name="config_keyboardTapVibePattern"></integer-array>
@@ -406,12 +410,21 @@
     <integer-array name="config_notification_snooze_times"></integer-array>
     <array name="config_oemUsbModeOverride" />
     <array name="config_optionalIpSecAlgorithms" />
+    <array name="config_order_audio_and_caption_services" />
+    <array name="config_order_audio_services" />
+    <array name="config_order_captions_services" />
+    <array name="config_order_display_services" />
+    <array name="config_order_interaction_control_services" />
     <string-array name="config_order_screen_reader_services"></string-array>
     <integer-array name="config_originalLux"></integer-array>
     <array name="config_packagesExemptFromSuspension" />
     <string-array name="config_panel_keep_observe_uri"></string-array>
     <string-array name="config_pluginWhitelist"></string-array>
     <string-array name="config_preInstalledPackages"></string-array>
+    <array name="config_preinstalled_audio_and_caption_services" />
+    <array name="config_preinstalled_audio_services" />
+    <array name="config_preinstalled_captions_services" />
+    <array name="config_preinstalled_display_services" />
     <string-array name="config_preinstalled_interaction_control_services"></string-array>
     <string-array name="config_preinstalled_screen_reader_services"></string-array>
     <string-array name="config_prioritizedPackages"></string-array>
@@ -432,6 +445,7 @@
     <array name="config_screenThresholdLevels" />
     <integer-array name="config_scrollBarrierVibePattern"></integer-array>
     <array name="config_serialPorts" />
+    <array name="config_settings_slices_accessibility_components" />
     <string-array name="config_show_datatraffic_dialog_mccmnc"></string-array>
     <string-array name="config_show_setpassword_dialog_mccmnc"></string-array>
     <string-array name="config_simless_emergency_rtt_supported_countries"></string-array>
@@ -444,6 +458,7 @@
     <string-array name="config_statusBarIcons"></string-array>
     <string-array name="config_statusBarIconsToExclude"></string-array>
     <array name="config_support_tdscdma_roaming_on_networks" />
+    <array name="config_suppress_injected_tile_keys" />
     <string-array name="config_sysBrightnessFileArray"></string-array>
     <string-array name="config_systemUIServiceComponents"></string-array>
     <string-array name="config_systemUIServiceComponentsPerUser"></string-array>
@@ -460,6 +475,7 @@
     <array name="config_twoDigitNumberPattern" />
     <string-array name="config_udfps_enroll_stage_thresholds"></string-array>
     <array name="config_udfps_sensor_props" />
+    <array name="config_usbHostBlacklist" />
     <array name="config_usbHostDenylist" />
     <array name="config_virtualKeyUpPattern" />
     <integer-array name="config_virtualKeyVibePattern"></integer-array>
@@ -467,6 +483,7 @@
     <string-array name="config_vvmSmsFilterRegexes"></string-array>
     <array name="config_wakeonlan_supported_interfaces" />
     <string-array name="config_wearActivityModeRadios"></string-array>
+    <array name="config_wifi_dual_sap_interfaces" />
     <string-array name="config_xmsfNotificationChannel"></string-array>
     <string-array name="connect_disconnect_vibrate_entries"></string-array>
     <string-array name="connect_disconnect_vibrate_entry_values"></string-array>
@@ -481,6 +498,7 @@
     <string-array name="correct_brightness_video_white_list"></string-array>
     <string-array name="cota_vf_config_disabled_dialpad_tone_mcc_mnc"></string-array>
     <string-array name="country_codes_5ghz_supported"></string-array>
+    <string-array name="country_codes_hid_sap_5GHz_band"></string-array>
     <string-array name="crossSimSpnFormats"></string-array>
     <array name="cross_profile_apps" />
     <string-array name="crypto_fingerprint_fallback_prefixes"></string-array>
@@ -560,6 +578,7 @@
     <string-array name="editing_mode_values"></string-array>
     <string-array name="elderly_man_like_apps"></string-array>
     <string-array name="empty_initial_attach_apn_plmn"></string-array>
+    <string-array name="enable_freeform_sensor_activity"></string-array>
     <string-array name="enable_opengl_traces_values"></string-array>
     <string-array name="enabled_networks_4g_choices"></string-array>
     <string-array name="enabled_networks_cdma_choices"></string-array>
@@ -652,6 +671,7 @@
     <string-array name="gesture_prevent_ringing_entries"></string-array>
     <string-array name="gesture_prevent_ringing_values"></string-array>
     <string-array name="get_fixed_rotation_in_freeform"></string-array>
+    <string-array name="get_rotation_from_display_activity"></string-array>
     <string-array name="get_rotation_from_display_app"></string-array>
     <string-array name="global_criket_match"></string-array>
     <string-array name="global_elderly_man_like_apps"></string-array>
@@ -793,6 +813,8 @@
     <array name="miui_config_quickSettingsAutoAdd" />
     <string-array name="miui_entryvalues_font_size"></string-array>
     <string-array name="miui_feedback_reproductivity"></string-array>
+    <string-array name="miui_first_use_dexopt_black_list"></string-array>
+    <string-array name="miui_first_use_dexopt_list"></string-array>
     <string-array name="miui_lite_fancy_icon_app"></string-array>
     <string-array name="miui_main_update_mirror_support"></string-array>
     <string-array name="miui_nature_sound_array"></string-array>
@@ -977,6 +999,7 @@
     <string-array name="process_display_size_black_list"></string-array>
     <string-array name="process_display_size_protect_list"></string-array>
     <string-array name="process_fg_service_check_list"></string-array>
+    <string-array name="process_light_speed_protect_list"></string-array>
     <string-array name="process_secretly_protect_list"></string-array>
     <array name="process_static_white_list" />
     <string-array name="process_static_white_list_base"></string-array>
@@ -1104,6 +1127,8 @@
     <string-array name="sleepclean_system_forcestop_list"></string-array>
     <string-array name="sleepclean_white_list"></string-array>
     <string-array name="sleepstart_white_list"></string-array>
+    <array name="slice_allowlist_package_names" />
+    <array name="slice_whitelist_package_names" />
     <array name="small_thunder_1"></array>
     <array name="small_thunder_2"></array>
     <string-array name="sms_exclude_category"></string-array>
@@ -1211,6 +1236,7 @@
     <string-array name="time_ticks"></string-array>
     <string-array name="time_units"></string-array>
     <string-array name="tips"></string-array>
+    <string-array name="tmpfs_pkg_list"></string-array>
     <string-array name="top_game_list"></string-array>
     <string-array name="top_video_list"></string-array>
     <string-array name="track_frame_time_values"></string-array>
@@ -1263,6 +1289,7 @@
     <string-array name="uwb_shortcut_entries_values"></string-array>
     <string-array name="values_color_calibration"></string-array>
     <string-array name="values_pref_key_voice_report"></string-array>
+    <array name="vendor_allowed_personal_apps_org_owned_device" />
     <array name="vendor_cross_profile_apps" />
     <array name="vendor_disallowed_apps_managed_device" />
     <array name="vendor_disallowed_apps_managed_profile" />
@@ -1303,12 +1330,17 @@
     <string-array name="white_list_device_level"></string-array>
     <string-array name="white_list_game_app"></string-array>
     <array name="white_list_pass_through_app" />
+    <string-array name="whitelist_hide_summary_in_battery_usage"></string-array>
     <string-array name="widget_sizes"></string-array>
     <string-array name="wifi_ap_band"></string-array>
     <string-array name="wifi_ap_band_config_2G_5G"></string-array>
     <string-array name="wifi_ap_band_config_2G_only"></string-array>
     <string-array name="wifi_ap_band_config_full"></string-array>
     <string-array name="wifi_ap_band_summary"></string-array>
+    <string-array name="wifi_ap_band_vendor_config_full"></string-array>
+    <string-array name="wifi_ap_band_vendor_config_no_dual"></string-array>
+    <string-array name="wifi_ap_band_vendor_summary_full"></string-array>
+    <string-array name="wifi_ap_band_vendor_summary_no_dual"></string-array>
     <string-array name="wifi_ap_hidden_ssid_config"></string-array>
     <string-array name="wifi_ap_security"></string-array>
     <string-array name="wifi_ap_security_with_sae"></string-array>

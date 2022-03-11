@@ -498,9 +498,11 @@
     <string name="sim_card_detection_mobile_not_available">Ну удалось подключиться к сети с помощью этой SIM-карты</string>
     <string name="sim_card_detection_sb_esim">Активировать eSIM ></string>
     <string name="sim_card_detection_sb_nonactivated">Не активирована</string>
+    <string name="sim_card_dial_card">SIM %d - вызовы</string>
     <string name="sim_card_dial_card1">SIM 1 - вызовы</string>
     <string name="sim_card_dial_card2">SIM 2 - вызовы</string>
     <string name="sim_card_do_not_select_dial_card">Выбирать SIM при наборе</string>
+    <string name="sim_card_network_card">SIM %d - интернет</string>
     <string name="sim_card_network_card1">SIM 1 - интернет</string>
     <string name="sim_card_network_card2">SIM 2 - интернет</string>
     <string name="sim_dectection_next">Продолжить</string>

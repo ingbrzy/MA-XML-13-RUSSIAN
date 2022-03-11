@@ -140,6 +140,7 @@
     <string name="dock_tip_splitscreen_portrait_drag">Перетащите панель вертикально, чтобы поменять местами окна приложений</string>
     <string name="dock_tip_splitscreen_portrait_float">Перетащите панель к левому или правому краю экрана, чтобы переключиться на плавающее окно.</string>
     <string name="echo">Эхо</string>
+    <string name="edit_frequent_phrases">Редактировать частые фразы</string>
     <string name="eighthours">8 часов</string>
     <string name="enable_livetalk_summary">Экономьте 70% на исходящих вызовах</string>
     <string name="enable_livetalk_title">Включить пакет пополнения баланса</string>

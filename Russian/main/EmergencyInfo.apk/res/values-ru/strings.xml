@@ -115,6 +115,8 @@
     <string name="apn_settings_not_available">Настройка точки доступа недоступна для этого пользователя</string>
     <string name="app_label">Экстренная информация</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
+    <string name="auto_connect_disable">Автоподключение отключено</string>
+    <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
     <string name="b_negative">B, отрицательная</string>
@@ -365,6 +367,7 @@
     <string name="enable_verbose_vendor_logging">Журнал поставщика</string>
     <string name="enable_verbose_vendor_logging_summary">Включение в отчеты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
     <string name="enabled_by_admin">Включено администратором</string>
+    <string name="enhanced_connectivity">Улучшенное соединение</string>
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>
     <string name="error_icon_content_description">Ошибка</string>
     <string name="expand_button_title">Дополнительно</string>
@@ -396,6 +399,7 @@
     <string name="hdcp_checking_title">Проверка HDCP</string>
     <string name="help_feedback_label">Обратная связь</string>
     <string name="help_label">Справка/отзыв</string>
+    <string name="help_url_imsi_protection" />
     <string name="hh">H/H</string>
     <string name="home">Настройки рабочего стола</string>
     <string name="icon_content_description">Иконка диалога</string>
@@ -405,6 +409,7 @@
     <string name="ims_reg_status_not_registered">Не зарегистрирован</string>
     <string name="ims_reg_status_registered">Зарегистрирован</string>
     <string name="ims_reg_title">Статус сервиса IMS</string>
+    <string name="imsi_protection_warning">Этой сети доступен уникальный идентификатор, который может использоваться для отслеживания местоположения устройства. <annotation id="url">Подробнее</annotation></string>
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
@@ -485,9 +490,11 @@
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
+    <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
+    <string name="mtrl_picker_header_prompt">Выберите дату</string>
     <string name="mtrl_picker_invalid_format">Неверный формат.</string>
     <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
@@ -496,6 +503,7 @@
     <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>
+    <string name="mtrl_picker_range_header_prompt">Выберите диапазон дат</string>
     <string name="mtrl_picker_range_header_title">Диапазон дат</string>
     <string name="mtrl_picker_range_header_unselected">Начало – Окончание</string>
     <string name="mtrl_picker_save">Сохранить</string>
@@ -634,6 +642,7 @@
     <string name="tab_title_contacts">Контакты</string>
     <string name="tab_title_info">Информация</string>
     <string name="tap_pencil">Если это ваше устройство, коснитесь значка карандаша, чтобы добавить информацию, которая будет отображаться здесь в случае чрезвычайной ситуации.</string>
+    <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
     <string name="tap_to_sign_up">Нажмите для регистрации</string>
     <string name="tether_settings_title_all">Модем и точка доступа</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
@@ -804,13 +813,17 @@
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa2_wpa3">WPA2/WPA3</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2_wpa3">WPA/WPA2/WPA3</string>
     <string name="wifi_security_wapi_cert">WAPI-Cert</string>
     <string name="wifi_security_wapi_psk">WAPI-PSK</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA-Personal</string>
     <string name="wifi_security_wpa2">WPA2-Personal</string>
+    <string name="wifi_security_wpa2_wpa3">WPA2/WPA3-Personal</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
+    <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
     <string name="wifi_ssid_is_empty">SSID не может быть пустым</string>
     <string name="wifi_ssid_length_is_max">SSID может содержать до 32 символов</string>
     <string name="wifi_status_mac_randomized">Установлен случайный MAC-адрес</string>

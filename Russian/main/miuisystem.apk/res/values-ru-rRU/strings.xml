@@ -159,9 +159,12 @@ mm"</string>
     <string name="vip_login">Нажмите для входа</string>
     <string name="vip_not_login">Вход не выполнен</string>
     <string name="vip_sign">Подпись:</string>
+    <string name="wallpaper_group_black_gobi_title">Пески Гоби</string>
     <string name="wallpaper_group_black_white_title">Черное и белое</string>
     <string name="wallpaper_group_color_move_title">Жидкие цвета</string>
     <string name="wallpaper_group_concerto_title">Концерт</string>
+    <string name="wallpaper_group_crystallization_subtitle">Красота науки</string>
+    <string name="wallpaper_group_crystallization_title">Кристаллизация</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Тен ван дер Залм</string>
     <string name="wallpaper_group_dynamic_nebula_title">Динамическая туманность</string>
     <string name="wallpaper_group_geometric_subtitle">Рутгер Паулюсс</string>

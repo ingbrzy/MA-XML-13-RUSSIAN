@@ -2773,6 +2773,7 @@
     <string name="default_theme">По умолчанию</string>
     <string name="default_usb_mode">Режим USB</string>
     <string name="default_vol_stream_title">Регулировка громкости</string>
+    <string name="deferred_setup_hintViewTitle">Проверка…</string>
     <string name="delete">Удалить</string>
     <string name="delete_blob_confirmation_text">Вы уверены, что хотите удалить эти общие данные?</string>
     <string name="delete_blob_text">Удаление общих данных</string>
@@ -7723,10 +7724,12 @@ UT-интерфейс: %5$s"</string>
     <string name="sd_card_settings_label">SD-карта</string>
     <string name="sd_data">Данные SD-карты</string>
     <string name="sd_eject">Извлечение SD-карты</string>
+    <string name="sd_eject_new">Извлечение SD-карты</string>
     <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
     <string name="sd_ejecting_summary">Выполняется извлечение</string>
     <string name="sd_ejecting_title">Извлечение</string>
     <string name="sd_format">Форматирование SD-карты</string>
+    <string name="sd_format_new">Форматирование SD-карты</string>
     <string name="sd_format_summary">Удаление всех данных на SD-карте</string>
     <string name="sd_insert_summary">Вставьте SD-карту для подключения</string>
     <string name="sd_memory">SD-карта</string>

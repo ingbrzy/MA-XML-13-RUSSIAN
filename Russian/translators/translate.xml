@@ -413,6 +413,7 @@ ID: %s
     <string name="disabled_by_admin_summary_text">Управляется администратором</string>
     <string name="disconnect">Отключить</string>
     <string name="early_morning">Утро</string>
+    <string name="edit_frequent_phrases">Редактировать частые фразы</string>
     <string name="enable_adb">Отладка по USB</string>
     <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
     <string name="enable_adb_wireless">Беспроводная отладка</string>
@@ -759,6 +760,7 @@ mm"</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
+    <string name="mtrl_picker_header_prompt">Выберите дату</string>
     <string name="mtrl_picker_invalid_format">Неверный формат.</string>
     <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
@@ -767,6 +769,7 @@ mm"</string>
     <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>
+    <string name="mtrl_picker_range_header_prompt">Выберите диапазон дат</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Диапазон дат</string>
     <string name="mtrl_picker_range_header_unselected">Начало – Окончание</string>
