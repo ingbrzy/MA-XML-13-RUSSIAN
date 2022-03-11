@@ -84,7 +84,7 @@
         <item>Устаревшие новости</item>
         <item>Экстремизм</item>
         <item>Скрытая реклама</item>
-        <item>Мне не нравится</item>
+        <item>Не нравится</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Переход по страницам</item>
