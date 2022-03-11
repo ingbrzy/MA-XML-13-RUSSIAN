@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Нет</item>
+        <item>Хиджра Самват</item>
+        <item>Сака Самват</item>
+        <item>Викрам Самват</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>
@@ -127,11 +133,39 @@
         <item>Октябрь</item>
         <item>Ноябрь</item>
         <item>Декабрь</item>
-    </string-array>	
+    </string-array>
     <string-array name="gemini_info">
         <item>близнецы</item>
         <item>Близнецы</item>
         <item>21.05-21.06</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+         <item>Мухаррам</item>
+         <item>Сафар</item>
+         <item>Раби аль-Авваль</item>
+         <item>Раби Аль-Тани</item>
+         <item>Джумада Аль-Авваль</item>
+         <item>Джумада Аль-Тани</item>
+         <item>Раджаб</item>
+         <item>Шабан</item>
+         <item>Рамадан</item>
+         <item>Шавваль</item>
+         <item>Зуль-Када</item>
+         <item>Зуль-Хиджа</item>
+    </string-array>
+    <string-array name="hindi_horoscope_names">
+        <item>Меша</item>
+        <item>Вришабха</item>
+        <item>Митхун</item>
+        <item>Карка</item>
+        <item>Синх</item>
+        <item>Канья</item>
+        <item>Тула</item>
+        <item>Врушика</item>
+        <item>Дхану</item>
+        <item>Макар</item>
+        <item>Кумбха</item>
+        <item>Мина</item>
     </string-array>
     <string-array name="leo_info">
         <item>лев</item>
@@ -181,39 +215,6 @@
         <item>Суббота</item>
         <item>Воскресенье</item>
         <item>Понедельник</item>
-    </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Никогда</item>
@@ -309,7 +310,7 @@
         <item>Возможно</item>
         <item>Нет</item>
     </string-array>
-     <string-array name="response_labels2">
+    <string-array name="response_labels2">
         <item>Оставить без ответа</item>
         <item>Принять</item>
         <item>Решить позже</item>
@@ -333,6 +334,94 @@
         <item>телец</item>
         <item>Телец</item>
         <item>20.04-20.05</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалловы острова</item>
+        <item>Мидуэй</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>Тихоокеанское время</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Горное время</item>
+        <item>Центральная Америка</item>
+        <item>Центральное время</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Восточное время</item>
+        <item>Венесуэла</item>
+        <item>Атлантическое время (Барбадос)</item>
+        <item>Атлантическое время (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилиа</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Среднеатлантическое время</item>
+        <item>Азорские острова</item>
+        <item>Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон</item>
+        <item>Амстердам</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Западноафриканское время</item>
+        <item>Амман</item>
+        <item>Афины</item>
+        <item>Бейрут</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Макао</item>
+        <item>Сингапур</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
     </string-array>
     <string-array name="timezone_labels_v3">
         <item>Маршалловы острова</item>
@@ -426,6 +515,94 @@
         <item>Окленд</item>
         <item>Фиджи</item>
         <item>Тонга</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Тихий океан/Маджуро</item>
+        <item>Тихий океан/Мидуэй</item>
+        <item>Тихий океан/Гонолулу</item>
+        <item>Америка/Анкоридж</item>
+        <item>Америка/Лос-Анджелес</item>
+        <item>Америка/Тихуана</item>
+        <item>Америка/Финикс</item>
+        <item>Америка/Чиуауа</item>
+        <item>Америка/Денвер</item>
+        <item>Америка/Коста-Рика</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Мехико</item>
+        <item>Америка/Реджайна</item>
+        <item>Америка/Богота</item>
+        <item>Америка/Нью-Йорк</item>
+        <item>Америка/Каракас</item>
+        <item>Америка/Барбадос</item>
+        <item>Америка/Галифакс</item>
+        <item>Америка/Манаус</item>
+        <item>Америка/Сантьяго</item>
+        <item>Америка/Сент-Джонс</item>
+        <item>Америка/Сан-Паулу</item>
+        <item>Америка/Аргентина/Буэнос-Айрес</item>
+        <item>Америка/Нуук</item>
+        <item>Америка/Монтевидео</item>
+        <item>Атлантика/Южная_Георгия</item>
+        <item>Атлантика/Азорские_острова</item>
+        <item>Атлантика/Кабо-Верде</item>
+        <item>Африка/Касабланка</item>
+        <item>Европа/Лондон</item>
+        <item>Европа/Амстердам</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Брюссель</item>
+        <item>Европа/Сараево</item>
+        <item>Африка/Виндхук</item>
+        <item>Африка/Браззавиль</item>
+        <item>Азия/Амман</item>
+        <item>Европа/Афины</item>
+        <item>Азия/Бейрут</item>
+        <item>Африка/Каир</item>
+        <item>Европа/Хельсинки</item>
+        <item>Азия/Иерусалим</item>
+        <item>Европа/Минск</item>
+        <item>Африка/Хараре</item>
+        <item>Азия/Багдад</item>
+        <item>Европа/Москва</item>
+        <item>Азия/Кувейт</item>
+        <item>Африка/Найроби</item>
+        <item>Азия/Тегеран</item>
+        <item>Азия/Баку</item>
+        <item>Азия/Тбилиси</item>
+        <item>Азия/Ереван</item>
+        <item>Азия/Дубай</item>
+        <item>Азия/Кабул</item>
+        <item>Азия/Карачи</item>
+        <item>Азия/Уральск</item>
+        <item>Азия/Екатеринбург</item>
+        <item>Азия/Калькутта</item>
+        <item>Азия/Шри-Ланка</item>
+        <item>Азия/Катманду</item>
+        <item>Азия/Астана</item>
+        <item>Азия/Янгон</item>
+        <item>Азия/Красноярск</item>
+        <item>Азия/Бангкок</item>
+        <item>Азия/Пекин</item>
+        <item>Азия/Гонконг</item>
+        <item>Азия/Макао</item>
+        <item>Азия/Сингапур</item>
+        <item>Азия/Иркутск</item>
+        <item>Азия/Куала-Лумпур</item>
+        <item>Австралия/Перт</item>
+        <item>Азия/Тайбэй</item>
+        <item>Азия/Сеул</item>
+        <item>Азия/Токио</item>
+        <item>Азия/Якутск</item>
+        <item>Австралия/Аделаида</item>
+        <item>Австралия/Дарвин</item>
+        <item>Австралия/Брисбен</item>
+        <item>Австралия/Хобарт</item>
+        <item>Австралия/Сидней</item>
+        <item>Азия/Владивосток</item>
+        <item>Тихий океан/Гуам</item>
+        <item>Азия/Магадан</item>
+        <item>Тихий океан/Окленд</item>
+        <item>Тихий океан/Фиджи</item>
+        <item>Тихий океан/Тонга</item>
     </string-array>
     <string-array name="timezone_values_v3">
         <item>Тихий океан/Маджуро</item>
@@ -527,6 +704,20 @@
         <item>За 6 часов</item>
         <item>За 1 день</item>
     </string-array>
+    <string-array name="vikrami_samvat_month_names">
+         <item>Чайтра</item>
+         <item>Вайшакха</item>
+         <item>Джьештха</item>
+         <item>Ашадха</item>
+         <item>Шравана</item>
+         <item>Бхадрапада</item>
+         <item>Ашвина</item>
+         <item>Картика</item>
+         <item>Маргаширша</item>
+         <item>Пауша</item>
+         <item>Магха</item>
+         <item>Пхальгуна</item>
+    </string-array>
     <string-array name="virgo_info">
         <item>дева</item>
         <item>Дева</item>
@@ -559,7 +750,7 @@
         <item>Взвешенная пыль</item>
         <item>Дымка</item>
         <item>Ледяной дождь</item>
-    </string-array>	
+    </string-array>
     <string-array name="week_header_name">
         <item>ВС</item>
         <item>ПН</item>

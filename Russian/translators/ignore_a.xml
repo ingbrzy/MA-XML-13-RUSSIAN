@@ -13,6 +13,11 @@
     <string-array name="accessibility_timeout_control_selector_keys"></string-array>
     <integer-array name="accessibility_timeout_selector_values"></integer-array>
     <string-array name="accessibility_timeout_summaries"></string-array>
+    <array name="account_birthday"></array>
+    <array name="account_preset1"></array>
+    <array name="account_preset2"></array>
+    <array name="account_preset3"></array>
+    <array name="account_preset4"></array>
     <string-array name="account_providers"></string-array>
     <string-array name="account_settings_check_frequency_entries"></string-array>
     <string-array name="account_settings_check_frequency_entries_imap_push"></string-array>
@@ -33,6 +38,7 @@
     <string-array name="account_settings_message_load_imap_eas_values"></string-array>
     <string-array name="account_settings_message_load_pop3_entries"></string-array>
     <string-array name="account_settings_message_load_pop3_values"></string-array>
+    <array name="account_xiaomi"></array>
     <string-array name="ad_address_list_ignore"></string-array>
     <string-array name="add_wifi_security"></string-array>
     <string-array name="add_wifi_security_with_sae"></string-array>
@@ -45,6 +51,7 @@
     <string-array name="alert_reminder_interval_active_values"></string-array>
     <string-array name="alert_reminder_interval_values"></string-array>
     <string-array name="alipay_CountryCodes"></string-array>
+    <integer-array name="allday_reminder_minutes_values"></integer-array>
     <string-array name="allowlist_hide_entry_in_battery_usage"></string-array>
     <array name="allowlist_hide_summary_in_battery_usage" />
     <string-array name="always_enabled_app_list"></string-array>
@@ -63,6 +70,9 @@
     <array name="app_locating_animation_scaler"></array>
     <string-array name="app_process_limit_values"></string-array>
     <string-array name="apply_icon_choices"></string-array>
+    <array name="aqi_level_bg_colors"></array>
+    <array name="aqi_level_content_colors"></array>
+    <string-array name="aqi_level_simple_desc"></string-array>
     <string-array name="aritst_area_filter"></string-array>
     <string-array name="aritst_area_filter_api"></string-array>
     <string-array name="aritst_gender_filter"></string-array>
@@ -164,6 +174,7 @@
     <array name="bt_icon_fg_colors"></array>
     <string-array name="buffer_size_names"></string-array>
     <string-array name="buffer_size_values"></string-array>
+    <string-array name="bundesliga"></string-array>
     <string-array name="button_light_timeout_value"></string-array>
     <string-array name="bypass_private_route"></string-array>
     <array name="bytes_picker_sizes"></array>
@@ -237,45 +248,32 @@
     <array name="config_allowedGlobalInstantAppSettings" />
     <array name="config_allowedSecureInstantAppSettings" />
     <array name="config_allowedSystemInstantAppSettings" />
-    <integer-array name="config_ambientBrighteningThresholds">
-    </integer-array>
-    <integer-array name="config_ambientDarkeningThresholds">
-    </integer-array>
+    <integer-array name="config_ambientBrighteningThresholds"></integer-array>
+    <integer-array name="config_ambientDarkeningThresholds"></integer-array>
     <array name="config_ambientThresholdLevels" />
     <array name="config_ambientThresholdsOfPeakRefreshRate" />
-    <integer-array name="config_apfEthTypeBlackList">
-    </integer-array>
-    <string-array name="config_appsToPin">
-    </string-array>
+    <integer-array name="config_apfEthTypeBlackList"></integer-array>
+    <string-array name="config_appsToPin"></string-array>
     <array name="config_autoBrightnessButtonBacklightValues" />
     <array name="config_autoBrightnessDisplayValuesNits" />
-    <integer-array name="config_autoBrightnessGame">
-    </integer-array>
+    <integer-array name="config_autoBrightnessGame"></integer-array>
     <array name="config_autoBrightnessKeyboardBacklightValues" />
     <array name="config_autoBrightnessLcdBacklightValues" />
     <array name="config_autoBrightnessLevels" />
-    <integer-array name="config_autoRotationTiltTolerance">
-    </integer-array>
+    <integer-array name="config_autoRotationTiltTolerance"></integer-array>
     <string-array name="config_autoSwitchEarpieceDevices"></string-array>
-    <string-array name="config_autoTimeSourcesPriority">
-    </string-array>
+    <string-array name="config_autoTimeSourcesPriority"></string-array>
     <array name="config_availableColorModes" />
-    <array name="config_backGestureInsetScales">
-    </array>
+    <array name="config_backGestureInsetScales"></array>
     <array name="config_batteryPackageTypeService" />
-    <string-array name="config_batteryPackageTypeSystem">
-    </string-array>
-    <string-array name="config_biometric_sensors">
-    </string-array>
+    <string-array name="config_batteryPackageTypeSystem"></string-array>
+    <string-array name="config_biometric_sensors"></string-array>
     <array name="config_blockFloatPackages" />
     <array name="config_blockKeyguardPackages" />
     <array name="config_brightnessThresholdsOfPeakRefreshRate" />
-    <integer-array name="config_calendarDateVibePattern">
-    </integer-array>
-    <string-array name="config_callBarringMMI">
-    </string-array>
-    <string-array name="config_callBarringMMI_for_ims">
-    </string-array>
+    <integer-array name="config_calendarDateVibePattern"></integer-array>
+    <string-array name="config_callBarringMMI"></string-array>
+    <string-array name="config_callBarringMMI_for_ims"></string-array>
     <integer-array name="config_cameraLaunchGestureVibePattern"></integer-array>
     <string-array name="config_canCustomNotificationAppIcon"></string-array>
     <string-array name="config_canSendSubstituteNotificationPackages"></string-array>
@@ -286,8 +284,7 @@
     <array name="config_cell_retries_per_error_code" />
     <string-array name="config_charge_supportWirelessStrongSuper"></string-array>
     <string-array name="config_charge_support_lite"></string-array>
-    <integer-array name="config_clockTickVibePattern">
-    </integer-array>
+    <integer-array name="config_clockTickVibePattern"></integer-array>
     <string-array name="config_color_mode_options_strings"></string-array>
     <integer-array name="config_color_mode_options_values"></integer-array>
     <array name="config_companionDeviceCerts" />
@@ -297,50 +294,37 @@
     <array name="config_countries_to_enable_shortcut_view" />
     <array name="config_defaultFirstUserRestrictions" />
     <array name="config_defaultImperceptibleKillingExemptionPkgs" />
-    <integer-array name="config_defaultImperceptibleKillingExemptionProcStates">
-    </integer-array>
+    <integer-array name="config_defaultImperceptibleKillingExemptionProcStates"></integer-array>
     <integer-array name="config_defaultNotificationVibePattern"></integer-array>
-    <string-array name="config_defaultPinnerServiceFiles">
-    </string-array>
+    <string-array name="config_defaultPinnerServiceFiles"></string-array>
     <array name="config_default_vm_number" />
     <array name="config_deviceSpecificSystemServices" />
     <array name="config_device_state_postures" />
     <array name="config_disableApkUnlessMatchedSku_skus_list" />
     <array name="config_disableApksUnlessMatchedSku_apk_list" />
     <string-array name="config_disableAutoGroupSummaryPackages"></string-array>
-    <string-array name="config_disabledUntilUsedPreinstalledImes">
-    </string-array>
+    <string-array name="config_disabledUntilUsedPreinstalledImes"></string-array>
     <array name="config_displayCompositionColorModes" />
     <array name="config_displayCompositionColorSpaces" />
     <array name="config_displayWhiteBalanceAmbientColorTemperatures" />
-    <array name="config_displayWhiteBalanceBaseThresholds">
-    </array>
-    <array name="config_displayWhiteBalanceDecreaseThresholds">
-    </array>
+    <array name="config_displayWhiteBalanceBaseThresholds"></array>
+    <array name="config_displayWhiteBalanceDecreaseThresholds"></array>
     <array name="config_displayWhiteBalanceDisplayColorTemperatures" />
-    <string-array name="config_displayWhiteBalanceDisplayNominalWhite">
-    </string-array>
-    <string-array name="config_displayWhiteBalanceDisplayPrimaries">
-    </string-array>
+    <string-array name="config_displayWhiteBalanceDisplayNominalWhite"></string-array>
+    <string-array name="config_displayWhiteBalanceDisplayPrimaries"></string-array>
     <array name="config_displayWhiteBalanceHighLightAmbientBiases" />
     <array name="config_displayWhiteBalanceHighLightAmbientBrightnesses" />
-    <array name="config_displayWhiteBalanceIncreaseThresholds">
-    </array>
-    <array name="config_displayWhiteBalanceLowLightAmbientBiases">
-    </array>
-    <array name="config_displayWhiteBalanceLowLightAmbientBrightnesses">
-    </array>
-    <string-array name="config_display_no_service_when_sim_unready">
-    </string-array>
+    <array name="config_displayWhiteBalanceIncreaseThresholds"></array>
+    <array name="config_displayWhiteBalanceLowLightAmbientBiases"></array>
+    <array name="config_displayWhiteBalanceLowLightAmbientBrightnesses"></array>
+    <string-array name="config_display_no_service_when_sim_unready"></string-array>
     <string-array name="config_downloaded_services"></string-array>
     <integer-array name="config_doze_brightness_sensor_to_brightness"></integer-array>
     <integer-array name="config_doze_brightness_sensor_to_scrim_opacity"></integer-array>
     <string-array name="config_drip_left_statusBarIcons"></string-array>
     <string-array name="config_drip_right_block_statusBarIcons"></string-array>
-    <string-array name="config_dropboxLowPriorityTags">
-    </string-array>
-    <string-array name="config_emergency_iso_country_codes">
-    </string-array>
+    <string-array name="config_dropboxLowPriorityTags"></string-array>
+    <string-array name="config_emergency_iso_country_codes"></string-array>
     <array name="config_ephemeralResolverPackage" />
     <array name="config_ethernet_interfaces" />
     <string-array name="config_except_charge_support_lite"></string-array>
@@ -352,10 +336,8 @@
     <array name="config_face_acquire_vendor_keyguard_ignorelist" />
     <array name="config_foldedDeviceStates" />
     <string-array name="config_forbidenLongScreenshot"></string-array>
-    <string-array name="config_forceQueryablePackages">
-    </string-array>
-    <string-array name="config_globalActionsList">
-    </string-array>
+    <string-array name="config_forceQueryablePackages"></string-array>
+    <string-array name="config_globalActionsList"></string-array>
     <array name="config_hideWhenDisabled_packageNames" />
     <array name="config_highAmbientBrightnessThresholdsOfFixedRefreshRate" />
     <array name="config_highDisplayBrightnessThresholdsOfFixedRefreshRate" />
@@ -363,47 +345,31 @@
     <array name="config_integrityRuleProviderPackages" />
     <array name="config_keep_warming_services" />
     <array name="config_keySystemUuidMapping" />
-    <integer-array name="config_keyboardTapVibePattern">
-    </integer-array>
-    <string-array name="config_legacyPinnerServiceFiles">
-    </string-array>
+    <integer-array name="config_keyboardTapVibePattern"></integer-array>
+    <string-array name="config_legacyPinnerServiceFiles"></string-array>
     <string-array name="config_legacy_networktype_restore_timers"></string-array>
     <string-array name="config_load_only_fiveg_apns"></string-array>
     <array name="config_localPrivateDisplayPorts" />
     <array name="config_locationDriverAssistancePackageNames" />
-    <string-array name="config_locationExtraPackageNames">
-    </string-array>
-    <string-array name="config_locationProviderPackageNames">
-    </string-array>
-    <integer-array name="config_longPressOnPowerDurationSettings">
-    </integer-array>
-    <integer-array name="config_longPressVibePattern">
-    </integer-array>
-    <integer-array name="config_lteDbmThresholds">
-    </integer-array>
-    <integer-array name="config_mappedColorModes">
-    </integer-array>
-    <array name="config_minimumBrightnessCurveLux">
-    </array>
-    <array name="config_minimumBrightnessCurveNits">
-    </array>
-    <string-array name="config_miuiNonBlockableNotificationPackages">
-    </string-array>
+    <string-array name="config_locationExtraPackageNames"></string-array>
+    <string-array name="config_locationProviderPackageNames"></string-array>
+    <integer-array name="config_longPressOnPowerDurationSettings"></integer-array>
+    <integer-array name="config_longPressVibePattern"></integer-array>
+    <integer-array name="config_lteDbmThresholds"></integer-array>
+    <integer-array name="config_mappedColorModes"></integer-array>
+    <array name="config_minimumBrightnessCurveLux"></array>
+    <array name="config_minimumBrightnessCurveNits"></array>
+    <string-array name="config_miuiNonBlockableNotificationPackages"></string-array>
     <array name="config_mobile_hotspot_provision_app" />
     <array name="config_mobile_tcp_buffers" />
     <array name="config_networkNotifySwitches" />
     <string-array name="config_networkSupportedKeepaliveCount"></string-array>
-    <string-array name="config_nightDisplayColorTemperatureCoefficients">
-    </string-array>
-    <string-array name="config_nightDisplayColorTemperatureCoefficientsNative">
-    </string-array>
-    <string-array name="config_nonBlockableNotificationPackages">
-    </string-array>
-    <integer-array name="config_notificationFallbackVibePattern">
-    </integer-array>
+    <string-array name="config_nightDisplayColorTemperatureCoefficients"></string-array>
+    <string-array name="config_nightDisplayColorTemperatureCoefficientsNative"></string-array>
+    <string-array name="config_nonBlockableNotificationPackages"></string-array>
+    <integer-array name="config_notificationFallbackVibePattern"></integer-array>
     <array name="config_notificationMsgPkgsAllowedAsConvos" />
-    <string-array name="config_notificationSignalExtractors">
-    </string-array>
+    <string-array name="config_notificationSignalExtractors"></string-array>
     <integer-array name="config_notification_snooze_times"></integer-array>
     <array name="config_oemUsbModeOverride" />
     <array name="config_optionalIpSecAlgorithms" />
@@ -415,28 +381,21 @@
     <string-array name="config_preinstalled_interaction_control_services"></string-array>
     <string-array name="config_preinstalled_screen_reader_services"></string-array>
     <string-array name="config_prioritizedPackages"></string-array>
-    <string-array name="config_priorityOnlyDndExemptPackages">
-    </string-array>
+    <string-array name="config_priorityOnlyDndExemptPackages"></string-array>
     <integer-array name="config_protectedNetworks"></integer-array>
     <string-array name="config_quickSettingsAutoAdd"></string-array>
     <string-array name="config_rcs_provision_error_on_publish_response"></string-array>
-    <string-array name="config_reduceBrightColorsCoefficients">
-    </string-array>
-    <string-array name="config_reduceBrightColorsCoefficientsNonlinear">
-    </string-array>
+    <string-array name="config_reduceBrightColorsCoefficients"></string-array>
+    <string-array name="config_reduceBrightColorsCoefficientsNonlinear"></string-array>
     <array name="config_restrictedImagesServices" />
     <array name="config_ringtoneEffectUris" />
-    <integer-array name="config_safeModeEnabledVibePattern">
-    </integer-array>
-    <integer-array name="config_screenBrighteningThresholds">
-    </integer-array>
+    <integer-array name="config_safeModeEnabledVibePattern"></integer-array>
+    <integer-array name="config_screenBrighteningThresholds"></integer-array>
     <array name="config_screenBrightnessBacklight" />
     <array name="config_screenBrightnessNits" />
-    <integer-array name="config_screenDarkeningThresholds">
-    </integer-array>
+    <integer-array name="config_screenDarkeningThresholds"></integer-array>
     <array name="config_screenThresholdLevels" />
-    <integer-array name="config_scrollBarrierVibePattern">
-    </integer-array>
+    <integer-array name="config_scrollBarrierVibePattern"></integer-array>
     <array name="config_serialPorts" />
     <string-array name="config_show_datatraffic_dialog_mccmnc"></string-array>
     <string-array name="config_show_setpassword_dialog_mccmnc"></string-array>
@@ -450,33 +409,25 @@
     <array name="config_support_tdscdma_roaming_on_networks" />
     <string-array name="config_systemUIServiceComponents"></string-array>
     <string-array name="config_systemUIServiceComponentsPerUser"></string-array>
-    <string-array name="config_system_condition_providers">
-    </string-array>
+    <string-array name="config_system_condition_providers"></string-array>
     <array name="config_telephonyEuiccDeviceCapabilities" />
-    <string-array name="config_telephonyHardware">
-    </string-array>
+    <string-array name="config_telephonyHardware"></string-array>
     <array name="config_testLocationProviders" />
     <array name="config_tether_bluetooth_regexs" />
     <array name="config_tether_dhcp_range" />
-    <integer-array name="config_tether_upstream_types">
-    </integer-array>
+    <integer-array name="config_tether_upstream_types"></integer-array>
     <array name="config_tether_usb_regexs" />
     <array name="config_tether_wifi_regexs" />
-    <string-array name="config_toastCrossUserPackages">
-    </string-array>
+    <string-array name="config_toastCrossUserPackages"></string-array>
     <array name="config_twoDigitNumberPattern" />
-    <string-array name="config_udfps_enroll_stage_thresholds">
-    </string-array>
+    <string-array name="config_udfps_enroll_stage_thresholds"></string-array>
     <array name="config_udfps_sensor_props" />
     <array name="config_usbHostDenylist" />
-    <integer-array name="config_virtualKeyVibePattern">
-    </integer-array>
+    <integer-array name="config_virtualKeyVibePattern"></integer-array>
     <string-array name="config_volte_provision_error_on_publish_response"></string-array>
-    <string-array name="config_vvmSmsFilterRegexes">
-    </string-array>
+    <string-array name="config_vvmSmsFilterRegexes"></string-array>
     <array name="config_wakeonlan_supported_interfaces" />
-    <string-array name="config_wearActivityModeRadios">
-    </string-array>
+    <string-array name="config_wearActivityModeRadios"></string-array>
     <string-array name="config_xmsfNotificationChannel"></string-array>
     <string-array name="connect_disconnect_vibrate_entries"></string-array>
     <string-array name="connect_disconnect_vibrate_entry_values"></string-array>
@@ -485,18 +436,13 @@
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_values"></string-array>
     <string-array name="coolsound_area_mash_up"></string-array>
-    <array name="correct_brightness_game">
-    </array>
-    <string-array name="correct_brightness_game_white_list">
-    </string-array>
-    <array name="correct_brightness_video">
-    </array>
-    <string-array name="correct_brightness_video_white_list">
-    </string-array>
+    <array name="correct_brightness_game"></array>
+    <string-array name="correct_brightness_game_white_list"></string-array>
+    <array name="correct_brightness_video"></array>
+    <string-array name="correct_brightness_video_white_list"></string-array>
     <string-array name="cota_vf_config_disabled_dialpad_tone_mcc_mnc"></string-array>
     <string-array name="country_codes_5ghz_supported"></string-array>
-    <string-array name="crossSimSpnFormats">
-    </string-array>
+    <string-array name="crossSimSpnFormats"></string-array>
     <array name="cross_profile_apps" />
     <string-array name="crypto_fingerprint_fallback_prefixes"></string-array>
     <string-array name="crypto_fingerprint_fallback_vendors"></string-array>
@@ -520,6 +466,8 @@
     <array name="data_type_name_mcc_mnc_key" />
     <array name="data_type_name_mcc_mnc_value" />
     <array name="data_type_name_mcc_value" />
+    <string-array name="dates"></string-array>
+    <string-array name="dates_eng"></string-array>
     <string-array name="debug_hw_overdraw_values"></string-array>
     <string-array name="debug_mode_protocol_entries"></string-array>
     <string-array name="debug_mode_protocol_values"></string-array>
@@ -535,6 +483,7 @@
     <string-array name="default_video_package"></string-array>
     <string-array name="default_vol_stream_values"></string-array>
     <array name="delete_no_ad_animation_array"></array>
+    <integer-array name="delete_repeating_values"></integer-array>
     <array name="desktop_lyric_seekbar_track_color"></array>
     <string-array name="detailed_am_pms"></string-array>
     <string-array name="device_support_pickup_by_MTK"></string-array>
@@ -590,6 +539,7 @@
     <string-array name="enabled_networks_tdscdma_choices"></string-array>
     <string-array name="enabled_networks_tdscdma_values"></string-array>
     <string-array name="enabled_networks_values"></string-array>
+    <string-array name="english_premium_league"></string-array>
     <string-array name="enhanced_4g_lte_mode_sumary_variant"></string-array>
     <string-array name="enhanced_4g_lte_mode_title_variant"></string-array>
     <string-array name="entries_color_calibration"></string-array>
@@ -597,6 +547,7 @@
     <string-array name="entries_pref_key_voice_report"></string-array>
     <string-array name="entries_sms_validity_period_value"></string-array>
     <string-array name="entryvalues_font_size"></string-array>
+    <string-array name="entryvalues_settings_debug"></string-array>
     <string-array name="eras"></string-array>
     <string-array name="error_message_respond_revert"></string-array>
     <string-array name="etws_alerts_range_strings"></string-array>
@@ -627,6 +578,10 @@
     <integer-array name="font_size_preference_preview_size"></integer-array>
     <string-array name="font_size_scale"></string-array>
     <string-array name="font_size_title"></string-array>
+    <string-array name="fortune_gender"></string-array>
+    <integer-array name="fortune_gender_values"></integer-array>
+    <string-array name="fortune_random_birthday"></string-array>
+    <string-array name="fortune_random_name"></string-array>
     <string-array name="fps_list_values"></string-array>
     <string-array name="frame_color_selector_array"></string-array>
     <string-array name="freq_entries"></string-array>
@@ -644,7 +599,9 @@
     <string-array name="general_preference_text_zoom_values"></string-array>
     <string-array name="gesture_prevent_ringing_entries"></string-array>
     <string-array name="gesture_prevent_ringing_values"></string-array>
+    <string-array name="global_criket_match"></string-array>
     <string-array name="global_elderly_man_like_apps"></string-array>
+    <array name="global_football_match"></array>
     <string-array name="google"></string-array>
     <string-array name="google_in_list"></string-array>
     <string-array name="gradient_colors"></string-array>
@@ -661,6 +618,7 @@
     <string-array name="hide_installed_packages"></string-array>
     <string-array name="hide_packages"></string-array>
     <string-array name="hide_path"></string-array>
+    <array name="horoscope_info_arrays"></array>
     <integer-array name="hot_words_item_text_bg_color"></integer-array>
     <integer-array name="hot_words_item_text_frame_color"></integer-array>
     <string-array name="hour_12_items"></string-array>
@@ -697,6 +655,7 @@
     <string-array name="korea_permission_group_tags"></string-array>
     <string-array name="korea_permission_groups"></string-array>
     <string-array name="kr_emergency_array"></string-array>
+    <string-array name="la_liga"></string-array>
     <string-array name="lang_detect"></string-array>
     <string-array name="language_code_list"></string-array>
     <string-array name="language_name_list"></string-array>
@@ -706,6 +665,7 @@
     <string-array name="left_tone_entry_values"></string-array>
     <array name="light_calling_revolve_light_colors"></array>
     <string-array name="light_sleep_process_list"></string-array>
+    <string-array name="ligue_1"></string-array>
     <string-array name="list_language_values"></string-array>
     <string-array name="loan_rulers"></string-array>
     <string-array name="local_white_list"></string-array>
@@ -725,8 +685,7 @@
     <string-array name="long_trace_duration_values"></string-array>
     <string-array name="long_trace_size_names"></string-array>
     <string-array name="long_trace_size_values"></string-array>
-    <integer-array name="low_lux_level">
-    </integer-array>
+    <integer-array name="low_lux_level"></integer-array>
     <string-array name="luckymoney_sound"></string-array>
     <string-array name="magic_effects_icon"></string-array>
     <string-array name="magic_effects_icon_thumb"></string-array>
@@ -743,10 +702,8 @@
     <integer-array name="magnification_mode_values"></integer-array>
     <string-array name="map_keyword"></string-array>
     <string-array name="map_title"></string-array>
-    <integer-array name="maps_starting_lat_lng">
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-    </integer-array>
+    <integer-array name="maps_starting_lat_lng"></integer-array>
+    <integer-array name="maps_starting_zoom"></integer-array>
     <array name="mark_pen_default_color_item"></array>
     <integer-array name="mark_pen_default_size_item"></integer-array>
     <string-array name="max_number_values"></string-array>
@@ -805,21 +762,22 @@
     <string-array name="music_app_pkg"></string-array>
     <string-array name="mvno_type_values"></string-array>
     <array name="mw_config_keySystemUuidMapping" />
+    <array name="mw_ui_com_google_android_gms_fonts_certs"></array>
+    <string-array name="mw_ui_com_google_android_gms_fonts_certs_dev"></string-array>
+    <string-array name="mw_ui_com_google_android_gms_fonts_certs_prod"></string-array>
     <string-array name="nav_bar_button_values"></string-array>
     <string-array name="nav_bar_layouts_values"></string-array>
     <string-array name="navigation_picker_disappear_devices"></string-array>
     <string-array name="ncc_locales"></string-array>
-    <string-array name="networkAttributes">
-    </string-array>
+    <string-array name="networkAttributes"></string-array>
     <string-array name="network_state_display"></string-array>
     <string-array name="network_state_display_values"></string-array>
-    <string-array name="networks_not_clear_data">
-    </string-array>
+    <string-array name="networks_not_clear_data"></string-array>
     <string-array name="new_dndm_vip_list_group_array"></string-array>
     <string-array name="nfc_se_route_values"></string-array>
-    <string-array name="no_ems_support_sim_operators">
-    </string-array>
+    <string-array name="no_ems_support_sim_operators"></string-array>
     <array name="non_removable_euicc_slots" />
+    <string-array name="not_show_uninstall_icon_array"></string-array>
     <array name="notch_battery_indicator_style_icons"></array>
     <string-array name="notch_battery_indicator_style_values"></string-array>
     <string-array name="notif_types_titles"></string-array>
@@ -896,6 +854,7 @@
     <array name="power_click"></array>
     <array name="power_double_click"></array>
     <array name="power_long_press"></array>
+    <string-array name="prefValues_alerts_vibrateWhen"></string-array>
     <string-array name="prefValues_contact_add"></string-array>
     <string-array name="prefValues_max_bytes_limit"></string-array>
     <string-array name="prefValues_vibrateWhen"></string-array>
@@ -914,14 +873,16 @@
     <string-array name="prefer_inputmethod_list_cm_customized"></string-array>
     <string-array name="preference_dial_pad_touch_tone_entries"></string-array>
     <string-array name="preference_dial_pad_touch_tone_entry_values"></string-array>
+    <string-array name="preferences_default_reminder_values"></string-array>
+    <string-array name="preferences_language_values"></string-array>
+    <string-array name="preferences_week_start_day_values"></string-array>
     <string-array name="preferred_network_mode_gsm_wcdma_values"></string-array>
     <string-array name="preferred_network_mode_values"></string-array>
     <string-array name="preferred_network_mode_values_world_mode"></string-array>
     <array name="preloaded_color_state_lists" />
     <array name="preloaded_drawables"></array>
     <array name="preloaded_drawables"></array>
-    <array name="preloaded_freeform_multi_window_drawables">
-    </array>
+    <array name="preloaded_freeform_multi_window_drawables"></array>
     <string-array name="press_key_entries"></string-array>
     <string-array name="press_key_entry_values"></string-array>
     <string-array name="priority_storage_value"></string-array>
@@ -945,8 +906,7 @@
     <string-array name="qs_control_independent_tiles_global"></string-array>
     <string-array name="quality_business_devices"></string-array>
     <string-array name="quote_devider_text_array"></string-array>
-    <string-array name="radioAttributes">
-    </string-array>
+    <string-array name="radioAttributes"></string-array>
     <string-array name="rcs_fallback_value"></string-array>
     <string-array name="rcs_quality_value"></string-array>
     <integer-array name="readmode_theme_bgcolors"></integer-array>
@@ -962,21 +922,18 @@
     <string-array name="references"></string-array>
     <string-array name="region_support_mihome"></string-array>
     <string-array name="relation_with_me_value"></string-array>
+    <integer-array name="reminder_minutes_values"></integer-array>
     <string-array name="remove_oldman_mode_device_list"></string-array>
+    <string-array name="repeat_choose_day"></string-array>
     <string-array name="report_method_entries"></string-array>
     <string-array name="report_method_entry_values"></string-array>
     <string-array name="reproductivity"></string-array>
-    <string-array name="required_apps_managed_device">
-    </string-array>
-    <string-array name="required_apps_managed_profile">
-    </string-array>
-    <string-array name="required_apps_managed_user">
-    </string-array>
+    <string-array name="required_apps_managed_device"></string-array>
+    <string-array name="required_apps_managed_profile"></string-array>
+    <string-array name="required_apps_managed_user"></string-array>
     <string-array name="required_monthly_test_range_strings"></string-array>
-    <string-array name="resolver_target_actions_pin">
-    </string-array>
-    <string-array name="resolver_target_actions_unpin">
-    </string-array>
+    <string-array name="resolver_target_actions_pin"></string-array>
+    <string-array name="resolver_target_actions_unpin"></string-array>
     <array name="revolve_default_light_colors"></array>
     <string-array name="rf_key"></string-array>
     <string-array name="rf_value"></string-array>
@@ -1043,8 +1000,7 @@
     <string-array name="silent_entries"></string-array>
     <string-array name="silent_mode_duration_value"></string-array>
     <string-array name="silent_values"></string-array>
-    <array name="sim_colors">
-    </array>
+    <array name="sim_colors"></array>
     <string-array name="simulate_color_space_entries"></string-array>
     <string-array name="simulate_color_space_values"></string-array>
     <string-array name="sip_call_options_entries"></string-array>
@@ -1069,11 +1025,9 @@
     <string-array name="solar_terms"></string-array>
     <integer-array name="song_group_detail_gray_colors"></integer-array>
     <string-array name="sound_source_values"></string-array>
-    <string-array name="special_locale_codes">
-    </string-array>
+    <string-array name="special_locale_codes"></string-array>
     <string-array name="special_locale_codes_global"></string-array>
-    <string-array name="special_locale_names">
-    </string-array>
+    <string-array name="special_locale_names"></string-array>
     <string-array name="special_locale_names_global"></string-array>
     <string-array name="special_text_colon_array"></string-array>
     <string-array name="special_text_sender_array"></string-array>
@@ -1132,8 +1086,7 @@
     <string-array name="support_settings_haptic_device_list"></string-array>
     <string-array name="support_speaker_auto_clean_device_list"></string-array>
     <string-array name="support_super_wallpaper_devices"></string-array>
-    <string-array name="supported_locales">
-    </string-array>
+    <string-array name="supported_locales"></string-array>
     <string-array name="swipe_direction_titles"></string-array>
     <string-array name="swipe_direction_values"></string-array>
     <string-array name="switch_sdk_value"></string-array>
@@ -1151,8 +1104,7 @@
     <string-array name="t9_indexing_method_entry_values"></string-array>
     <integer-array name="table_default"></integer-array>
     <string-array name="table_titles"></string-array>
-    <string-array name="target_activity">
-    </string-array>
+    <string-array name="target_activity"></string-array>
     <string-array name="temperature_setting_unit_values"></string-array>
     <string-array name="temperature_unit_settings_labels"></string-array>
     <string-array name="tencent_string_info"></string-array>
@@ -1171,6 +1123,7 @@
     <string-array name="traffic_balance_values"></string-array>
     <string-array name="transformation_values"></string-array>
     <string-array name="transition_animation_scale_values"></string-array>
+    <integer-array name="travel_reminder_minutes_values"></integer-array>
     <string-array name="triple_click_mode_entries"></string-array>
     <string-array name="triple_key_mode_values"></string-array>
     <string-array name="triple_tone_entries"></string-array>
@@ -1201,8 +1154,7 @@
     <integer-array name="units_default_selection_volume"></integer-array>
     <integer-array name="units_default_selection_weight"></integer-array>
     <array name="unloggable_phone_numbers" />
-    <string-array name="update_brightness_configuration_white_list">
-    </string-array>
+    <string-array name="update_brightness_configuration_white_list"></string-array>
     <string-array name="uplmn_cu_mcc_mnc_values"></string-array>
     <string-array name="uplmn_prefer_network_mode_values"></string-array>
     <string-array name="usb_configuration_values"></string-array>
@@ -1244,8 +1196,7 @@
     <string-array name="week_days_short"></string-array>
     <string-array name="week_days_shortest"></string-array>
     <integer-array name="weight_line_chart_default_y"></integer-array>
-    <string-array name="wfcSpnFormats">
-    </string-array>
+    <string-array name="wfcSpnFormats"></string-array>
     <string-array name="wfc_restore_blocked_countries"></string-array>
     <string-array name="when_to_start_screensaver_entries"></string-array>
     <string-array name="when_to_start_screensaver_values"></string-array>
@@ -1301,6 +1252,7 @@
     <string-array name="xiaoai_tips"></string-array>
     <string-array name="yahoo"></string-array>
     <string-array name="yahoo_in_list"></string-array>
+    <string-array name="year_view_week_header_name_other"></string-array>
     <string-array name="zen_mode_contacts_calls_entries"></string-array>
     <string-array name="zen_mode_contacts_messages_entries"></string-array>
     <string-array name="zen_mode_contacts_values"></string-array>

@@ -71,6 +71,13 @@
         <item>Зеленый</item>
         <item>Синий</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+         <item>Не интересно</item>
+         <item>Повторяется</item>
+         <item>Низкое качество</item>
+         <item>Неуместное фото</item>
+         <item>Мошенническая информация</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Откровенное содержимое</item>
         <item>Ложь</item>
