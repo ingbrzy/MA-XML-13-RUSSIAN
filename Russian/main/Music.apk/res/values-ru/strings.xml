@@ -132,6 +132,8 @@
     <string name="back">Выход</string>
     <string name="back_confirm">Нажмите еще раз для выхода</string>
     <string name="banner_op">Mi Музыка</string>
+<!-- ### FROM SOURCE -->
+    <string name="best_experience">Best experience</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="btn_text_edit">Редактировать</string>
@@ -315,6 +317,8 @@
     <string name="download_error_insufficient_space">Недостаточно места</string>
     <string name="download_fail_to_fetch_info">Ошибка загрузки, повторите попытку</string>
     <string name="download_filesize_unknown">Неизвестно</string>
+<!-- ### FROM SOURCE -->
+    <string name="download_free">Download music</string>
     <string name="download_in_process">АКТИВНЫЕ</string>
     <string name="download_info_start_deleted_tasks">Удалить загрузки</string>
     <string name="download_manage">Загрузки</string>
@@ -354,6 +358,8 @@
     <string name="download_while_playing_no_vip_summary">Автоматически загружать прослушиваемые треки (кроме платных)</string>
     <string name="download_while_playing_summary">Автоматически загружать прослушиваемые треки</string>
     <string name="download_while_playing_title">Загружать при прослушивании</string>
+<!-- ### FROM SOURCE -->
+    <string name="downloaded">Downloaded</string>
     <string name="downloaded_empty">Пусто</string>
     <string name="downloading_apk">Загрузка… Следите за процессом в шторке уведомлений.</string>
     <string name="downloading_empty">Пусто</string>
@@ -470,6 +476,8 @@
     <string name="filter_by_size_prefix">"Скрыть файлы меньше "</string>
     <string name="filter_by_size_summary">Скрыть маленькие файлы</string>
     <string name="filter_size_unit">%d КБ</string>
+<!-- ### FROM SOURCE -->
+    <string name="find_you_tunes">Find your tunes</string>
     <string name="floating_view_dialog_desc">Воспроизведение будет остановлено, если вы покинете эту страницу. Покинуть страницу?</string>
     <string name="floating_view_dialog_leave">Покинуть</string>
     <string name="floating_view_dialog_stay">Остаться</string>
@@ -497,11 +505,19 @@
     <string name="format_not_support">Тип файла не поддерживается</string>
     <string name="format_unsupported_or_corrupted">Тип файла не поддерживается или файл поврежден</string>
     <string name="fragment_title_artist_album">Альбомы</string>
+<!-- ### FROM SOURCE -->
+    <string name="free">Free</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gcm_fallback_notification_channel_label">Разное</string>
     <string name="get_more_favorite_content_after_login">Войдите для поиска песен и видео</string>
+<!-- ### FROM SOURCE -->
+    <string name="get_one_day_vip">You got %d-day VIP!</string>
+<!-- ### FROM SOURCE -->
+    <string name="get_one_hour_vip">You got %d-hour VIP!</string>
+<!-- ### FROM SOURCE -->
+    <string name="get_vip">Get VIP</string>
     <string name="google_account_login">Вход с помощью Google</string>
     <string name="goto_local_search">Поиск на устройстве</string>
     <string name="goto_online_search">Поиск онлайн</string>
@@ -512,6 +528,8 @@
     <string name="headset_and_audio_effect_title">Звуковые эффекты</string>
     <string name="hide_album">Скрыть обложку</string>
     <string name="hide_lyric">Скрыть текст</string>
+<!-- ### FROM SOURCE -->
+    <string name="hifi_quality">Hi-Fi quality</string>
     <string name="high_sound_quality">Высокое</string>
     <string name="higher_quality_music">Звук высокого качества</string>
     <string name="higher_quality_music_summary">Загрузка музыки в высоком качестве</string>
@@ -547,6 +565,8 @@
     <string name="i_know">ОК</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="id_namespace">hungama</string>
+<!-- ### FROM SOURCE -->
+    <string name="imported">Imported</string>
     <string name="impunity_declaration_content">Нажав \"Принимаю\", вы принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
     <string name="impunity_declaration_ignore">Больше не показывать</string>
     <string name="impunity_declaration_negative_text">Отмена</string>
@@ -631,6 +651,8 @@
     <string name="joox_vip_expired_hint">Ваша VIP подписка истекла. Песни, загруженные с JOOX, будут только отображаться в ваших загрузках.</string>
     <string name="jooxdebugvip">Тест переключения JooxVip</string>
     <string name="jooxtestlogin">Тест входа в Joox</string>
+<!-- ### FROM SOURCE -->
+    <string name="just_hit_next">Just hit next</string>
     <string name="keep_queued_download">Оставить</string>
     <string name="ktv_playlist">Плейлист KTV</string>
     <string name="language_page_confirm">Подтвердить</string>
@@ -640,6 +662,8 @@
     <string name="latest_song">История воспроизведения (%d)</string>
     <string name="like">Нравится</string>
     <string name="list_item_play_all_tracks">Воспроизвести все</string>
+<!-- ### FROM SOURCE -->
+    <string name="listen_anywhere">Listen anywhere</string>
     <string name="load_shuffle">Загрузка…</string>
     <string name="loadercontainer_loading">Подождите…</string>
     <string name="loading">Подождите…</string>
@@ -700,6 +724,8 @@
     <string name="middle_sound_quality">Среднее</string>
     <string name="midnight">AM</string>
     <string name="milink_unavaliable_please_update">Mi Link недоступен. Обновите MIUI.</string>
+<!-- ### FROM SOURCE -->
+    <string name="millions_songs">Millions of songs</string>
     <string name="missing_title">&lt;Без названия></string>
     <string name="miuishare_account_login_ok">Войти</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
@@ -898,6 +924,10 @@
     <string name="offline_opt_in_message">Вы получите уведомление со ссылкой на сайт рекламодателя для просмотра, когда сеть снова будет доступна</string>
     <string name="offline_opt_in_title">Просмотр рекламы</string>
     <string name="ok">ОК</string>
+<!-- ### FROM SOURCE -->
+    <string name="one_day_vip">%d-day VIP</string>
+<!-- ### FROM SOURCE -->
+    <string name="one_hour_vip">%d-hour VIP</string>
     <string name="online_apk_acquired">Получено %d%%</string>
     <string name="online_apk_acquiring">Получение… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Не удалось загрузить из-за нехватки свободного места.</string>
@@ -1313,6 +1343,8 @@
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unlimited_downloads">Неограниченные загрузки</string>
     <string name="unlimited_offline_songs">Неограниченные локальные треки</string>
+<!-- ### FROM SOURCE -->
+    <string name="unlimited_skips">Unlimited skips</string>
     <string name="update_now">ОБНОВИТЬ</string>
     <string name="upgrade_music">Обновите приложение Музыка</string>
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
@@ -1325,6 +1357,8 @@
     <string name="upload_playlist_to_hungama_title">Синхронизируйте онлайн-контент с Hungama, чтобы иметь доступ к ним на других устройствах с Mi аккаунтом.</string>
     <string name="upload_playlist_to_hungama_toast">Онлайн контент будет синхронизирован с Hungama</string>
     <string name="user_agreement">Условия использования</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">Плейлисты</string>
     <string name="user_privacy_dialog_negative_text">Отмена</string>
     <string name="user_privacy_dialog_positive_count_down_text">Отзыв согласия (%s сек.)</string>
@@ -1345,6 +1379,8 @@
     <string name="vip_required">Приобретите пакет Премиум, чтобы воспроизвести этот трек. Пока пропустим его.</string>
     <string name="vip_required_with_song">Трек %s доступен только PRO подписчикам. Пока пропустим его.</string>
     <string name="voice_search_first_hint">Попробуйте голосовой поиск</string>
+<!-- ### FROM SOURCE -->
+    <string name="watch_video">Watch video</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
