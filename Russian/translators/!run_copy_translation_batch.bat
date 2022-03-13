@@ -46,6 +46,7 @@ call run_copy_translation.bat %1 MediaProvider
 call run_copy_translation.bat %1 MiBrowserGlobal
 call run_copy_translation.bat %1 MiCloudSync
 call run_copy_translation.bat %1 MiDrive
+call run_copy_translation.bat %1 MiFitness
 call run_copy_translation.bat %1 MiGalleryLockscreen
 call run_copy_translation.bat %1 MiLinkService
 call run_copy_translation.bat %1 MiMover
