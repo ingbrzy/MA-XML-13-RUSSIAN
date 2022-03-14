@@ -895,7 +895,7 @@
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="days_timestamp">%1$s дн. назад</string>
+    <string name="days_timestamp">%1$s д. назад</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>

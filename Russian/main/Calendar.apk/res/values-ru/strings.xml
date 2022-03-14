@@ -1428,7 +1428,7 @@
     <string name="unsubscribe_card_success">Вы успешно отказались от подписки на %1$s</string>
     <string name="unsubscribing_card">Отказ от подписки</string>
     <string name="use_system_language">Использовать системный язык</string>
-    <string name="user_experience_revoke_switch">Программа пользовательского опыта</string>
+    <string name="user_experience_revoke_switch">Программа улучшения качества</string>
     <string name="user_notice_button_exit">Отмена</string>
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_message">Используя этот продукт, вы принимаете %1$s и %2$s Xiaomi. Для нормальной работы некоторых функций требуется подключение к интернету, использование геолокации, доступ к контактам и SMS.</string>

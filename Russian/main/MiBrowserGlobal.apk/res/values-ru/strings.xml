@@ -1980,7 +1980,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="privacy_authorize_summary">Используйте переключатель для предоставления или отзыва разрешения.</string>
     <string name="privacy_authorize_title">Предоставление разрешения</string>
     <string name="privacy_btn_more">Еще</string>
-    <string name="privacy_improve_performance">Программа пользовательского опыта</string>
+    <string name="privacy_improve_performance">Программа улучшения качества</string>
     <string name="privacy_improve_performance_desc">Разрешить Xiaomi собирать и анализировать пользовательские данные для улучшения продуктов и сервисов</string>
     <string name="privacy_message">Перед использованием Браузера вы должны принять наши &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Условия использования&lt;/a>&lt;/font> и &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">Браузер должен собирать необходимую личную информацию, чтобы предоставить вам базовые услуги. Вы можете узнать, как мы обрабатываем информацию, которую собираем, в нашей Политике конфиденциальности. Вы всегда можете отозвать свое согласие с Политикой конфиденциальности Браузера в Настройках - Конфиденциальность и безопасность. Прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности перед использованием Браузера.</string>

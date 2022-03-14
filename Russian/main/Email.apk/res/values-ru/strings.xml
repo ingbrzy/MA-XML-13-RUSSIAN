@@ -1806,8 +1806,8 @@
     <string name="upload_logs">Загрузить журналы</string>
     <string name="upload_logs_keywords">загрузить журналы</string>
     <string name="uploading_logs">Подождите…</string>
-    <string name="user_experience_content">Подтвердите, что вы прочитали и принимаете условия \"Программы пользовательского опыта\"</string>
-    <string name="user_experience_log">Программа пользовательского опыта</string>
+    <string name="user_experience_content">Подтвердите, что вы прочитали и принимаете условия \"Программы улучшения качества\"</string>
+    <string name="user_experience_log">Программа улучшения качества</string>
     <string name="user_experience_login">Принять участие</string>
     <string name="user_experience_logout">Выйти из программы</string>
     <string name="user_experience_positive">Принимаю</string>
