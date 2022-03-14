@@ -2307,6 +2307,8 @@ mm"</string>
     <string name="proximity_sensor_secondary_type" />
     <string name="proximity_sensor_type" />
     <string name="qs_alarm_tile_no_alarm">Нет будильников</string>
+    <string name="qs_bill_message_balance">Осталось %1$s %2$s</string>
+    <string name="qs_bill_message_unit_cny">CNY</string>
     <string name="qs_control_big_tile_state_closed">Отключено</string>
     <string name="qs_control_big_tile_state_closing">Отключение…</string>
     <string name="qs_control_big_tile_state_connected">Подключено</string>
@@ -2338,6 +2340,9 @@ mm"</string>
     <string name="qs_rearrange">Изменить порядок Быстрых настроек</string>
     <string name="qs_status_phone_muted">Режим \"Без звука\"</string>
     <string name="qs_status_phone_vibrate">Включена вибрация</string>
+    <string name="qs_traffic_message_type_exceed">Превышение: %1$s %2$s</string>
+    <string name="qs_traffic_message_type_remain">Осталось: %1$s %2$s</string>
+    <string name="qs_traffic_message_type_used">Использовано: %1$s %2$s</string>
     <string name="quick_controls_setup_subtitle">Удерживайте кнопку питания для доступа к элементам управления</string>
     <string name="quick_controls_setup_title">Настройка управления</string>
     <string name="quick_controls_subtitle">Добавьте элементы управления для подключенных устройств</string>
@@ -3001,6 +3006,10 @@ d MMMM"</string>
     <string name="torch_opened">Фонарик включен</string>
     <string name="touch_filtered_warning">Настройки не могут проверить ваш ответ, потому что приложение скрывает запрос на разрешение.</string>
     <string name="track_frame_time">Профилировать HWUI-отрисовку</string>
+    <string name="traffic_unit_byte">" Б"</string>
+    <string name="traffic_unit_gigabyte">" ГБ"</string>
+    <string name="traffic_unit_kilobyte">" КБ"</string>
+    <string name="traffic_unit_megabyte">" МБ"</string>
     <string name="transcode_default">Предполагается, что приложения поддерживают современные форматы</string>
     <string name="transcode_disable_cache">Отключить кеш перекодирования</string>
     <string name="transcode_enable_all">Включить перекодирование</string>

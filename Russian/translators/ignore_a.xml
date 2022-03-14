@@ -683,6 +683,7 @@
     <string-array name="freeform_top_game_list"></string-array>
     <string-array name="freq_entries"></string-array>
     <array name="freq_entryValues"></array>
+    <string-array name="fullscreen_landscape_list"></string-array>
     <string-array name="func_list"></string-array>
     <string-array name="gb_gpu_custom_anisotropic"></string-array>
     <string-array name="gb_gpu_custom_anisotropic_value"></string-array>

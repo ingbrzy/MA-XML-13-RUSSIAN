@@ -807,7 +807,7 @@ ID: %s
     <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="systemui">Шторка уведомлений</string>
     <string name="tab_title_chat">Вопросы и ответы</string>
-    <string name="tab_title_my_reports">Мои отчеты</string>
+    <string name="tab_title_my_reports">Мои отзывы</string>
     <string name="tab_title_preferences">Настройки</string>
     <string name="tab_title_report">Отчет</string>
     <string name="temporary_not_available">Эта функция пока недоступна.</string>

@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_device_info">Об устройстве</string>
     <string name="accept">Разрешить</string>
+    <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
     <string name="access_token_expired_warning">Срок действия аккаунта Weibo истек</string>
     <string name="access_token_invalid_warning">Некорректный аккаунт Weibo</string>
     <string name="account">Аккаунт</string>
@@ -420,6 +421,8 @@ ID:%s
     <string name="multi_user_not_show_sync_activity_title">Не включайте синхронизацию с Xiaomi Cloud</string>
     <string name="my_device_title">Текущее устройство</string>
     <string name="need_install_wechat">Установите WeChat</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="night">Вечер</string>
     <string name="no_account_or_forget_password">Создать учетную запись или забыли пароль?</string>
     <string name="no_install">Не установлено</string>
@@ -721,6 +724,7 @@ ID:%s
     <string name="privacy_policy_reject_confirm_title">Отказ от использования Mi Аккаунта</string>
     <string name="privacy_policy_update_msg">Обновленная Политика конфиденциальности Mi Аккаунта:&lt;br/>%1$s&lt;br/>Прежде чем продолжить, прочтите и примите обновленную &lt;a href=\"%2$s\">&lt;u>Политику конфиденциальности&lt;/u>&lt;/a>.</string>
     <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
+    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
     <string name="provision_back">Назад</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
@@ -826,6 +830,7 @@ ID:%s
     <string name="system_ad_summary">"Включите эту функцию для показа небольшого количества рекламы в системных приложениях. Эти объявления помогают нам развивать и улучшать наши продукты и услуги. Вы можете отключить эту функцию в любое время. Спасибо за поддержку! "</string>
     <string name="system_ad_switch">Реклама в системных приложениях</string>
     <string name="system_ad_switch_failed">ошибка</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="talkback_scan_barcode">Отсканируйте QR-код</string>
     <string name="temporary_not_available">Эта функция пока недоступна.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
@@ -892,6 +897,7 @@ ID:%s
     <string name="two_factor_auth_need_code_summary">"Вы увидите код на других подключенных Mi устройствах. Введите этот код на новом устройстве для входа."</string>
     <string name="two_factor_auth_summary">"При попытке войти в систему на новом устройстве или в новом месте, вы получите уведомление на других подключенных устройствах. Вам нужно будет подтвердить разрешение на вход."</string>
     <string name="unbind_sns_description">После отключения вы не сможете использовать данные аккаунта %s для входа в Mi Аккаунт.</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unlock_help_notice">"Справка:
 1. Если вы забыли свой пароль, перейдите на id.mi.com для его сброса.
 2. Если вы не можете сбросить пароль, перейдите на i.mi.com для разблокировки устройства.
