@@ -50,6 +50,10 @@
     <string name="apple_image">Фото</string>
     <string name="apple_video">Видео</string>
     <string name="appname_app_data_suffix">Данные приложения %1$s</string>
+    <string name="apps_cannot_be_transfered_confirm_button">Начать</string>
+    <string name="apps_cannot_be_transfered_next_button">Далее</string>
+    <string name="apps_cannot_be_transfered_summary">Нельзя перенести 64-разрядные приложения на 32-разрядное устройство. Вы можете загрузить 32-разрядные версии непосредственно из GetApps по окончанию переноса.</string>
+    <string name="apps_cannot_be_transfered_title">Ошибка переноса</string>
     <string name="audio">Аудио</string>
     <string name="audio_video_document">Аудио, видео и документы</string>
     <string name="back">Назад</string>
@@ -615,6 +619,7 @@
     <string name="recommend_hint">Рекомендуемые</string>
     <string name="reconnect">Подключиться снова</string>
     <string name="recreate_soft_ap_tips">Нажмите кнопку ниже, чтобы повторить попытку.</string>
+    <string name="refuse_accept">Отмена</string>
     <string name="request_all_permission_content">"Для переноса данных, разрешите Mi Mover:
 - Использование геолокации
 - Доступ к контактом

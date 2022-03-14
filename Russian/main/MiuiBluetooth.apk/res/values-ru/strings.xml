@@ -121,8 +121,6 @@
     <string name="battery_info_status_full">Заряжена</string>
     <string name="battery_info_status_not_charging">Подключено, не заряжается</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
-    <string name="blackshark_name">H66L</string>
-    <string name="blackshark_right_name">H66R</string>
     <string name="ble_device_address">MAC адрес устройства Bluetooth Smart</string>
     <string name="ble_device_profile">Профили устройства Bluetooth</string>
     <string name="ble_device_profile_header_title">Настройки</string>

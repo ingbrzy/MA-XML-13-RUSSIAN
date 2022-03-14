@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">По умолчанию (%1$s)</string>
     <string name="android_ringtone_silent">Без звука</string>
     <string name="android_ringtone_unknown">Неизвестный рингтон</string>
+    <string name="app_continuity_channel_name">Целостность приложения</string>
     <string name="application_cannot_open_alipay_health_code">Не удалось открыть код состояния Alipay</string>
     <string name="application_cannot_open_alipay_payment_code">Не удалось открыть код оплаты Alipay</string>
     <string name="application_cannot_open_alipay_scanner">Не удалось открыть сканер Alipay</string>
@@ -283,7 +284,8 @@
     <string name="miremix">Mi (ремикс)</string>
     <string name="miui">miui</string>
     <string name="miui_device_name">Android</string>
-    <string name="miui_forbid_poweroff_when_device_locked">Выключение невозможно, устройство заблокировано.</string>
+    <string name="miui_forbid_poweroff_when_device_locked">Выключение невозможно, устройство заблокировано</string>
+    <string name="miui_landscape_compat_toast">Рекомендуется портретная ориентация для складного устройства при использовании этого приложения</string>
     <string name="miui_m_com_netease_hyxd_mi">Операция в пустыне</string>
     <string name="miui_m_com_netease_onmyoji_mi">Мастер Инь и Ян</string>
     <string name="miui_multiwindow_not_support_cvw">Приложение не поддерживает изменение размера окна</string>
@@ -373,11 +375,15 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">Перезапуск приложения</string>
     <string name="relaunch_dialog_alwaysUsePrompt">Запомнить выбор</string>
     <string name="relaunch_dialog_button_cancel">Отмена</string>
     <string name="relaunch_dialog_button_confirm">ОК</string>
     <string name="relaunch_dialog_message">Не удалось настроить размер окна во время работы приложения. Требуется перезапуск приложения. Данные приложения, созданные во время этого сеанса, могут быть потеряны. Перезапустить?</string>
     <string name="relaunch_dialog_title">Перезапуск \"%s\"</string>
+    <string name="relaunch_fold_notification_content">Приложение \"%s\" может отображаться неправильно после того, как устройство сложено, необходимо перезапустить его.</string>
+    <string name="relaunch_notification_title">Перезапуск \"%s\"</string>
+    <string name="relaunch_unfold_notification_content">Приложение \"%s\" может отображаться неправильно после того, как устройство развернуто, необходимо перезапустить его.</string>
     <string name="remain">Осталось: %s</string>
     <string name="replace">Заменить</string>
     <string name="resolver_app_recommend_flag">Рекомендовать</string>
@@ -394,6 +400,10 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung</string>
+    <string name="sc_notification_warning_content">Отображение в полноэкранном режиме может быть некорректным. Восстановить исходное состояние или перейти к настройкам?</string>
+    <string name="sc_notification_warning_restore">Восстановить</string>
+    <string name="sc_notification_warning_settings">Настройки</string>
+    <string name="sc_relaunch_dialog_message">Использование приложения в этом режиме не подходит для складного устройства. Перезапустить приложение для переключения в полноэкранный режим?</string>
     <string name="scanning_device_tips">Поиск устройств поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
     <string name="screen_button_notification_text">Для включения одновременно нажмите кнопки \"Домой\" и \"Питание\".</string>
     <string name="screen_button_notification_title">Кнопки навигации отключены</string>

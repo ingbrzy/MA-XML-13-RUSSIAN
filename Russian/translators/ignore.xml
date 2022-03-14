@@ -896,6 +896,8 @@
     <string name="bl_open_failed">手环开通失败,你可以点击其它手环再试</string>
     <string name="bl_open_failed_exit">手环开通失败</string>
     <string name="bl_validate_failed_change_pwd">手环校验失败将转密码支付</string>
+    <string name="blackshark_name">H66L</string>
+    <string name="blackshark_right_name">H66R</string>
     <string name="blank_place_holder">　</string>
     <string name="ble_profile_1">ble_profile_mi_band</string>
     <string name="ble_profile_2">ble_profile_mi_key</string>

@@ -348,8 +348,18 @@
     <string name="relay_known">Понятно</string>
     <string name="relay_network_error">Ошибка сети</string>
     <string name="relay_network_error_msg">Вызовы недоступны из-за ошибки сети, переключитесь на основное устройство.</string>
-    <string name="remind_unlock_message">Ваше устройство заблокировано. \"%s\" будет доступно после разблокировки. Разблокировать его?</string>
-    <string name="respond_via_sms_custom_message">Своё сообщение</string>
+    <string name="remind_unlock_message">Устройство заблокировано. \"%s\" будет доступно после разблокировки. Разблокировать?</string>
+    <string name="remind_unlock_screen_message">Для использования \"%s\" необходимо разблокировать устройство. Разблокировать?</string>
+    <string name="respond_via_sms_custom_message">Свое сообщение</string>
+    <string name="saf_permission_content">"Системные разрешения были обновлены. Предоставьте разрешение для записи вызовов.
+
+Чтобы предоставить разрешение,
+нажмите \"%1$s\", затем выберите \"%2$s\"."</string>
+    <string name="saf_permission_grant_permission_immediately">Далее</string>
+    <string name="saf_permission_later">Не сейчас</string>
+    <string name="saf_permission_refused">Отсутствуют разрешения для записи вызовов</string>
+    <string name="saf_permission_title">Требуются разрешения</string>
+    <string name="saf_permission_use_this_folder">Использовать эту папку</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
