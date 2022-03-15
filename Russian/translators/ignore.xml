@@ -1499,6 +1499,12 @@
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
     <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
     <string name="command_139_mail_open_pop3_imap">KQ</string>
+    <string name="common_join_str">%1$s %2$s</string>
+    <string name="common_join_str1">%1$s %2$s %3$s</string>
+    <string name="common_percent_join_str">%1$d%%</string>
+    <string name="common_progress">%d%%</string>
+    <string name="common_time_join_str">%1$s %2$s</string>
+    <string name="common_time_join_str1">%1$s %2$s %3$s</string>
     <string name="commute_banner_congestion_text">路况拥堵</string>
     <string name="commute_banner_warning_text">预警信息</string>
     <string name="commute_card_drving_button_text">推荐路线导航</string>

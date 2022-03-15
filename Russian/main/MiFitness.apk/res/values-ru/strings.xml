@@ -27,76 +27,42 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-<!-- ### FROM SOURCE -->
-    <string name="about">About this app</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_agree">Agree</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_cache_clear">缓存清理</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_cache_clearing">清理中...</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_cache_size">%s GB</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_cancle">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_coach_female">女教练</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_coach_male">男教练</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_coach_prefer">训练教练偏好</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_comment_go">Rate us</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_common_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_common_user_privacy_agreement">Privacy Policy</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_count_down_time_tips">(%1$ds)</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_current_version">Version: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_dialog_open_concise_theme_desc">Your profile character will be hidden in the app.</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_dialog_open_vitality_theme_desc">To view your profile character, tap Health in the app.</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_exit">Your account will be signed out.</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_homepage_image">Profile character</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_just_recently">Just now</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_last_sync_time">Synced: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_log_off_account">Delete Mi Fitness service</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_login_sign_out_failed">"Couldn't sign out"</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_logout">Sign out</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_no_agree">Disagree</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_no_support_switch_region">"Can't change a region"</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_open_concise_theme_desc">Show your profile character</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_open_port_health_service">Sync with the cloud</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_open_vitality_theme_desc">Turn on to view your profile character</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_port_health_service">Sync with the cloud</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_experience_program_title">User Experience Program</string>
+    <string name="about">О приложении</string>
+    <string name="about_agree">Принять</string>
+    <string name="about_cache_clear">Очистка кэша</string>
+    <string name="about_cache_clearing">Очистка…</string>
+    <string name="about_cache_size">%s ГБ</string>
+    <string name="about_cancle">Отмена</string>
+    <string name="about_coach_female">Женщина-тренер</string>
+    <string name="about_coach_male">Мужчина-тренер</string>
+    <string name="about_coach_prefer">Выбор тренера</string>
+    <string name="about_comment_go">Оцените нас</string>
+    <string name="about_common_confirm">ОК</string>
+    <string name="about_common_user_privacy_agreement">Политика конфиденциальности</string>
+    <string name="about_count_down_time_tips">(%1$d сек.)</string>
+    <string name="about_current_version">Версия: %1$s</string>
+    <string name="about_dialog_open_concise_theme_desc">Персонаж вашего профиля в приложении будет скрыт.</string>
+    <string name="about_dialog_open_vitality_theme_desc">Чтобы посмотреть персонаж профиля, нажмите \"Здоровье\" в приложении.</string>
+    <string name="about_exit">Ваш аккаунт будет отключен</string>
+    <string name="about_homepage_image">Персонаж профиля</string>
+    <string name="about_just_recently">Только что</string>
+    <string name="about_last_sync_time">Синхронизировано: %1$s</string>
+    <string name="about_log_off_account">Удалить сервис Mi Fitness</string>
+    <string name="about_login_sign_out_failed">Не удалось выйти</string>
+    <string name="about_logout">Выход</string>
+    <string name="about_no_agree">Отмена</string>
+    <string name="about_no_support_switch_region">Не удалось изменить регион</string>
+    <string name="about_open_concise_theme_desc">Показать персонаж профиля</string>
+    <string name="about_open_port_health_service">Синхронизация с облаком</string>
+    <string name="about_open_vitality_theme_desc">Включить отображение персонажа профиля</string>
+    <string name="about_port_health_service">Синхронизация с облаком</string>
+    <string name="about_privacy_experience_program_title">Программа улучшения качества</string>
 <!-- ### FROM SOURCE -->
     <string name="about_privacy_improvement_desc">Help us improve our products and services by sharing your usage stats with us. We shall protect your personal information in accordance with our privacy policies.</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_license_agreement">User Agreement</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_participate_improvement_plan">Enroll in User Experience Program</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_revoke_account_confirm">Revoke authorization?</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_revoke_account_des">Revoke authorization</string>
+    <string name="about_privacy_license_agreement">Пользовательское соглашение</string>
+    <string name="about_privacy_participate_improvement_plan">Регистрация в программе улучшения качества</string>
+    <string name="about_privacy_revoke_account_confirm">Отменить авторизацию?</string>
+    <string name="about_privacy_revoke_account_des">Отмена авторизации</string>
 <!-- ### FROM SOURCE -->
     <string name="about_privacy_revoke_account_ok">"After you revoke the authorization, the account currently signed in on the device will be removed, and the related data previously stored on the server will be cleared. To delete data on your paired device, refer to Withdrawal of consent in our Privacy Policy. If you're using a wearable device, a factory reset erases all your data on it. If you change your mind, you won't be able to recover your data. You'll need to agree to our Privacy Policy again and pair your device if you decide you use it."</string>
 <!-- ### FROM SOURCE -->
@@ -110,8 +76,7 @@ You can clear cached data for Mi Fitness and change the permissions that this ap
 If you change your mind, before using our services, you need to agree to our Privacy Policy and User Agreement. 
  
 The related data will be cleared within 15 days."</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_revoke_confirm">Withdrawal of consent</string>
+    <string name="about_privacy_revoke_confirm">Отзыв согласия</string>
 <!-- ### FROM SOURCE -->
     <string name="about_privacy_revoke_confirm_desc">"After you withdraw your consent to our Privacy Policy, we will cease to collect your personal information. Your account will be signed out on your phone. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. To delete app data from your phone, remove this app from your phone, or clear app data in the Settings. 
 1. The account currently signed in on your paired device will be removed, and the related data previously stored on the server will be cleared. You can clear data stored on your paired device (e.g. sleep data, steps) with a factory reset. For further details, refer to Withdrawal of consent in our Privacy Policy. 
@@ -121,44 +86,29 @@ If you change your mind, you might not be able to recover the above data. To use
 You can clear cached data for Mi Fitness and change the permissions that this app can access in Settings on your phone at any time. 
  
 If you change your mind, before using our services, you need to agree to our Privacy Policy and User Agreement."</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_revoke_des">Withdraw your consent to our Privacy Policy and permanently delete your data</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_revoke_recall">Withdraw</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_risk_dialog_negative_text">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_risk_dialog_positive_text">Continue</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_risk_dialog_title">Attention</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_sensitive_protocol">Sensitive Data Collection and Usage</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_sensitive_protocol_title">Sensitive Data Collection and Usage</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_unbind_dialog_des">Unpair all your devices first.</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_unbind_dialog_positive_text">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_privacy_unbind_dialog_title">Attention</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_remove">Log files are transferred to /storage/emulated/0/Download/wearablelog</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_revoke_authorization">Revoke authorization</string>
+    <string name="about_privacy_revoke_des">Отзыв согласия с Политикой конфиденциальности и удаление данных</string>
+    <string name="about_privacy_revoke_recall">Отозвать</string>
+    <string name="about_privacy_risk_dialog_negative_text">Отмена</string>
+    <string name="about_privacy_risk_dialog_positive_text">продолжить</string>
+    <string name="about_privacy_risk_dialog_title">Внимание</string>
+    <string name="about_privacy_sensitive_protocol">Сбор и использование конфиденциальных данных</string>
+    <string name="about_privacy_sensitive_protocol_title">Сбор и использование конфиденциальных данных</string>
+    <string name="about_privacy_unbind_dialog_des">Сначала отключите все связанные устройства</string>
+    <string name="about_privacy_unbind_dialog_positive_text">Понятно</string>
+    <string name="about_privacy_unbind_dialog_title">Внимание</string>
+    <string name="about_remove">Файлы журналов будут перенесены в /storage/emulated/0/Download/wearablelog</string>
+    <string name="about_revoke_authorization">Отмена авторизации</string>
 <!-- ### FROM SOURCE -->
     <string name="about_risk_dialog_des">"Your workout and fitness data will be deleted permanently and you won't be able to restore it. Your account will be signed out on your phone. Continue?"</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_setting">Settings</string>
+    <string name="about_setting">Настройки</string>
 <!-- ### FROM SOURCE -->
     <string name="about_setting_data_cloud_sync_tip">Back up your workout and fitness data from your phone and sync data from other devices</string>
 <!-- ### FROM SOURCE -->
     <string name="about_setting_device_show_connection_notification">Connection alerts</string>
 <!-- ### FROM SOURCE -->
     <string name="about_setting_device_show_connection_notification_des">Receive notifications when your wearable device connects or disconnects from your phone</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_setting_network">Check your network settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_setting_newmsg_notify">Notifications</string>
+    <string name="about_setting_network">Проверьте настройки сети</string>
+    <string name="about_setting_newmsg_notify">Уведомления</string>
 <!-- ### FROM SOURCE -->
     <string name="about_setting_newmsg_notify_closed_desc">Turn on to receive notifications from this app</string>
 <!-- ### FROM SOURCE -->
@@ -168,53 +118,30 @@ If you change your mind, before using our services, you need to agree to our Pri
 <!-- ### FROM SOURCE -->
     <string name="about_setting_not_upload_gps_detail">Pause uploading location data to the cloud. You may have trouble syncing route stats between apps and experience route data loss.</string>
 <!-- ### FROM SOURCE -->
-    <string name="about_setting_privacy_detail">Privacy Policy</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_setting_privacy_revoke">Withdrawal of consent</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_setting_region">Region</string>
-<!-- ### FROM SOURCE -->
+    <string name="about_setting_privacy_detail">Политика конфиденциальности</string>
+    <string name="about_setting_privacy_revoke">Отозвать согласие</string>
+    <string name="about_setting_region">Регион</string>
     <string name="about_sport_health">Mi Fitness</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_sync_immediately">Sync</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_sync_status">Sync status</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_sync_status_failure_retry">"Couldn't sync. Wait a minute or two and try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_sync_status_in_progress">Syncing…</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_sync_status_network_failure">"Couldn't sync. Connect to the network and try again."</string>
-<!-- ### FROM SOURCE -->
+    <string name="about_sync_immediately">Синхронизировать</string>
+    <string name="about_sync_status">Статус синхронизации</string>
+    <string name="about_sync_status_failure_retry">Не удалось синхронизировать. Попробуйте позже.</string>
+    <string name="about_sync_status_in_progress">Синхронизация…</string>
+    <string name="about_sync_status_network_failure">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="about_sync_status_never_done">Not synced</string>
-<!-- ### FROM SOURCE -->
     <string name="about_time_format_hh_mm">HH:mm</string>
-<!-- ### FROM SOURCE -->
-    <string name="about_weekly_report">Weekly summary</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_allow">Allow</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_load_data_failed">"Couldn't load info"</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_reject">Deny</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_save_fail">"Couldn't save"</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_save_success">Saved successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_common_waiting">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_mine_thirdparty_access">Connected apps</string>
-<!-- ### FROM SOURCE -->
+    <string name="about_weekly_report">Еженедельная сводка</string>
+    <string name="access_common_allow">Разрешить</string>
+    <string name="access_common_cancel">Отмена</string>
+    <string name="access_common_confirm">ОК</string>
+    <string name="access_common_load_data_failed">Не удалось загрузить данные</string>
+    <string name="access_common_reject">Запретить</string>
+    <string name="access_common_save_fail">Не удалось сохранить</string>
+    <string name="access_common_save_success">Успешно сохранено</string>
+    <string name="access_common_waiting">Подождите…</string>
+    <string name="access_denied_info">Слишком много попыток. Повторите попытку позже.</string>
+    <string name="access_mine_thirdparty_access">Подключенные приложения</string>
     <string name="access_misport">Mi Fit</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_misport_auth_title">Sign in to Mi Fit</string>
+    <string name="access_misport_auth_title">Вход в Mi Fit</string>
 <!-- ### FROM SOURCE -->
     <string name="access_misport_complete_notify">Transferred successfully</string>
 <!-- ### FROM SOURCE -->
@@ -255,61 +182,42 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="access_misport_setting_item">Transfer from Mi Fit</string>
 <!-- ### FROM SOURCE -->
     <string name="access_misport_title">Transfer from Mi Fit</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_permission_grant_authorization_title">Permissions required</string>
+    <string name="access_permission_grant_authorization_title">Требуются разрешения</string>
 <!-- ### FROM SOURCE -->
     <string name="access_permission_not_agree_tips">"You won't be able to use this service unless you grant the required permissions, but it won't affect your use of other services. You can always restrict permissions in the Settings."</string>
 <!-- ### FROM SOURCE -->
     <string name="access_permission_storage_save_qrcode">To be able to save images, allow this app to access storage.</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_permission_to_grant_authorization">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_setting_done">Done</string>
-<!-- ### FROM SOURCE -->
+    <string name="access_permission_to_grant_authorization">ОК</string>
+    <string name="access_setting_done">Готово</string>
     <string name="access_thirdparty_alipay">Alipay</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_bind">Connect</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_bind_error">Try again</string>
+    <string name="access_thirdparty_alipay_bind">Подключить</string>
+    <string name="access_thirdparty_alipay_bind_error">Повтор</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_alipay_bind_success_desc">To stop sharing data from Mi Fitness to Alipay, tap Disconnect and confirm in the app. Alternatively, change privacy settings in Alipay.</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_alipay_bind_success_title">You can now view your steps in Alipay > Sports.</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_alipay_confirm_bind_msg">This Alipay account is associated with another Mi Account in Mi Fitness. Would you like to connect your Alipay account with your current Mi Account?</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_confirm_bind_title">Connect to Alipay</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_sync_title">Connect to Alipay</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_unbind">Disconnect</string>
+    <string name="access_thirdparty_alipay_confirm_bind_title">Подключение к Alipay</string>
+    <string name="access_thirdparty_alipay_sync_title">Подключение к Alipay</string>
+    <string name="access_thirdparty_alipay_unbind">Отключиться</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_alipay_unbind_alert">"Your step data won't be synced to Alipay."</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_unbind_error">"Couldn't disconnect. Try again."</string>
+    <string name="access_thirdparty_alipay_unbind_error">Не удалось отключиться. Повторите попытку.</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_aplipay_thirdparty_desc">To share step data with Alipay, tap Connect and follow on-screen instructions.</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_authentication_failed">"Couldn't connect. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_bind_failed">Check your network settings and try again</string>
+    <string name="access_thirdparty_authentication_failed">Не удалось подключиться. Повторите попытку.</string>
+    <string name="access_thirdparty_bind_failed">Проверьте настройки сети и повторите попытку</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_explain">When you connect Mi Fitness to %1$s, your workout performance metrics (e.g. calories, distance, time, heart rate) will be shared with %2$s.</string>
-<!-- ### FROM SOURCE -->
     <string name="access_thirdparty_google_fit">Google Fit</string>
-<!-- ### FROM SOURCE -->
     <string name="access_thirdparty_strava">Strava</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_strava_explain">Your data on Strava may look different from that on Mi Fitness due to different algorithms used by each app.</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_sync_to">Connect to %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_title">Connect to %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_unbind_failed">"Couldn't disconnect. Try again."</string>
+    <string name="access_thirdparty_strava_explain">Данные в Strava могут отличаться от данных в MiFitness из-за разных алгоритмов в приложениях</string>
+    <string name="access_thirdparty_sync_to">Подключиться к %1$s</string>
+    <string name="access_thirdparty_title">Подключение к %1$s</string>
+    <string name="access_thirdparty_unbind_failed">Не удалось отключиться. Повторите попытку.</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_unbind_tips">"Your workout performance metrics won't be synced to the app."</string>
-<!-- ### FROM SOURCE -->
     <string name="access_thirdparty_wechat">WeChat</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_wechat_bound">You can view your steps in WeChat.</string>
@@ -317,12 +225,10 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="access_thirdparty_wechat_help_1">To share data with WeChat, save the QR code below, scan it in WeChat, and tap \"Link device\".</string>
 <!-- ### FROM SOURCE -->
     <string name="access_thirdparty_wechat_help_2">To scan the QR code, tap Scan in WeChat, choose the Album icon on the lower right corner, and tap the QR code image.</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_wechat_save_qr">Save</string>
+    <string name="access_thirdparty_wechat_save_qr">Сохранить</string>
 <!-- ### FROM SOURCE -->
     <string name="access_unbind_dialog_msg">"Your step data won't be synced to WeChat."</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_unbind_success">Disconnected successfully</string>
+    <string name="access_unbind_success">Успешно отключено</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -363,19 +269,14 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="activate_failed">Please retry or contact bank customer service</string>
 <!-- ### FROM SOURCE -->
     <string name="activate_failed_no_retry">Please contact bank customer service</string>
-<!-- ### FROM SOURCE -->
-    <string name="activity_not_found_notice">"Can't find the app"</string>
-<!-- ### FROM SOURCE -->
-    <string name="add_device">Add device</string>
-<!-- ### FROM SOURCE -->
-    <string name="add_to_trust_device">This is a trusted device</string>
+    <string name="activity_not_found_notice">Не удалось найти приложение</string>
+    <string name="add_device">Добавить устройство</string>
+    <string name="add_to_trust_device">Это проверенное устройство</string>
 <!-- ### FROM SOURCE -->
     <string name="add_wifi_desc">To connect your wearable device to Wi-Fi, enter the password for \"%1$s\".</string>
-<!-- ### FROM SOURCE -->
-    <string name="add_wifi_title">Enter password</string>
+    <string name="add_wifi_title">Ввод пароля</string>
     <string name="afternoon">После полудня</string>
-<!-- ### FROM SOURCE -->
-    <string name="agree">Agree</string>
+    <string name="agree">Принимаю</string>
 <!-- ### FROM SOURCE -->
     <string name="aivs_huami_operate_on_app">Continue in the app on your phone</string>
 <!-- ### FROM SOURCE -->
@@ -424,51 +325,32 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="card_status_no_apply_privilege">Your card status has no privilege to apply the business</string>
 <!-- ### FROM SOURCE -->
     <string name="card_type_no_apply_privilege">Your card type has no privilege to apply the business</string>
-<!-- ### FROM SOURCE -->
-    <string name="change_activate_email">Change email address</string>
-<!-- ### FROM SOURCE -->
-    <string name="change_password">Change password</string>
+    <string name="change_activate_email">Изменить адрес электронной почты</string>
+    <string name="change_password">Изменить пароль</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
-<!-- ### FROM SOURCE -->
-    <string name="checkupdate_check_update">Update</string>
+    <string name="checkupdate_check_update">Обновить</string>
     <string name="chip_text">Текст</string>
-<!-- ### FROM SOURCE -->
-    <string name="choose_to_signin">Yes</string>
-<!-- ### FROM SOURCE -->
-    <string name="choose_to_signup">"No, I'll create one"</string>
+    <string name="choose_to_signin">Да</string>
+    <string name="choose_to_signup">Нет, создать новый</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_allow">Allow</string>
-<!-- ### FROM SOURCE -->
+    <string name="common_allow">Разрешить</string>
     <string name="common_am">AM</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_apply">Discard</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_complete">Done</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_data_empty">No data</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_data_manual_input">Manual entry</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_delete">Delete</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_delete_failure">"Couldn't delete"</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_delete_success">Deleted successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_deleting">Deleting…</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_download_fail">"Couldn't download"</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_download_use">Apply</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_exit">Exit</string>
+    <string name="common_apply">Отклонить</string>
+    <string name="common_cancel">Отмена</string>
+    <string name="common_complete">Готово</string>
+    <string name="common_data_empty">Нет данных</string>
+    <string name="common_data_manual_input">Ручной ввод</string>
+    <string name="common_delete">Удалить</string>
+    <string name="common_delete_failure">Ошибка удаления</string>
+    <string name="common_delete_success">Успешно удалено</string>
+    <string name="common_deleting">Удаление…</string>
+    <string name="common_download_fail">Ошибка загрузки</string>
+    <string name="common_download_use">Применить</string>
+    <string name="common_exit">Выход</string>
 <!-- ### FROM SOURCE -->
     <string name="common_exoplay_play_retry">Play again</string>
 <!-- ### FROM SOURCE -->
@@ -496,75 +378,36 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
     <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
     <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_hint_battery_low">Low battery</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_hint_device_busy">Try again later</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_hint_device_removed">The device has been removed</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_hint_network_unavailable">Check your network connection</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_hint_storage_low">Not enough storage space</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_hint_unkonwn_error">A system error occurred. Try again later.</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_installed">Installed</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_installing">Installing update…</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_join_str">%1$s %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_join_str1">%1$s %2$s %3$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_known">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_load_fail">"Couldn't load"</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_month">Month</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_more">More</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_no_more">"That's all for now"</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_not_installed">Not downloaded</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_not_support">Not supported</string>
+    <string name="common_hint_battery_low">Низкий заряд батареи</string>
+    <string name="common_hint_device_busy">Попробуйте позже</string>
+    <string name="common_hint_device_removed">Устройство удалено</string>
+    <string name="common_hint_network_unavailable">Проверьте подключение к сети</string>
+    <string name="common_hint_storage_low">Недостаточно места</string>
+    <string name="common_hint_unkonwn_error">Произошла системная ошибка. Попробуйте позже.</string>
+    <string name="common_installed">Установлено</string>
+    <string name="common_installing">Установка обновления…</string>
+    <string name="common_known">Понятно</string>
+    <string name="common_load_fail">Ошибка загрузки</string>
+    <string name="common_month">Месяц</string>
+    <string name="common_more">Еще</string>
+    <string name="common_no_more">Больше ничего нет</string>
+    <string name="common_not_installed">Не загружено</string>
+    <string name="common_not_support">Не поддерживается</string>
     <string name="common_open_on_phone">Открыть на устройстве</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_page_not_find">Page not found</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_percent_join_str">%1$d%%</string>
-<!-- ### FROM SOURCE -->
+    <string name="common_page_not_find">Страница не найдена</string>
     <string name="common_pm">PM</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_progress">%d%%</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_reject">Deny</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_retry">Try again</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_save_fail">"Couldn't save"</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_save_success">Saved successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_set_error">"Couldn't set"</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_set_success">Applied successfully</string>
+    <string name="common_reject">Запретить</string>
+    <string name="common_retry">Повтор</string>
+    <string name="common_save_fail">Не удалось сохранить</string>
+    <string name="common_save_success">Успешно сохранено</string>
+    <string name="common_set_error">Не удалось установить</string>
+    <string name="common_set_success">Успешно применено</string>
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_time_join_str">%1$s %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_time_join_str1">%1$s %2$s %3$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_update">Update</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_use">Apply</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_week">Week</string>
-<!-- ### FROM SOURCE -->
-    <string name="common_year">Year</string>
+    <string name="common_update">Обновить</string>
+    <string name="common_use">Применить</string>
+    <string name="common_week">Неделя</string>
+    <string name="common_year">Год</string>
     <string name="confirm">ОК</string>
 <!-- ### FROM SOURCE -->
     <string name="confirm_activate_email">Verified</string>
