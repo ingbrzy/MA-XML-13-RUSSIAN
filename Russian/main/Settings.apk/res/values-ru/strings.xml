@@ -1818,6 +1818,8 @@
     <string name="bt_absVolume_open_dialog_title">Внимание</string>
     <string name="bt_absVolume_pre_title">Абсолютная громкость</string>
     <string name="bt_absVolume_summary">Уровень громкости Bluetooth-устройств и устройства должен быть одинаковым. Вы можете включать и выключать эту функцию, когда мультимедиа не воспроизводится в фоновом режиме.</string>
+    <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive ообеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход батареи. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
+    <string name="bt_aptx_adaptive_open_dialog_title">Переключиться на aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Исправление проблем со звуком</string>
     <string name="bt_audio_share_property">Передача</string>
     <string name="bt_audio_share_switch_summary">Передача аудио на другие подключенные устройства</string>
@@ -1833,11 +1835,13 @@
     <string name="bt_dialog_settings">Настройки</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
+    <string name="bt_lc3plus_open_dialog_summary">LC3plus обеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход батареи. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
+    <string name="bt_lc3plus_open_dialog_title">Переключиться на LC3plus?</string>
     <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления.
 Эту функцию можно отключить в [Настройках]"</string>
     <string name="bt_ldac_dialog_title">Включена поддержка LDAC</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но величивает расход батареи. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Свойства</string>
@@ -1853,6 +1857,14 @@
     <string name="bt_lhdc_open_dialog_title">Включить LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Свойства</string>
+    <string name="bt_plugin_new_version">Обновление</string>
+    <string name="bt_plugin_preference_button">Обновить</string>
+    <string name="bt_plugin_preference_msg">Текущая: %1$s | Новая: %2$s</string>
+    <string name="bt_plugin_preference_title">Новая версия</string>
+    <string name="bt_plugin_set_net_dialog_cancle">Отмена</string>
+    <string name="bt_plugin_set_net_dialog_message">Проверьте настройки сети и повторите попытку</string>
+    <string name="bt_plugin_set_net_dialog_retry">Повтор</string>
+    <string name="bt_plugin_set_net_dialog_title">Не удалось подключиться к сети</string>
     <string name="bt_pre_summary">Обеспечивает высокое качество звука</string>
     <string name="bt_rarely_used_device_title">Редко используемые (%d)</string>
     <string name="bt_show_notification_summary">Отображать постоянное уведомление в шторке уведомлений</string>
@@ -3590,6 +3602,7 @@
     <string name="finger_add_user_info_dialog_message">"Для разблокировки отпечатком или платежей по отпечатку, необходимо добавить отпечаток пальца. Отпечаток будет храниться локально на устройстве. Чтобы удалить его, выполните поиск \"Разблокировка отпечатком\" в Настройках, затем выберите Разблокировка отпечатком > Отпечаток. В случае несогласия вы не сможете использовать эту функцию."</string>
     <string name="finger_add_user_info_dialog_next">Принимаю</string>
     <string name="finger_add_user_info_dialog_title">Внимание</string>
+    <string name="finger_detail_info_text">Изменить имя отпечатка</string>
     <string name="fingerprint_add_max">Максимальное количество отпечатков, которые можно добавить: %d</string>
     <string name="fingerprint_add_title">Добавить отпечаток</string>
     <string name="fingerprint_and_password_entrance_title">Защита устройства и биометрия</string>
@@ -5511,6 +5524,7 @@
     <string name="miheadset_ancMedium">Стандарт</string>
     <string name="miheadset_ancMild">Мягкость</string>
     <string name="miheadset_anc_indicate">Подключите и наденьте наушники</string>
+    <string name="miheadset_anc_manual">Инструкция</string>
     <string name="miheadset_audio_mode">Звуковой режим</string>
     <string name="miheadset_audio_mode_high">Высокое качество</string>
     <string name="miheadset_audio_mode_listen">Прослушать</string>
@@ -5518,6 +5532,8 @@
     <string name="miheadset_audio_mode_summary">Выбор звукового режима</string>
     <string name="miheadset_audio_quality">Качество звука</string>
     <string name="miheadset_audio_quality_summary">Выбор аудиокодека Bluetooth</string>
+    <string name="miheadset_audio_sound_quality">Качество звука</string>
+    <string name="miheadset_audio_sound_quality_summary">Выбор аудиокодека Bluetooth</string>
     <string name="miheadset_auto_ack_mode">Автоподтверждение</string>
     <string name="miheadset_auto_ack_mode_summary">Автоподтверждение устройства</string>
     <string name="miheadset_auto_answer_call">Автоответ при вызовах</string>
@@ -5527,6 +5543,7 @@
     <string name="miheadset_cancel_device">Отмена</string>
     <string name="miheadset_checkUpdate">Проверка обновлений</string>
     <string name="miheadset_closeAnc">Откл.</string>
+    <string name="miheadset_codec_sample_rate">Частота дискретизации звука Bluetooth</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Подключите наушники для просмотра версии прошивки</string>
     <string name="miheadset_connect_play_music">Автовоспроизведение при подключении наушников</string>
@@ -5682,14 +5699,21 @@
     <string name="miui_master_clear_summary">Удаление всех данных и возврат к заводским настройкам</string>
     <string name="miui_more_special_feature">Новые возможности</string>
     <string name="miui_optimization_disabled">Отключить оптимизацию MIUI</string>
+    <string name="miui_sos_around_photo_summary">Прикрепить %d фото с фронтальной и задней камер к текстовому сообщению, для отправки контактам в экстренных ситуациях</string>
+    <string name="miui_sos_around_photo_title">Прикрепление фото</string>
+    <string name="miui_sos_around_voice_summary">Прикрепить %d-секундную аудиозапись к текстовому сообщению,  для отправки контактам в экстренных ситуациях</string>
+    <string name="miui_sos_around_voice_title">Прикрепление %d-секундного аудио</string>
     <string name="miui_sos_audio_summary">Воспроизвести сообщение SOS после поднятия трубки экстренным контактом</string>
     <string name="miui_sos_audio_title">Голосовое сообщение SOS</string>
+    <string name="miui_sos_call_fire">Пожарная служба</string>
+    <string name="miui_sos_call_hospital">Скорая помощь</string>
     <string name="miui_sos_call_log_duration">Длительность</string>
     <string name="miui_sos_call_log_none">Нет журнала вызовов за последний час.</string>
     <string name="miui_sos_call_log_stranger">Неизвестный</string>
     <string name="miui_sos_call_log_summary">Отправлять экстренным контактам журнал вызовов за последний час</string>
     <string name="miui_sos_call_log_time_unit">%1$d мин. %2$d сек.</string>
     <string name="miui_sos_call_log_title">Отправлять журнал вызовов</string>
+    <string name="miui_sos_call_police">Полиция</string>
     <string name="miui_sos_call_warning_sim_unable">Нет сигнала. Не удалось отправить SMS.</string>
     <string name="miui_sos_calling_summary">Ваше устройство будет автоматически звонить экстренным контактам, воспроизводя записанное вами голосовое сообщение SOS. Вызов будет завершен после окончания сообщения. Автоматический вызов прекратится после первой успешной попытки.</string>
     <string name="miui_sos_calling_title">Автоматический вызов</string>
@@ -5701,14 +5725,19 @@
     <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1$s</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">Не удалось отправить сообщение %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Не удалось отправить сообщение для %1s</string>
-    <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки сообщения SOS с вашим местоположением экстренным контактам</string>
+    <string name="miui_sos_emergency_title">Экстренный вызов</string>
+    <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки сообщения SOS с вашей геопозицией экстренным контактам</string>
     <string name="miui_sos_enable_switch_title">Экстренный вызов</string>
     <string name="miui_sos_exit_dialog_cancel">Отмена</string>
-    <string name="miui_sos_exit_dialog_message">Функция \"Экстренный вызов\" активна. Ваше местоположение отправляется экстренным контактам. Отключить?</string>
-    <string name="miui_sos_exit_dialog_ok">OK</string>
+    <string name="miui_sos_exit_dialog_message">Функция \"Экстренный вызов\" активна. Ваша геопозиция транслируется экстренным контактам. Отключить?</string>
+    <string name="miui_sos_exit_dialog_ok">ОК</string>
     <string name="miui_sos_exit_dialog_title">Отключение функции</string>
+    <string name="miui_sos_exit_emergency_title">Отключение</string>
+    <string name="miui_sos_exit_send_location_title">Трансляция вашей геопозиции экстренным контактам в режиме реального времени</string>
     <string name="miui_sos_green_guard_summary">Отслеживайте местоположение в режиме реального времени</string>
     <string name="miui_sos_green_guard_title">Родительский контроль</string>
+    <string name="miui_sos_hospital_card">Медицинская карта</string>
+    <string name="miui_sos_hospital_card_important_info">Ваша важная медицинская информация для экстренних служб</string>
     <string name="miui_sos_launch_error">Не удалось активировать функцию \"Экстренный вызов\"</string>
     <string name="miui_sos_launch_error_confirm">Понятно</string>
     <string name="miui_sos_launch_error_message">Не удалось подключиться к мобильной сети. Функция \"Экстренный вызов\" недоступна.</string>
@@ -5735,6 +5764,7 @@
     <string name="miui_sos_settings_category">Настройки SOS</string>
     <string name="miui_sos_statusbar_summary">Нажмите для отключения</string>
     <string name="miui_sos_statusbar_title">Функция \"Экстренный вызов\" активна</string>
+    <string name="miui_sos_unknow_contract">Неизвестный контакт</string>
     <string name="miui_special_feature">Специальные функции</string>
     <string name="miui_touch_filtered_touchassistant_warning">Сенсорный помощник перекрывает диалог разрешений. Переместите Сенсорный помощник или отключите эту функцию.</string>
     <string name="miui_touch_filtered_warning">Если приложение блокирует диалог разрешений, переместите мешающий объект или закройте приложение.</string>
@@ -8506,6 +8536,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_multi_sims_title">Обнаружено более одной SIM-карты</string>
     <string name="sim_name_hint">Укажите название SIM-карты</string>
     <string name="sim_no_inserted_msg">SIM-карта не вставлена</string>
+    <string name="sim_no_service">Нет сети</string>
     <string name="sim_notification_summary">Нажмите, чтобы настроить</string>
     <string name="sim_notification_title">SIM-карты заменены</string>
     <string name="sim_other_call_settings">Другие настройки вызовов</string>
@@ -10899,6 +10930,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_tether_configure_ap_text">Настройка точки доступа</string>
     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
     <string name="wifi_tether_configure_subtext">Точка доступа %1$s | %2$s</string>
+    <string name="wifi_tether_enabled_nosecurity_summary">%1$s без шифрования</string>
     <string name="wifi_tether_enabled_subtext">Сеть %1$s активна</string>
     <string name="wifi_tether_enabled_summary">Точка доступа %1$s активна</string>
     <string name="wifi_tether_failed_subtext">Ошибка подключения</string>
