@@ -2045,6 +2045,7 @@
     <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
     <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
     <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
+    <string name="dialog_tb_current_select">%1$s</string>
     <string name="dialpad_0_letters">+</string>
     <string name="didi_app_name">DiDi</string>
     <string name="didi_price_unit">%sCNY</string>
@@ -2384,7 +2385,17 @@
     <string name="gst_percentage">%s</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+    <string name="habit_continues_assist">%1$s</string>
+    <string name="habit_share_app_name">%1$s</string>
     <string name="header_category_general">@string/header_label_general_preferences</string>
+    <string name="health_blood_home_title">%1$s/%2$s</string>
+    <string name="health_blood_pressure_each_week_day_format1">%1$s</string>
+    <string name="health_blood_pressure_each_week_day_format2">%1$s %2$s %3$s</string>
+    <string name="health_talkback_current_select">%1$s</string>
+    <string name="health_target_value_connect_home_string">%1$s/%2$s</string>
+    <string name="health_target_value_connect_string">%1$s/%2$s</string>
+    <string name="health_widget_sleep_end_desc">%1$s</string>
+    <string name="health_widget_sleep_start_desc">%1$s</string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
     <string name="heavenly_stems_geng">庚</string>
@@ -3256,6 +3267,7 @@
     <string name="news_footer_full">已显示全部内容</string>
     <string name="news_header_title">为你推荐</string>
     <string name="nfc_card_balance_format">%1$.2f</string>
+    <string name="nfc_consume_amount">-%1$.2f</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="ng_haokan_glance_user_agreement">https://hksocial-cdn.levect.com/html/app_h5_user_agreement_ms.html</string>
     <string name="ng_haokan_privacy_policy">https://hksocial-cdn.levect.com/html/privacy_policy_ms.html</string>
@@ -4591,6 +4603,7 @@
     <string name="title_desktop_uninstall">title_desktop_uninstall</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="today_hot_search">今日热搜</string>
+    <string name="trail_sport_target_value_desc">%1$s</string>
     <string name="trans_intro_title">FAQ</string>
     <string name="translation_authority">com.android.quicksearchbox.translation</string>
     <string name="transport">Протокол</string>

@@ -590,30 +590,20 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="course_audio_dialog_disconnect_content">%1$s is disconnected. End your workout now?</string>
 <!-- ### FROM SOURCE -->
     <string name="course_audio_dialog_disconnect_title">%1$s disconnected</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_audio_dialog_training_btn">Cancel</string>
+    <string name="course_audio_dialog_training_btn">Отмена</string>
 <!-- ### FROM SOURCE -->
     <string name="course_audio_disconnect_content">The course will stop playing. Your workout data will be saved.</string>
 <!-- ### FROM SOURCE -->
     <string name="course_audio_error_desc">"Couldn't load audio. End your workout now?"</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_audio_error_title">Attention</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_audio_linechart_xaxis">m</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_audio_linechart_yaxis">km/h</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_calorie_label">kcal</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_cast_desc">Help</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_cast_stop_content">Stop casting now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_cast_stop_title">Attention</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_cast_stop_yes">Stop</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_close_show_more">Collapse</string>
+    <string name="course_audio_error_title">Внимание</string>
+    <string name="course_audio_linechart_xaxis">м</string>
+    <string name="course_audio_linechart_yaxis">км/ч</string>
+    <string name="course_calorie_label">ккал</string>
+    <string name="course_cast_desc">Помощь</string>
+    <string name="course_cast_stop_content">Остановить трансляцию?</string>
+    <string name="course_cast_stop_title">Внимание</string>
+    <string name="course_cast_stop_yes">Остановить</string>
+    <string name="course_close_show_more">Свернуть</string>
 <!-- ### FROM SOURCE -->
     <string name="course_content">Sessions</string>
 <!-- ### FROM SOURCE -->
@@ -632,34 +622,19 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="course_dialog_finish">End</string>
 <!-- ### FROM SOURCE -->
     <string name="course_difficult">Level</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_difficult_advance">进阶</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_difficult_basic">基础</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_difficult_challenge">挑战</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_difficult_starte">入门</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_difficult_strengthen">强化</string>
-<!-- ### FROM SOURCE -->
     <string name="course_error_desc">"Couldn't load video. End your workout now?"</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_error_title">Attention</string>
+    <string name="course_error_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="course_firmware_updating">Your device is updating</string>
 <!-- ### FROM SOURCE -->
     <string name="course_frequency">Frequency</string>
 <!-- ### FROM SOURCE -->
-    <string name="course_got_it">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_gym_error">Attention</string>
+    <string name="course_got_it">Понятно</string>
+    <string name="course_gym_error">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="course_gym_error_desc">"Couldn't start your treadmill. End your workout now?"</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_hr">Heart rate</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_hr_dialog_title">Attention</string>
+    <string name="course_hr">Пульс</string>
+    <string name="course_hr_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="course_hr_distribute_acme">VO₂ max</string>
 <!-- ### FROM SOURCE -->
@@ -686,21 +661,15 @@ If you change your mind, before using our services, you need to agree to our Pri
     <string name="course_hr_more_than">"You're ahead. The treadmill will slow down."</string>
 <!-- ### FROM SOURCE -->
     <string name="course_hr_speed_protect">High speed. Continue adjusting the treadmill speed?</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_hr_speed_protect_title">Attention</string>
+    <string name="course_hr_speed_protect_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="course_hr_stage_relax">Cool down</string>
 <!-- ### FROM SOURCE -->
     <string name="course_hr_stage_title">%1$s: %2$s | Target BPM: %3$d–⁠%4$d</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_hr_stage_training">Run</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_hr_stage_warmup">Warm up</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_hr_warning">No heart rate data</string>
-<!-- ### FROM SOURCE -->
-    <string name="course_info_all">Expand</string>
-<!-- ### FROM SOURCE -->
+    <string name="course_hr_stage_training">Бег</string>
+    <string name="course_hr_stage_warmup">Разминка</string>
+    <string name="course_hr_warning">Нет данных о пульсе</string>
+    <string name="course_info_all">Развернуть</string>
     <string name="course_item_info" formatted="false">%s·%s·%s</string>
 <!-- ### FROM SOURCE -->
     <string name="course_link_desc">To start your training, connect your treadmill to your phone.</string>
@@ -1203,12 +1172,10 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_appsort_sync_success">Synced successfully</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_assist_sleep_open_msg">Turning on this feature will affect battery life, continue anyway?</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_assist_sleep_open_title">Attention</string>
+    <string name="device_settings_assist_sleep_open_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_authorize_unlock_laptop_description">To use this feature, open Mi Blaze Unlock on your laptop and pair your wearable device with it.</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_battery_tip">Attention</string>
+    <string name="device_settings_battery_tip">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_ble_pair_failure">"Couldn't pair"</string>
 <!-- ### FROM SOURCE -->
@@ -1307,8 +1274,7 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_common_discard">Discard</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_common_do_not_disturb">DND</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_common_edit">Delete</string>
+    <string name="device_settings_common_edit">Удалить</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_common_event_remind">Events</string>
 <!-- ### FROM SOURCE -->
@@ -1323,18 +1289,12 @@ To apply your changes to your wearable device, go to App layout and choose Grid.
     <string name="device_settings_common_female_health">Cycles</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_common_find_phone">Find phone</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_common_flash_light">Flashlight</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_common_go_open">Not set</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_common_goto_set">Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_common_has_open">Done</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_common_heart_rate">Heart rate</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_common_hint">Attention</string>
+    <string name="device_settings_common_flash_light">Фонарик</string>
+    <string name="device_settings_common_go_open">Не задано</string>
+    <string name="device_settings_common_goto_set">Настройки</string>
+    <string name="device_settings_common_has_open">Готово</string>
+    <string name="device_settings_common_heart_rate">Пульс</string>
+    <string name="device_settings_common_hint">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_common_hint_device_removed">The device has been removed</string>
 <!-- ### FROM SOURCE -->
@@ -1796,8 +1756,7 @@ to unpair the phone and band"</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_revoke_authorization_dialog_content_oversea">"After you revoke the authorization, the account currently signed in on the device will be removed, and the related data previously stored on the server will be cleared. To delete data on your paired device, refer to Withdrawal of consent in our Privacy Policy. If you're using a wearable device, a factory reset erases all your data on it. If you change your mind, you won't be able to recover your data. You'll need to agree to our Privacy Policy again and pair your device if you decide you use it.
 The related device data will be cleared within 7 days."</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_revoke_authorization_dialog_title">Attention</string>
+    <string name="device_settings_revoke_authorization_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_revoke_authorization_dialog_title_oversea">Revoke authorization?</string>
 <!-- ### FROM SOURCE -->
@@ -1940,8 +1899,7 @@ The related device data will be cleared within 7 days."</string>
     <string name="device_settings_unlock_laptop">Unlock laptop</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_unlock_laptop_endurance_remind_dialog_message">Turning on this feature will affect battery life, continue anyway?</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_settings_unlock_laptop_endurance_remind_dialog_title">Attention</string>
+    <string name="device_settings_unlock_laptop_endurance_remind_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="device_settings_unlock_phone">Unlock phone</string>
 <!-- ### FROM SOURCE -->
@@ -2223,31 +2181,14 @@ The related device data will be cleared within 7 days."</string>
 ID: %s
 Отправьте этот код руководителю."</string>
     <string name="dialog_exit_use">Выход</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_list_latest_user_release">强制刷入最新用户版本</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_list_ota_directory">从OTA目录选择</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_list_shop_demo_chinese">刷入门店演示版（国内）</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_list_shop_demo_global">刷入门店演示版（国际）</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_loanding">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_tb_current_select">%1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="dialog_title_select_update_source">请选择升级文件来源</string>
+    <string name="dialog_loanding">Подождите…</string>
     <string name="discard_update">Нет, спасибо</string>
 <!-- ### FROM SOURCE -->
     <string name="distance_custom_target">Check your goal</string>
-<!-- ### FROM SOURCE -->
     <string name="distance_range">(0.1–999)</string>
-<!-- ### FROM SOURCE -->
-    <string name="doing_login">Signing in…</string>
-<!-- ### FROM SOURCE -->
-    <string name="doing_query_account">Checking account info…</string>
-<!-- ### FROM SOURCE -->
-    <string name="doing_register">Creating account…</string>
+    <string name="doing_login">Вход…</string>
+    <string name="doing_query_account">Проверка аккаунта…</string>
+    <string name="doing_register">Создание аккаунта…</string>
     <string name="download_background">Загрузка</string>
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
@@ -2350,8 +2291,7 @@ ID: %s
     <string name="face_common_download_now">Download</string>
 <!-- ### FROM SOURCE -->
     <string name="face_common_download_waiting">Pending</string>
-<!-- ### FROM SOURCE -->
-    <string name="face_common_downloading">Just a sec…</string>
+    <string name="face_common_downloading">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="face_common_free">Free</string>
 <!-- ### FROM SOURCE -->
@@ -2448,18 +2388,12 @@ ID: %s
     <string name="face_screen_off_tips">To use Always-on display on your wearable device, go to Settings > Display and turn on Always-on display.</string>
 <!-- ### FROM SOURCE -->
     <string name="face_select_del">"You haven't selected any items yet"</string>
-<!-- ### FROM SOURCE -->
-    <string name="face_size">Size: %1$.2f MB</string>
-<!-- ### FROM SOURCE -->
-    <string name="face_size_author">Size: %1$.2f MB | Author: %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="face_spirit_color">Text color</string>
-<!-- ### FROM SOURCE -->
-    <string name="face_style">Style</string>
-<!-- ### FROM SOURCE -->
-    <string name="face_used_not_edit">"Editing isn't supported"</string>
-<!-- ### FROM SOURCE -->
-    <string name="face_wearos_install">Just a sec…</string>
+    <string name="face_size">Размер: %1$.2f MB</string>
+    <string name="face_size_author">Размер: %1$.2f MB | Автор: %2$s</string>
+    <string name="face_spirit_color">Цвет текста</string>
+    <string name="face_style">Стиль</string>
+    <string name="face_used_not_edit">Редактирование не поддерживается</string>
+    <string name="face_wearos_install">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
 <!-- ### FROM SOURCE -->
@@ -2482,14 +2416,11 @@ ID: %s
     <string name="feedback_common_allow">Allow</string>
 <!-- ### FROM SOURCE -->
     <string name="feedback_common_hint_network_unavailable">Check your network settings and try again</string>
-<!-- ### FROM SOURCE -->
-    <string name="feedback_common_loading_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="feedback_common_more">More</string>
+    <string name="feedback_common_loading_cancel">Отмена</string>
+    <string name="feedback_common_more">Еще</string>
 <!-- ### FROM SOURCE -->
     <string name="feedback_common_reject">Deny</string>
-<!-- ### FROM SOURCE -->
-    <string name="feedback_common_waiting">Just a sec…</string>
+    <string name="feedback_common_waiting">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="feedback_confirm_upload">Submit</string>
 <!-- ### FROM SOURCE -->
@@ -2500,10 +2431,8 @@ ID: %s
     <string name="feedback_contact_info">Enter your phone number and email</string>
 <!-- ### FROM SOURCE -->
     <string name="feedback_crop_tip">Upload the screenshots to help us locate the problem</string>
-<!-- ### FROM SOURCE -->
-    <string name="feedback_device_problem">Device</string>
-<!-- ### FROM SOURCE -->
-    <string name="feedback_device_uploading">Just a sec…</string>
+    <string name="feedback_device_problem">Устройство</string>
+    <string name="feedback_device_uploading">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="feedback_failed">"Couldn't submit"</string>
 <!-- ### FROM SOURCE -->
@@ -3065,40 +2994,25 @@ ID: %s
     <string name="habit_calendar_event_reminder_location">View in Mi Fitness</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_calendar_sync_alert">Add to Calendar</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_add_failed">"Couldn't add"</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_known">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_load_data_failed">"Couldn't load data"</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_loading">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_ok">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_save">Save</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_continues_assist">%1$s</string>
+    <string name="habit_common_add_failed">Не удалось добавить</string>
+    <string name="habit_common_cancel">Отмена</string>
+    <string name="habit_common_confirm">ОК</string>
+    <string name="habit_common_known">Понятно</string>
+    <string name="habit_common_load_data_failed">Не удалось загрузить данные</string>
+    <string name="habit_common_loading">Подождите…</string>
+    <string name="habit_common_ok">ОК</string>
+    <string name="habit_common_save">Сохранить</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_days_0">"You're all set!"</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_delete_confirm_my_habit">"Remove this habit? You'll lose your streak."</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_device_bind_no_network">Connect to the network and try again.</string>
+    <string name="habit_device_bind_no_network">Подключитесь к сети и повторите попытку.</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_edit">Edit</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_all">Select all</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_back">Exit</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_finish">Back</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_not_all">Deselect All</string>
+    <string name="habit_edit_all">Выбрать все</string>
+    <string name="habit_edit_back">Выход</string>
+    <string name="habit_edit_finish">Назад</string>
+    <string name="habit_edit_not_all">Отмена</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_go_and_add_one">Create your first habit</string>
 <!-- ### FROM SOURCE -->
@@ -3137,10 +3051,7 @@ ID: %s
     <string name="habit_recommend">Recommended</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_share">Share</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_share_app_name">%1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_today">Today</string>
+    <string name="habit_today">Сегодня</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_today_empty">No habits</string>
 <!-- ### FROM SOURCE -->
@@ -3149,78 +3060,48 @@ ID: %s
     <string name="habit_world_clock_select_world">Select items</string>
 <!-- ### FROM SOURCE -->
     <string name="health_active_stage_activity_lightly">Moving around</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_active_stage_climb_stairs">Stairs</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_active_stage_ride">Cycle</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_active_stage_run">Run</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_active_stage_walk">Walk</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_active_stage_walk_fast">Fast walk</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_active_stage_walk_slowly">Slow walk</string>
+    <string name="health_active_stage_climb_stairs">Степпер</string>
+    <string name="health_active_stage_ride">Велосипед</string>
+    <string name="health_active_stage_run">Бег</string>
+    <string name="health_active_stage_walk">Ходьба</string>
+    <string name="health_active_stage_walk_fast">Быстрая ходьба</string>
+    <string name="health_active_stage_walk_slowly">Медленная ходьба</string>
 <!-- ### FROM SOURCE -->
     <string name="health_add_manually">Add data</string>
 <!-- ### FROM SOURCE -->
     <string name="health_all_health_data">Edit</string>
 <!-- ### FROM SOURCE -->
     <string name="health_audio_permission_dialog_desc">To be able to analyze your sleep cycle and record talking and snoring, allow this app to record audio.</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_audio_permission_dialog_title">Permissions required</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_avg_heart_rate_name">Avg heart rate</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_avg_pressure_record_desc">%1$s systolic/%2$s diastolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_home_title">%1$s/%2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure">Blood pressure</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_avg_high_pressure">Avg systolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_avg_low_pressure">Avg diastolic</string>
+    <string name="health_audio_permission_dialog_title">Требуются разрешения</string>
+    <string name="health_avg_heart_rate_name">Сред. пульс</string>
+    <string name="health_blood_avg_pressure_record_desc">%1$s систол./%2$s диастол.</string>
+    <string name="health_blood_pressure">Артериальное давление</string>
+    <string name="health_blood_pressure_avg_high_pressure">Сред. систолическое</string>
+    <string name="health_blood_pressure_avg_low_pressure">Сред. диастолическое</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_custom_scheme">Custom</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_custom_scheme_tip">Set custom time and frequency</string>
 <!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_daily_reminders">Daily reminders</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_diastolic_pressure">Diastolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_distribution">Overview</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_each_week_day_format1">%1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_each_week_day_format2">%1$s %2$s %3$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_each_week_day_format3">%1$s to %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_high_pressure">Systolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_low_pressure">Diastolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_max_high_pressure">Max systolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_max_low_pressure">Max diastolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_measure_remind">Reminders</string>
+    <string name="health_blood_pressure_daily_reminders">Ежедневные напоминания</string>
+    <string name="health_blood_pressure_diastolic_pressure">Диастолическое</string>
+    <string name="health_blood_pressure_distribution">Обзор</string>
+    <string name="health_blood_pressure_each_week_day_format1">Кажд. %1$s</string>
+    <string name="health_blood_pressure_each_week_day_format2">Кажд. %1$s, %2$s, и %3$s</string>
+    <string name="health_blood_pressure_each_week_day_format3">Кажд. %1$s до %2$s</string>
+    <string name="health_blood_pressure_high_pressure">Систолическое</string>
+    <string name="health_blood_pressure_low_pressure">Диастолическое</string>
+    <string name="health_blood_pressure_max_high_pressure">Макс. систолическое</string>
+    <string name="health_blood_pressure_max_low_pressure">Макс. диастолическое</string>
+    <string name="health_blood_pressure_measure_remind">Напоминания</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_measure_remind_tip">Receive reminders to measure blood pressure and record results</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_measure_time">Time</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_mild_abnormal">Grade 1 hypertension</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_mild_abnormal_tip">3 days a week after getting up and before going to bed</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_min_high_pressure">Min systolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_min_low_pressure">Min diastolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_normal">Normal</string>
+    <string name="health_blood_pressure_measure_time">Время</string>
+    <string name="health_blood_pressure_mild_abnormal">Гипертония 1 степени</string>
+    <string name="health_blood_pressure_mild_abnormal_tip">3 дня в неделю после пробуждения и перед сном</string>
+    <string name="health_blood_pressure_min_high_pressure">Мин. систолическое</string>
+    <string name="health_blood_pressure_min_low_pressure">Мин. диастолическое</string>
+    <string name="health_blood_pressure_normal">Нормальное</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_normal_tip">Once a week after getting up</string>
 <!-- ### FROM SOURCE -->
@@ -3231,48 +3112,36 @@ ID: %s
     <string name="health_blood_pressure_notice_title1">Time to measure blood pressure</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_notice_title2">Measure your blood pressure</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_preference_not_set">Not set</string>
+    <string name="health_blood_pressure_preference_not_set">Не задано</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_record">Add data</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_record_desc">%1$s systolic/%2$s diastolic</string>
+    <string name="health_blood_pressure_record_desc">%1$s систол./%2$s диастол.</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_record_exception1">"Couldn't save. Systolic pressure can't be lower than diastolic pressure."</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_record_exception2">"Couldn't save. Incorrect parameters."</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_record_time">Time</string>
+    <string name="health_blood_pressure_record_time">Время</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_remind_time">Remind at</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_remind_time_index">Remind at (%1$d)</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_repeat_mode">Repeat</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_severe_abnormal">Grade 2 hypertension</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_severe_abnormal_tip">Every day after getting up, after lunch, and before going to bed</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_status_high">High</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_status_low">Low</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_status_normal">Normal</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_systolic_pressure">Systolic</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_understand">Learn more</string>
+    <string name="health_blood_pressure_severe_abnormal">Гипертония 2 степени</string>
+    <string name="health_blood_pressure_severe_abnormal_tip">Каждый день после пробуждения, после обеда и перед сном</string>
+    <string name="health_blood_pressure_status_high">Высокое</string>
+    <string name="health_blood_pressure_status_low">Низкое</string>
+    <string name="health_blood_pressure_status_normal">Нормальное</string>
+    <string name="health_blood_pressure_systolic_pressure">Систолическое</string>
+    <string name="health_blood_pressure_understand">Подробнее</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_understand_first_desc">"Blood pressure is the pressure of blood pushing against the walls of your arteries as it's pumped around your body. It's written as two numbers: Systolic pressure, the upper number, the pressure in your arteries when your heart beats. Diastolic pressure, the lower number, the pressure in your arteries between beats."</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_understand_first_title">Blood pressure</string>
+    <string name="health_blood_pressure_understand_first_title">Артериальное давление</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_understand_orgin">Source: 2020 International Society of Hypertension Global Hypertension Practice Guidelines</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_understand_second_desc">Blood pressure is considered to be high when the value is 140 mmHg systolic and 90 mmHg diastolic or higher. Usually, 2 to 3 clinic visits at 1 to 4-week intervals are required to confirm the diagnosis.</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_understand_second_title">Hypertension</string>
+    <string name="health_blood_pressure_understand_second_title">Гипертония</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_understand_third_desc">"Based on office blood pressure measurements, blood pressure numbers of less than 130/85 mmHg are considered within the normal range.
 High-normal blood pressure is when readings consistently range from 130–139 systolic and less than 85–89 mmHg diastolic.
@@ -3280,16 +3149,11 @@ Grade 1 hypertension is when blood pressure consistently ranges from 140–159 s
 Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg or higher."</string>
 <!-- ### FROM SOURCE -->
     <string name="health_blood_pressure_understand_third_title">Blood pressure category</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_blood_pressure_unit_short">mmHg</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_body_bmi">BMI</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_body_bmi_desc_content">Body mass index (BMI) is defined as the body mass in kilograms divided by the square of the body height in meters. Knowing your BMI might help you understand whether your weight has any negative impact on your health.</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_body_bone_mass">Bone mass</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_body_bone_mass_desc_content">Bone mineral is the inorganic component of bone tissue. The chemical composition of bones changes with age, affecting mineral density. Studies have shown that long-term regular resistance exercise can effectively delay bone deterioration, reduce fracture risk, and improve quality of life.</string>
+    <string name="health_blood_pressure_unit_short">мм рт.ст.</string>
+    <string name="health_body_bmi">ИМТ</string>
+    <string name="health_body_bmi_desc_content">Индекс массы тела (ИМТ) определяется как масса тела в килограммах, деленная на квадрат роста в метрах. Знание ИМТ может помочь понять, влияет ли ваш вес на ваше здоровье.</string>
+    <string name="health_body_bone_mass">Костная масса</string>
+    <string name="health_body_bone_mass_desc_content">Костный минерал является неорганическим компонентом костной ткани. Химический состав костей меняется с возрастом, влияя на минеральную плотность. Исследования показали, что длительные регулярные упражнения с отягощениями могут эффективно замедлить разрушение костей, снизить риск переломов и улучшить качество жизни.</string>
 <!-- ### FROM SOURCE -->
     <string name="health_body_fat_rate_desc_content">Body fat percentage refers to the proportion of fat in the total weight of the human body.</string>
 <!-- ### FROM SOURCE -->
@@ -3330,12 +3194,9 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_body_water">Water</string>
 <!-- ### FROM SOURCE -->
     <string name="health_body_water_desc_content">Body water percentage refers to the proportion of water in the total weight of the human body. Usually, muscle tissue contains more water than other body parts.</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_body_weight">Weight</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_body_weight_2fkg">%1$.2f kg</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_body_weight_2fkg_short">%1$.2f kg</string>
+    <string name="health_body_weight">Вес</string>
+    <string name="health_body_weight_2fkg">%1$.2f кг</string>
+    <string name="health_body_weight_2fkg_short">%1$.2f кг</string>
 <!-- ### FROM SOURCE -->
     <string name="health_body_weight_bmi_normal">Ideal</string>
 <!-- ### FROM SOURCE -->
@@ -3347,17 +3208,13 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
 <!-- ### FROM SOURCE -->
     <string name="health_body_weight_grade">Level</string>
 <!-- ### FROM SOURCE -->
-    <string name="health_body_weight_string_short">%s kg</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_calendar_title">Calendar</string>
+    <string name="health_body_weight_string_short">%s кг</string>
+    <string name="health_calendar_title">Календарь</string>
 <!-- ### FROM SOURCE -->
     <string name="health_calorie_detail_avg">Average</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_calorie_detail_today">Total</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_calorie_detail_total">Total</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_calorie_with_unit">Calories (kcal)</string>
+    <string name="health_calorie_detail_today">Всего</string>
+    <string name="health_calorie_detail_total">Всего</string>
+    <string name="health_calorie_with_unit">Калории (ккал)</string>
 <!-- ### FROM SOURCE -->
     <string name="health_card_fold">Collapse</string>
 <!-- ### FROM SOURCE -->
@@ -3402,14 +3259,12 @@ Grade 2 hypertension is when blood pressure consistently ranges at 160/100 mmHg 
     <string name="health_common_save">Save</string>
 <!-- ### FROM SOURCE -->
     <string name="health_common_select_null">Not selected</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_common_today">Today</string>
+    <string name="health_common_today">Сегодня</string>
 <!-- ### FROM SOURCE -->
     <string name="health_common_unit_percent">%</string>
 <!-- ### FROM SOURCE -->
     <string name="health_common_view_record">All data</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_current">Today</string>
+    <string name="health_current">Сегодня</string>
 <!-- ### FROM SOURCE -->
     <string name="health_curse">Period</string>
 <!-- ### FROM SOURCE -->
@@ -4364,8 +4219,6 @@ Severe: 81–100."</string>
 <!-- ### FROM SOURCE -->
     <string name="health_taget_toast_not_support_stand_msg">"Standing isn't available on your devices"</string>
 <!-- ### FROM SOURCE -->
-    <string name="health_talkback_current_select">%1$s</string>
-<!-- ### FROM SOURCE -->
     <string name="health_target_activity_time">Moving</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_activity_time_desc">Adults aged 18–⁠64 years should aim for at least 30 minutes per day, 5 times per week of moderate activity.</string>
@@ -4373,30 +4226,21 @@ Severe: 81–100."</string>
     <string name="health_target_activity_title">Moving</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_breath_quality_desc">Breathing</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_calorie_desc_title">Calories (kcal)</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_consumption">Goal</string>
+    <string name="health_target_calorie_desc_title">Калории (ккал)</string>
+    <string name="health_target_consumption">Цель</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_cumulative_achievement_day">Summary</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_cumulative_distance">Distance</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_current_consumption">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_current_duration">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_current_steps">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_current_times">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_data_recommend">About goals</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_data_step">Steps</string>
+    <string name="health_target_current_consumption">Выполнено</string>
+    <string name="health_target_current_duration">Выполнено</string>
+    <string name="health_target_current_steps">Выполнено</string>
+    <string name="health_target_current_times">Выполнено</string>
+    <string name="health_target_data_recommend">О целях</string>
+    <string name="health_target_data_step">Шаги</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_data_step_desc">Walking 10000 steps a day can improve your health.</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_duration">Goal</string>
+    <string name="health_target_duration">Цель</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_dynamic_indicators">Stats</string>
 <!-- ### FROM SOURCE -->
@@ -4443,16 +4287,11 @@ Severe: 81–100."</string>
     <string name="health_target_stand_times_desc">To avoid being sedentary, stand up and move around during 12 different hours in the day.</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_standing_desc">Standing</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_step_child_title">Steps</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_step_desc_title">Steps</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_steps">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_times">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_tips1_title">Tip</string>
+    <string name="health_target_step_child_title">Шаги</string>
+    <string name="health_target_step_desc_title">Шаги</string>
+    <string name="health_target_steps">Цель</string>
+    <string name="health_target_times">Цель</string>
+    <string name="health_target_tips1_title">Совет</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_total_sport_duration">Time</string>
 <!-- ### FROM SOURCE -->
@@ -4460,17 +4299,12 @@ Severe: 81–100."</string>
 <!-- ### FROM SOURCE -->
     <string name="health_target_valid_stand_time">Standing</string>
 <!-- ### FROM SOURCE -->
-    <string name="health_target_value_connect_home_string">%1$s/%2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_target_value_connect_string">%1$s/%2$s</string>
-<!-- ### FROM SOURCE -->
     <string name="health_time">Time</string>
 <!-- ### FROM SOURCE -->
     <string name="health_title_subtitle">Every step counts</string>
 <!-- ### FROM SOURCE -->
     <string name="health_total_sleep_duration">Time</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_tracking_progress_labe_up_refresh">Just a sec</string>
+    <string name="health_tracking_progress_labe_up_refresh">Подождите</string>
 <!-- ### FROM SOURCE -->
     <string name="health_training_load">Training load</string>
 <!-- ### FROM SOURCE -->
@@ -4479,32 +4313,21 @@ Severe: 81–100."</string>
     <string name="health_training_load_understand">Training load</string>
 <!-- ### FROM SOURCE -->
     <string name="health_v02max_name">VO₂ max</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_composite_grade">Level</string>
+    <string name="health_vo2max_composite_grade">Уровень</string>
 <!-- ### FROM SOURCE -->
     <string name="health_vo2max_content">VO₂ max represents the max volume of oxygen uptake measured during incremental exercise at maximal effort. It’s an indicator of aerobic endurance and capacity. Generally, a high VO₂ max value means you are able to exercise at a higher intensity than those who are not as well conditioned.</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_grade">Level</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_level_excellent">Excellent</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_level_good">Normal</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_level_great">Good</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_level_normal">Fair</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_level_perfect">Outstanding</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_level_poor">Poor</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_level_very_poor">Very poor</string>
+    <string name="health_vo2max_grade">Уровень</string>
+    <string name="health_vo2max_level_excellent">Отличный</string>
+    <string name="health_vo2max_level_good">Нормальный</string>
+    <string name="health_vo2max_level_great">Хороший</string>
+    <string name="health_vo2max_level_normal">Нормальный</string>
+    <string name="health_vo2max_level_perfect">Выдающийся</string>
+    <string name="health_vo2max_level_poor">Плохой</string>
+    <string name="health_vo2max_level_very_poor">Очень плохой</string>
 <!-- ### FROM SOURCE -->
     <string name="health_vo2max_month_index_change">Change</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_understand_title">Learn more</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_vo2max_unit">ml/kg/min</string>
+    <string name="health_vo2max_understand_title">Подробнее</string>
+    <string name="health_vo2max_unit">мл/кг/мин</string>
 <!-- ### FROM SOURCE -->
     <string name="health_vo2max_week_index_change">Change</string>
 <!-- ### FROM SOURCE -->
@@ -4519,14 +4342,8 @@ Severe: 81–100."</string>
     <string name="health_weight_please_choose">Select</string>
 <!-- ### FROM SOURCE -->
     <string name="health_weight_recommend">Suggested</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_weight_unit_kg">kg</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_widget_sleep_end_desc">%1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="health_widget_sleep_start_desc">%1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="heartrate">Heart rate</string>
+    <string name="health_weight_unit_kg">кг</string>
+    <string name="heartrate">Пульс</string>
 <!-- ### FROM SOURCE -->
     <string name="heartrate_camera_permission_desc">For obtaining the frequency of light changes around the finger through the camera in order to determine the heart rate value</string>
 <!-- ### FROM SOURCE -->
@@ -4643,8 +4460,7 @@ Start over."</string>
     <string name="heartrate_report_resting_normal_desc">"Your resting heart rate is normal. Resting heart rate is the number of times your heart beats per minute when you're at rest. The best time to measure your resting heart rate is when you wake up in the morning, while still lying in bed and not doing any physical activity. Take some time to breathe deeply before measuring your resting heart rate to completely relax your body."</string>
 <!-- ### FROM SOURCE -->
     <string name="heartrate_report_resting_slow_desc">Your resting heart rate is slower than normal which might be the sign of bradycardia. Extended periods of slow heartbeat may cause ischemia and hypoxia, as well as other cardiovascular and cerebrovascular disorders. Resting heart rate is closely related to your diet, activity, stress levels, sleep habits, and overall physical condition. Maintain a healthy lifestyle and pay attention to your body in order to avoid problems. If you experience chest tightness, dizziness, blackouts, vertigo, or fainting, please consult your physician in time.</string>
-<!-- ### FROM SOURCE -->
-    <string name="heartrate_resting_heart_rate">Resting heart rate</string>
+    <string name="heartrate_resting_heart_rate">Пульс покоя</string>
 <!-- ### FROM SOURCE -->
     <string name="heartrate_resting_heart_rate_desc">"Resting heart rate is the number of times your heart beats per minute when you're at rest. Typically, a resting heart rate ranges from 55 to 80 BPM. However, it varies with age, gender, and other factors."</string>
 <!-- ### FROM SOURCE -->
@@ -4675,8 +4491,7 @@ Start over."</string>
     <string name="heartrate_strength_lowest">Lowest</string>
 <!-- ### FROM SOURCE -->
     <string name="heartrate_strength_mid">Medium</string>
-<!-- ### FROM SOURCE -->
-    <string name="i_know">Got it</string>
+    <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
 <!-- ### FROM SOURCE -->
     <string name="identity">Identification</string>
@@ -4685,76 +4500,41 @@ Start over."</string>
 <!-- ### FROM SOURCE -->
     <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
     <string name="input_length_exceeds_limit">Слишком длинный текст</string>
-<!-- ### FROM SOURCE -->
-    <string name="input_new_pwd">Enter new password</string>
-<!-- ### FROM SOURCE -->
-    <string name="isornot_your_mi_account">Is this your Mi Account?</string>
+    <string name="input_new_pwd">Введите новый пароль</string>
+    <string name="isornot_your_mi_account">Это ваш Mi Аккаунт?</string>
     <string name="item_view_role_description">Вкладка</string>
-<!-- ### FROM SOURCE -->
-    <string name="just_a_second">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="keep_alive_notification_channel">Device connection</string>
-<!-- ### FROM SOURCE -->
-    <string name="keep_alive_notification_content_connected">Connected</string>
-<!-- ### FROM SOURCE -->
-    <string name="keep_alive_notification_content_connecting">Connecting…</string>
-<!-- ### FROM SOURCE -->
+    <string name="just_a_second">Подождите…</string>
+    <string name="keep_alive_notification_channel">Подключение устройства</string>
+    <string name="keep_alive_notification_content_connected">Подключено</string>
+    <string name="keep_alive_notification_content_connecting">Подключение…</string>
     <string name="languages_ar">العربية</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_cn">简体中文</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_cs">Čeština</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_da">Dansk</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_de">Deutsch</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_el">Eλληνικά</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_en">English</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_es">Español</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_fi">Suomi</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_fr">Français</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_he">עברית</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_in">Indonesia</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_it">Italiano</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_ja">日本語</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_ko">한국어</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_nl">Nederlands</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_no">Norsk bokmål</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_pl">Polski</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_pt">Português (Portugal)</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_pt_br">Português (Brasil)</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_ro">Română</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_ru">Русский</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_sv">Svenska</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_th">ไทย</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_tr">Türkçe</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_tw">繁體中文</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_uk">Українська</string>
-<!-- ### FROM SOURCE -->
     <string name="languages_vi">Tiếng Việt</string>
-<!-- ### FROM SOURCE -->
     <string name="line_slash">/</string>
     <string name="loading">Подождите…</string>
     <string name="lock_support_description2">Не можете найти мед. паспорт на экране блокировки?</string>
@@ -5340,8 +5120,7 @@ Earn this award"</string>
     <string name="nfc_card_issue_hint_success_default">Added successfully</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_issue_hint_success_milock">Complete key card setup in Mi Home</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_issuing_global">Just a sec</string>
+    <string name="nfc_card_issuing_global">Подождите</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_list_cloud_trans_group_name">My cards</string>
 <!-- ### FROM SOURCE -->
@@ -5354,8 +5133,7 @@ Earn this award"</string>
     <string name="nfc_card_list_install_now">Add</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_list_installed">Added</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_list_notice_dialog_title">Attention</string>
+    <string name="nfc_card_list_notice_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_list_transfer">Add</string>
 <!-- ### FROM SOURCE -->
@@ -5420,58 +5198,36 @@ Earn this award"</string>
     <string name="nfc_cnv2">CVN2</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_cnv2_help_info">The CVN2 is the last 3 digits on the back of the card</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_agree">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_back">Back</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_cancle">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_complete">Done</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_copid">Copied successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_hint">Attention</string>
+    <string name="nfc_common_agree">ОК</string>
+    <string name="nfc_common_back">Назад</string>
+    <string name="nfc_common_cancle">Отмена</string>
+    <string name="nfc_common_complete">Готово</string>
+    <string name="nfc_common_confirm">ОК</string>
+    <string name="nfc_common_copid">Успешно скопировано</string>
+    <string name="nfc_common_hint">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_common_hint_device_unconnect">Connect to your wearable device and try again.</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_common_hint_hold_on">Keep your wearable device connected to your phone</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_hint_no_data">Try again later</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_hint_server_unavailable">A server error occurred. Try again later.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_known">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_more_setting">More</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_not_support_version">"Current version isn't supported"</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_notification">Notifications</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_null">None</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_ok">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_page_not_find">Page not found</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_retry">Try again</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_step_next">Next</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_success">Done</string>
+    <string name="nfc_common_hint_no_data">Попробуйте позже</string>
+    <string name="nfc_common_hint_server_unavailable">Ошибка сервера. Попробуйте позже.</string>
+    <string name="nfc_common_known">Понятно</string>
+    <string name="nfc_common_more_setting">Еще</string>
+    <string name="nfc_common_not_support_version">Текущая версия не поддерживается</string>
+    <string name="nfc_common_notification">Уведомления</string>
+    <string name="nfc_common_null">Нет</string>
+    <string name="nfc_common_ok">ОК</string>
+    <string name="nfc_common_page_not_find">Страница не найдена</string>
+    <string name="nfc_common_retry">Повтор</string>
+    <string name="nfc_common_step_next">Далее</string>
+    <string name="nfc_common_success">Готово</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_common_time_out">Session timed out. Try again.</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_common_tsm_card_service_cost">Service fee</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_common_unit_rmb">CNY</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_waiting">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_consume_amount">-%1$.2f</string>
+    <string name="nfc_common_waiting">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_contact_us_url">&lt;Data>&lt;a href=\"%1$s\">Contact us&lt;/a>&lt;/Data></string>
 <!-- ### FROM SOURCE -->
@@ -5480,18 +5236,12 @@ Earn this award"</string>
     <string name="nfc_cvc2_help_info">The CVC2 is the last 3 digits on the back of the card</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_cvc2_protocl">"&lt;Data>I've read and agreed to the &lt;a href=\"%1$s\">terms and conditions&lt;/a>.&lt;/Data>"</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_data_empty">No data</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_default_card">Default</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_default_card_set_failure">"Couldn't set"</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_default_card_set_ing">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_default_card_set_success">Set successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_delete_card_confim_hint">Delete card?</string>
+    <string name="nfc_data_empty">Нет данных</string>
+    <string name="nfc_default_card">По умолчанию</string>
+    <string name="nfc_default_card_set_failure">Не удалось установить</string>
+    <string name="nfc_default_card_set_ing">Подождите…</string>
+    <string name="nfc_default_card_set_success">Успешно установлено</string>
+    <string name="nfc_delete_card_confim_hint">Удалить карту?</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_delete_card_confim_hint_bank">"You can't use this card for payment anymore. Continue anyway?"</string>
 <!-- ### FROM SOURCE -->
@@ -5512,8 +5262,7 @@ Earn this award"</string>
     <string name="nfc_door_card_battery_sync_error">Add the card on your phone.</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_door_card_protocol_dialog_content_contain">"&lt;Data> I agree to be liable for any damage or loss arising from the illegal or inappropriate use of the key card service.&lt;br>I've read and agreed to&lt;a href=\"%1$s\">Key Card User Agreement&lt;/a>.&lt;br>&lt;/Data>"</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_door_card_protocol_dialog_title">Attention</string>
+    <string name="nfc_door_card_protocol_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_dot">.</string>
 <!-- ### FROM SOURCE -->
@@ -5757,8 +5506,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="nfc_phone_num_captcha_desc">SMS verification</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_phone_num_captcha_input_hint">Enter code</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_phone_num_captcha_waitting">Just a sec…</string>
+    <string name="nfc_phone_num_captcha_waitting">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_phone_num_input_error">Check the phone number</string>
 <!-- ### FROM SOURCE -->
@@ -5907,8 +5655,7 @@ This step is required to pay with your device."</string>
     <string name="nfc_syncese_content_mastercard_url">"If you're having trouble with your card, we can attempt to fix the issue. If the problem persists, contact our &lt;a href=\"%1$s\">customer support&lt;/a>."</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_syncese_dialog_content">"It takes about 1 minute. Keep your phone connected to the network and don't leave this page."</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_syncese_loading_content_global">Just a sec…</string>
+    <string name="nfc_syncese_loading_content_global">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_syncese_sync_success">Fixed successfully</string>
 <!-- ### FROM SOURCE -->
@@ -5917,8 +5664,6 @@ This step is required to pay with your device."</string>
     <string name="nfc_text_separator">|</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_thirdparty_wechat_uninstall">Install WeChat first</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_tip_ad2p_success">音乐接力成功</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_trade_type_consume">Spending</string>
 <!-- ### FROM SOURCE -->
@@ -6580,7 +6325,7 @@ This step is required to pay with your device."</string>
     <string name="sport_custom">Custom</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_custom_target">Custom</string>
-    <string name="sport_cycle_distance">Расстояние</string>
+    <string name="sport_cycle_distance">Дистанция</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_cycling_outdoor">Outdoor cycling</string>
 <!-- ### FROM SOURCE -->
@@ -6601,7 +6346,7 @@ This step is required to pay with your device."</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_disconnect">Disconnect</string>
 <!-- ### FROM SOURCE -->
-    <string name="sport_distance">Расстояние</string>
+    <string name="sport_distance">Дистанция</string>
     <string name="sport_dont_remind">Откл.</string>
     <string name="sport_duration">Длительность</string>
 <!-- ### FROM SOURCE -->
@@ -6612,16 +6357,11 @@ This step is required to pay with your device."</string>
     <string name="sport_equipment_abnormal_title">An error occurred</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_finish_sport">End</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_firmware_download_upgrade_packet">Download</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_firmware_transfer_progrogress_expression">Synced &lt;xliff:g id=\"download_progress\">%1$d&lt;/xliff:g>%%</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_firmware_update_log">"What's new"</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_firmware_updating">Updating…</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_firmware_version_is_latest">Current version is up to date</string>
+    <string name="sport_firmware_download_upgrade_packet">Загрузить</string>
+    <string name="sport_firmware_transfer_progrogress_expression">Синхронизировано &lt;xliff:g id=\"download_progress\">%1$d&lt;/xliff:g>%%</string>
+    <string name="sport_firmware_update_log">Что нового</string>
+    <string name="sport_firmware_updating">Обновление…</string>
+    <string name="sport_firmware_version_is_latest">Обновление не требуется</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_folding_lock_detail">Unfold your treadmill first</string>
     <string name="sport_folding_lock_title">Внимание</string>
@@ -6641,18 +6381,14 @@ This step is required to pay with your device."</string>
     <string name="sport_go_install_desc">Download Mi Home to connect to your treadmill.</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_go_sport">GO</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_goal">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_got_it">Got it</string>
+    <string name="sport_goal">Цель</string>
+    <string name="sport_got_it">Понятно</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_gps_enable">Location is off</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_gps_permission">Location access is off</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_gym">Treadmill</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_gym_name">Treadmill</string>
+    <string name="sport_gym">Беговая дорожка</string>
+    <string name="sport_gym_name">Беговая дорожка</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_gym_plaec">Put your phone on the holder to detect treadmill vibration and track steps</string>
 <!-- ### FROM SOURCE -->
@@ -6798,8 +6534,7 @@ This step is required to pay with your device."</string>
     <string name="sport_reject">Deny</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_revoke_authorization_dialog_content">"If you continue, you'll withdraw your consent to our Privacy Policy. The account currently signed in on your paired device will be removed. To delete your data stored in Mi Fitness, delete your Mi Fitness service. To delete data on your paired device, refer to Withdrawal of consent in our Privacy Policy. If you're using a wearable device, a factory reset erases all your data on it. If you change your mind, you won't be able to recover your data. You'll need to agree to our Privacy Policy again and pair your device if you decide you use it."</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_revoke_authorization_dialog_title">Attention</string>
+    <string name="sport_revoke_authorization_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_revoke_authorization_ensure_revoke">Continue</string>
 <!-- ### FROM SOURCE -->
@@ -6812,8 +6547,7 @@ This step is required to pay with your device."</string>
     <string name="sport_screen_on">Keep screen on</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_security_lock_detail">Insert the safety key first</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_security_lock_title">Attention</string>
+    <string name="sport_security_lock_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_see">Review</string>
 <!-- ### FROM SOURCE -->
@@ -7038,8 +6772,7 @@ This step is required to pay with your device."</string>
     <string name="trail_choose_posture">Style</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_complete_operation">Complete in 20s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_data_activity_calorie">Active kcal</string>
+    <string name="trail_data_activity_calorie">Активные ккал</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_data_my_status">我的状态</string>
     <string name="trail_data_rate_distribute0" />
@@ -7133,38 +6866,27 @@ This step is required to pay with your device."</string>
     <string name="trail_height_flat">Flat</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_high_intensity_description">"Couldn't talk without pausing for breath"</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_img_gallery">Gallery</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_indoor_cycling_avg">Avg</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_indoor_cycling_best">Max</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_indoor_cycling_feq">Cadence (RPM)</string>
+    <string name="trail_img_gallery">Галерея</string>
+    <string name="trail_indoor_cycling_avg">Сред.</string>
+    <string name="trail_indoor_cycling_best">Макс.</string>
+    <string name="trail_indoor_cycling_feq">Каденс (об/мин)</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_intensity_high">Vigorous</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_intensity_low">Light</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_intensity_medium">Moderate</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_intermittent_segment_details">Intervals</string>
+    <string name="trail_intermittent_segment_details">Интервалы</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_label">1. Sport Record</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_label_calorie">kcal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_label_km">km</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_label_km_hour">km/h</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_label_meter">m</string>
+    <string name="trail_label_calorie">ккал</string>
+    <string name="trail_label_km">км</string>
+    <string name="trail_label_km_hour">км/ч</string>
+    <string name="trail_label_meter">м</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_label_percent">Percentage</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_label_sec_hm">/100 m</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_label_sec_km">/km</string>
+    <string name="trail_label_sec_hm">/100 м</string>
+    <string name="trail_label_sec_km">/км</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_label_time">Time</string>
 <!-- ### FROM SOURCE -->
@@ -7173,8 +6895,7 @@ This step is required to pay with your device."</string>
     <string name="trail_lactate_threshold">Threshold</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_low_intensity_description">Could talk without puffing</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_max_stress">Max</string>
+    <string name="trail_max_stress">Макс.</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_middle_intensity_description">Could talk but not sing</string>
 <!-- ### FROM SOURCE -->
@@ -7183,12 +6904,10 @@ This step is required to pay with your device."</string>
     <string name="trail_month_dialog_select_date">Selected %1$s</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_not_exercising">Not now</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_pace_best">Pace</string>
+    <string name="trail_pace_best">Темп</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_press_gym_button">Press the button</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_rate_average_heart_rate">BPM</string>
+    <string name="trail_rate_average_heart_rate">уд/мин</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_rate_dist_aerobic_new">Aerobic</string>
 <!-- ### FROM SOURCE -->
@@ -7215,10 +6934,8 @@ This step is required to pay with your device."</string>
     <string name="trail_rowing_req_title">Stroke rate</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_save_success">Saved successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_segment_detail">Intervals</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_select_exercise_intensity">Intensity</string>
+    <string name="trail_segment_detail">Интервалы</string>
+    <string name="trail_select_exercise_intensity">Интенсивность</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_select_type">Workout</string>
 <!-- ### FROM SOURCE -->
@@ -7227,18 +6944,15 @@ This step is required to pay with your device."</string>
     <string name="trail_share_app_desc">Your workout tracker</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_app_download">Press and hold the QR code to download Mi Fitness</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_share_calorie_desc">Calories</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_share_calorie_detail">Calories (kcal)</string>
+    <string name="trail_share_calorie_desc">Калории</string>
+    <string name="trail_share_calorie_detail">Калории (ккал)</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_errcode_cancel">Canceled</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_errcode_deny">"Couldn't share"</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_errcode_success">Shared successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_share_errcode_unknown">Back</string>
+    <string name="trail_share_errcode_unknown">Назад</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_errcode_unsupported">"Couldn't share. Update your WeChat first."</string>
 <!-- ### FROM SOURCE -->
@@ -7249,30 +6963,23 @@ This step is required to pay with your device."</string>
     <string name="trail_share_not_install_wx">Install WeChat first</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_pic_square">Square image</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_share_progress_share_long_pic">Processing…</string>
+    <string name="trail_share_progress_share_long_pic">Обработка…</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_save_path_video">Save and share</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_shall_data_null">Select a workout</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_sport_desc">Share your workout record</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_share_video">Video</string>
+    <string name="trail_share_video">Видео</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_share_wx_not_support_timeline">Update WeChat first.</string>
-<!-- ### FROM SOURCE -->
     <string name="trail_share_wx_session">WeChat</string>
+    <string name="trail_share_wx_timeline">Моменты</string>
+    <string name="trail_skiing_distance">км</string>
+    <string name="trail_skiing_time">Время</string>
+    <string name="trail_skiing_times">Круги</string>
 <!-- ### FROM SOURCE -->
-    <string name="trail_share_wx_timeline">Moments</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_skiing_distance">km</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_skiing_time">Time</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_skiing_times">Lap</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_speed_best">Speed</string>
+    <string name="trail_speed_best">Скорость</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_another_data">Other</string>
 <!-- ### FROM SOURCE -->
@@ -7281,83 +6988,51 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_avg_down_swing_duration">Down</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_avg_resistance">Resistance</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_avg_stress">Avg</string>
+    <string name="trail_sport_avg_stress">Сред.</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_avg_swing_rhythm">Tempo</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_avg_value_desc">Avg: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_ball_swing_num">Strokes</string>
+    <string name="trail_sport_avg_value_desc">Сред.: %1$s</string>
+    <string name="trail_sport_ball_swing_num">Гребки</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_basketball_dribble_duration">Dribble</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_basketball_shoot_count">Shots</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_behavior">Training effect</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_best_row_freq">Max</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_calorie_unit">Calories (kcal)</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_climb_stairs">Stair climbing</string>
+    <string name="trail_sport_behavior">Тренировочный эффект</string>
+    <string name="trail_sport_best_row_freq">Макс.</string>
+    <string name="trail_sport_calorie_unit">Калории (ккал)</string>
+    <string name="trail_sport_climb_stairs">Степпер</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_cross_country_skiing">Cross-country skiing</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_data_total_climbing">Elev gain (m)</string>
+    <string name="trail_sport_data_total_climbing">Набор высоты (м)</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_date">Time</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_detail_avg_cadence">Avg SPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_rowing">Avg</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_skipping">Avg</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_skipping_height">Avg</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_speed">km/h</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_speed1">Speed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_step_length">Avg</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_step_length_summary">Stride (cm)</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_avg_time">BPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_delete">Delete</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_fall_height">Elev loss</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_from">Data source: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_height_title">Elevation (m)</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_max_rowing">Max</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_max_skipping">Max</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_max_skipping_height">Min</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_max_speed">Max speed (km/h)</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_min_skipping_height">Min</string>
+    <string name="trail_sport_detail_avg_rowing">Сред.</string>
+    <string name="trail_sport_detail_avg_skipping">Сред.</string>
+    <string name="trail_sport_detail_avg_skipping_height">Сред.</string>
+    <string name="trail_sport_detail_avg_speed">км/ч</string>
+    <string name="trail_sport_detail_avg_speed1">Скорость</string>
+    <string name="trail_sport_detail_avg_step_length">Сред.</string>
+    <string name="trail_sport_detail_avg_step_length_summary">Длина шага (см)</string>
+    <string name="trail_sport_detail_avg_time">уд/мин</string>
+    <string name="trail_sport_detail_delete">Удалить</string>
+    <string name="trail_sport_detail_fall_height">Потеря высоты</string>
+    <string name="trail_sport_detail_from">Источник данных: %1$s</string>
+    <string name="trail_sport_detail_height_title">Высота (м)</string>
+    <string name="trail_sport_detail_max_rowing">Макс.</string>
+    <string name="trail_sport_detail_max_skipping">Макс.</string>
+    <string name="trail_sport_detail_max_skipping_height">Мин.</string>
+    <string name="trail_sport_detail_max_speed">Макс. скорость (км/ч)</string>
+    <string name="trail_sport_detail_min_skipping_height">Мин.</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_detail_other_avg_feq">JPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_pace">Pace</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_pace_title">Kilometer splits</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_rise_height">Elev gain</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_segment_avg_feq">Frequency</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_speed">Speed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_detail_swim_avg_pace">Pace</string>
-<!-- ### FROM SOURCE -->
+    <string name="trail_sport_detail_pace">Темп</string>
+    <string name="trail_sport_detail_pace_title">Километровые отсечки</string>
+    <string name="trail_sport_detail_rise_height">Набор высоты</string>
+    <string name="trail_sport_detail_segment_avg_feq">Частота</string>
+    <string name="trail_sport_detail_speed">Скорость</string>
+    <string name="trail_sport_detail_swim_avg_pace">Темп</string>
     <string name="trail_sport_detail_value_with_unit">%1$s (%2$s)</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_duration_expend">Time</string>
@@ -7367,18 +7042,14 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_fast_desc">Fast</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_feedback_dialog_desc">Upload the workout to help us improve our services?</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_feedback_dialog_nagtive_btn">Cancel</string>
+    <string name="trail_sport_feedback_dialog_nagtive_btn">Отмена</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_feedback_dialog_positive_btn">Upload</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_feedback_edit_hint_new">Enter feedback</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_feedback_lable1">Distance</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_feedback_lable2">Pace</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_feedback_lable3">Route</string>
+    <string name="trail_sport_feedback_lable1">Дистанция</string>
+    <string name="trail_sport_feedback_lable2">Темп</string>
+    <string name="trail_sport_feedback_lable3">Маршрут</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_feedback_lable4">Bluetooth connection</string>
 <!-- ### FROM SOURCE -->
@@ -7437,36 +7108,25 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_group_info_title1">Name</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_group_info_title2">Time</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_group_info_title3">BPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_group_info_title4">Active kcal</string>
+    <string name="trail_sport_group_info_title3">уд/мин</string>
+    <string name="trail_sport_group_info_title4">Активные ккал</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_group_title">Overview</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_hang_in_air_duration">Hang time</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_list_record">Show all</string>
+    <string name="trail_sport_list_record">Показать все</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_location_amap">Amap GPS location</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_cadence_desc">Max: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_height_desc">Max: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_rate_desc">Max: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_row_freq_desc">Max: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_skip_height_desc">Max: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_speed_desc">Max: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_stroke_freq_desc">Max: %1$s</string>
+    <string name="trail_sport_max_cadence_desc">Макс.: %1$s</string>
+    <string name="trail_sport_max_height_desc">Макс.: %1$s</string>
+    <string name="trail_sport_max_rate_desc">Макс.: %1$s</string>
+    <string name="trail_sport_max_row_freq_desc">Макс.: %1$s</string>
+    <string name="trail_sport_max_skip_height_desc">Макс.: %1$s</string>
+    <string name="trail_sport_max_speed_desc">Макс.: %1$s</string>
+    <string name="trail_sport_max_stroke_freq_desc">Макс.: %1$s</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_max_swolf_desc">Highest: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_max_value_desc">Max: %1$s</string>
+    <string name="trail_sport_max_value_desc">Макс.: %1$s</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_name_amap">Amap route drawing</string>
 <!-- ### FROM SOURCE -->
@@ -7487,20 +7147,15 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_row_count_title">Strokes</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_row_energy_working">Work</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_run">Run</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_run_indoor">Treadmill</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_run_outdoor">Outdoor running</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_running_distance">Distance</string>
+    <string name="trail_sport_run">Бег</string>
+    <string name="trail_sport_run_indoor">Беговая дорожка</string>
+    <string name="trail_sport_run_outdoor">Бег на улице</string>
+    <string name="trail_sport_running_distance">Дистанция</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_sao2">Blood oxygen</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_scroll_top_desc">Swipe up to view more</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_segment_btn_txt">Show more</string>
+    <string name="trail_sport_segment_btn_txt">Показать еще</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_segment_detail_desc">Less than 1 km | %1$s</string>
 <!-- ### FROM SOURCE -->
@@ -7509,8 +7164,7 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_setting">Workouts</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_setting_more">Rarely used items</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_share_calorie_desc">%d  kcal</string>
+    <string name="trail_sport_share_calorie_desc">%d ккал</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_share_record_give_up_confirm">Cancel sharing?</string>
 <!-- ### FROM SOURCE -->
@@ -7519,12 +7173,9 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_share_recording">Recording…</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_share_video_save_ablum">Saved to Gallery</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_skiing">Skiing</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_skiing_distance">Distance</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_skiing_turn_count">Laps</string>
+    <string name="trail_sport_skiing">Лыжи</string>
+    <string name="trail_sport_skiing_distance">Дистанция</string>
+    <string name="trail_sport_skiing_turn_count">Круги</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_skipping_count_title">Jumps</string>
 <!-- ### FROM SOURCE -->
@@ -7535,90 +7186,55 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_snow_max_slope">Max slope</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_sorting_desc">Hold the Sort button to rearrange items</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_speed_unit">km/h</string>
+    <string name="trail_sport_speed_unit">км/ч</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_summary">Summary</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_avg_hrm">BPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_avg_pace">Pace</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_avg_speed">Speed</string>
+    <string name="trail_sport_summary_avg_hrm">уд/мин</string>
+    <string name="trail_sport_summary_avg_pace">Темп</string>
+    <string name="trail_sport_summary_avg_speed">Скорость</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_summary_avg_swolf">Avg</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_cadence">Cadence (SPM)</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_fall_height">Elev loss (m)</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_frequency_rowing">SPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_frequency_skipping">Frequency</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_hrm">Heart rate</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_max_hrm">Max BPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_rise_height">Elev gain (m)</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_skipping_height">Jump height (cm)</string>
+    <string name="trail_sport_summary_cadence">Каденс (об/мин)</string>
+    <string name="trail_sport_summary_fall_height">Потеря высоты (м)</string>
+    <string name="trail_sport_summary_frequency_rowing">об/мин</string>
+    <string name="trail_sport_summary_frequency_skipping">Частота</string>
+    <string name="trail_sport_summary_hrm">Пульс</string>
+    <string name="trail_sport_summary_max_hrm">Макс. пульс</string>
+    <string name="trail_sport_summary_rise_height">Набор высоты (м)</string>
+    <string name="trail_sport_summary_skipping_height">Высота прыжков (см)</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_summary_sport_time">Time</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_steps">Steps</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_stroke_count">Strokes</string>
+    <string name="trail_sport_summary_steps">Шаги</string>
+    <string name="trail_sport_summary_stroke_count">Гребки</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_summary_swimming_posture">Main style</string>
 <!-- ### FROM SOURCE -->
-    <string name="trail_sport_summary_total_calories">Total kcal</string>
+    <string name="trail_sport_summary_total_calories">Всего ккал</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_swim">Pool swimming</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_swim_pace_desc">%s/100 m</string>
+    <string name="trail_sport_swim_pace_desc">%s/100 м</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_swim_turn_count">Lengths</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_swing_times">Strokes</string>
-<!-- ### FROM SOURCE -->
     <string name="trail_sport_swolf">SWOLF</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target">Goal completion</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_actural">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_cadence">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_calorie">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_calorie_actual">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_counts">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_counts_actual">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_counts_row">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_counts_row_actual">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_distance">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_distance_actual">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_distance_title">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_pace">Pace</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_time">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_time_actual">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_times">Goal</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_times_actual">Completed</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_target_value_desc">%1$s</string>
+    <string name="trail_sport_target">Достижение цели</string>
+    <string name="trail_sport_target_actural">Выполнено</string>
+    <string name="trail_sport_target_cadence">Цель</string>
+    <string name="trail_sport_target_calorie">Цель</string>
+    <string name="trail_sport_target_calorie_actual">Выполнено</string>
+    <string name="trail_sport_target_counts">Цель</string>
+    <string name="trail_sport_target_counts_actual">Выполнено</string>
+    <string name="trail_sport_target_counts_row">Цель</string>
+    <string name="trail_sport_target_counts_row_actual">Выполнено</string>
+    <string name="trail_sport_target_distance">Цель</string>
+    <string name="trail_sport_target_distance_actual">Выполнено</string>
+    <string name="trail_sport_target_distance_title">Цель</string>
+    <string name="trail_sport_target_pace">Темп</string>
+    <string name="trail_sport_target_time">Цель</string>
+    <string name="trail_sport_target_time_actual">Выполнено</string>
+    <string name="trail_sport_target_times">Цель</string>
+    <string name="trail_sport_target_times_actual">Выполнено</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_tennis_backhand_swing_count">Backhands</string>
 <!-- ### FROM SOURCE -->
@@ -7657,30 +7273,21 @@ This step is required to pay with your device."</string>
     <string name="trail_sport_triathlon_info_second_change">T2</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_triathlon_title1">Name</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_triathlon_title2">Distance</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_triathlon_title3">Time</string>
-<!-- ### FROM SOURCE -->
+    <string name="trail_sport_triathlon_title2">Дистанция</string>
+    <string name="trail_sport_triathlon_title3">Время</string>
     <string name="trail_sport_type_title_name">%1$s | Mi Fitness</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_unit_cadence">SPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_unit_speed">km/h</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_unit_swimming_pace">100 m</string>
-<!-- ### FROM SOURCE -->
+    <string name="trail_sport_unit_speed">км/ч</string>
+    <string name="trail_sport_unit_swimming_pace">100 м</string>
     <string name="trail_sport_v02max_name">VO₂ max</string>
+    <string name="trail_sport_v02max_unit">мл/кг/мин</string>
 <!-- ### FROM SOURCE -->
-    <string name="trail_sport_v02max_unit">ml/kg/min</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_v02max_unit_desc">%d ml/kg/min</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_sport_walk">Walking</string>
+    <string name="trail_sport_v02max_unit_desc">%d мл/кг/мин</string>
+    <string name="trail_sport_walk">Ходьба</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_sport_weeks_desc">Week %1$d</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_step_length">Stride (cm)</string>
+    <string name="trail_step_length">Длина шага (см)</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_stress">Stress</string>
 <!-- ### FROM SOURCE -->
@@ -7693,14 +7300,10 @@ This step is required to pay with your device."</string>
     <string name="trail_swim_avg_swolf">Avg</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_swim_best_swolf">Best</string>
-<!-- ### FROM SOURCE -->
     <string name="trail_swim_consume_time">%1$s | %2$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_swim_max_stroke_feq">Max</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_swim_pace_hundred_meters">/100 m</string>
-<!-- ### FROM SOURCE -->
-    <string name="trail_swim_segment">Interval</string>
+    <string name="trail_swim_max_stroke_feq">Макс.</string>
+    <string name="trail_swim_pace_hundred_meters">/100 м</string>
+    <string name="trail_swim_segment">Интервал</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_swim_segment_desc_simple">Split %1$d</string>
 <!-- ### FROM SOURCE -->
@@ -7823,8 +7426,7 @@ This step is required to pay with your device."</string>
     <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
 <!-- ### FROM SOURCE -->
     <string name="user_avatar_update_title">Change profile photo</string>
-<!-- ### FROM SOURCE -->
-    <string name="user_avatar_uploading">Just a sec…</string>
+    <string name="user_avatar_uploading">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="user_id_hint">Email/Phone/Mi Account ID</string>
 <!-- ### FROM SOURCE -->
@@ -8001,8 +7603,7 @@ This step is required to pay with your device."</string>
     <string name="userinfo_medical_file_desc2">Record the basic information about your health to be able to show it to health care providers in case of emergency.</string>
 <!-- ### FROM SOURCE -->
     <string name="userinfo_medical_id">Medical card</string>
-<!-- ### FROM SOURCE -->
-    <string name="userinfo_medical_id_screen_lock_show_confirmation_title">Attention</string>
+    <string name="userinfo_medical_id_screen_lock_show_confirmation_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="userinfo_medical_id_screen_lock_show_description">"Your Medical card can be accessed without unlocking your phone.
 If you don't want to share your information, you can turn this feature off."</string>
@@ -8178,13 +7779,11 @@ If you don't want to share your information, you can turn this feature off."</st
     <string name="web_share_des">A message from your friend.</string>
 <!-- ### FROM SOURCE -->
     <string name="web_ssl_error_msg">"There's a problem with the website's security certificate, continue to this website?"</string>
-<!-- ### FROM SOURCE -->
-    <string name="web_warning">Attention</string>
+    <string name="web_warning">Внимание</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_line_chart_unit_desc">(mins)</string>
+    <string name="widget_line_chart_unit_desc">(мин.)</string>
 <!-- ### FROM SOURCE -->
     <string name="widget_rainbow_label">Stats</string>
 <!-- ### FROM SOURCE -->
