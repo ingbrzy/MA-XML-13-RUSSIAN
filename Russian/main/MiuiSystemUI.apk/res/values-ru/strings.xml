@@ -2291,6 +2291,9 @@ mm"</string>
     <string name="priority_onboarding_show_at_top_text">Размещаться в верхней части списка</string>
     <string name="priority_onboarding_show_avatar_text">Показывать фото профиля на экране блокировки</string>
     <string name="priority_onboarding_title">Настройка приоритета</string>
+    <string name="privacy_dialog_title">Уведомления о конфиденциальных действиях</string>
+    <string name="privacy_recent_used_title">Недавние</string>
+    <string name="privacy_using_title">Активные</string>
     <string name="private_dns_broken">Частный DNS-сервер недоступен</string>
     <string name="private_dns_mode_off">Выкл.</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
@@ -2519,6 +2522,9 @@ mm"</string>
     <string name="recent_task_cleaning">Закрытие приложений…</string>
     <string name="recent_task_lock_text">Закрепить</string>
     <string name="recent_task_unlock_text">Открепить</string>
+    <string name="recent_used_camera">Приложение использовало камеру</string>
+    <string name="recent_used_camera_and_microphone">Приложение использовало микрофон и камеру</string>
+    <string name="recent_used_microphone">Приложение использовало микрофон</string>
     <string name="recents_accessibility_split_screen_left">Разделить по левому краю</string>
     <string name="recents_accessibility_split_screen_right">Разделить по правому краю</string>
     <string name="recents_accessibility_split_screen_top">Разделить по верхнему краю</string>
@@ -3186,6 +3192,9 @@ d MMMM"</string>
     <string name="user_setup_dialog_title">Настроить пространство?</string>
     <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
     <string name="user_switch_to_user">Переключиться на %s</string>
+    <string name="using_camera">Приложение использует камеру</string>
+    <string name="using_camera_and_microphone">Приложение использует микрофон и камеру</string>
+    <string name="using_microphone">Приложение использует микрофон</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>

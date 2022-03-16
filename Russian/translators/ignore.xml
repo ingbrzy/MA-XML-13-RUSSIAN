@@ -1931,6 +1931,7 @@
     <string name="ct_volte_no_voice_service_notification_channel">ctVolteNoCallServiceChannel</string>
     <string name="current_page_template">%1$d/%2$d</string>
     <string name="current_service_key">service</string>
+    <string name="custom_theme">name,id</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
