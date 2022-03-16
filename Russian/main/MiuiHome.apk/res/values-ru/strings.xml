@@ -163,7 +163,7 @@
     <string name="auto_add_app_shortcut">Размещать новые приложения на рабочем столе</string>
     <string name="auto_delete_category_dialog_content">Категория и связанные с ней приложения будут удалены. Удалить?</string>
     <string name="auto_delete_category_dialog_title">Удаление категорий</string>
-    <string name="auto_disable_screenbuttons_summary">Для включения кнопок навигации дважды нажмите на любую из них</string>
+    <string name="auto_disable_screenbuttons_summary">Автоматически отключать кнопки навигации, когда строка состояния не отображается. Двойное нажатие на любую кнопку навигации вновь активирует их.</string>
     <string name="auto_disable_screenbuttons_title">Автоотключение кнопок навигации</string>
     <string name="back">Назад</string>
     <string name="backup_fail">Сбой резервного копирования</string>
