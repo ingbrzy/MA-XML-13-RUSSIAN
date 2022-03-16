@@ -2879,6 +2879,16 @@
     <string name="map_title_congestion_last">公里拥堵</string>
     <string name="map_title_smooth">整体畅通</string>
     <string name="map_title_smooth">整体畅通</string>
+    <string name="mapbox_key">pk.eyJ1IjoibWl3ZWFyIiwiYSI6ImNrODcwOWh3bjBjZnMzZG5oZndnN3Q2MTYifQ.7cQ-CQ6TTiyTahlVGiQhoA</string>
+    <string name="mapbox_style_dark">mapbox://styles/mapbox/dark-v10</string>
+    <string name="mapbox_style_light">mapbox://styles/mapbox/light-v10</string>
+    <string name="mapbox_style_mapbox_streets">mapbox://styles/mapbox/streets-v11</string>
+    <string name="mapbox_style_outdoors">mapbox://styles/mapbox/outdoors-v11</string>
+    <string name="mapbox_style_satellite">mapbox://styles/mapbox/satellite-v9</string>
+    <string name="mapbox_style_satellite_streets">mapbox://styles/mapbox/satellite-streets-v11</string>
+    <string name="mapbox_style_traffic_day">mapbox://styles/mapbox/traffic-day-v2</string>
+    <string name="mapbox_style_traffic_night">mapbox://styles/mapbox/traffic-night-v2</string>
+    <string name="mapbox_telemetryLink">https://www.mapbox.com/telemetry/</string>
     <string name="marketSdkVersion">3.2.4</string>
     <string name="mars_coordinate_latitude_0">73.287°E</string>
     <string name="mars_coordinate_latitude_1">323.483°E</string>
@@ -2896,6 +2906,7 @@
     <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="max_sleep_time">%d</string>
+    <string name="medal_progress_value">%1$d%%</string>
     <string name="media_size_l">L</string>
     <string name="mediasize_default">ISO_A4</string>
     <string name="mediasize_standard">@string/mediasize_standard_iso</string>
@@ -2959,6 +2970,7 @@
     <string name="min_50">50</string>
     <string name="min_60">60</string>
     <string name="min_sleep_time">%d</string>
+    <string name="mine_unit_age">%1$s</string>
     <string name="mini_add_fp">请先到手机系统中添加指纹, 再开启支付宝指纹密码</string>
     <string name="mini_agree">同意</string>
     <string name="mini_already_download">已下载</string>
@@ -3029,6 +3041,9 @@
     <string name="mini_to_open_error">指纹采集软件启动异常，请检查</string>
     <string name="mini_weakpassword_error_same">请不要使用相同的数字</string>
     <string name="mini_weakpassword_error_serial">请不要使用连续的数字</string>
+    <string name="mipro_medium">mipro-medium</string>
+    <string name="mipro_normal">mipro-normal</string>
+    <string name="mipro_regular">mipro-regular</string>
     <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
@@ -3240,6 +3255,7 @@
     <string name="news_footer_error">加载失败，再试一次~</string>
     <string name="news_footer_full">已显示全部内容</string>
     <string name="news_header_title">为你推荐</string>
+    <string name="nfc_card_balance_format">%1$.2f</string>
     <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="ng_haokan_glance_user_agreement">https://hksocial-cdn.levect.com/html/app_h5_user_agreement_ms.html</string>
     <string name="ng_haokan_privacy_policy">https://hksocial-cdn.levect.com/html/privacy_policy_ms.html</string>

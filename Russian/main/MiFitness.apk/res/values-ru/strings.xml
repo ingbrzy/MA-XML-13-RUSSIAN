@@ -4786,73 +4786,28 @@ Start over."</string>
     <string name="login_common_hint_unkonwn_error">A system error occurred. Try again later.</string>
 <!-- ### FROM SOURCE -->
     <string name="login_common_not_selected">"You haven't selected any items yet"</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_common_open">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_common_region">Region</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_common_skip">Skip</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_common_step_next">Next</string>
+    <string name="login_common_open">ОК</string>
+    <string name="login_common_region">Регион</string>
+    <string name="login_common_skip">Пропустить</string>
+    <string name="login_common_step_next">Далее</string>
 <!-- ### FROM SOURCE -->
     <string name="login_concise_desc_sub">You can remove or add the character in Profile > Settings.</string>
 <!-- ### FROM SOURCE -->
     <string name="login_concise_mode">Simple</string>
 <!-- ### FROM SOURCE -->
     <string name="login_concise_title">Profile character</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_enter_app">Start</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_immediate_experience">Start</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_agreement"><Data>如您确认参与，请查看并点击同意&lt;a href=\"%1$s\">《小米运动健康内测协议》&lt;/a></Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_content">"本内测软件尚处于开发测试过程中，仅为验证功能效果及测试稳定性释放给部分用户，所有内容应作为机密对待，在使用过程中请注意： 
-
-1.1 App稳定程度低于线上版本，可能存在功能不稳定或无法正常使用、数据丢失的情况，请谨慎参与测试。 
-
-1.2 请使用与内测报名时相同的小米帐号登录App，否则将导致数据异常并无法参与测试礼品领取。 
-
-1.3 本着自愿原则，您可随时退出本次内测，删除本内测软件，重新下载原有正式版本软件进行使用。 
-
-1.4 当前版本仅支持设备下列的联动使用，更多设备将逐步开放支持： 
-
-· 小米手环5、6标准版和NFC版 
-· Redmi手环 
-· 小米手表Color、小米手表Color运动版、Xiaomi Watch Color2 
-· Redmi手表、Redmi手表2 
-· Xiaomi Watch S1 
-· 米家跑步机"</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_continue">同意并继续</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_exit">退出测试</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_know">知道了</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_not_qualified">您当前登录的小米账号不具备测试资格</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_notify">请同意内测协议后继续</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_title">小米运动健康</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_verify">账号验证中......</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_internal_test_wifi">请联网后重试</string>
+    <string name="login_enter_app">Начать</string>
+    <string name="login_immediate_experience">Начать</string>
 <!-- ### FROM SOURCE -->
     <string name="login_kr_region">South Korea</string>
 <!-- ### FROM SOURCE -->
     <string name="login_location_title">Access location</string>
 <!-- ### FROM SOURCE -->
     <string name="login_location_title_des">For tracking your workout distance and routes</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_login">Sign in</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_next_step">Next</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_open_sport_health_cloud_sync">Turn on sync?</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_open_sport_health_cloud_sync_des">Sync your workout and fitness data on all your devices.</string>
+    <string name="login_login">Вход</string>
+    <string name="login_next_step">Далее</string>
+    <string name="login_open_sport_health_cloud_sync">Включить синхронизацию?</string>
+    <string name="login_open_sport_health_cloud_sync_des">Синхронизация тренировок и фитнес-данных на всех своих устройствах</string>
     <string name="login_other">Другой Mi Аккаунт</string>
 <!-- ### FROM SOURCE -->
     <string name="login_personalize_mode">Classic</string>
@@ -4860,116 +4815,71 @@ Start over."</string>
     <string name="login_privacy_add_experience_tips">&lt;Data>Enroll in &lt;a href=\"%1$s\">User Experience Program&lt;/a> to help us improve our products and services by sharing your stats with us.&lt;/Data></string>
 <!-- ### FROM SOURCE -->
     <string name="login_privacy_add_experience_tips_korea">&lt;Data>Enroll in &lt;a href=\"%1$s\">User Experience Program&lt;/a> to help us improve our products and services by sharing your stats with us (optional).&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_agree_all">I agree to all</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_agree_protocol_and_policy">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a>.&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_agree_tips">You can always adjust your permissions preferences in the Settings.</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_agree_to_terms_kr">Terms and conditions</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_common_agree">Agree</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_common_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_necessary_authority">"To provide you with additional services while you're using the app, we might need the following permissions:"</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_optional_agree_use_location">&lt;Data>I agree to &lt;a href=\"%1$s\">Collection of Location Information&lt;/a> (optional).&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_required_agree_collect_info">&lt;Data>I agree to &lt;a href=\"%1$s\">Collection and Use of Personal Information&lt;/a> (mandatory).&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_required_agree_policy">&lt;Data>I agree to &lt;a href=\"%1$s\">User Agreement&lt;/a> (mandatory).&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_rights_des">Welcome to Mi Fitness. You can use this app to manage your devices, track your workouts, and view fitness data. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. To be able to work normally, this app needs to connect to the internet.</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_rights_kr_des">Welcome to Mi Fitness. You can use this app to manage your devices, track your workouts, and view fitness data. We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_rights_statement">Terms and conditions</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_update_tips">&lt;Data>Our &lt;a href=\"%1$s\">Privacy Policy&lt;/a> was updated. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to the new version of Privacy Policy before you continue.&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="login_privacy_update_title">Updated Privacy Policy</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_record_title">Record audio</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_record_title_des">For recording snoring and talking while analyzing sleep cycle</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_region_auto_getting">Locating…</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_region_change_des">If you change your region, this app might stop working properly and some of your devices might disconnect from your phone.</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_region_change_ok">Continue</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_region_change_service_title">Attention</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_region_country_select">Region</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_region_recommend_lable">(Recommended)</string>
+    <string name="login_privacy_agree_all">Принимаю все</string>
+    <string name="login_privacy_agree_protocol_and_policy">&lt;Data>Прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.&lt;/Data></string>
+    <string name="login_privacy_agree_tips">Вы всегда можете настроить разрешения в Настройках</string>
+    <string name="login_privacy_agree_to_terms_kr">Условия и положения</string>
+    <string name="login_privacy_common_agree">Принимаю</string>
+    <string name="login_privacy_common_cancel">Отмена</string>
+    <string name="login_privacy_necessary_authority">"Для обеспечения дополнительных сервисов, необходимы следующие разрешения: "</string>
+    <string name="login_privacy_optional_agree_use_location">&lt;Data>Я разрешаю  &lt;a href=\"%1$s\">Сбор информации о местоположении&lt;/a> (по желанию).&lt;/Data></string>
+    <string name="login_privacy_required_agree_collect_info">&lt;Data>Я разрешаю  &lt;a href=\"%1$s\">Сбор и использование личной информации&lt;/a> (обязательно).&lt;/Data></string>
+    <string name="login_privacy_required_agree_policy">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> (обязательно).&lt;/Data></string>
+    <string name="login_privacy_rights_des">Добро пожаловать в Mi Fitness. Вы можете использовать это приложение для управления своими устройствами, отслеживания тренировок и просмотра фитнес-данных. Мы будем защищать вашу личную информацию в соответствии с действующими законами, нормативными актами и политикой конфиденциальности. Для нормальной работы приложение требуется подключение к интернету.</string>
+    <string name="login_privacy_rights_kr_des">Добро пожаловать в Mi Fitness. Вы можете использовать это приложение для управления своими устройствами, отслеживания тренировок и просмотра фитнес-данных. Мы будем защищать вашу личную информацию в соответствии с действующими законами, нормативными актами и политикой конфиденциальности.</string>
+    <string name="login_privacy_rights_statement">Условия и положения</string>
+    <string name="login_privacy_update_tips">&lt;Data>&lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> обновлена. Чтобы полностью понять свои права как пользователя, а также то, как мы используем ваши данные, прочтите и примите обновленную Политику конфиденциальности.&lt;/Data></string>
+    <string name="login_privacy_update_title">Обновленная Политика конфиденциальности</string>
+    <string name="login_record_title">Запись аудио</string>
+    <string name="login_record_title_des">Для записи храпа и разговора во время сна</string>
+    <string name="login_region_auto_getting">Определение местоположения…</string>
+    <string name="login_region_change_des">В случае смены региона приложение может работать неправильно, а некоторые сопряженные устройства могут отключиться</string>
+    <string name="login_region_change_ok">Продолжить</string>
+    <string name="login_region_change_service_title">Внимание</string>
+    <string name="login_region_country_select">Регион</string>
+    <string name="login_region_recommend_lable">(Рекомендуется)</string>
 <!-- ### FROM SOURCE -->
     <string name="login_region_select_des">Choose your location carefully. Features and sync services are customized to your current region.</string>
 <!-- ### FROM SOURCE -->
     <string name="login_region_server_switch_des">"You won't be able to view health metrics on your paired devices or manage device settings using this app. Continue anyway?"</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_select_mode">Theme</string>
+    <string name="login_select_mode">Тема</string>
 <!-- ### FROM SOURCE -->
     <string name="login_sign_error">Remove the app and download it from Google Play Store again</string>
 <!-- ### FROM SOURCE -->
     <string name="login_userinfo_desc">To make workout data more accurate, complete profile info.</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_welcome">Time to tone up</string>
-<!-- ### FROM SOURCE -->
-    <string name="login_welcome_desc_second_text">New design</string>
-<!-- ### FROM SOURCE -->
+    <string name="login_welcome">Время привести себя в порядок</string>
+    <string name="login_welcome_desc_second_text">Новый дизайн</string>
     <string name="login_welcome_desc_text">Mi Fitness</string>
     <string name="login_with_sns">Другие варианты входа</string>
-<!-- ### FROM SOURCE -->
-    <string name="logout_account">Sign out</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_common_open">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_go_now">Open</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_goto_common_app">Connect your device</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_goto_common_app_desc">&lt;Data>Open Xiaomi Wear to connect your device.&lt;br>&lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="main_open_sport_health_cloud_sync">Turn on sync?</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_open_sport_health_cloud_sync_des">Sync your workout and fitness data on all your devices.</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_sync_dialog_desc1">Get awards for your workouts</string>
+    <string name="logout_account">Выход</string>
+    <string name="main_cancel">Отмена</string>
+    <string name="main_common_open">ОК</string>
+    <string name="main_go_now">Открыть</string>
+    <string name="main_goto_common_app">Подключите устройство</string>
+    <string name="main_goto_common_app_desc">&lt;Data>Откройте Xiaomi Wear, чтобы подключить устройство.&lt;br>&lt;a href=\"%1$s\">Подробнее&lt;/a>&lt;/Data></string>
+    <string name="main_open_sport_health_cloud_sync">Включить синхронизацию?</string>
+    <string name="main_open_sport_health_cloud_sync_des">Синхронизация тренировок и фитнес-данных на всех своих устройствах</string>
+    <string name="main_sync_dialog_desc1">Получайте награды за тренировки</string>
 <!-- ### FROM SOURCE -->
     <string name="main_sync_dialog_desc2">Connect to WeChat and Alipay and share steps between apps</string>
 <!-- ### FROM SOURCE -->
     <string name="main_sync_dialog_desc3">Sync workouts and fitness data across devices</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_sync_dialog_title1">Get awards</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_sync_dialog_title2">Share steps</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_sync_dialog_title3">Sync data</string>
+    <string name="main_sync_dialog_title1">Получайте награды</string>
+    <string name="main_sync_dialog_title2">Делитесь шагами</string>
+    <string name="main_sync_dialog_title3">Синхронизируйте данные</string>
 <!-- ### FROM SOURCE -->
     <string name="main_sync_needlogin_desc">Turn on Sync with the cloud to back up your workout and fitness data from your phone, and sync data from other devices. When the feature is on, you can also do the following.</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_sync_needlogin_title">Turn on sync?</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_tab_health_name">Health</string>
-<!-- ### FROM SOURCE -->
-    <string name="main_tab_status_name">Status</string>
+    <string name="main_sync_needlogin_title">Включить синхронизацию?</string>
+    <string name="main_tab_health_name">Здоровье</string>
+    <string name="main_tab_status_name">Статус</string>
 <!-- ### FROM SOURCE -->
     <string name="mapbox_attributionErrorNoBrowser">"No web browser installed on device, can't open web page."</string>
 <!-- ### FROM SOURCE -->
     <string name="mapbox_attributionTelemetryMessage">You are helping to make OpenStreetMap and Mapbox maps better by contributing anonymous usage data.</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_attributionTelemetryNegative">Disagree</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_attributionTelemetryNeutral">More info</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_attributionTelemetryPositive">Agree</string>
+    <string name="mapbox_attributionTelemetryNegative">Отмена</string>
+    <string name="mapbox_attributionTelemetryNeutral">Подробнее</string>
+    <string name="mapbox_attributionTelemetryPositive">Принимаю</string>
 <!-- ### FROM SOURCE -->
     <string name="mapbox_attributionTelemetryTitle">Make Mapbox Maps Better</string>
 <!-- ### FROM SOURCE -->
@@ -4979,35 +4889,14 @@ Start over."</string>
 <!-- ### FROM SOURCE -->
     <string name="mapbox_compassContentDescription">Map compass. Activate to reset the map rotation to North.</string>
 <!-- ### FROM SOURCE -->
-    <string name="mapbox_key">pk.eyJ1IjoibWl3ZWFyIiwiYSI6ImNrODcwOWh3bjBjZnMzZG5oZndnN3Q2MTYifQ.7cQ-CQ6TTiyTahlVGiQhoA</string>
-<!-- ### FROM SOURCE -->
     <string name="mapbox_mapActionDescription">Showing a Map created with Mapbox. Scroll by dragging two fingers. Zoom by pinching two fingers.</string>
 <!-- ### FROM SOURCE -->
     <string name="mapbox_myLocationViewContentDescription">Location View. This shows your location on the map.</string>
 <!-- ### FROM SOURCE -->
     <string name="mapbox_offline_error_region_definition_invalid">"Provided OfflineRegionDefinition doesn't fit the world bounds: %s"</string>
 <!-- ### FROM SOURCE -->
-    <string name="mapbox_style_dark">mapbox://styles/mapbox/dark-v10</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_style_light">mapbox://styles/mapbox/light-v10</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_style_mapbox_streets">mapbox://styles/mapbox/streets-v11</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_style_outdoors">mapbox://styles/mapbox/outdoors-v11</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_style_satellite">mapbox://styles/mapbox/satellite-v9</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_style_satellite_streets">mapbox://styles/mapbox/satellite-streets-v11</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_style_traffic_day">mapbox://styles/mapbox/traffic-day-v2</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_style_traffic_night">mapbox://styles/mapbox/traffic-night-v2</string>
-<!-- ### FROM SOURCE -->
     <string name="mapbox_telemetryImproveMap">Improve This Map</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_telemetryLink">https://www.mapbox.com/telemetry/</string>
-<!-- ### FROM SOURCE -->
-    <string name="mapbox_telemetrySettings">Telemetry Settings</string>
+    <string name="mapbox_telemetrySettings">Настройки телеметрии</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>
@@ -5023,8 +4912,7 @@ Start over."</string>
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Установите время</string>
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
-<!-- ### FROM SOURCE -->
-    <string name="medal_access_common_cancel">Cancel</string>
+    <string name="medal_access_common_cancel">Отмена</string>
 <!-- ### FROM SOURCE -->
     <string name="medal_close_show_more">Hide</string>
 <!-- ### FROM SOURCE -->
@@ -5058,8 +4946,6 @@ Earn this award"</string>
 <!-- ### FROM SOURCE -->
     <string name="medal_permission_storage_share">To be able to save and share images, allow this app to access storage.</string>
 <!-- ### FROM SOURCE -->
-    <string name="medal_progress_value">%1$d%%</string>
-<!-- ### FROM SOURCE -->
     <string name="medal_share">Share</string>
 <!-- ### FROM SOURCE -->
     <string name="medal_share_title">Award for %1$s</string>
@@ -5074,28 +4960,17 @@ Earn this award"</string>
     <string name="mine_about">About this app</string>
 <!-- ### FROM SOURCE -->
     <string name="mine_activity">Challenges</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_agree">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_bugreport">Feedback</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_cancle">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_common_open">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_data_type_medal">My awards</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_device_authorization">Device permissions</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_habit">Habits</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_health_plan">Workout plans</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_medal">My awards</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_medal_entrance_got">"Award for
+    <string name="mine_agree">ОК</string>
+    <string name="mine_bugreport">Обратная связь</string>
+    <string name="mine_cancle">Отмена</string>
+    <string name="mine_common_open">ОК</string>
+    <string name="mine_data_type_medal">Мои награды</string>
+    <string name="mine_device_authorization">Разрешения устройства</string>
+    <string name="mine_habit">Привычки</string>
+    <string name="mine_health_plan">Тренировочные планы</string>
+    <string name="mine_medal">Мои награды</string>
+    <string name="mine_medal_entrance_got">"Награда за
 %1$s"</string>
-<!-- ### FROM SOURCE -->
     <string name="mine_medal_user_id">Mi Account:</string>
 <!-- ### FROM SOURCE -->
     <string name="mine_misport_data_importing">Transferring…</string>
@@ -5105,8 +4980,7 @@ Earn this award"</string>
     <string name="mine_misport_last_import_time">Transferred: %1$s</string>
 <!-- ### FROM SOURCE -->
     <string name="mine_my_course_list_title">Courses</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_no_agree">Cancel</string>
+    <string name="mine_no_agree">Отмена</string>
 <!-- ### FROM SOURCE -->
     <string name="mine_no_medal_default_desc">Complete your profile and get an award</string>
 <!-- ### FROM SOURCE -->
@@ -5117,8 +4991,7 @@ Earn this award"</string>
     <string name="mine_open_sport_health_cloud_sync_des">Sync your workout and fitness data on all your devices.</string>
 <!-- ### FROM SOURCE -->
     <string name="mine_recovery_app_toast">Go to Device page and tap Connect</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_setting">Settings</string>
+    <string name="mine_setting">Настройки</string>
 <!-- ### FROM SOURCE -->
     <string name="mine_sport_data_import">Transfer from Mi Fit</string>
 <!-- ### FROM SOURCE -->
@@ -5135,40 +5008,19 @@ Earn this award"</string>
     <string name="mine_sync_dialog_title3">Sync data</string>
 <!-- ### FROM SOURCE -->
     <string name="mine_sync_needlogin_desc">Turn on Sync with the cloud to back up your workout and fitness data from your phone, and sync data from other devices. When the feature is on, you can also do the following.</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_system_permission">App permissions</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_tab_status_name">Profile</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_third_data_import">Connected apps</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_unit_age">%1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_unit_cm">cm</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_update_version">Version</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_user_female">Female</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_user_info">Gender | Height | Age</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_user_male">Male</string>
-<!-- ### FROM SOURCE -->
+    <string name="mine_system_permission">Разрешения приложения</string>
+    <string name="mine_tab_status_name">Профиль</string>
+    <string name="mine_third_data_import">Подключенные приложения</string>
+    <string name="mine_unit_cm">см</string>
+    <string name="mine_update_version">Версия</string>
+    <string name="mine_user_female">Женский</string>
+    <string name="mine_user_info">Пол | Рост | Возраст</string>
+    <string name="mine_user_male">Мужской</string>
     <string name="mine_user_name">--</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_weekly_report">Weekly summary</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_weekly_report_auth_desc">Allow this app to access weekly workout data.</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_weekly_report_auth_title">Permissions</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_weekly_report_auth_welcome">View your weekly summary</string>
-<!-- ### FROM SOURCE -->
-    <string name="mipro_medium">mipro-medium</string>
-<!-- ### FROM SOURCE -->
-    <string name="mipro_normal">mipro-normal</string>
-<!-- ### FROM SOURCE -->
-    <string name="mipro_regular">mipro-regular</string>
+    <string name="mine_weekly_report">Еженедельный отчет</string>
+    <string name="mine_weekly_report_auth_desc">Разрешите этому приложению доступ к данным о тренировках</string>
+    <string name="mine_weekly_report_auth_title">Разрешения</string>
+    <string name="mine_weekly_report_auth_welcome">Просмотрите еженедельный отчет</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -5233,10 +5085,8 @@ Earn this award"</string>
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
-<!-- ### FROM SOURCE -->
-    <string name="motion_channel_desc_background">For providing services in the background</string>
-<!-- ### FROM SOURCE -->
-    <string name="motion_recognition_name">Get workout reminders</string>
+    <string name="motion_channel_desc_background">Для работы сервисов в фоновом режиме</string>
+    <string name="motion_recognition_name">Напоминания о тренировках</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Новые уведомления: %1$d</string>
@@ -5427,8 +5277,6 @@ Earn this award"</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_balance_des">Balance (CNY)</string>
 <!-- ### FROM SOURCE -->
-    <string name="nfc_card_balance_format">%1$.2f</string>
-<!-- ### FROM SOURCE -->
     <string name="nfc_card_default_card">Default</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_detail_card_company_order_id_title">Order No.</string>
@@ -5440,9 +5288,7 @@ Earn this award"</string>
     <string name="nfc_card_detail_copy_id">Copy</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_detail_mi_order_id_title">Order ID</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_detail_more_settings">More options</string>
-<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_more_settings">Дополнительные настройки</string>
     <string name="nfc_card_detail_more_settings_help">FAQ</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_detail_more_settings_trade_record">Transactions</string>
@@ -6234,26 +6080,18 @@ This step is required to pay with your device."</string>
     <string name="notify_guide_permission_remind_title">Recommended features</string>
 <!-- ### FROM SOURCE -->
     <string name="notify_incoming_call">Call</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_cancel">Back</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_continue_to_open">Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_finish">Done</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_has_open">On</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_ignore">Dismiss</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_no_open">Off</string>
+    <string name="notify_message_remind_cancel">Назад</string>
+    <string name="notify_message_remind_continue_to_open">Настройки</string>
+    <string name="notify_message_remind_finish">Готово</string>
+    <string name="notify_message_remind_has_open">Вкл.</string>
+    <string name="notify_message_remind_ignore">Отклонить</string>
+    <string name="notify_message_remind_no_open">Откл.</string>
 <!-- ### FROM SOURCE -->
     <string name="notify_message_remind_not_allow">Not allowed</string>
 <!-- ### FROM SOURCE -->
     <string name="notify_message_remind_subtitle">Turn on to forward notifications from your phone to your wearable device</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_title">App notifications</string>
-<!-- ### FROM SOURCE -->
-    <string name="notify_message_remind_to_open">Settings</string>
+    <string name="notify_message_remind_title">Уведомления приложения</string>
+    <string name="notify_message_remind_to_open">Настройки</string>
 <!-- ### FROM SOURCE -->
     <string name="notify_notice_permission_alert">To get notifications on your wearable device, turn on Notification access for the app.</string>
 <!-- ### FROM SOURCE -->
@@ -6299,10 +6137,8 @@ This step is required to pay with your device."</string>
 <!-- ### FROM SOURCE -->
     <string name="notify_sms_reply_lowest_limit_tips">Keep at least 1 response</string>
     <string name="ok">ОК</string>
-<!-- ### FROM SOURCE -->
-    <string name="open_settings">Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="otp_info_reverify">Your card has been verified</string>
+    <string name="open_settings">Настройки</string>
+    <string name="otp_info_reverify">Карта проверена</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_label">Mi Аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
@@ -6523,32 +6359,15 @@ This step is required to pay with your device."</string>
     <string name="provider_exercise_goal_not_accomplished">"Didn't reach goal"</string>
 <!-- ### FROM SOURCE -->
     <string name="provider_exercise_inactivated">Not activated</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_exercise_today_step_label">Steps</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_sleep_duration">睡眠时长</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_sleep_duration_enough">充足</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_sleep_duration_lack">不足</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_sleep_duration_more">过多</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_step_label">Steps</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_step_widget_remote_talkback">Steps: %1$d. Goal: %2$d. Progress: %3$d percent. Tap to view details.</string>
-<!-- ### FROM SOURCE -->
-    <string name="provider_tips_default">No items here yet</string>
-<!-- ### FROM SOURCE -->
-    <string name="psw_hint">Password</string>
-<!-- ### FROM SOURCE -->
-    <string name="psw_sign_in">Sign in using password</string>
-<!-- ### FROM SOURCE -->
+    <string name="provider_exercise_today_step_label">Шаги</string>
+    <string name="provider_step_label">Шаги</string>
+    <string name="provider_step_widget_remote_talkback">Шаги: %1$d. Цель: %2$d. Прогресс: %3$d%%. Нажмите для подробностей.</string>
+    <string name="provider_tips_default">Ничего нет</string>
+    <string name="psw_hint">Пароль</string>
+    <string name="psw_sign_in">Войти с паролем</string>
     <string name="qq_application_id" />
-<!-- ### FROM SOURCE -->
-    <string name="qr_code_desc">Position the QR code in the frame</string>
-<!-- ### FROM SOURCE -->
-    <string name="qr_code_title">Scanner</string>
+    <string name="qr_code_desc">Поместите QR-код в рамку</string>
+    <string name="qr_code_title">Сканер</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
 <!-- ### FROM SOURCE -->
@@ -6609,8 +6428,7 @@ This step is required to pay with your device."</string>
     <string name="settingitem_common_comma">,</string>
 <!-- ### FROM SOURCE -->
     <string name="settingitem_common_custom">Custom</string>
-<!-- ### FROM SOURCE -->
-    <string name="settingitem_common_unopen">Off</string>
+    <string name="settingitem_common_unopen">Откл.</string>
 <!-- ### FROM SOURCE -->
     <string name="share_download">Save</string>
 <!-- ### FROM SOURCE -->
@@ -6641,14 +6459,10 @@ This step is required to pay with your device."</string>
     <string name="share_shall_data_null">Select a workout</string>
 <!-- ### FROM SOURCE -->
     <string name="share_success">Shared successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="share_to_permission">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="share_wx_not_support_timeline">Update WeChat first.</string>
-<!-- ### FROM SOURCE -->
+    <string name="share_to_permission">ОК</string>
+    <string name="share_wx_not_support_timeline">Обновите WeChat</string>
     <string name="share_wx_session">WeChat</string>
-<!-- ### FROM SOURCE -->
-    <string name="share_wx_timeline">Moments</string>
+    <string name="share_wx_timeline">Моменты</string>
 <!-- ### FROM SOURCE -->
     <string name="sign_in">Signing in</string>
 <!-- ### FROM SOURCE -->
@@ -6714,8 +6528,6 @@ This step is required to pay with your device."</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_agree">Allow</string>
 <!-- ### FROM SOURCE -->
-    <string name="sport_all">所有运动</string>
-<!-- ### FROM SOURCE -->
     <string name="sport_analyze">Try again later</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_app_not_install">Set up automation</string>
@@ -6741,68 +6553,34 @@ This step is required to pay with your device."</string>
     <string name="sport_bg_permissions">Background permissions</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_break_link">Device is disconnected</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_cal">kcal</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_close">Off</string>
-<!-- ### FROM SOURCE -->
+    <string name="sport_cal">ккал</string>
+    <string name="sport_close">Откл.</string>
     <string name="sport_comma">,</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_close">Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_download_succeed">Downloaded successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_error">A system error occurred. Try again later.</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_goto_set">Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_law_info">Terms and conditions</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_loading">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_personal_settings">Personalization</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_set_title">General</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_common_setting">Settings</string>
+    <string name="sport_common_cancel">Отмена</string>
+    <string name="sport_common_close">Откл.</string>
+    <string name="sport_common_confirm">ОК</string>
+    <string name="sport_common_download_succeed">Успешно загружено</string>
+    <string name="sport_common_error">Системная ошибка. Повторите позже.</string>
+    <string name="sport_common_goto_set">Настройки</string>
+    <string name="sport_common_law_info">Условия и положения</string>
+    <string name="sport_common_loading">Подождите…</string>
+    <string name="sport_common_personal_settings">Персонализация</string>
+    <string name="sport_common_set_title">Общие</string>
+    <string name="sport_common_setting">Настройки</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_complete_operation">Complete in 20s</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_config">Settings</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_confirm_on_device">Confirm on your device</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_confirm_on_device_detail">Put your phone on the holder and press the button in 20 secs.</string>
+    <string name="sport_config">Настройки</string>
+    <string name="sport_confirm_on_device">Подтвердите на устройстве</string>
+    <string name="sport_confirm_on_device_detail">Положите устройство на держатель и нажмите кнопку через 20 секунд.</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_confirm_time_out">Session expired. Try again.</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_connected">Connected</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_audio">音频课程</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_brisk_walk">轻松快走</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_burning_run">高效燃脂</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_endurance">耐力提升</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_hr_run">心率控速跑</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_recent">最近训练</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_recommend">Programs</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_course_video">视频课程</string>
+    <string name="sport_connected">Подключено</string>
+    <string name="sport_course_recommend">Программы</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_custom">Custom</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_custom_target">Custom</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_cycle_distance">Distance</string>
+    <string name="sport_cycle_distance">Расстояние</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_cycling_outdoor">Outdoor cycling</string>
 <!-- ### FROM SOURCE -->
@@ -6813,8 +6591,7 @@ This step is required to pay with your device."</string>
     <string name="sport_data_sport_notification_name">Location</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_data_sport_ongoing">Working out…</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_detail_pace">Pace</string>
+    <string name="sport_detail_pace">Темп</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_device_location_dialog_title">Permissions required</string>
 <!-- ### FROM SOURCE -->
@@ -6824,11 +6601,9 @@ This step is required to pay with your device."</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_disconnect">Disconnect</string>
 <!-- ### FROM SOURCE -->
-    <string name="sport_distance">Distance</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_dont_remind">Off</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_duration">Time</string>
+    <string name="sport_distance">Расстояние</string>
+    <string name="sport_dont_remind">Откл.</string>
+    <string name="sport_duration">Длительность</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_earlier">Earlier</string>
 <!-- ### FROM SOURCE -->
@@ -6849,8 +6624,7 @@ This step is required to pay with your device."</string>
     <string name="sport_firmware_version_is_latest">Current version is up to date</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_folding_lock_detail">Unfold your treadmill first</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_folding_lock_title">Attention</string>
+    <string name="sport_folding_lock_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_free_sport">Freestyle</string>
 <!-- ### FROM SOURCE -->
@@ -6897,26 +6671,19 @@ This step is required to pay with your device."</string>
     <string name="sport_hert_rate_range_fat_burning">Intensive</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_hert_rate_range_limit">VO₂ max</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_hert_rate_range_remind">Heart rate zone</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_hert_rate_range_value" formatted="false">%1d–%2d BPM</string>
+    <string name="sport_hert_rate_range_remind">Пульсовая зона</string>
+    <string name="sport_hert_rate_range_value" formatted="false">%1d–%2d уд/мин</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_hert_rate_range_warm_up">Light</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_hert_rate_remind_desc">To use this feature, turn on Continuous monitoring.</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_hert_rate_remind_tip">Heart rate</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_hr">BPM</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_hr_max_remind">Alert value</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_kilo_cal">kcal</string>
+    <string name="sport_hert_rate_remind_tip">Пульс</string>
+    <string name="sport_hr">уд/мин</string>
+    <string name="sport_hr_max_remind">Порог оповещения</string>
+    <string name="sport_kilo_cal">ккал</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_label">1. Sport Record</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_learn_more">View more</string>
+    <string name="sport_learn_more">Еще</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_local_device_cannot_update_desc">Open Mi Home and try again.</string>
 <!-- ### FROM SOURCE -->
@@ -6941,8 +6708,7 @@ This step is required to pay with your device."</string>
     <string name="sport_local_sport_setting_ownerless_record">Sync activities</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_local_sport_setting_screen_on_des">Keep your phone always on</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_local_sport_setting_speed_nolimit">None</string>
+    <string name="sport_local_sport_setting_speed_nolimit">Нет</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_local_sport_setting_voice_speech_des">Voice-over your distance every kilometer</string>
 <!-- ### FROM SOURCE -->
@@ -6975,20 +6741,13 @@ This step is required to pay with your device."</string>
     <string name="sport_no_see">Dismiss</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_no_signal">"Couldn't get location info"</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_no_sport_report">No data.</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_not_exercising">Not now</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_not_support">Not supported</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_not_used_fitness_authorization">Permissions required</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_obtain_fail">"Couldn't load. Try again later."</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_open_hr_check">Turn on</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_pace">/km</string>
+    <string name="sport_no_sport_report">Нет данных.</string>
+    <string name="sport_not_exercising">Не сейчас</string>
+    <string name="sport_not_support">Не поддерживается</string>
+    <string name="sport_not_used_fitness_authorization">Требуются разрешения</string>
+    <string name="sport_obtain_fail">Не удалось загрузить. Повторите попытку позже.</string>
+    <string name="sport_open_hr_check">Включить</string>
+    <string name="sport_pace">/км</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_pace_remind_titles">Pace alert</string>
 <!-- ### FROM SOURCE -->
@@ -7075,8 +6834,7 @@ This step is required to pay with your device."</string>
     <string name="sport_setting_privacy_detail">Privacy Policy</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_setting_privacy_revoke">Withdrawal of consent</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_speed_remind_detail">Speed</string>
+    <string name="sport_speed_remind_detail">Скорость</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_speed_remind_detail_alert">Speed alert</string>
 <!-- ### FROM SOURCE -->
@@ -7097,10 +6855,8 @@ This step is required to pay with your device."</string>
     <string name="sport_tab_calorie">Calories</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_tab_status_name">Workout</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_target_cals">Goal: %s kcal</string>
-<!-- ### FROM SOURCE -->
-    <string name="sport_target_distance">Goal: %s km</string>
+    <string name="sport_target_cals">Цель: %s ккал</string>
+    <string name="sport_target_distance">Цель: %s км</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_target_run">Targeted runs</string>
 <!-- ### FROM SOURCE -->
@@ -7138,11 +6894,9 @@ This step is required to pay with your device."</string>
 <!-- ### FROM SOURCE -->
     <string name="sport_whole_kilo">Distance alert</string>
     <string name="stand">Разминка</string>
-<!-- ### FROM SOURCE -->
-    <string name="stand_finish_stand">Yes</string>
-    <string name="stand_notice">Уведомление о разминке</string>
-<!-- ### FROM SOURCE -->
-    <string name="stand_notice_not_show_today">"Don't show today"</string>
+    <string name="stand_finish_stand">Да</string>
+    <string name="stand_notice">Напоминание о разминке</string>
+    <string name="stand_notice_not_show_today">Не показывать сегодня</string>
     <string name="stand_notice_subtitle1">Вы не двигались с %1$s по %2$s. Разомнитесь!</string>
     <string name="stand_notice_subtitle2">Если вы уже двигались, нажмите для завершения.</string>
     <string name="stand_notice_title1">Встаньте и сделайте разминку!</string>
@@ -7154,15 +6908,11 @@ This step is required to pay with your device."</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-<!-- ### FROM SOURCE -->
-    <string name="sync_password">Password</string>
-<!-- ### FROM SOURCE -->
-    <string name="sync_user_name">Username</string>
-<!-- ### FROM SOURCE -->
+    <string name="sync_password">Пароль</string>
+    <string name="sync_user_name">Имя пользователя</string>
     <string name="sync_weather_notification_message">Updating weather data on your wearable device…</string>
     <string name="system_error_info">Система занята. Попробуйте позже.</string>
-<!-- ### FROM SOURCE -->
-    <string name="taiwan">Taiwan</string>
+    <string name="taiwan">Тайвань</string>
     <string name="tb_current_select">%1$s выбран</string>
     <string name="temporary_not_available">Временно не доступно</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
@@ -7292,7 +7042,6 @@ This step is required to pay with your device."</string>
     <string name="trail_data_activity_calorie">Active kcal</string>
 <!-- ### FROM SOURCE -->
     <string name="trail_data_my_status">我的状态</string>
-<!-- ### FROM SOURCE -->
     <string name="trail_data_rate_distribute0" />
 <!-- ### FROM SOURCE -->
     <string name="trail_data_rate_distribute1">Light</string>
