@@ -511,9 +511,9 @@
     <string name="talk_back_water_mark_string2">Для отключения зажмите \"Громкость+\" и \"Громкость-\" на 3 секунды</string>
     <string name="throwing_print">Печать</string>
     <string name="throwing_screen">Трансляция</string>
-    <string name="tip_close_screen_phone" />
-    <string name="tip_for_phone_and_camera" />
-    <string name="tip_use_front_camera" />
+    <string name="tip_close_screen_phone">Переключитесь на громкую связь или сложите устройство, чтобы использовать встроенный динамик</string>
+    <string name="tip_for_phone_and_camera">Сложите устройство, чтобы использовать встроенный динамик или фронтальную камеру</string>
+    <string name="tip_use_front_camera">Сложите устройство, чтобы использовать фронтальную камеру.</string>	
     <string name="tips_prompt_enable_midrop">Отправка файлов на устройства поблизости</string>
     <string name="total">Не беспокоить</string>
     <string name="total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
