@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about">О приложении</string>
     <string name="about_agree">Принять</string>
+    <string name="about_cache_size">%s ГБ</string>
     <string name="about_cancle">Отмена</string>
     <string name="about_comment_go">Оцените нас</string>
     <string name="about_common_confirm">ОК</string>
@@ -109,6 +110,7 @@
     <string name="about_sync_status_in_progress">Синхронизация…</string>
     <string name="about_sync_status_network_failure">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="about_sync_status_never_done">Не синхронизировано</string>
+    <string name="about_time_format_hh_mm">HH:mm</string>
     <string name="about_weekly_report">Сводка за неделю</string>
     <string name="access_common_allow">Разрешить</string>
     <string name="access_common_cancel">Отмена</string>
@@ -149,9 +151,23 @@
     <string name="access_setting_done">Готово</string>
     <string name="access_thirdparty_alipay">Alipay</string>
     <string name="access_thirdparty_alipay_bind">Подключить</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_alipay_bind_error">Try again</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_alipay_bind_success_desc">To stop sharing data from Mi Fitness to Alipay, tap Disconnect and confirm in the app. Alternatively, change privacy settings in Alipay.</string>
     <string name="access_thirdparty_alipay_bind_success_title">Теперь вы можете просматривать количество шагов в \"Alipay\" > \"Sports\".</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_alipay_confirm_bind_msg">This Alipay account is associated with another Mi Account in Mi Fitness. Would you like to connect your Alipay account with your current Mi Account?</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_alipay_confirm_bind_title">Connect to Alipay</string>
     <string name="access_thirdparty_alipay_sync_title">Подключение к Alipay</string>
     <string name="access_thirdparty_alipay_unbind">Отключить</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_alipay_unbind_alert">"Your step data won't be synced to Alipay."</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_alipay_unbind_error">"Couldn't disconnect. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_aplipay_thirdparty_desc">To share step data with Alipay, tap Connect and follow on-screen instructions.</string>
     <string name="access_thirdparty_authentication_failed">Не удалось подключиться. Повторите попытку.</string>
     <string name="access_thirdparty_bind_failed">Проверьте настройки сети и повторите попытку.</string>
     <string name="access_thirdparty_explain">При подключении Mi Fitness к %1$s данные ваших тренировок (например, калории, расстояние, время, пульс) будут предоставлены %2$s.</string>
@@ -163,6 +179,18 @@
     <string name="access_thirdparty_unbind_failed">Не удалось отключить. Повторите попытку.</string>
     <string name="access_thirdparty_unbind_tips">Данные ваших тренировок не будут синхронизированы с приложением.</string>
     <string name="access_thirdparty_wechat">WeChat</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_wechat_bound">You can view your steps in WeChat.</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_wechat_help_1">To share data with WeChat, save the QR code below, scan it in WeChat, and tap \"Link device\".</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_wechat_help_2">To scan the QR code, tap Scan in WeChat, choose the Album icon on the lower right corner, and tap the QR code image.</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_thirdparty_wechat_save_qr">Save</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_unbind_dialog_msg">"Your step data won't be synced to WeChat."</string>
+<!-- ### FROM SOURCE -->
+    <string name="access_unbind_success">Disconnected successfully</string>
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -198,6 +226,10 @@
     <string name="action_update_phone">Изменить номер телефона</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
+<!-- ### FROM SOURCE -->
+    <string name="activate_failed">Please retry or contact bank customer service</string>
+<!-- ### FROM SOURCE -->
+    <string name="activate_failed_no_retry">Please contact bank customer service</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="add_device">Добавить устройство</string>
     <string name="add_to_trust_device">Это доверенное устройство</string>
@@ -208,7 +240,27 @@
     <string name="aivs_huami_operate_on_app">Продолжить в приложении на телефоне</string>
     <string name="aivs_huami_timer_limit">Вы можете установить таймер длительностью до 99 мин. 59 сек.</string>
     <string name="app_upgrade_no_newer_version">Установлено новейшее ПО</string>
+<!-- ### FROM SOURCE -->
+    <string name="apply_times_exceed_limit">Apply times exceed the max limit</string>
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_card_not_supported">Not supported</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_card_type_credit">Credit</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_card_type_debit">Debit</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_card_unit">cards</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_card_user_account_expire">Account has expired</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_card_user_not_reserve_phone">You have not reserved phone number for the bank account, please contact bank customer service</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_card_verify_failed">Card info is incorrect</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_error">Failed to issue card, please retry or contact to bank</string>
+<!-- ### FROM SOURCE -->
+    <string name="bank_system_busying">Please try again later, bank system is busy.</string>
     <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
     <string name="ble_ota_fw_upgrade_success_message">Не используйте устройство до завершения процесса обновления.</string>
     <string name="ble_ota_fw_upgrade_success_title">Синхронизация завершена</string>
@@ -216,11 +268,18 @@
     <string name="ble_ota_push_error_info">Для обновления носимого устройства уровень заряда должен быть не менее 20%.</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="cancel">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="card_recharge_promo_code_exhausted">"Oh, you're a bit late, please look forward to the next promotion"</string>
+<!-- ### FROM SOURCE -->
+    <string name="card_status_no_apply_privilege">Your card status has no privilege to apply the business</string>
+<!-- ### FROM SOURCE -->
+    <string name="card_type_no_apply_privilege">Your card type has no privilege to apply the business</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Изменить пароль</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
     <string name="checkupdate_check_update">Обновление</string>
+    <string name="chip_text">Текст</string>
     <string name="choose_to_signin">Да</string>
     <string name="choose_to_signup">Нет, создать новый</string>
     <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
@@ -434,6 +493,7 @@
     <string name="course_hr_stage_warmup">Разминка</string>
     <string name="course_hr_warning">Нет данных</string>
     <string name="course_info_all">Развернуть</string>
+    <string name="course_item_info" formatted="false">%s·%s·%s</string>
     <string name="course_link_desc">Подключите беговую дорожку к телефону, чтобы начать тренировку.</string>
     <string name="course_link_go">Подключить</string>
     <string name="course_link_title">Подключите беговую дорожку</string>
@@ -444,6 +504,7 @@
     <string name="course_offline">Эта программа недоступна.</string>
     <string name="course_pace">/км</string>
     <string name="course_practised">Недавние</string>
+    <string name="course_record_summary">%1$s %2$s</string>
     <string name="course_reset">Сброс</string>
     <string name="course_share_calorie_desc">Калории</string>
     <string name="course_start">Начать</string>
@@ -460,11 +521,35 @@
     <string name="course_video_1080">1080P</string>
     <string name="course_video_4k">4K</string>
     <string name="course_video_720">720P</string>
+<!-- ### FROM SOURCE -->
+    <string name="data_sleep_reference_detail">"1. Principles and Practice of Sleep Medicine，4th edition. 
+2. Fundamentals of Sleep Medicine. 
+3. Patel, A. K., Reddy, V., &amp; Araujo, J. F. (2020, April). Physiology, Sleep Stages. StatPearls Publishing. 
+4. Taylor, P. (2020, May 30). Nap Time. Retrieved September 10, 2020, from https://www.pewsocialtrends.org/2009/07/29/nap-time/. 
+5. National Sleep Foundation's sleep time duration recommendations: methodology and results summary. Sleep health, 1(1), 40–43. 
+6. Exploring the nap paradox: are mid-day sleep bouts a friend or foe?. Sleep medicine, 37, 88–97. 
+7. National Sleep Foundation's sleep quality recommendations: first report. Sleep Health. 2017 Feb;3(1):6-19. 
+8. National Institute of Neurological Disorders and Stroke. (n.d.). Brain basics: Understanding sleep. Retrieved June 7, 2017. 
+9. Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med. 2016 Jul 19;165(2):125-33."</string>
     <string name="data_type_energy">Энергия</string>
     <string name="data_type_heart_rate">Пульс</string>
     <string name="data_type_sleep">Сон</string>
     <string name="data_type_spo2">Уровень кислорода в крови</string>
     <string name="data_type_stress">Стресс</string>
+<!-- ### FROM SOURCE -->
+    <string name="data_xaxis_time_0">00:00</string>
+<!-- ### FROM SOURCE -->
+    <string name="data_xaxis_time_12">12:00</string>
+<!-- ### FROM SOURCE -->
+    <string name="data_xaxis_time_24">24:00</string>
+<!-- ### FROM SOURCE -->
+    <string name="date_day_suffix1">st</string>
+<!-- ### FROM SOURCE -->
+    <string name="date_day_suffix2">nd</string>
+<!-- ### FROM SOURCE -->
+    <string name="date_day_suffix3">rd</string>
+<!-- ### FROM SOURCE -->
+    <string name="date_day_suffix_other">th</string>
     <string name="date_format_y_2">yyyy</string>
     <string name="date_format_y_m_d">dd.MM.yyyy</string>
     <string name="date_format_y_m_d_h_m_3">dd.MM.yyyy HH:mm</string>
@@ -489,6 +574,7 @@
     <string name="device_add_new">Добавить устройство</string>
     <string name="device_alarm_notify">Синхронизация будильников</string>
     <string name="device_all_skills">Все функции</string>
+    <string name="device_amazon_alexa">Amazon Alexa</string>
     <string name="device_app_recovery_connect">Подключить</string>
     <string name="device_application_setting">Приложения</string>
     <string name="device_application_settings">Приложения</string>
@@ -544,13 +630,23 @@
     <string name="device_charged_yesterday">Заряжалось вчера</string>
     <string name="device_charging">Заряжается</string>
     <string name="device_check_all_device">Управление устройствами</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_choose_app_confirm">Complete setup</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_choose_app_confirm_desc">&lt;Data>Open Xiaomi Wear to complete setup.&lt;br>&lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
     <string name="device_confirm_button_connect">Нажмите на кнопку, когда увидите \"CON\"</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_connect_devices_common_app">Select app</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_connect_devices_common_app_desc">&lt;Data>To get a better connection between your phone and device, select which app you want to use to connect your device.&lt;br>&lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
     <string name="device_contact_couldnot_during_workouts">Во время тренировки синхронизация невозможна</string>
     <string name="device_contact_data_sync_failed">Не удалось синхронизировать данные</string>
     <string name="device_contact_data_sync_successfully">Синхронизация данных завершена</string>
     <string name="device_contact_error_no_network">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="device_current_connected">Подключено</string>
     <string name="device_current_not_connected">Отключено</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_determine">Continue</string>
     <string name="device_disconnect">Отключено</string>
     <string name="device_ecg_measure">Следите за ЭКГ</string>
     <string name="device_ecg_measure_des">Узнайте, как ваше тело справляется со стрессом.</string>
@@ -560,8 +656,15 @@
     <string name="device_error_bind_content">Выполните сброс устройства и повторите попытку.</string>
     <string name="device_error_bind_error">Произошла ошибка</string>
     <string name="device_error_have_bound">Произошла ошибка. Выполните сброс устройства и повторите попытку.</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_feature_item_unknown">unsupported item</string>
     <string name="device_find_device">Найти устройство</string>
     <string name="device_go_now">Открыть</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_goto_common_app">Connect your device</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_goto_common_app_desc">&lt;Data>Open Xiaomi Wear to complete setup.&lt;br>&lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
+    <string name="device_goto_disable">Открыть</string>
     <string name="device_health_monitoring">Мониторинг здоровья</string>
     <string name="device_health_monitoring_setting">Мониторинг здоровья</string>
     <string name="device_heart_health_monitor">Предупреждение о нерегулярном ритме</string>
@@ -575,7 +678,9 @@
     <string name="device_lock_off_wrist">Распознавание запястья</string>
     <string name="device_manager">Устройства</string>
     <string name="device_mi_band">Браслет</string>
+    <string name="device_mi_sport_health">Mi Fitness (активно)</string>
     <string name="device_mi_watch">Часы</string>
+    <string name="device_mi_wearable">Xiaomi Wear</string>
     <string name="device_mobile_web">Мобильные данные</string>
     <string name="device_more_setting">Еще</string>
     <string name="device_night_model">Ночной режим</string>
@@ -1013,6 +1118,26 @@
     <string name="device_settings_sportsort_water_sports">Водные виды спорта</string>
     <string name="device_settings_stand_detect_title">Напоминать размяться</string>
     <string name="device_settings_stand_remind">Легкая активность</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock">Stocks</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_add">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_count_over">You can add up to 20 stocks</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_empty">No stocks</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_enable_count_over">You can check up to 2 stocks in a widget</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_search_empty">No stocks found</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_search_hint">Enter stock name or ticker symbol</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_sort_disable">Stocks app</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_sort_enable">Stocks widget</string>
+<!-- ### FROM SOURCE -->
+    <string name="device_settings_stock_sort_enable_empty">No stocks</string>
     <string name="device_settings_sync_failure">Сбой синхронизации</string>
     <string name="device_settings_sync_phone_schedule">Режим сна</string>
     <string name="device_settings_sync_system_schedule">По расписанию</string>
@@ -1122,6 +1247,7 @@
     <string name="device_settings_wrist_screen_wake_start">Начать</string>
     <string name="device_settings_xiaoai_skill">Mi AI</string>
     <string name="device_status_connecting">Соединение…</string>
+    <string name="device_stock">Акция</string>
     <string name="device_switch">Подключить</string>
     <string name="device_switch_device">Сменить устройство</string>
     <string name="device_switch_dialog_msg">Переключиться на %1$s?</string>
@@ -1166,7 +1292,6 @@
 ID:%s
 Отправьте этот код руководителю."</string>
     <string name="dialog_exit_use">Выход</string>
-    <string name="dialog_loanding">Подождите…</string>
     <string name="discard_update">Нет, спасибо</string>
     <string name="distance_custom_target">Проверьте свою цель</string>
     <string name="distance_range">(0,1–999)</string>
@@ -1177,13 +1302,36 @@ ID:%s
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_common">System error. Please try again later.</string>
     <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Mi аккаунтом.</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_ese_route_disabled">ESE route is disabled</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_get_account">Failed to get account info</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_get_cplc">Failed to get SE information</string>
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_invalid_param">Invalid param.</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_network">"Couldn't connect to network."</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_nfc">System is busy. Please try again later.</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_nfc_disabled">NFC is disabled.</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_no_permission">No permission</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_recharge_failed">Top-up failed, please retry later.</string>
+<!-- ### FROM SOURCE -->
+    <string name="error_se_restricted">SE is restricted</string>
     <string name="evening">День</string>
     <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
     <string name="exo_controls_cc_enabled_description">Выключить субтитры</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_enter_description">Полноэкранный режим</string>
     <string name="exo_controls_fullscreen_exit_description">Выйти из полноэкранного режима</string>
@@ -1206,6 +1354,7 @@ ID:%s
     <string name="exo_controls_shuffle_off_description">Перемешивание отключено</string>
     <string name="exo_controls_shuffle_on_description">Перемешивание включено</string>
     <string name="exo_controls_stop_description">Остановить</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">VR-режим</string>
     <string name="exo_download_completed">Скачивание завершено</string>
     <string name="exo_download_description">Скачать</string>
@@ -1295,6 +1444,7 @@ ID:%s
     <string name="face_used_not_edit">Редактирование не поддерживается</string>
     <string name="face_wearos_install">Подождите…</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
+    <string name="failed_times_exceed_limit">Слишком много неудачных попыток</string>
     <string name="feedback_app_log">Журналы приложения</string>
     <string name="feedback_app_problem">Приложение</string>
     <string name="feedback_comment_cancel">Не сейчас</string>
@@ -1587,6 +1737,8 @@ ID:%s
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="for_diagnosis_usage_only">Журналы используются только для диагностики.</string>
+<!-- ### FROM SOURCE -->
+    <string name="fpan_duplicated_apply">Duplicated apply</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -1594,7 +1746,104 @@ ID:%s
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
+    <string name="google_application_id" />
     <string name="goto_sign_up">Создать аккаунт</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_add_day_time_empty">Pick a time</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_add_evety_day">Daily</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_add_holiday">Days off</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_add_time_empty">Set a reminder</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_add_work_day">Workdays</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_calendar_event_add_weekend_day_tip">This event repeats weekly on Sat &amp; Sun</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_calendar_event_add_work_day_tip">This event repeats every weekday (Mon—Fri)</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_calendar_event_reminder_location">View in Mi Fitness</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_calendar_sync_alert">Add to Calendar</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_add_failed">"Couldn't add"</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_cancel">Cancel</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_confirm">OK</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_known">Got it</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_load_data_failed">"Couldn't load data"</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_loading">Just a sec…</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_ok">OK</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_common_save">Save</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_days_0">"You're all set!"</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_delete_confirm_my_habit">"Remove this habit? You'll lose your streak."</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_device_bind_no_network">Connect to the network and try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_edit">Edit</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_edit_all">Select all</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_edit_back">Exit</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_edit_finish">Back</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_edit_not_all">Deselect All</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_go_and_add_one">Create your first habit</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_item_not_start">Start</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_item_punch">Check in</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_item_punched">Checked in</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_list_my_title">My habits</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_list_title">Discover</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_long_press_to_download">Press and hold the QR code to download</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_not_added">No habits added</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_pass_add">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_pass_day">Repeat</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_pass_switch_alert">Watch vibration (Mi Watch only)</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_pass_time">Reminders</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_pass_time_title">Reminders</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_permission_calendar_habit">To be able to track your habits, allow this app to access calendar events.</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_permission_storage_share">To be able to save and share images, allow this app to access storage.</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_privacy_description">Permissions required</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_punch">Check in all</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_recommend">Recommended</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_share">Share</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_today">Today</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_today_empty">No habits</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_world_clock_select_none">Select items first</string>
+<!-- ### FROM SOURCE -->
+    <string name="habit_world_clock_select_world">Select items</string>
     <string name="health_active_stage_activity_lightly">С разминкой</string>
     <string name="health_active_stage_climb_stairs">Подъем по лестнице</string>
     <string name="health_active_stage_ride">На велосипеде</string>
@@ -1722,6 +1971,7 @@ ID:%s
     <string name="health_common_save">Сохранить</string>
     <string name="health_common_select_null">Не выбрано</string>
     <string name="health_common_today">Сегодня</string>
+    <string name="health_common_unit_percent">%</string>
     <string name="health_common_view_record">Все данные</string>
     <string name="health_current">Сегодня</string>
     <string name="health_curse">Менструация</string>
@@ -2384,6 +2634,35 @@ ID:%s
     <string name="keep_alive_notification_channel">Подключение устройства</string>
     <string name="keep_alive_notification_content_connected">Подключено</string>
     <string name="keep_alive_notification_content_connecting">Соединение…</string>
+    <string name="languages_ar">العربية</string>
+    <string name="languages_cn">简体中文</string>
+    <string name="languages_cs">Čeština</string>
+    <string name="languages_da">Dansk</string>
+    <string name="languages_de">Deutsch</string>
+    <string name="languages_el">Eλληνικά</string>
+    <string name="languages_en">English</string>
+    <string name="languages_es">Español</string>
+    <string name="languages_fi">Suomi</string>
+    <string name="languages_fr">Français</string>
+    <string name="languages_he">עברית</string>
+    <string name="languages_in">Indonesia</string>
+    <string name="languages_it">Italiano</string>
+    <string name="languages_ja">日本語</string>
+    <string name="languages_ko">한국어</string>
+    <string name="languages_nl">Nederlands</string>
+    <string name="languages_no">Norsk bokmål</string>
+    <string name="languages_pl">Polski</string>
+    <string name="languages_pt">Português (Portugal)</string>
+    <string name="languages_pt_br">Português (Brasil)</string>
+    <string name="languages_ro">Română</string>
+    <string name="languages_ru">Русский</string>
+    <string name="languages_sv">Svenska</string>
+    <string name="languages_th">ไทย</string>
+    <string name="languages_tr">Türkçe</string>
+    <string name="languages_tw">繁體中文</string>
+    <string name="languages_uk">Українська</string>
+    <string name="languages_vi">Tiếng Việt</string>
+    <string name="line_slash">/</string>
     <string name="loading">Подождите…</string>
     <string name="lock_support_description2">Медкарта не отображается на экране блокировки?</string>
     <string name="log_off_account_failure">Ошибка удаления аккаунта</string>
@@ -2484,12 +2763,16 @@ ID:%s
     <string name="mapbox_mapActionDescription">Отображает карту, созданную при помощи Mapbox. Пролистывайте двумя пальцами. Меняйте масштаб сведением пальцев.</string>
     <string name="mapbox_myLocationViewContentDescription">Местоположение. Отображает вашу позицию на карте.</string>
     <string name="mapbox_offline_error_region_definition_invalid">Запрошенный OfflineRegionDefinition не входит в допустимые границы: %s</string>
+    <string name="mapbox_telemetryImproveMap">Сделать эту карту лучше</string>
     <string name="mapbox_telemetrySettings">Настройки телеметрии</string>
+    <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
     <string name="material_hour_selection">Выберите час</string>
     <string name="material_hour_suffix">%1$s ч.</string>
     <string name="material_minute_selection">Выберите минуты</string>
     <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_slider_range_end">Конец диапазона,</string>
+    <string name="material_slider_range_start">Начало диапазона,</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
     <string name="material_timepicker_hour">Час</string>
@@ -2522,6 +2805,8 @@ ID:%s
     <string name="medal_wall">Мои награды</string>
     <string name="midnight">Ночь</string>
     <string name="mine_about">Об этом приложении</string>
+<!-- ### FROM SOURCE -->
+    <string name="mine_activity">Challenges</string>
     <string name="mine_agree">ОК</string>
     <string name="mine_bugreport">Отчет</string>
     <string name="mine_cancle">Отмена</string>
@@ -2531,11 +2816,18 @@ ID:%s
     <string name="mine_habit">Привычки</string>
     <string name="mine_health_plan">Тренировочные планы</string>
     <string name="mine_medal">Мои награды</string>
+<!-- ### FROM SOURCE -->
+    <string name="mine_medal_entrance_got">"Award for
+%1$s"</string>
     <string name="mine_medal_user_id">Mi аккаунт:</string>
     <string name="mine_misport_data_importing">Перенос данных…</string>
     <string name="mine_misport_import_faile">Произошла ошибка. Повторите попытку.</string>
     <string name="mine_misport_last_import_time">Перенесено: %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="mine_my_course_list_title">Courses</string>
     <string name="mine_no_agree">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="mine_no_medal_default_desc">Complete your profile and get an award</string>
     <string name="mine_not_login">Вход не выполнен</string>
     <string name="mine_open_sport_health_cloud_sync">Синхронизировать?</string>
     <string name="mine_open_sport_health_cloud_sync_des">Синхронизировать данные тренировок и активности на всех устройствах.</string>
@@ -2559,7 +2851,11 @@ ID:%s
     <string name="mine_user_male">Мужской</string>
     <string name="mine_user_name">--</string>
     <string name="mine_weekly_report">Сводка за неделю</string>
+<!-- ### FROM SOURCE -->
+    <string name="mine_weekly_report_auth_desc">Allow this app to access weekly workout data.</string>
     <string name="mine_weekly_report_auth_title">Разрешения</string>
+<!-- ### FROM SOURCE -->
+    <string name="mine_weekly_report_auth_welcome">View your weekly summary</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Снять выбор</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
@@ -2662,11 +2958,71 @@ ID:%s
 1. Чтобы совершить оплату при помощи устройства, перейдите в раздел \"Карты\", проведите, чтобы выбрать карту и поднесите браслет к считывающему устройству. Загрузка карты занимает 1 мин.
 2. Чтобы завершить оплату, вам может потребоваться ввести цифровой код банковской карты. Для получения дополнительной информации обратитесь к эмитенту банковской карты."</string>
     <string name="nfc_add_card_bank_global">Добавить</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_card_door">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_custom_desc">Create an empty card and write required data to activate it</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_custom_title">Blank card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_lock_desc">Add Mi Smart Door Lock</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_lock_title">Smart door lock</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_mifare_desc">Add a key card on your wearable device</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_mifare_title">Add key card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_protocol">Xiaomi Key Card User Agreement</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_protocol_toast">Read and agree to terms and conditions first</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_sub_desc">Use your watch to open doors</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_add_door_card_sub_title">Use the watch as keys</string>
     <string name="nfc_add_time_duplicated_desc">Одновременно можно использовать только одну карту. Выберите другое время.</string>
     <string name="nfc_add_time_duplicated_title">Произошла ошибка.</string>
     <string name="nfc_add_time_max_desc">Можно добавить до 5 интервалов</string>
     <string name="nfc_add_time_switcher_desc">Выбрать эту карту по умолчанию для определенного времени.</string>
     <string name="nfc_add_time_switcher_title">Выбрать по умолчанию</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_number_disable_and_refund">Card frozen. The amount will be refunded to your account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_number_not_exist_and_refund">Invalid card number. The amount will be refunded to your account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_out_validity_and_refund">Card expired. The amount will be refunded to your account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_refunded_and_refund">Card canceled. The amount will be refunded to your account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_status_data_illegal">Incorrect card details. Contact customer support.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_status_end_date_invalid">Invalid expiration date. Contact customer support.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_status_inblacklist">This card has been blocked. Contact customer support.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_status_issuer_not_bj">Only Beijing transport cards are supported</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_status_negative">Not a default card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_status_rechare_fail">"Couldn't top up (%1$s). Contact customer support."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_card_status_start_date_invalid">Invalid date. Contact customer support.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_miui_version_restricted">"Current version isn't supported"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_no_stock">Try again later</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_pay_duplicate">"You've paid already"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_recharge_failed_and_refund">"Couldn't top up. The amount will be refunded to your account."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_msg_recharge_result_unknown">Top-up error. Contact customer support to confirm payment.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_title_recharge_failed_and_refund">"Couldn't top up"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_alert_title_recharge_result_unknown">"Couldn't load"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_app_name_mi_wallet">小米钱包</string>
     <string name="nfc_bank_account_number">Номер карты</string>
     <string name="nfc_bank_card">Банковская карта</string>
     <string name="nfc_bank_card_cnv2_empty">Введите CVN2</string>
@@ -2693,6 +3049,8 @@ ID:%s
     <string name="nfc_bank_status_not_active">Недоступно</string>
     <string name="nfc_bank_type">Тип карты</string>
     <string name="nfc_bank_updating">Обновление</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_bfc_transfer_in_desc">You can restore the remaining value and recover transaction history</string>
     <string name="nfc_bind_bank_card_cvn2_hint_globa">Три последние цифры на обратной стороне банковской карты.</string>
     <string name="nfc_bind_bank_card_num_by_null_who">Добавить</string>
     <string name="nfc_bind_bank_card_num_by_who_global">Добавить банковскую карту %1$s</string>
@@ -2705,40 +3063,282 @@ ID:%s
     <string name="nfc_cannot_receive_verify_code">"1. Убедитесь, что используемый вами номер мобильного телефона и адрес электронной почты совпадают с указанными в информации о банковском счете.
 2. Проверьте папки \"Спам\" и \"Заблокированные\".
 3. Если номер телефона или адрес электронной почты был изменен, свяжитесь с эмитентом банковской карты."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_balance_des">Balance (CNY)</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_default_card">Default</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_card_company_order_id_title">Order No.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_consume_record_empty">No items here.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_copy_hit">Copied %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_copy_id">Copy</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_mi_order_id_title">Order ID</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_more_settings">More options</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_more_settings_help">FAQ</string>
     <string name="nfc_card_detail_more_settings_trade_record">Транзакции</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_order_id_title">Order details</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_recharge_now">Top up</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_recharge_record_empty">No items here.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_detail_refresh_now">Refresh</string>
     <string name="nfc_card_holder_name">Имя</string>
     <string name="nfc_card_holder_name_desc">Введите название</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_info_is_null">"Couldn't read card information. Try again later."</string>
     <string name="nfc_card_info_verify_fail">Проверьте сведения о банковской карте</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_intro_protocols">&lt;Data>Read and agree to &lt;a href=\"%1$s\">&lt;xliff:g id=card_name>%2$s&lt;/xliff:g> Terms of Service&lt;/a>.&lt;/Data></string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_complete_back_to_mihome">Back to Mi Home</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_complete_back_to_others">Back</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_dialog_content_device_bluetooth_closed">"Can't connect to the device. Turn on Bluetooth and try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_dialog_milock_no_mihome_app_msg">Download Mi Home and complete key card setup in the app</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_dialog_milock_support_msg">None</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_dialog_milock_support_ok">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_dialog_milock_support_title">Supported</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_fail">"Couldn't add"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_hint_connect">Keep the wearable device close to your phone</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_hint_mutl_device_dialog_title">Select device</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_hint_no_device">No device is associated with current account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_hint_no_login">Sign in to your Mi Account</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_hint_param_error">Invalid parameters</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_hint_success_default">Added successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_issue_hint_success_milock">Complete key card setup in Mi Home</string>
     <string name="nfc_card_issuing_global">Секунду</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_cloud_trans_group_name">My cards</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_has_issue_order">"Couldn't add"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_has_transferin_order">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_has_transferout_order">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_install_now">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_installed">Added</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_notice_dialog_title">Attention</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_transfer">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_list_transfer_unvailable">Unavailable</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_manage_load_err">"Couldn't load %1$s"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_manage_load_err_all">"Couldn't load data"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_manage_load_err_type">%1$s and %2$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_mifare_notice_content">&lt;Data>1. You can only unencrypted key cards with a frequency of 13.56 MHz. Cards linked to depository accounts are not supported.&lt;br>2. You cannot use your key card to ride transit or pay for goods with your phone. Before you continue, read and agree to our &lt;a href=\"%1$s\">Terms and Conditions&lt;/a>.&lt;br>&lt;/Data></string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_milock_activate_help_title">Add key cards</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_milock_status_no_activate_msg">Complete key card setup in Mi Home</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_number_global">Card No.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_create_order_progress">Processing…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_do_recharge">Topping up…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_grid_error_denomination">Enter more than %1$d CNY</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_grid_item_pay_fee">Pay %1$.2f CNY</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_issue_quantity_item_text">Quantity</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_item_unit_text">%1$.2f CNY</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_pay_now">Pay</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_querying_result">Checking payment…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_recharge_info">Select amount</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_recharge_item_text">Top up</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_success_sub">Topped up %1$s CNY</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_transfer_in_balance_item_left_text">Balance</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_transfer_in_fee_item_text">Removal fee</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_transfer_in_op_item_left_text">Current</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_transfer_in_op_item_right_text">Add card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_recharge_warning_waiting">Payment canceled</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_record_detail">Details</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_record_refund_message">Confirm request?</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_record_text">Refund</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_card_transferin_ing">Removing…</string>
     <string name="nfc_check_pre_account_loading">Поиск угроз безопасности…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_cnv2">CVN2</string>
     <string name="nfc_cnv2_help_info">Код CVN2 — это три последние цифры на обратной стороне банковской карты.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_agree">OK</string>
     <string name="nfc_common_back">Назад</string>
     <string name="nfc_common_cancle">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_complete">Done</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_confirm">OK</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_copid">Copied successfully</string>
     <string name="nfc_common_hint">Предупреждение</string>
     <string name="nfc_common_hint_device_unconnect">Подключите носимое устройство и повторите попытку.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_hint_hold_on">Keep your wearable device connected to your phone</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_hint_no_data">Try again later</string>
     <string name="nfc_common_hint_server_unavailable">Ошибка сервера. Повторите попытку позже.</string>
     <string name="nfc_common_known">Понятно</string>
     <string name="nfc_common_more_setting">Еще</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_not_support_version">"Current version isn't supported"</string>
     <string name="nfc_common_notification">Уведомления</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_null">None</string>
     <string name="nfc_common_ok">ОК</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_page_not_find">Page not found</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_retry">Try again</string>
     <string name="nfc_common_step_next">Далее</string>
     <string name="nfc_common_success">Готово</string>
     <string name="nfc_common_time_out">Время ожидания истекло. Повторите попытку.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_tsm_card_service_cost">Service fee</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_common_unit_rmb">CNY</string>
     <string name="nfc_common_waiting">Подождите…</string>
     <string name="nfc_contact_us_url">&lt;Data>&lt;a href=\"%1$s\">Свяжитесь с нами&lt;/a>&lt;/Data></string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_cvc2">CVC2</string>
     <string name="nfc_cvc2_help_info">Код CVC2 — это три последние цифры на обратной стороне банковской карты.</string>
     <string name="nfc_cvc2_protocl">&lt;Data>Я принимаю &lt;a href=\"%1$s\">условия использования&lt;/a>.&lt;/Data></string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_data_empty">No data</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_default_card">Default</string>
     <string name="nfc_default_card_set_failure">Произошла ошибка.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_default_card_set_ing">Just a sec…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_default_card_set_success">Set successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_delete_card_confim_hint">Delete card?</string>
     <string name="nfc_delete_card_confim_hint_bank">Вы не сможете использовать эту карту для оплаты. Продолжить?</string>
     <string name="nfc_delete_card_msg">Это займет около 2 мин.</string>
     <string name="nfc_deleting">Удаление…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_device_card_and_pay">Cards</string>
     <string name="nfc_device_card_number_mul">Номер аккаунта устройства</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_device_status_connected">Connected</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_door_card">Key cards</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_door_card_battery_not_enough">Battery below 20%. Add the card on your phone.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_door_card_battery_sync_error">Add the card on your phone.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_door_card_protocol_dialog_content_contain">"&lt;Data> I agree to be liable for any damage or loss arising from the illegal or inappropriate use of the key card service.&lt;br>I've read and agreed to&lt;a href=\"%1$s\">Key Card User Agreement&lt;/a>.&lt;br>&lt;/Data>"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_door_card_protocol_dialog_title">Attention</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_dot">.</string>
     <string name="nfc_email_receive_code">E-mail</string>
     <string name="nfc_entrance_card_delete_success">Удалено</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_emulation">Key cards</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_install_success">Added successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_company">Company</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_company_tsm">公司</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_gate">Community</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_gate_tsm">小区</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_home">Home</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_home_tsm">家</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_invalid">Enter label</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_kingsoft">Kingsoft employee badge</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_unit">Unit</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_unit_tsm">单元</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_name_xiaomi">Xiaomi employee badge</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_read_desc">Keep still</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_read_success">Start adding your card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_read_title">Rest the back of your phone on your key card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_rename">Label</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_start_copy">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_entrance_card_support_alert"><u>Supported key cards</u></string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_error_nfc_message">NFC error. Restart NFC or the device.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_error_recharge_balance_max">"Balance can't exceed 1000 CNY"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_error_recharge_balance_min">Card balance cannot be less than 0 CNY.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_get_trans_config_fail">"Couldn't load. Try again later."</string>
     <string name="nfc_go_activate">Выбрать</string>
     <string name="nfc_id_authentication_desc">Завершите проверку как можно скорее</string>
     <string name="nfc_id_check_title_global">Подтверждение</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_invalid_value">Invalid value</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_key_text_x">X</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_lin_nan_card_location_dialog_msg">Allow access to location first</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_loading_cards">Loading…</string>
     <string name="nfc_locale_not_support">В настоящее время карты Mastercard не поддерживаются в вашем регионе.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_manager_card">Cards</string>
     <string name="nfc_master_card_2000_expired_session">Время ожидания истекло. Удалите карту и добавьте ее снова.</string>
     <string name="nfc_master_card_2000_incorrect_code_retries_exceeded">Слишком много неудачных попыток. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить ее снова.</string>
     <string name="nfc_master_card_2000_incorrect_tav">Ваш запрос был отклонен банком. Свяжитесь с эмитентом или потрошите попытку позже.</string>
@@ -2764,19 +3364,231 @@ ID:%s
     <string name="nfc_mi_pay_user_proto_master_new">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности %2$s&lt;/a> и &lt;a href=\"%3$s\">Пользовательское соглашение %4$s&lt;/a>.&lt;/Data></string>
     <string name="nfc_mi_pay_user_proto_privacy">Политика конфиденциальности</string>
     <string name="nfc_mi_pay_user_proto_user">Пользовательское соглашение</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_mifare_issue_dialog_msg">Your phone is NFC-enabled. You can add the card on your phone.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_mifare_issue_dialog_phone">Phone</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_mifare_issue_dialog_wear">Wearable device</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_mifare_issue_nfc_off_msg">Turn on NFC on your phone</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_mifare_issue_no_nfc_feature">"Your phone doesn't support NFC function. The card information couldn't be read. Use a phone that supports NFC and try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_new_mifare_v3_title_start">Rest your key card on the screen</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_new_pay_name">Order</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_new_pay_order_detail">Pay %1$s | Amount: %2$.2f CNY | Top up: %3$.2f CNY</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_card_recharge_btn_unit_text">Pay %1$.2f CNY</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_card_recharge_coupon_item_text">Coupons</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_card_recharge_issue_text">%1$.2f</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_card_recharge_recharge_info">Select amount (CNY)</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_choose_city_title">Select city</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_coupon_error_title_content">"No coupons available
+Get one on Mi Wallet official account in WeChat"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_coupon_not_use_btn_text">Not now</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_coupon_not_use_item_text">Not now</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_coupon_use_desc">*Only one coupon can be used per transaction.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_door_card_edit_card_name">Customize your card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_door_card_select_face">Card images</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_mifare_card_rename_select_art_info_tips">Select card image</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_more_settings_balance_tips">Low balance alert</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_more_settings_copy_no">Copy</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_more_settings_copy_no_success">Copied</string>
     <string name="nfc_nextpay_more_settings_help">Часто задаваемые вопросы</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_transfer_out_btn_accept">Remove</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_transfer_out_desc">You can always add the card again without losing the remaining value and transaction history.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_transfer_out_intro_title">Remove card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_transfer_out_progress_title">Removing</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_transfer_out_title">Move between devices</string>
     <string name="nfc_not_active_bank_card_content_new">Для добавления карты в %1$s необходимо подтверждение через SMS. Вы можете продолжить настройку в течение 24 часов.</string>
     <string name="nfc_not_active_bank_card_finish">Выход</string>
     <string name="nfc_not_active_bank_card_title">Настройка не завершена</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_not_find_secard_by_productid">Invalid card. Contact customer support.</string>
     <string name="nfc_open_card_holder_name">Имя владельца карты</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_open_card_number_exceed_limit">"You've reach the limits of adding key cards"</string>
     <string name="nfc_open_service_common_error">Сбой загрузки. Повторите попытку позже.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_open_service_error_no_connect">Connect to your wearable device</string>
     <string name="nfc_open_service_error_not_found">Нет доступных карт.</string>
     <string name="nfc_open_service_error_not_sign">Укажите имя пакета и подпись для Xiaomi</string>
     <string name="nfc_order_detail_delayed">Выполняется обработка. Повторите позже.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_order_hint_refund">The amount will be refunded to your account within 2 hours.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_order_not_found">"Couldn't find order"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_order_refund_success">Refunded</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_order_refunding_fail">"Couldn't refund. Try again later"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_order_refunding_success">The amount will be refunded to your account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_pay_alipay">Alipay</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_fail_content_detail">Server error occurred. Try again later.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_issue_success_content">Card added</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_issue_success_content_detail">To pay with your device, hold it over the reader.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_issue_success_footer_op_text">Pay by card on the go</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_shift_in_fail_content">"Couldn't add"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_shift_in_success_content">Added successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_shift_in_success_content_detail">You can pay for transit using your device</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_shift_in_title">Add card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_shift_out_fail_content">"Couldn't remove"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_shift_out_success_content">Removed successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_paynext_result_shift_out_success_content_detail">You can transfer cards to Xiaomi devices that support NFC transit cards for free.</string>
     <string name="nfc_personal_service_term">Условия использования</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_num_captcha_btn_title">Send</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_num_captcha_desc">SMS verification</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_num_captcha_input_hint">Enter code</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_num_captcha_waitting">Just a sec…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_num_input_error">Check the phone number</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_num_input_hint">Phone number</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_num_verify_desc">Adding Guangzhou transport card requires SMS verification</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_phone_number_validate_protocol">&lt;Data>Read and agree to &lt;a href=\"%1$s\">&lt;xliff:g id=card_name>%2$s&lt;/xliff:g> Terms of Service&lt;/a>.&lt;/Data></string>
     <string name="nfc_phone_receive_sms_code">SMS</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_reading_tag_error">"Couldn't read card. Try again."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_reading_tag_error_encrypt">"Encrypted cards aren't supported."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_reading_tag_error_not_m1">Only Mifare 1k cards are supported.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_reading_tag_time_out">Timed out. Try again.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_recharge_amount">+%1$.2f</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_refund_success_back">The amount will be refunded to your account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_remove_door_card">Remove</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_remove_transit_card">Remove</string>
     <string name="nfc_remove_transit_card_global">Удалить карту</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_result_card_recharge_amount_after_recharge_item_text">Amount</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_result_recharge_success">Top-up complete</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_result_returncard_success">Refund successfully</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_result_success_validity">Valid until</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card">Remove card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_btn_title">Remove</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_confirm_msg">"1. Make sure there's no pending transaction.
+2. You won't be able to recover your card once it's removed."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_confirm_msg_2">"1. Make sure there's no pending transaction.
+2. Service fees can't be refunded.
+3. You won't be able to recover your card once it's removed."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_confirm_title">Note</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_create_token_loading">Confirming your refund…</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_error">Error</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_flow">"1. It takes about 3 working days for the refund to be returned to the payment method used to make the original purchase. You can always check the refund status in Profile > Cards > Settings.
+2. If your refund does not arrive, try the following steps:
+(1) Open Shenzhen Tong app, go to My > Feedback, and choose the first option.
+(2) Select wearable payments.
+(3) Tap Xiaomi.
+(4) Copy your confirmation number."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_flow_title">Refund process</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_loading">"Don't leave this page until the process is complete."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_msg">You can restore the remaining value and get a service fee refund.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_only_service_fee">Refund</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_only_service_msg">You can still use this card after a service fee refund.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_reason_title">Reason for refund</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_service">Remove card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_token">Confirmation number</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_alipay_account">Alipay account</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_alipay_account_hint">Enter Alipay account</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_attention_desc">"1. To find your Alipay Account, go to Alipay > Me and tap your profile photo.
+2. It takes about 3 working days for the refund to be returned to the payment method used to make the original purchase.
+3. If your refund does not arrive, check your Alipay account.
+4. Make sure the info you entered is correct. Such info is provided to your card issuer for refund to your account."</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_attention_title">Important</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_btn_title">Continue</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_confirm_dialog_content">Make sure the account info is correct.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_confirm_dialog_title">Check the details</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_hint">Enter name</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_name">Name</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_phone_num">Phone number</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_retrun_card_user_info_phone_num_hint">Enter phone number</string>
     <string name="nfc_safe_keyboard_title">Система в безопасности</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_select_read_type">Select card reader</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_set_activate_card">Set as default</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_set_activate_card_already">On</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_set_default_card">Set as default</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_set_default_card_already">Set</string>
     <string name="nfc_set_default_card_global">Выбрать по умолчанию</string>
     <string name="nfc_setting_done">Готово</string>
     <string name="nfc_settings_mastercard_pwd_upgrade_desc">"Защитите свой код.
@@ -2792,14 +3604,44 @@ ID:%s
     <string name="nfc_settings_update_card_succeed">Обновление завершено</string>
     <string name="nfc_show_unset_wear_pwd">Установите цифровой код для устройства, чтобы обеспечить безопасность платежей.</string>
     <string name="nfc_syncese_btn_txt_global">Начать</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_syncese_content">"If you can't add a card to your account, we can attempt to fix this issue."</string>
     <string name="nfc_syncese_content_mastercard_url">Если у вас возникли проблемы с картой, мы можем попытаться решить эту проблему. Если проблему не удастся решить, обратитесь в нашу &lt;a href=\"%1$s\">службу поддержки&lt;/a>.</string>
     <string name="nfc_syncese_dialog_content">Это займет около 1 минуты. Не покидайте страницу и убедитесь, что телефон подключен к сети.</string>
     <string name="nfc_syncese_loading_content_global">Подождите…</string>
     <string name="nfc_syncese_sync_success">Готово</string>
     <string name="nfc_syncese_title_global">Справка</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_text_separator">|</string>
     <string name="nfc_thirdparty_wechat_uninstall">Сначала установите WeChat</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_tip_ad2p_success">音乐接力成功</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_trade_type_consume">Spending</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_trade_type_recharge">Top-up</string>
     <string name="nfc_trans_card_status_error">Ошибка</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_trans_card_title">Transport card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_trans_uncomplite_order_msg">Continue with your previous account.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_transfer_in_btn">Add now?</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_transfer_in_title">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_transit_card">Transport card</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_transit_card_add">Add</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_un_support_card_type">"This card isn't supported"</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_union_card_pos_alert">Make wireless payments with Xiaomi Pay using UnionPay QuickPass</string>
     <string name="nfc_union_card_support_blank">Поддерживаемые банки</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_union_card_title">Mi Pay</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_union_card_title_">Xiaomi Pay</string>
     <string name="nfc_unionpay_show_msg">Чтобы добавить карту, потребуется предоставить такую информацию, как номер карты и номер вашего телефона. Это необходимо для связи с эмитентом карты и активации службы.</string>
     <string name="nfc_unlock_device_first">Сначала разблокируйте носимое устройство</string>
     <string name="nfc_update_card_button">Обновить</string>
@@ -2821,7 +3663,13 @@ ID:%s
     <string name="nfc_validate_code_send_error_global">Не удалось отправить код. Повторите попытку.</string>
     <string name="nfc_validate_code_send_global">Код был отправлен на ваш телефон</string>
     <string name="nfc_validate_code_send_msg_global">Повторить</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_web_all_pay">UPay</string>
     <string name="nfc_wrist_lock_off_dialog_title">Установите цифровой код</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_xiaomiren_delete_card_did_emtpy_has_other_device">No employee badge added. Try another device.</string>
+<!-- ### FROM SOURCE -->
+    <string name="nfc_xiaomiren_delete_card_did_not_emtpy_current_not_found_miFare">No employee badge added. Contact the OA support.</string>
     <string name="nick_name">Псевдоним</string>
     <string name="night">Вечер</string>
     <string name="no_account">Вход не выполнен</string>
@@ -2902,6 +3750,8 @@ ID:%s
     <string name="notify_sms_reply_lowest_limit_tips">Оставьте хотя бы один ответ</string>
     <string name="ok">ОК</string>
     <string name="open_settings">Настройки</string>
+<!-- ### FROM SOURCE -->
+    <string name="otp_info_reverify">Your card has been verified</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_label">Mi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
@@ -3009,6 +3859,14 @@ ID:%s
     <string name="permission_send_sms_info">Для использования этой функции разрешите приложению отправлять сообщения.</string>
     <string name="permission_to_grant_authorization">ОК</string>
     <string name="permission_write_read_file_info">Для использования этой функции разрешите приложению доступ к хранилищу.</string>
+<!-- ### FROM SOURCE -->
+    <string name="permissionx_access_background_location">Background location</string>
+<!-- ### FROM SOURCE -->
+    <string name="permissionx_manage_external_storage">All files access</string>
+<!-- ### FROM SOURCE -->
+    <string name="permissionx_system_alert_window">Display over other apps</string>
+<!-- ### FROM SOURCE -->
+    <string name="permissionx_write_settings">Modify system settings</string>
     <string name="phone_bind_too_many">Этот номер был привязан к разным аккаунтам в течение короткого периода времени. Попробуйте использовать другой номер.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
@@ -3062,15 +3920,19 @@ ID:%s
     <string name="provider_tips_default">Нет данных</string>
     <string name="psw_hint">Пароль</string>
     <string name="psw_sign_in">Войти по паролю</string>
+    <string name="qq_application_id" />
     <string name="qr_code_desc">Разместите QR-код внутри рамки</string>
     <string name="qr_code_title">Сканер</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="reject">Запретить</string>
+    <string name="request_agree">Разрешить</string>
     <string name="request_camera_permission_message">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством и нормами. Для правильной работы приложению требуются следующие разрешения:&lt;br>&lt;br>&lt;b>Доступ к камере (для настройки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не предоставите данные разрешения, вы не сможете воспользоваться некоторыми функциями этого приложения. Тем не менее его основные функции останутся доступны. Вы в любой момент можете отозвать разрешение в Настройках.</string>
+    <string name="request_cancel">Отмена</string>
     <string name="request_error_invalid_token">Ошибка проверки</string>
     <string name="request_error_network">Произошла ошибка сети. Проверьте настройки и повторите попытку.</string>
     <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
+    <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
     <string name="resend_active_email">Повторить</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что сообщение не попало в папку со спамом.</string>
     <string name="resend_email_reach_limit_title">Слишком много попыток</string>
@@ -3089,6 +3951,7 @@ ID:%s
     <string name="send_email_activate_message">Сообщение для подтверждения успешно отправлено</string>
     <string name="sending">Отправка…</string>
     <string name="service_error">Ошибка сервера</string>
+    <string name="service_unavailable">служба недоступна</string>
     <string name="set_success">Изменения сохранены</string>
     <string name="settingitem_alarm_every_day">Каждый день</string>
     <string name="settingitem_alarm_holiday">Выходные</string>
@@ -3127,10 +3990,38 @@ ID:%s
     <string name="sleep_service">Служба контроля сна</string>
     <string name="sleep_service_background_running">Служба контроля сна работает в фоновом режиме</string>
     <string name="sleep_snore_detection_running_state_description">Включен микрофон. Он продолжит работать в фоновом режиме.</string>
+<!-- ### FROM SOURCE -->
+    <string name="sms_code_wrong">The verification code you entered is incorrect</string>
+<!-- ### FROM SOURCE -->
+    <string name="sms_expire">Code has expired</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
     <string name="sns_sign_in">Другие способы входа</string>
+    <string name="solar_term_autumn_begins">Начало осени</string>
+    <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
+    <string name="solar_term_clear_and_bright">Ясно</string>
+    <string name="solar_term_cold_dews">Роса</string>
+    <string name="solar_term_grain_buds">Колошение</string>
+    <string name="solar_term_grain_in_ear">Созревание зерна</string>
+    <string name="solar_term_grain_rain">Крупный дождь</string>
+    <string name="solar_term_great_cold">Сильный мороз</string>
+    <string name="solar_term_great_heat">Сильная жара</string>
+    <string name="solar_term_heavy_snow">Сильный снег</string>
+    <string name="solar_term_hoar_frost_falls">Иней</string>
+    <string name="solar_term_insects_awaken">Пробуждение насекомых</string>
+    <string name="solar_term_light_snow">Легкий снег</string>
+    <string name="solar_term_slight_cold">Прохлада</string>
+    <string name="solar_term_slight_heat">Небольшая жара</string>
+    <string name="solar_term_spring_begins">Начало весны</string>
+    <string name="solar_term_stopping_the_heat">Окончание тепла</string>
+    <string name="solar_term_summer_begins">Начало лета</string>
+    <string name="solar_term_summer_solstice">Летнее солнцестояние</string>
+    <string name="solar_term_the_rains">Дождь</string>
+    <string name="solar_term_vernal_equinox">День весеннего равноденствия</string>
+    <string name="solar_term_white_dews">Белые росы</string>
+    <string name="solar_term_winter_begins">Начало зимы</string>
+    <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="sport">Тренировка</string>
     <string name="sport_activity_recommend">Обзор</string>
     <string name="sport_advise0">Разомнитесь</string>
@@ -3138,6 +4029,7 @@ ID:%s
     <string name="sport_advise2">Тренируйтесь в помещении</string>
     <string name="sport_advise3">Избегайте тренировок на улице</string>
     <string name="sport_agree">Разрешить</string>
+    <string name="sport_all">Все виды спорта</string>
     <string name="sport_analyze">Повторите попытку позже</string>
     <string name="sport_app_not_install">Автоматическая настройка</string>
     <string name="sport_apparatus">Тренировки в зале</string>
@@ -3230,6 +4122,8 @@ ID:%s
     <string name="sport_hr">уд/мин</string>
     <string name="sport_hr_max_remind">Значение оповещения</string>
     <string name="sport_kilo_cal">ккал</string>
+<!-- ### FROM SOURCE -->
+    <string name="sport_label">1. Sport Record</string>
     <string name="sport_learn_more">Подробнее</string>
     <string name="sport_local_device_cannot_update_desc">Откройте Mi Home и повторите попытку</string>
     <string name="sport_local_device_cannot_update_title">Не удалось обновить</string>
@@ -3289,6 +4183,7 @@ ID:%s
     <string name="sport_receive_sport_report_detail2">Можно просмотреть их позже в Настройки > Синхронизация активностей</string>
     <string name="sport_recommended_use">Рекомендуемое</string>
     <string name="sport_reconnect">Соединение…</string>
+    <string name="sport_record_all">Все</string>
     <string name="sport_reject">Запретить</string>
     <string name="sport_revoke_authorization_dialog_content">Если вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Учетная запись, в которую выполнен вход на подключенном устройстве, также будет удалена. Чтобы удалить данные, хранящиеся в Mi Fitness, удалите службу Mi Fitness. Чтобы удалить данные на подключенном устройстве, см. раздел «Отзыв согласия» в нашей Политике конфиденциальности. Если вы используете носимое устройство, сброс настроек удалит все ваши данные на нем. Если вы передумаете, вы не сможете восстановить свои данные. Если вы решите использовать устройство, то вам потребуется заново принять нашу Политику конфиденциальности.</string>
     <string name="sport_revoke_authorization_dialog_title">Предупреждение</string>
@@ -3323,6 +4218,7 @@ ID:%s
     <string name="sport_target_cals">Цель: %s ккал</string>
     <string name="sport_target_distance">Цель: %s км</string>
     <string name="sport_target_run">Целевой бег</string>
+    <string name="sport_time_all">Всего</string>
     <string name="sport_time_duration">Время</string>
     <string name="sport_today">Сегодня</string>
     <string name="sport_treadmill_sourse">Mi Treadmill</string>
@@ -3407,6 +4303,7 @@ ID:%s
     <string name="ticket_hint">Код подтверждения</string>
     <string name="ticket_invalid">Код введен неверно</string>
     <string name="ticket_sign_in">Войти через SMS</string>
+    <string name="time_format_hh_mm">HH:mm</string>
     <string name="time_period_afternoon">PM</string>
     <string name="time_period_early_morning">AM</string>
     <string name="time_period_morning">AM</string>
@@ -3419,6 +4316,8 @@ ID:%s
     <string name="time_update_time_before">%1$s назад</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
+<!-- ### FROM SOURCE -->
+    <string name="total_apply_num_exceed_limit">You have no room to open another card</string>
     <string name="trail_add">Добавить</string>
     <string name="trail_add_detail">%1$s</string>
     <string name="trail_add_more">Добавить сведения</string>
@@ -3446,6 +4345,7 @@ ID:%s
     <string name="trail_choose_posture">Стиль</string>
     <string name="trail_complete_operation">Завершите в течение 20 сек.</string>
     <string name="trail_data_activity_calorie">Активные ккал</string>
+    <string name="trail_data_my_status">Мой статус</string>
     <string name="trail_data_rate_distribute0" />
     <string name="trail_data_rate_distribute1">Легкая активность</string>
     <string name="trail_data_rate_distribute2">Сжигание жира</string>
@@ -3500,6 +4400,7 @@ ID:%s
     <string name="trail_intensity_low">Легкая</string>
     <string name="trail_intensity_medium">Среднее</string>
     <string name="trail_intermittent_segment_details">Интервалы</string>
+    <string name="trail_label">1. Спортивный рекорд</string>
     <string name="trail_label_calorie">ккал</string>
     <string name="trail_label_km">км</string>
     <string name="trail_label_km_hour">км/ч</string>
@@ -3831,6 +4732,14 @@ ID:%s
     <string name="update_phone_notice">Измените настройки безопасности</string>
     <string name="update_progress_expression">Загружено %1$d%%</string>
     <string name="upload_error_log">Загрузить журнал</string>
+<!-- ### FROM SOURCE -->
+    <string name="uri_data_sport_ongoing">Working out…</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_account_in_blank_list">Your account had been in blank list</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_account_no_apply_privilege">Your account status does not support applying the business</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_account_not_exist">Your account not exists</string>
     <string name="user_agreement_hint_default">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a>&lt;/Data></string>
     <string name="user_agreement_hint_with_mobile">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>, &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%3$s\">Пользовательское соглашение служб проверки China Mobile&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>, &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%3$s\">Пользовательское соглашение сервиса верификации аккаунта eSurfing&lt;/a>.&lt;/Data></string>
@@ -3838,7 +4747,11 @@ ID:%s
     <string name="user_avatar_update_title">Изменить фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_identity_verify_failed">The account info you entered is incorrect</string>
     <string name="user_name_phone_number">Номер телефона</string>
+<!-- ### FROM SOURCE -->
+    <string name="user_no_apply_privilege">You have no privilege to apply card</string>
     <string name="userinfo_account_desc">Чтобы данные о тренировке были более точными, заполните данные профиля.</string>
     <string name="userinfo_active_stage_stand">Легкая активность</string>
     <string name="userinfo_allergic_drugs">Аллергия на лекарства</string>
@@ -3870,6 +4783,10 @@ ID:%s
     <string name="userinfo_common_step_next">Далее</string>
     <string name="userinfo_common_step_pre">Назад</string>
     <string name="userinfo_confirmation_age_desc">Для обеспечения защиты конфиденциальности данных несовершеннолетних минимальный возраст для использования этого приложения составляет 14 лет.</string>
+    <string name="userinfo_contact_format">%1$s | %2$s</string>
+    <string name="userinfo_contact_format2">"%1$s
+%2$s | %3$s"</string>
+    <string name="userinfo_contact_format3">%1$s | %2$s | %3$s</string>
     <string name="userinfo_contact_permission_desc">Для сохранения контактов на случай ЧП</string>
     <string name="userinfo_data_type_calorie">Калории</string>
     <string name="userinfo_data_type_step">Шаги</string>
@@ -3893,6 +4810,7 @@ ID:%s
     <string name="userinfo_edit_immediately">Начать</string>
     <string name="userinfo_edit_or_delete_settings">Настройки</string>
     <string name="userinfo_emergency_contact">Контакт на случай ЧП</string>
+    <string name="userinfo_enter_app">Войти</string>
     <string name="userinfo_first_aid_card">Медкарта</string>
     <string name="userinfo_full_name_hint">Имя</string>
     <string name="userinfo_gender_female">Женский</string>
@@ -3932,6 +4850,7 @@ ID:%s
     <string name="userinfo_permission_check_result">Готово</string>
     <string name="userinfo_permission_check_result_failed">Произошла ошибка.</string>
     <string name="userinfo_personal_info">Мой профиль</string>
+    <string name="userinfo_personalize_mode">Режим персонализации</string>
     <string name="userinfo_photograph">Камера</string>
     <string name="userinfo_picker_day">Выбранный день: %1$d. Проведите вертикально, чтобы выбрать.</string>
     <string name="userinfo_picker_month">Выбранный месяц: %1$d. Проведите вертикально, чтобы выбрать.</string>
@@ -3944,6 +4863,7 @@ ID:%s
     <string name="userinfo_remarks">Имя</string>
     <string name="userinfo_remarks_hint">Имя</string>
     <string name="userinfo_rh_blood_type">Резус-фактор</string>
+    <string name="userinfo_select_mode">Выбор режима</string>
     <string name="userinfo_set_emergency_contact">Контакт на случай ЧП</string>
     <string name="userinfo_set_target_dynamic_indicators">Установите цель</string>
     <string name="userinfo_setting_avatar">Фото профиля</string>
@@ -4010,6 +4930,26 @@ ID:%s
     <string name="wednesday_shortest">Ср</string>
     <string name="widget_line_chart_unit_desc">(мин)</string>
     <string name="widget_rainbow_label">Статистика</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_sleep_label">Sleep</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_sleep_no_data">No data</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_sleep_open_trace">Turn on Track sleep in Mi Fitness</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_sleep_target">Goal: %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_tb_rainbow_has_no_data">No data</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_tb_rainbow_has_stand">%1$d of %2$d kcal burnt. %3$d of %4$d steps taken. %5$d of %6$d hours standing and moving around.</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_tb_rainbow_has_strength">%1$d of %2$d kcal burnt. %3$d of %4$d steps taken. %5$d of %6$d moving minutes.</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_tb_sleep_multi_segment">Session %1$d: %2$s to %3$s.</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_tb_sleep_segment_info">Fell asleep: %1$s. Woke up: %2$s.</string>
+<!-- ### FROM SOURCE -->
+    <string name="widget_tb_sleep_summary">Sleep: %1$s. Goal: %2$s.</string>
     <string name="xms_third_app_cannt_uninstall_tips">Нельзя удалить предустановленное приложение</string>
     <string name="xms_third_app_detail_expand">Развернуть</string>
     <string name="xms_third_app_detail_fold">Свернуть</string>
@@ -4044,4 +4984,5 @@ ID:%s
     <string name="xms_thirdapp_revoke_auth">Вы можете изменить разрешения в разделе \"Профиль\" > \"Разрешения устройства\".</string>
     <string name="year"/>
     <string name="yesterday">Вчера</string>
+    <string name="yuan">RMB</string>
 </resources>
