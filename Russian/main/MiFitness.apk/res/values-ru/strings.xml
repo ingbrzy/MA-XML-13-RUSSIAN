@@ -42,7 +42,7 @@
     <string name="about_homepage_image">Персонаж профиля</string>
     <string name="about_just_recently">Только что</string>
     <string name="about_last_sync_time">Синхронизировано: %1$s</string>
-    <string name="about_log_off_account">Удалить службы Mi Fitness</string>
+    <string name="about_log_off_account">Удалить службы Mi Фитнес</string>
     <string name="about_login_sign_out_failed">Не удалось выйти из системы</string>
     <string name="about_logout">Выйти</string>
     <string name="about_no_agree">Отклонить</string>
@@ -62,8 +62,8 @@
 1. Учетная запись, через которую был выполнен вход на устройстве, будет удалена вместе с соответствующими данными, ранее сохраненными на сервере. Вы можете удалить данные, хранящиеся на подключенном устройстве (например, данные сна, количество пройденных шагов), выполнив сброс настроек. Для получения дополнительной информации см. пункт \"Отзыв согласия\" в нашей Политике конфиденциальности. 
 Если вы передумаете, возможно, вы не сможете восстановить перечисленные выше данные. Чтобы воспользоваться устройствами, вам нужно будет подключить их заново. 
  
-2. Все ваши данные и содержимое Mi Fitness будут удалены. Вы не сможете просматривать историю тренировок и данные о здоровье в приложении. 
-Вы в любой момент можете удалить сохраненные данные Mi Fitness и изменить разрешения этого приложения в разделе Настройки на своем телефоне. 
+2. Все ваши данные и содержимое Mi Фитнес будут удалены. Вы не сможете просматривать историю тренировок и данные о здоровье в приложении. 
+Вы в любой момент можете удалить сохраненные данные Mi Фитнес и изменить разрешения этого приложения в разделе Настройки на своем телефоне. 
  
 Если вы передумаете, то перед использованием наших служб вам потребуется заново принять наши Пользовательское соглашение и Политику конфиденциальности. 
  
@@ -73,8 +73,8 @@
 1. Учетная запись, через которую был выполнен вход на устройстве, будет удалена вместе с соответствующими данными, ранее сохраненными на сервере. Вы можете удалить данные, хранящиеся на подключенном устройстве (например, данные сна, количество пройденных шагов), выполнив сброс настроек. Для получения дополнительной информации см. пункт \"Отзыв согласия\" в нашей Политике конфиденциальности. 
 Если вы передумаете, возможно, вы не сможете восстановить перечисленные выше данные. Чтобы воспользоваться устройствами, вам нужно будет подключить их заново. 
  
-2. Все ваши данные и содержимое Mi Fitness будут удалены. Вы не сможете просматривать историю тренировок и данные о здоровье в приложении. 
-Вы в любой момент можете удалить сохраненные данные Mi Fitness и изменить разрешения этого приложения в разделе Настройки на своем телефоне. 
+2. Все ваши данные и содержимое Mi Фитнес будут удалены. Вы не сможете просматривать историю тренировок и данные о здоровье в приложении. 
+Вы в любой момент можете удалить сохраненные данные Mi Фитнес и изменить разрешения этого приложения в разделе Настройки на своем телефоне. 
  
 Если вы передумаете, то перед использованием наших служб вам потребуется заново принять наши Пользовательское соглашение и Политику конфиденциальности."</string>
     <string name="about_privacy_revoke_des">Отзыв согласия с Политикой конфиденциальности и удаление данных</string>
@@ -103,7 +103,7 @@
     <string name="about_setting_privacy_detail">Политика конфиденциальности</string>
     <string name="about_setting_privacy_revoke">Отзыв согласия</string>
     <string name="about_setting_region">Регион</string>
-    <string name="about_sport_health">Mi Fitness</string>
+    <string name="about_sport_health">Mi Фитнес</string>
     <string name="about_sync_immediately">Синхронизировать</string>
     <string name="about_sync_status">Состояние синхронизации</string>
     <string name="about_sync_status_failure_retry">Сбой синхронизации. Подождите немного и повторите попытку.</string>
@@ -125,7 +125,7 @@
     <string name="access_misport">Mi Fit</string>
     <string name="access_misport_auth_title">Войдите в Mi Fit</string>
     <string name="access_misport_complete_notify">Перенос данных завершен</string>
-    <string name="access_misport_complete_notify_click">Нажмите, чтобы открыть Mi Fitness</string>
+    <string name="access_misport_complete_notify_click">Нажмите, чтобы открыть Mi Фитнес</string>
     <string name="access_misport_data_importing">Перенос данных…</string>
     <string name="access_misport_data_importing_mainpage">Перенос данных из Mi Fit…</string>
     <string name="access_misport_dialog_content_faile_cn">Из-за ограничений политики защиты данных личные данные, хранящиеся на серверах на территории Материкового Китая, не могут быть переданы в другие регионы.</string>
@@ -170,10 +170,10 @@
     <string name="access_thirdparty_aplipay_thirdparty_desc">To share step data with Alipay, tap Connect and follow on-screen instructions.</string>
     <string name="access_thirdparty_authentication_failed">Не удалось подключиться. Повторите попытку.</string>
     <string name="access_thirdparty_bind_failed">Проверьте настройки сети и повторите попытку.</string>
-    <string name="access_thirdparty_explain">При подключении Mi Fitness к %1$s данные ваших тренировок (например, калории, расстояние, время, пульс) будут предоставлены %2$s.</string>
+    <string name="access_thirdparty_explain">При подключении Mi Фитнес к %1$s данные ваших тренировок (например, калории, расстояние, время, пульс) будут предоставлены %2$s.</string>
     <string name="access_thirdparty_google_fit">Google Fit</string>
     <string name="access_thirdparty_strava">Strava</string>
-    <string name="access_thirdparty_strava_explain">Данные в Strava могут отличаться от данных в Mi Fitness из-за различий в используемых алгоритмах.</string>
+    <string name="access_thirdparty_strava_explain">Данные в Strava могут отличаться от данных в Mi Фитнес из-за различий в используемых алгоритмах.</string>
     <string name="access_thirdparty_sync_to">Подключиться к \"%1$s\"</string>
     <string name="access_thirdparty_title">Подключиться к %1$s</string>
     <string name="access_thirdparty_unbind_failed">Не удалось отключить. Повторите попытку.</string>
@@ -678,7 +678,7 @@
     <string name="device_lock_off_wrist">Распознавание запястья</string>
     <string name="device_manager">Устройства</string>
     <string name="device_mi_band">Браслет</string>
-    <string name="device_mi_sport_health">Mi Fitness (активно)</string>
+    <string name="device_mi_sport_health">Mi Фитнес (активно)</string>
     <string name="device_mi_watch">Часы</string>
     <string name="device_mi_wearable">Xiaomi Wear</string>
     <string name="device_mobile_web">Мобильные данные</string>
@@ -1063,7 +1063,7 @@
     <string name="device_settings_reminder_today_items">Сегодня: %1$s</string>
     <string name="device_settings_reminder_tomorrow_items">Завтра: %1$s</string>
     <string name="device_settings_revoke_authorization">Отзыв разрешения</string>
-    <string name="device_settings_revoke_authorization_dialog_content">Если вы продолжите, согласие с нашей Политикой конфиденциальности будет отозвано. Учетная запись, в которую выполнен вход на подключенном устройстве, также будет удалена. Чтобы удалить данные, хранящиеся в Mi Fitness, удалите службу Mi Fitness. Чтобы удалить данные на подключенном устройстве, см. раздел «Отзыв согласия» в нашей Политике конфиденциальности. Если вы используете носимое устройство, сброс настроек удалит все ваши данные на нем. Если вы передумаете, вы не сможете восстановить свои данные. Если вы решите использовать устройство, то вам потребуется заново подключить его и принять нашу Политику конфиденциальности.</string>
+    <string name="device_settings_revoke_authorization_dialog_content">Если вы продолжите, согласие с нашей Политикой конфиденциальности будет отозвано. Учетная запись, в которую выполнен вход на подключенном устройстве, также будет удалена. Чтобы удалить данные, хранящиеся в Mi Фитнес, удалите службу Mi Фитнес. Чтобы удалить данные на подключенном устройстве, см. раздел «Отзыв согласия» в нашей Политике конфиденциальности. Если вы используете носимое устройство, сброс настроек удалит все ваши данные на нем. Если вы передумаете, вы не сможете восстановить свои данные. Если вы решите использовать устройство, то вам потребуется заново подключить его и принять нашу Политику конфиденциальности.</string>
     <string name="device_settings_revoke_authorization_dialog_content_oversea">"После того, как вы отзовете свое разрешение, учетная запись, в которую выполнен вход на подключенном устройстве, будет удалена вместе со связанными данными, которые ранее хранились на сервере. Чтобы удалить данные на подключенном устройстве, см. раздел «Отзыв согласия» в нашей Политике конфиденциальности. Если вы используете носимое устройство, сброс настроек удалит все ваши данные на нем. Если вы передумаете, вы не сможете восстановить свои данные. Если вы решите использовать устройство, то вам потребуется заново подключить его и принять нашу Политику конфиденциальности.
 Связанные данные об устройстве будут удалены в течение 7 дней."</string>
     <string name="device_settings_revoke_authorization_dialog_title">Предупреждение</string>
@@ -1275,7 +1275,7 @@
     <string name="device_wearable">Носимые устройства</string>
     <string name="device_wearos_bind_download_des">Сначала установите Wear OS.</string>
     <string name="device_wearos_bind_guide_one">Подключите часы с Wear OS</string>
-    <string name="device_wearos_bind_guide_two">Завершите настройку в Mi Fitness.</string>
+    <string name="device_wearos_bind_guide_two">Завершите настройку в Mi Фитнес.</string>
     <string name="device_wearos_bind_update_des">Сначала обновите Wear OS</string>
     <string name="device_wearos_download">Загрузить Wear OS</string>
     <string name="device_wearos_go">Откройте Wear OS</string>
@@ -1494,7 +1494,7 @@ ID:%s
     <string name="feedback_upload_device_log_message">Загрузив журналы, вы поможете нам быстрее обнаружить проблему. На это может потребоваться 1—2 минуты.</string>
     <string name="feedback_upload_device_log_message_sync">Отправив журналы, вы поможете нам быстрее обнаружить проблему.</string>
     <string name="feedback_upload_device_log_title">Загрузить журнал обновления?</string>
-    <string name="feedback_wearable_experience">Mi Fitness</string>
+    <string name="feedback_wearable_experience">Mi Фитнес</string>
     <string name="find_new_verision">Доступна версия %s</string>
     <string name="find_psw">Забыли пароль?</string>
     <string name="firmware_bracelet">Обновление встроенного ПО</string>
@@ -1763,7 +1763,7 @@ ID:%s
 <!-- ### FROM SOURCE -->
     <string name="habit_calendar_event_add_work_day_tip">This event repeats every weekday (Mon—Fri)</string>
 <!-- ### FROM SOURCE -->
-    <string name="habit_calendar_event_reminder_location">View in Mi Fitness</string>
+    <string name="habit_calendar_event_reminder_location">View in Mi Фитнес</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_calendar_sync_alert">Add to Calendar</string>
 <!-- ### FROM SOURCE -->
@@ -1846,7 +1846,7 @@ ID:%s
     <string name="habit_world_clock_select_world">Select items</string>
     <string name="health_active_stage_activity_lightly">С разминкой</string>
     <string name="health_active_stage_climb_stairs">Подъем по лестнице</string>
-    <string name="health_active_stage_ride">На велосипеде</string>
+    <string name="health_active_stage_ride">Велосипед</string>
     <string name="health_active_stage_run">Бег</string>
     <string name="health_active_stage_walk">Ходьба</string>
     <string name="health_active_stage_walk_fast">Быстрая ходьба</string>
@@ -2710,8 +2710,8 @@ ID:%s
     <string name="login_privacy_optional_agree_use_location">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия сбора информации о местоположении&lt;/a> (необязательно).&lt;/Data></string>
     <string name="login_privacy_required_agree_collect_info">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия сбора и использования личной информации&lt;/a> (обязательно).&lt;/Data></string>
     <string name="login_privacy_required_agree_policy">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> (обязательно).&lt;/Data></string>
-    <string name="login_privacy_rights_des">Добро пожаловать в Mi Fitness. Используйте это приложение для управления устройствами, отслеживания тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности. Для правильной работы этому приложению требуется подключение к интернету.</string>
-    <string name="login_privacy_rights_kr_des">Добро пожаловать в Mi Fitness. Используйте это приложение для управления устройствами, отслеживания тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности.</string>
+    <string name="login_privacy_rights_des">Добро пожаловать в Mi Фитнес. Используйте это приложение для управления устройствами, отслеживания тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности. Для правильной работы этому приложению требуется подключение к интернету.</string>
+    <string name="login_privacy_rights_kr_des">Добро пожаловать в Mi Фитнес. Используйте это приложение для управления устройствами, отслеживания тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности.</string>
     <string name="login_privacy_rights_statement">Пользовательское соглашение</string>
     <string name="login_privacy_update_tips">&lt;Data>&lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> обновлена. Чтобы полностью изучить свои права пользователя, а также то, как мы используем ваши данные, прочтите и примите обновленную Политику конфиденциальности, прежде чем продолжить.&lt;/Data></string>
     <string name="login_privacy_update_title">Обновленная Политика конфиденциальности</string>
@@ -2731,7 +2731,7 @@ ID:%s
     <string name="login_userinfo_desc">Чтобы данные о тренировке были более точными, заполните данные профиля.</string>
     <string name="login_welcome">Время взбодриться!</string>
     <string name="login_welcome_desc_second_text">Новый дизайн</string>
-    <string name="login_welcome_desc_text">Mi Fitness</string>
+    <string name="login_welcome_desc_text">Mi Фитнес</string>
     <string name="login_with_sns">Другие способы входа</string>
     <string name="logout_account">Выйти</string>
     <string name="main_cancel">Отмена</string>
@@ -3045,7 +3045,7 @@ ID:%s
     <string name="nfc_bind_bank_card_num_by_null_who">Добавить</string>
     <string name="nfc_bind_bank_card_num_by_who_global">Добавить банковскую карту %1$s</string>
     <string name="nfc_bind_bank_card_num_hint_global">Введите номер карты</string>
-    <string name="nfc_bind_bank_card_num_safe_wearable_global">Ваша информация защищена Mi Fitness</string>
+    <string name="nfc_bind_bank_card_num_safe_wearable_global">Ваша информация защищена Mi Фитнес</string>
     <string name="nfc_bind_bank_card_num_title_normal_new">Номер карты</string>
     <string name="nfc_bind_bank_card_valid_hint_global">ММ/ГГ</string>
     <string name="nfc_bind_bank_card_valid_title_global">Срок действия</string>
@@ -3647,7 +3647,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="no_remind">Больше не показывать</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не указано</string>
-    <string name="notify_app_full_name">Mi Fitness</string>
+    <string name="notify_app_full_name">Mi Фитнес</string>
     <string name="notify_app_remind_manager">Уведомления приложений</string>
     <string name="notify_call_log_permission">Предоставьте необходимые разрешения для просмотра номера телефона.</string>
     <string name="notify_call_notify_delay_notice">Задержка</string>
@@ -3699,7 +3699,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="notify_open_call_permission_title">Доступ к уведомлениям</string>
     <string name="notify_open_notify_permission_title">Доступ к уведомлениям</string>
     <string name="notify_open_policy_access_title">Доступ к режиму \"Не беспокоить\"</string>
-    <string name="notify_open_remind_text">Найдите Mi Fitness и включите</string>
+    <string name="notify_open_remind_text">Найдите Mi Фитнес и включите</string>
     <string name="notify_permission_answer_phone_calls_info">Для использования этой функции разрешите приложению доступ к Телефону.</string>
     <string name="notify_permission_call_phone_info">Для использования этой функции разрешите приложению доступ к Телефону.</string>
     <string name="notify_permission_calllog_des">Для просмотра входящих вызовах на носимом устройстве разрешите этому приложению доступ к журналу вызовов.</string>
@@ -3844,7 +3844,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="picker_year">Выбранный год: %1$d. Проведите вертикально, чтобы выбрать.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_agree">Разрешить</string>
-    <string name="privacy_log_off_account">Удалить службы Mi Fitness</string>
+    <string name="privacy_log_off_account">Удалить службы Mi Фитнес</string>
     <string name="privacy_no_agree">Запретить</string>
     <string name="privacy_permission_answer_phone_calls">Телефон</string>
     <string name="privacy_permission_ble_calendar_read">Доступ к календарю</string>
@@ -3953,7 +3953,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
     <string name="skip_query_account">Пропустить</string>
     <string name="sleep_detection_stop">Эта сессия будет завершена после пробуждения</string>
-    <string name="sleep_detector_content">Mi Fitness отслеживает данные сна в фоновом режиме</string>
+    <string name="sleep_detector_content">Mi Фитнес отслеживает данные сна в фоновом режиме</string>
     <string name="sleep_service">Служба контроля сна</string>
     <string name="sleep_service_background_running">Служба контроля сна работает в фоновом режиме</string>
     <string name="sleep_snore_detection_running_state_description">Включен микрофон. Он продолжит работать в фоновом режиме.</string>
@@ -4034,7 +4034,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_custom">Настроить</string>
     <string name="sport_custom_target">Настроить</string>
     <string name="sport_cycle_distance">Расстояние</string>
-    <string name="sport_cycling_outdoor">На велосипеде</string>
+    <string name="sport_cycling_outdoor">Велосипед</string>
     <string name="sport_data_pace">Оповещения о темпе</string>
     <string name="sport_data_sport_generate_report">Создание сводки о тренировке…</string>
     <string name="sport_data_sport_notification_name">Местоположение</string>
@@ -4152,7 +4152,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_reconnect">Соединение…</string>
     <string name="sport_record_all">Все</string>
     <string name="sport_reject">Запретить</string>
-    <string name="sport_revoke_authorization_dialog_content">Если вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Учетная запись, в которую выполнен вход на подключенном устройстве, также будет удалена. Чтобы удалить данные, хранящиеся в Mi Fitness, удалите службу Mi Fitness. Чтобы удалить данные на подключенном устройстве, см. раздел «Отзыв согласия» в нашей Политике конфиденциальности. Если вы используете носимое устройство, сброс настроек удалит все ваши данные на нем. Если вы передумаете, вы не сможете восстановить свои данные. Если вы решите использовать устройство, то вам потребуется заново принять нашу Политику конфиденциальности.</string>
+    <string name="sport_revoke_authorization_dialog_content">Если вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Учетная запись, в которую выполнен вход на подключенном устройстве, также будет удалена. Чтобы удалить данные, хранящиеся в Mi Фитнес, удалите службу Mi Фитнес. Чтобы удалить данные на подключенном устройстве, см. раздел «Отзыв согласия» в нашей Политике конфиденциальности. Если вы используете носимое устройство, сброс настроек удалит все ваши данные на нем. Если вы передумаете, вы не сможете восстановить свои данные. Если вы решите использовать устройство, то вам потребуется заново принять нашу Политику конфиденциальности.</string>
     <string name="sport_revoke_authorization_dialog_title">Предупреждение</string>
     <string name="sport_revoke_authorization_ensure_revoke">Продолжить</string>
     <string name="sport_run_distance">Расстояние</string>
@@ -4195,7 +4195,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_update_progress_expression">Загружено &lt;xliff:g id=\"download progress\">%1$d&lt;/xliff:g>%%</string>
     <string name="sport_upload_failure">Сбой загрузки</string>
     <string name="sport_user_guide">Справка</string>
-    <string name="sport_valid">Mi Fitness требуется получить данные более длительной активности со сменой местоположения.</string>
+    <string name="sport_valid">Mi Фитнес требуется получить данные более длительной активности со сменой местоположения.</string>
     <string name="sport_voice_broadcast">Звуковое оповещение</string>
     <string name="sport_waist_bag">Поясная сумка</string>
     <string name="sport_walk_distance">Расстояние</string>
@@ -4405,7 +4405,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="trail_select_type">Тренировка</string>
     <string name="trail_share">Поделиться</string>
     <string name="trail_share_app_desc">Ваш трекер тренировок</string>
-    <string name="trail_share_app_download">Удерживайте палец на QR-коде, чтобы загрузить Mi Fitness</string>
+    <string name="trail_share_app_download">Удерживайте палец на QR-коде, чтобы загрузить Mi Фитнес</string>
     <string name="trail_share_calorie_desc">Калории</string>
     <string name="trail_share_calorie_detail">Калории, ккал</string>
     <string name="trail_share_errcode_cancel">Отменено</string>
@@ -4532,7 +4532,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="trail_sport_rate_recovery">Скорость восстановления</string>
     <string name="trail_sport_recovery_time">Восстановление</string>
     <string name="trail_sport_rest_duration">Отдых</string>
-    <string name="trail_sport_ride">На велосипеде</string>
+    <string name="trail_sport_ride">Велосипед</string>
     <string name="trail_sport_rope_skipping_stumble_Times">Спотыкание</string>
     <string name="trail_sport_row_count_title">Гребки</string>
     <string name="trail_sport_row_energy_working">Работа</string>
@@ -4622,7 +4622,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="trail_sport_triathlon_title1">Имя</string>
     <string name="trail_sport_triathlon_title2">Расстояние</string>
     <string name="trail_sport_triathlon_title3">Время</string>
-    <string name="trail_sport_type_title_name">%1$s | Mi Fitness</string>
+    <string name="trail_sport_type_title_name">%1$s | Mi Фитнес</string>
     <string name="trail_sport_unit_cadence">шаг/мин</string>
     <string name="trail_sport_unit_speed">км/ч</string>
     <string name="trail_sport_unit_swimming_pace">100 м</string>
@@ -4788,7 +4788,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="userinfo_goal">По умолчанию</string>
     <string name="userinfo_goal_page_desc">%1$d/%2$d</string>
     <string name="userinfo_label_birthday">Дата рождения</string>
-    <string name="userinfo_lack_permisson">Чтобы продолжить, предоставьте Mi Fitness все необходимые разрешения.</string>
+    <string name="userinfo_lack_permisson">Чтобы продолжить, предоставьте Mi Фитнес все необходимые разрешения.</string>
     <string name="userinfo_lock_screen_show">Показывать, когда заблокировано</string>
     <string name="userinfo_lock_screen_show_description">Когда экран заблокирован, вашу медкарту можно посмотреть, нажав \"Экстренная помощь\", а затем \"Медкарта\".</string>
     <string name="userinfo_lock_screen_show_not_on_guide">Чтобы ваша медицинская карта была доступна на экране блокировки, нажмите Еще, выберите Изменить и включите параметр Показывать, когда заблокировано.</string>
@@ -4897,16 +4897,11 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="widget_line_chart_unit_desc">(мин)</string>
     <string name="widget_rainbow_label">Статистика</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_sleep_label">Sleep</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_sleep_no_data">No data</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_sleep_open_trace">Turn on Track sleep in Mi Fitness</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_sleep_target">Goal: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_tb_rainbow_has_no_data">No data</string>
+    <string name="widget_sleep_label">Сон</string>
+    <string name="widget_sleep_no_data">Нет данных</string>
+    <string name="widget_sleep_open_trace">Включите отслеживание сна в Mi Фитнес</string>
+    <string name="widget_sleep_target">Цель: %1$s</string>
+    <string name="widget_tb_rainbow_has_no_data">Нет данных</string>
 <!-- ### FROM SOURCE -->
     <string name="widget_tb_rainbow_has_stand">%1$d of %2$d kcal burnt. %3$d of %4$d steps taken. %5$d of %6$d hours standing and moving around.</string>
 <!-- ### FROM SOURCE -->
@@ -4915,8 +4910,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="widget_tb_sleep_multi_segment">Session %1$d: %2$s to %3$s.</string>
 <!-- ### FROM SOURCE -->
     <string name="widget_tb_sleep_segment_info">Fell asleep: %1$s. Woke up: %2$s.</string>
-<!-- ### FROM SOURCE -->
-    <string name="widget_tb_sleep_summary">Sleep: %1$s. Goal: %2$s.</string>
+    <string name="widget_tb_sleep_summary">Сон: %1$s. Цель: %2$s.</string>
     <string name="xms_third_app_cannt_uninstall_tips">Нельзя удалить предустановленное приложение</string>
     <string name="xms_third_app_detail_expand">Развернуть</string>
     <string name="xms_third_app_detail_fold">Свернуть</string>
