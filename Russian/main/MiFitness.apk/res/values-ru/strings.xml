@@ -31,9 +31,9 @@
     <string name="about_agree">Принять</string>
     <string name="about_cancle">Отмена</string>
     <string name="about_comment_go">Оцените нас</string>
-    <string name="about_common_confirm">OK</string>
+    <string name="about_common_confirm">ОК</string>
     <string name="about_common_user_privacy_agreement">Политика конфиденциальности</string>
-    <string name="about_count_down_time_tips">(%1$ds)</string>
+    <string name="about_count_down_time_tips">(%1$d сек.)</string>
     <string name="about_current_version">Версия: %1$s</string>
     <string name="about_dialog_open_concise_theme_desc">Персонаж профиля будет скрыт в приложении.</string>
     <string name="about_dialog_open_vitality_theme_desc">Для просмотра персонажа профиля нажмите \"Здоровье\" в приложении.</string>
@@ -46,7 +46,7 @@
     <string name="about_logout">Выйти</string>
     <string name="about_no_agree">Отклонить</string>
     <string name="about_no_support_switch_region">Нельзя изменить регион</string>
-    <string name="about_open_concise_theme_desc">Показывать персонажа профиля</string>
+    <string name="about_open_concise_theme_desc">Показывать персонаж профиля</string>
     <string name="about_open_port_health_service">Синхронизация с облаком</string>
     <string name="about_open_vitality_theme_desc">Включите для просмотра персонажа профиля.</string>
     <string name="about_port_health_service">Синхронизация с облаком</string>
@@ -112,12 +112,12 @@
     <string name="about_weekly_report">Сводка за неделю</string>
     <string name="access_common_allow">Разрешить</string>
     <string name="access_common_cancel">Отмена</string>
-    <string name="access_common_confirm">OK</string>
+    <string name="access_common_confirm">ОК</string>
     <string name="access_common_load_data_failed">Не удалось загрузить данные</string>
     <string name="access_common_reject">Запретить</string>
     <string name="access_common_save_fail">Не удалось сохранить</string>
     <string name="access_common_save_success">Сохранено</string>
-    <string name="access_common_waiting">Секунду…</string>
+    <string name="access_common_waiting">Подождите…</string>
     <string name="access_denied_info">Слишком много запросов. Подождите пару минут и повторите попытку.</string>
     <string name="access_mine_thirdparty_access">Подключенные приложения</string>
     <string name="access_misport">Mi Fit</string>
@@ -144,13 +144,13 @@
     <string name="access_misport_title">Перенос из Mi Fit</string>
     <string name="access_permission_grant_authorization_title">Требуются разрешения</string>
     <string name="access_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
-    <string name="access_permission_storage_save_qrcode">To be able to save images, allow this app to access storage.</string>
-    <string name="access_permission_to_grant_authorization">OK</string>
+    <string name="access_permission_storage_save_qrcode">Для возможности сохранять изображения, разрешите приложению доступ к хранилищу</string>
+    <string name="access_permission_to_grant_authorization">ОК</string>
     <string name="access_setting_done">Готово</string>
     <string name="access_thirdparty_alipay">Alipay</string>
     <string name="access_thirdparty_alipay_bind">Подключить</string>
     <string name="access_thirdparty_alipay_bind_success_title">Теперь вы можете просматривать количество шагов в \"Alipay\" > \"Sports\".</string>
-    <string name="access_thirdparty_alipay_sync_title">Connect to Alipay</string>
+    <string name="access_thirdparty_alipay_sync_title">Подключение к Alipay</string>
     <string name="access_thirdparty_alipay_unbind">Отключить</string>
     <string name="access_thirdparty_authentication_failed">Не удалось подключиться. Повторите попытку.</string>
     <string name="access_thirdparty_bind_failed">Проверьте настройки сети и повторите попытку.</string>
@@ -1137,7 +1137,7 @@
     <string name="device_tab_name">Устройство</string>
     <string name="device_tab_sync">Синхронизация</string>
     <string name="device_tab_syncing">Синхронизация…</string>
-    <string name="device_turn_on">OK</string>
+    <string name="device_turn_on">ОК</string>
     <string name="device_unbind">Отключить</string>
     <string name="device_unbinding">Отключение…</string>
     <string name="device_unlock_more_devices">Добавить устройство</string>
@@ -1166,7 +1166,7 @@
 ID:%s
 Отправьте этот код руководителю."</string>
     <string name="dialog_exit_use">Выход</string>
-    <string name="dialog_loanding">Секунду…</string>
+    <string name="dialog_loanding">Подождите…</string>
     <string name="discard_update">Нет, спасибо</string>
     <string name="distance_custom_target">Проверьте свою цель</string>
     <string name="distance_range">(0,1–999)</string>
@@ -1239,7 +1239,7 @@ ID:%s
     <string name="face_common_download_install">Применить</string>
     <string name="face_common_download_now">Загрузить</string>
     <string name="face_common_download_waiting">Ожидание</string>
-    <string name="face_common_downloading">Секунду…</string>
+    <string name="face_common_downloading">Подождите…</string>
     <string name="face_common_free">Бесплатно</string>
     <string name="face_common_hint_apn_size">Для загрузки этого объекта будет использовано %.2f МБ мобильного трафика. Продолжить загрузку?</string>
     <string name="face_common_hint_apn_unknown">Для загрузки этого файла будет использован мобильный интернет.</string>
@@ -1293,7 +1293,7 @@ ID:%s
     <string name="face_spirit_color">Цвет текста</string>
     <string name="face_style">Стиль</string>
     <string name="face_used_not_edit">Редактирование не поддерживается</string>
-    <string name="face_wearos_install">Секунду…</string>
+    <string name="face_wearos_install">Подождите…</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
     <string name="feedback_app_log">Журналы приложения</string>
     <string name="feedback_app_problem">Приложение</string>
@@ -1307,14 +1307,14 @@ ID:%s
     <string name="feedback_common_loading_cancel">Отмена</string>
     <string name="feedback_common_more">Еще</string>
     <string name="feedback_common_reject">Запретить</string>
-    <string name="feedback_common_waiting">Секунду…</string>
+    <string name="feedback_common_waiting">Подождите…</string>
     <string name="feedback_confirm_upload">Отправить</string>
     <string name="feedback_connect_tip">Введите контактную информацию</string>
     <string name="feedback_connect_way">Контактная информация</string>
     <string name="feedback_contact_info">Введите номер телефона и адрес эл. почты</string>
     <string name="feedback_crop_tip">Загрузите снимки экрана, чтобы помочь нам выявить проблему.</string>
     <string name="feedback_device_problem">Устройство</string>
-    <string name="feedback_device_uploading">Секунду…</string>
+    <string name="feedback_device_uploading">Подождите…</string>
     <string name="feedback_failed">Не удалось отправить отчет.</string>
     <string name="feedback_health_monitoring">Мониторинг здоровья</string>
     <string name="feedback_health_monitoring_title">Мониторинг здоровья</string>
@@ -1625,7 +1625,7 @@ ID:%s
     <string name="health_blood_pressure_measure_remind_tip">Получать напоминания об измерении кровяного давления и записи результатов.</string>
     <string name="health_blood_pressure_measure_time">Время</string>
     <string name="health_blood_pressure_mild_abnormal">Гипертония 1 степени</string>
-    <string name="health_blood_pressure_mild_abnormal_tip">3 дня в неделю после пробуждения и перед отходом ко сну.</string>
+    <string name="health_blood_pressure_mild_abnormal_tip">3 дня в неделю после пробуждения и перед сном.</string>
     <string name="health_blood_pressure_min_high_pressure">Мин. систолическое</string>
     <string name="health_blood_pressure_min_low_pressure">Мин. диастолическое</string>
     <string name="health_blood_pressure_normal">Норма</string>
@@ -1644,7 +1644,7 @@ ID:%s
     <string name="health_blood_pressure_remind_time_index">Напомнить в (%1$d)</string>
     <string name="health_blood_pressure_repeat_mode">Повтор</string>
     <string name="health_blood_pressure_severe_abnormal">Гипертония 2 степени</string>
-    <string name="health_blood_pressure_severe_abnormal_tip">Каждый день после пробуждения, после обеда и перед отходом ко сну.</string>
+    <string name="health_blood_pressure_severe_abnormal_tip">Каждый день после пробуждения, после обеда и перед сном.</string>
     <string name="health_blood_pressure_status_high">Повышенное</string>
     <string name="health_blood_pressure_status_low">Пониженное</string>
     <string name="health_blood_pressure_status_normal">Норма</string>
@@ -1703,7 +1703,7 @@ ID:%s
     <string name="health_card_unfold">Развернуть</string>
     <string name="health_close">Отключить</string>
     <string name="health_close_once">Откл. один раз</string>
-    <string name="health_close_sleep_track_tips">"You won't be able to track your sleep data with your phone, including sleep cycles, snoring, and talking."</string>
+    <string name="health_close_sleep_track_tips">Вы не сможете отслеживать данные о своем сне (циклы сна, храп и разговоры)</string>
     <string name="health_common_add_record">Добавить данные</string>
     <string name="health_common_all_records">Все данные</string>
     <string name="health_common_comma">,</string>
@@ -1828,7 +1828,7 @@ ID:%s
     <string name="health_data_manual_record_title">Ручные измерения</string>
     <string name="health_data_manual_record_title_in_menu">Ручные измерения</string>
     <string name="health_data_month_empty">Нет данных</string>
-    <string name="health_data_my_status">我的状态</string>
+    <string name="health_data_my_status">Мое состояние</string>
     <string name="health_data_pai_home_desc">%1$s PAI</string>
     <string name="health_data_rate_distribute1">Легкая активность</string>
     <string name="health_data_rate_distribute2">Сжигание жира</string>
@@ -1881,7 +1881,7 @@ ID:%s
     <string name="health_date_range">%1$s–%2$s</string>
     <string name="health_decibel">дБ</string>
     <string name="health_decibel_number">дБ</string>
-    <string name="health_deep_shallow_sleep_detection">Analyze sleep cycle</string>
+    <string name="health_deep_shallow_sleep_detection">Анализ цикла сна</string>
     <string name="health_deep_sleep_percentage">Медленный сон</string>
     <string name="health_delete_record">Удалить запись</string>
     <string name="health_dialog_cancel">Отмена</string>
@@ -1891,10 +1891,10 @@ ID:%s
     <string name="health_dialog_delete">Удалить запись</string>
     <string name="health_dialog_delete_sure">Удалить</string>
     <string name="health_dialog_known">Понятно</string>
-    <string name="health_dialog_ok">OK</string>
-    <string name="health_dialog_sure">OK</string>
-    <string name="health_enable_go_now">OK</string>
-    <string name="health_enable_snore_sleepwords_detection">Detect snoring and talking</string>
+    <string name="health_dialog_ok">ОК</string>
+    <string name="health_dialog_sure">ОК</string>
+    <string name="health_enable_go_now">ОК</string>
+    <string name="health_enable_snore_sleepwords_detection">Обнаружение храпа и разговоров</string>
     <string name="health_end_date">Окончание</string>
     <string name="health_energy_level_enough_simple">Превосходно</string>
     <string name="health_energy_level_exhausted_simple">Усталость</string>
@@ -1936,7 +1936,7 @@ ID:%s
     <string name="health_hearing_noise_level_extreme_description">Длительное воздействие очень громких звуков может привести к повреждению слуха. Чтобы защитить свой слух, используйте беруши, наушники с функцией шумоподавления или старайтесь избегать шумные места.</string>
     <string name="health_hearing_noise_level_high">Громко</string>
     <string name="health_hearing_noise_level_high_description">Похоже, вы находитесь в шумном месте. Если у вас есть наушники, воспользуйтесь функцией шумоподавления и уменьшите громкость.</string>
-    <string name="health_hearing_noise_level_pleasant">OK</string>
+    <string name="health_hearing_noise_level_pleasant">ОК</string>
     <string name="health_hearing_noise_level_pleasant_description">Обычно, воздействие звуков громкостью ниже 60 дБ не вызывает повреждение слуха. Такие звуки могут помочь сконцентрироваться.</string>
     <string name="health_hearing_only_for_reference">Статистические данные предоставляются только для справки. Они не могут быть использованы в целях обоснования медицинского диагноза.</string>
     <string name="health_hearing_prompt">Всего: %1$s | Громкие звуки: %2$s</string>
@@ -1966,7 +1966,7 @@ ID:%s
     <string name="health_light_sleep_percentage">Быстрый сон</string>
     <string name="health_login_no_desc">Войдите в систему для синхронизации устройства</string>
     <string name="health_login_no_title">Вход</string>
-    <string name="health_login_open">OK</string>
+    <string name="health_login_open">ОК</string>
     <string name="health_login_part_desc">Дополнительная информация поможет улучшить анализ данных активности.</string>
     <string name="health_login_part_title">Заполните информацию профиля</string>
     <string name="health_main_health_status">My health routine</string>
@@ -1979,7 +1979,7 @@ ID:%s
 Вы удивите прогресс этого показателя, когда каденс будет превышать значение 100 шаг./мин или когда частота пульса будет превышать 65% от макс. частоты пульса."</string>
     <string name="health_mh_total_time">Всего</string>
     <string name="health_motion_recognizer">Настройки</string>
-    <string name="health_open">OK</string>
+    <string name="health_open">ОК</string>
     <string name="health_pai_acquire_desc">%2$s PAI (%1$s)</string>
     <string name="health_pai_content_0">Получайте баллы PAI, выполняя любые упражнения, которые заставляют ваще сердце биться чаще.</string>
     <string name="health_pai_content_1">Начните с цели в 30 PAI и продолжайте работать в течение 7 дней, чтобы получить 100.</string>
@@ -1991,7 +1991,7 @@ ID:%s
     <string name="health_pai_low_value">Легкая активность</string>
     <string name="health_pai_medium_value">Умеренная активность</string>
     <string name="health_pai_name">PAI</string>
-    <string name="health_pai_open_hr_check">OK</string>
+    <string name="health_pai_open_hr_check">ОК</string>
     <string name="health_pai_open_hr_check_txt">Включите непрерывный мониторинг пульса и установите частоту измерений раз в минуту.</string>
     <string name="health_pai_suggest_content">Пробегите %1$s, поддерживая пульс выше %2$s</string>
     <string name="health_pai_target_100pai">100 PAI</string>
@@ -2106,10 +2106,10 @@ ID:%s
     <string name="health_sleep_settings_faq">Часто задаваемые вопросы</string>
     <string name="health_sleep_slumber">Легкая активность</string>
     <string name="health_sleep_snore">Храп</string>
-    <string name="health_sleep_snore_audio_file_mamagement_desc">Turn on to keep 100 MB of the latest recordings on your phone and delete older ones automatically to save storage space</string>
-    <string name="health_sleep_snore_audio_file_mamagement_title">Clear recordings</string>
+    <string name="health_sleep_snore_audio_file_mamagement_desc">Cохранение 100 МБ последних записей на автоматическое удаление старых записей для экономии места</string>
+    <string name="health_sleep_snore_audio_file_mamagement_title">Очистка записей</string>
     <string name="health_sleep_snore_description">Храп %s</string>
-    <string name="health_sleep_snore_detection">Detect snoring and talking</string>
+    <string name="health_sleep_snore_detection">Обнаружение храпа и разговоров</string>
     <string name="health_sleep_snore_dream_talk_title">Храп и сноговорение</string>
     <string name="health_sleep_suggest_detail">"1. Избегайте употребления кофеина, алкоголя и тяжелой пищи в конце дня. 
 2. Ведите активный образ жизни, но старайтесь не выполнять особенно энергичные упражнения перед сном. 
@@ -2380,11 +2380,11 @@ ID:%s
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="isornot_your_mi_account">Это ваш Mi аккаунт?</string>
     <string name="item_view_role_description">Вкладка</string>
-    <string name="just_a_second">Секунду…</string>
+    <string name="just_a_second">Подождите…</string>
     <string name="keep_alive_notification_channel">Подключение устройства</string>
     <string name="keep_alive_notification_content_connected">Подключено</string>
     <string name="keep_alive_notification_content_connecting">Соединение…</string>
-    <string name="loading">Секунду…</string>
+    <string name="loading">Подождите…</string>
     <string name="lock_support_description2">Медкарта не отображается на экране блокировки?</string>
     <string name="log_off_account_failure">Ошибка удаления аккаунта</string>
     <string name="log_off_account_success">Аккаунт успешно удален</string>
@@ -2401,7 +2401,7 @@ ID:%s
     <string name="login_common_hint_network_unavailable">Проверьте настройки сети и повторите попытку.</string>
     <string name="login_common_hint_unkonwn_error">Произошла ошибка. Повторите попытку позже.</string>
     <string name="login_common_not_selected">Вы не выбрали ни одного объекта</string>
-    <string name="login_common_open">OK</string>
+    <string name="login_common_open">ОК</string>
     <string name="login_common_region">Регион</string>
     <string name="login_common_skip">Пропустить</string>
     <string name="login_common_step_next">Далее</string>
@@ -2456,7 +2456,7 @@ ID:%s
     <string name="login_with_sns">Другие способы входа</string>
     <string name="logout_account">Выйти</string>
     <string name="main_cancel">Отмена</string>
-    <string name="main_common_open">OK</string>
+    <string name="main_common_open">ОК</string>
     <string name="main_go_now">Открыть</string>
     <string name="main_goto_common_app">Подключите устройство</string>
     <string name="main_goto_common_app_desc">&lt;Data>Откройте Xiaomi Wear и подключите свое устройство.&lt;br>&lt;a href=\"%1$s\">Подробнее&lt;/a>&lt;/Data></string>
@@ -2522,10 +2522,10 @@ ID:%s
     <string name="medal_wall">Мои награды</string>
     <string name="midnight">Ночь</string>
     <string name="mine_about">Об этом приложении</string>
-    <string name="mine_agree">OK</string>
+    <string name="mine_agree">ОК</string>
     <string name="mine_bugreport">Отчет</string>
     <string name="mine_cancle">Отмена</string>
-    <string name="mine_common_open">OK</string>
+    <string name="mine_common_open">ОК</string>
     <string name="mine_data_type_medal">Мои награды</string>
     <string name="mine_device_authorization">Разрешения управления устройством</string>
     <string name="mine_habit">Привычки</string>
@@ -2580,7 +2580,7 @@ ID:%s
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Отпустите, чтобы обновить</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">На данный момент это все</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">На данный момент это все</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Секунду…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не удалось загрузить данные</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
@@ -2720,11 +2720,11 @@ ID:%s
     <string name="nfc_common_known">Понятно</string>
     <string name="nfc_common_more_setting">Еще</string>
     <string name="nfc_common_notification">Уведомления</string>
-    <string name="nfc_common_ok">OK</string>
+    <string name="nfc_common_ok">ОК</string>
     <string name="nfc_common_step_next">Далее</string>
     <string name="nfc_common_success">Готово</string>
     <string name="nfc_common_time_out">Время ожидания истекло. Повторите попытку.</string>
-    <string name="nfc_common_waiting">Секунду…</string>
+    <string name="nfc_common_waiting">Подождите…</string>
     <string name="nfc_contact_us_url">&lt;Data>&lt;a href=\"%1$s\">Свяжитесь с нами&lt;/a>&lt;/Data></string>
     <string name="nfc_cvc2_help_info">Код CVC2 — это три последние цифры на обратной стороне банковской карты.</string>
     <string name="nfc_cvc2_protocl">&lt;Data>Я прочитал(а) и соглашаюсь с &lt;a href=\"%1$s\">условиями использования&lt;/a>.&lt;/Data></string>
@@ -2794,7 +2794,7 @@ ID:%s
     <string name="nfc_syncese_btn_txt_global">Начать</string>
     <string name="nfc_syncese_content_mastercard_url">Если у вас возникли проблемы с картой, мы можем попытаться решить эту проблему. Если проблему не удастся решить, обратитесь в нашу &lt;a href=\"%1$s\">службу поддержки&lt;/a>.</string>
     <string name="nfc_syncese_dialog_content">Это займет около 1 минуты. Не покидайте страницу и убедитесь, что телефон подключен к сети.</string>
-    <string name="nfc_syncese_loading_content_global">Секунду…</string>
+    <string name="nfc_syncese_loading_content_global">Подождите…</string>
     <string name="nfc_syncese_sync_success">Готово</string>
     <string name="nfc_syncese_title_global">Справка</string>
     <string name="nfc_thirdparty_wechat_uninstall">Сначала установите WeChat</string>
@@ -2900,7 +2900,7 @@ ID:%s
     <string name="notify_sms_reply_edit_content">Изменить</string>
     <string name="notify_sms_reply_highest_limit_tips">Вы можете добавить до 10 ответов</string>
     <string name="notify_sms_reply_lowest_limit_tips">Оставьте хотя бы один ответ</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="open_settings">Настройки</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_label">Mi аккаунт</string>
@@ -2936,7 +2936,7 @@ ID:%s
     <string name="passport_error_user_name">Неверное имя пользователя</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
     <string name="passport_get_verify_code">Получить код</string>
-    <string name="passport_getting_verify_code">Секунду…</string>
+    <string name="passport_getting_verify_code">Подождите…</string>
     <string name="passport_identification_expired">Код устарел. Начните сначала.</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_password_hint">Введите пароль</string>
@@ -3007,7 +3007,7 @@ ID:%s
     <string name="permission_read_contacts_info">Для использования этой функции разрешите приложению доступ к списку контактов.</string>
     <string name="permission_read_phone_state_info">Для использования этой функции разрешите приложению доступ к информации об устройстве.</string>
     <string name="permission_send_sms_info">Для использования этой функции разрешите приложению отправлять сообщения.</string>
-    <string name="permission_to_grant_authorization">OK</string>
+    <string name="permission_to_grant_authorization">ОК</string>
     <string name="permission_write_read_file_info">Для использования этой функции разрешите приложению доступ к хранилищу.</string>
     <string name="phone_bind_too_many">Этот номер был привязан к разным аккаунтам в течение короткого периода времени. Попробуйте использовать другой номер.</string>
     <string name="phone_hint">Номер телефона</string>
@@ -3114,7 +3114,7 @@ ID:%s
     <string name="share_save_success">Сохранено</string>
     <string name="share_shall_data_null">Выберите тренировку</string>
     <string name="share_success">Отправлено</string>
-    <string name="share_to_permission">OK</string>
+    <string name="share_to_permission">ОК</string>
     <string name="share_wx_not_support_timeline">Обновите приложение WeChat.</string>
     <string name="share_wx_session">WeChat</string>
     <string name="share_wx_timeline">Моменты</string>
@@ -3156,12 +3156,12 @@ ID:%s
     <string name="sport_comma">,</string>
     <string name="sport_common_cancel">Отмена</string>
     <string name="sport_common_close">Откл.</string>
-    <string name="sport_common_confirm">OK</string>
+    <string name="sport_common_confirm">ОК</string>
     <string name="sport_common_download_succeed">Загрузка завершена</string>
     <string name="sport_common_error">Произошла ошибка. Повторите попытку позже.</string>
     <string name="sport_common_goto_set">Настройки</string>
     <string name="sport_common_law_info">Условия использования</string>
-    <string name="sport_common_loading">Секунду…</string>
+    <string name="sport_common_loading">Подождите…</string>
     <string name="sport_common_personal_settings">Персонализация</string>
     <string name="sport_common_set_title">Основное</string>
     <string name="sport_common_setting">Настройки</string>
@@ -3836,7 +3836,7 @@ ID:%s
     <string name="user_agreement_hint_with_telecom">&lt;Data>Я прочитал(-а) и соглашаюсь с &lt;a href=%1$s>Условиями использования&lt;/a>, &lt;a href=%2$s>Политикой конфиденциальности&lt;/a> и &lt;a href=%3$s>Условиями использования служб проверки учетных записей eSurfing&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Я прочитал(-а) и соглашаюсь с &lt;a href=%1$s>Условиями использования&lt;/a>, &lt;a href=%2$s>Политикой конфиденциальности&lt;/a> и &lt;a href=%3$s>Условиями использования служб проверки China Unicom&lt;/a>.&lt;/Data></string>
     <string name="user_avatar_update_title">Изменить фото профиля</string>
-    <string name="user_avatar_uploading">Секунду…</string>
+    <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
     <string name="user_name_phone_number">Номер телефона</string>
     <string name="userinfo_account_desc">Чтобы данные о тренировке были более точными, заполните данные профиля.</string>
@@ -3855,7 +3855,7 @@ ID:%s
     <string name="userinfo_click_to_solve">Справка</string>
     <string name="userinfo_common_cm">см</string>
     <string name="userinfo_common_complete">Готово</string>
-    <string name="userinfo_common_confirm">OK</string>
+    <string name="userinfo_common_confirm">ОК</string>
     <string name="userinfo_common_edit">Изменить</string>
     <string name="userinfo_common_exit">Выйти</string>
     <string name="userinfo_common_feet">\"</string>
@@ -3885,7 +3885,7 @@ ID:%s
     <string name="userinfo_dialog_clear">Ясно</string>
     <string name="userinfo_dialog_delete_aid_file">Удалить медкарту?</string>
     <string name="userinfo_dialog_exit">Выход</string>
-    <string name="userinfo_dialog_sure">OK</string>
+    <string name="userinfo_dialog_sure">ОК</string>
     <string name="userinfo_dialog_tb_current_select">%1$s</string>
     <string name="userinfo_dialog_title_not_save">Отменить изменения</string>
     <string name="userinfo_ecg_heart_rate_unit">BPM</string>
@@ -3899,7 +3899,7 @@ ID:%s
     <string name="userinfo_gender_male">Мужской</string>
     <string name="userinfo_gender_other">Другие</string>
     <string name="userinfo_gender_unknown">Неизвестно</string>
-    <string name="userinfo_go">OK</string>
+    <string name="userinfo_go">ОК</string>
     <string name="userinfo_goal">По умолчанию</string>
     <string name="userinfo_goal_page_desc">%1$d/%2$d</string>
     <string name="userinfo_label_birthday">Дата рождения</string>
@@ -3967,14 +3967,14 @@ ID:%s
     <string name="userinfo_target_edit_desc">Выберите другую цель, помимо целей шагов и калорий.</string>
     <string name="userinfo_target_manage">Установите цели</string>
     <string name="userinfo_target_medium_high_strength_activity">Разминка</string>
-    <string name="userinfo_target_not_update_mhs_value">OK</string>
+    <string name="userinfo_target_not_update_mhs_value">ОК</string>
     <string name="userinfo_target_not_update_value">Не сейчас</string>
     <string name="userinfo_target_setting_desc">Отслеживайте цели дневной активности при помощи телефона и носимого устройства.</string>
     <string name="userinfo_target_sport_calorie_desc">За одну 30-минутную пробежку человек в среднем человек сжигает около 200–300 ккал.</string>
     <string name="userinfo_target_stand_times">Легкая активность</string>
     <string name="userinfo_target_stand_times_desc">Вставайте и двигайтесь каждый час 12 раз в день, чтобы избежать последствий сидячего образа жизни.</string>
     <string name="userinfo_target_switch_dynamic_indicators">Установить цель</string>
-    <string name="userinfo_target_update_stand_value">OK</string>
+    <string name="userinfo_target_update_stand_value">ОК</string>
     <string name="userinfo_target_use_default_value">Использовать цель по умолчанию</string>
     <string name="userinfo_tb_current_select">%1$s</string>
     <string name="userinfo_tb_picker_day">Выбранный день: %1$d. Проведите вертикально, чтобы выбрать.</string>
