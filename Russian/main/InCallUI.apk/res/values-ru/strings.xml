@@ -40,6 +40,10 @@
     <string name="antispam_local_marked">Отмечено локально</string>
     <string name="antispam_notification_title">Неизвестный номер</string>
     <string name="antispam_provider">Определено %s</string>
+    <string name="bluetooth_permission_content">В связи с обновлением системной авторизации для получения списка устройств Bluetooth требуется ваше разрешение</string>
+    <string name="bluetooth_permission_grant_immediately">Разрешить</string>
+    <string name="bluetooth_permission_later">Позже</string>
+    <string name="bluetooth_permission_title">Предоставление доступа к Bluetooth-устройствам</string>
     <string name="callFailed_cb_enabled">Включен запрет вызовов</string>
     <string name="callFailed_congestion">Сеть перегружена</string>
     <string name="callFailed_dialToDial">DIAL запрос преобразован в DIAL запрос с другим номером телефона.</string>
@@ -205,6 +209,7 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="font_camera_tip">Сложите устройство, чтобы использовать фронтальную камеру</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
