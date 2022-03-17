@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"What's the weather?"</item>
+        <item>"How many steps I've taken?"</item>
+        <item>Find my phone.</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ъ</item>
+        <item>Ы</item>
+        <item>Ь</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
+        <item>В</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
+        <item>В</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>Абиджан</item>
+        <item>Аккра</item>
+        <item>Аддис-Абеба</item>
+        <item>Алжир</item>
+        <item>Блантайр</item>
+        <item>Браззавиль</item>
+        <item>Каир</item>
+        <item>Касабланка</item>
+        <item>Конакри</item>
+        <item>Дакар</item>
+        <item>Дар-эс-Салам</item>
+        <item>Джибути</item>
+        <item>Фритаун</item>
+        <item>Габороне</item>
+        <item>Хараре</item>
+        <item>Йоханнесбург</item>
+        <item>Кампала</item>
+        <item>Хартум</item>
+        <item>Кигали</item>
+        <item>Киншаса</item>
+        <item>Лагос</item>
+        <item>Масеру</item>
+        <item>Могадишо</item>
+        <item>Найроби</item>
+        <item>Сан-Томе</item>
+        <item>Томбукту</item>
+        <item>Триполи</item>
+        <item>Тунис</item>
+        <item>Анкоридж</item>
+        <item>Мендоса</item>
+        <item>Аруба</item>
+        <item>Асунсьон</item>
+        <item>Барбадос</item>
+        <item>Белиз</item>
+        <item>Богота</item>
+        <item>Буэнос-Айрес</item>
+        <item>Канкун</item>
+        <item>Каракас</item>
+        <item>Каймановы острова</item>
+        <item>Чикаго</item>
+        <item>Коста-Рика</item>
+        <item>Кюрасао</item>
+        <item>Досон-Крик</item>
+        <item>Денвер</item>
+        <item>Детройт</item>
+        <item>Доминиканская Республика</item>
+        <item>Эдмонтон</item>
+        <item>Сальвадор</item>
+        <item>Форталеза</item>
+        <item>Гранд-Терк</item>
+        <item>Гренада</item>
+        <item>Гватемала</item>
+        <item>Гайана</item>
+        <item>Галифакс</item>
+        <item>Гавана</item>
+        <item>Индианаполис</item>
+        <item>Нокс</item>
+        <item>Маренго</item>
+        <item>Питерсберг</item>
+        <item>Телл-Сити</item>
+        <item>Вевей</item>
+        <item>Венсен</item>
+        <item>Уинамак</item>
+        <item>Кингстон</item>
+        <item>Ла-Пас</item>
+        <item>Лима</item>
+        <item>Лос-Анджелес</item>
+        <item>Луисвилл</item>
+        <item>Манагуа</item>
+        <item>Мартиника</item>
+        <item>Метлакатла</item>
+        <item>Мехико</item>
+        <item>Монтерей</item>
+        <item>Монтевидео</item>
+        <item>Монреаль</item>
+        <item>Нассау</item>
+        <item>Нью-Йорк</item>
+        <item>Бойла</item>
+        <item>Сентер Сити</item>
+        <item>Нью-Сейлем</item>
+        <item>Панама</item>
+        <item>Финикс</item>
+        <item>Порт-оф-Спейн</item>
+        <item>Порт-о-Пренс</item>
+        <item>Пуэрто-Рико</item>
+        <item>Санто-Доминго</item>
+        <item>Сан-Паулу</item>
+        <item>Сент-Джонс</item>
+        <item>Сент-Китс</item>
+        <item>Сент-Люсия</item>
+        <item>Сент-Томас</item>
+        <item>Тихуана</item>
+        <item>Торонто</item>
+        <item>Ванкувер</item>
+        <item>Виннипег</item>
+        <item>Южный полюс</item>
+        <item>Лонгйир</item>
+        <item>Алма-Ата</item>
+        <item>Амман</item>
+        <item>Анадырь</item>
+        <item>Актау</item>
+        <item>Багдад</item>
+        <item>Бахрейн</item>
+        <item>Баку</item>
+        <item>Бангкок</item>
+        <item>Бейрут</item>
+        <item>Калькутта</item>
+        <item>Дамаск</item>
+        <item>Дакка</item>
+        <item>Дубай</item>
+        <item>Газа</item>
+        <item>Хеврон</item>
+        <item>Хошимин</item>
+        <item>Гонконг</item>
+        <item>Джакарта</item>
+        <item>Иерусалим</item>
+        <item>Кабул</item>
+        <item>Карачи</item>
+        <item>Катманду</item>
+        <item>Куала-Лумпур</item>
+        <item>Кувейт</item>
+        <item>Макао</item>
+        <item>Манила</item>
+        <item>Маскат</item>
+        <item>Пномпень</item>
+        <item>Пхеньян</item>
+        <item>Катар</item>
+        <item>Янгон</item>
+        <item>Эр-Рияд</item>
+        <item>Сеул</item>
+        <item>Шанхай</item>
+        <item>Сингапур</item>
+        <item>Тайбэй</item>
+        <item>Тегеран</item>
+        <item>Тель-Авив</item>
+        <item>Токио</item>
+        <item>Улан-Батор</item>
+        <item>Бермудские острова</item>
+        <item>Канарские острова</item>
+        <item>Кабо-Верде</item>
+        <item>Рейкьявик</item>
+        <item>Порт-Стэнли</item>
+        <item>Аделаида</item>
+        <item>Брисбен</item>
+        <item>Канберра</item>
+        <item>Дарвин</item>
+        <item>Мельбурн</item>
+        <item>Новый Южный Уэльс</item>
+        <item>Перт</item>
+        <item>Квинсленд</item>
+        <item>Сидней</item>
+        <item>Виктория</item>
+        <item>Ньюфаундленд</item>
+        <item>Саскачеван</item>
+        <item>Остров Пасхи</item>
+        <item>Амстердам</item>
+        <item>Андорра</item>
+        <item>Афины</item>
+        <item>Белфаст</item>
+        <item>Белград</item>
+        <item>Берлин</item>
+        <item>Братислава</item>
+        <item>Брюссель</item>
+        <item>Бухарест</item>
+        <item>Будапешт</item>
+        <item>Кишинев</item>
+        <item>Копенгаген</item>
+        <item>Дублин</item>
+        <item>Гибралтар</item>
+        <item>Хельсинки</item>
+        <item>Остров Мэн</item>
+        <item>Стамбул</item>
+        <item>Лиссабон</item>
+        <item>Лондон</item>
+        <item>Люксембург</item>
+        <item>Мадрид</item>
+        <item>Мальта</item>
+        <item>Минск</item>
+        <item>Монако</item>
+        <item>Москва</item>
+        <item>Осло</item>
+        <item>Париж</item>
+        <item>Прага</item>
+        <item>Рига</item>
+        <item>Рим</item>
+        <item>Сан-Марино</item>
+        <item>Сараево</item>
+        <item>Симферополь</item>
+        <item>Скопье</item>
+        <item>София</item>
+        <item>Стокгольм</item>
+        <item>Таллин</item>
+        <item>Ватикан</item>
+        <item>Вена</item>
+        <item>Вильнюс</item>
+        <item>Варшава</item>
+        <item>Загреб</item>
+        <item>Цюрих</item>
+        <item>Антананариву</item>
+        <item>Мальдивы</item>
+        <item>Маврикий</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Гуам</item>
+        <item>Гонолулу</item>
+        <item>Киритимати</item>
+        <item>Нумеа</item>
+        <item>Самоа</item>
+        <item>Таити</item>
+        <item>Антигуа</item>
+        <item>Остин</item>
+        <item>Бостон</item>
+        <item>Калгари</item>
+        <item>Колумбус</item>
+        <item>Даллас</item>
+        <item>Ноксвилл</item>
+        <item>Мемфис</item>
+        <item>Майами</item>
+        <item>Миннеаполис</item>
+        <item>Оттава</item>
+        <item>Филадельфия</item>
+        <item>Портленд</item>
+        <item>Сан-Диего</item>
+        <item>Сан-Франциско</item>
+        <item>Солт-Лейк-Сити</item>
+        <item>Сан-Хосе</item>
+        <item>Сан-Сальвадор</item>
+        <item>Сиэтл</item>
+        <item>Сент-Луис</item>
+        <item>Вашингтон (округ Колумбия)</item>
+        <item>Хьюстон</item>
+        <item>Сан-Антонио</item>
+        <item>Джэксонвилл</item>
+        <item>Балтимор</item>
+        <item>Нэшвилл</item>
+        <item>Милуоки</item>
+        <item>Оклахома-Сити</item>
+        <item>Лас-Вегас</item>
+        <item>Альбукерке</item>
+        <item>Тусон</item>
+        <item>Сакраменто</item>
+        <item>Атланта</item>
+        <item>Кливленд</item>
+        <item>Новый Орлеан</item>
+        <item>Тампа</item>
+        <item>Питтсбург</item>
+        <item>Цинциннати</item>
+        <item>Маунтин-Вью</item>
+        <item>Рино</item>
+        <item>Блэк-Рок-Сити</item>
+        <item>Доха</item>
+        <item>Пекин</item>
+        <item>Мумбаи</item>
+        <item>Дели</item>
+        <item>Осака</item>
+        <item>Лахор</item>
+        <item>Сана</item>
+        <item>Барселона</item>
+        <item>Мюнхен</item>
+        <item>Милан</item>
+        <item>Франкфурт</item>
+        <item>Ханой</item>
+        <item>Анкара</item>
+        <item>Бангалор</item>
+        <item>Бразилиа</item>
+        <item>Кейптаун</item>
+        <item>Исламабад</item>
+        <item>Рио-де-Жанейро</item>
+        <item>Анн-Арбор</item>
+        <item>Боулдер</item>
+        <item>Кембридж</item>
+        <item>Киркланд</item>
+        <item>Мэдисон</item>
+        <item>Гуанчжоу</item>
+        <item>Хайдарабад</item>
+        <item>Рестон</item>
+        <item>Белу-Оризонти</item>
+        <item>Сантьяго</item>
+        <item>Монровия</item>
+        <item>Коломбо</item>
+        <item>Чиуауа</item>
+        <item>Гургаон</item>
+        <item>Манчестер</item>
+        <item>Киев</item>
+        <item>Санкт-Петербург</item>
+        <item>Краков</item>
+        <item>Вроцлав</item>
+        <item>Гамбург</item>
+        <item>Оулу</item>
+        <item>Хайфа</item>
+        <item>Сан-Хуан</item>
+        <item>Тегусигальпа</item>
+        <item>Парамарибо</item>
+        <item>Кито</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>Финикс</item>
+        <item>Кингстон</item>
+        <item>Прая</item>
+        <item>Рейкьявик</item>
+        <item>Женева</item>
+        <item>Виндхук</item>
+        <item>София</item>
+        <item>Афины</item>
+        <item>Калининград</item>
+        <item>Хартум</item>
+        <item>Найроби</item>
+        <item>Аден</item>
+        <item>Антананариву</item>
+        <item>Кувейт</item>
+        <item>Абу-Даби</item>
+        <item>Самара</item>
+        <item>Нью-Дели</item>
+        <item>Новосибирск</item>
+        <item>Тайвань</item>
+        <item>Иркутск</item>
+        <item>Чита</item>
+        <item>Владивосток</item>
+        <item>Магадан</item>
+        <item>Камчатка</item>
+        <item>Сува</item>
+        <item>Веллингтон</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Каждое воскресенье</item>
+        <item>Каждый понедельник</item>
+        <item>Каждый вторник</item>
+        <item>Каждую среду</item>
+        <item>Каждый четверг</item>
+        <item>Каждую пятницу</item>
+        <item>Каждую субботу</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>"Кот-д'Ивуар"</item>
+        <item>Гана</item>
+        <item>Эфиопия</item>
+        <item>Алжир</item>
+        <item>Малави</item>
+        <item>Республика Конго</item>
+        <item>Египет</item>
+        <item>Марокко</item>
+        <item>Гвинея</item>
+        <item>Сенегал</item>
+        <item>Танзания</item>
+        <item>Джибути</item>
+        <item>Сьерра-Леоне</item>
+        <item>Ботсвана</item>
+        <item>Зимбабве</item>
+        <item>Южная Африка</item>
+        <item>Уганда</item>
+        <item>Судан</item>
+        <item>Руанда</item>
+        <item>Демократическая Республика Конго</item>
+        <item>Нигерия</item>
+        <item>Лесото</item>
+        <item>Сомали</item>
+        <item>Кения</item>
+        <item>Сан-Томе и Принсипи</item>
+        <item>Мали</item>
+        <item>Ливия</item>
+        <item>Тунис</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Аргентина</item>
+        <item>Аруба</item>
+        <item>Парагвай</item>
+        <item>Барбадос</item>
+        <item>Белиз</item>
+        <item>Колумбия</item>
+        <item>Аргентина</item>
+        <item>Мексика</item>
+        <item>Венесуэла</item>
+        <item>Каймановы острова</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Коста-Рика</item>
+        <item>Кюрасао</item>
+        <item>Канада</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Доминиканская Республика</item>
+        <item>Канада</item>
+        <item>Сальвадор</item>
+        <item>Бразилия</item>
+        <item>Теркс и Кайкос</item>
+        <item>Гренада</item>
+        <item>Гватемала</item>
+        <item>Гайана</item>
+        <item>Канада</item>
+        <item>Куба</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Ямайка</item>
+        <item>Боливия</item>
+        <item>Перу</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Никарагуа</item>
+        <item>Мартиника</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Мексика</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Уругвай</item>
+        <item>Канада</item>
+        <item>Багамские острова</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Панама</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Гаити</item>
+        <item>Пуэрто-Рико</item>
+        <item>Доминиканская Республика</item>
+        <item>Бразилия</item>
+        <item>Канада</item>
+        <item>Сент-Китс и Невис</item>
+        <item>Сент-Люсия</item>
+        <item>Виргинские Острова</item>
+        <item>Мексика</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Южный полюс</item>
+        <item>Шпицберген и Ян-Майен</item>
+        <item>Казахстан</item>
+        <item>Иордания</item>
+        <item>Россия</item>
+        <item>Казахстан</item>
+        <item>Ирак</item>
+        <item>Бахрейн</item>
+        <item>Азербайджан</item>
+        <item>Таиланд</item>
+        <item>Ливан</item>
+        <item>Индия</item>
+        <item>Сирия</item>
+        <item>Бангладеш</item>
+        <item>Объединенные Арабские Эмираты</item>
+        <item>Государство Палестина</item>
+        <item>Государство Палестина</item>
+        <item>Вьетнам</item>
+        <item>Китай</item>
+        <item>Индонезия</item>
+        <item>Израиль</item>
+        <item>Афганистан</item>
+        <item>Пакистан</item>
+        <item>Непал</item>
+        <item>Малайзия</item>
+        <item>Кувейт</item>
+        <item>Китай</item>
+        <item>Филиппины</item>
+        <item>Оман</item>
+        <item>Камбоджа</item>
+        <item>Северная Корея</item>
+        <item>Катар</item>
+        <item>Мьянма</item>
+        <item>Саудовская Аравия</item>
+        <item>Южная Корея</item>
+        <item>Китай</item>
+        <item>Сингапур</item>
+        <item>Китай</item>
+        <item>Иран</item>
+        <item>Израиль</item>
+        <item>Япония</item>
+        <item>Монголия</item>
+        <item>Бермудские острова</item>
+        <item>Испания</item>
+        <item>Кабо-Верде</item>
+        <item>Исландия</item>
+        <item>Фолклендские острова</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Австралия</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Канада</item>
+        <item>Чили</item>
+        <item>Нидерланды</item>
+        <item>Андорра</item>
+        <item>Греция</item>
+        <item>Великобритания</item>
+        <item>Сербия</item>
+        <item>Германия</item>
+        <item>Словакия</item>
+        <item>Бельгия</item>
+        <item>Румыния</item>
+        <item>Венгрия</item>
+        <item>Молдавия</item>
+        <item>Дания</item>
+        <item>Ирландия</item>
+        <item>Гибралтар</item>
+        <item>Финляндия</item>
+        <item>Остров Мэн</item>
+        <item>Турция</item>
+        <item>Португалия</item>
+        <item>Великобритания</item>
+        <item>Люксембург</item>
+        <item>Испания</item>
+        <item>Мальта</item>
+        <item>Беларусь</item>
+        <item>Монако</item>
+        <item>Россия</item>
+        <item>Норвегия</item>
+        <item>Франция</item>
+        <item>Чехия</item>
+        <item>Латвия</item>
+        <item>Италия</item>
+        <item>Сан-Марино</item>
+        <item>Босния и Герцеговина</item>
+        <item>Украина</item>
+        <item>Северная Македония</item>
+        <item>Болгария</item>
+        <item>Швеция</item>
+        <item>Эстония</item>
+        <item>Ватикан</item>
+        <item>Австрия</item>
+        <item>Литва</item>
+        <item>Польша</item>
+        <item>Хорватия</item>
+        <item>Швейцария</item>
+        <item>Мадагаскар</item>
+        <item>Мальдивы</item>
+        <item>Маврикий</item>
+        <item>Новая Зеландия</item>
+        <item>Фиджи</item>
+        <item>Гуам</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Австралия</item>
+        <item>Новая Каледония</item>
+        <item>Самоа</item>
+        <item>Французская Полинезия</item>
+        <item>Антигуа и Барбуда</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Канада</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Канада</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Сальвадор</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Катар</item>
+        <item>Китай</item>
+        <item>Индия</item>
+        <item>Индия</item>
+        <item>Япония</item>
+        <item>Пакистан</item>
+        <item>Йемен</item>
+        <item>Испания</item>
+        <item>Германия</item>
+        <item>Италия</item>
+        <item>Германия</item>
+        <item>Вьетнам</item>
+        <item>Турция</item>
+        <item>Индия</item>
+        <item>Бразилия</item>
+        <item>Южная Африка</item>
+        <item>Пакистан</item>
+        <item>Бразилия</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Великобритания</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Китай</item>
+        <item>Индия</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Бразилия</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Либерия</item>
+        <item>Шри-Ланка</item>
+        <item>Мексика</item>
+        <item>Индия</item>
+        <item>Великобритания</item>
+        <item>Украина</item>
+        <item>Россия</item>
+        <item>Польша</item>
+        <item>Польша</item>
+        <item>Германия</item>
+        <item>Финляндия</item>
+        <item>Израиль</item>
+        <item>Пуэрто-Рико</item>
+        <item>Гондурас</item>
+        <item>Суринам</item>
+        <item>Эквадор</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Соединенные Штаты Америки</item>
+        <item>Канада</item>
+        <item>Кабо-Верде</item>
+        <item>Исландия</item>
+        <item>Швейцария</item>
+        <item>Намибия</item>
+        <item>Болгария</item>
+        <item>Греция</item>
+        <item>Россия</item>
+        <item>Судан</item>
+        <item>Кения</item>
+        <item>Йемен</item>
+        <item>Мадагаскар</item>
+        <item>Кувейт</item>
+        <item>Объединенные Арабские Эмираты</item>
+        <item>Россия</item>
+        <item>Индия</item>
+        <item>Россия</item>
+        <item>Китай</item>
+        <item>Россия</item>
+        <item>Россия</item>
+        <item>Россия</item>
+        <item>Россия</item>
+        <item>Россия</item>
+        <item>Фиджи</item>
+        <item>Новая Зеландия</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>Пульс</item>
+        <item>Стресс</item>
+        <item>Сон</item>
+        <item>Энергия</item>
+        <item>Шаги</item>
+        <item>Калории</item>
+        <item>Легкая активность</item>
+        <item>Заряд</item>
+        <item>Дата</item>
+        <item>Погода</item>
+        <item>Атмосферное давление</item>
+        <item>Высота</item>
+        <item>Таймер</item>
+        <item>Будильник</item>
+        <item>ИКВ</item>
+        <item>Влажность</item>
+        <item>Тренировка</item>
+        <item>УФ-индекс</item>
+        <item>Восход и закат</item>
+        <item>Ветер</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Однократно</item>
+        <item>Каждый день</item>
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+        <item>Каждый год</item>
+        <item>Настроить</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Очень близко</item>
+        <item>Рядом</item>
+        <item>Далеко</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>Пульс</item>
+        <item>Стресс</item>
+        <item>Сон</item>
+        <item>Энергия</item>
+        <item>Шаги</item>
+        <item>Калории</item>
+        <item>Легкая активность</item>
+        <item>Заряд</item>
+        <item>Дата</item>
+        <item>Погода</item>
+        <item>Атмосферное давление</item>
+        <item>Высота</item>
+        <item>Таймер</item>
+        <item>Будильник</item>
+        <item>ИКВ</item>
+        <item>Влажность</item>
+        <item>Тренировка</item>
+        <item>УФ-индекс</item>
+        <item>Восход и закат</item>
+        <item>Ветер</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>ПН, СР, ПТ</item>
+        <item>ВТ, ЧТ, СБ</item>
+        <item>СР, ПТ, ВС</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Place your phone next to you when you sleep to track body movements and generate sleep cycle stats.</item>
+        <item>"To get accurate stats, place your phone beside or under the pillow and make sure that it's no more than 50 cm away from your body."</item>
+        <item>When bedtime schedule is set up, your sleep will be tracked automatically.</item>
+        <item>Sleep tracking consumes only about 1% of your battery per night.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Track your sleep</item>
+        <item>Place your phone next to your pillow</item>
+        <item>Generate stats automatically</item>
+        <item>Low power consumption</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Ограничение длительности легкого сна днем до 30 минут поможет вам лучше восстановиться.</item>
+        <item>Хорошее качество сна поможет вам улучшить самочувствие.</item>
+        <item>Дневной сон в течение 10—20 минут поможет вам оставаться в тонусе.</item>
+        <item>Дневной сон до 13:30 поможет вам оставаться в тонусе.</item>
+        <item>Дневной сон может помочь улучшить энергичность и производительность.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Внушительная продолжительность. Большинству взрослых требуется от 7 до 9 часов сна.</item>
+        <item>Внушительная продолжительность. Придерживайтесь режима сна.</item>
+        <item>Хорошая продолжительность. Так держать!</item>
+        <item>Короткий сон. Большинству взрослых требуется от 7 до 9 часов сна.</item>
+        <item>Продолжительнее, чем среднее значение. Большинству взрослых требуется от 7 до 9 часов сна.</item>
+        <item>Отличная продолжительность медленного сна. Восстановление и улучшение памяти.</item>
+        <item>Отличная продолжительность медленного сна. Восстановление и улучшение иммунитета.</item>
+        <item>Продолжительность медленного сна выше среднего. Обратите внимание на свое здоровье.</item>
+        <item>Недостаточная продолжительность медленного сна. Попробуйте заняться спортом, но только не перед сном.</item>
+        <item>Недостаточная продолжительность медленного сна. Успокойте свой разум, расслабьтесь и погрузитесь в сон.</item>
+        <item>Недостаточная продолжительность медленного сна. Избегайте перевозбуждения перед сном.</item>
+        <item>Постарайтесь лечь спать в 10—11 часов вечера.</item>
+        <item>Слишком поздний отход ко сну. Старайтесь придерживаться своего режима сна.</item>
+        <item>Вы поздно легли спать. Придерживайтесь режима сна.</item>
+        <item>Привычки, характерные \"совам\", могут привести к ухудшению состояния здоровья.</item>
+        <item>Время бодрствования выше среднего. В комнате должно быть темно и тихо.</item>
+        <item>Несколько пробуждений. В комнате должно быть тихо.</item>
+        <item>Несколько пробуждений. В комнате должно быть темно и тихо.</item>
+        <item>Хорошая продолжительность REM-фазы. Ваша креативность и способность справляться со сложными задачами будет заметно улучшена.</item>
+        <item>Отличная продолжительность REM-фазы. Спокойствие и расслабление.</item>
+        <item>Недостаточная продолжительность REM-фазы. Попробуйте заняться спортом, но только не перед сном.</item>
+        <item>Недостаточная продолжительность REM-фазы. Полноценный сон может помочь.</item>
+        <item>Продолжительность REM-фазы выше среднего. Отложите все заботы за дверью спальни.</item>
+        <item>Продолжительность REM-фазы выше среднего. Придерживайтесь режима сна.</item>
+        <item>Отличная продолжительность быстрого сна. Расслабление и улучшение творческих способностей.</item>
+        <item>Отличная продолжительность быстрого сна. Восстановление и уменьшение напряжения.</item>
+        <item>Продолжительность быстрого сна выше среднего. Расслабьтесь перед отходом ко сну.</item>
+        <item>Чтобы получить заряд бодрости утром, ложитесь спать до 12 часов вечера.</item>
+        <item>Чтобы получить заряд бодрости утром, ложитесь спать до 12 часов вечера.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Хорошая продолжительность сна и регулярный отход ко сну. Так держать!</item>
+        <item>Хорошая продолжительность сна, но слегка нерегулярный режим сна. Следите за расписанием отхода ко сну</item>
+        <item>Хорошая продолжительность сна, однако режим отхода ко сну нерегулярный. Создайте распорядок сна и придерживайтесь его.</item>
+        <item>Достаточная продолжительность сна и регулярный отход ко сну. Избегайте перевозбуждения перед сном.</item>
+        <item>Достаточная продолжительность сна, но слегка нерегулярный режим сна. Расслабьтесь перед отходом ко сну.</item>
+        <item>Достаточная продолжительность сна, однако режим отхода ко сну нерегулярный. В комнате должно быть темно и тихо.</item>
+        <item>Продолжительность сна выше среднего и регулярный отход ко сну. Хорошее качество сна поможет вам улучшить самочувствие.</item>
+        <item>Продолжительность сна выше среднего, но слегка нерегулярный режим сна. Если вы чувствуете сонливость, измените режим отхода ко сну.</item>
+        <item>Продолжительность сна выше среднего, однако режим отхода ко сну нерегулярный. Придерживайтесь режима сна.</item>
+        <item>Прерывистый сон. Создайте распорядок сна и придерживайтесь его.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Нет данных</item>
+        <item>Неплохо</item>
+        <item>Средне</item>
+        <item>Хорошо</item>
+        <item>Превосходно</item>
+        <item>Нет данных</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Хорошая продолжительность сна и регулярный отход ко сну. Так держать!</item>
+        <item>Хорошая продолжительность сна, но слегка нерегулярный режим сна. Следите за расписанием отхода ко сну</item>
+        <item>Хорошая продолжительность сна, однако режим отхода ко сну нерегулярный. Создайте распорядок сна и придерживайтесь его.</item>
+        <item>Достаточная продолжительность сна и регулярный отход ко сну. Избегайте перевозбуждения перед сном.</item>
+        <item>Достаточная продолжительность сна, но слегка нерегулярный режим сна. Расслабьтесь перед отходом ко сну.</item>
+        <item>Достаточная продолжительность сна, однако режим отхода ко сну нерегулярный. В комнате должно быть темно и тихо.</item>
+        <item>Продолжительность сна выше среднего и регулярный отход ко сну. Хорошее качество сна поможет вам улучшить самочувствие.</item>
+        <item>Продолжительность сна выше среднего, но слегка нерегулярный режим сна. Если вы чувствуете сонливость, измените режим отхода ко сну.</item>
+        <item>Продолжительность сна выше среднего, однако режим отхода ко сну нерегулярный. Придерживайтесь режима сна.</item>
+        <item>Прерывистый сон. Создайте распорядок сна и придерживайтесь его.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Sound will be recorded while you sleep. Machine learning allows Mi Fitness to detect snoring, talking, and loud noises, and save the recordings on your phone.</item>
+        <item>Microphone will be turned on and off according to your bedtime schedule.</item>
+        <item>Make sure your phone is sufficiently charged before you go to bed. Low battery may interrupt sound recording.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Record audio using microphone</item>
+        <item>Detect sounds automatically</item>
+        <item>Keep your phone charged</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
+        <item>В</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>см</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Не выбрано</item>
+        <item>Родитель</item>
+        <item>Сестра</item>
+        <item>Брат</item>
+        <item>Супруг(а)</item>
+        <item>Пара</item>
+        <item>Друг</item>
+        <item>Коллеги</item>
+        <item>Одноклассники</item>
+        <item>Ребенок</item>
+        <item>Партнер</item>
+        <item>Ассистент</item>
+        <item>Начальник</item>
+        <item>Сосед</item>
+        <item>Врач</item>
+        <item>Член семьи</item>
+        <item>Преподаватель</item>
+        <item>Смотритель</item>
+        <item>Опекун</item>
+        <item>Социальный работник</item>
+        <item>Школа</item>
+        <item>Детский сад</item>
+        <item>Другие</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>ккал</item>
+        <item>кДж</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Не выбрано</item>
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>см</item>
+        <item>м</item>
+        <item>км</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Не выбрано</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>О</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Не выбрано</item>
+        <item>Отрицательный</item>
+        <item>Положительный</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>кг</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Не выбрано</item>
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Ю</item>
+        <item>П</item>
+        <item>Ч</item>
+        <item>З</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>Ю</item>
+    </string-array>
+</resources>
