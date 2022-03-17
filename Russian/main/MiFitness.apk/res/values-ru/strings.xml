@@ -54,7 +54,7 @@
     <string name="about_privacy_experience_program_title">Программа улучшения качества</string>
     <string name="about_privacy_improvement_desc">Помогите нам улучшить наши продукты и услуги, предоставив доступ к статистике использования. Мы будем защищать вашу личную информацию в соответствии с нашей политикой конфиденциальности.</string>
     <string name="about_privacy_license_agreement">Пользовательское соглашение</string>
-    <string name="about_privacy_participate_improvement_plan">Участвовать в Программе улучшения качества</string>
+    <string name="about_privacy_participate_improvement_plan">Участие в Программе улучшения качества</string>
     <string name="about_privacy_revoke_account_confirm">Отозвать разрешение?</string>
     <string name="about_privacy_revoke_account_des">Отзыв разрешения</string>
     <string name="about_privacy_revoke_account_ok">После того, как вы отзовете свое разрешение, учетная запись, в которую выполнен вход на подключенном устройстве, будет удалена вместе со связанными данными, которые ранее хранились на сервере. Чтобы удалить данные на подключенном устройстве, см. раздел «Отзыв согласия» в нашей Политике конфиденциальности. Если вы используете носимое устройство, сброс настроек удалит все ваши данные на нем. Если вы передумаете, вы не сможете восстановить свои данные. Если вы решите использовать устройство, то вам потребуется заново подключить его и принять нашу Политику конфиденциальности.</string>
@@ -133,7 +133,7 @@
     <string name="access_misport_dialog_content_faile_in">Из-за ограничений политики защиты данных личные данные, хранящиеся на серверах на территории Индии, не могут быть переданы в другие регионы.</string>
     <string name="access_misport_dialog_content_faile_russia">Из-за ограничений политики защиты данных личные данные, хранящиеся на серверах на территории России, не могут быть переданы в другие регионы.</string>
     <string name="access_misport_dialog_title_faile">Ошибка передачи</string>
-    <string name="access_misport_import_desc">&lt;Data>Нажмите, чтобы подробнее узнать о &lt;a href=\"%1$s\">переносе данных из Mi Fit.&lt;/a>&lt;/Data></string>
+    <string name="access_misport_import_desc">&lt;Data>Подробнее о &lt;a href=\"%1$s\">переносе данных из Mi Fit.&lt;/a>&lt;/Data></string>
     <string name="access_misport_import_faile">Произошла ошибка. Повторите попытку.</string>
     <string name="access_misport_import_faile_notification_bar">Произошла ошибка. Повторите попытку.</string>
     <string name="access_misport_import_failed_partof">&lt;Data>Не удалось перенести. Повторите попытку позже. &lt;br/>Нажмите, чтобы подробнее узнать &lt;a href=\"%1$s\">о переносе данных из Mi Fit.&lt;/a>&lt;/Data></string>
@@ -931,7 +931,7 @@
     <string name="device_settings_emergency_contact_title">Экстренная помощь</string>
     <string name="device_settings_emergency_contact_toast">Добавьте необходимую информацию</string>
     <string name="device_settings_enable_sleep_trace">Анализ сна</string>
-    <string name="device_settings_enable_sleep_trace_description">Регистрируйте данные сна на основе использования телефона, статистики активности, а также установленного вами времени отхода ко сну и пробуждения.</string>
+    <string name="device_settings_enable_sleep_trace_description">Записывайте данные сна на основе использования телефона, статистики активности, а также установленного вами времени отхода ко сну и пробуждения.</string>
     <string name="device_settings_enable_sleep_trace_guide">Вы не сможете отслеживать данные сна, включая циклы сна, храп и разговоры во сне, при помощи телефона.</string>
     <string name="device_settings_enable_snore_sleepwords_detection">Обнаружение храпа и разговоров</string>
     <string name="device_settings_enabled">Вкл.</string>
@@ -1260,7 +1260,7 @@
     <string name="device_tab_delimiter">%1$s | %2$s</string>
     <string name="device_tab_disable_connect">Отключено</string>
     <string name="device_tab_disconnected_and_retry">Отключено</string>
-    <string name="device_tab_name">Устройство</string>
+    <string name="device_tab_name">Устройства</string>
     <string name="device_tab_sync">Синхронизация</string>
     <string name="device_tab_syncing">Синхронизация…</string>
     <string name="device_turn_on">ОК</string>
@@ -1472,7 +1472,7 @@ ID:%s
     <string name="feedback_input_feedback_content">Отчет не может быть пустым</string>
     <string name="feedback_log">Загрузите журналы, чтобы помочь нам выявить и решить эту проблему.</string>
     <string name="feedback_mail">E-mail</string>
-    <string name="feedback_mine_feedback">Отчет</string>
+    <string name="feedback_mine_feedback">Обратная связь</string>
     <string name="feedback_other_type">Другое</string>
     <string name="feedback_permission_location_desc">Ваше местоположение было использовано для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим устройством.</string>
     <string name="feedback_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
@@ -1581,7 +1581,7 @@ ID:%s
     <string name="fitness_cross_fit">Кросс-тренинг</string>
     <string name="fitness_curling">Керлинг</string>
     <string name="fitness_cycling_indoor">Велотренажер</string>
-    <string name="fitness_cycling_outdoor">На велосипеде</string>
+    <string name="fitness_cycling_outdoor">Велосипед</string>
     <string name="fitness_dance">Танцы</string>
     <string name="fitness_darts">Дартс</string>
     <string name="fitness_dead_lift">Становая тяга</string>
@@ -2089,7 +2089,7 @@ ID:%s
     <string name="health_data_sleep_empty">Нет данных</string>
     <string name="health_data_sort_label">Скрытые объекты</string>
     <string name="health_data_sort_label_kit">Скрытые виджеты</string>
-    <string name="health_data_sport_record_empty">Регистрируйте свои тренировки.</string>
+    <string name="health_data_sport_record_empty">Ведите журнал тренировок</string>
     <string name="health_data_stand_explain_desc">"Данные о легкой активности показывают часы, в течение которых вы разминались или двигались не менее одной минуты.
 
 Не засиживайтесь в течение дня и старайтесь разминаться и двигаться не менее 12 раз в день каждый час."</string>
@@ -2214,10 +2214,10 @@ ID:%s
     <string name="health_hrm_understand_abnormal_low_title">Подробнее</string>
     <string name="health_keep_sporting">Продолжить</string>
     <string name="health_light_sleep_percentage">Быстрый сон</string>
-    <string name="health_login_no_desc">Войдите в систему для синхронизации устройства</string>
+    <string name="health_login_no_desc">Войдите в систему для синхронизации</string>
     <string name="health_login_no_title">Вход</string>
     <string name="health_login_open">ОК</string>
-    <string name="health_login_part_desc">Дополнительная информация поможет улучшить анализ данных активности.</string>
+    <string name="health_login_part_desc">Дополнительная информация поможет улучшить анализ данных активностей</string>
     <string name="health_login_part_title">Заполните информацию профиля</string>
     <string name="health_main_health_status">Мой распорядок дня</string>
     <string name="health_main_mine_personal_info">Мой профиль</string>
@@ -2804,30 +2804,26 @@ ID:%s
     <string name="medal_total_progress">100 %</string>
     <string name="medal_wall">Мои награды</string>
     <string name="midnight">Ночь</string>
-    <string name="mine_about">Об этом приложении</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_activity">Challenges</string>
+    <string name="mine_about">О приложении</string>
+    <string name="mine_activity">Испытания</string>
     <string name="mine_agree">ОК</string>
-    <string name="mine_bugreport">Отчет</string>
+    <string name="mine_bugreport">Обратная связь</string>
     <string name="mine_cancle">Отмена</string>
     <string name="mine_common_open">ОК</string>
     <string name="mine_data_type_medal">Мои награды</string>
-    <string name="mine_device_authorization">Разрешения управления устройством</string>
+    <string name="mine_device_authorization">Разрешения устройства</string>
     <string name="mine_habit">Привычки</string>
     <string name="mine_health_plan">Тренировочные планы</string>
     <string name="mine_medal">Мои награды</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_medal_entrance_got">"Award for
+    <string name="mine_medal_entrance_got">"Награда за
 %1$s"</string>
     <string name="mine_medal_user_id">Mi аккаунт:</string>
     <string name="mine_misport_data_importing">Перенос данных…</string>
     <string name="mine_misport_import_faile">Произошла ошибка. Повторите попытку.</string>
     <string name="mine_misport_last_import_time">Перенесено: %1$s</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_my_course_list_title">Courses</string>
+    <string name="mine_my_course_list_title">Курсы</string>
     <string name="mine_no_agree">Отмена</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_no_medal_default_desc">Complete your profile and get an award</string>
+    <string name="mine_no_medal_default_desc">Заполните свой профиль и получите награду</string>
     <string name="mine_not_login">Вход не выполнен</string>
     <string name="mine_open_sport_health_cloud_sync">Синхронизировать?</string>
     <string name="mine_open_sport_health_cloud_sync_des">Синхронизировать данные тренировок и активности на всех устройствах.</string>
@@ -2850,20 +2846,18 @@ ID:%s
     <string name="mine_user_info">Пол | Рост | Возраст</string>
     <string name="mine_user_male">Мужской</string>
     <string name="mine_user_name">--</string>
-    <string name="mine_weekly_report">Сводка за неделю</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_weekly_report_auth_desc">Allow this app to access weekly workout data.</string>
+    <string name="mine_weekly_report">Еженедельный отчет</string>
+    <string name="mine_weekly_report_auth_desc">Разрешите этому приложению доступ к данным о тренировках.</string>
     <string name="mine_weekly_report_auth_title">Разрешения</string>
-<!-- ### FROM SOURCE -->
-    <string name="mine_weekly_report_auth_welcome">View your weekly summary</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Снять выбор</string>
+    <string name="mine_weekly_report_auth_welcome">Просмотрите еженедельный отчет</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтвердить</string>
     <string name="miuix_appcompat_delete_description">Удалить</string>
-    <string name="miuix_appcompat_deselect_all">Снять выбор</string>
+    <string name="miuix_appcompat_deselect_all">Отмена</string>
     <string name="miuix_appcompat_deselect_all_description">Снять выбор</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Отмена</string>
     <string name="miuix_appcompat_search_input_description">Поиск</string>
@@ -2958,12 +2952,9 @@ ID:%s
 1. Чтобы совершить оплату при помощи устройства, перейдите в раздел \"Карты\", проведите, чтобы выбрать карту и поднесите браслет к считывающему устройству. Загрузка карты занимает 1 мин.
 2. Чтобы завершить оплату, вам может потребоваться ввести цифровой код банковской карты. Для получения дополнительной информации обратитесь к эмитенту банковской карты."</string>
     <string name="nfc_add_card_bank_global">Добавить</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_add_card_door">Add</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_add_door_card_custom_desc">Create an empty card and write required data to activate it</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_add_door_card_custom_title">Blank card</string>
+    <string name="nfc_add_card_door">Добавить</string>
+    <string name="nfc_add_door_card_custom_desc">Создайте пустую карту и запишите необходимые данные для ее активации</string>
+    <string name="nfc_add_door_card_custom_title">Пустая карта</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_add_door_card_lock_desc">Add Mi Smart Door Lock</string>
 <!-- ### FROM SOURCE -->
@@ -3049,8 +3040,7 @@ ID:%s
     <string name="nfc_bank_status_not_active">Недоступно</string>
     <string name="nfc_bank_type">Тип карты</string>
     <string name="nfc_bank_updating">Обновление</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_bfc_transfer_in_desc">You can restore the remaining value and recover transaction history</string>
+    <string name="nfc_bfc_transfer_in_desc">Вы можете восстановить оставшуюся сумму и историю транзакций</string>
     <string name="nfc_bind_bank_card_cvn2_hint_globa">Три последние цифры на обратной стороне банковской карты.</string>
     <string name="nfc_bind_bank_card_num_by_null_who">Добавить</string>
     <string name="nfc_bind_bank_card_num_by_who_global">Добавить банковскую карту %1$s</string>
@@ -3063,8 +3053,7 @@ ID:%s
     <string name="nfc_cannot_receive_verify_code">"1. Убедитесь, что используемый вами номер мобильного телефона и адрес электронной почты совпадают с указанными в информации о банковском счете.
 2. Проверьте папки \"Спам\" и \"Заблокированные\".
 3. Если номер телефона или адрес электронной почты был изменен, свяжитесь с эмитентом банковской карты."</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_balance_des">Balance (CNY)</string>
+    <string name="nfc_card_balance_des">Баланс (CNY)</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_default_card">Default</string>
 <!-- ### FROM SOURCE -->
@@ -3198,73 +3187,51 @@ ID:%s
     <string name="nfc_card_record_refund_message">Confirm request?</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_record_text">Refund</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_transferin_ing">Removing…</string>
+    <string name="nfc_card_transferin_ing">Удаление…</string>
     <string name="nfc_check_pre_account_loading">Поиск угроз безопасности…</string>
-<!-- ### FROM SOURCE -->
     <string name="nfc_cnv2">CVN2</string>
     <string name="nfc_cnv2_help_info">Код CVN2 — это три последние цифры на обратной стороне банковской карты.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_agree">OK</string>
+    <string name="nfc_common_agree">ОК</string>
     <string name="nfc_common_back">Назад</string>
     <string name="nfc_common_cancle">Отмена</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_complete">Done</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_copid">Copied successfully</string>
+    <string name="nfc_common_complete">Готово</string>
+    <string name="nfc_common_confirm">ОК</string>
+    <string name="nfc_common_copid">Успешно скопировано</string>
     <string name="nfc_common_hint">Предупреждение</string>
-    <string name="nfc_common_hint_device_unconnect">Подключите носимое устройство и повторите попытку.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_hint_hold_on">Keep your wearable device connected to your phone</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_hint_no_data">Try again later</string>
+    <string name="nfc_common_hint_device_unconnect">Подключите носимое устройство и повторите попытку</string>
+    <string name="nfc_common_hint_hold_on">Держите носимое устройство подключенным</string>
+    <string name="nfc_common_hint_no_data">Попробуйте позже</string>
     <string name="nfc_common_hint_server_unavailable">Ошибка сервера. Повторите попытку позже.</string>
     <string name="nfc_common_known">Понятно</string>
     <string name="nfc_common_more_setting">Еще</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_not_support_version">"Current version isn't supported"</string>
+    <string name="nfc_common_not_support_version">Текущая версия не поддерживается</string>
     <string name="nfc_common_notification">Уведомления</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_null">None</string>
+    <string name="nfc_common_null">Нет</string>
     <string name="nfc_common_ok">ОК</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_page_not_find">Page not found</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_retry">Try again</string>
+    <string name="nfc_common_page_not_find">Страница не найдена</string>
+    <string name="nfc_common_retry">Повтор</string>
     <string name="nfc_common_step_next">Далее</string>
     <string name="nfc_common_success">Готово</string>
     <string name="nfc_common_time_out">Время ожидания истекло. Повторите попытку.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_common_tsm_card_service_cost">Service fee</string>
-<!-- ### FROM SOURCE -->
+    <string name="nfc_common_tsm_card_service_cost">Плата за услуги</string>
     <string name="nfc_common_unit_rmb">CNY</string>
     <string name="nfc_common_waiting">Подождите…</string>
     <string name="nfc_contact_us_url">&lt;Data>&lt;a href=\"%1$s\">Свяжитесь с нами&lt;/a>&lt;/Data></string>
-<!-- ### FROM SOURCE -->
     <string name="nfc_cvc2">CVC2</string>
     <string name="nfc_cvc2_help_info">Код CVC2 — это три последние цифры на обратной стороне банковской карты.</string>
     <string name="nfc_cvc2_protocl">&lt;Data>Я принимаю &lt;a href=\"%1$s\">условия использования&lt;/a>.&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_data_empty">No data</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_default_card">Default</string>
+    <string name="nfc_data_empty">Нет данных</string>
+    <string name="nfc_default_card">По умолчанию</string>
     <string name="nfc_default_card_set_failure">Произошла ошибка.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_default_card_set_ing">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_default_card_set_success">Set successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_delete_card_confim_hint">Delete card?</string>
+    <string name="nfc_default_card_set_ing">Подождите…</string>
+    <string name="nfc_default_card_set_success">Успешно установлена</string>
+    <string name="nfc_delete_card_confim_hint">Удалить карту?</string>
     <string name="nfc_delete_card_confim_hint_bank">Вы не сможете использовать эту карту для оплаты. Продолжить?</string>
     <string name="nfc_delete_card_msg">Это займет около 2 мин.</string>
     <string name="nfc_deleting">Удаление…</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_device_card_and_pay">Cards</string>
+    <string name="nfc_device_card_and_pay">Карты</string>
     <string name="nfc_device_card_number_mul">Номер аккаунта устройства</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_device_status_connected">Connected</string>
+    <string name="nfc_device_status_connected">Подключено</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_door_card">Key cards</string>
 <!-- ### FROM SOURCE -->
@@ -4830,9 +4797,9 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="userinfo_lock_show_solve_go">Настройки</string>
     <string name="userinfo_lock_show_solve_path">Нажмите Настройки ниже, выберите Показывать на экране блокировки, а затем нажмите Разрешать всегда.</string>
     <string name="userinfo_max_heart_rate">Макс. пульс</string>
-    <string name="userinfo_medical_file_desc1">Важная медицинская информация, необходимая в случае чрезвычайной ситуации.</string>
-    <string name="userinfo_medical_file_desc1_with_line_break">Важная медицинская информация, необходимая в случае чрезвычайной ситуации.</string>
-    <string name="userinfo_medical_file_desc2">Регистрируйте основную информацию о своем здоровье, чтобы показывать ее работникам медицинских служб в случае чрезвычайной ситуации.</string>
+    <string name="userinfo_medical_file_desc1">Важная медицинская информация в случае чрезвычайной ситуации.</string>
+    <string name="userinfo_medical_file_desc1_with_line_break">Важная медицинская информация в случае чрезвычайной ситуации</string>
+    <string name="userinfo_medical_file_desc2">Запишите основную информацию о своем здоровье для работников медицинских служб в случае чрезвычайной ситуации</string>
     <string name="userinfo_medical_id">Медкарта</string>
     <string name="userinfo_medical_id_screen_lock_show_confirmation_title">Внимание!</string>
     <string name="userinfo_medical_id_screen_lock_show_description">"Доступ к медкарте можно получить без разблокировки телефона.
@@ -4975,7 +4942,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="xms_third_app_update_date">Обновлено</string>
     <string name="xms_third_app_update_log">Список изменений</string>
     <string name="xms_third_app_waiting">Ожидание…</string>
-    <string name="xms_thirdapp_device_auth_manage">Разрешения управления устройством</string>
+    <string name="xms_thirdapp_device_auth_manage">Разрешения устройства</string>
     <string name="xms_thirdapp_permission_data_manager_des">Информация о подключенных устройствах</string>
     <string name="xms_thirdapp_permission_data_manager_name">Получать доступ к информации об устройстве</string>
     <string name="xms_thirdapp_permission_notify_des">Уведомления на носимых устройствах</string>
