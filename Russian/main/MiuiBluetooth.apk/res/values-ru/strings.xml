@@ -282,7 +282,7 @@
     <string name="config_net_not_my_device">Отмена</string>
     <string name="confignet_app_download">Установить</string>
     <string name="confignet_cancel">Отмена</string>
-    <string name="confignet_download_title">Установите Mi Fitness, чтобы продолжить</string>
+    <string name="confignet_download_title">Установите Mi Фитнес, чтобы продолжить</string>
     <string name="confirm">ОК</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
