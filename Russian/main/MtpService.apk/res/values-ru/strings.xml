@@ -18,14 +18,14 @@
     <string name="abc_menu_space_shortcut_label">Пробел</string>
     <string name="abc_menu_sym_shortcut_label">Sym +</string>
     <string name="abc_prepend_shortcut_label">Меню +</string>
-    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_search_hint">Введите запрос</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with">Поделиться с</string>
-    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessing_notification_title">Доступ к файлам из %1$s</string>
     <string name="app_label">MTP-хост</string>
