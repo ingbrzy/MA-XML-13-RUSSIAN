@@ -99,7 +99,7 @@
     <string name="about_setting_newmsg_notify_closed_desc">Включите, чтобы получать уведомления этого приложения.</string>
     <string name="about_setting_newmsg_notify_opened_desc">Получать уведомления приложения.</string>
     <string name="about_setting_not_upload_gps">Остановить загрузку геопозиции</string>
-    <string name="about_setting_not_upload_gps_detail">Прекратить загрузку данных о местоположении в облако. Вы можете столкнуться с проблемами синхронизации маршрутов между приложениями, а также можете потерять часть данных о маршрутах.</string>
+    <string name="about_setting_not_upload_gps_detail">Прекратить загрузку геоданных в облако. Вы можете столкнуться с проблемами синхронизации маршрутов между приложениями, а также можете потерять часть данных о маршрутах.</string>
     <string name="about_setting_privacy_detail">Политика конфиденциальности</string>
     <string name="about_setting_privacy_revoke">Отзыв согласия</string>
     <string name="about_setting_region">Регион</string>
@@ -151,23 +151,16 @@
     <string name="access_setting_done">Готово</string>
     <string name="access_thirdparty_alipay">Alipay</string>
     <string name="access_thirdparty_alipay_bind">Подключить</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_bind_error">Try again</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_bind_success_desc">To stop sharing data from Mi Fitness to Alipay, tap Disconnect and confirm in the app. Alternatively, change privacy settings in Alipay.</string>
+    <string name="access_thirdparty_alipay_bind_error">Повтор</string>
+    <string name="access_thirdparty_alipay_bind_success_desc">Чтобы прекратить передачу данных из приложения Mi Фитнес в Alipay, нажмите Отключить и подтвердите действие в приложении. Кроме того, измените настройки конфиденциальности в Alipay.</string>
     <string name="access_thirdparty_alipay_bind_success_title">Теперь вы можете просматривать количество шагов в \"Alipay\" > \"Sports\".</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_confirm_bind_msg">This Alipay account is associated with another Mi Account in Mi Fitness. Would you like to connect your Alipay account with your current Mi Account?</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_confirm_bind_title">Connect to Alipay</string>
+    <string name="access_thirdparty_alipay_confirm_bind_msg">Этот аккаунт Alipay связан с другим Mi аккаунтом в приложении Mi Фитнес. Связать аккаунт Alipay с текущим Mi аккаунтом?</string>
+    <string name="access_thirdparty_alipay_confirm_bind_title">Подключение к Alipay</string>
     <string name="access_thirdparty_alipay_sync_title">Подключение к Alipay</string>
     <string name="access_thirdparty_alipay_unbind">Отключить</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_unbind_alert">"Your step data won't be synced to Alipay."</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_alipay_unbind_error">"Couldn't disconnect. Try again."</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_aplipay_thirdparty_desc">To share step data with Alipay, tap Connect and follow on-screen instructions.</string>
+    <string name="access_thirdparty_alipay_unbind_alert">Данные о ваших шагах не будут больше синхронизироваться с Alipay.</string>
+    <string name="access_thirdparty_alipay_unbind_error">Не удалось отключиться. Повторите попытку.</string>
+    <string name="access_thirdparty_aplipay_thirdparty_desc">Чтобы поделиться данными о шагах с Alipay, нажмите Подключить и следуйте инструкциям на экране.</string>
     <string name="access_thirdparty_authentication_failed">Не удалось подключиться. Повторите попытку.</string>
     <string name="access_thirdparty_bind_failed">Проверьте настройки сети и повторите попытку.</string>
     <string name="access_thirdparty_explain">При подключении Mi Фитнес к %1$s данные ваших тренировок (например, калории, расстояние, время, пульс) будут предоставлены %2$s.</string>
@@ -179,18 +172,12 @@
     <string name="access_thirdparty_unbind_failed">Не удалось отключить. Повторите попытку.</string>
     <string name="access_thirdparty_unbind_tips">Данные ваших тренировок не будут синхронизированы с приложением.</string>
     <string name="access_thirdparty_wechat">WeChat</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_wechat_bound">You can view your steps in WeChat.</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_wechat_help_1">To share data with WeChat, save the QR code below, scan it in WeChat, and tap \"Link device\".</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_wechat_help_2">To scan the QR code, tap Scan in WeChat, choose the Album icon on the lower right corner, and tap the QR code image.</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_thirdparty_wechat_save_qr">Save</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_unbind_dialog_msg">"Your step data won't be synced to WeChat."</string>
-<!-- ### FROM SOURCE -->
-    <string name="access_unbind_success">Disconnected successfully</string>
+    <string name="access_thirdparty_wechat_bound">Вы можете просматривать данные о своих шагах в WeChat.</string>
+    <string name="access_thirdparty_wechat_help_1">Чтобы поделиться данными с WeChat, сохраните приведенный ниже QR-код, отсканируйте его в WeChat и нажмите \"Привязать устройство\".</string>
+    <string name="access_thirdparty_wechat_help_2">Чтобы отсканировать QR-код, нажмите Сканировать в WeChat, выберите значок альбома в правом нижнем углу и нажмите на изображение QR-кода.</string>
+    <string name="access_thirdparty_wechat_save_qr">Сохранить</string>
+    <string name="access_unbind_dialog_msg">Данные о ваших шагах не будут больше синхронизироваться с WeChat</string>
+    <string name="access_unbind_success">Успешно отключено</string>
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -226,10 +213,8 @@
     <string name="action_update_phone">Изменить номер телефона</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
-<!-- ### FROM SOURCE -->
-    <string name="activate_failed">Please retry or contact bank customer service</string>
-<!-- ### FROM SOURCE -->
-    <string name="activate_failed_no_retry">Please contact bank customer service</string>
+    <string name="activate_failed">Повторите попытку или обратитесь в службу поддержки банка</string>
+    <string name="activate_failed_no_retry">Обратитесь в службу поддержки банка</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="add_device">Добавить устройство</string>
     <string name="add_to_trust_device">Это доверенное устройство</string>
@@ -240,27 +225,17 @@
     <string name="aivs_huami_operate_on_app">Продолжить в приложении на телефоне</string>
     <string name="aivs_huami_timer_limit">Вы можете установить таймер длительностью до 99 мин. 59 сек.</string>
     <string name="app_upgrade_no_newer_version">Установлено новейшее ПО</string>
-<!-- ### FROM SOURCE -->
-    <string name="apply_times_exceed_limit">Apply times exceed the max limit</string>
+    <string name="apply_times_exceed_limit">Превышен лимит</string>
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_card_not_supported">Not supported</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_card_type_credit">Credit</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_card_type_debit">Debit</string>
-<!-- ### FROM SOURCE -->
+    <string name="bank_card_not_supported">Не поддерживается</string>
+    <string name="bank_card_type_credit">Кредитная</string>
+    <string name="bank_card_type_debit">Дебетовая</string>
     <string name="bank_card_unit">cards</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_card_user_account_expire">Account has expired</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_card_user_not_reserve_phone">You have not reserved phone number for the bank account, please contact bank customer service</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_card_verify_failed">Card info is incorrect</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_error">Failed to issue card, please retry or contact to bank</string>
-<!-- ### FROM SOURCE -->
-    <string name="bank_system_busying">Please try again later, bank system is busy.</string>
+    <string name="bank_card_user_account_expire">Срок действия аккаунта истек</string>
+    <string name="bank_card_user_not_reserve_phone">Вы не указали номер телефона для банковского счета, обратитесь в службу поддержки банка</string>
+    <string name="bank_card_verify_failed">Неверные данные карты</string>
+    <string name="bank_error">Не удалось выпустить карту. Повторите попытку или обратитесь в банк.</string>
+    <string name="bank_system_busying">Повторите попытку позже, банковская система занята</string>
     <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
     <string name="ble_ota_fw_upgrade_success_message">Не используйте устройство до завершения процесса обновления.</string>
     <string name="ble_ota_fw_upgrade_success_title">Синхронизация завершена</string>
@@ -268,12 +243,9 @@
     <string name="ble_ota_push_error_info">Для обновления носимого устройства уровень заряда должен быть не менее 20%.</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="cancel">Отмена</string>
-<!-- ### FROM SOURCE -->
-    <string name="card_recharge_promo_code_exhausted">"Oh, you're a bit late, please look forward to the next promotion"</string>
-<!-- ### FROM SOURCE -->
-    <string name="card_status_no_apply_privilege">Your card status has no privilege to apply the business</string>
-<!-- ### FROM SOURCE -->
-    <string name="card_type_no_apply_privilege">Your card type has no privilege to apply the business</string>
+    <string name="card_recharge_promo_code_exhausted">Вы немного опоздали, подождите следующей акции</string>
+    <string name="card_status_no_apply_privilege">Статус вашей карты не дает привилегий для использования в бизнесе</string>
+    <string name="card_type_no_apply_privilege">Ваш тип карты не имеет привилегий для использования в бизнесе</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Изменить пароль</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
@@ -536,20 +508,13 @@
     <string name="data_type_sleep">Сон</string>
     <string name="data_type_spo2">Уровень кислорода в крови</string>
     <string name="data_type_stress">Стресс</string>
-<!-- ### FROM SOURCE -->
     <string name="data_xaxis_time_0">00:00</string>
-<!-- ### FROM SOURCE -->
     <string name="data_xaxis_time_12">12:00</string>
-<!-- ### FROM SOURCE -->
     <string name="data_xaxis_time_24">24:00</string>
-<!-- ### FROM SOURCE -->
-    <string name="date_day_suffix1">st</string>
-<!-- ### FROM SOURCE -->
-    <string name="date_day_suffix2">nd</string>
-<!-- ### FROM SOURCE -->
-    <string name="date_day_suffix3">rd</string>
-<!-- ### FROM SOURCE -->
-    <string name="date_day_suffix_other">th</string>
+    <string name="date_day_suffix1">-й</string>
+    <string name="date_day_suffix2">-й</string>
+    <string name="date_day_suffix3">-й</string>
+    <string name="date_day_suffix_other">-й</string>
     <string name="date_format_y_2">yyyy</string>
     <string name="date_format_y_m_d">dd.MM.yyyy</string>
     <string name="date_format_y_m_d_h_m_3">dd.MM.yyyy HH:mm</string>
@@ -630,40 +595,32 @@
     <string name="device_charged_yesterday">Заряжалось вчера</string>
     <string name="device_charging">Заряжается</string>
     <string name="device_check_all_device">Управление устройствами</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_choose_app_confirm">Complete setup</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_choose_app_confirm_desc">&lt;Data>Open Xiaomi Wear to complete setup.&lt;br>&lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
+    <string name="device_choose_app_confirm">Завершить настройку</string>
+    <string name="device_choose_app_confirm_desc">&lt;Data>Откройте Xiaomi Wear, чтобы завешить настройку.&lt;br>&lt;a href=\"%1$s\">Подробнее&lt;/a>&lt;/Data></string>
     <string name="device_confirm_button_connect">Нажмите на кнопку, когда увидите \"CON\"</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_connect_devices_common_app">Select app</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_connect_devices_common_app_desc">&lt;Data>To get a better connection between your phone and device, select which app you want to use to connect your device.&lt;br>&lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
+    <string name="device_connect_devices_common_app">Выбор приложения</string>
+    <string name="device_connect_devices_common_app_desc">&lt;Data>Выберите приложение для подключения устройства.&lt;br>&lt;a href=\"%1$s\">Подробнее&lt;/a>&lt;/Data></string>
     <string name="device_contact_couldnot_during_workouts">Во время тренировки синхронизация невозможна</string>
     <string name="device_contact_data_sync_failed">Не удалось синхронизировать данные</string>
     <string name="device_contact_data_sync_successfully">Синхронизация данных завершена</string>
     <string name="device_contact_error_no_network">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="device_current_connected">Подключено</string>
     <string name="device_current_not_connected">Отключено</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_determine">Continue</string>
+    <string name="device_determine">Продолжить</string>
     <string name="device_disconnect">Отключено</string>
     <string name="device_ecg_measure">Следите за ЭКГ</string>
     <string name="device_ecg_measure_des">Узнайте, как ваше тело справляется со стрессом.</string>
     <string name="device_electric_value_percent">Заряд: %1$d%%</string>
-    <string name="device_ensure_unbind_dialog_des">Все несинхронизированные данные на \"%1$s\" будут потеряны. Продолжить?</string>
+    <string name="device_ensure_unbind_dialog_des">Все не синхронизированные данные на \"%1$s\" будут потеряны. Продолжить?</string>
     <string name="device_ensure_unbind_dialog_title">Отключить \"%1$s\"?</string>
     <string name="device_error_bind_content">Выполните сброс устройства и повторите попытку.</string>
     <string name="device_error_bind_error">Произошла ошибка</string>
     <string name="device_error_have_bound">Произошла ошибка. Выполните сброс устройства и повторите попытку.</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_feature_item_unknown">unsupported item</string>
+    <string name="device_feature_item_unknown">не поддерживается</string>
     <string name="device_find_device">Найти устройство</string>
     <string name="device_go_now">Открыть</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_goto_common_app">Connect your device</string>
-<!-- ### FROM SOURCE -->
-    <string name="device_goto_common_app_desc">&lt;Data>Open Xiaomi Wear to complete setup.&lt;br>&lt;a href=\"%1$s\">Learn more&lt;/a>&lt;/Data></string>
+    <string name="device_goto_common_app">Подключите устройство</string>
+    <string name="device_goto_common_app_desc">&lt;Data>Откройте Xiaomi Wear, чтобы завешить настройку.&lt;br>&lt;a href=\"%1$s\">Подробнее&lt;/a>&lt;/Data></string>
     <string name="device_goto_disable">Открыть</string>
     <string name="device_health_monitoring">Мониторинг здоровья</string>
     <string name="device_health_monitoring_setting">Мониторинг здоровья</string>
@@ -690,9 +647,9 @@
     <string name="device_other">Другое</string>
     <string name="device_other_settings">Прочее</string>
     <string name="device_others">Другие устройства</string>
-    <string name="device_permission_location_ble_scan">Для поиска Bluetooth-устройств разрешите этому приложению доступ к данным о местоположении.</string>
-    <string name="device_permission_location_desc">Ваше местоположение было использовано для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим трекером.</string>
-    <string name="device_permission_location_info">Для использования этой службы разрешите приложению доступ к данным о местоположении.</string>
+    <string name="device_permission_location_ble_scan">Для поиска Bluetooth-устройств разрешите этому приложению использовать геолокацию</string>
+    <string name="device_permission_location_desc">Геоданные используются для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим трекером.</string>
+    <string name="device_permission_location_info">Для использования этой службы разрешите приложению использовать геолокацию</string>
     <string name="device_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
     <string name="device_photograph_setting">Камера</string>
     <string name="device_please_to_connect">Подключите устройство</string>
@@ -714,7 +671,7 @@
     <string name="device_search_failed_help">Отладка ошибок соединения</string>
     <string name="device_search_help"><u>Возникли проблемы? Обратитесь к Справке.</u></string>
     <string name="device_search_not_mine">Не мое устройство</string>
-    <string name="device_search_open_location">Для добавления новых устройств, разрешите доступ к местоположению.</string>
+    <string name="device_search_open_location">Для добавления новых устройств, разрешите использование геолокации</string>
     <string name="device_search_select_tips">Выберите устройство</string>
     <string name="device_searching_nearby">Выполняется поиск</string>
     <string name="device_searching_tips">Поднесите устройство ближе к телефону.</string>
@@ -1032,7 +989,7 @@
     <string name="device_settings_open_screen_unlock_first">Чтобы воспользоваться этой функцией, включите Разблокировку телефона.</string>
     <string name="device_settings_pair_and_open">Подключить</string>
     <string name="device_settings_permission_calendar_des">Чтобы синхронизировать события с носимым устройством, разрешите этому приложению доступ к событиям календаря.</string>
-    <string name="device_settings_permission_location_weather_msg">Для обновления данных о погоде разрешите этому приложению доступ к данным о вашем местоположении.</string>
+    <string name="device_settings_permission_location_weather_msg">Для обновления данных о погоде разрешите этому приложению использовать геолокацию</string>
     <string name="device_settings_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
     <string name="device_settings_photograph_pair_tips">Нажмите \"Подключить\" и подтвердите на носимом устройстве, чтобы воспользоваться этой функцией.</string>
     <string name="device_settings_photograph_set">Камера</string>
@@ -1184,19 +1141,19 @@
     <string name="device_settings_weather_add_city">Добавить</string>
     <string name="device_settings_weather_add_city_limit">Добавьте до 5 мест</string>
     <string name="device_settings_weather_alerts">Оповещения о погоде</string>
-    <string name="device_settings_weather_location_by_auto">Текущее местоположение</string>
+    <string name="device_settings_weather_location_by_auto">Текущая геопозиция</string>
     <string name="device_settings_weather_location_city">(выбрано)</string>
     <string name="device_settings_weather_location_error">Сбой получения данных. Повторите попытку.</string>
-    <string name="device_settings_weather_location_locating">Текущее местоположение</string>
-    <string name="device_settings_weather_location_not_end">Поиск местоположения…</string>
-    <string name="device_settings_weather_location_working">Поиск местоположения…</string>
+    <string name="device_settings_weather_location_locating">Текущая геопозиция</string>
+    <string name="device_settings_weather_location_not_end">Геолокация…</string>
+    <string name="device_settings_weather_location_working">Геолокация…</string>
     <string name="device_settings_weather_search_hint">Поиск страны или города</string>
     <string name="device_settings_weather_setting">Погода</string>
     <string name="device_settings_weather_setting_city">Места</string>
     <string name="device_settings_weather_setting_sync">Обновление погоды</string>
     <string name="device_settings_weather_setting_sync_error_des">Не удалось получить данные о погоде? Обратитесь к Справке.</string>
     <string name="device_settings_weather_setting_sync_error_reson">Для получения данных о погоде на носимом устройстве выполните следующее.</string>
-    <string name="device_settings_weather_setting_sync_error_reson_location">1. Разрешите приложению доступ к местоположению.</string>
+    <string name="device_settings_weather_setting_sync_error_reson_location">1. Разрешите приложению использовать геолокацию</string>
     <string name="device_settings_weather_setting_sync_error_reson_location_service">2. Включите доступ к геолокации в Настройках телефона.</string>
     <string name="device_settings_weather_setting_sync_error_reson_sync">3. Откройте раздел «Устройство» в приложении и нажмите «Синхронизировать» (значок с круговыми стрелками).</string>
     <string name="device_settings_weather_temp">Ед. измерения температуры</string>
@@ -1302,31 +1259,20 @@ ID:%s
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_common">System error. Please try again later.</string>
+    <string name="error_common">Системная ошибка. Попробуйте позже.</string>
     <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Mi аккаунтом.</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_ese_route_disabled">ESE route is disabled</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_get_account">Failed to get account info</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_get_cplc">Failed to get SE information</string>
+    <string name="error_ese_route_disabled">ESE маршрутизация отключена</string>
+    <string name="error_get_account">Не удалось получить информацию об аккаунте</string>
+    <string name="error_get_cplc">Не удалось получить информацию о SE</string>
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_invalid_param">Invalid param.</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_network">"Couldn't connect to network."</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_nfc">System is busy. Please try again later.</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_nfc_disabled">NFC is disabled.</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_no_permission">No permission</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_recharge_failed">Top-up failed, please retry later.</string>
-<!-- ### FROM SOURCE -->
-    <string name="error_se_restricted">SE is restricted</string>
+    <string name="error_invalid_param">Неверный параметр</string>
+    <string name="error_network">Не удалось подключиться к сети</string>
+    <string name="error_nfc">Система занята. Попробуйте позже.</string>
+    <string name="error_nfc_disabled">NFC отключен</string>
+    <string name="error_no_permission">Отсутствует разрешение</string>
+    <string name="error_recharge_failed">Пополнение не удалось, попробуйте позже.</string>
+    <string name="error_se_restricted">SE ограничен</string>
     <string name="evening">День</string>
     <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
@@ -1474,7 +1420,7 @@ ID:%s
     <string name="feedback_mail">E-mail</string>
     <string name="feedback_mine_feedback">Обратная связь</string>
     <string name="feedback_other_type">Другое</string>
-    <string name="feedback_permission_location_desc">Ваше местоположение было использовано для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим устройством.</string>
+    <string name="feedback_permission_location_desc">Геоданные используются для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим устройством.</string>
     <string name="feedback_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
     <string name="feedback_permission_storage_feedback_log">Чтобы иметь возможность загружать журналы устройств, разрешите этому приложению доступ к хранилищу.</string>
     <string name="feedback_phone">Номер телефона</string>
@@ -1737,8 +1683,7 @@ ID:%s
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="for_diagnosis_usage_only">Журналы используются только для диагностики.</string>
-<!-- ### FROM SOURCE -->
-    <string name="fpan_duplicated_apply">Duplicated apply</string>
+    <string name="fpan_duplicated_apply">Дублирование</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -1748,56 +1693,32 @@ ID:%s
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
     <string name="google_application_id" />
     <string name="goto_sign_up">Создать аккаунт</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_add_day_time_empty">Pick a time</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_add_evety_day">Daily</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_add_holiday">Days off</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_add_time_empty">Set a reminder</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_add_work_day">Workdays</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_calendar_event_add_weekend_day_tip">This event repeats weekly on Sat &amp; Sun</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_calendar_event_add_work_day_tip">This event repeats every weekday (Mon—Fri)</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_calendar_event_reminder_location">View in Mi Фитнес</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_calendar_sync_alert">Add to Calendar</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_add_failed">"Couldn't add"</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_cancel">Cancel</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_confirm">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_known">Got it</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_load_data_failed">"Couldn't load data"</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_loading">Just a sec…</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_ok">OK</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_common_save">Save</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_days_0">"You're all set!"</string>
+    <string name="habit_add_day_time_empty">Выберите дни</string>
+    <string name="habit_add_evety_day">Ежедневно</string>
+    <string name="habit_add_holiday">Выходные дни</string>
+    <string name="habit_add_time_empty">Установить напоминание</string>
+    <string name="habit_add_work_day">Рабочие дни</string>
+    <string name="habit_calendar_event_add_weekend_day_tip">Повтор в выходные дни (сб-вс)</string>
+    <string name="habit_calendar_event_add_work_day_tip">Повтор в рабочие дни (пн-пт)</string>
+    <string name="habit_calendar_event_reminder_location">Посмотреть в Mi Фитнес</string>
+    <string name="habit_calendar_sync_alert">Добавить в Календарь</string>
+    <string name="habit_common_add_failed">Не удалось добавить</string>
+    <string name="habit_common_cancel">Отмена</string>
+    <string name="habit_common_confirm">ОК</string>
+    <string name="habit_common_known">Понятно</string>
+    <string name="habit_common_load_data_failed">Не удалось загрузить данные</string>
+    <string name="habit_common_loading">Подождите…</string>
+    <string name="habit_common_ok">ОК</string>
+    <string name="habit_common_save">Сохранить</string>
+    <string name="habit_days_0">Готово!</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_delete_confirm_my_habit">"Remove this habit? You'll lose your streak."</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_device_bind_no_network">Connect to the network and try again.</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit">Edit</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_all">Select all</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_back">Exit</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_finish">Back</string>
-<!-- ### FROM SOURCE -->
-    <string name="habit_edit_not_all">Deselect All</string>
+    <string name="habit_device_bind_no_network">Подключитесь к сети и повторите попытку</string>
+    <string name="habit_edit">Изменить</string>
+    <string name="habit_edit_all">Выбрать все</string>
+    <string name="habit_edit_back">Выход</string>
+    <string name="habit_edit_finish">Назад</string>
+    <string name="habit_edit_not_all">отмена</string>
 <!-- ### FROM SOURCE -->
     <string name="habit_go_and_add_one">Create your first habit</string>
 <!-- ### FROM SOURCE -->
@@ -2099,13 +2020,13 @@ ID:%s
     <string name="health_data_stand_unfinished">Вы не разминались</string>
     <string name="health_data_target_desc">%1$s</string>
     <string name="health_data_time_content_desc">Последний раз: %1$s | %2$s</string>
-    <string name="health_data_title_calendar_day">D</string>
-    <string name="health_data_title_calendar_month">П</string>
-    <string name="health_data_title_calendar_week">З</string>
-    <string name="health_data_title_day">D</string>
-    <string name="health_data_title_month">П</string>
-    <string name="health_data_title_statistic">Тренды</string>
-    <string name="health_data_title_week">З</string>
+    <string name="health_data_title_calendar_day">Д</string>
+    <string name="health_data_title_calendar_month">М</string>
+    <string name="health_data_title_calendar_week">Н</string>
+    <string name="health_data_title_day">день</string>
+    <string name="health_data_title_month">месяц</string>
+    <string name="health_data_title_statistic">Тренд</string>
+    <string name="health_data_title_week">неделя</string>
     <string name="health_data_type_altitude">Высота</string>
     <string name="health_data_type_blood_pressure">Артериальное давление</string>
     <string name="health_data_type_calorie">Калории</string>
@@ -2156,7 +2077,7 @@ ID:%s
     <string name="health_energy_summary_relax_duration">Отдых</string>
     <string name="health_energy_summary_sleep_duration">Сон</string>
     <string name="health_energy_type_activity">Тренировка</string>
-    <string name="health_energy_type_consume">Потребление</string>
+    <string name="health_energy_type_consume">Расход</string>
     <string name="health_energy_type_recovery">Восстановление</string>
     <string name="health_energy_type_stress">Стресс</string>
     <string name="health_environmental_noise_level">Уровни шума окружения</string>
@@ -2519,7 +2440,7 @@ ID:%s
     <string name="health_time">Время</string>
     <string name="health_title_subtitle">Каждый шаг имеет значение</string>
     <string name="health_total_sleep_duration">Время</string>
-    <string name="health_tracking_progress_labe_up_refresh">Секунду</string>
+    <string name="health_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="health_training_load">Тренировочная нагрузка</string>
     <string name="health_training_load_last_seven_days">Последние 7 дней</string>
     <string name="health_training_load_understand">Тренировочная нагрузка</string>
@@ -2527,19 +2448,19 @@ ID:%s
     <string name="health_vo2max_composite_grade">Уровень</string>
     <string name="health_vo2max_content">МПК — это максимальный объем потребляемого кислорода, измеренный во время тренировки с максимальной нагрузкой. МПК является показателем аэробной выносливости и работоспособности. Как правило, высокий показатель МПК означает, что вы можете тренироваться с более высокой интенсивностью, чем менее подготовленные люди.</string>
     <string name="health_vo2max_grade">Уровень</string>
-    <string name="health_vo2max_level_excellent">Превосходно</string>
-    <string name="health_vo2max_level_good">Норма</string>
-    <string name="health_vo2max_level_great">Хорошо</string>
-    <string name="health_vo2max_level_normal">Среднее</string>
-    <string name="health_vo2max_level_perfect">Изумительно</string>
-    <string name="health_vo2max_level_poor">Плохо</string>
-    <string name="health_vo2max_level_very_poor">Очень плохо</string>
+    <string name="health_vo2max_level_excellent">Отличный</string>
+    <string name="health_vo2max_level_good">Нормальный</string>
+    <string name="health_vo2max_level_great">Хороший</string>
+    <string name="health_vo2max_level_normal">Средний</string>
+    <string name="health_vo2max_level_perfect">Идеальный</string>
+    <string name="health_vo2max_level_poor">Плохой</string>
+    <string name="health_vo2max_level_very_poor">Оч. плохой</string>
     <string name="health_vo2max_month_index_change">Изменить</string>
     <string name="health_vo2max_understand_title">Подробнее</string>
     <string name="health_vo2max_unit">мл/кг/мин</string>
     <string name="health_vo2max_week_index_change">Изменить</string>
     <string name="health_wakeup_time_before_bed_time">Время окончания не может быть раньше времени начала.</string>
-    <string name="health_weight_data_title_day">Последний</string>
+    <string name="health_weight_data_title_day">Недавние</string>
     <string name="health_weight_indicator_change">Изменения</string>
     <string name="health_weight_measure_time">Время</string>
     <string name="health_weight_please_choose">Выбрать</string>
@@ -2547,7 +2468,7 @@ ID:%s
     <string name="health_weight_unit_kg">кг</string>
     <string name="heartrate">Пульс</string>
     <string name="heartrate_camera_permission_desc">Для получения данных о частоте изменения света вокруг пальца при помощи камеры для определения частоты пульса.</string>
-    <string name="heartrate_choose_detect_state">В каком состоянии вы находитесь?</string>
+    <string name="heartrate_choose_detect_state">В каком состоянии вы сейчас?</string>
     <string name="heartrate_cover_to_red">"Полностью закройте вспышку и камеру одним пальцем.
 Подождите, пока круг не станет красным."</string>
     <string name="heartrate_detect">Измерение пульса</string>
@@ -2690,7 +2611,7 @@ ID:%s
     <string name="login_enter_app">Начать</string>
     <string name="login_immediate_experience">Начать</string>
     <string name="login_kr_region">Южная Корея</string>
-    <string name="login_location_title">Доступ к местоположению</string>
+    <string name="login_location_title">Геолокация</string>
     <string name="login_location_title_des">Для отслеживания маршрутов и расстояния тренировок</string>
     <string name="login_login">Вход</string>
     <string name="login_next_step">Далее</string>
@@ -2710,20 +2631,20 @@ ID:%s
     <string name="login_privacy_optional_agree_use_location">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия сбора информации о местоположении&lt;/a> (необязательно).&lt;/Data></string>
     <string name="login_privacy_required_agree_collect_info">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия сбора и использования личной информации&lt;/a> (обязательно).&lt;/Data></string>
     <string name="login_privacy_required_agree_policy">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> (обязательно).&lt;/Data></string>
-    <string name="login_privacy_rights_des">Добро пожаловать в Mi Фитнес. Используйте это приложение для управления устройствами, отслеживания тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности. Для правильной работы этому приложению требуется подключение к интернету.</string>
-    <string name="login_privacy_rights_kr_des">Добро пожаловать в Mi Фитнес. Используйте это приложение для управления устройствами, отслеживания тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности.</string>
+    <string name="login_privacy_rights_des">Добро пожаловать в Mi Фитнес! Это приложение можно использовать для управления устройствами, записи тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности. Для правильной работы этому приложению требуется подключение к интернету.</string>
+    <string name="login_privacy_rights_kr_des">Добро пожаловать в Mi Фитнес! Это приложение можно использовать для управления устройствами, записи тренировок и просмотра данных об активности. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политиками конфиденциальности.</string>
     <string name="login_privacy_rights_statement">Пользовательское соглашение</string>
     <string name="login_privacy_update_tips">&lt;Data>&lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> обновлена. Чтобы полностью изучить свои права пользователя, а также то, как мы используем ваши данные, прочтите и примите обновленную Политику конфиденциальности, прежде чем продолжить.&lt;/Data></string>
     <string name="login_privacy_update_title">Обновленная Политика конфиденциальности</string>
     <string name="login_record_title">Записать аудио</string>
     <string name="login_record_title_des">Для записи храпа и голоса при анализе циклов сна</string>
-    <string name="login_region_auto_getting">Поиск местоположения…</string>
+    <string name="login_region_auto_getting">Геолокация…</string>
     <string name="login_region_change_des">Если вы измените регион, это приложение может перестать работать правильно, а некоторые из ваших устройств могут отключаться от телефона.</string>
     <string name="login_region_change_ok">Продолжить</string>
     <string name="login_region_change_service_title">Внимание!</string>
     <string name="login_region_country_select">Регион</string>
     <string name="login_region_recommend_lable">(Рекомендуется)</string>
-    <string name="login_region_select_des">Выбирайте свое местоположение внимательно. Функции и службы синхронизации настроены для вашего текущего региона.</string>
+    <string name="login_region_select_des">Выбирайте регион внимательно. Функции и службы синхронизации настроены для вашего текущего региона.</string>
     <string name="login_region_server_switch_des">Вы не сможете просматривать данные о здоровье на сопряженных устройствах и управлять их настройками с помощью этого приложения. Продолжить?</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_select_mode">Тема</string>
@@ -2761,7 +2682,7 @@ ID:%s
     <string name="mapbox_attributionsIconContentDescription">Значок атрибутов. Активируйте, чтобы показать диалог.</string>
     <string name="mapbox_compassContentDescription">Компас. Активируйте, чтобы развернуть карту на север.</string>
     <string name="mapbox_mapActionDescription">Отображает карту, созданную при помощи Mapbox. Пролистывайте двумя пальцами. Меняйте масштаб сведением пальцев.</string>
-    <string name="mapbox_myLocationViewContentDescription">Местоположение. Отображает вашу позицию на карте.</string>
+    <string name="mapbox_myLocationViewContentDescription">Геопозиция. Отображает вашу позицию на карте.</string>
     <string name="mapbox_offline_error_region_definition_invalid">Запрошенный OfflineRegionDefinition не входит в допустимые границы: %s</string>
     <string name="mapbox_telemetryImproveMap">Сделать эту карту лучше</string>
     <string name="mapbox_telemetrySettings">Настройки телеметрии</string>
@@ -3086,18 +3007,14 @@ ID:%s
     <string name="nfc_card_info_verify_fail">Проверьте сведения о банковской карте</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_intro_protocols">&lt;Data>Read and agree to &lt;a href=\"%1$s\">&lt;xliff:g id=card_name>%2$s&lt;/xliff:g> Terms of Service&lt;/a>.&lt;/Data></string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_issue_complete_back_to_mihome">Back to Mi Home</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_issue_complete_back_to_others">Back</string>
+    <string name="nfc_card_issue_complete_back_to_mihome">Вернуться в Mi Home</string>
+    <string name="nfc_card_issue_complete_back_to_others">Назад</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_issue_dialog_content_device_bluetooth_closed">"Can't connect to the device. Turn on Bluetooth and try again."</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_issue_dialog_milock_no_mihome_app_msg">Download Mi Home and complete key card setup in the app</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_issue_dialog_milock_support_msg">None</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_card_issue_dialog_milock_support_ok">Continue</string>
+    <string name="nfc_card_issue_dialog_milock_support_msg">Нет</string>
+    <string name="nfc_card_issue_dialog_milock_support_ok">Продолжить</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_issue_dialog_milock_support_title">Supported</string>
 <!-- ### FROM SOURCE -->
@@ -3116,7 +3033,7 @@ ID:%s
     <string name="nfc_card_issue_hint_success_default">Added successfully</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_issue_hint_success_milock">Complete key card setup in Mi Home</string>
-    <string name="nfc_card_issuing_global">Секунду</string>
+    <string name="nfc_card_issuing_global">Подождите…</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_card_list_cloud_trans_group_name">My cards</string>
 <!-- ### FROM SOURCE -->
@@ -3592,22 +3509,16 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="nfc_trans_card_title">Transport card</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_trans_uncomplite_order_msg">Continue with your previous account.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_transfer_in_btn">Add now?</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_transfer_in_title">Add</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_transit_card">Transport card</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_transit_card_add">Add</string>
+    <string name="nfc_transfer_in_btn">Добавить?</string>
+    <string name="nfc_transfer_in_title">Добавление</string>
+    <string name="nfc_transit_card">Транспортная карта</string>
+    <string name="nfc_transit_card_add">Добавить</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_un_support_card_type">"This card isn't supported"</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_union_card_pos_alert">Make wireless payments with Xiaomi Pay using UnionPay QuickPass</string>
     <string name="nfc_union_card_support_blank">Поддерживаемые банки</string>
-<!-- ### FROM SOURCE -->
     <string name="nfc_union_card_title">Mi Pay</string>
-<!-- ### FROM SOURCE -->
     <string name="nfc_union_card_title_">Xiaomi Pay</string>
     <string name="nfc_unionpay_show_msg">Чтобы добавить карту, потребуется предоставить такую информацию, как номер карты и номер вашего телефона. Это необходимо для связи с эмитентом карты и активации службы.</string>
     <string name="nfc_unlock_device_first">Сначала разблокируйте носимое устройство</string>
@@ -3630,7 +3541,6 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="nfc_validate_code_send_error_global">Не удалось отправить код. Повторите попытку.</string>
     <string name="nfc_validate_code_send_global">Код был отправлен на ваш телефон</string>
     <string name="nfc_validate_code_send_msg_global">Повторить</string>
-<!-- ### FROM SOURCE -->
     <string name="nfc_web_all_pay">UPay</string>
     <string name="nfc_wrist_lock_off_dialog_title">Установите цифровой код</string>
 <!-- ### FROM SOURCE -->
@@ -3717,8 +3627,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="notify_sms_reply_lowest_limit_tips">Оставьте хотя бы один ответ</string>
     <string name="ok">ОК</string>
     <string name="open_settings">Настройки</string>
-<!-- ### FROM SOURCE -->
-    <string name="otp_info_reverify">Your card has been verified</string>
+    <string name="otp_info_reverify">Карта проверена</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_label">Mi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
@@ -3811,15 +3720,15 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="passport_wrong_voice">Неверный код</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="permission_answer_phone_calls_info">Для использования этой функции разрешите приложению доступ к Телефону.</string>
-    <string name="permission_background_location_info">Для отслеживания прогресса тренировок приложению требуется доступ к данным о вашем местоположении. Выберите \"Всегда разрешать\", чтобы избежать возможных ошибок.</string>
+    <string name="permission_background_location_info">Для отслеживания прогресса тренировок разрешите приложению использовать геолокацию. Выберите \"Всегда разрешать\", чтобы избежать возможных ошибок.</string>
     <string name="permission_ble_calendar_read_info">Для использования этой функции разрешите приложению доступ к событиям календаря.</string>
     <string name="permission_call_phone_info">Для использования этой функции разрешите приложению доступ к Телефону.</string>
     <string name="permission_camera_info">Для использования этой функции разрешите приложению доступ к камере.</string>
     <string name="permission_get_user_account_info">Для использования этой функции разрешите приложению доступ к учетным записям на этом устройстве.</string>
     <string name="permission_grant_authorization_title">Требуются разрешения</string>
-    <string name="permission_location_desc">Ваше местоположение было использовано для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим устройством.</string>
-    <string name="permission_location_info">Для использования этой функции разрешите приложению доступ к вашему местоположению.</string>
-    <string name="permission_location_weather_msg">Для обновления данных о погоде разрешите этому приложению доступ к данным о вашем местоположении.</string>
+    <string name="permission_location_desc">Геоданные используются для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим устройством.</string>
+    <string name="permission_location_info">Для использования этой функции разрешите приложению использовать геолокацию</string>
+    <string name="permission_location_weather_msg">Для обновления данных о погоде разрешите этому приложению использовать геолокацию</string>
     <string name="permission_read_call_log_info">Для использования этой функции разрешите приложению доступ к журналу вызовов.</string>
     <string name="permission_read_contacts_info">Для использования этой функции разрешите приложению доступ к списку контактов.</string>
     <string name="permission_read_phone_state_info">Для использования этой функции разрешите приложению доступ к информации об устройстве.</string>
@@ -3861,9 +3770,9 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="privacy_permission_list_notice_alert_des">Для отправки уведомлений с телефона на носимое устройство</string>
     <string name="privacy_permission_list_read_phone_state_des">Для синхронизации состояния устройства с носимым устройством</string>
     <string name="privacy_permission_list_send_sms">Отправка SMS</string>
-    <string name="privacy_permission_list_send_sms_des">Для ответа на вызовы сообщением при помощи носимого устройства.</string>
-    <string name="privacy_permission_list_storage_des">Для сохранения изображений, видео маршрутов тренировок и журналов устройства.</string>
-    <string name="privacy_permission_location">Доступ к местоположению</string>
+    <string name="privacy_permission_list_send_sms_des">Для ответа на вызовы сообщением при помощи носимого устройства</string>
+    <string name="privacy_permission_list_storage_des">Для сохранения изображений, видео, маршрутов тренировок и журналов</string>
+    <string name="privacy_permission_location">Геолокация</string>
     <string name="privacy_permission_notice_alert">Доступ к уведомлениям</string>
     <string name="privacy_permission_phone_des">Для управления голосовыми вызовами при помощи носимого устройства</string>
     <string name="privacy_permission_read_call_log">Доступ к журналу вызовов</string>
@@ -4000,8 +3909,8 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_analyze">Повторите попытку позже</string>
     <string name="sport_app_not_install">Автоматическая настройка</string>
     <string name="sport_apparatus">Тренировки в зале</string>
-    <string name="sport_apply_location">Сначала включите службы определения местоположения</string>
-    <string name="sport_appsort_sync_failed">Сбой синхронизации.</string>
+    <string name="sport_apply_location">Сначала включите службы геолокации</string>
+    <string name="sport_appsort_sync_failed">Сбой синхронизации</string>
     <string name="sport_arm_bag">Рюкзак</string>
     <string name="sport_auto_pause">Автопауза</string>
     <string name="sport_avoid">Не рекомендуется</string>
@@ -4037,7 +3946,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_cycling_outdoor">Велосипед</string>
     <string name="sport_data_pace">Оповещения о темпе</string>
     <string name="sport_data_sport_generate_report">Создание сводки о тренировке…</string>
-    <string name="sport_data_sport_notification_name">Местоположение</string>
+    <string name="sport_data_sport_notification_name">Геопозиция</string>
     <string name="sport_data_sport_ongoing">Тренировка…</string>
     <string name="sport_detail_pace">Темп</string>
     <string name="sport_device_location_dialog_title">Требуются разрешения</string>
@@ -4059,8 +3968,8 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_folding_lock_detail">Сначала разложите беговую дорожку</string>
     <string name="sport_folding_lock_title">Внимание</string>
     <string name="sport_free_sport">Вольный</string>
-    <string name="sport_get_fitness_authorization">Для просмотра количества пройденных шагов разрешите этому приложению доступ к информации о вашей активности.</string>
-    <string name="sport_get_location_authorization">Чтобы отслеживать тренировки, разрешите этому приложению доступ к данным о местоположении.</string>
+    <string name="sport_get_fitness_authorization">Для просмотра количества пройденных шагов разрешите этому приложению доступ к информации о вашей активности</string>
+    <string name="sport_get_location_authorization">Чтобы отслеживать тренировки, разрешите этому приложению использовать геолокацию</string>
     <string name="sport_go">НАЧАТЬ</string>
     <string name="sport_go_experience">Начало</string>
     <string name="sport_go_install">Начало</string>
@@ -4068,8 +3977,8 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_go_sport">НАЧАТЬ</string>
     <string name="sport_goal">Цель</string>
     <string name="sport_got_it">Понятно</string>
-    <string name="sport_gps_enable">Определение местоположения отключено</string>
-    <string name="sport_gps_permission">Доступ к местоположению откл.</string>
+    <string name="sport_gps_enable">Геолокация отключена</string>
+    <string name="sport_gps_permission">Использование геолокации откл.</string>
     <string name="sport_gym">Беговая дорожка</string>
     <string name="sport_gym_name">Беговая дорожка</string>
     <string name="sport_gym_plaec">Разместите телефон на держателе, чтобы он мог обнаруживать вибрацию беговой дорожки и регистрировать шаги.</string>
@@ -4105,19 +4014,19 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_local_sport_setting_ownerless_record">Синхронизация активностей</string>
     <string name="sport_local_sport_setting_screen_on_des">Не выключать телефон.</string>
     <string name="sport_local_sport_setting_speed_nolimit">Нет</string>
-    <string name="sport_local_sport_setting_voice_speech_des">Озвучивать расстояние каждый километр.</string>
-    <string name="sport_location_fail_info">Для использования этой службы разрешите приложению доступ к данным о местоположении.</string>
+    <string name="sport_local_sport_setting_voice_speech_des">Озвучивать расстояние каждый километр</string>
+    <string name="sport_location_fail_info">Для использования этой службы разрешите приложению использовать геолокацию</string>
     <string name="sport_location_permission">Требуются разрешения</string>
     <string name="sport_lock_screen_guide">Управление уведомлениями</string>
     <string name="sport_lock_screen_not_show_data">Измените разрешения приложения, чтобы просматривать данные в реальном времени на экране блокировки.</string>
     <string name="sport_lock_screen_swipe_unlcok">Проведите вверх для разблокировки</string>
     <string name="sport_lock_screen_switch">Показывать на экране блокировки</string>
-    <string name="sport_main_request_location_msg">Для записи карты маршрута тренировок разрешите этому приложению доступ к данным о местоположении.</string>
+    <string name="sport_main_request_location_msg">Для записи карты маршрута тренировок разрешите приложению использовать геолокацию</string>
     <string name="sport_manager_disconnect">Устройство отключено</string>
     <string name="sport_metronome">Метроном</string>
     <string name="sport_miji_treadmill">Mi Treadmill</string>
     <string name="sport_mijia_treadmill">Mi Treadmill</string>
-    <string name="sport_mobile_phone_placement_advice">Куда следует поместить телефон?</string>
+    <string name="sport_mobile_phone_placement_advice">Где поместить устройство?</string>
     <string name="sport_no_gps_describe">Слабый сигнал GPS. Выйдите на открытое пространство.</string>
     <string name="sport_no_see">Отклонить</string>
     <string name="sport_no_signal">Не удалось определить геопозицию.</string>
@@ -4130,12 +4039,12 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_pace">/км</string>
     <string name="sport_pace_remind_titles">Оповещения о темпе</string>
     <string name="sport_pace_reminder_info">Уведомлять, когда темп ниже выбранного.</string>
-    <string name="sport_permission_location_sportpath">Чтобы отслеживать тренировки, разрешите этому приложению доступ к данным о местоположении.</string>
+    <string name="sport_permission_location_sportpath">Чтобы отслеживать тренировки, разрешите этому приложению использовать геолокацию</string>
     <string name="sport_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
     <string name="sport_permission_tip">Разрешите приложению отправлять всплывающие сообщения, отображать информацию на экране блокировки, а также отображать всплывающие окна во время работы в фоновом режиме.</string>
-    <string name="sport_phone_plaec">Куда следует поместить телефон?</string>
-    <string name="sport_placement_suggestions">Куда следует поместить телефон?</string>
-    <string name="sport_position_fun">Определение местоположения отключено</string>
+    <string name="sport_phone_plaec">Где поместить устройство?</string>
+    <string name="sport_placement_suggestions">Где поместить устройство?</string>
+    <string name="sport_position_fun">Геолокация отключена</string>
     <string name="sport_press_gym_button">Нажмите кнопку</string>
     <string name="sport_privacy_agreement">Политика конфиденциальности</string>
     <string name="sport_privacy_risk_dialog_negative_text">Отмена</string>
@@ -4148,7 +4057,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_receive_sport_report">Синхронизация активностей</string>
     <string name="sport_receive_sport_report_detail1">Есть несинхронизированные активности на %s</string>
     <string name="sport_receive_sport_report_detail2">Можно просмотреть их позже в Настройки > Синхронизация активностей</string>
-    <string name="sport_recommended_use">Рекомендуемое</string>
+    <string name="sport_recommended_use">Рекомендуется</string>
     <string name="sport_reconnect">Соединение…</string>
     <string name="sport_record_all">Все</string>
     <string name="sport_reject">Запретить</string>
@@ -4195,7 +4104,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="sport_update_progress_expression">Загружено &lt;xliff:g id=\"download progress\">%1$d&lt;/xliff:g>%%</string>
     <string name="sport_upload_failure">Сбой загрузки</string>
     <string name="sport_user_guide">Справка</string>
-    <string name="sport_valid">Mi Фитнес требуется получить данные более длительной активности со сменой местоположения.</string>
+    <string name="sport_valid">Mi Фитнес требуются данные более длительной активности со сменой местоположения</string>
     <string name="sport_voice_broadcast">Звуковое оповещение</string>
     <string name="sport_waist_bag">Поясная сумка</string>
     <string name="sport_walk_distance">Расстояние</string>
@@ -4489,11 +4398,11 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="trail_sport_feedback_lable8">Другие</string>
     <string name="trail_sport_feedback_lable_title_new">Что-то пошло не так?</string>
     <string name="trail_sport_feedback_level">Оцените</string>
-    <string name="trail_sport_feedback_level_common">Среднее</string>
+    <string name="trail_sport_feedback_level_common">Средне</string>
     <string name="trail_sport_feedback_level_good">Хорошо</string>
-    <string name="trail_sport_feedback_level_nice">Превосходно</string>
+    <string name="trail_sport_feedback_level_nice">Отлично</string>
     <string name="trail_sport_feedback_level_poor">Плохо</string>
-    <string name="trail_sport_feedback_level_verypoor">Очень плохо</string>
+    <string name="trail_sport_feedback_level_verypoor">Оч. плохо</string>
     <string name="trail_sport_feedback_phone_num">Номер телефона</string>
     <string name="trail_sport_feedback_select_label_toast">Вы можете выбрать до 3 элементов</string>
     <string name="trail_sport_feedback_thanks">Спасибо за ваш отзыв</string>
@@ -4516,7 +4425,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="trail_sport_group_title">Обзор</string>
     <string name="trail_sport_hang_in_air_duration">Время в воздухе</string>
     <string name="trail_sport_list_record">Показать все</string>
-    <string name="trail_sport_location_amap">Определение местоположение Amap</string>
+    <string name="trail_sport_location_amap">Геолокация Amap</string>
     <string name="trail_sport_max_cadence_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_height_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_rate_desc">Макс.: %1$s</string>

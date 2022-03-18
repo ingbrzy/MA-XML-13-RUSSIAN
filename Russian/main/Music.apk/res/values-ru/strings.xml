@@ -323,7 +323,7 @@
     <string name="download_manage_item_complete">ЗАГРУЖЕНО</string>
     <string name="download_method">Загрузка</string>
     <string name="download_no_application_title">Не удалось открыть файл</string>
-    <string name="download_paused_in_power_save_mode">Останавливать при включении экономии энергии</string>
+    <string name="download_paused_in_power_save_mode">Останавливать при включении экономии заряда</string>
     <string name="download_processing">Загрузка…</string>
     <string name="download_quality">Качество загрузок</string>
     <string name="download_quality_summary">Дополнительные настройки для загруженных треков</string>
@@ -953,7 +953,7 @@
     <string name="other_song_in_album">Другие треки из этого альбома</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="paused_by_app">Пауза</string>
-    <string name="paused_in_power_save_mode">Останавливать при включении экономии энергии</string>
+    <string name="paused_in_power_save_mode">Останавливать при включении экономии заряда</string>
     <string name="paused_insufficient_space">Ожидание</string>
     <string name="paused_queued_for_wifi">Ожидание подключения</string>
     <string name="paused_unknown">Пауза</string>
