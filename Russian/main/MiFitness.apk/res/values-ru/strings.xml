@@ -177,7 +177,7 @@
     <string name="access_thirdparty_wechat_help_2">Чтобы отсканировать QR-код, нажмите Сканировать в WeChat, выберите значок альбома в правом нижнем углу и нажмите на изображение QR-кода.</string>
     <string name="access_thirdparty_wechat_save_qr">Сохранить</string>
     <string name="access_unbind_dialog_msg">Данные о ваших шагах не будут больше синхронизироваться с WeChat</string>
-    <string name="access_unbind_success">Успешно отключено</string>
+    <string name="access_unbind_success">Отключено</string>
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -244,8 +244,8 @@
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="cancel">Отмена</string>
     <string name="card_recharge_promo_code_exhausted">Вы немного опоздали, подождите следующей акции</string>
-    <string name="card_status_no_apply_privilege">Статус вашей карты не дает привилегий для использования в бизнесе</string>
-    <string name="card_type_no_apply_privilege">Ваш тип карты не имеет привилегий для использования в бизнесе</string>
+    <string name="card_status_no_apply_privilege">Статус вашей карты не имеет привилегий в бизнесе</string>
+    <string name="card_type_no_apply_privilege">Тип вашей карты не имеет привилегий в бизнесе</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Изменить пароль</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
@@ -295,7 +295,7 @@
     <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
     <string name="common_hint_battery_low">Батарея разряжена</string>
     <string name="common_hint_device_busy">Повторите попытку позже</string>
-    <string name="common_hint_device_removed">Устройство было удалено</string>
+    <string name="common_hint_device_removed">Устройство удалено</string>
     <string name="common_hint_network_unavailable">Проверьте сетевое подключение</string>
     <string name="common_hint_storage_low">Недостаточно места</string>
     <string name="common_hint_unkonwn_error">Произошла ошибка. Повторите попытку позже.</string>
@@ -788,7 +788,7 @@
     <string name="device_settings_common_has_open">Готово</string>
     <string name="device_settings_common_heart_rate">Пульс</string>
     <string name="device_settings_common_hint">Предупреждение</string>
-    <string name="device_settings_common_hint_device_removed">Устройство было удалено</string>
+    <string name="device_settings_common_hint_device_removed">Устройство удалено</string>
     <string name="device_settings_common_hint_device_unconnect">Подключите устройство и повторите попытку.</string>
     <string name="device_settings_common_hint_is_discard_change">Обнаружены несохраненные изменения</string>
     <string name="device_settings_common_hint_no_data">Повторите попытку позже</string>
@@ -2587,7 +2587,7 @@ ID:%s
     <string name="loading">Подождите…</string>
     <string name="lock_support_description2">Медкарта не отображается на экране блокировки?</string>
     <string name="log_off_account_failure">Ошибка удаления аккаунта</string>
-    <string name="log_off_account_success">Аккаунт успешно удален</string>
+    <string name="log_off_account_success">Аккаунт удален</string>
     <string name="login_account_desc">Войдите в Mi аккаунт, чтобы воспользоваться этой функцией. Выполнить вход?</string>
     <string name="login_by_local_phone_long_text">Войти в систему</string>
     <string name="login_by_local_phone_short_text">Войти</string>
@@ -3113,7 +3113,7 @@ ID:%s
     <string name="nfc_common_cancle">Отмена</string>
     <string name="nfc_common_complete">Готово</string>
     <string name="nfc_common_confirm">ОК</string>
-    <string name="nfc_common_copid">Успешно скопировано</string>
+    <string name="nfc_common_copid">Скопировано</string>
     <string name="nfc_common_hint">Предупреждение</string>
     <string name="nfc_common_hint_device_unconnect">Подключите носимое устройство и повторите попытку</string>
     <string name="nfc_common_hint_hold_on">Держите носимое устройство подключенным</string>
@@ -3149,26 +3149,21 @@ ID:%s
     <string name="nfc_device_card_and_pay">Карты</string>
     <string name="nfc_device_card_number_mul">Номер аккаунта устройства</string>
     <string name="nfc_device_status_connected">Подключено</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_door_card">Key cards</string>
+    <string name="nfc_door_card">Карточки-ключи</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_door_card_battery_not_enough">Battery below 20%. Add the card on your phone.</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_door_card_battery_sync_error">Add the card on your phone.</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_door_card_protocol_dialog_content_contain">"&lt;Data> I agree to be liable for any damage or loss arising from the illegal or inappropriate use of the key card service.&lt;br>I've read and agreed to&lt;a href=\"%1$s\">Key Card User Agreement&lt;/a>.&lt;br>&lt;/Data>"</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_door_card_protocol_dialog_title">Attention</string>
+    <string name="nfc_door_card_protocol_dialog_title">Внимание</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_dot">.</string>
     <string name="nfc_email_receive_code">E-mail</string>
     <string name="nfc_entrance_card_delete_success">Удалено</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_entrance_card_emulation">Key cards</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_entrance_card_install_success">Added successfully</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_entrance_card_name_company">Company</string>
+    <string name="nfc_entrance_card_emulation">Карточки-ключи</string>
+    <string name="nfc_entrance_card_install_success">Добавлено</string>
+    <string name="nfc_entrance_card_name_company">Компания</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_entrance_card_name_company_tsm">公司</string>
 <!-- ### FROM SOURCE -->
@@ -3197,8 +3192,7 @@ ID:%s
     <string name="nfc_entrance_card_read_title">Rest the back of your phone on your key card</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_entrance_card_rename">Label</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_entrance_card_start_copy">Add</string>
+    <string name="nfc_entrance_card_start_copy">Добавить</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_entrance_card_support_alert"><u>Supported key cards</u></string>
 <!-- ### FROM SOURCE -->
@@ -3214,15 +3208,12 @@ ID:%s
     <string name="nfc_id_check_title_global">Подтверждение</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_invalid_value">Invalid value</string>
-<!-- ### FROM SOURCE -->
     <string name="nfc_key_text_x">X</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_lin_nan_card_location_dialog_msg">Allow access to location first</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_loading_cards">Loading…</string>
+    <string name="nfc_loading_cards">Загрузка…</string>
     <string name="nfc_locale_not_support">В настоящее время карты Mastercard не поддерживаются в вашем регионе.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_manager_card">Cards</string>
+    <string name="nfc_manager_card">Карты</string>
     <string name="nfc_master_card_2000_expired_session">Время ожидания истекло. Удалите карту и добавьте ее снова.</string>
     <string name="nfc_master_card_2000_incorrect_code_retries_exceeded">Слишком много неудачных попыток. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить ее снова.</string>
     <string name="nfc_master_card_2000_incorrect_tav">Ваш запрос был отклонен банком. Свяжитесь с эмитентом или потрошите попытку позже.</string>
@@ -3248,39 +3239,28 @@ ID:%s
     <string name="nfc_mi_pay_user_proto_master_new">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Политику конфиденциальности %2$s&lt;/a> и &lt;a href=\"%3$s\">Пользовательское соглашение %4$s&lt;/a>.&lt;/Data></string>
     <string name="nfc_mi_pay_user_proto_privacy">Политика конфиденциальности</string>
     <string name="nfc_mi_pay_user_proto_user">Пользовательское соглашение</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_mifare_issue_dialog_msg">Your phone is NFC-enabled. You can add the card on your phone.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_mifare_issue_dialog_phone">Phone</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_mifare_issue_dialog_wear">Wearable device</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_mifare_issue_nfc_off_msg">Turn on NFC on your phone</string>
+    <string name="nfc_mifare_issue_dialog_msg">Устройство поддерживает NFC. Можно добавить карту на устройство.</string>
+    <string name="nfc_mifare_issue_dialog_phone">Устройство</string>
+    <string name="nfc_mifare_issue_dialog_wear">Носимое устройство</string>
+    <string name="nfc_mifare_issue_nfc_off_msg">Включите NFC на устройстве</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_mifare_issue_no_nfc_feature">"Your phone doesn't support NFC function. The card information couldn't be read. Use a phone that supports NFC and try again."</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_new_mifare_v3_title_start">Rest your key card on the screen</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_new_pay_name">Order</string>
+    <string name="nfc_new_pay_name">Заказ</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_new_pay_order_detail">Pay %1$s | Amount: %2$.2f CNY | Top up: %3$.2f CNY</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_nextpay_card_recharge_btn_unit_text">Pay %1$.2f CNY</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_card_recharge_coupon_item_text">Coupons</string>
-<!-- ### FROM SOURCE -->
+    <string name="nfc_nextpay_card_recharge_coupon_item_text">Купоны</string>
     <string name="nfc_nextpay_card_recharge_issue_text">%1$.2f</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_card_recharge_recharge_info">Select amount (CNY)</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_choose_city_title">Select city</string>
+    <string name="nfc_nextpay_card_recharge_recharge_info">Выберите сумму (CNY)</string>
+    <string name="nfc_nextpay_choose_city_title">Выберите город</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_nextpay_coupon_error_title_content">"No coupons available
 Get one on Mi Wallet official account in WeChat"</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_coupon_not_use_btn_text">Not now</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_coupon_not_use_item_text">Not now</string>
+    <string name="nfc_nextpay_coupon_not_use_btn_text">Не сейчас</string>
+    <string name="nfc_nextpay_coupon_not_use_item_text">Не сейчас</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_nextpay_coupon_use_desc">*Only one coupon can be used per transaction.</string>
 <!-- ### FROM SOURCE -->
@@ -3291,19 +3271,14 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="nfc_nextpay_mifare_card_rename_select_art_info_tips">Select card image</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_nextpay_more_settings_balance_tips">Low balance alert</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_more_settings_copy_no">Copy</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_more_settings_copy_no_success">Copied</string>
+    <string name="nfc_nextpay_more_settings_copy_no">Копировать</string>
+    <string name="nfc_nextpay_more_settings_copy_no_success">Скопировано</string>
     <string name="nfc_nextpay_more_settings_help">Часто задаваемые вопросы</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_transfer_out_btn_accept">Remove</string>
+    <string name="nfc_nextpay_transfer_out_btn_accept">Удалить</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_nextpay_transfer_out_desc">You can always add the card again without losing the remaining value and transaction history.</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_transfer_out_intro_title">Remove card</string>
-<!-- ### FROM SOURCE -->
-    <string name="nfc_nextpay_transfer_out_progress_title">Removing</string>
+    <string name="nfc_nextpay_transfer_out_intro_title">Удаление карты</string>
+    <string name="nfc_nextpay_transfer_out_progress_title">Удаление</string>
 <!-- ### FROM SOURCE -->
     <string name="nfc_nextpay_transfer_out_title">Move between devices</string>
     <string name="nfc_not_active_bank_card_content_new">Для добавления карты в %1$s необходимо подтверждение через SMS. Вы можете продолжить настройку в течение 24 часов.</string>
@@ -3824,7 +3799,7 @@ Get one on Mi Wallet official account in WeChat"</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
-    <string name="send_email_activate_message">Сообщение для подтверждения успешно отправлено</string>
+    <string name="send_email_activate_message">Сообщение для подтверждения отправлено</string>
     <string name="sending">Отправка…</string>
     <string name="service_error">Ошибка сервера</string>
     <string name="service_unavailable">служба недоступна</string>
