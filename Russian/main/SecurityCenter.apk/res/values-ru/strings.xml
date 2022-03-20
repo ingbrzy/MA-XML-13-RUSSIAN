@@ -3293,7 +3293,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_batteryrank_software">Программы: %s</string>
     <string name="power_center_batteryscan_normal">Проблемы не найдены. Посмотреть результаты.</string>
     <string name="power_center_charge_status">Зарядка</string>
-    <string name="power_center_charge_time">%1$sдо полной зарядки</string>
+    <string name="power_center_charge_time">%1$sдо конца зарядки</string>
     <string name="power_center_consume_fast">Быстрый разряд</string>
     <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить экономию заряда?</string>
     <string name="power_center_dialog_msg_title">Включите, чтобы увеличить время работы на %1$s. Для экономии заряда будут выполнены следующие действия:</string>
