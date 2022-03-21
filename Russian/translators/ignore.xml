@@ -2016,6 +2016,7 @@
     <string name="default_imap">IMAP</string>
     <string name="default_language">@string/language_value_chinese_cn</string>
     <string name="default_localization_key">system</string>
+    <string name="default_lock_mi_wallpaper_path">/system/media/theme/default/lock_wallpaper</string>
     <string name="default_lock_wallpaper_path">/system/media/theme/default/lock_wallpaper</string>
     <string name="default_long_trace_duration">30</string>
     <string name="default_long_trace_size">10240</string>

@@ -55,6 +55,7 @@
     <string name="back">Назад</string>
     <string name="backup_introduction">Это приложение можно использовать для сохранения резервных копий на устройстве и восстановления из них.</string>
     <string name="bluetooth_introduction">Bluetooth используется системой для беспроводной связи. Для нормальной работы Bluetooth необходимы следующие разрешения:</string>
+    <string name="bluetooth_usage_desc">Первоначальная настройка устанавливает основные настройки для устройства. Для успешной настройки системным службам Bluetooth необходимы следующие разрешения:</string>
     <string name="boot_video_desc" />
     <string name="boot_video_replay">Повтор</string>
     <string name="boot_video_skip">Пропустить</string>
@@ -119,6 +120,7 @@
     <string name="enable_accessibility_dialog_message">Вы включили TalkBack, нажимая на экран двумя пальцами дольше 10 секунд. TalkBack – это голосовой сервис для людей с нарушением зрения. Если вы случайно включили его, нажмите кнопку \"Отмена\", а затем дважды коснитесь экрана.</string>
     <string name="enable_accessibility_dialog_negative_btn">Отмена</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_or_disable_bluetooth">Включение/выключение Bluetooth</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
@@ -186,6 +188,7 @@
     <string name="mint_keyboard_oobe_checkbox">Я принимаю политику конфиденциальности Mint Keyboard</string>
     <string name="mint_keyboard_oobe_terms">Политика конфиденциальности Mint Keyboard</string>
     <string name="miui_privacy_policy_no_network">Нет подключения к интернету. Ознакомьтесь с Политикой конфиденциальности на %s.</string>
+    <string name="miui_provision">Первоначальная настройка</string>
     <string name="miui_terms_no_network">Нет подключения к интернету. Ознакомьтесь с Пользовательским соглашением на %s.</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -330,6 +333,7 @@
     <string name="permission_direct_call">Вызовы</string>
     <string name="permission_direct_call_introduction">Для добавления записей в список блокировки</string>
     <string name="permission_download_introduction">Для кэширования загруженных элементов и сохранения на устройстве</string>
+    <string name="permission_enable_disable_bluetooth_summary">Для поиска устройств поблизости, для подключения и передачи данных</string>
     <string name="permission_fast_pairing">Для поиска устройств поблизости, Mi Link требуются подключение к интернету и следующие разрешения:</string>
     <string name="permission_imei_service">Для доступа к IMEI для предоставления сервисов, связанных с устройством</string>
     <string name="permission_interaction_introduction">Для сохранения фото и видео на устройство</string>
