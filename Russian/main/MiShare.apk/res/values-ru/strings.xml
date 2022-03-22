@@ -165,6 +165,8 @@
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_title">Сведения о разрешениях</string>
     <string name="menu_item_privacy_title">Политика конфиденциальности</string>
+    <string name="menu_new_display_open">Открыть в новом окне</string>
+    <string name="menu_pc_open">Открыть на ПК</string>
     <string name="mi_10i">Mi 10I</string>
     <string name="mi_10t">Mi 10T</string>
     <string name="mi_10t_lite">Mi 10T Lite</string>
@@ -204,6 +206,7 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
     <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
@@ -268,8 +271,10 @@
     <string name="operate_too_fast">Дождитесь завершения текущих операций</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="pad_device_model_name">Xiaomi Pad</string>
-    <string name="pc_device_model_name">Компьютер</string>
+    <string name="pad_device_model_name">Планшет Xiaomi</string>
+    <string name="pc_device_model_name">ПК</string>
+    <string name="pc_redmi_device_model_name">Ноутбук Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Ноутбук Xiaomi</string>
     <string name="permission_denied_hint">Предоставьте необходимые разрешения для использования Mi Share</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="purpose">"Добро пожаловать в приложение Mi Share! С помощью этого приложения вы можете передавать файлы между устройствами. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.
@@ -327,6 +332,8 @@
     <string name="scanning_device_tips">Поиск устройства поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
     <string name="scanning_only_xiaomi_device">Вы можете предавать файлы только на устройства Xiaomi или Black Shark</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="seize_content">Прекратить трансляцию содержимого экрана для возможности передачи файлов?</string>
+    <string name="seize_title">Прекращение трансляции</string>
     <string name="send">Отправить</string>
     <string name="send_file">ОТПРАВИТЬ ФАЙЛ</string>
     <string name="send_files_by">Отправить через</string>

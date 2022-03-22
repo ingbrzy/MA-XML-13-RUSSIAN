@@ -1039,6 +1039,7 @@
     <string-array name="pref_video_quality_entries"></string-array>
     <string-array name="pref_video_quality_entryvalues"></string-array>
     <string-array name="pref_video_time_lapse_frame_interval_entries"></string-array>
+    <integer-array name="pref_video_time_lapse_frame_interval_entries_replaced"></integer-array>
     <string-array name="pref_video_time_lapse_frame_interval_entryvalues"></string-array>
     <string-array name="prefer_inputmethod_list"></string-array>
     <string-array name="prefer_inputmethod_list_cm_customized"></string-array>
@@ -1284,6 +1285,7 @@
     <integer-array name="support_networktypes_gsm_vice"></integer-array>
     <string-array name="support_rotate_calibrate_devices"></string-array>
     <string-array name="support_settings_haptic_device_list"></string-array>
+    <string-array name="support_size_compat_device_list"></string-array>
     <string-array name="support_sound_version"></string-array>
     <string-array name="support_speaker_auto_clean_device_list"></string-array>
     <string-array name="support_super_wallpaper_devices"></string-array>

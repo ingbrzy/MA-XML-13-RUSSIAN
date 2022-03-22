@@ -1507,7 +1507,7 @@
     <string name="preference_privacy_settings_title">Конфиденциальность</string>
     <string name="preference_remove_duplicate">Объединение дубликатов</string>
     <string name="preference_show_firewall_calllog">Показывать заблокированные вызовы в журнале</string>
-    <string name="preference_show_yellowpage_tab_description">Если эта функция отключена, Справочник может не работать должным образом</string>
+    <string name="preference_show_yellowpage_tab_description">Если эта функция отключена, Желтые страницы и связанные с ними сервисы будут недоступны</string>
     <string name="preference_show_yellowpage_tab_title">Показывать Справочник</string>
     <string name="preference_simple_mode_description">Показывать фото и данные контактов в режиме списка</string>
     <string name="preference_simple_mode_title">Фото контактов</string>
@@ -1524,6 +1524,7 @@
     <string name="preference_telocation_summary_teloc_on">Показывать местоположение контакта</string>
     <string name="preference_telocation_title">Настройки местоположения</string>
     <string name="preference_tone_title">Звуки</string>
+    <string name="preference_yellowpage_function_setting">Настройки Желтых страниц</string>
     <string name="premission_description_agree">Разрешить этому приложению подключение к интернету и обязательные разрешения, перечисленные выше.</string>
     <string name="premission_description_calendar">Для добавления и отображения мероприятий</string>
     <string name="premission_description_contact">Для отображения дней рождения ваших контактов</string>

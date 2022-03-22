@@ -653,6 +653,7 @@
     <string name="recents_title_security_scan">Антивирус</string>
     <string name="recents_tv_small_window_text">Плавающие окна</string>
     <string name="recents_worldcirculate_text">Отпустите, чтобы выбрать</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
     <string name="recnets_worldcirculate_display_computer_info">Приложение работает на %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Нажмите, чтобы вернуть его сюда.</string>
     <string name="recnets_worldcirculate_display_pad_info">Приложение работает на %s.</string>

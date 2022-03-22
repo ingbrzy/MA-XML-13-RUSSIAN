@@ -814,6 +814,7 @@
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
     <string name="progress_scanning">Поиск…</string>
+    <string name="prompt_desc">Использование этой функции потребует около %s МБ мобильного трафика. Продолжить загрузку?</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="request_uninstall">Запрос удаления модуля</string>
     <string name="reset_function_msg">Перезапуск этой функции может нарушить работу %1$s.</string>
@@ -1096,6 +1097,7 @@
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
     <string name="wapi_yes">да</string>
+    <string name="warm_prompt">Совет</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

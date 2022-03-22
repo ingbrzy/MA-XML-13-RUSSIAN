@@ -497,6 +497,9 @@
         <item quantity="one">Выбран %d элемент</item>
         <item quantity="few">Выбрано %d элемента</item>
     </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Поиск приложений</item>
+    </plurals>
     <plurals name="seconds">
         <item quantity="other">%s секунд</item>
         <item quantity="one">%s секунда</item>

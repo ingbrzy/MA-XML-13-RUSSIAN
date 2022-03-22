@@ -1393,6 +1393,7 @@ mm"</string>
     <string name="theme_detail_tab_comment">Отзывы</string>
     <string name="theme_detail_tab_recommend">Рекомендуемые</string>
     <string name="theme_detail_tab_theme">Подробности</string>
+    <string name="theme_detail_widget_title">Виджет</string>
     <string name="theme_empty_redirect">Вернуться в Темы</string>
     <string name="theme_favorite_add_fail">Ошибка добавления в Избранные</string>
     <string name="theme_favorite_add_success">Добавлено в избранные</string>
