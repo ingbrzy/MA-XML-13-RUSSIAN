@@ -1724,7 +1724,7 @@
     <string name="msim_pref_title_voice">Вызовы</string>
     <string name="msim_select_default_time_left">(%d сек.)</string>
     <string name="msim_set_icc_card_error">Ошибка карты ICC</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">Операция недоступна во время вызова</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Недоступно во время вызова</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Ошибка SIM-карты</string>
     <string name="msim_setting_categery_title">Настройки SIM-карт</string>
     <string name="msim_setting_default_data">Интернет</string>

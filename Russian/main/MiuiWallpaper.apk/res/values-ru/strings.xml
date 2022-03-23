@@ -41,7 +41,6 @@
     <string name="download_button">Загрузка</string>
     <string name="download_failed">Сбой загрузки</string>
     <string name="early_morning">Утро</string>
-    <string name="earth_id">earth</string>
     <string name="earth_summary">Колыбель человеческой цивилизации</string>
     <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">Земля</string>
@@ -69,7 +68,6 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="game_view_content_description">Просмотр игры</string>
-    <string name="geometry_id">geometry</string>
     <string name="geometry_summary">Формы, свет и краски</string>
     <string name="geometry_super_wallpaper_label">Геометрия</string>
     <string name="geometry_title">Геометрия</string>
@@ -184,13 +182,11 @@ mm"</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
-    <string name="saturn_id">saturn</string>
     <string name="saturn_summary">Кольца Сатурна — это по-настоящему завораживающее зрелище</string>
     <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Сатурн</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
-    <string name="snowmountain_id">snowmountain</string>
     <string name="snowmountain_summary">Залитые солнцем склоны горы Сигунян</string>
     <string name="snowmountain_super_wallpaper_label">Заснеженные вершины</string>
     <string name="snowmountain_title">Заснеженные вершины</string>

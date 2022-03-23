@@ -80,7 +80,6 @@
     <string name="congratulation_swipe">Проведите вверх для входа в систему</string>
     <string name="congratulation_title">Настройка завершена</string>
     <string name="content_description_complete">Готово</string>
-    <string name="content_description_miui_version">MIUI 11</string>
     <string name="content_description_start">Начать</string>
     <string name="content_introduction">Контент-центр объединяет контент и сервисы из нескольких каналов. Здесь вы можете читать статьи, смотреть видео, просматривать ежедневные популярные статьи и получать рекомендации по контенту.</string>
     <string name="continue_to_enable_accessibility">Продолжайте нажимать на экран двумя пальцами для включения помощника.</string>
@@ -175,7 +174,6 @@
     <string name="language_settings">Выберите язык</string>
     <string name="locale_picker_other_locale_title">Другие регионы</string>
     <string name="locale_picker_title">Выберите ваш регион</string>
-    <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">В соответствии с законом, операторы мобильной связи могут получать информацию о местоположении мобильных устройств для выполнения требований аварийно-спасательных органов (пожарных частей и полиции), которые преследуют цели обеспечения безопасности и аварийно-спасательных работ.</string>
     <string name="location_introduction">Службы на основе геолокации позволяют находить услуги рядом с вами</string>
     <string name="location_location">Аварийно-спасательные службы могут получить ваше текущее местоположение по запросу</string>

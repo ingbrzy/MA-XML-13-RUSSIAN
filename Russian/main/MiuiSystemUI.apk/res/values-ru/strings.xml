@@ -770,7 +770,6 @@
     <string name="config_cameraGesturePackage" />
     <string name="config_cameraProtectionExcludedPackages" />
     <string name="config_frontBuiltInDisplayCutoutProtection" />
-    <string name="config_navBarLayout">налево,назад;домой;недавние,направо</string>
     <string name="config_persistentDockedActivityIntentUri" />
     <string name="config_preferredEmergencySosPackage" />
     <string name="config_protectedCameraId" />
@@ -791,7 +790,6 @@
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="control_center_notification_switch_guide">Переход между центром и шторкой</string>
-    <string name="control_quick_settings_tiles_super_save">gps,nfc,скриншот,вибрация</string>
     <string name="controls_added_tooltip">Откройте Быстрые настройки, чтобы увидеть новые элементы управления</string>
     <string name="controls_confirmation_confirming">Подтверждение…</string>
     <string name="controls_confirmation_message">Подтвердите изменение для %s</string>
@@ -2338,7 +2336,7 @@ mm"</string>
     <string name="qs_dnd_replace">Заменить</string>
     <string name="qs_dnd_until">До %s</string>
     <string name="qs_edit">Сортировка</string>
-    <string name="qs_open_night_mode_alert_summary">"Некоторые настройки дисплея не совместимы с Темным режимом. Тем не менее, они будут восстановлены после отключения Темного режима."</string>
+    <string name="qs_open_night_mode_alert_summary">Некоторые настройки экрана не совместимы с Темным режимом. Тем не менее, они будут восстановлены после отключения Темного режима.</string>
     <string name="qs_paging">Использовать новые Быстрые настройки</string>
     <string name="qs_rearrange">Изменить порядок Быстрых настроек</string>
     <string name="qs_status_phone_muted">Режим \"Без звука\"</string>
@@ -2421,7 +2419,7 @@ mm"</string>
     <string name="quick_settings_dnd_none_label">Полная тишина</string>
     <string name="quick_settings_dnd_priority_label">Только важные</string>
     <string name="quick_settings_done">Готово</string>
-    <string name="quick_settings_drivemode_label">За рулем</string>
+    <string name="quick_settings_drivemode_label">Режим вождения</string>
     <string name="quick_settings_dual_location_label">Двойной GPS</string>
     <string name="quick_settings_edit_label">Сортировка</string>
     <string name="quick_settings_extreme_batterysaver_label">Максимальная экономия заряда</string>
@@ -2482,7 +2480,7 @@ mm"</string>
     <string name="quick_settings_sync_label">Синхронизация</string>
     <string name="quick_settings_tethering_label">Режим модема</string>
     <string name="quick_settings_time_label">Время</string>
-    <string name="quick_settings_toast_drag_to_enable_custom_tile">Для добавления объекта удерживайте его, а затем перетащите в верхнюю часть панели</string>
+    <string name="quick_settings_toast_drag_to_enable_custom_tile">Чтобы добавить элемент, перетащите его в верхнюю часть панели</string>
     <string name="quick_settings_ui_mode_night_label">Темный режим</string>
     <string name="quick_settings_user_label">Я</string>
     <string name="quick_settings_user_new_user">Новый пользователь</string>

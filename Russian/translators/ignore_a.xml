@@ -503,6 +503,8 @@
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_infotype_entries"></string-array>
     <string-array name="contact_values"></string-array>
+    <string-array name="control_center_independent_tiles_mobile"></string-array>
+    <string-array name="control_center_independent_tiles_wifi"></string-array>
     <string-array name="coolsound_area_mash_up"></string-array>
     <array name="correct_brightness_game"></array>
     <string-array name="correct_brightness_game_white_list"></string-array>

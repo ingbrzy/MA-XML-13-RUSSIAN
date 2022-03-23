@@ -30,6 +30,7 @@
     <string name="account_other">Другой</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">Трансляция</string>
     <string name="audio_record_des">Для передачи звука с устройства на внешние мониторы</string>
     <string name="casting_tips">Отображение…</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
@@ -37,8 +38,6 @@
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_slave_wifi_hint">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
     <string name="close_slave_wifi_hint_china">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
-    <string name="config_wifi_label_china">Настройка MiPaiPai Wi-Fi</string>
-    <string name="config_wifi_label_global">Настройка MiPaiPai Wi-Fi</string>
     <string name="connect_device_fail">Не удалось подключиться к устройству</string>
     <string name="console_guide_btn_got_it">Понятно</string>
     <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию при выключенном экране устройства (это может привести к повышенному расходу батареи).</string>
@@ -322,7 +321,7 @@
     <string name="pre_privacy_setting_title">Конфиденциальность</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_agree">Принимаю</string>
-    <string name="privacy_detail">Приложению для нормальной работы необходимы подключение к интернету и разрешения на сбор личной информации. Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;.</string>
+    <string name="privacy_detail">Прежде чем продолжить, разрешите этому приложению подключение к интернету и предоставьте необходимые разрешения.</string>
     <string name="privacy_detail_extra">Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Используя эту функцию, вы принимаете &lt;a href=\"%1$s\"&gt;Политику конфиденциальности HappyCast&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Юридическое заявление HappyCast&lt;/a&gt;.</string>
     <string name="privacy_explain">Добро пожаловать в приложение Трансляция! Вы можете использовать это приложение для вывода содержимого экрана на внешний монитор. Для корректной работы приложению необходимо подключение к интернету и следующие разрешения:</string>
     <string name="privacy_negative">Отмена</string>

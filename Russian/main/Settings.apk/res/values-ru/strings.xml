@@ -1860,6 +1860,7 @@
     <string name="bt_lhdc_open_dialog_title">Включить LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Свойства</string>
+    <string name="bt_plugin_current_version">Текущая версия</string>
     <string name="bt_plugin_new_version">Обновление</string>
     <string name="bt_plugin_preference_button">Обновить</string>
     <string name="bt_plugin_preference_msg">Текущая: %1$s | Новая: %2$s</string>
@@ -3476,6 +3477,8 @@
     <string name="extra_app_info_summary" />
     <string name="extreme_threats_summary">Получать уведомления о серьезных угрозах жизни и имуществу</string>
     <string name="extreme_threats_title">Серьезные угрозы</string>
+    <string name="eye_gaze_summary">Устройство не будет блокироваться когда вы смотрите на экран</string>
+    <string name="eye_gaze_title">Отслеживание взгляда</string>
     <string name="face_add_max">Максимальное количество лиц, которые можно добавить: %d</string>
     <string name="face_data_apply_for_category_title">Разблокировка</string>
     <string name="face_data_apply_for_keyguard_title">Экран блокировки</string>
