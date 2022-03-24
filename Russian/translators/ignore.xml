@@ -2937,7 +2937,6 @@
     <string name="mediasize_standard_japan">2</string>
     <string name="mediasize_standard_north_america">1</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_text_power_percent_title">%s</string>

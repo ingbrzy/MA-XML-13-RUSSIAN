@@ -2648,6 +2648,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_text_antivirus_kddi">Антивирус</string>
     <string name="menu_text_deepclean_summary">%1$s/%2$s занято</string>
     <string name="menu_text_garbage_cleanup">Очистка</string>
+    <string name="menu_text_garbage_cleanup_danger">%s мусора</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_networkassistants">Трафик</string>
     <string name="menu_text_networkassistants_danger">Более %s</string>
