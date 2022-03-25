@@ -868,18 +868,6 @@
     <string name="bba">e6135d289c1ff651b514fd4559850c19</string>
     <string name="bbaa">4fd450ec3389b623d119a62b5c574ee7</string>
     <string name="bcc_heading">"Bcc: "</string>
-    <string name="beauty_lens">lens</string>
-    <string name="beauty_lens_1">lens_1</string>
-    <string name="beauty_lens_1_description">lens_1</string>
-    <string name="beauty_lens_2">lens_2</string>
-    <string name="beauty_lens_2_description">lens_2</string>
-    <string name="beauty_lens_3">lens_3</string>
-    <string name="beauty_lens_3_description">lens_3</string>
-    <string name="beauty_lens_4">lens_4</string>
-    <string name="beauty_lens_4_description">lens_4</string>
-    <string name="beauty_lens_description_title">beauty_lens_description_title</string>
-    <string name="beauty_lens_none">none</string>
-    <string name="beauty_lens_use_hint">beauty_lens_use_hint</string>
     <string name="beauty_level_1">1</string>
     <string name="beauty_level_2">2</string>
     <string name="beauty_level_3">3</string>
@@ -1679,7 +1667,6 @@
     <string name="config_xiaoaiComponent">com.miui.voiceassist/com.xiaomi.voiceassistant.VoiceService</string>
     <string name="content_country_key">content_country</string>
     <string name="content_description_miui_version">MIUI 11</string>
-    <string name="content_desktop_uninstall">content_desktop_uninstall</string>
     <string name="content_language_key">content_language</string>
     <string name="content_preview_ratio">1:1</string>
     <string name="control_quick_settings_tiles_default"> </string>
@@ -4613,7 +4600,6 @@
     <string name="time_placeholder">--</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_permission">PermissionActivity</string>
-    <string name="title_desktop_uninstall">title_desktop_uninstall</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="today_hot_search">今日热搜</string>
     <string name="trail_sport_target_value_desc">%1$s</string>
@@ -4703,7 +4689,6 @@
     <string name="usb_port_ok">@string/wireless_charge_dialog_cancel</string>
     <string name="usb_use_MIDI_miui12_5">MIDI</string>
     <string name="user_agreement_url">app://com.miui.cloudservice.user_agreement.license</string>
-    <string name="username">Имя пользователя</string>
     <string name="ussd_dialog_sep">----------</string>
     <string name="valentines_day">情人节</string>
     <string name="valentines_day_tradition">情人節</string>
