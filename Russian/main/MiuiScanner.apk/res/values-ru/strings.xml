@@ -122,6 +122,7 @@
     <string name="connect_to_wifi">Подключиться к этой сети</string>
     <string name="connect_wifi">Подключиться к Wi-Fi</string>
     <string name="contact_details">Информация о контакте:</string>
+    <string name="content_desktop_uninstall">Приложение \"Сканер\" является системным. После его удаления соответствующие функции будут недоступны в приложениях Mi Браузер, Камера, Mi AI, Контакты и некоторых системных сервисах.</string>
     <string name="continue_access_web_url">Перейти на сайт</string>
     <string name="continue_to_website">Перейти на сайт</string>
     <string name="continue_waiting">Подождите</string>
@@ -742,6 +743,7 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="title">"Должность: "</string>
+    <string name="title_desktop_uninstall">Удалить \"Сканер\"?</string>
     <string name="to_install_title">Этот QR-код перенаправляет вас в удаленное приложение. Скачать это приложение сейчас?</string>
     <string name="to_pay">Оплатить</string>
     <string name="today">Сегодня</string>
