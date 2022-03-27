@@ -466,7 +466,6 @@
     <string name="app_miot">Mi Home</string>
     <string name="app_miot_device_battery_percentage">%1$d%%</string>
     <string name="app_miot_unit" />
-    <string name="app_name">com.xiaomi.smarthome.common.nativelib</string>
     <string name="app_name_danfa">@string/app_name</string>
     <string name="app_news_empty_text" />
     <string name="app_pa_setting_head_key_bg_img">key_head_bg_img</string>

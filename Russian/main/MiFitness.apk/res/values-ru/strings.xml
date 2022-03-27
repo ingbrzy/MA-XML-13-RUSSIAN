@@ -224,6 +224,7 @@
     <string name="agree">Принимаю</string>
     <string name="aivs_huami_operate_on_app">Продолжить в приложении на телефоне</string>
     <string name="aivs_huami_timer_limit">Вы можете установить таймер длительностью до 99 мин. 59 сек.</string>
+    <string name="app_name">Mi Фитнес</string>
     <string name="app_upgrade_no_newer_version">Установлено новейшее ПО</string>
     <string name="apply_times_exceed_limit">Превышен лимит</string>
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
