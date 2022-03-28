@@ -341,6 +341,9 @@
     <string-array name="config_disabledUntilUsedPreinstalledImes"></string-array>
     <array name="config_displayCompositionColorModes" />
     <array name="config_displayCompositionColorSpaces" />
+    <string-array name="config_displayCutoutApproximationRectArray"></string-array>
+    <string-array name="config_displayCutoutPathArray"></string-array>
+    <array name="config_displayUniqueIdArray" />
     <array name="config_displayWhiteBalanceAmbientColorTemperatures" />
     <array name="config_displayWhiteBalanceBaseThresholds"></array>
     <array name="config_displayWhiteBalanceDecreaseThresholds"></array>
@@ -369,6 +372,7 @@
     <array name="config_face_acquire_vendor_biometricprompt_ignorelist" />
     <array name="config_face_acquire_vendor_enroll_ignorelist" />
     <array name="config_face_acquire_vendor_keyguard_ignorelist" />
+    <array name="config_fillBuiltInDisplayCutoutArray"></array>
     <array name="config_foldedDeviceStates" />
     <string-array name="config_forbidenLongScreenshot"></string-array>
     <string-array name="config_forceQueryablePackages"></string-array>
@@ -397,9 +401,12 @@
     <integer-array name="config_longPressVibePattern"></integer-array>
     <array name="config_lowGrayBrightnessLevels" />
     <integer-array name="config_lteDbmThresholds"></integer-array>
+    <array name="config_mainBuiltInDisplayWaterfallCutout"></array>
     <integer-array name="config_manualBrightnessRemapIn"></integer-array>
     <integer-array name="config_manualBrightnessRemapOut"></integer-array>
     <integer-array name="config_mappedColorModes"></integer-array>
+    <array name="config_maskBuiltInDisplayCutoutArray">
+    </array>
     <array name="config_maxBrightnessCurvesNits" />
     <integer-array name="config_maxBrightnessRemapIn"></integer-array>
     <integer-array name="config_maxBrightnessRemapOut"></integer-array>
@@ -447,6 +454,7 @@
     <string-array name="config_reduceBrightColorsCoefficients"></string-array>
     <string-array name="config_reduceBrightColorsCoefficientsNonlinear"></string-array>
     <array name="config_restrictedImagesServices" />
+    <array name="config_reversedFoldedDeviceStates" />
     <string-array name="config_ringtoneEffectMap"></string-array>
     <array name="config_ringtoneEffectUris" />
     <integer-array name="config_safeModeEnabledVibePattern"></integer-array>
@@ -456,6 +464,7 @@
     <integer-array name="config_screenDarkeningThresholds"></integer-array>
     <array name="config_screenThresholdLevels" />
     <integer-array name="config_scrollBarrierVibePattern"></integer-array>
+    <array name="config_secondaryBuiltInDisplayWaterfallCutout"></array>
     <array name="config_serialPorts" />
     <array name="config_settings_slices_accessibility_components" />
     <string-array name="config_show_datatraffic_dialog_mccmnc"></string-array>
@@ -494,6 +503,7 @@
     <string-array name="config_volte_provision_error_on_publish_response"></string-array>
     <string-array name="config_vvmSmsFilterRegexes"></string-array>
     <array name="config_wakeonlan_supported_interfaces" />
+    <array name="config_waterfallCutoutArray"></array>
     <string-array name="config_wearActivityModeRadios"></string-array>
     <array name="config_wifi_dual_sap_interfaces" />
     <string-array name="config_xmsfNotificationChannel"></string-array>
@@ -685,6 +695,7 @@
     <string-array name="freeform_top_game_list"></string-array>
     <string-array name="freq_entries"></string-array>
     <array name="freq_entryValues"></array>
+    <string-array name="fullscreen_activity_list"></string-array>
     <string-array name="fullscreen_landscape_list"></string-array>
     <string-array name="func_list"></string-array>
     <string-array name="gb_gpu_custom_anisotropic"></string-array>
@@ -1181,6 +1192,7 @@
     <string-array name="setting_home_page_show_list_code"></string-array>
     <array name="setting_palette_colors"></array>
     <string-array name="setting_palette_data"></string-array>
+    <string-array name="setting_phone_note_layout_way"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_detail"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_values"></string-array>
     <array name="shape_default_color_item"></array>

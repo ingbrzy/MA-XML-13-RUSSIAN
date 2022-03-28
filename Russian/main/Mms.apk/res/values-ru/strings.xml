@@ -1399,6 +1399,7 @@
     <string name="title_allow_network_access">Автообновление данных</string>
     <string name="title_collapse_sp_messages">Группировать уведомления</string>
     <string name="title_hide_verification_code">Скрывать одноразовые пароли</string>
+    <string name="title_not_show_read_mms_perm_req">Требуются разрешения</string>
     <string name="title_pref_cm_smart_sms">Умные сообщения China Mobile</string>
     <string name="title_show_blocked_messages">Заблокированные SMS</string>
     <string name="title_show_list_avatar">Фото контактов</string>
@@ -1421,6 +1422,7 @@
     <string name="toast_not_show_email_perm_req">Для использования этой функции, разрешите Сообщениям доступ к вашей электронной почте</string>
     <string name="toast_not_show_location_perm_req">Для использования этой функции, разрешите Сообщениям использовать геолокацию</string>
     <string name="toast_not_show_microphone_perm_req">Для использования этой функции, разрешите Сообщениям использовать микрофон</string>
+    <string name="toast_not_show_read_mms_perm_req">Для просмотра полученных сообщений, разрешите Сообщениям чтение SMS и MMS</string>
     <string name="toast_not_show_send_sms_perm_req">Для использования этой функции, разрешите приложению отправлять сообщения</string>
     <string name="toast_not_show_storage_perm_req">Для использования этой функции, разрешите Сообщениям доступ к хранилищу</string>
     <string name="toast_not_show_write_contacts_perm_req">Для использования этой функции, разрешите Сообщениям редактировать контакты</string>

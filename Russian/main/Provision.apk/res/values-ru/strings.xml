@@ -161,6 +161,7 @@
     <string name="input_method_category">Выберите клавиатуру по умолчанию, которую вы будете использовать для написания сообщений, заметок и всего остального. Обратите внимание, что позже вы можете установить другие сторонние клавиатуры.</string>
     <string name="input_method_setting">Выберите клавиатуру</string>
     <string name="install_preinstall_app">Загрузка приложений…</string>
+    <string name="intent_filter_verification_service">Служба проверки Intent Filter</string>
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Все равно пропустить?</string>
     <string name="item_fingerprint">Отпечаток пальца</string>
@@ -292,6 +293,8 @@
     <string name="other_settings_enhanced_lockscreen_summary_index">Лицензионное соглашение с конечным пользователем</string>
     <string name="other_settings_location">Геолокация</string>
     <string name="other_settings_location_summary">Разрешение приложениям использовать геолокацию для предоставления услуг на основе местоположения</string>
+    <string name="other_settings_quality_service">Разрешения MIUI Daemon</string>
+    <string name="other_settings_quality_service_summary">MIUI Daemon используется для повышения стабильности и производительности системы. Для нормальной работы этой службе необходимы разрешения на доступ и сохранение файлов в хранилище</string>
     <string name="other_settings_upload_debug_log_detail">"Автоматически отправлять диагностику, данные об устройстве и использовании приложений в Xiaomi. Это поможет улучшить время автономной работы, стабильность системы и приложений MIUI, а также многое другое.
 Отправляемые данные будут содержать общую информацию об устройстве и его использовании (например, уровень заряда батареи, активность системы и приложений, ошибках). 
 Отключение этой функции не повлияет на отправку информации, которая необходима для основных служб, таких как Обновление и Безопасность.

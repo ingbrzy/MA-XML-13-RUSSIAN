@@ -3437,7 +3437,7 @@
     <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
     <string name="error_name_empty">Необходимо указать имя.</string>
     <string name="error_title" />
-    <string name="error_xcap_not_add">Тип APN не может быть XCAP</string>
+    <string name="error_xcap_not_add">Невозможно использовать XCAP в качестве типа точки доступа</string>
     <string name="estimated_charging_time_left">До полной зарядки</string>
     <string name="estimated_time_description">Расчетное время зависит от интенсивности использования</string>
     <string name="estimated_time_left">Расчетное время работы без подзарядки</string>
@@ -3691,6 +3691,8 @@
     <string name="firmware_version">Версия Android</string>
     <string name="fiveg_sa_switch_summary">Использовать сеть SA на дополнительной SIM-карте (только для тестирования)</string>
     <string name="fiveg_sa_vice_switch_title">SA на дополнительной SIM-карте</string>
+    <string name="fiveg_vonr_switch_summary">Использование VoNR в 5G-сетях для улучшения качества связи. Функция предназначена только для тестирования.</string>
+    <string name="fiveg_vonr_switch_title">Настройки VoNR</string>
     <string name="fix_connectivity">Исправить проблемы с подключением</string>
     <string name="flash_drive_backup_disable">Подключите USB-накопитель</string>
     <string name="flash_drive_backup_enable">Используйте USB-накопитель для резервного копирования или восстановления</string>
@@ -3736,6 +3738,10 @@
     <string name="fold_rule_unimportant">Неважные</string>
     <string name="fold_title">Правила групповых уведомлений</string>
     <string name="following_us_title">Подпишитесь на нас</string>
+    <string name="font_cta_alert_btn_negative">Отмена</string>
+    <string name="font_cta_alert_btn_positive">Принимаю</string>
+    <string name="font_cta_alert_message">Чтобы продолжить, прочтите и примите Условия и положения приложения \"Темы\"</string>
+    <string name="font_cta_alert_title">Условия и положения</string>
     <string name="font_setting_weight_toast">Текущий шрифт не поддерживает регулировку толщины</string>
     <string name="font_settings_jump">Спец. возможности > Масштаб изображения</string>
     <string name="font_settings_recommend_title">Размер шрифта недостаточно велик?</string>
@@ -8573,6 +8579,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_status_title_sim_softbank">Статус SIM %1$d</string>
     <string name="sim_switch_button">Переключиться</string>
     <string name="sim_switch_channel_id">Переключение между операторами связи</string>
+    <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
     <string name="simulate_color_space">Имитация аномалии</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>
@@ -10189,6 +10196,7 @@ UT-интерфейс: %5$s"</string>
     <string name="volume_ring_mute">Отключить рингтон и другие уведомления</string>
     <string name="volume_system_description">Камера, экран блокировки и другие системные уведомления</string>
     <string name="volume_voice_description">Разговорный динамик</string>
+    <string name="vonr_switch_title">Использование VoNR</string>
     <string name="vpn_always_on_invalid_reason_dns">Для постоянной VPN-сети адрес DNS-сервера должен быть числовым</string>
     <string name="vpn_always_on_invalid_reason_no_dns">Для постоянной VPN-сети должен быть задан DNS-сервер</string>
     <string name="vpn_always_on_invalid_reason_other">Введенная информация не поддерживает постоянную VPN</string>

@@ -254,6 +254,8 @@
     <string name="ks_screenshot">Скриншот</string>
     <string name="kungfu">Кунг-фу</string>
     <string name="leisure">Отдых</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Lenovo</string>
     <string name="livetalk_not_enable">Пакет пополнения баланса отключен</string>
     <string name="location_usage_restricted_body">Нажмите, чтобы разрешить</string>
     <string name="location_usage_restricted_title">Геолокация в фоне запрещена</string>
@@ -437,6 +439,7 @@
     <string name="set_password_action">Задать пароль</string>
     <string name="set_password_message">Для использования этой функции задайте пароль.</string>
     <string name="set_password_title">Задайте пароль</string>
+    <string name="shortcut_no_support_on_pc_mode">Этот жест не поддерживается в режиме ПК</string>
     <string name="shutdown_confirm_title">Выключить устройство?</string>
     <string name="shutdown_progress">Выключение…</string>
     <string name="silence_mode">Режим \"Без звука\"</string>
