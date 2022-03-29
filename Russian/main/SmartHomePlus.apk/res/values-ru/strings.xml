@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
+    <string name="app_name">opus</string>
     <string name="app_name2">Mi Home</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
@@ -86,6 +87,7 @@
     <string name="gesture_shortcut_uwb">UWB</string>
     <string name="goto_help">Просмотр справки</string>
     <string name="how_to_use_uwb">Как использовать Xiaomi Magic Control?</string>
+    <string name="how_to_use_uwb_detail">"Сначала убедитесь, что целевое устройство находится поблизости, сетевое подключение вашего телефона работает правильно и Bluetooth включен. Затем включите функцию Magic Control на телефоне. Для этого можно нажать и удерживать кнопку питания, дважды нажать кнопку питания или включить функцию через портал экрана блокировки или ярлык центра управления. Выберите любой из вышеперечисленных способов, который вам больше нравится. После включения функции Magic Control направьте заднюю часть телефона на целевое устройство, чтобы подключить его. После подключения на телефоне появится панель управления устройством."</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="material_clock_display_divider">:</string>
@@ -128,6 +130,80 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Больше ничего нет</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
+    <string name="mj_plus_app_name">Mi Home Plus</string>
+    <string name="mj_try_scan_again">Повтор</string>
+    <string name="mj_unit_temp_centigrade">Цельсий</string>
+    <string name="mj_unit_temp_fahrenheit">Фаренгейт</string>
+    <string name="mj_uwb_bluetooth_not_ready">Голосовое управление Xiaomi AI недоступно.</string>
+    <string name="mj_uwb_camera_permission_denied">Нет разрешения на доступ к камере</string>
+    <string name="mj_uwb_check_aoa_fail">Калибровка не удалась из-за чрезмерного движения</string>
+    <string name="mj_uwb_check_aoa_ok">ОК</string>
+    <string name="mj_uwb_check_distance_timeout">Таймаут калибровки истек</string>
+    <string name="mj_uwb_check_succeed">Калибровка завершена</string>
+    <string name="mj_uwb_close_to_auth">Подойдите ближе 2 метров для завершения проверки безопасности</string>
+    <string name="mj_uwb_common_device_loading">Подождите…</string>
+    <string name="mj_uwb_confirm_aoa_device">Выполнить калибровку этого устройства?</string>
+    <string name="mj_uwb_connect_fail">Не удалось подключиться. Повторите попытку позже.</string>
+    <string name="mj_uwb_connected">Подключено</string>
+    <string name="mj_uwb_find_devices">Поиск устройств</string>
+    <string name="mj_uwb_ignore">Игнорировать</string>
+    <string name="mj_uwb_input_security_code_on_tv">Введите проверочный код, отображаемый на экране телевизора</string>
+    <string name="mj_uwb_install_help_info">"Подключите Magic Control Bridge к телевизору, как показано на рисунке выше, чтобы убедиться, что функция работает правильно.
+
+Подключение телевизионного кабеля: один конец подключается к телевизионному разъему Magic Control Bridge; другой конец USB к USB-порту телевизора.
+
+Подключение шнура питания: один конец типа C подключается к разъему питания Magic Control Bridge, другой конец USB к адаптеру питания."</string>
+    <string name="mj_uwb_install_help_title">Инструкции Magic Control Bridge для телевизора</string>
+    <string name="mj_uwb_know_it">Я знаю</string>
+    <string name="mj_uwb_login_mitv_account">Войдите в Mi аккаунт для доступа к дополнительным функциям</string>
+    <string name="mj_uwb_miracast">Трансляция…</string>
+    <string name="mj_uwb_mitv_control_power_off">Телевизор выключен.</string>
+    <string name="mj_uwb_mitv_control_power_off_fail">Сбой включения. Повторите подключение.</string>
+    <string name="mj_uwb_mitv_control_power_oning">Включение, подождите…</string>
+    <string name="mj_uwb_mitv_name">Xiaomi Smart TV</string>
+    <string name="mj_uwb_more_action">Дополнительные функции</string>
+    <string name="mj_uwb_no_blemac_hash_popup_info">Управление телевизором недоступно. Выберите другой способ включения телевизора.</string>
+    <string name="mj_uwb_no_blemac_popup_info">Этот телефон не был авторизован на телевизоре для управления им. Проверьте его при включенном телевизоре и повторите попытку.</string>
+    <string name="mj_uwb_no_permit">Разрешение отсутствует</string>
+    <string name="mj_uwb_not_support_miracast">Этот телевизор не поддерживает трансляцию</string>
+    <string name="mj_uwb_not_support_xiaoai">Этот телевизор не поддерживает голосовое управление Xiaomi AI</string>
+    <string name="mj_uwb_ok_button">ОК</string>
+    <string name="mj_uwb_power_off_info_bottom">Способ установки: подключите один конец шнура питания к интерфейсу питания на задней стороне, другой конец подключите к адаптеру или подключаемой плате для питания.</string>
+    <string name="mj_uwb_power_off_info_top">Для нормальной работы функции Magic Control телевизора, подключите шнур питания как показано на рисунке выше</string>
+    <string name="mj_uwb_power_off_tv">Шнур питания не подключен</string>
+    <string name="mj_uwb_pre_check_aoa_img_info">В настоящее время калибровка доступна только для Xiaomi Magic Control Bridge.</string>
+    <string name="mj_uwb_pre_check_aoa_info">Выполните калибровку точности между телефоном и устройством UWB для более быстрого и точного поиска устройства</string>
+    <string name="mj_uwb_record_permission_denied">Нет разрешения на запись звука</string>
+    <string name="mj_uwb_retry">Повтор</string>
+    <string name="mj_uwb_scan_title">Наведите на целевое устройство</string>
+    <string name="mj_uwb_security_code">Авторизация и проверка</string>
+    <string name="mj_uwb_security_code_error">Ошибка ввода проверочного кода</string>
+    <string name="mj_uwb_security_code_timeout">Таймаут ввода проверочного кода</string>
+    <string name="mj_uwb_see_help">Просмотр справки</string>
+    <string name="mj_uwb_select_check_device">Выберите устройство для калибровки</string>
+    <string name="mj_uwb_select_target_device">Выберите целевое устройство</string>
+    <string name="mj_uwb_start">Начать</string>
+    <string name="mj_uwb_start_check_aoa_btn">Начать калибровку</string>
+    <string name="mj_uwb_tag_has_upgrade_version">Обновление Magic Control Bridge: V%s.</string>
+    <string name="mj_uwb_tag_name">Magic Control Bridge</string>
+    <string name="mj_uwb_tag_power_not_connect">Не подключен к шнуру питания</string>
+    <string name="mj_uwb_third_device_help_info">Устройство не совместимо с Magic Control Bridge. Нажмите FAQ, чтобы посмотреть поддерживаемые устройства.</string>
+    <string name="mj_uwb_third_device_help_title">Устройство не поддерживается</string>
+    <string name="mj_uwb_third_tv_name">Другие устройства</string>
+    <string name="mj_uwb_try_to_scan">Сканирование</string>
+    <string name="mj_uwb_tv_history_network_error">Что-то пошло не так, обновите и попробуйте снова.</string>
+    <string name="mj_uwb_tv_history_refresh">Обновить</string>
+    <string name="mj_uwb_tv_item_progress">%d серия</string>
+    <string name="mj_uwb_tv_mode">Тестовый режим</string>
+    <string name="mj_uwb_tv_mode_info">В настоящее время телевизор находится в тестовом режиме и не поддерживает операции управления</string>
+    <string name="mj_uwb_tv_player_progress">%s серия</string>
+    <string name="mj_uwb_tvcard_voicecontrol">Прослушивание…</string>
+    <string name="mj_uwb_upgrade_tag_now">Обновить</string>
+    <string name="mj_uwb_uwb_loading_card">Загрузка, подождите…</string>
+    <string name="mj_uwb_uwb_no_permission">Администратор этого устройства позволяет управлять устройством только пользователям домашнего аккаунта. Войдите в домашний аккаунт, либо попросите администратора изменить разрешения для Magic Control для всех.</string>
+    <string name="mj_uwb_uwb_restart">Повтор</string>
+    <string name="mj_uwb_uwb_third_tv_tag_not_valid">Magic Control Bridge подключен. Если вы хотите использовать его с телевизионными сценами, сбросьте подключение Magic Control Bridge и подключите его снова.</string>
+    <string name="mj_uwb_uwb_third_tv_tag_not_valid_title">Magic Control Bridge подключен</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -284,15 +360,82 @@
     <string name="time_picker_label_minute">М</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
+    <string name="try_to_bind">О привязке</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="uwb_accept">Принимаю</string>
+    <string name="uwb_aim_at_device_and_do_not_move">"Наведите на устройство.
+Нажмите «Старт» и держите неподвижно 5 сек."</string>
+    <string name="uwb_ble_fail">Bluetooth не включен, проверьте настройки Bluetooth.</string>
+    <string name="uwb_ble_success">Bluetooth включен</string>
+    <string name="uwb_cancel_hint">Нажмите \"Не включено\", чтобы закрыть портал экрана блокировки. Портал можно будет открыть в настройках в любое время.</string>
+    <string name="uwb_check_device_at_the_right_distance">"Наведите на устройство.
+Держитесь на расстоянии около 2 метров от устройства."</string>
+    <string name="uwb_check_setting">Проверка настроек</string>
+    <string name="uwb_common_qs">Справка</string>
+    <string name="uwb_common_questions">Справка</string>
+    <string name="uwb_confirm">ОК</string>
+    <string name="uwb_control_center">Ярлык центра управления</string>
+    <string name="uwb_control_center_disable_toast">Перейдите в центр управления, чтобы добавить переключатель</string>
+    <string name="uwb_control_center_enable_toast">Потяните вниз, чтобы войти в центр управления</string>
+    <string name="uwb_do_not_move_in_5_second">"Наведите на устройство.
+Держите неподвижно %d сек."</string>
+    <string name="uwb_down_than_right_aoa">"Наведите на устройство.
+Подвиньте немного вверх."</string>
+    <string name="uwb_download_mijia">Magic Control требуется актуальная версия приложения Smart Home. Версия приложения Smart Home устарела, обновите приложение.</string>
     <string name="uwb_exit">Выход</string>
+    <string name="uwb_fail_title">Ошибка включения</string>
+    <string name="uwb_guide_cancel">Не включено</string>
+    <string name="uwb_guide_cancel_open">Не включено</string>
+    <string name="uwb_guide_confirm">Попробовать</string>
+    <string name="uwb_guide_hint">Включите функцию Xiaomi Magic Control для новых возможностей управления. Просто направьте этот телефон на смарт-устройство, расположенное поблизости и поддерживающее Xiaomi Magic Control, для подключения и управления им.</string>
+    <string name="uwb_guide_title">Добро пожаловать в “Xiaomi Magic Control”</string>
+    <string name="uwb_left_than_right_aoa">"Наведите на устройство.
+Сместите немного вправо."</string>
+    <string name="uwb_less_than_right_distance">"Наведите на устройство.
+Сместите немного назад."</string>
+    <string name="uwb_lock_sceen_entrance">Ярлык на экране блокировки</string>
+    <string name="uwb_mi_quick_shortcut">Xiaomi Magic Control</string>
+    <string name="uwb_mijia_low_version">Magic Control требуется актуальная версия приложения Smart Home. Версия приложения Smart Home устарела, обновите приложение.</string>
+    <string name="uwb_mijia_low_version_title">Версия приложения Smart Home устарела</string>
+    <string name="uwb_mijia_not_installed_title">Приложение Smart Home не установлено</string>
+    <string name="uwb_more_than_right_distance">"Наведите на устройство.
+Сместите немного ближе."</string>
+    <string name="uwb_open_way">Способ включения</string>
+    <string name="uwb_permission_agree_desc">В случае отказа предоставить необходимые разрешения, сервис не будет работать нормально. Вы всегда можете изменить разрешения в Настройках.</string>
+    <string name="uwb_permission_ble">Для поиска UWB-устройств поблизости</string>
+    <string name="uwb_permission_camera">Для помощи при наведении или при подключении устройства</string>
+    <string name="uwb_permission_message">Добро пожаловать в Mi Home Plus для использования Xiaomi Magic Control. Просто направьте этот телефон на смарт-устройство, расположенное поблизости и поддерживающее Xiaomi Magic Control, для подключения и управления им.</string>
+    <string name="uwb_power_hint">Зажмите кнопку питания на 0,5 сек., чтобы включить Xiaomi Magic Control; После включения кнопки быстрого доступа, устройство можно выключить, зажав кнопку питания на 3 сек.</string>
+    <string name="uwb_power_title">Зажмите кнопку питания, чтобы включить Xiaomi Magic Control.</string>
+    <string name="uwb_retry">Повтор</string>
+    <string name="uwb_right_than_right_aoa">"Наведите на устройство.
+Сместите немного влево."</string>
+    <string name="uwb_scan_calibration">Калибровка точности обнаружения устройств</string>
+    <string name="uwb_scan_calibration_summary">Оптимизация процесса обнаружения устройств</string>
+    <string name="uwb_scan_device">Расстояние обнаружения</string>
+    <string name="uwb_setting_guide_info_desc">Включите функцию Magic Control и направьте этот телефон на смарт-устройство, расположенное поблизости и поддерживающее Xiaomi Magic Control, для подключения и управления им.</string>
+    <string name="uwb_setting_later">Не включено</string>
+    <string name="uwb_shortcut">Кнопка быстрого вызова</string>
+    <string name="uwb_title">Xiaomi Magic Control</string>
+    <string name="uwb_up_than_right_aoa">"Наведите на устройство.
+Сместите немного вниз."</string>
+    <string name="uwb_wifi_fail">Не удалось подключиться к сети. Проверьте подключение.</string>
+    <string name="uwb_wifi_success">Сетевое соединение работает нормально.</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="what_can_uwb_do">Что такое Xiaomi Magic Control?</string>
+    <string name="what_can_uwb_do_detail">Xiaomi Magic Control - это новый способ подключения телефона к смарт-устройствам. Благодаря чипу UWB, ваш телефон и смарт-устройства могут определять расстояние между собой и направление, вы можете подключать и управлять смарт-устройствами, направляя на них свой телефон.</string>
+    <string name="what_device_uwb_supported">Какими устройствами можно управлять с помощью Xiaomi Magic Control?</string>
+    <string name="what_device_uwb_supported_detail">"Вы можете направить телефон Xiaomi с чипом UWB на смарт-устройства для управления ими.
+
+Какие устройства поддерживают Xiaomi Magic Control?
+1. Телевизоры Xiaomi с технологией UWB, такие как Xiaomi TV Master 77\" OLED.
+2. Телевизоры Xiaomi с тегом Xiaomi Magic Control, %s."</string>
+    <string name="what_device_uwb_supported_detail_placeholder">Подробности</string>
     <string name="yesterday">Вчера</string>
 </resources>
