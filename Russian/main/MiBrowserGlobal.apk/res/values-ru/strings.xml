@@ -2578,6 +2578,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="user_guide_control_privacy_tips">Полностью управляйте конфиденциальностью</string>
     <string name="user_guide_read_info_tips">Для добавления в поисковую выдачу приложений Браузеру необходим доступ к списку приложений на устройстве.</string>
     <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
+    <string name="username">Имя пользователя</string>
     <string name="uuid">UUID (нажмите для экспорта)</string>
     <string name="v5_deselect_all">Снять выбор</string>
     <string name="v5_edit_mode_title_empty">Ничего не выбрано</string>

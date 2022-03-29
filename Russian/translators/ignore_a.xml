@@ -658,6 +658,7 @@
     <array name="fab_expand_up_ids"></array>
     <array name="face_acquired_vendor" />
     <array name="face_error_vendor" />
+    <string-array name="fast_hide_path"></string-array>
     <integer-array name="fat_rate_line_chart_default_y"></integer-array>
     <string-array name="filter_broadcasts"></string-array>
     <array name="fingerprint_acquired_vendor" />

@@ -1480,6 +1480,7 @@
     <string name="close_lucky_money_dialog_ok"> </string>
     <string name="close_lucky_money_dialog_summary"> </string>
     <string name="close_lucky_money_dialog_title"> </string>
+    <string name="cloud_data_module_config" />
     <string name="cmd_lucky_float"> </string>
     <string name="cold_dews">寒露</string>
     <string name="cold_dews_tradition">寒露</string>
@@ -1791,6 +1792,7 @@
     <string name="content_description_miui_version">MIUI 11</string>
     <string name="content_language_key">content_language</string>
     <string name="content_preview_ratio">1:1</string>
+    <string name="continuity_cloud_data_module_config" />
     <string name="control_quick_settings_tiles_default"> </string>
     <string name="control_quick_settings_tiles_stock"> </string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
@@ -2424,6 +2426,7 @@
     <string name="font_family_title_material">sans-serif-medium</string>
     <string name="fools_day">愚人节</string>
     <string name="fools_day_tradition">愚人節</string>
+    <string name="force_dark_cloud_data_module_config" />
     <string name="formatted_email_address">&lt;%1$s&gt;</string>
     <string name="formatted_subject">%1$s %2$s</string>
     <string name="fortune_card_set_bazi_simple">设置生辰</string>
@@ -4121,6 +4124,7 @@
     <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sixteen_thousand_kb">16384 KB</string>
     <string name="sixtyfive_thousand_kb">65536 KB</string>
+    <string name="size_compat_cloud_data_module_config" />
     <string name="size_suffix">%1$s %2$s</string>
     <string name="sk">3qy6ngTb0P+etx</string>
     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -4132,6 +4136,7 @@
     <string name="slow_shutter_title1">0%d</string>
     <string name="slow_shutter_title3">0%d</string>
     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
+    <string name="smart_rotation_cloud_data_module_config" />
     <string name="sms">SMS</string>
     <string name="snip_pic">%1$s</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>

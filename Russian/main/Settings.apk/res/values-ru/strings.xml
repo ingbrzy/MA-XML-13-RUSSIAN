@@ -3995,6 +3995,16 @@
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
     <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
     <string name="guest_resetting">Сброс гостевого аккаунта…</string>
+    <string name="guide_button_text">Понятно</string>
+    <string name="guide_text_center">"Проведите вверх по центру.
+Область разблокировки экрана будет по центру."</string>
+    <string name="guide_text_left">"Проведите вверх из левого нижнего угла.
+Область разблокировки экрана будет слева."</string>
+    <string name="guide_text_right">"Проведите вверх из правого нижнего угла.
+Область разблокировки экрана будет справа."</string>
+    <string name="guide_title_center">Жест по центру</string>
+    <string name="guide_title_left">Жест слева</string>
+    <string name="guide_title_right">Жест справа</string>
     <string name="gxzw_add_fingerprint_area">Сканер отпечатков</string>
     <string name="gxzw_add_fingerprint_continue">Далее</string>
     <string name="gxzw_add_fingerprint_edge_message">Сместите палец для записи краев вашего отпечатка</string>
@@ -7821,6 +7831,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_apn_settings">APN;Точки доступа</string>
     <string name="search_app_invisible">Скрытое приложение;Скрытые приложения</string>
     <string name="search_app_switch_key">Недавние;Недавнее;Меню;Кнопка меню;Диспетчер задач</string>
+    <string name="search_application_count">Поиск приложений</string>
     <string name="search_application_lock_name">Защита приложений</string>
     <string name="search_applications_settings">Все приложения</string>
     <string name="search_back_key">Назад;Кнопка назад;Клавиша назад</string>
