@@ -3450,6 +3450,7 @@
     <string name="every_day">Ежедневно</string>
     <string name="exceptional_case">Исключения</string>
     <string name="expand_button_title">Дополнительные</string>
+    <string name="expand_card_action">Дополнительные карточки</string>
     <string name="expandable_under_keyguard_title">Доступ с экрана блокировки</string>
     <string name="experimental_category_title">Экспериментальные функции</string>
     <string name="experimental_preference">(экспериментальная настройка)</string>
@@ -5525,6 +5526,8 @@
     <string name="mi_service">Mi сервис</string>
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_shopping_mall">Mi Store</string>
+    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Аккаунт Mi Pay</string>
     <string name="mic_toggle_title">Доступ к микрофону</string>
@@ -6057,6 +6060,8 @@
     <string name="multifunction_keyboard">Многофункциональная</string>
     <string name="multiple_users_main_switch_title">Несколько пользователей</string>
     <string name="music_equalizer">Эквалайзер</string>
+    <string name="music_playback_control_cross_device_flow">Передача аудиопотока между устройствами</string>
+    <string name="music_video_flow_across_device">Управление и передача аудиопотока между устройствами</string>
     <string name="musicfx_title">Звуковые эффекты</string>
     <string name="mute">Режим \"Без звука\"</string>
     <string name="mute_media_sound_summary">Отключить звуки мультимедиа для всех приложений в режиме \"Без звука\"</string>
@@ -8737,7 +8742,20 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_dialog_button_ok">Принимаю</string>
     <string name="sos_privacy_dialog_message">"Перед использованием прочтите и примите наши %s.
 Функции требуются разрешения для доступа к местоположению, для использования мобильной сети и для чтения контактов."</string>
-    <string name="sos_privacy_dialog_message_new_version">"Функция \"Экстренный вызов\" позволяет делиться своим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
+    <string name="sos_privacy_dialog_message_new_version">"Функция \"Экстренный вызов\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
+Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.
+Обратите внимание, что этому приложению необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:
+• Доступ к памяти устройства
+Для сохранения экстренных контактов.
+• Доступ к контактам
+Для отметки контактов как экстренных.
+• Отправка SMS
+Для отправки текстовых сообщений экстренным контактам.
+• Использование геолокации
+Для отправки вашего местоположения экстренным контактам.
+Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренный вызов\" или не использовать ее.
+Перед использованием прочитайте и примите наши %s."</string>
+    <string name="sos_privacy_dialog_message_old_version">"Функция \"Экстренный вызов\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.
 Обратите внимание, что этому приложению необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:
 • Доступ к памяти устройства
