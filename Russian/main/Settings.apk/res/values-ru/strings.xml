@@ -7342,7 +7342,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reduce_bright_colors_persist_preference_title">Сохранять после перезагрузки устройства</string>
     <string name="reduce_bright_colors_preference_subtitle">"Сделайте экран темнее для удобства чтения.&lt;br/&gt;&lt;br/&gt; Это может помочь, если: &lt;ol&gt;&lt;li&gt; при минимальной яркости экран все равно слишком яркий;&lt;/li&gt; &lt;li&gt; вы используете устройство в темноте&lt;/li&gt;&lt;/ol&gt;"</string>
     <string name="reduce_bright_colors_preference_summary">Сделать экран темнее, чем при минимальной яркости</string>
-    <string name="reduce_bright_colors_preference_title">Дополнительное уменьшение яркости</string>
+    <string name="reduce_bright_colors_preference_title">Доп. уменьшение яркости</string>
     <string name="reduce_bright_colors_switch_title">Дополнительно уменьшить яркость экрана</string>
     <string name="refresh_group">Обновить группу</string>
     <string name="regional_screen_shot">Частичный скриншот</string>
