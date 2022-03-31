@@ -29,8 +29,13 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about">О приложении</string>
     <string name="about_agree">Принять</string>
+    <string name="about_cache_clear">Очистка кэша</string>
+    <string name="about_cache_clearing">Очистка…</string>
     <string name="about_cache_size">%s ГБ</string>
     <string name="about_cancle">Отмена</string>
+    <string name="about_coach_female">Женщина-тренер</string>
+    <string name="about_coach_male">Мужчина-тренер</string>
+    <string name="about_coach_prefer">Выбор тренера</string>
     <string name="about_comment_go">Оцените нас</string>
     <string name="about_common_confirm">ОК</string>
     <string name="about_common_user_privacy_agreement">Политика конфиденциальности</string>
@@ -217,17 +222,35 @@
     <string name="activate_failed_no_retry">Обратитесь в службу поддержки банка</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="add_device">Добавить устройство</string>
+    <string name="add_test_env_permission">Добавить разрешение для тестовой среды</string>
+    <string name="add_test_env_permission_hint">Внимание: после преключения в тестовую среду, устройство больше не сможет получить доступ к производственной среде.</string>
+    <string name="add_test_key">Добавление ключа безопасности</string>
+    <string name="add_test_key_hint">Одобрено. Нажмите, чтобы добавить тестовый ключ.</string>
     <string name="add_to_trust_device">Это доверенное устройство</string>
     <string name="add_wifi_desc">Чтобы подключить носимое устройство к Wi-Fi, введите пароль сети \"%1$s\".</string>
     <string name="add_wifi_title">Введите пароль</string>
     <string name="afternoon">День</string>
     <string name="agree">Принимаю</string>
+    <string name="agree_protocol">Принимаю</string>
     <string name="aivs_huami_operate_on_app">Продолжить в приложении на телефоне</string>
     <string name="aivs_huami_timer_limit">Вы можете установить таймер длительностью до 99 мин. 59 сек.</string>
     <string name="app_name">Mi Фитнес</string>
     <string name="app_upgrade_no_newer_version">Установлено новейшее ПО</string>
+    <string name="app_upgrade_test_title">Доступна бета-версия</string>
+    <string name="apply_add_test_key">Режим разработчика</string>
+    <string name="apply_add_test_key_data_exception">Не удалось расшифровать данные</string>
+    <string name="apply_add_test_key_error_data">Неверные параметры</string>
+    <string name="apply_add_test_key_no_data">Недопустимые параметры</string>
+    <string name="apply_add_test_key_reason">причина использования</string>
+    <string name="apply_add_test_key_reason_not_null">null не допускается</string>
+    <string name="apply_add_test_key_repeat">Произошла ошибка, повторите попытку</string>
+    <string name="apply_se_key_status_applying">Применение</string>
+    <string name="apply_se_key_status_denied">Отказ</string>
+    <string name="apply_se_key_status_original">Не удалось применить, используется оригинальный ключ</string>
+    <string name="apply_se_key_status_succeed">Успешно</string>
     <string name="apply_times_exceed_limit">Превышен лимит</string>
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
+    <string name="auth_failure_exception">auth_failure_exception，очистите кеш приложения</string>
     <string name="bank_card_not_supported">Не поддерживается</string>
     <string name="bank_card_type_credit">Кредитная</string>
     <string name="bank_card_type_debit">Дебетовая</string>
@@ -244,6 +267,7 @@
     <string name="ble_ota_push_error_info">Для обновления носимого устройства уровень заряда должен быть не менее 20%.</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="cancel">Отмена</string>
+    <string name="cancel_text">Отмена</string>
     <string name="card_recharge_promo_code_exhausted">Вы немного опоздали, подождите следующей акции</string>
     <string name="card_status_no_apply_privilege">Статус вашей карты не имеет привилегий в бизнесе</string>
     <string name="card_type_no_apply_privilege">Тип вашей карты не имеет привилегий в бизнесе</string>
@@ -329,6 +353,7 @@
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_new_pwd">Подтвердите пароль</string>
     <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
+    <string name="continue_text">Продолжить</string>
     <string name="copy">Копировать</string>
     <string name="country_or_region_AE">Объединенные Арабские Эмираты</string>
     <string name="country_or_region_AR">Аргентина</string>
@@ -437,6 +462,11 @@
     <string name="course_device_disconnect">Отключено: %1$s</string>
     <string name="course_dialog_finish">Завершить</string>
     <string name="course_difficult">Уровень</string>
+    <string name="course_difficult_advance">Продвинутый</string>
+    <string name="course_difficult_basic">Обычный</string>
+    <string name="course_difficult_challenge">Сложный</string>
+    <string name="course_difficult_starte">Для начинающих</string>
+    <string name="course_difficult_strengthen">Для тренированных</string>
     <string name="course_error_desc">Не удалось загрузить видео. Завершить тренировку?</string>
     <string name="course_error_title">Внимание!</string>
     <string name="course_firmware_updating">Выполняется обновление устройства</string>
@@ -494,6 +524,7 @@
     <string name="course_video_1080">1080P</string>
     <string name="course_video_4k">4K</string>
     <string name="course_video_720">720P</string>
+    <string name="create_session_failed">Ошибка создания сеанса</string>
     <string name="data_sleep_reference_detail">"1. Принципы и практика медицины сна，4-е издание. 
 2. Основы медицины сна. 
 3. Patel, A. K., Reddy, V., &amp; Araujo, J. F. (2020, April). Физиология, стадии сна. Издательство StatPearls. 
@@ -503,6 +534,8 @@
 7. Рекомендации Национального фонда сна по качеству сна: первый отчет. Здоровье Сна. 2017 Feb;3(1):6-19. 
 8. Национальный институт неврологических расстройств и инсульта. (н.д.). Основы мозга: Понимание сна. От 7 июня 2017. 
 9. Ведение хронической бессонницы у взрослых: клиническое практическое руководство Американского колледжа врачей. Энн Интерн Мед. От 19 июля 2016;165(2):125-33."</string>
+    <string name="data_type_calorie">Калории</string>
+    <string name="data_type_curse">Женское здоровье</string>
     <string name="data_type_energy">Энергия</string>
     <string name="data_type_heart_rate">Пульс</string>
     <string name="data_type_sleep">Сон</string>
@@ -537,6 +570,8 @@
     <string name="device_add_discovery_paired">Обнаружено подключенное устройство</string>
     <string name="device_add_failed">Произошла ошибка</string>
     <string name="device_add_new">Добавить устройство</string>
+    <string name="device_agree_all">Принимаю все</string>
+    <string name="device_agree_to_terms">Условия и положения</string>
     <string name="device_alarm_notify">Синхронизация будильников</string>
     <string name="device_all_skills">Все функции</string>
     <string name="device_amazon_alexa">Amazon Alexa</string>
@@ -616,7 +651,9 @@
     <string name="device_error_bind_content">Выполните сброс устройства и повторите попытку.</string>
     <string name="device_error_bind_error">Произошла ошибка</string>
     <string name="device_error_have_bound">Произошла ошибка. Выполните сброс устройства и повторите попытку.</string>
-    <string name="device_feature_item_unknown">не поддерживается</string>
+    <string name="device_feature_item_device_factory">Заводские установки</string>
+    <string name="device_feature_item_test">Тестирование</string>
+    <string name="device_feature_item_unknown">Не поддерживается</string>
     <string name="device_find_device">Найти устройство</string>
     <string name="device_go_now">Открыть</string>
     <string name="device_goto_common_app">Подключите устройство</string>
@@ -662,6 +699,8 @@
     <string name="device_remove_device_in_other">Перейдите в раздел \"Устройство\" и нажмите \"Отключить\".</string>
     <string name="device_remove_fail">Произошла ошибка</string>
     <string name="device_remove_fail_many_time">Чтобы отключить устройство, перейдите в раздел \"Устройство\" и нажмите \"Отключить\".</string>
+    <string name="device_required_agree_collect_info">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия сбора и использования личной информации&lt;/a> (обязательно)&lt;/Data></string>
+    <string name="device_required_agree_use_location">&lt;Data>Я принимаю &lt;a href=\"%1$s\">Условия сбора информации о местоположении&lt;/a> (обязательно)&lt;/Data></string>
     <string name="device_retry">Повторите попытку</string>
     <string name="device_scan_login">Сканер</string>
     <string name="device_scan_qr_add_device">Добавить устройство</string>
@@ -821,6 +860,19 @@
     <string name="device_settings_common_wechat_pay">WeChat</string>
     <string name="device_settings_common_world_clock">Мировые часы</string>
     <string name="device_settings_common_xiaoai">Mi AI</string>
+    <string name="device_settings_contact">Избранные контакты</string>
+    <string name="device_settings_contact_add">Добавить</string>
+    <string name="device_settings_contact_add_fail">Не удалось добавить в избранные контакты. Повторите попытку.</string>
+    <string name="device_settings_contact_delete_fail">Не удалось удалить. Повторите попытку.</string>
+    <string name="device_settings_contact_edit">Редактирование</string>
+    <string name="device_settings_contact_list_fail">Не удалось получить информацию. Повторите попытку.</string>
+    <string name="device_settings_contact_list_tips1">1. Для вызовов контактов на носимом устройстве, добавьте их в избранные контакты.</string>
+    <string name="device_settings_contact_list_tips2">2. Можно добавить до 10 избранных контактов.</string>
+    <string name="device_settings_contact_search">Поиск контактов</string>
+    <string name="device_settings_contact_select">Выбор</string>
+    <string name="device_settings_contact_sort">Сортировка</string>
+    <string name="device_settings_contact_sync_failt">Не удалось синхронизировать. Повторите попытку.</string>
+    <string name="device_settings_contact_sync_success">Синхронизировано</string>
     <string name="device_settings_continue">Далее</string>
     <string name="device_settings_customize_schedule">По расписанию</string>
     <string name="device_settings_desc_pressure">Измерять уровень стресса в течение дня.</string>
@@ -980,6 +1032,7 @@
     <string name="device_settings_night_model_sunset_open">Откл. до заката</string>
     <string name="device_settings_night_model_tomorrow">Завтра</string>
     <string name="device_settings_night_start_time">Начать</string>
+    <string name="device_settings_no_contact">Нет контактов</string>
     <string name="device_settings_not_open_for_now">Не сейчас</string>
     <string name="device_settings_notify_permission_is_not_enabled">Разрешите доступ к уведомлениям</string>
     <string name="device_settings_nromal_alarm">Обычное</string>
@@ -1111,6 +1164,7 @@
     <string name="device_settings_unwear_close_cofirm_msg">После отключения цифрового кода вы не сможете использовать эту функцию. Продолжить?</string>
     <string name="device_settings_unwear_close_cofirm_title">Отключить цифровой код?</string>
     <string name="device_settings_unwear_close_pwd">Отключить цифровой код</string>
+    <string name="device_settings_unwear_get_status_fail">Ошибка синхронизации</string>
     <string name="device_settings_unwear_no_set">Не выбрано</string>
     <string name="device_settings_unwear_set_pwd">Цифровой код</string>
     <string name="device_settings_unwear_set_pwd_huami_alert">Введите 6-значный код</string>
@@ -1239,6 +1293,8 @@
 ID:%s
 Отправьте этот код руководителю."</string>
     <string name="dialog_exit_use">Выход</string>
+    <string name="dialog_loanding">Подождите…</string>
+    <string name="dialog_title_select_update_source">Выбор источника обновления</string>
     <string name="discard_update">Нет, спасибо</string>
     <string name="distance_custom_target">Проверьте свою цель</string>
     <string name="distance_range">(0,1–999)</string>
@@ -1452,6 +1508,7 @@ ID:%s
     <string name="firmware_install_success">Готово</string>
     <string name="firmware_installing_tip">Поднесите устройство ближе к телефону. Этот шаг может занять несколько минут.</string>
     <string name="firmware_low_battery_limit_tip">Для обновления носимого устройства уровень заряда должен быть не менее 10%.</string>
+    <string name="firmware_low_battery_limit_tip_with_progress">Для обновления носимого устройства уровень заряда должен быть не менее %1$d%%</string>
     <string name="firmware_low_battery_tip">Подключите зарядное устройство</string>
     <string name="firmware_not_support">Сначала обновите устройство</string>
     <string name="firmware_progress_expression">Синхронизировано %1$d%%</string>
@@ -1481,6 +1538,10 @@ ID:%s
     <string name="firmware_updating_tip">Поднесите устройство ближе к телефону</string>
     <string name="firmware_upgrade_start">Обновить</string>
     <string name="firmware_version_is_latest">Установлено новейшее ПО</string>
+    <string name="fitness_advanced_aerobic_run">Выносливость</string>
+    <string name="fitness_advanced_fat_burning_run">Жиросжигание</string>
+    <string name="fitness_advanced_interval_run">Интервалы</string>
+    <string name="fitness_advanced_run">Бег/ходьба</string>
     <string name="fitness_aerobics">Аэробика</string>
     <string name="fitness_aquatic_sport">Водные виды спорта</string>
     <string name="fitness_archery">Стрельба из лука</string>
@@ -1492,11 +1553,17 @@ ID:%s
     <string name="fitness_ballroom_dancing">Спортивные бальные танцы</string>
     <string name="fitness_barbell_training">Штанга</string>
     <string name="fitness_baseball">Бейсбол</string>
+    <string name="fitness_basic_aerobic_run">Выносливость</string>
+    <string name="fitness_basic_fat_burning_run">Жиросжигание</string>
+    <string name="fitness_basic_interval_run">Интервалы</string>
+    <string name="fitness_basic_run">Бег/ходьба</string>
+    <string name="fitness_basic_slow_run">Джоггинг</string>
     <string name="fitness_basketball">Баскетбол</string>
     <string name="fitness_battle_rope">Упражнения с канатами</string>
     <string name="fitness_beach_football">Пляжный футбол</string>
     <string name="fitness_beach_volleyball">Пляжный волейбол</string>
     <string name="fitness_belly_dance">Танец живота</string>
+    <string name="fitness_bike_motocross">Мотокросс</string>
     <string name="fitness_billiards">Бильярд</string>
     <string name="fitness_bmx">BMX</string>
     <string name="fitness_board_game">Настольные игры</string>
@@ -1547,6 +1614,8 @@ ID:%s
     <string name="fitness_gymnastics">Гимнастика</string>
     <string name="fitness_handball">Гандбол</string>
     <string name="fitness_health_walk">Ходьба</string>
+    <string name="fitness_heel_to_toe_walk">Спортивная ходьба</string>
+    <string name="fitness_high_bar">Турник</string>
     <string name="fitness_high_intensity_gap_training">ВИИТ</string>
     <string name="fitness_high_intensity_interval_training">ВИИТ</string>
     <string name="fitness_hiking_outdoor">Хайкинг</string>
@@ -1555,6 +1624,7 @@ ID:%s
     <string name="fitness_horizontal_bar">Перекладина</string>
     <string name="fitness_horse_riding">Верховая езда</string>
     <string name="fitness_hula_hoop">Обруч</string>
+    <string name="fitness_hunting">Охота</string>
     <string name="fitness_indoor_fitness">Тренировки в помещении</string>
     <string name="fitness_indoor_skating">Крытый каток</string>
     <string name="fitness_indoor_soccer">Мини-футбол</string>
@@ -1572,6 +1642,7 @@ ID:%s
     <string name="fitness_latin_dance">Латинские танцы</string>
     <string name="fitness_lower_limb_training">Нижняя часть тела</string>
     <string name="fitness_martial_arts">Боевые искусства</string>
+    <string name="fitness_miit_fat_burning_run">Жиросжигание</string>
     <string name="fitness_mixed_aerobic">Аэробика</string>
     <string name="fitness_motorboat">Водно-моторный спорт</string>
     <string name="fitness_mountain_climb">Треккинг</string>
@@ -1622,6 +1693,7 @@ ID:%s
     <string name="fitness_somatosensory_game">Соматосенсорные игры</string>
     <string name="fitness_spinning_bike">Спин-байк</string>
     <string name="fitness_sport_all">Все</string>
+    <string name="fitness_sport_walk_indoor">Спорт. ходьба в помещении</string>
     <string name="fitness_square_dance">Сквэр-данс</string>
     <string name="fitness_squash">Сквош</string>
     <string name="fitness_step_training">Степпер</string>
@@ -1647,6 +1719,7 @@ ID:%s
     <string name="fitness_volleyball">Волейбол</string>
     <string name="fitness_waist_training">Тренировка пресса</string>
     <string name="fitness_walk">Спортивная ходьба</string>
+    <string name="fitness_walk_indoor">Ходьба в помещении</string>
     <string name="fitness_walk_outdoor">Ходьба</string>
     <string name="fitness_walking">Прогулки</string>
     <string name="fitness_wall_ball">Медбол</string>
@@ -1740,7 +1813,7 @@ ID:%s
     <string name="health_active_stage_walk_slowly">Медленная ходьба</string>
     <string name="health_add_manually">Добавить данные</string>
     <string name="health_all_health_data">Изменить</string>
-    <string name="health_audio_permission_dialog_desc">Для анализа циклов сна, а также записи храпа и разговоров во сне разрешите этому приложению запись видео.</string>
+    <string name="health_audio_permission_dialog_desc">Для анализа циклов сна, а также записи храпа и разговоров во сне, разрешите этому приложению запись аудио.</string>
     <string name="health_audio_permission_dialog_title">Требуются разрешения</string>
     <string name="health_avg_heart_rate_name">Средний пульс</string>
     <string name="health_blood_avg_pressure_record_desc">Систолическое %1$s/диастолическое %2$s</string>
@@ -1976,6 +2049,11 @@ ID:%s
     <string name="health_data_sleep_empty">Нет данных</string>
     <string name="health_data_sort_label">Скрытые объекты</string>
     <string name="health_data_sort_label_kit">Скрытые виджеты</string>
+    <string name="health_data_sport_hrm1">Разминка</string>
+    <string name="health_data_sport_hrm2">Сжигание жира</string>
+    <string name="health_data_sport_hrm3">Аэробный</string>
+    <string name="health_data_sport_hrm4">Анаэробный</string>
+    <string name="health_data_sport_hrm5">Предельный</string>
     <string name="health_data_sport_record_empty">Ведите журнал тренировок</string>
     <string name="health_data_stand_explain_desc">"Данные о легкой активности показывают часы, в течение которых вы разминались или двигались не менее одной минуты.
 
@@ -2269,7 +2347,8 @@ ID:%s
     <string name="health_sleep_whether_to_override_history_records">Запись о сне уже существует в этот период времени. Удалить предыдущую запись?</string>
     <string name="health_snore_detection_close_title">Отключить обнаружение храпа и разговора?</string>
     <string name="health_snore_duration">Храп</string>
-    <string name="health_spo2_abnormal_low">Напоминания</string>
+    <string name="health_spo2_abnormal_count">Оповещения</string>
+    <string name="health_spo2_abnormal_low">Оповещения</string>
     <string name="health_spo2_avg">Среднее</string>
     <string name="health_spo2_desc_day">Кислород в крови %1$s</string>
     <string name="health_spo2_month_avg">Среднее</string>
@@ -2408,8 +2487,14 @@ ID:%s
     <string name="health_total_sleep_duration">Время</string>
     <string name="health_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="health_training_load">Тренировочная нагрузка</string>
+    <string name="health_training_load_grade">Рейтинг</string>
+    <string name="health_training_load_home_card_good">Хорошая нагрузка</string>
+    <string name="health_training_load_home_card_high">Избыточная нагрузка</string>
+    <string name="health_training_load_home_card_lack">Недостаточная нагрузка</string>
+    <string name="health_training_load_home_card_over">Чрезмерная нагрузка</string>
     <string name="health_training_load_last_seven_days">Последние 7 дней</string>
     <string name="health_training_load_understand">Тренировочная нагрузка</string>
+    <string name="health_training_load_unit">EPOC</string>
     <string name="health_v02max_name">МПК</string>
     <string name="health_vo2max_composite_grade">Уровень</string>
     <string name="health_vo2max_content">МПК — это максимальный объем потребляемого кислорода, измеренный во время тренировки с максимальной нагрузкой. МПК является показателем аэробной выносливости и работоспособности. Как правило, высокий показатель МПК означает, что вы можете тренироваться с более высокой интенсивностью, чем менее подготовленные люди.</string>
@@ -2432,6 +2517,7 @@ ID:%s
     <string name="health_weight_please_choose">Выбрать</string>
     <string name="health_weight_recommend">Рекомендуемый</string>
     <string name="health_weight_unit_kg">кг</string>
+    <string name="health_weight_unit_kg_capital">кг</string>
     <string name="heartrate">Пульс</string>
     <string name="heartrate_camera_permission_desc">Для измерения пульса с помощью вспышки и камеры</string>
     <string name="heartrate_choose_detect_state">В каком состоянии вы сейчас?</string>
@@ -2521,6 +2607,8 @@ ID:%s
     <string name="keep_alive_notification_channel">Подключение устройства</string>
     <string name="keep_alive_notification_content_connected">Подключено</string>
     <string name="keep_alive_notification_content_connecting">Соединение…</string>
+    <string name="key_info">"значение тестового ключа: 0x40-4F
+ версия ключа: 0x22"</string>
     <string name="languages_ar">العربية</string>
     <string name="languages_cn">简体中文</string>
     <string name="languages_cs">Čeština</string>
@@ -2552,6 +2640,8 @@ ID:%s
     <string name="line_slash">/</string>
     <string name="loading">Подождите…</string>
     <string name="lock_support_description2">Медкарта не отображается на экране блокировки?</string>
+    <string name="logIn_failed">Ошибка входа</string>
+    <string name="logIn_success">Успешный вход</string>
     <string name="log_off_account_failure">Ошибка удаления аккаунта</string>
     <string name="log_off_account_success">Аккаунт удален</string>
     <string name="login_account_desc">Войдите в Mi аккаунт, чтобы воспользоваться этой функцией. Выполнить вход?</string>
@@ -2690,6 +2780,7 @@ ID:%s
     <string name="medal_show_more">Показать все</string>
     <string name="medal_total_progress">100 %</string>
     <string name="medal_wall">Мои награды</string>
+    <string name="mi_ID">Mi ID :</string>
     <string name="midnight">Ночь</string>
     <string name="mine_about">О приложении</string>
     <string name="mine_activity">Испытания</string>
@@ -2759,6 +2850,7 @@ ID:%s
     <string name="miuix_sbl_tracking_progress_labe_up_none">На данный момент это все</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Подождите…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Не удалось загрузить данные</string>
+    <string name="mobile_environment_staging">Подключитесь к сети</string>
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
@@ -2830,6 +2922,7 @@ ID:%s
     <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к выбору дня</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
     <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы перейти к выбору года</string>
+    <string name="net_data_error">Ошибка данных с сервера</string>
     <string name="network_error_info">Произошла ошибка сети. Проверьте настройки и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="nfc_activate_interrupt_dialog">Вы всегда можете продолжить в приложении.</string>
@@ -2941,6 +3034,7 @@ ID:%s
     <string name="nfc_card_issue_dialog_milock_support_title">Поддерживается</string>
     <string name="nfc_card_issue_fail">Не удалось добавить</string>
     <string name="nfc_card_issue_hint_connect">Держите устройство поблизости</string>
+    <string name="nfc_card_issue_hint_device_empty">Добавьте устройство</string>
     <string name="nfc_card_issue_hint_mutl_device_dialog_title">Выберите устройство</string>
     <string name="nfc_card_issue_hint_no_device">Нет устройств, связанных с этим аккаунтом</string>
     <string name="nfc_card_issue_hint_no_login">Войдите в свой Mi аккаунт</string>
@@ -3098,6 +3192,7 @@ ID:%s
     <string name="nfc_mifare_issue_dialog_wear">Носимое устройство</string>
     <string name="nfc_mifare_issue_nfc_off_msg">Включите NFC на устройстве</string>
     <string name="nfc_mifare_issue_no_nfc_feature">Ваше устройство не поддерживает функцию NFC. Не удалось считать информацию с карты.</string>
+    <string name="nfc_new_mifare_card_issued">Карта уже добавлена</string>
     <string name="nfc_new_mifare_v3_title_start">Положите ключ-карту на экран</string>
     <string name="nfc_new_pay_name">Заказ</string>
     <string name="nfc_new_pay_order_detail">Платеж: %1$s | Сумма: %2$.2f CNY | Пополнение: %3$.2f CNY</string>
@@ -3232,6 +3327,7 @@ ID:%s
     <string name="nfc_settings_update_card_failed">Ошибка обновления</string>
     <string name="nfc_settings_update_card_succeed">Обновление завершено</string>
     <string name="nfc_show_unset_wear_pwd">Установите цифровой код для устройства, чтобы обеспечить безопасность платежей.</string>
+    <string name="nfc_status_exception">Исключение состояния NFC</string>
     <string name="nfc_syncese_btn_txt_global">Начать</string>
     <string name="nfc_syncese_content">Если вы не можете добавить карту в свой аккаунт, мы можем попытаться решить эту проблему.</string>
     <string name="nfc_syncese_content_mastercard_url">Если у вас возникли проблемы с картой, мы можем попытаться решить эту проблему. Если проблему не удастся решить, обратитесь в нашу &lt;a href=\"%1$s\">службу поддержки&lt;/a>.</string>
@@ -3508,6 +3604,8 @@ ID:%s
     <string name="privacy_permission_read_call_log">Доступ к журналу вызовов</string>
     <string name="privacy_permission_read_contacts">Доступ к контактам</string>
     <string name="privacy_permission_read_phone_state">Получать доступ к информации об устройстве</string>
+    <string name="privacy_permission_record_audio">Запись аудио</string>
+    <string name="privacy_permission_record_audio_des">Для записи разговоров и храпа при анализе цикла сна</string>
     <string name="privacy_permission_write_read_file">Доступ к хранилищу</string>
     <string name="privacy_sensitive_notify_des">Чтобы отслеживать прогресс тренировок и активности, мы собираем и обрабатываем ваши данные, включая маршруты тренировок, статистику сна, данные о пульсе и весе.</string>
     <string name="privacy_sensitive_notify_msg">&lt;Data>Прочтите и примите &lt;a href=\"%1$s\">Условия сбора и использования конфиденциальных данных&lt;/a>, чтобы узнать, как мы собираем и обрабатываем ваши данные. Вы не сможете использовать эту службу, если не предоставите согласие на сбор и обработку данных.&lt;/Data></string>
@@ -3529,6 +3627,7 @@ ID:%s
     <string name="qq_application_id" />
     <string name="qr_code_desc">Разместите QR-код внутри рамки</string>
     <string name="qr_code_title">Сканер</string>
+    <string name="query_se_key_status">Проверка статуса ключа безопасности</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="reject">Запретить</string>
@@ -3587,6 +3686,7 @@ ID:%s
     <string name="share_wx_not_support_timeline">Обновите приложение WeChat.</string>
     <string name="share_wx_session">WeChat</string>
     <string name="share_wx_timeline">Моменты</string>
+    <string name="show_info_text">Добавить тестовый ключ безопасности?</string>
     <string name="sign_in">Выполняется вход</string>
     <string name="sign_in_progress">Выполняется вход…</string>
     <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
@@ -3850,12 +3950,15 @@ ID:%s
     <string name="stand_notice_title4">Встаньте и сделайте небольшую растяжку</string>
     <string name="stand_notice_title5">Вы мало двигались в течение последнего часа</string>
     <string name="stand_notice_title6">Разминались ли вы в течение последнего часа?</string>
+    <string name="success">Готово</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sync_password">Пароль</string>
     <string name="sync_user_name">Имя пользователя</string>
     <string name="sync_weather_notification_message">Обновление данные о погоде на носимом устройстве…</string>
+    <string name="sync_wifi_no_permission_desc">Поделиться паролем Wi-Fi с носимым устройством?</string>
+    <string name="sync_wifi_no_permission_title">Отправка пароля</string>
     <string name="system_error_info">Система не отвечает. Подождите пару минут и повторите попытку.</string>
     <string name="taiwan">Тайвань</string>
     <string name="tb_current_select">%1$s</string>
@@ -4010,15 +4113,20 @@ ID:%s
     <string name="trail_label_percent">Процент</string>
     <string name="trail_label_sec_hm">/100 м</string>
     <string name="trail_label_sec_km">/км</string>
+    <string name="trail_label_sport_check">Калибровка</string>
     <string name="trail_label_time">Время</string>
     <string name="trail_label_type">Тип</string>
     <string name="trail_lactate_threshold">Порог</string>
     <string name="trail_low_intensity_description">Могу говорить без отдышки</string>
+    <string name="trail_map_style_common">По умолчанию</string>
+    <string name="trail_map_style_no_label">Нет</string>
+    <string name="trail_map_style_satillite">Спутник</string>
     <string name="trail_max_stress">Макс.</string>
     <string name="trail_middle_intensity_description">Могу говорить, но не петь</string>
     <string name="trail_month_dialog_go_today">Выбрано сегодня</string>
     <string name="trail_month_dialog_select_date">Выбрано %1$s</string>
     <string name="trail_not_exercising">Не сейчас</string>
+    <string name="trail_open_mail_points">Километровые отметки</string>
     <string name="trail_pace_best">Темп</string>
     <string name="trail_press_gym_button">Нажмите кнопку</string>
     <string name="trail_rate_average_heart_rate">уд/мин</string>
@@ -4065,7 +4173,7 @@ ID:%s
     <string name="trail_skiing_times">Спуск</string>
     <string name="trail_speed_best">Скорость</string>
     <string name="trail_sport_another_data">Другие</string>
-    <string name="trail_sport_avg_back_swing_duration">Беквсвинг</string>
+    <string name="trail_sport_avg_back_swing_duration">Бексвинг</string>
     <string name="trail_sport_avg_down_swing_duration">Даунсвинг</string>
     <string name="trail_sport_avg_resistance">Сопротивление</string>
     <string name="trail_sport_avg_stress">В среднем</string>
@@ -4094,6 +4202,7 @@ ID:%s
     <string name="trail_sport_detail_fall_height">Потеря высоты</string>
     <string name="trail_sport_detail_from">Источник данных: %1$s</string>
     <string name="trail_sport_detail_height_title">Высота, м</string>
+    <string name="trail_sport_detail_max_cadence">Макс.</string>
     <string name="trail_sport_detail_max_rowing">Макс.</string>
     <string name="trail_sport_detail_max_skipping">Макс.</string>
     <string name="trail_sport_detail_max_skipping_height">Мин.</string>
@@ -4141,7 +4250,7 @@ ID:%s
     <string name="trail_sport_golf_score">Свинг</string>
     <string name="trail_sport_golf_swing_rhythm">Ритм</string>
     <string name="trail_sport_golf_swing_speed">Скорость</string>
-    <string name="trail_sport_golf_swing_time">Беквсвинг</string>
+    <string name="trail_sport_golf_swing_time">Бексвинг</string>
     <string name="trail_sport_golf_total_score">Свинг</string>
     <string name="trail_sport_group_info_rest">Отдых</string>
     <string name="trail_sport_group_info_title1">Имя</string>
@@ -4152,12 +4261,14 @@ ID:%s
     <string name="trail_sport_hang_in_air_duration">Время в воздухе</string>
     <string name="trail_sport_list_record">Показать все</string>
     <string name="trail_sport_location_amap">Геолокация Amap</string>
+    <string name="trail_sport_map_edit">Карта</string>
     <string name="trail_sport_max_cadence_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_height_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_rate_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_row_freq_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_skip_height_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_speed_desc">Макс.: %1$s</string>
+    <string name="trail_sport_max_stress">Макс.</string>
     <string name="trail_sport_max_stroke_freq_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_swolf_desc">Макс.: %1$s</string>
     <string name="trail_sport_max_value_desc">Макс.: %1$s</string>
@@ -4209,8 +4320,11 @@ ID:%s
     <string name="trail_sport_summary_max_hrm">Макс. пульс</string>
     <string name="trail_sport_summary_rise_height">Набор высоты, м</string>
     <string name="trail_sport_summary_skipping_height">Высота прыжка, см</string>
+    <string name="trail_sport_summary_speed">Скорость (км/ч)</string>
     <string name="trail_sport_summary_sport_time">Время</string>
+    <string name="trail_sport_summary_step_length">Длина шага (см)</string>
     <string name="trail_sport_summary_steps">Шаги</string>
+    <string name="trail_sport_summary_stress">Нагрузка (мин.)</string>
     <string name="trail_sport_summary_stroke_count">Гребки</string>
     <string name="trail_sport_summary_swimming_posture">Основной стиль</string>
     <string name="trail_sport_summary_total_calories">Всего ккал</string>
@@ -4251,6 +4365,8 @@ ID:%s
     <string name="trail_sport_train_effect_light_level">Незначительная нагрузка</string>
     <string name="trail_sport_train_effect_recovery_level">Восстановление</string>
     <string name="trail_sport_training_effect">%1$s</string>
+    <string name="trail_sport_training_effect_aerobic">Аэробный эффект: %1$s</string>
+    <string name="trail_sport_training_effect_anaerobic">Анаэробный эффект: %1$s</string>
     <string name="trail_sport_triathlon_change_duration">Переход</string>
     <string name="trail_sport_triathlon_info_first_change">П1</string>
     <string name="trail_sport_triathlon_info_second_change">П2</string>
@@ -4270,7 +4386,15 @@ ID:%s
     <string name="trail_stress">Стресс</string>
     <string name="trail_stroke_avg_feq">греб/мин</string>
     <string name="trail_stroke_count">Гребки</string>
+    <string name="trail_summary_avg_back_swing_duration">Бексвинг (сек.)</string>
+    <string name="trail_summary_avg_down_swing_duration">Даунсвинг (сек.)</string>
+    <string name="trail_summary_avg_hrm">уд/мин</string>
     <string name="trail_summary_best">Записи</string>
+    <string name="trail_summary_detail_fall_height">Потеря высоты (м)</string>
+    <string name="trail_summary_detail_rise_height">Набор высоты (м)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Скорость (м/с)</string>
+    <string name="trail_summary_row_avg_freq">шаг/мин</string>
+    <string name="trail_summary_row_energy_working">Работа (кДж)</string>
     <string name="trail_swim_avg_swolf">Сред.</string>
     <string name="trail_swim_best_swolf">Макс.</string>
     <string name="trail_swim_consume_time">%1$s | %2$s</string>
@@ -4383,6 +4507,7 @@ ID:%s
     <string name="userinfo_contact_format2">"%1$s
 %2$s | %3$s"</string>
     <string name="userinfo_contact_format3">%1$s | %2$s | %3$s</string>
+    <string name="userinfo_contact_name">Имя контакта</string>
     <string name="userinfo_contact_permission_desc">Для сохранения контактов на случай ЧП</string>
     <string name="userinfo_data_type_calorie">Калории</string>
     <string name="userinfo_data_type_step">Шаги</string>
@@ -4459,6 +4584,7 @@ ID:%s
     <string name="userinfo_remarks">Имя</string>
     <string name="userinfo_remarks_hint">Имя</string>
     <string name="userinfo_rh_blood_type">Резус-фактор</string>
+    <string name="userinfo_select_avatar">Фото профиля</string>
     <string name="userinfo_select_mode">Выбор режима</string>
     <string name="userinfo_set_emergency_contact">Контакт на случай ЧП</string>
     <string name="userinfo_set_target_dynamic_indicators">Установите цель</string>
