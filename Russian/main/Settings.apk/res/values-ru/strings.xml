@@ -3860,12 +3860,16 @@
     <string name="freeform_guide_slide_to_small_freeform_title">Жест для плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
+    <string name="freeform_guide_to_sidehide_summary">Быстро перетащите приложение к краю экрана, чтобы скрыть его</string>
+    <string name="freeform_guide_to_sidehide_title">Скрытие плавающего окна</string>
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
 	
 • Потяните вниз панель действий плавающего окна.
 • Нажмите кнопку \"Плавающие окна\" в Недавних и выберите приложение.
 • Зажмите миниатюру приложения в Недавних и нажмите значок \"Плавающего окна\"."</string>
-    <string name="freeform_vedio_description_pad">Перетащите элемент из панели, чтобы открыть плавающее окно</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Нажмите на приложение на боковой панели для открытия в плавающем окне.
+· Перетащите приложение в центр экрана для открытия в плавающем окне, или к краю для разделения экрана."</string>
+    <string name="freeform_vedio_description_pad">Перетащите элемент из панели для открытия в плавающем окне</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
     <string name="friday">Пятница</string>
@@ -8473,6 +8477,7 @@ UT-интерфейс: %5$s"</string>
     <string name="shut_down_find_device_network_failure_content">Не удалось отключить Поиск устройства. Убедитесь, что устройство подключено к интернету.</string>
     <string name="shut_down_find_device_network_failure_title">Не удалось подключиться к сети</string>
     <string name="shuting_down_find_device">Отключение Поиска устройства…</string>
+    <string name="sidebar_setting">Настройки боковой панели</string>
     <string name="silent_duration">Длительность</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
     <string name="silent_mode_disable_media">Отключить все</string>

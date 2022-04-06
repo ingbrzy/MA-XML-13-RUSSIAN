@@ -2454,6 +2454,7 @@
     <string name="function_zhihu_title">Zhihu</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
+    <string name="galleryplus_theme_id">com.miui.video.theme.01</string>
     <string name="gcm_defaultSenderId">442074018142</string>
     <string name="ge"> </string>
     <string name="general__shared__audio_chapter">集</string>
@@ -4971,4 +4972,13 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
+<!-- ### FROM SOURCE -->
+    <string name="live_tv_detail_player_skeleton">live_tv_detail_palyer_skeleton.json</string>
+<!-- ### FROM SOURCE -->
+    <string name="monitor_app_name">zeus-monitor-crash</string>
+<!-- ### FROM SOURCE -->
+    <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
+<!-- ### FROM SOURCE -->
+    <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
+	
 </resources>

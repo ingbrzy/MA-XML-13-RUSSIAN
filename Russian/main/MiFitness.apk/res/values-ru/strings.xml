@@ -1952,11 +1952,11 @@ ID:%s
     <string name="health_curse_delete_confirm">Удалить запись?</string>
     <string name="health_curse_desc_empty">Нет данных</string>
     <string name="health_curse_desc_in">%d день менструации</string>
-    <string name="health_curse_end_future">Менструация завершилась</string>
+    <string name="health_curse_end_future">Менструация закончилась</string>
     <string name="health_curse_end_label">Завершить</string>
-    <string name="health_curse_end_pre">Менструация завершилась</string>
+    <string name="health_curse_end_pre">Менструация закончилась</string>
     <string name="health_curse_end_time_empty">Окончание</string>
-    <string name="health_curse_end_today">Менструация завершилась</string>
+    <string name="health_curse_end_today">Менструация закончилась</string>
     <string name="health_curse_forecast">Прогнозируемая менструация</string>
     <string name="health_curse_forecast_tip">Подробнее</string>
     <string name="health_curse_going">Текущий</string>

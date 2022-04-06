@@ -475,7 +475,7 @@
     <string name="mr_controller_no_info_available">Информация недоступна</string>
     <string name="mr_controller_no_media_selected">Ничего не выбрано</string>
     <string name="mr_controller_pause">Пауза</string>
-    <string name="mr_controller_play">Воспроизведение</string>
+    <string name="mr_controller_play">Воспроизвести</string>
     <string name="mr_controller_stop">Остановить</string>
     <string name="mr_controller_stop_casting">Прекращение трансляции</string>
     <string name="mr_controller_volume_slider">Громкость</string>
