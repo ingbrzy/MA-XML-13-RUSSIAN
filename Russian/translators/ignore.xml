@@ -2903,6 +2903,7 @@
     <string name="link_speed">%1$d Мбит/с</string>
     <string name="link_user_agreement">http://www.miui.com/res/doc/eula.html?lang=%s</string>
     <string name="list_delimeter">", "</string>
+    <string name="live_tv_detail_player_skeleton">live_tv_detail_palyer_skeleton.json</string>
     <string name="load_attachment">@string/load_more</string>
     <string name="loan_type_summary_base">@string/base_rate</string>
     <string name="localised_number">%d</string>
@@ -3231,6 +3232,7 @@
     <string name="module_feature_native">native</string>
     <string name="module_java">java</string>
     <string name="module_native">native</string>
+    <string name="monitor_app_name">zeus-monitor-crash</string>
     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_vpn_settings_separator">" "</string>
@@ -3508,6 +3510,8 @@
     <string name="pip_settings_bounds">662 756 1142 1026</string>
     <string name="platform_carrier_config_package">com.android.carrierconfig</string>
     <string name="play_count">%s播放</string>
+    <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
+    <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
     <string name="pm">PM</string>
     <string name="policy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
     <string name="policy_link_lawer_ft">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=ft</string>
@@ -4972,13 +4976,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-<!-- ### FROM SOURCE -->
-    <string name="live_tv_detail_player_skeleton">live_tv_detail_palyer_skeleton.json</string>
-<!-- ### FROM SOURCE -->
-    <string name="monitor_app_name">zeus-monitor-crash</string>
-<!-- ### FROM SOURCE -->
-    <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
-<!-- ### FROM SOURCE -->
-    <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
-	
 </resources>
