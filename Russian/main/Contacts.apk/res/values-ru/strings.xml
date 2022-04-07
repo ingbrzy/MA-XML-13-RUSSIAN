@@ -93,7 +93,7 @@
     <string name="bh_account_balance">Баланс</string>
     <string name="bh_account_binded_number">%1$s связан с вашим аккаунтом</string>
     <string name="bh_add_as_shortcut">Добавить ярлык на рабочий стол</string>
-    <string name="bh_add_as_shortcut_desc">Добавьте ярлык на рабочий стол для быстрого доступа к Mi Carrier Services.</string>
+    <string name="bh_add_as_shortcut_desc">Добавьте ярлык на рабочий стол для быстрого доступа к сервисам Mi Carrier</string>
     <string name="bh_add_now">Добавить</string>
     <string name="bh_add_succeed">Добавлено успешно</string>
     <string name="bh_adjust_failed">Не удалось откалибровать</string>
@@ -103,7 +103,7 @@
     <string name="bh_adjust_time">Откалибровано %1$s</string>
     <string name="bh_adjusted_today">Вы можете снова откалибровать завтра</string>
     <string name="bh_adjusting">Калибровка…</string>
-    <string name="bh_app_name">Mi Carrier Services</string>
+    <string name="bh_app_name">Сервисы Mi Carrier</string>
     <string name="bh_app_name_short">Сервисы оператора</string>
     <string name="bh_b">" Б"</string>
     <string name="bh_back">Назад</string>
@@ -119,9 +119,9 @@
     <string name="bh_buy_now">Покупка</string>
     <string name="bh_call_used">Использованные минуты</string>
     <string name="bh_cancel">Отмена</string>
-    <string name="bh_cancellation_of_carrier_services">Отказ от услуг</string>
-    <string name="bh_cancellation_of_carrier_services_des">Отказ от услуг Mi Carrier</string>
-    <string name="bh_cancellation_of_carrier_services_result">Если Вы продолжите, это будет означать отказ от услуг Mi Carrier. Сбор и использование Вашей личной информации будут прекращены, история заказов будет удалена. Прежде чем отказаться от услуг, убедитесь, что все транзакции завершены.</string>
+    <string name="bh_cancellation_of_carrier_services">Отказ от использования</string>
+    <string name="bh_cancellation_of_carrier_services_des">Отказ от сервисов Mi Carrier</string>
+    <string name="bh_cancellation_of_carrier_services_result">Если Вы продолжите, это будет означать отказ от сервисов Mi Carrier. Сбор и использование личной информации будут прекращены, история заказов будет удалена. Прежде чем отказаться от сервисов, убедитесь, что все транзакции завершены.</string>
     <string name="bh_cannot_action">%1$s недоступно для использования. Установите соответствующее приложение.</string>
     <string name="bh_cannot_fetch_num">Неизвестный номер телефона</string>
     <string name="bh_cannot_login_miacount">Не удалось войти в Mi аккаунт</string>
@@ -174,7 +174,7 @@
     <string name="bh_flow_order">Мобильный интернет</string>
     <string name="bh_flow_service">Мобильный интернет</string>
     <string name="bh_flow_unlimited">Безлимитный тариф</string>
-    <string name="bh_funtion_desc">Добро пожаловать в Mi Carrier Services! Вы можете использовать это приложение для проверки баланса, покупки минут, пакетов интернета и т.д. Для нормальной работы приложению требуется подключение к сети.</string>
+    <string name="bh_funtion_desc">Добро пожаловать в сервисы Mi Carrier! Вы можете использовать это приложение для проверки баланса, покупки минут, пакетов интернета и т.д. Для нормальной работы приложению требуется подключение к сети.</string>
     <string name="bh_gb">" ГБ"</string>
     <string name="bh_get_balance_success">Проверено успешно. Информация может обновляться с задержкой.</string>
     <string name="bh_get_charge_phone_number">Выбрать из контактов</string>
@@ -220,8 +220,10 @@
     <string name="bh_number_incorrect">Введите действующий номер телефона</string>
     <string name="bh_number_not_supported">Невозможно пополнить баланс этого номера телефона</string>
     <string name="bh_online_service">Онлайн поддержка</string>
+    <string name="bh_open_carrier_services_short">Сервисы Mi Carrier</string>
+    <string name="bh_open_carrier_services_short_reason">Для использования этой функции, включите сервисы Mi Carrier</string>
     <string name="bh_open_traffic_service">Активировать тарифный план оператора связи</string>
-    <string name="bh_option_agree_dec">Перед использованием приложения разрешите Mi Carrier Services подключение к интернету и предоставьте необходимые разрешения</string>
+    <string name="bh_option_agree_dec">Перед использованием приложения разрешите сервисам Mi Carrier подключение к интернету и предоставьте необходимые разрешения</string>
     <string name="bh_order_detail">Информация о заказе</string>
     <string name="bh_order_id">Номер заказа</string>
     <string name="bh_order_loading">Подождите…</string>
@@ -235,8 +237,8 @@
     <string name="bh_pay_fail_desc">Не удалось подключиться к сети. Вернитесь и повторите платеж.</string>
     <string name="bh_pay_fee">Сумма</string>
     <string name="bh_pay_success_desc">Ваш баланс может быть пополнен с задержкой</string>
-    <string name="bh_perm_ask_read_contacts">Разрешите Mi Carrier Services доступ к контактам</string>
-    <string name="bh_perm_ask_read_phone_state">Разрешите Mi Carrier Services доступ к хранилищу в настройках</string>
+    <string name="bh_perm_ask_read_contacts">Разрешите сервисам Mi Carrier доступ к контактам</string>
+    <string name="bh_perm_ask_read_phone_state">Разрешите сервисам Mi Carrier доступ к хранилищу</string>
     <string name="bh_perm_desc_read_contacts">Для отображения контактов при пополнении</string>
     <string name="bh_permission_contact">Доступ к контактам</string>
     <string name="bh_permission_contact_desc">Для пополнения баланса контактов</string>
@@ -258,6 +260,7 @@
     <string name="bh_please_login">Войти</string>
     <string name="bh_please_set_pkg">Выберите тариф для возможности проверки баланса.</string>
     <string name="bh_privacy_policy">Политика конфиденциальности</string>
+    <string name="bh_qualification_and_certificate">Лицензии и сертификаты</string>
     <string name="bh_receive_zero_card">Бесплатная SIM-карта</string>
     <string name="bh_recharge">Повторить платеж</string>
     <string name="bh_recharge_money">Сумма</string>
@@ -281,11 +284,11 @@
     <string name="bh_sim_two">SIM 2</string>
     <string name="bh_similar_number_hint">Этот номер похож на %1$s. Все равно пополнить этот номер?</string>
     <string name="bh_status_activating"><Data>&lt;font color =#0D84FF>Активация&lt;/font></Data></string>
-    <string name="bh_stop_carrier_services">Отключить сервис Mi Carrier</string>
+    <string name="bh_stop_carrier_services">Отключить сервисы Mi Carrier</string>
     <string name="bh_stop_carrier_services_short">Отключить Mi Carrier</string>
     <string name="bh_stop_result">Вы не сможете управлять своим тарифным планом или приобретать пакеты и минуты звонков, если отключите сервисы Mi Carrier. Отключить?</string>
-    <string name="bh_system_recommend">Системные рекомендации</string>
-    <string name="bh_system_recommend_des">Разрешите нам анализ трафика для рекомендации цифровых продуктов</string>
+    <string name="bh_system_recommend">Рекомендации</string>
+    <string name="bh_system_recommend_des">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы, но она будет не столь релевантной, поскольку не будет основываться на ваших предпочтениях.</string>
     <string name="bh_tag_phones">Часто используемые номера телефонов</string>
     <string name="bh_tags_number_exceed">Достигнут предел для телефонных номеров</string>
     <string name="bh_tb">" ТБ"</string>
@@ -327,7 +330,7 @@
     <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Отзыв согласия и отказ от услуг</string>
     <string name="bh_withdrawal_of_consent_des">Отзыв согласия с Политикой конфиденциальности Mi Carrier</string>
     <string name="bh_withdrawal_of_consent_long">Отзыв согласия</string>
-    <string name="bh_withdrawal_of_consent_result">Если Вы продолжите, согласие с Политикой конфиденциальности Mi Carrier будет отозвано. Сбор и использование Вашей личной информации будут прекращены, история заказов будет удалена. Перед тем как отозвать согласие, убедитесь, что все транзакции завершены.</string>
+    <string name="bh_withdrawal_of_consent_result">Если Вы продолжите, согласие с Политикой конфиденциальности Mi Carrier будет отозвано. Сбор и использование личной информации будут прекращены, история заказов будет удалена. Перед тем как отозвать согласие, убедитесь, что все транзакции завершены.</string>
     <string name="bh_wrong_number_hint">Введите действующий номер телефона</string>
     <string name="bills_info_label">Детали</string>
     <string name="bind_simcard_default">SIM-карта по умолчанию для вызовов</string>

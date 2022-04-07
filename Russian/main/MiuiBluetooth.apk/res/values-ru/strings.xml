@@ -123,7 +123,8 @@
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="ble_device_address">MAC адрес устройства Bluetooth Smart</string>
     <string name="ble_device_profile">Профили устройства Bluetooth</string>
-    <string name="ble_device_profile_header_title">Настройки</string>
+    <string name="ble_device_profile_header_title">Еще</string>
+    <string name="ble_device_profile_summary">Управление устройством</string>
     <string name="ble_device_profile_title">Устройство Bluetooth Smart</string>
     <string name="ble_device_rename">Переименовать</string>
     <string name="blob_expires_text">Истекает: %s</string>

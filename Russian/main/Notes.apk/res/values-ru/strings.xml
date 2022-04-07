@@ -697,7 +697,7 @@
     <string name="setting_big_screen_layout_title">Макет для большого экрана</string>
     <string name="setting_cloud_service">Облачные сервисы</string>
     <string name="setting_layout">Макет</string>
-    <string name="setting_micloud_sync_title">Синхронизация с облаком</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Макет</string>
     <string name="setting_other">ПРОЧЕЕ</string>
     <string name="setting_privacy">Политика конфиденциальности</string>

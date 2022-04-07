@@ -37,6 +37,7 @@
     <string name="add_clock">Добавить</string>
     <string name="add_common_timer">Добавить таймер</string>
     <string name="add_timer">Добавить таймер</string>
+    <string name="add_timer_dialog_title">Добавить таймер</string>
     <string name="add_timezone_title">Добавить часовой пояс</string>
     <string name="afternoon">После полудня</string>
     <string name="agree">Принимаю</string>
@@ -617,6 +618,7 @@
     <string name="timer_alert_type_beach">Пляж</string>
     <string name="timer_alert_type_forest">Лес</string>
     <string name="timer_alert_type_mute">Стандарт</string>
+    <string name="timer_alert_type_no">Нет</string>
     <string name="timer_alert_type_rain">Дождь</string>
     <string name="timer_alert_type_spring_rain">Весенний дождь</string>
     <string name="timer_alert_type_stove_fire">Камин</string>
@@ -628,6 +630,9 @@
     <string name="timer_continue">Продолжить</string>
     <string name="timer_continue_timer">Возобновить таймер</string>
     <string name="timer_created">Таймер создан</string>
+    <string name="timer_desc_use_brush_teeth">Почистить зубы</string>
+    <string name="timer_desc_use_facial_mask">Маска для лица</string>
+    <string name="timer_desc_use_sleep">Вздремнуть</string>
     <string name="timer_end_time">Таймер остановится в %s</string>
     <string name="timer_end_time_format">HH:mm d MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -636,6 +641,7 @@
     <string name="timer_is_paused">Таймер остановлен</string>
     <string name="timer_item_delete">Удалить</string>
     <string name="timer_item_duration_display">%1$d мин %2$d с</string>
+    <string name="timer_item_edit">Редактировать</string>
     <string name="timer_item_label_hint">Описание</string>
     <string name="timer_item_picker_hour">Ч</string>
     <string name="timer_item_picker_minute">М</string>
@@ -691,6 +697,7 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="week_ringtone_recommend_desc">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от даты. Установить будильником по умолчанию?</string>
     <string name="white_noise">Окружающий шум</string>
+    <string name="white_noise_guide_desc">Включите фоновое аудио, чтобы лучше сосредоточиться</string>
     <string name="white_noise_selector">Выберите аудио</string>
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="worldclock_edit_label">Мировые часы</string>

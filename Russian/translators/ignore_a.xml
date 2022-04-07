@@ -77,6 +77,10 @@
     <string-array name="animator_duration_scale_values"></string-array>
     <string-array name="aod_notification_status_entries"></string-array>
     <string-array name="aod_show_style_values"></string-array>
+    <array name="apk_list_tier1" />
+    <array name="apk_list_tier2" />
+    <array name="apk_path_list_tier1" />
+    <array name="apk_path_list_tier2" />
     <string-array name="apn_auth_values"></string-array>
     <string-array name="apn_not_allowed_entries"></string-array>
     <string-array name="apn_protocol_entries"></string-array>
@@ -734,6 +738,7 @@
     <string-array name="hide_installed_packages"></string-array>
     <string-array name="hide_packages"></string-array>
     <string-array name="hide_path"></string-array>
+    <string-array name="hide_self_if_new_freeform_task_white_list_activity"></string-array>
     <string-array name="high_device_cpu_list"></string-array>
     <string-array name="high_device_gpu_list"></string-array>
     <array name="horoscope_info_arrays"></array>
@@ -1197,6 +1202,7 @@
     <string-array name="settings_atmospheric_pressure_unit_detail"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_values"></string-array>
     <array name="shape_default_color_item"></array>
+    <string-array name="show_hidden_task_if_finished_white_list_activity"></string-array>
     <string-array name="show_non_rect_clip_values"></string-array>
     <string-array name="show_style_entries"></string-array>
     <string-array name="show_style_entries_5"></string-array>

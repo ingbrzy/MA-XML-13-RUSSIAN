@@ -10003,8 +10003,8 @@ UT-интерфейс: %5$s"</string>
     <string name="use_otg_file_transfers_summary">Медленная зарядка 500мА и передача файлов</string>
     <string name="use_otg_title">Подключение USB на лету</string>
     <string name="use_personalized_ad_service">Персонализированная реклама</string>
-    <string name="use_personalized_ad_service_summary">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы. Однако реклама больше не будет актуальной, поскольку не будет основываться на ваших предпочтениях.</string>
-    <string name="use_personalized_ad_service_summary_for_global">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы в системных приложениях MIUI. Однако реклама от Xiaomi и сторонних платформ больше не будет актуальной, поскольку не будет основываться на ваших предпочтениях.</string>
+    <string name="use_personalized_ad_service_summary">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы, но она будет не столь релевантной, поскольку не будет основываться на ваших предпочтениях.</string>
+    <string name="use_personalized_ad_service_summary_for_global">После отключения персонализированной рекламы, вы по-прежнему будете видеть то же количество рекламы в системных приложениях MIUI. Однако реклама от Xiaomi и сторонних платформ будет не столь релевантной, поскольку не будет основываться на ваших предпочтениях.</string>
     <string name="use_privacy_password_immediate">Попробовать</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
     <string name="use_system_preference">Выбор системы</string>
