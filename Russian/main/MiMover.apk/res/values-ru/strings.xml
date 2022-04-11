@@ -48,6 +48,12 @@
     <string name="apple_calendar">Мероприятия календаря</string>
     <string name="apple_contacts">Контакты</string>
     <string name="apple_image">Фото</string>
+    <string name="apple_install_background_downloading">Загрузка приложений в фоновом режиме…</string>
+    <string name="apple_install_get_data_faild">Ошибка</string>
+    <string name="apple_install_install_immediately_default">Установить</string>
+    <string name="apple_install_skip">Пропустить</string>
+    <string name="apple_install_sub_title">Выбранные приложения будут загружены из Get Apps</string>
+    <string name="apple_install_title">Приложения на старом устройстве</string>
     <string name="apple_video">Видео</string>
     <string name="appname_app_data_suffix">Данные приложения %1$s</string>
     <string name="apps_cannot_be_transfered_confirm_button">Начать</string>

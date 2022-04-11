@@ -38,6 +38,11 @@
         <item quantity="other">Доступна 64-разрядная версия для %1$d приложений</item>
         <item quantity="one">Доступна 64-разрядная версия для %1$d приложения</item>
     </plurals>
+    <plurals name="apple_install_install_immediately">
+        <item quantity="other">Установить %d приложений</item>
+        <item quantity="one">Установить %d приложение</item>
+        <item quantity="few">Установить %d приложения</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d элементов</item>
         <item quantity="one">%d элемент</item>

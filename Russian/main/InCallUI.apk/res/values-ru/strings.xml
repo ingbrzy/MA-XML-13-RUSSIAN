@@ -362,6 +362,7 @@
 нажмите \"%1$s\", затем выберите \"%2$s\"."</string>
     <string name="saf_permission_grant_permission_immediately">Далее</string>
     <string name="saf_permission_later">Не сейчас</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Чтобы разрешить запись вызовов, необходимо разблокировать устройство. Разблокировать?</string>
     <string name="saf_permission_refused">Отсутствуют разрешения для записи вызовов</string>
     <string name="saf_permission_title">Требуются разрешения</string>
     <string name="saf_permission_use_this_folder">Использовать эту папку</string>
