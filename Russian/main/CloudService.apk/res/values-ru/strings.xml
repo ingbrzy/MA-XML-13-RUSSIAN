@@ -49,6 +49,7 @@
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Неверное имя пользователя или пароль</string>
     <string name="btn_return">Назад</string>
+    <string name="btn_revoke_permission">Отозвать согласие</string>
     <string name="button_agree">Принимаю</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_quit">Выход</string>

@@ -57,7 +57,7 @@
     <string name="about_open_vitality_theme_desc">Включите для просмотра персонажа профиля.</string>
     <string name="about_port_health_service">Синхронизация с облаком</string>
     <string name="about_privacy_experience_program_title">Программа улучшения качества</string>
-    <string name="about_privacy_improvement_desc">Помогите нам улучшить наши продукты и услуги, предоставив доступ к статистике использования. Мы будем защищать вашу личную информацию в соответствии с нашей политикой конфиденциальности.</string>
+    <string name="about_privacy_improvement_desc">Помогите нам улучшить наши продукты и услуги, предоставив доступ к истории использования. Мы будем защищать вашу личную информацию в соответствии с нашей политикой конфиденциальности.</string>
     <string name="about_privacy_license_agreement">Пользовательское соглашение</string>
     <string name="about_privacy_participate_improvement_plan">Участие в Программе улучшения качества</string>
     <string name="about_privacy_revoke_account_confirm">Отозвать разрешение?</string>

@@ -1324,7 +1324,7 @@
     <string name="block_list_dialog_title">Отключить сейчас?</string>
     <string name="block_list_no_device">В черном списке нет устройств</string>
     <string name="block_list_remove_dialog_content">Устройство \"%s\" сможет подключаться к этой точке доступа</string>
-    <string name="block_list_remove_dialog_title">Удаление \"%s\" из черного списка</string>
+    <string name="block_list_remove_dialog_title">Внимание</string>
     <string name="block_list_summary">Просмотр устройств, которым запрещено подключаться к этой точке доступа</string>
     <string name="block_list_title">Черный список</string>
     <string name="block_title">Показывать уведомления</string>
@@ -4800,6 +4800,7 @@
     <string name="layout_size_normal_text">Мелкий</string>
     <string name="layout_size_small">XS</string>
     <string name="layout_size_small_text">Очень мелкий</string>
+    <string name="le_audio_title">LE Audio</string>
     <string name="learn_more">Подробнее</string>
     <string name="led_colors_summary">Уведомления</string>
     <string name="led_frequence_summary">Задать интервал</string>
@@ -9810,7 +9811,7 @@ UT-интерфейс: %5$s"</string>
     <string name="upload_debug_log_title">Использование и диагностика</string>
     <string name="usage">Мобильный интернет</string>
     <string name="usage_access">Доступ к истории использования</string>
-    <string name="usage_access_description">Доступ к истории использования позволяет отслеживать, какие приложения вы используете и как часто, а также определять оператора сети, язык и другие параметры.</string>
+    <string name="usage_access_description">Доступ к истории использования позволяет отслеживать какие приложения вы используете и как часто, получать информацию об операторе сети, языковые настройки и другие параметры.</string>
     <string name="usage_access_title">Приложения с доступом к данным</string>
     <string name="usage_app_get_it">Понятно</string>
     <string name="usage_app_limit_alter_summary">Устанавливаемый лимит меньше времени использования приложения сегодня. Все равно установить?</string>

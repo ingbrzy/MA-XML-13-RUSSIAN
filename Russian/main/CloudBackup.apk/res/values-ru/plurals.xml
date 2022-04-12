@@ -89,4 +89,8 @@
         <item quantity="one">Восстановление %d файла</item>
         <item quantity="few">Восстановление %d файлов</item>
     </plurals>
+    <plurals name="session_time_remain">
+        <item quantity="other">Осталось около %s мин.</item>
+        <item quantity="one">Осталось около %s мин.</item>
+    </plurals>
 </resources>
