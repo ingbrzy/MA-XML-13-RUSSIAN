@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_to_recover">Подождите…</string>
+    <string name="access_denied_info">Слишком много попыток. Повторите попытку позже.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_is_running">Задача выполняется…</string>
@@ -156,10 +157,17 @@
     <string name="cloud_backup_have_data">Найдена резервная копия в Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Отмена</string>
     <string name="cloud_backup_in_process">Резервное копирование…</string>
+    <string name="cloud_backup_permission_allow">Предоставлено</string>
+    <string name="cloud_backup_permission_not_allow">Не предоставлено</string>
+    <string name="cloud_backup_phone_state_summary">Для доступа к номеру телефона и состоянию устройства</string>
+    <string name="cloud_backup_phone_state_title">Доступ к информации об устройстве</string>
+    <string name="cloud_backup_rw_storage_summary">Для облачного резервного копирования рабочего стола, данных и настроек приложений</string>
+    <string name="cloud_backup_rw_storage_title">Доступ к хранилищу</string>
     <string name="cloud_backup_select_recover">Выберите копию из Xiaomi Cloud</string>
     <string name="cloud_restore_from_other_device">Остановить восстановление из %s и удалить копию? Это необратимое действие!</string>
     <string name="cloud_restore_task">Восстановление…</string>
     <string name="cloud_task_in_process">Остановить %s и удалить копию? Это необратимое действие!</string>
+    <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="confirm_cancel_restore_negative">Отмена</string>
     <string name="confirm_cancel_restore_positive">Продолжить</string>
     <string name="confirm_cancel_restore_title">Отменить восстановление?</string>
@@ -180,6 +188,10 @@
     <string name="desktop_wait_network">Ожидание…</string>
     <string name="desktop_waiting">Ожидание</string>
     <string name="device_delete_prompt">Удалить копию \"%s\"?</string>
+    <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
+    <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
+ID: %s
+Отправьте этот код руководителю."</string>
     <string name="dialog_app_usage_consent_message">Функции требуется доступ к истории использования приложения, чтобы оценить размер резервных копий WeChat</string>
     <string name="dialog_app_usage_consent_title">Доступ к истории использования</string>
     <string name="dialog_app_usage_denied">Предоставьте приложению разрешение \"Доступ к истории использования\" в настройках для возможности резервного копирования</string>
@@ -247,6 +259,7 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -342,6 +355,8 @@
     <string name="msg_restore_with_metered_network_hint">Для загрузки выбранных элементов будет использоваться мобильный интернет.</string>
     <string name="msg_restore_with_metered_network_pattern">Будет загружено файлов: %s</string>
     <string name="network_error">Подключитесь к сети</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="night">Вечер</string>
     <string name="no_account">Не выполнен вход в Mi Аккаунт</string>
     <string name="no_backup">Нет резервных копий в Xiaomi Cloud</string>
@@ -349,6 +364,7 @@
     <string name="not_set">Не задано</string>
     <string name="notification_channel_remind">Напоминание</string>
     <string name="notification_channel_service">Служба</string>
+    <string name="ok">ОК</string>
     <string name="open_backup_switch">Включите резервное копирование</string>
     <string name="open_wifi">Включите Wi-Fi</string>
     <string name="open_wifi_description">Для восстановления приложений подключитесь к Wi-Fi.</string>
@@ -356,8 +372,10 @@
     <string name="other_device_main_space">Первое пространство</string>
     <string name="other_device_second_space">Второе пространство</string>
     <string name="pc_mode_not_support_restore_warning">Восстановление в режиме ПК недоступно. Отключите режим ПК и повторите попытку.</string>
+    <string name="permission_to_use">Сведения о разрешениях</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
+    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
     <string name="provision_back">Назад</string>
     <string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервное копирование недоступно, когда ваше устройство отключено от сети.</string>
@@ -440,6 +458,8 @@
     <string name="self_device_main_space">Первое пространство</string>
     <string name="self_device_second_space">Второе пространство</string>
     <string name="send">Отправить</string>
+    <string name="send_diagnosis_log">Отправить журнал</string>
+    <string name="sending">Отправка…</string>
     <string name="session_action_btn_text_return_home">Рабочий стол</string>
     <string name="session_backup_apk_data_text">Создание резервной копии данных WeChat…</string>
     <string name="session_backup_apk_text">Резервное копирование рабочего стола и системных настроек…</string>
@@ -510,6 +530,8 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
+    <string name="temporary_not_available">временно недоступно</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -567,6 +589,7 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unselected">Не выбрано</string>
     <string name="unsupported_home">Обновите MIUI до последней версии.</string>
     <string name="v7_preference_off">Откл.</string>
