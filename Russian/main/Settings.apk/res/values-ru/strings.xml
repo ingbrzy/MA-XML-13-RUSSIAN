@@ -3240,7 +3240,7 @@
     <string name="emergency_info_contextual_card_summary">Медицинская информация, экстренные контакты</string>
     <string name="emergency_info_summary">%1$s: информация и контакты</string>
     <string name="emergency_info_title">Данные для экстренных случаев</string>
-    <string name="emergency_settings_preference_title">Безопасность и экстренные случаи</string>
+    <string name="emergency_settings_preference_title">Экстренные ситуации</string>
     <string name="emergency_sos_title">Экстренный вызов</string>
     <string name="emergency_tone_alert">Оповещения</string>
     <string name="emergency_tone_silent">Без звука</string>
