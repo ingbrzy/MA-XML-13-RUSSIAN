@@ -3231,12 +3231,12 @@
     <string name="emergency_gesture_number_override_notes">"Если вместо номера экстренной службы вы укажете другой номер:
  • Чтобы совершить экстренный вызов, нужно будет разблокировать устройство
  • Ваш вызов может остаться без ответа"</string>
-    <string name="emergency_gesture_screen_summary">Быстро нажмите кнопку питания не менее пяти раз для выполнения перечисленных ниже действий</string>
+    <string name="emergency_gesture_screen_summary">Для активации функции \"Экстренный вызов\" быстро нажмите кнопку питания не менее пяти раз, это запустит перечисленные ниже действия: Звуковой сигнал (если включено), Вызов экстренней службы</string>
     <string name="emergency_gesture_screen_title">Экстренный вызов</string>
     <string name="emergency_gesture_settings_package" />
-    <string name="emergency_gesture_sound_setting_summary">Включить громкий звуковой сигнал перед экстренным вызовом</string>
-    <string name="emergency_gesture_sound_setting_title">Звуковой сигнал с обратным отсчетом</string>
-    <string name="emergency_gesture_switchbar_title">Использовать функцию \"Экстренный вызов\"</string>
+    <string name="emergency_gesture_sound_setting_summary">Включить громкий звуковой сигнал с обратным отсчетом перед экстренным вызовом</string>
+    <string name="emergency_gesture_sound_setting_title">Звуковой сигнал</string>
+    <string name="emergency_gesture_switchbar_title">Использовать функцию</string>
     <string name="emergency_info_contextual_card_summary">Медицинская информация, экстренные контакты</string>
     <string name="emergency_info_summary">%1$s: информация и контакты</string>
     <string name="emergency_info_title">Данные для экстренных случаев</string>
@@ -6574,7 +6574,7 @@
     <string name="onehour">30 минут</string>
     <string name="onekey_migrate">Mi Mover</string>
     <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
-    <string name="open_app_button">Открыть %1$s</string>
+    <string name="open_app_button">%1$s</string>
     <string name="open_demo_mode">Включить</string>
     <string name="open_demo_mode_warning_message">В деморежиме часы в строке состояния будут остановлены, значки батареи и сигналов сети будут показаны полными. Для изменения этого поведения отключите деморежим или перезагрузите устройство.</string>
     <string name="open_game_accelerate">Ускорение игр</string>
