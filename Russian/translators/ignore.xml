@@ -2294,6 +2294,7 @@
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_application_id"/>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
+    <string name="fb_app_id">275128264295306</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="feedback_cancel">取消</string>
     <string name="feedback_ok">反馈</string>

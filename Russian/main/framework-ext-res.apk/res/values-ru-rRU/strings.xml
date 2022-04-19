@@ -387,9 +387,9 @@
     <string name="relaunch_dialog_button_confirm">ОК</string>
     <string name="relaunch_dialog_message">Не удалось настроить размер окна во время работы приложения. Требуется перезапуск приложения. Данные приложения, созданные во время этого сеанса, могут быть потеряны. Перезапустить?</string>
     <string name="relaunch_dialog_title">Перезапуск \"%s\"</string>
-    <string name="relaunch_fold_notification_content">Приложение \"%s\" может отображаться неправильно после того, как устройство сложено, необходимо перезапустить его.</string>
+    <string name="relaunch_fold_notification_content">Это приложение может отображаться неправильно после того, как устройство сложено, необходимо перезапустить его</string>
     <string name="relaunch_notification_title">Перезапуск \"%s\"</string>
-    <string name="relaunch_unfold_notification_content">Приложение \"%s\" может отображаться неправильно после того, как устройство развернуто, необходимо перезапустить его.</string>
+    <string name="relaunch_unfold_notification_content">Это приложение может отображаться неправильно после того, как устройство развернуто, необходимо перезапустить его</string>
     <string name="remain">Осталось: %s</string>
     <string name="replace">Заменить</string>
     <string name="resolver_app_recommend_flag">Рекомендовать</string>

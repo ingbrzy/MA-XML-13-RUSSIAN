@@ -4509,6 +4509,10 @@
     <string name="kddi_nfc_secure_toggle_summary">Держать функцию NFC/Osaifu-keitai включенной только когда устройство разблокировано</string>
     <string name="keep_legacy_fingerprint">Оставить</string>
     <string name="keep_screen_on">Не выключать экран</string>
+    <string name="keep_screen_on_after_folding_off_summary">Не выключать внешний экран после складывания во время вызовов или при использовании камеры</string>
+    <string name="keep_screen_on_after_folding_on_summary">Не выключать внешний экран после складывания, для продолжения работы с текущими задачами</string>
+    <string name="keep_screen_on_after_folding_text">Не выключать внешний экран после складывания, для продолжения работы с текущими задачами</string>
+    <string name="keep_screen_on_after_folding_title">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
     <string name="kernel_version">Версия ядра</string>
     <string name="key_combination_power_back">\"Питание\" + \"Назад\"</string>
@@ -10153,7 +10157,7 @@ UT-интерфейс: %5$s"</string>
     <string name="virtual_sim_global_title">Сервис передачи данных</string>
     <string name="virtual_sim_title">Интернет в роуминге</string>
     <string name="virtual_surround_sound_switch_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %.1f аудио) </string>
-    <string name="virtual_surround_sound_switch_title">Виртуальный иммерсивный звук</string>
+    <string name="virtual_surround_sound_switch_title">Иммерсивный звук</string>
     <string name="virus_scan">Антивирус</string>
     <string name="virus_scan_app_continue">Продолжить</string>
     <string name="virus_scan_app_finish">Проверка завершена</string>

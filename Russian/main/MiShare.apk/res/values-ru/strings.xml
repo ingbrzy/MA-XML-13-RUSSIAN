@@ -160,6 +160,8 @@
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Понятно</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Lenovo</string>
     <string name="location_enabled">Приложение Mi Share использует геолокацию для поиска устройств поблизости</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>

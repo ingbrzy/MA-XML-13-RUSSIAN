@@ -1490,6 +1490,7 @@
     <string-array name="wind_power"></string-array>
     <string-array name="wind_power_setting_unit_values"></string-array>
     <string-array name="window_animation_scale_values"></string-array>
+    <string-array name="work_data_titles"></string-array>
     <string-array name="xiaoai_tips"></string-array>
     <string-array name="yahoo"></string-array>
     <string-array name="yahoo_in_list"></string-array>
