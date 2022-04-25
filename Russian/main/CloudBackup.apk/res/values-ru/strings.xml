@@ -44,6 +44,8 @@
     <string name="backup_action_buy_cloud_space">Получить больше места</string>
     <string name="backup_action_check_network">Проверьте настройки сети</string>
     <string name="backup_action_clean_disk_space">Освободить место</string>
+    <string name="backup_action_long_time_not_backup_action">Начать</string>
+    <string name="backup_action_long_time_not_backup_title">Резервное копирование</string>
     <string name="backup_action_no_space_with_wechat_off_content">Недостаточно места в облачном хранилище для резервного копирования файлов с этого устройства. Нажмите для вариантов.</string>
     <string name="backup_action_no_space_with_wechat_off_title">Недостаточно места</string>
     <string name="backup_action_no_space_with_wechat_on_content">Недостаточно места в облачном хранилище для резервного копирования данных WeChat. Обновите тарифный план.</string>
@@ -210,10 +212,18 @@ ID: %s
     <string name="dialog_cancel_backup_msg">Отключение резервного копирования прервет текущие процессы копирования.</string>
     <string name="dialog_cancel_backup_title">Отменить резервное копирование?</string>
     <string name="dialog_cloud_space_not_enough">Для создания резервной копии требуется %1$s свободного места в облачном хранилище. Обновите тарифный план.</string>
+    <string name="dialog_content_cancel_backup">В случае отмены резервного копирования, уже загруженные данные будут потеряны. Отменить?</string>
+    <string name="dialog_content_cancel_restore">В случае отмены восстановления, уже восстановленные данные будут сохранены. Отменить?</string>
     <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_need_permission">Требуются разрешения</string>
+    <string name="dialog_negative_btn_cancel_backup">Отменить</string>
+    <string name="dialog_negative_btn_cancel_restore">Отменить</string>
+    <string name="dialog_positive_btn_cancel_backup">Продолжить</string>
+    <string name="dialog_positive_btn_cancel_restore">Продолжить</string>
+    <string name="dialog_title_cancel_backup">Резервное копирование</string>
+    <string name="dialog_title_cancel_restore">Восстановление</string>
     <string name="dialog_title_require_wlan">Подключитесь к Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">Подключитесь к Wi-Fi</string>
     <string name="dialog_wechat_data_close_agree">Оставить</string>

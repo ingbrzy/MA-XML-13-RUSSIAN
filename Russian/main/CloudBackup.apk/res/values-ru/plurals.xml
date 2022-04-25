@@ -29,6 +29,11 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Вы не создавали резервные копии %s недель. Выполните резервное копирование, чтобы сохранить важные данные.</item>
+        <item quantity="one">Вы не создавали резервные копии %s неделю. Выполните резервное копирование, чтобы сохранить важные данные.</item>
+        <item quantity="few">Вы не создавали резервные копии %s недели. Выполните резервное копирование, чтобы сохранить важные данные.</item>
+    </plurals>
     <plurals name="cloud_backup_detail_frequence_day">
         <item quantity="other">Каждые %d дней</item>
         <item quantity="one">Каждый день</item>

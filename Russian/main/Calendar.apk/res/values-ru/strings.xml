@@ -495,7 +495,7 @@
     <string name="horoscope_card_set_bazi">Настроить гороскоп</string>
     <string name="horoscope_card_title">Гороскоп на сегодня</string>
     <string name="horoscope_card_working">Рабочий гороскоп:</string>
-    <string name="horoscope_partner">при поддержке Staqu</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">Выберите знак зодиака</string>
     <string name="hotel_detail_title">Информация об отеле</string>
     <string name="hotel_event_delete_successfully">Бронирование успешно удалено</string>

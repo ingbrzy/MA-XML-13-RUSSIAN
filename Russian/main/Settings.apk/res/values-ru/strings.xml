@@ -3861,7 +3861,7 @@
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
     <string name="freeform_guide_to_sidehide_summary">Быстро перетащите приложение к краю экрана, чтобы скрыть его</string>
-    <string name="freeform_guide_to_sidehide_title">Скрытие плавающего окна</string>
+    <string name="freeform_guide_to_sidehide_title">Скрытие</string>
     <string name="freeform_vedio_description">"Варианты открытия плавающего окна:
 	
 • Потяните вниз панель действий плавающего окна.
@@ -4055,6 +4055,7 @@
     <string name="gxzw_vibrate_title">Вибрация при разблокировке</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>
+    <string name="handy_mode_hint">Управление одной рукой доступно только на внешнем экране.</string>
     <string name="handy_mode_no_touch_assistant">Управление одной рукой доступно при навигации кнопками. Переключиться на навигацию кнопками можно в меню \"Экранная навигация\" в Настройках.</string>
     <string name="handy_mode_size">Размер экрана</string>
     <string name="handy_mode_tips">Включите управление одной рукой, проведя пальцем влево или вправо от центра навигационной панели.</string>

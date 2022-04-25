@@ -414,6 +414,7 @@ ID: %s
     <string name="download_while_playing_title">Загружать при прослушивании</string>
     <string name="downloaded">Загружено</string>
     <string name="downloaded_empty">Пусто</string>
+    <string name="downloading">Загрузка…</string>
     <string name="downloading_apk">Загрузка… Следите за процессом в шторке уведомлений.</string>
     <string name="downloading_empty">Пусто</string>
     <string name="downloading_pause_apk">Пауза. Возобновите загрузку в шторке уведомлений.</string>
@@ -424,6 +425,7 @@ ID: %s
     <string name="empty_page_no_artist">Нет исполнителей</string>
     <string name="enabled">ОК</string>
     <string name="enjoy_hungama_pro">Наслаждайтесь Hungama PRO</string>
+    <string name="enroll_in">Регистрация</string>
     <string name="enter_garbage_clean">Требуется очистка места</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>
@@ -575,6 +577,8 @@ ID: %s
     <string name="google_login_btn_content_description">Войти с помощью Google</string>
     <string name="goto_local_search">Поиск на устройстве</string>
     <string name="goto_online_search">Поиск онлайн</string>
+    <string name="gps_prompt_context">Использовать для загрузки мобильный интернет?</string>
+    <string name="gps_prompt_title">Внимание</string>
     <string name="handle_later">Не сейчас</string>
     <string name="hd_quality_audio">Звук HD качества</string>
     <string name="header_help">Помощь</string>
@@ -1033,6 +1037,7 @@ ID: %s
     <string name="open_settings">Настройки</string>
     <string name="operation_done_close">Закрыть</string>
     <string name="other_song_in_album">Другие треки из этого альбома</string>
+    <string name="party">Вечеринка</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_label">Mi Аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
