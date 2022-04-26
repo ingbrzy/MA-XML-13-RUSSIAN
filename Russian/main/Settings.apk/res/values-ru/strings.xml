@@ -10452,6 +10452,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_ap_5G">5,0 ГГц</string>
     <string name="wifi_ap_band_config">Диапазон частот Wi-Fi</string>
     <string name="wifi_ap_band_select_one">Выберите хотя бы один диапазон частот для точки доступа Wi-Fi.</string>
+    <string name="wifi_ap_choose">%1$s ГГц</string>
     <string name="wifi_ap_choose_2G">2,4 ГГц</string>
     <string name="wifi_ap_choose_5G">5 ГГц</string>
     <string name="wifi_ap_choose_auto">Авто</string>

@@ -758,6 +758,7 @@
     <string name="back_lavender">2:REDMI NOTE 7:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_lavender_india_s">2:REDMI NOTE 7S:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_lemon">4:MI PHONE</string>
+    <string name="back_lilac">2:REDMI NOTE 10T</string>
     <string name="back_lime">3:SHOT ON MI PHONE</string>
     <string name="back_lime_global">4:REDMI 9T</string>
     <string name="back_limegl">4:REDMI 9 POWER</string>
@@ -1562,6 +1563,7 @@
     <string name="config_defaultDialer">com.android.contacts</string>
     <string name="config_defaultDndAccessPackages">com.android.camera2</string>
     <string name="config_defaultListenerAccessPackages"/>
+    <string name="config_defaultListenerAccessPackages_miui">com.xiaomi.barrage</string>
     <string name="config_defaultModuleMetadataProvider">com.android.modulemetadata</string>
     <string name="config_defaultMusicRecognitionService" />
     <string name="config_defaultNearbySharingComponent" />
