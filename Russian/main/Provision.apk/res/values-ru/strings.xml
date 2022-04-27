@@ -115,6 +115,7 @@
     <string name="disagreement_terminate_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете удалить приложение, выйти из учетной записи или ограничить разрешения в настройках.</string>
     <string name="download_introduction">Это приложение управляет всеми загрузками, включая загрузки в приложениях GetApps, Mi Видео, Обновление, Темы и Браузер.</string>
     <string name="early_morning">Утро</string>
+    <string name="empty_title">" "</string>
     <string name="enable_accessibility_canceled">Помощник отключен.</string>
     <string name="enable_accessibility_dialog_message">Вы включили TalkBack, нажимая на экран двумя пальцами дольше 10 секунд. TalkBack – это голосовой сервис для людей с нарушением зрения. Если вы случайно включили его, нажмите кнопку \"Отмена\", а затем дважды коснитесь экрана.</string>
     <string name="enable_accessibility_dialog_negative_btn">Отмена</string>
@@ -164,6 +165,7 @@
     <string name="intent_filter_verification_service">Служба проверки Intent Filter</string>
     <string name="interconnection_communication_introduction">Службы интернет-коммуникации Xiaomi позволяют обнаруживать, подключаться и общаться с другими устройствами Xiaomi.</string>
     <string name="item_contents_wwarning">В случае потери устройства и отсутствия блокировки, устройство и ваши личные данные будут доступны другим людям. Все равно пропустить?</string>
+    <string name="item_facerecognition">Разблокировка по лицу</string>
     <string name="item_fingerprint">Отпечаток пальца</string>
     <string name="item_lock_screen_password">Только блокировка экрана</string>
     <string name="item_lock_screen_password_only">Блокировка экрана</string>
