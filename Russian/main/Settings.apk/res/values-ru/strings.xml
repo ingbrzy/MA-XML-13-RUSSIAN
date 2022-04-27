@@ -2866,6 +2866,7 @@
     <string name="device_info_not_available">Недоступно</string>
     <string name="device_info_settings">Состояние устройства</string>
     <string name="device_internal_memory">Хранилище</string>
+    <string name="device_mall_card_title">Проверка привилегий</string>
     <string name="device_memory">ОЗУ</string>
     <string name="device_miui_more">Показать еще</string>
     <string name="device_miui_version">Версия MIUI</string>
@@ -3506,8 +3507,8 @@
     <string name="face_data_siggesstion_next_time">Далее (%d сек.)</string>
     <string name="face_data_siggesstion_next_time_cn">ОК (%d сек.)</string>
     <string name="face_data_suggesstion_first">Разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью.</string>
-    <string name="face_data_suggesstion_first_cn">"Для разблокировки по лицу необходимо добавить данные лица. Данные лица будут храниться локально на устройстве. Чтобы удалить их, выполните поиск \"Разблокировка по лицу\" в Настройках, затем выберите Разблокировка по лицу > Данные лица.
-Разблокировка по лицу менее безопасна, чем другие способы. Устройство может быть разблокировано вашей фотографией или людьми с похожей внешностью."</string>
+    <string name="face_data_suggesstion_first_cn">Для разблокировки по лицу необходимо добавить данные лица, которые будут сохранены локально на устройстве. Чтобы удалить данные лица, найдите в Настройках \"Разблокировка по лицу\", затем выберите Разблокировка по лицу > Данные лица.</string>
+    <string name="face_data_suggesstion_first_cn_highlight">Разблокировка по лицу менее безопасна, чем PIN-код, пароль или графический ключ. Устройство может быть разблокировано с помощью вашей фотографии, а также людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что лицо хорошо видно и освещено.</string>
     <string name="face_intro_error_max">Добавлено максимальное количество лиц</string>
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
@@ -4035,7 +4036,7 @@
     <string name="gxzw_anim_star">Звезды</string>
     <string name="gxzw_anim_title">Анимация отпечатка</string>
     <string name="gxzw_anim_unlock_effect">Анимация отпечатка %s</string>
-    <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка. Эта функция увеличивает расход батареи.</string>
+    <string name="gxzw_aod_show_summary">Поднимите устройство или коснитесь экрана, чтобы появился значок отпечатка. Эта функция увеличивает расход батареи, но позволяет разблокировать устройство быстрее.</string>
     <string name="gxzw_aod_show_tittle">Показывать значок отпечатка при выключенном экране</string>
     <string name="gxzw_dialog_message">Для нормальной работы экранного сканера отпечатков не используйте средства защиты экрана. Если вы считаете, что защита экрана всё же необходима, выберите один из совместимых вариантов.</string>
     <string name="gxzw_dialog_not_show_again">Больше не показывать</string>
@@ -6201,6 +6202,8 @@
     <string name="networks_title">Мобильные сети</string>
     <string name="never">Никогда</string>
     <string name="new_backup_pw_prompt">Введите новый пароль</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Для разблокировки по лицу необходимо добавить данные лица. Добавить?</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Добавление данных лица</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Добавьте отпечаток для разблокировки устройства</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Отмена</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Добавить</string>
