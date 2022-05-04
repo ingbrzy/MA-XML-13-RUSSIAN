@@ -514,6 +514,7 @@
     <string name="cloud_full_space_tip_negative">Не сейчас</string>
     <string name="cloud_full_space_tip_positive">Обновить</string>
     <string name="cloud_full_space_tip_title">Недостаточно места</string>
+    <string name="cloud_full_space_tip_title_completely">Облачное хранилище заполнено</string>
     <string name="cloud_guide_auto_backup_title">Выберите альбомы для выгрузки</string>
     <string name="cloud_guide_login_title">Автоматическая выгрузка фото и видео</string>
     <string name="cloud_guide_welcome_title">Xiaomi Cloud</string>
@@ -607,6 +608,7 @@
     <string name="correct_photo_time">Коррекция даты и времени фото</string>
     <string name="correct_time_success">Коррекция завершена</string>
     <string name="correct_time_tip">Коррекция даты и времени…</string>
+    <string name="create_album_failed_because_dup">Альбом уже существует. Добавить файлы в него?</string>
     <string name="create_baby_album">Создать детский альбом</string>
     <string name="create_baby_album_dialog_msg">Создать альбом для \"%s\"?</string>
     <string name="create_baby_album_later_toast">Создать детский альбом можно в любое время в настройках</string>
@@ -1154,6 +1156,8 @@
     <string name="grant_permission_go_and_set">Настроить</string>
     <string name="grant_permission_go_and_set_2">Настроить</string>
     <string name="grant_permission_go_and_set_3">Настроить</string>
+    <string name="grant_permission_manage_storage">Требуются разрешения</string>
+    <string name="grant_permission_manage_storage_unlock">Разблокируйте устройство и разрешите приложению доступ к хранилищу</string>
     <string name="grant_permission_shortcut">Разрешите приложению создание ярлыков на рабочем столе</string>
     <string name="grant_permission_storage">Разрешите приложению доступ к хранилищу</string>
     <string name="grant_permission_storage_unlock">Разблокируйте устройство и разрешите приложению доступ к хранилищу</string>
@@ -1283,6 +1287,9 @@
     <string name="last_some_day_travel_title_one">В %1$s</string>
     <string name="last_some_day_travel_title_three">Исследуя %1$s</string>
     <string name="last_some_day_travel_title_two">Моменты %1$s</string>
+    <string name="last_some_performance_title">Увиденное мною</string>
+    <string name="lenovo">Lenovo</string>
+    <string name="lenovo_phone">Lenovo</string>
     <string name="limit_height">Высота должна быть &gt; 0</string>
     <string name="limit_width">Ширина должна быть &gt; 0</string>
     <string name="live_photo">Динамический снимок</string>
@@ -1808,6 +1815,7 @@
     <string name="operation_too_often">От вас поступает слишком много запросов. Подождите немного и повторите попытку.</string>
     <string name="operation_unforce_top">Открепить</string>
     <string name="operation_unhide">Показать</string>
+    <string name="operation_upgrade_gallery">Обновить</string>
     <string name="operation_video_compress">Сжать видео</string>
     <string name="operation_watermark">Водяной знак</string>
     <string name="oppo">OPPO</string>
@@ -2006,7 +2014,7 @@
     <string name="photo_vlog_module_loading">Загрузка видеоредактора…</string>
     <string name="photodetail_failed_already_exist">Файл уже существует</string>
     <string name="photodetail_rename_failed">Не удалось переименовать</string>
-    <string name="photodetail_rename_invalid">"Имя файла не может содержать: /\\:*?&lt;>|."</string>
+    <string name="photodetail_rename_invalid">"Имя файла не может содержать: /\\:*?&lt;>|.\""</string>
     <string name="photodetail_rename_success">Успешно переименовано</string>
     <string name="photodetail_rename_title">Переименование</string>
     <string name="photodetail_rename_too_long">Имя файла слишком длинное</string>
@@ -2414,8 +2422,8 @@
     <string name="send_file_beautify_failed">Не удалось отправить</string>
     <string name="send_files_by">Отправить через</string>
     <string name="send_files_to">Отправить</string>
-    <string name="send_heif_summary">Преобразование HEIF изображений в JPEG для совместимости</string>
-    <string name="send_heif_title">Преобразование HEIF в JPEG</string>
+    <string name="send_heif_summary">Преобразование HEIF изображений в JPEG перед отправкой</string>
+    <string name="send_heif_title">Преобразование HEIF</string>
     <string name="send_multiple_files_hint_format">Отправить (%s)</string>
     <string name="send_public_url">Отправить ссылку на альбом</string>
     <string name="send_secret_file_failed">Не удалось отправить</string>
@@ -3339,8 +3347,13 @@
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
     <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
     <string name="xiaomi_11">Mi 11</string>
+    <string name="xiaomi_11_lite">Mi 11 Lite 5G</string>
+    <string name="xiaomi_11_lite_ne">Xiaomi 11 Lite 5G NE</string>
     <string name="xiaomi_11_pro">Mi 11 Pro</string>
     <string name="xiaomi_11_ultra">Mi 11 Ultra</string>
+    <string name="xiaomi_12">Xiaomi 12</string>
+    <string name="xiaomi_12_pro">Xiaomi 12 Pro</string>
+    <string name="xiaomi_12x">Xiaomi 12X</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -3356,6 +3369,7 @@
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_civi">Xiaomi Civi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
