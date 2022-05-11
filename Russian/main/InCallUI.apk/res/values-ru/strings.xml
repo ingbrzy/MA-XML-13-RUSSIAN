@@ -303,6 +303,7 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
+    <string name="msim_select_default_last">Последняя использованная</string>
     <string name="msim_select_default_time_left">(%d сек.)</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>

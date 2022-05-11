@@ -128,6 +128,10 @@
         <item quantity="other">Черновики</item>
         <item quantity="one">Черновик</item>
     </plurals>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Можно добавить до %1$d условий</item>
+        <item quantity="one">Можно добавить до %1$d условия</item>
+    </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d сообщений будут удалены безвозвратно.</item>
         <item quantity="one">%1$d сообщение будет удалено безвозвратно.</item>

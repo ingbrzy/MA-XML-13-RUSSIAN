@@ -395,6 +395,7 @@
 Подробности в Настройках."</string>
     <string name="fast_connect_b508_name">ZMI B508</string>
     <string name="fast_connect_bt_speaker2_name">MI портативный динамик</string>
+    <string name="fast_connect_connection_fail">Не удалось подключиться</string>
     <string name="fast_connect_device_battery">Батарея</string>
     <string name="fast_connect_device_box">Кейс</string>
     <string name="fast_connect_device_box_name">%1$s кейс</string>

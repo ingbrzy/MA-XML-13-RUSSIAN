@@ -330,6 +330,9 @@ ID:%s
     <string name="login_check_find_device_failed_title">Не удалось проверить безопасность</string>
     <string name="login_find_device_bind">Это устройство связано с существующим Mi Аккаунтом (%s).</string>
     <string name="login_guard_prompt">Требовать подтверждение номера телефона при первом входе в Mi Аккаунт на неизвестном устройстве или из неизвестного приложения</string>
+    <string name="login_notification_button_text">Вход</string>
+    <string name="login_notification_desc">Облачные сервисы, семейное хранилище и другое</string>
+    <string name="login_notification_title">Вход в Mi аккаунт</string>
     <string name="login_with_other">Еще</string>
     <string name="logout_account">Выйти из аккаунта</string>
     <string name="logout_failed">Не удалось выйти из аккаунта</string>
@@ -714,7 +717,7 @@ ID:%s
     <string name="permission_instructions">Использование разрешений</string>
     <string name="permission_read_sms">Доступ к сообщениям</string>
     <string name="permission_withdraw">Отозвать</string>
-    <string name="permission_write_external_storage">Доступ и сохранение файлов</string>
+    <string name="permission_write_external_storage">Доступ к файлам и запись</string>
     <string name="personal_info_desc">Фото, псевдоним и другое</string>
     <string name="phone_activated">%s активирован</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>

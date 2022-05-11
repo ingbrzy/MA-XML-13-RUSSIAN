@@ -3,11 +3,13 @@
     <string-array name="ADJUST_WHITE_LIST"></string-array>
     <string-array name="ADJUST_WHITE_LIST_GLOBAL"></string-array>
     <string-array name="ArrayLangCodes"></string-array>
+    <string-array name="ArrayLangCodesNew"></string-array>
     <string-array name="MILLET_WHITE_LIST"></string-array>
     <string-array name="MediaControlView_playback_speeds"></string-array>
     <string-array name="PERSIST_PACKAGES"></string-array>
     <string-array name="WAKEUP_WHITE_LIST"></string-array>
     <string-array name="WheelArrayLang"></string-array>
+    <string-array name="WheelArrayLangNew"></string-array>
     <string-array name="WheelSrcLang"></string-array>
     <string-array name="WordDesArrayLang"></string-array>
     <string-array name="aborted_intent_actions"></string-array>
@@ -74,6 +76,7 @@
     <array name="allowlist_hide_summary_in_battery_usage" />
     <string-array name="always_enabled_app_list"></string-array>
     <string-array name="am_pms"></string-array>
+    <string-array name="animation_rate_values"></string-array>
     <string-array name="animator_duration_scale_values"></string-array>
     <string-array name="aod_notification_status_entries"></string-array>
     <string-array name="aod_show_style_values"></string-array>
@@ -615,6 +618,7 @@
     <string-array name="earthly_branches"></string-array>
     <string-array name="editing_mode_values"></string-array>
     <string-array name="elderly_man_like_apps"></string-array>
+    <string-array name="email_filter_item"></string-array>
     <string-array name="empty_initial_attach_apn_plmn"></string-array>
     <string-array name="enable_freeform_sensor_activity"></string-array>
     <string-array name="enable_opengl_traces_values"></string-array>
@@ -734,6 +738,8 @@
     <string-array name="hdcp_checking_values"></string-array>
     <string-array name="heavenly_stems"></string-array>
     <string-array name="hide_account_list"></string-array>
+    <string-array name="hide_app_reset_packages"></string-array>
+    <string-array name="hide_app_specific_packages"></string-array>
     <string-array name="hide_fingerprint_instantly_prefixes"></string-array>
     <string-array name="hide_installed_packages"></string-array>
     <string-array name="hide_packages"></string-array>
@@ -803,6 +809,7 @@
     <array name="live_filter_icon"></array>
     <string-array name="live_filter_name"></string-array>
     <string-array name="loan_rulers"></string-array>
+    <string-array name="local_subtitle_language_names"></string-array>
     <string-array name="local_white_list"></string-array>
     <array name="locale_carrier_names" />
     <string-array name="lock_after_timeout_values"></string-array>
@@ -1006,9 +1013,11 @@
     <array name="power_click"></array>
     <array name="power_double_click"></array>
     <array name="power_long_press"></array>
+    <string-array name="prefEntries_restart_detail_conversation"></string-array>
     <string-array name="prefValues_alerts_vibrateWhen"></string-array>
     <string-array name="prefValues_contact_add"></string-array>
     <string-array name="prefValues_max_bytes_limit"></string-array>
+    <string-array name="prefValues_restart_detail_conversation"></string-array>
     <string-array name="prefValues_vibrateWhen"></string-array>
     <string-array name="pref_camera_antibanding_entries"></string-array>
     <string-array name="pref_camera_antibanding_entryvalues"></string-array>
@@ -1286,6 +1295,8 @@
     <string-array name="subscreen_timeout_values"></string-array>
     <integer-array name="subtitle_font_size"></integer-array>
     <string-array name="subtitle_font_title"></string-array>
+    <string-array name="subtitle_language_codes"></string-array>
+    <string-array name="subtitle_language_names"></string-array>
     <string-array name="super_wallpaper_list_complete_packages"></string-array>
     <string-array name="super_wallpaper_list_ids"></string-array>
     <string-array name="super_wallpaper_list_packages"></string-array>

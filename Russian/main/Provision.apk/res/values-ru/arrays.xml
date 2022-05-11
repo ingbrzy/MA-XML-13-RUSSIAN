@@ -62,6 +62,10 @@
     <array name="config_disabled_dialpad_tone_mcc_mnc" />
     <array name="config_disabled_sys_app_mcc_mnc" />
     <array name="config_show_default_regions" />
+    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+        <item>Только Wi-Fi</item>
+        <item>Нет</item>
+    </string-array>
     <string-array name="other_settings_auto_update_entries">
         <item>Wi-Fi и мобильный интернет</item>
         <item>Только Wi-Fi</item>

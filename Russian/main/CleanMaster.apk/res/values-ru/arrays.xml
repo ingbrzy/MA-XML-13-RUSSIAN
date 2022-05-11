@@ -76,6 +76,10 @@
         <item>Размер</item>
         <item>Имя</item>
     </string-array>
+    <string-array name="reset_app_sort_type">
+        <item>Размер</item>
+        <item>Частота использования</item>
+    </string-array>
     <string-array name="uninstalled_app_sort_type">
         <item>Размер</item>
         <item>Частота использования</item>

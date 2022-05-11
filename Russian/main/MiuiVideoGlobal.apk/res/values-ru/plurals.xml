@@ -207,6 +207,11 @@
         <item quantity="one">Можно добавить %d закладку</item>
         <item quantity="few">Можно добавить %d закладки</item>
     </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s лайков</item>
+        <item quantity="one">%s лайк</item>
+        <item quantity="few">%s лайка</item>
+    </plurals>
     <plurals name="video_view_count">
         <item quantity="other">%d просмотров</item>
         <item quantity="one">%d просмотр</item>

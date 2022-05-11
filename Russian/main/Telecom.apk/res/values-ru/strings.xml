@@ -652,6 +652,7 @@
     <string name="notification_disconnectedCall_body">Вызов %s был прерван из-за экстренного вызова</string>
     <string name="notification_disconnectedCall_generic_body">Вызов был прерван из-за экстренного вызова</string>
     <string name="notification_disconnectedCall_title">Отключенный вызов</string>
+    <string name="notification_disconnectedDialing_message">Вызов недоступен, так как другой исходящий вызов в процессе</string>
     <string name="notification_incallservice_not_responding_body">Вызов осуществлен с использованием штатного телефонного приложения</string>
     <string name="notification_incallservice_not_responding_title">%s не отвечает</string>
     <string name="notification_incoming_call">%1$s вызов от %2$s</string>

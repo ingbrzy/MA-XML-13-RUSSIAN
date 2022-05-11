@@ -951,6 +951,7 @@
     <string name="storage_item_system_name">Система</string>
     <string name="storage_item_video_name">Видео</string>
     <string name="storage_space_release_hint">Нужно больше места?</string>
+    <string name="storage_system_log">Системные журналы</string>
     <string name="summary_delete_apk">Удалить выбранные APK навсегда?</string>
     <string name="summary_delete_cache">Очистить кэш выбранных приложений?</string>
     <string name="summary_delete_large_file">Удалить выбранные файлы навсегда?</string>

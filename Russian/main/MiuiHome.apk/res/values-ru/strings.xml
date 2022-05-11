@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Icon_name_classic_mode">Настройки рабочего стола</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Ещё</string>
@@ -41,8 +42,10 @@
     <string name="accessibility_recent_task_locked">Закреплено, сдвиньте вниз для открепления.</string>
     <string name="accessibility_recent_task_locked_state">Закреплено</string>
     <string name="accessibility_recent_task_memory_info">Всего: %2$s | Доступно: %1$s. Нажмите дважды для очистки.</string>
+    <string name="accessibility_recent_task_show_menu">Дополнительные параметры</string>
     <string name="accessibility_recent_task_unlocked">Откреплено</string>
     <string name="accessibility_recent_task_unlocked_state">Не закреплено</string>
+    <string name="accessibility_recents_item_dismissed">Очищено %1$s</string>
     <string name="accessibility_recents_item_open_app_info">Информация о приложении %s.</string>
     <string name="accessibility_splite_screen_primary">Добавлено как основное приложение в разделение экрана</string>
     <string name="accessibility_splite_screen_secondary">Добавлено как дополнительное приложение в разделение экрана</string>
@@ -54,6 +57,7 @@
     <string name="add_screen">Добавить экран</string>
     <string name="added_all_category">Приложения добавлены</string>
     <string name="afternoon">После полудня</string>
+    <string name="agree_button">Принимаю</string>
     <string name="alexa_notification_add">Добавить</string>
     <string name="alexa_notification_cancel">Не сейчас</string>
     <string name="alexa_notification_content">Добавить ярлык в центр управления?</string>
@@ -92,6 +96,7 @@
     <string name="all_apps_setting_title">Рабочий стол и поиск свайпом вверх</string>
     <string name="all_apps_slide_up_tips">Свайп вверх используется для открытия меню приложений. Для поиска свайпом вверх на рабочем столе переключитесь на классический рабочий стол.</string>
     <string name="all_apps_suggestions">Недавние приложения</string>
+    <string name="animation_rate_title">Скорость анимации</string>
     <string name="announce_for_app_move_in_folder">Перемещено в позицию %1$d в папке</string>
     <string name="announce_for_checked">%1$s, выбрано</string>
     <string name="announce_for_choose_default_screen">Установить экран %1$d в качестве основного</string>
@@ -144,6 +149,13 @@
     <string name="app_category_tools">Инструменты</string>
     <string name="app_category_travel">Путешествия</string>
     <string name="app_category_vr">VR</string>
+    <string name="app_drawer_double_confirm_description">Рабочий стол будет изменен. Установки можно изменить в настройках.</string>
+    <string name="app_drawer_double_confirm_title">Внимание</string>
+    <string name="app_drawer_feature_description">Меню приложений отличный инструмент для упорядочивания приложений. Автоматическая классификация поможет быстро найти нужные приложения.</string>
+    <string name="app_drawer_guide_description">Поиск среди приложений</string>
+    <string name="app_drawer_guide_title">Меню приложений</string>
+    <string name="app_drawer_tip_title">Лента заменена на меню приложений</string>
+    <string name="app_install_state">Установлено</string>
     <string name="app_name">matrix-io-canary</string>
     <string name="application_name">Рабочий стол MIUI</string>
     <string name="apply">Установить</string>
@@ -168,8 +180,40 @@
     <string name="back">Назад</string>
     <string name="backup_fail">Сбой резервного копирования</string>
     <string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
+    <string name="branch_core_version">Версия ядра Branch</string>
+    <string name="branch_deepview_button">Загрузить</string>
+    <string name="branch_deepview_button_description">Посмотреть контент сразу после установки</string>
+    <string name="branch_feature_description">Быстрый поиск позволяет искать приложения, контент внутри приложений и в интернете</string>
+    <string name="branch_guide_attention">Для расширенного поиска требуется передача в Branch Metrics Inc. ваших поисковых запросов, идентификатора Google Ads и IP-адреса. Перед использованием этой функции прочтите и примите <a href="http://url1"><font color="#B3000000">Условия и положения конечного пользователя</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности Branch Discovery</font></a>.</string>
+    <string name="branch_guide_description_one">Все приложения будут размещены в \"Меню приложений\". Рабочий стол будет выглядеть аккуратно и организованно.</string>
+    <string name="branch_guide_description_three">Встроенный поиск поможет быстро найти нужное</string>
+    <string name="branch_guide_description_two">Меню приложений автоматически классифицирует приложения</string>
+    <string name="branch_guide_tip_title">Каждое приложение на своем месте</string>
+    <string name="branch_guide_title">Познакомьтесь с Меню приложений</string>
+    <string name="branch_guide_type_four_desc">Возврат к классическому виду рабочего стола</string>
+    <string name="branch_guide_type_four_main">Переключение между двумя режимами доступно в \"Настройки\", \"Рабочий стол\"</string>
+    <string name="branch_guide_type_four_step_one">Шаг 1: нажмите \"Настройки\"</string>
+    <string name="branch_guide_type_four_step_two">Шаг 2: нажмите \"Рабочий стол\"</string>
+    <string name="branch_guide_type_one_desc">Меню приложений поможет упорядочить приложения</string>
+    <string name="branch_guide_type_one_main">Все приложения будут размещены в \"Меню приложений\". Встроенный поиск поможет быстро найти нужное.</string>
+    <string name="branch_key">Ключ Branch</string>
+    <string name="branch_new_feature">Новая функция</string>
+    <string name="branch_privacy_policy">Политика конфиденциальности</string>
+    <string name="branch_search_guide_description">Результаты поиска теперь более полные</string>
+    <string name="branch_search_guide_privacy">Сервис предоставлен Branch Metrics Inc. Информация о вашем местоположении, поисковые запросы и идентификатор Google Ads будут переданы Branch. Перед использованием сервиса прочтите и примите <a href="http://url1"><font color="#B3000000">Условия и положения</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности</font></a> Branch.</string>
+    <string name="branch_search_guide_title">Поиск среди приложений</string>
+    <string name="branch_terms_condition">Условия и положения</string>
+    <string name="branch_tip_title">Быстрый поиск поможет найти нужное</string>
+    <string name="branch_ui_version">Версия Branch UI</string>
+    <string name="btn_agree">Принимаю</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_close">Отключить</string>
+    <string name="btn_open">Включить</string>
+    <string name="btn_request_permission">Предоставить разрешения</string>
+    <string name="btn_set_right_now">Предоставить разрешения</string>
     <string name="buffering">Буферизация…</string>
     <string name="cancel_action">Отмена</string>
+    <string name="cancel_botton">Отмена</string>
     <string name="cancel_btn_label">Отмена</string>
     <string name="cant_edit_lock_screen">Не удалось изменить экран блокировки</string>
     <string name="cant_remove_folder">Невозможно удалить папку</string>
@@ -191,7 +235,10 @@
     <string name="chooser_wallpaper">Выберите новые обои</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
+    <string name="close_multi_finger_slide_summary">Жесты тремя или четырьмя пальцами будут игнорироваться в некоторых сценариях (например, при воспроизведении видео или в играх).</string>
+    <string name="close_multi_finger_slide_title">Игнорирование жестов</string>
     <string name="cloud_app_restore_title">Ожидание</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
     <string name="common_home_search_delete">Удаление панели поиска</string>
     <string name="common_home_search_delete_cancle">Отмена</string>
     <string name="common_home_search_delete_confirm">Удалить</string>
@@ -233,7 +280,6 @@
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Инструменты</string>
     <string name="default_screen_preview_title">Выбор основного экрана</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Удалить</string>
     <string name="delete_category_dialog_content">Вы не сможете восстановить категорию, если удалите ее. Удалить?</string>
     <string name="delete_category_dialog_title">Удаление категории</string>
@@ -249,6 +295,7 @@
     <string name="disable_wallpaper_scroll">Отключить прокрутку обоев</string>
     <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="download_action">Загрузить</string>
+    <string name="drag_icon_to_homescreen_guide">Перетащите иконку приложения, чтобы добавить ярлык на рабочий стол</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
     <string name="drawer_background">Фон</string>
@@ -279,9 +326,11 @@
     <string name="emptyplaylist">Нажмите на виджет</string>
     <string name="enable_wallpaper_scroll">Включить прокрутку обоев</string>
     <string name="encryption">Шифрование</string>
+    <string name="enter_search_setting_title">Открывать поиск после открытия меню приложений</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="evening">После полудня</string>
+    <string name="exit_overview_because_task_stack_changed">Недавние закрыты из-за изменений в фоновом режиме</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="failed_to_delete_temporary">Ошибка удаления</string>
     <string name="failed_to_drop">Не удалось переместить</string>
@@ -358,11 +407,14 @@
     <string name="gadget_weather_title_14">Погода 1x4</string>
     <string name="gadget_weather_title_24">Погода 2x4</string>
     <string name="global_search_hint">Поиск</string>
+    <string name="got_it_botton">Понятно</string>
     <string name="group_folder">Новая папка</string>
     <string name="group_live_folders">Папки</string>
     <string name="group_shortcuts">Ярлыки</string>
     <string name="guide_install_app_msg">Это приложение не установлено на вашем устройстве. Найти и установить его?</string>
     <string name="guide_install_app_title">Установка приложения</string>
+    <string name="guide_permission_title">Требуются разрешения</string>
+    <string name="guide_privacy_dialog_title">Условия обслуживания</string>
     <string name="guide_tips_editing_mode">Удерживайте виджет для его перемещения</string>
     <string name="hide_apps_title">Скрытие приложений</string>
     <string name="home_gesture_content_center">Контент-центр</string>
@@ -379,6 +431,7 @@
     <string name="icon_size">Размер иконок</string>
     <string name="icon_style">Иконки</string>
     <string name="image_too_small_message">Размер изображения слишком мал</string>
+    <string name="in_app_result_by">Результаты предоставлены</string>
     <string name="install">Установить</string>
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
@@ -398,6 +451,9 @@
     <string name="launcher_slide_up_title">Поиск свайпом вверх</string>
     <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
     <string name="launcher_title">Рабочий стол</string>
+    <string name="layout_guide_description">Если не нравится \"Меню приложений\", вы можете вернуться к классическому рабочему столу. Используйте ярлык \"Настройки рабочего стола\" для переключения между двумя режимами.</string>
+    <string name="layout_guide_tip_title">Возврат к классическому виду</string>
+    <string name="layout_guide_title">Удаление \"Меню приложений\"</string>
     <string name="lib_name">Filament Android</string>
     <string name="like">Добавить в избранные</string>
     <string name="liked">Добавлено в избранные</string>
@@ -521,8 +577,12 @@
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="multi_selecting_tips">Нажмите и удерживайте для перемещения</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary_pad">Проведите влево или вправо в нижней части экрана</string>
     <string name="navigation_guide_app_quick_switch_summary">Проведите влево или вправо на полосе навигации</string>
+    <string name="navigation_guide_app_quick_switch_summary_pad">Проведите влево или вправо на полосе навигации или в нижней части экрана</string>
+    <string name="navigation_guide_app_quick_switch_summary_spec_pad">Проведите влево или вправо в нижней части экрана</string>
     <string name="navigation_guide_app_quick_switch_title">Переход между приложениями</string>
+    <string name="navigation_guide_app_quick_switch_title_spec_with_quotation_pad">Переход между приложениями</string>
     <string name="navigation_guide_app_summary">Проведите вправо от края экрана в верхней части</string>
     <string name="navigation_guide_app_title">Меню приложения</string>
     <string name="navigation_guide_appswitch_anim_summary">Проведите влево или вправо от края экрана для перехода к предыдущему приложению</string>
@@ -531,24 +591,46 @@
     <string name="navigation_guide_appswitch_summary">Проведите влево или вправо от края экрана и задержите палец</string>
     <string name="navigation_guide_appswitch_title">Предыдущее приложение</string>
     <string name="navigation_guide_back_summary">Проведите влево или вправо от края экрана</string>
+    <string name="navigation_guide_back_summary_pad">Проведите от края к центру экрана</string>
+    <string name="navigation_guide_back_summary_spec_pad">Проведите от края к центру экрана</string>
     <string name="navigation_guide_back_title">Возврат</string>
+    <string name="navigation_guide_back_title_spec_with_quotation_pad">Возврат</string>
     <string name="navigation_guide_dialog_dont_show_again">Больше не показывать</string>
     <string name="navigation_guide_dialog_ok">Ознакомиться</string>
     <string name="navigation_guide_dialog_skip">Отмена</string>
     <string name="navigation_guide_dialog_summary">Ознакомьтесь с жестами навигации в полноэкранном режиме.</string>
     <string name="navigation_guide_dialog_title">Жесты навигации</string>
+    <string name="navigation_guide_dock_summary_pad">Проведите вверх от нижней части экрана</string>
+    <string name="navigation_guide_dock_summary_spec_pad">Сдвиньте вверх от нижнего края экрана</string>
+    <string name="navigation_guide_dock_title_pad">Панель приложений</string>
+    <string name="navigation_guide_dock_title_spec_pad">Панель приложений</string>
+    <string name="navigation_guide_dock_title_spec_with_quotation_pad">Панель приложений</string>
     <string name="navigation_guide_finish_text">Понятно</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Новый жест переключения между приложениями будет доступен после скрытия полосы навигации в полноэкранном режиме. Ознакомиться с жестом?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Новый жест</string>
     <string name="navigation_guide_hide_gesture_line_summary">Не показывать полосу навигации в полноэкранном режиме при использовании жестов</string>
     <string name="navigation_guide_hide_gesture_line_title">Скрыть полосу навигации</string>
     <string name="navigation_guide_home_summary">Проведите по экрану снизу вверх</string>
+    <string name="navigation_guide_home_summary_spec_pad">Проведите вверх от нижнего края экрана</string>
     <string name="navigation_guide_home_title">Возврат на рабочий стол</string>
+    <string name="navigation_guide_home_title_spec_with_quotation_pad">Возврат на рабочий стол</string>
+    <string name="navigation_guide_next_spec_pad">Далее</string>
+    <string name="navigation_guide_prev_spec_pad">Назад</string>
     <string name="navigation_guide_prohibit_gesture_hint">Полноэкранные жесты недоступны при просмотре демороликов</string>
+    <string name="navigation_guide_provision_see_more_pad">Больше демороликов в Настройки > Рабочий стол > Экранная навигация</string>
     <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Больше демороликов в Настройки > Рабочий стол > Экранная навигация</string>
+    <string name="navigation_guide_provision_title_pad">Полноэкранные жесты</string>
     <string name="navigation_guide_recent_summary">Проведите по экрану снизу вверх и задержите палец</string>
+    <string name="navigation_guide_recent_summary_pad">Проведите по экрану снизу вверх и задержите палец</string>
+    <string name="navigation_guide_recent_summary_spec_pad">Проведите по экрану снизу вверх, задержите и поднимите палец</string>
     <string name="navigation_guide_recent_title">Недавние приложения</string>
+    <string name="navigation_guide_recent_title_spec_with_quotation_pad">Недавние приложения</string>
     <string name="navigation_guide_settings">Демонстрация жестов</string>
+    <string name="navigation_position_center">В центре</string>
+    <string name="navigation_position_left">Слева</string>
+    <string name="navigation_position_right">Справа</string>
+    <string name="navigation_position_summary">Расположение кнопок навигации на рабочем столе</string>
+    <string name="navigation_position_title">Расположение кнопок навигации</string>
     <string name="navigation_set_miui_home_as_default_dialog_cancel">Отмена</string>
     <string name="navigation_set_miui_home_as_default_dialog_message">Полноэкранные жесты не поддерживаются сторонними лаунчерами. Переключиться на системный и включить полноэкранные жесты?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">ОК</string>
@@ -561,6 +643,7 @@
     <string name="navigation_type_title_synonyms_4">Кнопки</string>
     <string name="navigation_type_virtual_key">Кнопки</string>
     <string name="network_error">Не удалось подключиться к сети. Повторите попытку.</string>
+    <string name="new_feature_title">Что нового?</string>
     <string name="night">Вечер</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
     <string name="no_space_toast">Нет свободного места</string>
@@ -603,6 +686,7 @@
     <string name="photo_confirm">OK</string>
     <string name="photo_load_failed">Не удалось загрузить фото</string>
     <string name="please_slide_agian">Проведите еще раз</string>
+    <string name="popular_search">Популярное</string>
     <string name="pref_cell_layout_size">Сетка рабочего стола</string>
     <string name="pref_enable_drawing_cache_summary">Выключите, чтобы освободить память. Возможно притормаживание системы.</string>
     <string name="pref_enable_drawing_cache_title">Кэш графики</string>
@@ -624,6 +708,14 @@
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="process" />
     <string name="quick_app">Быстрые приложения</string>
+    <string name="quick_finder_feature_description">Быстрый поиск позволяет искать приложения, контент внутри приложений и в интернете. Функцию можно отключить в настройках.</string>
+    <string name="quick_finder_tip_title">Быстрый поиск</string>
+    <string name="quick_search_all_app_desc">Показывать все приложения в меню приложений</string>
+    <string name="quick_search_desc">Открывать поиск после открытия меню приложений</string>
+    <string name="quick_search_guide_all_apps">Все приложения</string>
+    <string name="quick_search_guide_ok_btn">ОК</string>
+    <string name="quick_search_guide_quick_search">Быстрый поиск</string>
+    <string name="quick_search_guide_title">Режим по умолчанию</string>
     <string name="recent_apps">Недавние</string>
     <string name="recent_menu_item_info">Сведения</string>
     <string name="recent_menu_item_lock">Закрепить</string>
@@ -674,6 +766,8 @@
     <string name="remove_invalidate_gadget_tips">Один из используемых виджетов больше не доступен. Вы можете добавить другой.</string>
     <string name="remove_sys_app_content">Удалить ярлык рабочего стола? Вы можете снова добавить ярлык рабочего стола в Настройки > Приложения > Управление ярлыками рабочего экрана.</string>
     <string name="remove_sys_app_title">Удаление ярлыка</string>
+    <string name="request_permission_msg">POCO Launcher требуется разрешения для полной функциональности</string>
+    <string name="request_permission_title">Требуются разрешения</string>
     <string name="reset_cate_tip_content">Будут восстановлены категории по умолчанию. Продолжить?</string>
     <string name="reset_cate_tip_title">Сброс категорий</string>
     <string name="reset_description_first_time">Вы можете восстановить рабочий стол с %1$s в течение 2 часов</string>
@@ -691,6 +785,8 @@
     <string name="screen_cells_config_title">Сетка рабочего стола</string>
     <string name="screen_locked_toast">Рабочий стол защищен от изменений</string>
     <string name="screen_number">Экран %d</string>
+    <string name="search_bar_hint_content">Поиск приложений и контента</string>
+    <string name="search_guide_btn">Понятно</string>
     <string name="search_in_apps_store">Поиск \"%1$s\" в %2$s</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_no_result">Ничего не найдено</string>
@@ -699,6 +795,7 @@
     <string name="select_photo">Фото</string>
     <string name="send">Отправить</string>
     <string name="server_error">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="service_double_attention">Расширенные функции поиска предоставляются Branch Metrics Inc. Для работы этой функции требуется передача в Branch Metrics Inc ваших поисковых запросов, идентификатора Google Ads и IP-адреса. Перед использованием этой функции прочтите и примите <a href="http://url1"><font color="#B3000000">Условия и положения конечного пользователя</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности Branch Discovery</font></a>.</string>
     <string name="setting_wallpaper_tip">Переместите или измените размер</string>
     <string name="settings">Настройки</string>
     <string name="settings_shortcut">Настройки</string>
@@ -715,6 +812,7 @@
     <string name="show_most_popular_apps_you_used">Показывать недавние приложения в начале меню приложений</string>
     <string name="show_recents_recommend_title">Показывать виджеты</string>
     <string name="slide_to_open_newhome">Проведите пальцем вверх, чтобы открыть Контент-центр</string>
+    <string name="small_window">Плавающее окно</string>
     <string name="small_window_button_complete">Готово</string>
     <string name="small_window_edit_content">Можно добавить до %d приложений</string>
     <string name="small_window_edit_title">Выбранные</string>
@@ -760,11 +858,13 @@
     <string name="status_installing">Установка</string>
     <string name="status_paused">Пауза</string>
     <string name="status_pending">Ожидание</string>
+    <string name="suggestions">Рекомендации</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="swipe_the_desktop_to_the_left">Свайп влево на рабочем столе</string>
     <string name="swipe_the_desktop_to_the_right">Свайп вправо на рабочем столе</string>
+    <string name="switch_on_button">Включить</string>
     <string name="switch_personal_assistant_app_vault">Лента виджетов</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Нет</string>
@@ -775,6 +875,10 @@
     <string name="system_shortcuts_remove">Удалить</string>
     <string name="system_text">Автоматически</string>
     <string name="task_access_locked_app_msg">Включена защита приложений</string>
+    <string name="term_of_service">Условия и положения</string>
+    <string name="terms_of_services_one">Добро пожаловать в Меню приложений и Быстрый поиск. Быстрый поиск позволяет искать приложения, контент внутри приложений и в интернете. Перед использованием этой функции прочтите и примите <a href="http://url1"><font color="#B3000000">Политику конфиденциальности</font></a> Xiaomi.</string>
+    <string name="terms_of_services_three">Эту функцию можно отключить в настройках.</string>
+    <string name="terms_of_services_two">Для расширенного поиска требуется передача в Branch Metrics Inc. необходимой личной информации, включая поисковые запросы, идентификатор рекламы Google и IP-адрес. Branch будет обрабатывать вашу личную информацию в соответствии с <a href="http://url1"><font color="#B3000000">Политикой конфиденциальности Branch Discovery</font></a>. Перед использованием этой функции прочтите и примите <a href="http://url2"><font color="#B3000000">Условия и положения конечного пользователя</font></a> и <a href="http://url3"><font color="#B3000000">Политику конфиденциальности Branch Discovery</font></a>.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -841,6 +945,7 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="uni_search_permission_title">Улучшенный поиск</string>
     <string name="uninstall">Удалить</string>
     <string name="uninstall_dialog_message">Удаление приложения очистит все его данные.</string>
     <string name="uninstall_dialog_title_format">Удалить \"%s\"?</string>
