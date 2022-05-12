@@ -141,6 +141,7 @@
     <string name="adb_install_reject_notiy_desc">Разрешить установку через USB можно в настройках разработчика</string>
     <string name="adb_login_xiaomi_account">Сначала войдите в Mi Аккаунт</string>
     <string name="add_auto_task_desktop_icon">Добавить ярлык на рабочий стол</string>
+    <string name="add_bill_reminder_alarm">Настройка предупреждения о балансе</string>
     <string name="add_done">Успешно добавлено</string>
     <string name="add_game">Добавить</string>
     <string name="add_game_notification_summary">Нажмите для запуска и ускорения.</string>
@@ -602,9 +603,9 @@
     <string name="app_predict_widget_title">Рекомендации</string>
     <string name="app_right">Официальный продукт Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Отмена</string>
-    <string name="app_running_tip_dialog_positive">ОК</string>
-    <string name="app_running_tip_dialog_text">Закройте приложение %1$s, чтобы избежать его работы в фоновом режиме. Это ускорит работу устройства и снизит энергопотребление.</string>
-    <string name="app_running_tip_dialog_title">Закрытие приложения</string>
+    <string name="app_running_tip_dialog_positive">Закрыть</string>
+    <string name="app_running_tip_dialog_text">Это приложение работает в фоновом режиме. Вы можете закрыть приложение, чтобы ускорить работу устройства и снизить расход батареи.</string>
+    <string name="app_running_tip_dialog_title">Закрытие %1$s</string>
     <string name="app_running_tip_uninstall">Удалить приложение</string>
     <string name="app_settings_link">Доп. настройки в приложении</string>
     <string name="app_statusbar_audio_now">Используется микрофон</string>
@@ -958,8 +959,14 @@
     <string name="best_warning_dialog_button">Понятно</string>
     <string name="best_warning_dialog_title">Подсказка</string>
     <string name="bg_network_exception_title">Фоновые подключения</string>
+    <string name="bill_arrears_character">Недостаточно средств на SIM %d. Пополните баланс, чтобы оставаться на связи.</string>
+    <string name="bill_arrears_title">SIM-карта %d без подключения к сети</string>
     <string name="bill_limit_notification_text_format">Карта: %1$s | Баланс: %2$s CNY</string>
     <string name="bill_limit_notification_title">Недостаточно средств</string>
+    <string name="bill_remind">Предупреждение о балансе</string>
+    <string name="bill_reminder_summary">Напоминать о пополнении, когда баланс ниже %1s</string>
+    <string name="bill_traffic_reminder_instruction">Внимание</string>
+    <string name="bill_traffic_reminder_instruction_text">Фактические детали тарифных планов, предоставляемых операторами мобильной связи, могут отличаться, при выставлении счетов могут возникать задержки. Представленная здесь информация предназначена только для справки.</string>
     <string name="bind_xiaomi_account_cancel">Отмена</string>
     <string name="bind_xiaomi_account_confirm">Привязать</string>
     <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. Аккаунт будет автоматически отвязан после выхода из него.</string>
@@ -1126,6 +1133,10 @@
     <string name="clear_garbage">Очистка мусора</string>
     <string name="clear_immediately">Очистить</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="click_to_charge_bill">Пополнить</string>
+    <string name="click_to_set_carrier">Настройка</string>
+    <string name="click_to_set_personalized_reminder">Настройка предупреждений</string>
+    <string name="click_to_set_traffic">Настройка</string>
     <string name="close">Закрыть</string>
     <string name="close_callwait">Откл</string>
     <string name="cmcc_app_check_dialog_message">Для завершения восстановления перезагрузите устройство.</string>
@@ -1134,7 +1145,7 @@
     <string name="cmcc_app_check_dialog_title">Система восстановлена</string>
     <string name="commonly_used_func_card_title">Общие функции</string>
     <string name="commonly_used_func_edit_too_many_func">Больше нельзя добавить</string>
-    <string name="compatible_dialog_content">Это приложение не полностью совместимо с 64-разрядной архитектурой. Его использование может снизить производительность системы и увеличить расход батареи.</string>
+    <string name="compatible_dialog_content">Это приложение не полностью совместимо с 64-битной архитектурой. При его использовании могут возникнуть проблемы с производительностью и расходом батареи.</string>
     <string name="compatible_dialog_more_info">Подробнее</string>
     <string name="compatible_dialog_title">Внимание</string>
     <string name="comprehensive_protection_measures">Комплексная защита</string>
@@ -1142,6 +1153,7 @@
     <string name="confirm_ai_allow_all_permission">Изменить статус разрешения на \"Решать за меня\" для всех приложений?</string>
     <string name="confirm_allow_all_permission">Разрешить всем приложениям использовать эту функцию?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Привязка Mi Аккаунта</string>
+    <string name="confirm_close">Отключить</string>
     <string name="confirm_fingerprint_msg">Подтвердите отпечаток пальца</string>
     <string name="confirm_leave">Нет, спасибо</string>
     <string name="confirm_open">Включить</string>
@@ -1199,7 +1211,11 @@
     <string name="daily_limit_and_lock_screen">Лимиты и уведомления</string>
     <string name="daily_limit_network_available_body">Нажмите для просмотра.</string>
     <string name="daily_limit_over_message">Вы превысили суточный лимит трафика</string>
+    <string name="daily_package_reminder_character">Установите суточный лимит трафика для получения предупреждения при достижении лимита</string>
     <string name="daily_pkg_traffic">Лимит трафика</string>
+    <string name="daily_remind_warning_text_tips">Предупреждение о достижении суточного лимита</string>
+    <string name="daily_reminder_warning">Ежедневный лимит трафика</string>
+    <string name="daily_reminder_warning_necessary">Ежедневный лимит трафика (обязательно)</string>
     <string name="data_booster_desc">Отключить другие слоты SIM для поддержания стабильного соединения</string>
     <string name="data_booster_title">Стабилизация соединения</string>
     <string name="data_local_processing_and_storage">Локальное хранение и обработка данных</string>
@@ -1374,7 +1390,8 @@
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">Утро</string>
-    <string name="edit_new_task_name">Введите имя задачи</string>
+    <string name="edit_new_task_name">Имя задачи</string>
+    <string name="edit_phone_num">Номер телефона SIM-карты</string>
     <string name="eew_privacy_revoke_title">Отозвать согласие с Политикой конфиденциальности предупреждения о землетрясениях</string>
     <string name="email">Email</string>
     <string name="empty_app">Нет приложений</string>
@@ -1425,12 +1442,16 @@
     <string name="ew_button_exit">Выход</string>
     <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"Эта функция предоставляет уведомления о предстоящих землетрясениях и воспроизводить звуковое предупреждение. Вы сможете найти ближайшее убежище, позвонить вашему экстренному контактному лицу и предъявить свою медицинскую карту, если потребуется. &lt;br&gt;Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности. &lt;br&gt;Этой функции для нормальной работы требуются следующие разрешения для сбора вашей личной информации: &lt;br&gt;&#8226; Геолокация: &lt;br&gt;Использование геолокации для предупреждении о землетрясениях. &lt;br&gt;В случае отказа предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать эту функцию. В этом случае можно отключить эту функцию или не включать ее. &lt;br&gt;Перед использованием этой функции, вы должны прочесть и принять нашу Политику конфиденциальности."&lt;/Data&gt;</string>
     <string name="ew_city_support_tip">* Поддерживаются только предупреждения %s</string>
+    <string name="ew_click_locate">Нажмите для получения геопозиции</string>
     <string name="ew_close">Отключить оповещение</string>
+    <string name="ew_close_tips">Предупреждение о землетрясении отключено</string>
     <string name="ew_close_warning">Отключить</string>
     <string name="ew_concern_city">Добавленные города</string>
     <string name="ew_concern_date_empty">Нет</string>
     <string name="ew_concern_manage">Управление</string>
-    <string name="ew_current_location">Текущее местоположение</string>
+    <string name="ew_contact_dialog_tips">Добавьте хотя бы один экстренный контакт</string>
+    <string name="ew_contact_dialog_title">Внимание</string>
+    <string name="ew_current_location">Текущая геопозиция</string>
     <string name="ew_emergency_allergy">Аллергия</string>
     <string name="ew_emergency_basic_info">Основная информация</string>
     <string name="ew_emergency_birthday">Дата рождения</string>
@@ -1456,12 +1477,19 @@
     <string name="ew_emergency_title">Медицинская карта</string>
     <string name="ew_first_start_network_title">Условия и положения</string>
     <string name="ew_get_location">Поиск</string>
+    <string name="ew_global_default_signature">EEWS BMKG</string>
+    <string name="ew_global_service_scope_external_link" />
+    <string name="ew_global_signature">"Информация предоставлена EEWS BMKG
+При техподдержке Xiaomi &amp; ICL"</string>
+    <string name="ew_global_signature_template">"Информация предоставлена %s
+При техподдержке Xiaomi &amp; ICL"</string>
     <string name="ew_guide_law_agree">Принимаю</string>
     <string name="ew_guide_law_done">Понятно</string>
     <string name="ew_guide_law_exit">Выход</string>
     <string name="ew_guide_law_text">"Эта функция предоставляет вам функцию предупреждения о землетрясении. Вы должны понимать, что информация о землетрясении предоставляется сторонним агентством раннего предупреждения. Xiaomi не контролирует сторонние агентства и не имеет никакого контроля над ними. Xiaomi не обещает и не гарантирует точность, достоверность и своевременность информации о землетрясении, а также не гарантирует, что служба предупреждения о землетрясении удовлетворит все ваши потребности. Вы должны понимать, что эта функция предоставляется только для ознакомления. Вы несете единоличную ответственность за риски и последствия любых действий, которые вы совершаете на основе информации, предоставленной этой функцией."</string>
     <string name="ew_guide_law_title">Отказ от ответственности</string>
     <string name="ew_guide_next_text">Дальше</string>
+    <string name="ew_guide_open">Получать предупреждения о землетрясениях</string>
     <string name="ew_guide_play_audio">Воспроизведение звукового предупреждения</string>
     <string name="ew_guide_play_audio_last">Воспроизведение звукового предупреждения (%d сек.)</string>
     <string name="ew_guide_start">Включить</string>
@@ -1493,7 +1521,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_list_receive_time">Время начала: %s</string>
     <string name="ew_list_receive_time_title">Время начала</string>
     <string name="ew_list_title">Предупреждения</string>
-    <string name="ew_location_failed">Не удалось определить местоположение</string>
+    <string name="ew_location_failed">Не удалось определить геопозицию</string>
+    <string name="ew_location_open">Геолокация включена</string>
     <string name="ew_main_close_text">"Вы не сможете получать актуальную информацию об землетрясении, если отключите оповещение. Все равно выключить?"</string>
     <string name="ew_main_close_title">Внимание</string>
     <string name="ew_main_contact_change">Изменить</string>
@@ -1543,7 +1572,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_monitor_title">Волонтер по мониторингу землетрясений</string>
     <string name="ew_monitor_title_spilt">"Волонтер по мониторингу
 землетрясений"</string>
+    <string name="ew_no_contact_tips">Нет контактов</string>
     <string name="ew_not_support_area">Предупреждения в этой области не поддерживаются</string>
+    <string name="ew_open_tips">Предупреждения о землетрясении включены</string>
     <string name="ew_push_message">Предполагаемая интенсивность: %s. Возможно легкое сотрясение рядом.</string>
     <string name="ew_push_title">Предупреждение о землетрясении для %s</string>
     <string name="ew_safe_place_no_maps_tips">Поиск недоступен. Сначала установите Baidu Maps или Amap.</string>
@@ -1561,12 +1592,17 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_settings_choose_level_value_3">" (Сильная вибрация)"</string>
     <string name="ew_settings_choose_level_value_4">" (Очень сильная вибрация)"</string>
     <string name="ew_settings_push_tips">Предупреждения для областей за пределами вашего местоположения будут приходить только в виде уведомлений.</string>
+    <string name="ew_settings_set_level_summary">Получать предупреждения о землетрясениях при интенсивности %s или выше</string>
+    <string name="ew_settings_set_level_title">Порог предупреждения о землетрясении</string>
     <string name="ew_signature_default">Центр предупреждения о землетрясениях Чэнду, Научно-исследовательский институт по уменьшению опасности стихийных бедствий</string>
+    <string name="ew_sleep_mode_alert_content">Для возможности получения ранних предупреждений о землетрясениях, MIUI отключит спящий режим. Фоновые приложения, NFC, Bluetooth, GPS, мобильные данные и Wi-Fi будут работать нормально, даже когда вы спите. Включить предупреждения о землетрясении?</string>
+    <string name="ew_sleep_mode_alert_title">Предупреждения о землетрясении</string>
     <string name="ew_subscribe_area_title">Управление районами</string>
     <string name="ew_subscribe_city">Добавленные районы</string>
     <string name="ew_subscribe_city_count">Для подписки доступно не более %s городов</string>
     <string name="ew_subscribe_search_hint">Поиск районов</string>
     <string name="ew_subscribe_title">Предупреждение о землетрясении | Землетрясение силой %2$s произошло в %1$s, может ощущаться в %3$s</string>
+    <string name="ew_user_feedback">Обратная связь</string>
     <string name="examination_score_100">Всё в порядке</string>
     <string name="examination_score_60_0">Требуется оптимизация</string>
     <string name="examination_score_80_100">Рекомендуется оптимизация</string>
@@ -2188,10 +2224,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gd_setting_title">Боковая панель</string>
     <string name="gd_setting_vtb">При воспроизведении видео</string>
     <string name="gd_setting_vtb_desc">Специальные функции для воспроизведения видео</string>
+    <string name="gd_sidebar_edit_all_title">Все приложения</string>
+    <string name="gd_sidebar_edit_btn_close">Скрыть</string>
+    <string name="gd_sidebar_edit_btn_expand">Еще</string>
+    <string name="gd_sidebar_edit_quick_title">Ярлыки</string>
     <string name="gd_sidebar_long_press_tips">Нажмите и удерживайте индикатор для перемещения, держите устройство вертикально</string>
     <string name="gd_splite_screen_tips">Разделение экрана при использовании плавающих окон не поддерживается</string>
     <string name="gdpr_msg"><Data>Для возможности обнаружения угроз безопасности и защиты ваших данных, нам необходимо собрать информацию о вашем устройстве. Перед использованием наших сервисов прочтите и примите Политику конфиденциальности. В случае отказа предоставить необходимую информацию, вы все равно сможете использовать это приложение, но некоторые функции будут недоступны.</Data></string>
     <string name="get_detail_by_click">Подробности</string>
+    <string name="get_phone_num_fail">Неизвестный номер</string>
     <string name="get_sys_info">Получение данных…</string>
     <string name="gigabyteShort">" ГБ"</string>
     <string name="global_wa_setting_alert_dialog_content">Можно освободить %s</string>
@@ -2383,6 +2424,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ime_security_warning">%1$s может записывать все что вводится, включая пароли, номера кредитных карт и прочие личные данные.</string>
     <string name="in_delete">Удаление…</string>
     <string name="in_recover">Восстановление…</string>
+    <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
+    <string name="infinite_remind_warning_text_tips">Предупреждение о достижении месячного лимита трафика</string>
     <string name="info_and_call">Вызовы и сообщения</string>
     <string name="info_antispam_close">Антиспам отключен</string>
     <string name="info_antispam_current_mode">%s</string>
@@ -2398,6 +2441,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="input_celluar_data_quota_hint">Введите лимит трафика</string>
     <string name="input_cellular_data_warn_hint">Введите порог предупреждения о трафике</string>
     <string name="input_password_hint_text">Введите пароль</string>
+    <string name="input_phone_num_hint">Номер телефона SIM-карты</string>
+    <string name="input_title">Ввод</string>
     <string name="input_traffic_pkg">Размер пакета</string>
     <string name="input_used_hint">Расход трафика</string>
     <string name="input_used_max_hint">Введите трафик (не более %s)</string>
@@ -2512,7 +2557,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="main_button_usage_package_setting">Установить лимит</string>
     <string name="main_daily_card_guide_dialog_ok">Выбрать</string>
     <string name="main_daily_card_guide_dialog_summary">Можно выбирать между суточным, месячным и безлимитным тарифами. Выбрать тип тарифа?</string>
+    <string name="main_daily_card_guide_dialog_summary_new">Можно выбирать между суточным, месячным и безлимитным тарифами. Выбрать тип тарифа?/string>
     <string name="main_daily_card_guide_dialog_title">Выберите тип тарифа</string>
+    <string name="main_daily_card_guide_dialog_title_new">Выбор типа тарифа</string>
     <string name="main_daily_package">Суточный лимит</string>
     <string name="main_indicator_title">Активация</string>
     <string name="main_leisure_remained">Льготный трафик</string>
@@ -2663,6 +2710,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="menu_wh_remove">Удалить из белого списка</string>
     <string name="menu_white">Добавить в белый список</string>
     <string name="mi_ime_not_used">Используйте авторизованную Xiaomi клавиатуру</string>
+    <string name="mi_roaming">Mi Roaming</string>
     <string name="mi_service_app_detail">Информация о трафике</string>
     <string name="mi_service_traffic_detail">Информация о Framework</string>
     <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Нажмите вверху, чтобы открыть Mi Sim.&lt;/U>&lt;/font>"</string>
@@ -2730,6 +2778,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="month_february">февраля</string>
     <string name="month_february_short">фев</string>
     <string name="month_february_shortest">Фев</string>
+    <string name="month_fix_remind_warning_text_tips">Предупреждение о достижении ежемесячного лимита трафика</string>
     <string name="month_january">января</string>
     <string name="month_january_short">янв</string>
     <string name="month_january_shortest">Янв</string>
@@ -2751,6 +2800,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="month_october">октября</string>
     <string name="month_october_short">окт</string>
     <string name="month_october_shortest">Окт</string>
+    <string name="month_package_reminder_character">При использовании неограниченных тарифных планов также требуется установка лимита трафика для предупреждений</string>
+    <string name="month_reminder_warning">Ежемесячный лимит трафика</string>
+    <string name="month_reminder_warning_necessary">Ежемесячный лимит трафика (обязательно)</string>
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
@@ -2858,9 +2910,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="no_limit_by_month">Безлимитный трафик</string>
     <string name="no_open">Не сейчас</string>
     <string name="no_privacy_permission">Согласие с Политикой конфиденциальности не требуется</string>
+    <string name="no_sim_card_by_tips">Для предупреждений о балансе и лимите трафика необходимо вставить SIM-карту</string>
     <string name="noon">Полдень</string>
+    <string name="normal_package_usage_summary" formatted="false">%2s из %1s (%3s)</string>
+    <string name="not_closed">Оставить</string>
     <string name="not_limited_brand">Без ограничений</string>
-    <string name="not_set">Не задано</string>
+    <string name="not_set">Настроить</string>
     <string name="not_settled">Не задано</string>
     <string name="not_support_root_summary">Разрешение root-доступа для сторонних приложений может представлять угрозу безопасности и повредить устройство. В связи с этим мы больше не предоставляем возможность управления разрешениями root-доступа.</string>
     <string name="not_support_root_title">ROOT-доступ</string>
@@ -2876,6 +2931,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notification_abnormal_consume_wakelock">Система не переходит в спящий режим</string>
     <string name="notification_antivirus_button_text">Проверить</string>
     <string name="notification_antivirus_message">Выполните проверку для устранения рисков</string>
+    <string name="notification_bar">Уведомление</string>
     <string name="notification_battery_consume_abnormal_title">Высокий расход батареи</string>
     <string name="notification_battery_scan_consume_abnormal_summary">Нажмите для устранения проблемы</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s разряжает батарею</string>
@@ -3015,7 +3071,6 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="open_now">Разрешить использовать мобильный интернет</string>
     <string name="open_right_now">Получить красный конверт</string>
     <string name="open_right_now_short">ОК</string>
-    <string name="operator_diagnostic">Диагностика оператора</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_mi_mobile">Mi Mobile</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -3869,6 +3924,25 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_empty_location">Нет записей</string>
     <string name="privacy_empty_record">Нет записей</string>
     <string name="privacy_empty_storage">Нет записей</string>
+    <string name="privacy_flares_behavior_recent">Действия</string>
+    <string name="privacy_flares_capsule_current">%1s | Сейчас</string>
+    <string name="privacy_flares_capsule_recent">%1s | Недавно</string>
+    <string name="privacy_flares_current">Сейчас</string>
+    <string name="privacy_flares_current_detail_cam">Приложение использует камеру</string>
+    <string name="privacy_flares_current_detail_cam_loc">Приложение использует камеру и геолокацию</string>
+    <string name="privacy_flares_current_detail_cam_mic">Приложение использует камеру и микрофон</string>
+    <string name="privacy_flares_current_detail_loc">Приложение использует геолокацию</string>
+    <string name="privacy_flares_current_detail_mic">TПриложение использует микрофон</string>
+    <string name="privacy_flares_current_detail_mic_loc">Приложение использует микрофон и геолокацию</string>
+    <string name="privacy_flares_current_detail_more">Приложение использует конфиденциальное разрешение</string>
+    <string name="privacy_flares_recent">Недавно</string>
+    <string name="privacy_flares_recent_detail_cam">Приложение использовало камеру</string>
+    <string name="privacy_flares_recent_detail_cam_loc">Приложение использовало камеру и геолокацию</string>
+    <string name="privacy_flares_recent_detail_cam_mic">Приложение использовало камеру и микрофон</string>
+    <string name="privacy_flares_recent_detail_loc">Приложение использовало геолокацию</string>
+    <string name="privacy_flares_recent_detail_mic">Приложение использовало микрофон</string>
+    <string name="privacy_flares_recent_detail_mic_loc">Приложение использовало микрофон и геолокацию</string>
+    <string name="privacy_flares_recent_detail_more">Приложение использовало конфиденциальное разрешение</string>
     <string name="privacy_global_guide_permission_guide_text">Когда приложения используют микрофон или камеру, в строке состояния будет отображаться уведомление. Нажмите на него, чтобы посмотреть каким приложением используется.</string>
     <string name="privacy_guide_permission_guide_text">Показывать уведомление в строке состояния, когда приложения используют геолокацию, микрофон или камеру в фоновом режиме.</string>
     <string name="privacy_guide_permission_use_text">MIUI будет собирать статистику использования приложениями конфиденциальных разрешений, включая геолокацию, доступ к контактам, журналу вызовов, микрофону и хранилищу. Данная статистика может быть использована для более тонкой настройки разрешений.</string>
@@ -3925,7 +3999,7 @@ Xiaomi не обещает и не гарантирует точность, до
 Во время калибровки MIUI отправит оператору SMS для получения шаблона калибровки."</string>
     <string name="privacy_prompt_upload">Отправить</string>
     <string name="privacy_protect_summary">Защита ваших личных данных</string>
-    <string name="privacy_protect_title">Конфиденциальность</string>
+    <string name="privacy_protect_title">Защита конфиденциальности</string>
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">Узнайте больше о защите конфиденциальности</string>
     <string name="privacy_provision_next">Далее</string>
@@ -4105,10 +4179,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="reject_usb_install">Установка следующих приложений через USB отменена</string>
     <string name="release_meminfo">Освобождено %d МБ</string>
     <string name="release_memory">Очистить память</string>
+    <string name="reminder_once_month">Раз в месяц</string>
+    <string name="reminder_tips">Внимание</string>
+    <string name="reminder_type">Тип предупреждения</string>
+    <string name="reminder_warning">Лимит</string>
     <string name="renew_ip">Повторить</string>
     <string name="renew_now">Продлить</string>
     <string name="repair">Исправить</string>
     <string name="repair_loading_text">Подождите…</string>
+    <string name="repeat_type">Повтор</string>
     <string name="repeated_marked_number_summary">Не блокировать повторный вызов с того же отмеченного номера в течение 3 минут</string>
     <string name="repeated_marked_number_title">Не блокировать повторные вызовы</string>
     <string name="replace_dns">Автоматическая замена DNS</string>
@@ -4231,6 +4310,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="select_app_title_default">Запуск приложения</string>
     <string name="select_app_title_music">Воспроизведение музыки</string>
     <string name="select_province_and_city">Выберите провинцию и город</string>
+    <string name="select_traffic_type_and_reminder_type">Настройка</string>
     <string name="send">Отправить</string>
     <string name="send_msg_to_query">Отправить бесплатное SMS для проверки</string>
     <string name="send_sms_title">Разрешить %s отправлять сообщения?</string>
@@ -4260,6 +4340,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="settings_choice_no_notification">Отключено</string>
     <string name="settings_image_camera_summary">Удалить информацию о модели устройства, метаданные и др.</string>
     <string name="settings_location_subtitle_no">Нет информации о местоположении</string>
+    <string name="settings_negative_button_text">Не сейчас</string>
     <string name="settings_power_save_ontime_title">Расписание</string>
     <string name="settings_privacy_revoke_desc">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности и безопасности.</string>
     <string name="settings_privacy_revoke_title">Отзыв согласия</string>
@@ -4669,6 +4750,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_summary_whitelist_numbers">Разрешать вызовы и сообщения только с определенных номеров и регионов</string>
     <string name="st_summary_whitelist_numbers_international">Разрешать вызовы и сообщения только с определенных номеров</string>
     <string name="st_tab_title">%1$s (SIM%2$d)</string>
+    <string name="st_tab_title_esim">%1$s (eSIM)</string>
     <string name="st_title_addblacklist">В черный список</string>
     <string name="st_title_addwhitelist">В белый список</string>
     <string name="st_title_adress">Выбрать регион</string>
@@ -4757,6 +4839,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Все клоны приложения будут удалены.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Удаление клона приложения очистит все его данные.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Удалить клон приложения?</string>
+    <string name="storage_app_public_desc">Занято %s, включая общее хранилище</string>
+    <string name="storage_app_public_title">Общие файлы</string>
     <string name="storage_app_space_details_entry">Просмотр сведений</string>
     <string name="storage_app_uninstall_app_dialog_msg">Удаление приложения очистит все его данные.</string>
     <string name="storage_app_uninstall_app_dialog_title">Удаление приложения</string>
@@ -4779,6 +4863,16 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_dialog_unsupported">"^1 не поддерживается. 
 
 Для использования необходимо сначала настроить."</string>
+    <string name="storage_fbo_clear">Дефрагментация</string>
+    <string name="storage_fbo_des">Внутреннее хранилище фрагментировано, это может значительно замедлять работу устройства. Дефрагментация будет выполняться автоматически, когда вы не используете устройство.</string>
+    <string name="storage_fbo_number_tip">Объединено на %1$s</string>
+    <string name="storage_fbo_tools">Оптимизация хранилища</string>
+    <string name="storage_file_delete_tip">Удалить выбранные файлы навсегда? Некоторые из них могут быть загружены снова при необходимости.</string>
+    <string name="storage_file_dialog_delete_title">Удаление файлов</string>
+    <string name="storage_file_list_btn">Удалить %1$s</string>
+    <string name="storage_file_list_form_default">SD-карта</string>
+    <string name="storage_file_list_from">Из %s</string>
+    <string name="storage_fob_date_format">dd.MM</string>
     <string name="storage_format_failure">Ошибка форматирования: %1$s</string>
     <string name="storage_format_success">Успешно отформатировано: %1$s</string>
     <string name="storage_item_apk_name">APK</string>
@@ -4788,12 +4882,18 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_item_doc_name">Документы</string>
     <string name="storage_item_other_name">Другое</string>
     <string name="storage_item_picture_name">Изображения</string>
+    <string name="storage_item_system_data">Система</string>
     <string name="storage_item_system_name">Система</string>
     <string name="storage_item_video_name">Видео</string>
     <string name="storage_menu_mount">Подключить</string>
     <string name="storage_mount_failure">Ошибка подключения: %1$s</string>
     <string name="storage_mount_success">Успешно подключено: %1$s</string>
     <string name="storage_space_release_hint">Нужно больше места?</string>
+    <string name="storage_system_log">Системные журналы</string>
+    <string name="storage_system_log_tip">Системные журналы будут автоматически очищаться по необходимости</string>
+    <string name="storage_system_memory_expansion">Расширение памяти</string>
+    <string name="storage_system_memory_expansion_tip">Увеличьте размер ОЗУ за счет хранилища</string>
+    <string name="storage_system_other_tip">Данные, необходимые для нормальной работы системы (размер файла может меняться)</string>
     <string name="storage_unmount_failure">Ошибка извлечения: %1$s</string>
     <string name="storage_unmount_success">Успешно извлечено: %1$s</string>
     <string name="storage_wizard_format_confirm_v2_action">Форматировать</string>
@@ -5321,6 +5421,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="top_game">Лучшие игры</string>
     <string name="top_load_fail_detail">Ошибка загрузки, нажмите для повтора</string>
     <string name="top_no_network_detial">Ошибка загрузки, проверьте подключение и повторите попытку</string>
+    <string name="traffic_advanced_settings">Доп. настройки трафика</string>
+    <string name="traffic_alarm">Настройка оповещения</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Месячный лимит изменен на %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Лимит обновлен</string>
     <string name="traffic_alert_auto_modify_package_summary">Автоматически корректировать размер пакета на основе данных оператора</string>
@@ -5359,6 +5461,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="traffic_over_purchase_link">"Вы достигли лимита трафика.&lt;br/&gt;Если вы превысите лимит, ваш оператор связи может взимать дополнительную плату.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Нажмите для пополнения баланса.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">SIM-карта отсутствует</string>
     <string name="traffic_purchase_body">Нажмите для пополнения баланса.</string>
+    <string name="traffic_remind">Предупреждение о трафике</string>
+    <string name="traffic_remind_switch">Предупреждение о трафике</string>
+    <string name="traffic_reminder_settings">Настройка предупреждения о трафике</string>
     <string name="traffic_setting_fragment_area">Местоположение</string>
     <string name="traffic_setting_fragment_brand">Бренд</string>
     <string name="traffic_setting_fragment_button1_text">Отмена</string>
@@ -5394,6 +5499,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="turn_off_auto_correction">Отключение автоматической синхронизации</string>
     <string name="two_address_choose_hint">%1$s и %2$s</string>
     <string name="type_face_condition_summary">Настройка размера и толщины шрифта</string>
     <string name="unable_connect_internet">Нет доступа в интернет</string>
@@ -5404,6 +5510,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="uninstall_danagerous_desc">\"%s\" может нанести вред устройству</string>
     <string name="uninstall_danagerous_msg">\"%s\" может нанести вред устройству, снизить его производительность или вызвать перезагрузки.</string>
     <string name="uninstall_danagerous_title">Вредоносное приложение</string>
+    <string name="unknown_operator">Позвоните на %2$s, чтобы уточнить детали тарифного плана у %1$s.</string>
     <string name="unknown_package">Не знаете, какой у вас пакет?</string>
     <string name="unlike">Нет, спасибо</string>
     <string name="unlimited_cellular_data_monthly">Безлимитный тариф</string>

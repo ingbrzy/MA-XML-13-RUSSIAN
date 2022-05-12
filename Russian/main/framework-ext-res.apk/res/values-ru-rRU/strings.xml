@@ -138,6 +138,7 @@
     <string name="dewdrops">Утренняя роса</string>
     <string name="digitaluniverse">Цифровая вселенная (стерео)</string>
     <string name="disable_nfc">NFC отключен для беспроводной зарядки</string>
+    <string name="disable_nfc_haptic_reverse">NFC и вибрация отключены для обратной беспроводной зарядки</string>
     <string name="disable_nfc_reverse">NFC отключен для обратной беспроводной зарядки</string>
     <string name="dock_tip_floatwindow">Перетащите панель к краю экрана, чтобы перейти в режим разделения экрана</string>
     <string name="dock_tip_splitscreen_landscape_drag">Перетащите панель горизонтально, чтобы поменять местами окна приложений</string>
@@ -151,6 +152,7 @@
     <string name="enable_livetalk_title">Включить пакет пополнения баланса</string>
     <string name="enable_midrop">Включить</string>
     <string name="enable_nfc">Зарядка прекращена. NFC снова включен.</string>
+    <string name="enable_nfc_haptic_reverse">Обратная зарядка прекращена. NFC и вибрация снова включены.</string>
     <string name="enable_nfc_reverse">Обратная зарядка прекращена. NFC снова включен.</string>
     <string name="expect">Ожидание</string>
     <string name="fadein">Нарастание</string>
@@ -176,7 +178,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Не сейчас</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Включить</string>
     <string name="fp_nav_center_action_choose_dlg_title">Включить \"Быстрый возврат\"?</string>
-    <string name="freeform_exchange_tip">Отпустите, чтобы открыть приложение</string>
+    <string name="freeform_exchange_tip">Откройте плавающее окно в полноэкранном режиме</string>
     <string name="freeform_exchange_tip2">Перетащите в угол для отмены</string>
     <string name="frenchchic">Французский шик</string>
     <string name="frequent_email">Email</string>
@@ -381,15 +383,15 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
-    <string name="relaunch_action">Перезапуск приложения</string>
+    <string name="relaunch_action">Перезапуск</string>
     <string name="relaunch_dialog_alwaysUsePrompt">Запомнить выбор</string>
     <string name="relaunch_dialog_button_cancel">Отмена</string>
-    <string name="relaunch_dialog_button_confirm">ОК</string>
-    <string name="relaunch_dialog_message">Не удалось настроить размер окна во время работы приложения. Требуется перезапуск приложения. Данные приложения, созданные во время этого сеанса, могут быть потеряны. Перезапустить?</string>
-    <string name="relaunch_dialog_title">Перезапуск \"%s\"</string>
-    <string name="relaunch_fold_notification_content">Это приложение может отображаться неправильно после того, как устройство сложено, необходимо перезапустить его</string>
+    <string name="relaunch_dialog_button_confirm">Перезапустить</string>
+    <string name="relaunch_dialog_message">Размер этого приложения можно изменить только после перезапуска. Все несохраненные изменения будут потеряны, если вы сейчас перезапустите приложение. Перезапустить?</string>
+    <string name="relaunch_dialog_title">Перезапустить \"%s\"?</string>
+    <string name="relaunch_fold_notification_content">Это приложение может отображаться неправильно. Перезапустите его.</string>
     <string name="relaunch_notification_title">Перезапуск \"%s\"</string>
-    <string name="relaunch_unfold_notification_content">Это приложение может отображаться неправильно после того, как устройство развернуто, необходимо перезапустить его</string>
+    <string name="relaunch_unfold_notification_content">Это приложение может отображаться неправильно. Перезапустите его.</string>
     <string name="remain">Осталось: %s</string>
     <string name="replace">Заменить</string>
     <string name="resolver_app_recommend_flag">Рекомендовать</string>
@@ -409,8 +411,8 @@
     <string name="sc_notification_warning_content">Отображение в полноэкранном режиме может быть некорректным. Восстановить исходное состояние или перейти к настройкам?</string>
     <string name="sc_notification_warning_restore">Восстановить</string>
     <string name="sc_notification_warning_settings">Настройки</string>
-    <string name="sc_notification_warning_title">Переключение отображения</string>
-    <string name="sc_relaunch_dialog_message">Использование приложения в этом режиме не подходит для складного устройства. Перезапустить приложение для переключения в полноэкранный режим?</string>
+    <string name="sc_notification_warning_title">Настройки отображения</string>
+    <string name="sc_relaunch_dialog_message">Это приложение может отображаться некорректно. Перезапустите его.</string>
     <string name="scanning_device_tips">Поиск устройств поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
     <string name="screen_button_notification_text">Для включения одновременно нажмите кнопки \"Домой\" и \"Питание\".</string>
     <string name="screen_button_notification_title">Кнопки навигации отключены</string>

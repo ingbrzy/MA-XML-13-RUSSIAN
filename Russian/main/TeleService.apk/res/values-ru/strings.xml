@@ -1007,6 +1007,11 @@
     <string name="disable_cfb_forbidden">Ваш оператор не поддерживает отключение переадресации вызовов при занятом номере.</string>
     <string name="disable_cfnrc_forbidden">Ваш оператор не поддерживает отключение переадресации вызовов при недоступности абонента.</string>
     <string name="disable_cfnry_forbidden">Ваш оператор не поддерживает отключение переадресации вызовов при отсутствии ответа.</string>
+    <string name="disable_esim_dialog_summary">"В случае деактивации eSIM, будет активирована SIM %s.
+Деактивировать eSIM?"</string>
+    <string name="disable_esim_dialog_title">Деактивация eSIM</string>
+    <string name="disable_esim_error_toast_message">Не удалось деактивировать eSIM</string>
+    <string name="disable_esim_progress_activating_message">Деактивация eSIM…</string>
     <string name="disable_fdn">Отключить разрешенные номера</string>
     <string name="disable_fdn_ok">Включить разрешенные номера</string>
     <string name="disable_overlays">Откл. аппарат. наложения</string>
@@ -1091,6 +1096,12 @@
     <string name="enable_disable_technology_news">Новости технологий</string>
     <string name="enable_dual_4g_if_dual_ct">Предпочитать сеть 4G для обеих SIM-карт, чтобы использовать VoLTE на второй SIM-карте, когда установлены две SIM-карты China Telecom.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE требует подключение 4G для обоих слотов SIM. Включить режим Dual 4G?</string>
+    <string name="enable_esim_dialog_summary">"В случае активации eSIM, SIM %s будет деактивирована.
+Активировать eSIM?"</string>
+    <string name="enable_esim_dialog_title">Активация eSIM</string>
+    <string name="enable_esim_error_toast_message">Не удалось активировать eSIM</string>
+    <string name="enable_esim_progress_activating_message">Активация eSIM…</string>
+    <string name="enable_esim_title">Использование eSIM</string>
     <string name="enable_fdn">Включить разрешенные номера</string>
     <string name="enable_fdn_ok">Отключить разрешенные номера</string>
     <string name="enable_freeform_support">Разрешить создание окон произвольной формы</string>
@@ -1124,6 +1135,7 @@
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>
     <string name="enter_callbarring_password">Введите пароль запрета вызовов (%d символа)</string>
     <string name="enter_esim_manager">Управление eSIM</string>
+    <string name="enter_esim_manager_title">Управление eSIM</string>
     <string name="enter_input" formatted="false">USSD запрос должен содержать от %d до %d символов. Повторите попытку.</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="enter_pin_text">PIN SIM-карты:</string>
@@ -1138,9 +1150,11 @@
     <string name="error_updating_title">Ошибка настройки вызовов</string>
     <string name="esim_goto_active">Активировать</string>
     <string name="esim_inactive_message">еSIM неактивна</string>
-    <string name="esim_inactive_notification_channel">eSimInActiveNotification</string>
     <string name="esim_inactive_notification_message">SIM-карта не обнаружена. Нажмите для активации eSIM.</string>
-    <string name="esim_inactive_settings_title">Мобильные сети</string>
+    <string name="esim_inactive_notification_message_global">SIM-карта не обнаружена. Нажмите для активации eSIM.</string>
+    <string name="esim_inactive_notification_title_global">Двойная SIM-карта и мобильные сети</string>
+    <string name="esim_inactive_settings_title">Двойная SIM-карта и мобильные сети</string>
+    <string name="esim_setting_title">Настройки eSIM</string>
     <string name="evening">После полудня</string>
     <string name="exception_error">Ошибка сети или SIM-карты</string>
     <string name="expand_button_title">Дополнительно</string>
@@ -1618,7 +1632,7 @@
     <string name="mobile_geo_location_config_summary">Отмечать места с аномалиями сетевого сигнала для улучшения качества связи</string>
     <string name="mobile_geo_location_config_title">Оптимизация сети с фиксированной точкой</string>
     <string name="mobile_intelligent_connection_title">Интеллектуальная оптимизация мобильной сети</string>
-    <string name="mobile_network_dual_card_optimizationmobile_title">Мобильные сети</string>
+    <string name="mobile_network_dual_card_optimizationmobile_title">Двойная SIM-карта и мобильные сети</string>
     <string name="mobile_network_settings_not_available">Настройки мобильных сетей недоступны этому пользователю</string>
     <string name="mobile_networks">Мобильные сети</string>
     <string name="mobile_property">Свойства</string>
@@ -1835,6 +1849,7 @@
     <string name="new_pin2_label">Новый PIN2</string>
     <string name="new_pin_label">Новый PIN</string>
     <string name="night">Вечер</string>
+    <string name="no_active_esim_text">eSIM не активна</string>
     <string name="no_application">Нет</string>
     <string name="no_change">Номер не изменен</string>
     <string name="no_checked_network">Вы не сможете подключаться к мобильной сети и совершать вызовы. Выбрать другую сеть?</string>
@@ -2449,6 +2464,7 @@ UT-интерфейс: %5$s"</string>
     <string name="send_keepalive_title">Отправлять keep-alive</string>
     <string name="sensor_answer_summary">Автоматически отвечать на входящий вызов при поднесении устройства к уху</string>
     <string name="sensor_answer_title">Ответ при поднесении к уху</string>
+    <string name="set_esim_toast_phone_in_call">Действие недоступно во время вызова</string>
     <string name="set_primary_summary">Используется для исходящих вызовов</string>
     <string name="set_primary_title">Основной аккаунт</string>
     <string name="set_smsc_address_error">Не удалось установить номер</string>
@@ -2683,6 +2699,8 @@ UT-интерфейс: %5$s"</string>
     <string name="supp_service_over_ut_precautions_roaming">Чтобы использовать %s, убедитесь, что включены мобильный интернет и роуминг данных. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Чтобы использовать %1$s, убедитесь, что для SIM-карты %2$d включены мобильный интернет и роуминг данных. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="support_forbidden_fakecell">Предупреждение: ограничение подключения к поддельным базовым станциям может снизить сигнал в областях с плохим покрытием</string>
+    <string name="switch_cancel_btn_text">Отмена</string>
+    <string name="switch_confirm_btn_text">ОК</string>
     <string name="switch_dds_to_sub_alert">Установите эту карту по умолчанию для мобильного интернета.</string>
     <string name="switch_dds_to_sub_alert_msg">Переключите мобильные данные на CT SIM</string>
     <string name="switch_debug_menu">Дополнительные настройки сети</string>

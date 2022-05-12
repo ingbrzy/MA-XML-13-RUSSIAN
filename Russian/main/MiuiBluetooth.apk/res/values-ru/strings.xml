@@ -474,7 +474,7 @@
     <string name="headset_device_error_disconnect">Оба наушника отсоединены, закройте и снова откройте крышку</string>
     <string name="headset_device_error_failed">Сбой</string>
     <string name="headset_device_error_multconnect">Обновление недоступно, когда подключено нескольких устройств</string>
-    <string name="headset_device_error_no_device">Кейс пуст или не хватает наушника</string>
+    <string name="headset_device_error_no_device">Поместите оба наушника в кейс и держите их заряженными</string>
     <string name="headset_device_error_single_device">Не удается обновить наушник, выполните повторное сопряжение</string>
     <string name="headset_device_sync">Синхронизация…</string>
     <string name="headset_device_sync_donot_move_device">Не используйте наушники во время синхронизации</string>

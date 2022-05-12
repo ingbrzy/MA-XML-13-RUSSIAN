@@ -127,6 +127,10 @@
         <item>XL</item>
         <item>XXL</item>
     </string-array>
+    <string-array name="cache_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
     <string-array name="cellular_data_unit">
         <item>" ГБ"</item>
         <item>" МБ"</item>
@@ -263,8 +267,20 @@
         <item>Сортировка по занимаемому месту</item>
         <item>Сортировка по времени установки</item>
     </string-array>
+    <string-array name="sort_title_new">
+        <item>Сортировка по имени приложения</item>
+        <item>Сортировка по частоте использования</item>
+        <item>Сортировка по занимаемому месту</item>
+        <item>Сортировка по времени установки</item>
+    </string-array>
     <string-array name="sort_type">
         <item>Состояние</item>
+        <item>Имя приложения</item>
+        <item>Частота использования</item>
+        <item>Занимаемое место</item>
+        <item>Время установки</item>
+    </string-array>
+    <string-array name="sort_type_new">
         <item>Имя приложения</item>
         <item>Частота использования</item>
         <item>Занимаемое место</item>

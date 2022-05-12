@@ -1475,6 +1475,8 @@
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Включить стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_enable_inband_ringing">Рингтоны по Bluetooth</string>
+    <string name="bluetooth_enable_opp_high_speed">Высокоскоростная передача по Bluetooth</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Использование высокоскоростных протоколов Bluetooth P2P для передачи</string>
     <string name="bluetooth_enable_page_scan">Сканирование страниц Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Отключение/включение сканирования страниц для проверки Bluetooth</string>
     <string name="bluetooth_enable_pts_test">Тест PTS Bluetooth</string>
@@ -3691,6 +3693,8 @@
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключиться к Интернету с помощью Wi-Fi.</string>
     <string name="firmware_version">Версия Android</string>
+    <string name="fiveg_nrca_switch_summary">Улучшение соединения 5G для тестовых сред</string>
+    <string name="fiveg_nrca_switch_title">Агрегация несущих 5G</string>
     <string name="fiveg_sa_switch_summary">Использовать сеть SA на дополнительной SIM-карте (только для тестирования)</string>
     <string name="fiveg_sa_vice_switch_title">SA на дополнительной SIM-карте</string>
     <string name="fiveg_vonr_switch_summary">Использование VoNR в 5G-сетях для улучшения качества связи. Функция предназначена только для тестирования.</string>
@@ -3870,6 +3874,7 @@
 • Зажмите миниатюру приложения в Недавних и нажмите значок \"Плавающего окна\"."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Нажмите на приложение на боковой панели для открытия в плавающем окне.
 · Перетащите приложение в центр экрана для открытия в плавающем окне, или к краю для разделения экрана."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перетащите приложение из панели в центр экрана для открытия в плавающем окне, или к краю для разделения экрана.</string>
     <string name="freeform_vedio_description_pad">Перетащите элемент из панели для открытия в плавающем окне</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
@@ -5550,6 +5555,9 @@
     <string name="miheadet_up_music">Предыдущий трек</string>
     <string name="miheadset_Box">Кейс</string>
     <string name="miheadset_Intelligentpickfree_summary">Когда включено шумоподавление, при обнаружении голоса наушники на короткое время автоматически переключатся в режим прозрачности.</string>
+    <string name="miheadset_LEAudio_summary">Некоторые функции будут недоступны при включенном LE Audio</string>
+    <string name="miheadset_LEAudio_title">Включить LE Audio?</string>
+    <string name="miheadset_LE_on_toast">Перед включением этой функции убедитесь, что оба наушника заряжены, выньте их из кейса</string>
     <string name="miheadset_LeftEar">Левое ухо</string>
     <string name="miheadset_RightEar">Правое ухо</string>
     <string name="miheadset_active">Активно</string>
@@ -5606,6 +5614,8 @@
     <string name="miheadset_enhence_low">Прибавить низкие частоты</string>
     <string name="miheadset_equalizer">Эквалайзер</string>
     <string name="miheadset_feedback">Обратная связь</string>
+    <string name="miheadset_feedback_summary">Для отправки журналов поместите оба наушника в кейс для зарядки и оставьте крышку открытой</string>
+    <string name="miheadset_feedback_title">Отправка журналов</string>
     <string name="miheadset_fitness_check">Тест вкладышей</string>
     <string name="miheadset_fitness_check_checking">Тестирование…</string>
     <string name="miheadset_fitness_check_continue">Далее</string>
@@ -5672,9 +5682,12 @@
     <string name="miheadset_preferences">Настройки</string>
     <string name="miheadset_rename">Переименовать</string>
     <string name="miheadset_rename_device">Переименовать</string>
+    <string name="miheadset_same_account_incall">Прием вызовов со всех синхронизированных устройств</string>
+    <string name="miheadset_same_account_incall_summary">Подключите наушники к другим синхронизированным устройствам для приема входящих вызовов</string>
     <string name="miheadset_shared_contacts">Обмен контактами</string>
     <string name="miheadset_shared_contacts_summary">Для обмена контактами</string>
     <string name="miheadset_single_ear_indicate">Наденьте оба наушника для использования шумоподавления</string>
+    <string name="miheadset_singleear_toast">Не поддерживается для одного наушника</string>
     <string name="miheadset_soft">Мягче</string>
     <string name="miheadset_sound_settings">Аудио</string>
     <string name="miheadset_spatial_audio_off">Откл.</string>
@@ -6539,6 +6552,7 @@
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Уведомления</string>
     <string name="now">Перезагрузить</string>
+    <string name="nrca_switch_title">Агрегация несущих 5G</string>
     <string name="number_of_device_admins_none">Нет активных приложений</string>
     <string name="oaid_apps_summary">Настройка доступа для отдельных приложений</string>
     <string name="oaid_apps_title">Управление виртуальным ID</string>
@@ -8584,6 +8598,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_no_service">Нет сети</string>
     <string name="sim_notification_summary">Нажмите, чтобы настроить</string>
     <string name="sim_notification_title">SIM-карты заменены</string>
+    <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_other_call_settings">Другие настройки вызовов</string>
     <string name="sim_outgoing_call_title">SIM-карта для исходящих вызовов</string>
     <string name="sim_pin_change">Изменение PIN-кода SIM-карты</string>

@@ -30,6 +30,8 @@
     <string name="access_non_personal_data">В случае отзыва согласия на доступ и использование неличных данных с вашего устройства, сервисы \"Карусель Обоев\" будут деактивированы, а все собранные данные будут удалены в течение срока, указанного в действующих законах и нормативных актах.</string>
     <string name="accessibility_enabled">Помощник включен.</string>
     <string name="actionbar_button_up_description">Назад</string>
+    <string name="activate_esim_tips">Не удалось активировать. Повторите попытку.</string>
+    <string name="activating_esim_tips">Активация…</string>
     <string name="address_dialing_introduction">Это приложение можно использовать для вызовов, просмотра журнала вызовов и управления контактами.</string>
     <string name="afternoon">После полудня</string>
     <string name="agree">Принять</string>

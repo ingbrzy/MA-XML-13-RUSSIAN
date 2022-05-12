@@ -2248,6 +2248,8 @@
     <string name="error_message_respond_revert_22">@string/error_message_account_or_password</string>
     <string name="error_message_respond_revert_23">@string/error_message_account_or_password</string>
     <string name="error_message_respond_revert_24">@string/error_message_blacklist</string>
+    <string name="esim_inactive_notification_channel">eSimInActiveNotification</string>
+    <string name="esim_inactive_notification_channel_for_global">eSimInActiveNotificationForGlobal</string>
     <string name="event_lunar_month">月</string>
     <string name="exception_network_error_check_network">网络无法连接</string>
     <string name="exception_network_error_retry">网络出错，请稍后再试</string>
@@ -2601,8 +2603,14 @@
     <string name="ir_mcc">432</string>
     <string name="item_city_list_region_no_data">-- / --</string>
     <string name="item_city_list_temperature_no_data">--</string>
+    <string name="item_eighty">%d CNY</string>
+    <string name="item_fifty">%d CNY</string>
+    <string name="item_hundred">%d CNY</string>
     <string name="item_lucky_alarm_has_been_closed"> </string>
     <string name="item_resource_audio_divider">│</string>
+    <string name="item_ten">%d CNY</string>
+    <string name="item_thirty">%d CNY</string>
+    <string name="item_zero">%d CNY</string>
     <string name="jia_zi">甲子</string>
     <string name="joox_privacy_policy_url">http://www.tencent.com/en-us/privacy-policy.html</string>
     <string name="joyeuse_parent">excalibur</string>
@@ -3950,6 +3958,7 @@
     <string name="retrocession_day_tradition">光復節</string>
     <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
     <string name="rlz_access_point">Y1</string>
+    <string name="root_smds_address">testrootsmds.example.com</string>
     <string name="rtt_settings_always_visible" />
     <string name="rtt_settings_no_visible" />
     <string name="rtt_settings_title" />
@@ -4143,6 +4152,7 @@
     <string name="sign_percent">%</string>
     <string name="sign_secret_key">vha2n2sh808j7ni2p3af1mw58gxa9yrj</string>
     <string name="sim_settings_summary">%1$s - %2$s</string>
+    <string name="sim_slot_mappings_json">{\"sim-slot-mappings\":[{\"devices\":[\"diting\"],\"esim-slot-ids\":[1],\"psim-slot-ids\":[0]}]}</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
     <string name="sip_always">SIP_ALWAYS</string>
@@ -4849,6 +4859,8 @@
     <string name="vector_large_crossB"> </string>
     <string name="velocity_tracker_impl">platform</string>
     <string name="verify_sms_cancel">@string/cancel_button</string>
+    <string name="verify_wlan_allow">@string/app_behavior_allowed</string>
+    <string name="verify_wlan_denied">@string/app_behavior_denied</string>
     <string name="vernal_equinox">春分</string>
     <string name="vernal_equinox_tradition">春分</string>
     <string name="vertical_text_divider">|</string>

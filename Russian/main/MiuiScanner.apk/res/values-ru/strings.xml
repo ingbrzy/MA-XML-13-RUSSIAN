@@ -198,7 +198,7 @@
     <string name="document_recognize_text">Распознать текст</string>
     <string name="document_rectify">Обрезка</string>
     <string name="document_rectify_tip_msg">Обрезка…</string>
-    <string name="document_region">Настроить</string>
+    <string name="document_region">Автовыбор</string>
     <string name="document_region_tips">Автовыбор</string>
     <string name="document_rename">Переименовать</string>
     <string name="document_rename_error">Ошибка переименования</string>
@@ -494,7 +494,7 @@
     <string name="night">Вечер</string>
     <string name="no_has_experience_version_permission">У вас нет разрешения на использование бета-версии приложения. Подайте заявку на использование или загрузите стабильную версию.</string>
     <string name="no_inner_version">Бета-версия недоступна</string>
-    <string name="no_network">Не удалось подключиться к сети</string>
+    <string name="no_network">Не удалось подключиться к сети. Повторите попытку позже.</string>
     <string name="no_one_phone">Введите правильный номер телефона</string>
     <string name="no_storage">Хранилище недоступно</string>
     <string name="no_support_to_translate_type">Этот язык не поддерживается</string>

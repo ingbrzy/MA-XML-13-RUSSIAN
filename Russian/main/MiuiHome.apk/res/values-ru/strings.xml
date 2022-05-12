@@ -406,6 +406,7 @@
     <string name="gadget_weather_title">Погода</string>
     <string name="gadget_weather_title_14">Погода 1x4</string>
     <string name="gadget_weather_title_24">Погода 2x4</string>
+    <string name="garbage_count">Присутствуют старые экземпляры: %1$s</string>
     <string name="global_search_hint">Поиск</string>
     <string name="got_it_botton">Понятно</string>
     <string name="group_folder">Новая папка</string>
@@ -479,6 +480,7 @@
     <string name="memory_clear_result">Очищено %1$s Б</string>
     <string name="memory_clear_result_giga">Очищено %1$s ГБ</string>
     <string name="memory_clear_result_mega">Очищено %1$s МБ</string>
+    <string name="memory_leak">Утечка памяти</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_auto_fill_of_uninstall">Заполнять пустые ячейки</string>
     <string name="menu_back_desktop">Домой</string>
@@ -651,6 +653,7 @@
     <string name="noon">Полдень</string>
     <string name="normal_wallpaper">Обои</string>
     <string name="not_set">Не задано</string>
+    <string name="notification_channel_alerts">Предупреждения</string>
     <string name="notification_installed">Установка завершена</string>
     <string name="notification_open_button">Открыть</string>
     <string name="notification_reset_title">Иконки упорядочены</string>
@@ -945,7 +948,11 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="uni_search_permission_content">Включите функции онлайн-поиска (сервис предоставляется Branch).</string>
+    <string name="uni_search_permission_msg">Разрешите POCO Launcher доступ к геолокации и контактам для улучшения поиска</string>
     <string name="uni_search_permission_title">Улучшенный поиск</string>
+    <string name="uni_search_setting_summary">Поиск контента непосредственно в приложениях</string>
+    <string name="uni_search_setting_title">Поиск в приложениях</string>
     <string name="uninstall">Удалить</string>
     <string name="uninstall_dialog_message">Удаление приложения очистит все его данные.</string>
     <string name="uninstall_dialog_title_format">Удалить \"%s\"?</string>
