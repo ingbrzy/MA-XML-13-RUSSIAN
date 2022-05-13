@@ -1134,9 +1134,9 @@
     <string name="clear_immediately">Очистить</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_to_charge_bill">Пополнить</string>
-    <string name="click_to_set_carrier">Настройка</string>
+    <string name="click_to_set_carrier">Настроить</string>
     <string name="click_to_set_personalized_reminder">Настройка предупреждений</string>
-    <string name="click_to_set_traffic">Настройка</string>
+    <string name="click_to_set_traffic">Настроить</string>
     <string name="close">Закрыть</string>
     <string name="close_callwait">Откл</string>
     <string name="cmcc_app_check_dialog_message">Для завершения восстановления перезагрузите устройство.</string>
@@ -1574,7 +1574,7 @@ Xiaomi не обещает и не гарантирует точность, до
 землетрясений"</string>
     <string name="ew_no_contact_tips">Нет контактов</string>
     <string name="ew_not_support_area">Предупреждения в этой области не поддерживаются</string>
-    <string name="ew_open_tips">Предупреждения о землетрясении включены</string>
+    <string name="ew_open_tips">Предупреждения о землетрясениях включены</string>
     <string name="ew_push_message">Предполагаемая интенсивность: %s. Возможно легкое сотрясение рядом.</string>
     <string name="ew_push_title">Предупреждение о землетрясении для %s</string>
     <string name="ew_safe_place_no_maps_tips">Поиск недоступен. Сначала установите Baidu Maps или Amap.</string>
@@ -1596,7 +1596,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_settings_set_level_title">Порог предупреждения о землетрясении</string>
     <string name="ew_signature_default">Центр предупреждения о землетрясениях Чэнду, Научно-исследовательский институт по уменьшению опасности стихийных бедствий</string>
     <string name="ew_sleep_mode_alert_content">Для возможности получения ранних предупреждений о землетрясениях, MIUI отключит спящий режим. Фоновые приложения, NFC, Bluetooth, GPS, мобильные данные и Wi-Fi будут работать нормально, даже когда вы спите. Включить предупреждения о землетрясении?</string>
-    <string name="ew_sleep_mode_alert_title">Предупреждения о землетрясении</string>
+    <string name="ew_sleep_mode_alert_title">Предупреждения о землетрясениях</string>
     <string name="ew_subscribe_area_title">Управление районами</string>
     <string name="ew_subscribe_city">Добавленные районы</string>
     <string name="ew_subscribe_city_count">Для подписки доступно не более %s городов</string>
@@ -2557,7 +2557,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="main_button_usage_package_setting">Установить лимит</string>
     <string name="main_daily_card_guide_dialog_ok">Выбрать</string>
     <string name="main_daily_card_guide_dialog_summary">Можно выбирать между суточным, месячным и безлимитным тарифами. Выбрать тип тарифа?</string>
-    <string name="main_daily_card_guide_dialog_summary_new">Можно выбирать между суточным, месячным и безлимитным тарифами. Выбрать тип тарифа?/string>
+    <string name="main_daily_card_guide_dialog_summary_new">Можно выбирать между суточным, месячным и безлимитным тарифами. Выбрать тип тарифа?</string>
     <string name="main_daily_card_guide_dialog_title">Выберите тип тарифа</string>
     <string name="main_daily_card_guide_dialog_title_new">Выбор типа тарифа</string>
     <string name="main_daily_package">Суточный лимит</string>
@@ -4310,7 +4310,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="select_app_title_default">Запуск приложения</string>
     <string name="select_app_title_music">Воспроизведение музыки</string>
     <string name="select_province_and_city">Выберите провинцию и город</string>
-    <string name="select_traffic_type_and_reminder_type">Настройка</string>
+    <string name="select_traffic_type_and_reminder_type">Настроить</string>
     <string name="send">Отправить</string>
     <string name="send_msg_to_query">Отправить бесплатное SMS для проверки</string>
     <string name="send_sms_title">Разрешить %s отправлять сообщения?</string>
