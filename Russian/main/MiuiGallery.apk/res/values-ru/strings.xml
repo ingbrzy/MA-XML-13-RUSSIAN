@@ -1434,7 +1434,7 @@
     <string name="manual_hide_manage">Добавить файлы \".nomedia\"</string>
     <string name="manual_hide_state">Файлы \".nomedia\" добавлены</string>
     <string name="map_album">Карта</string>
-    <string name="map_album_detail_page_title">Местоположение</string>
+    <string name="map_album_detail_page_title">Геолокация</string>
     <string name="map_enable_position_service_message">Включите геолокацию для отображения на карте фото и видео</string>
     <string name="map_enable_position_service_title">Геолокация</string>
     <string name="map_grant_position_permission_after_declined_twice_message">Разрешите приложению \"Галерея\" использование геолокации для отображения на карте фото и видео</string>

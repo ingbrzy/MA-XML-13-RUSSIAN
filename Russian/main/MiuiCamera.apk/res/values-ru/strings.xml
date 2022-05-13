@@ -908,7 +908,7 @@
     <string name="live_workspace_title_pause">Пауза</string>
     <string name="live_workspace_title_play">Воспроизведение</string>
     <string name="live_workspace_title_pre_edit">Выберите элементы для удаления</string>
-    <string name="location">Местоположение</string>
+    <string name="location">Геолокация</string>
     <string name="location_access_allow">Разрешить</string>
     <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение использовать геолокацию. Разблокируйте устройство.</string>
     <string name="location_permission_des">Добавлять информацию о местоположении в фото и видео</string>

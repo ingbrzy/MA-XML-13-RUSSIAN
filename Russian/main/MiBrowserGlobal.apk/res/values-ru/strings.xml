@@ -1939,8 +1939,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_site_settings_cookie_block_third_party_title">Блокировать сторонние файлы cookie</string>
     <string name="pref_site_settings_cookie_block_title">Блокировать все файлы cookie (не рекомендуется)</string>
     <string name="pref_site_settings_cookie_summary">Файлы cookie – это файлы, создаваемые посещенными вами сайтами для сохранения данных о ваших предпочтениях. Сторонние файлы cookie создаются сторонними веб-сайтами, которые являются владельцами контента (например, рекламы или изображений), который вы видите на посещаемых вами страницах.</string>
-    <string name="pref_site_settings_location">Местоположение</string>
-    <string name="pref_site_settings_location_ask">Сайтам потребуется ваше разрешение на доступ к данным о вашем местоположении (рекомендуется)</string>
+    <string name="pref_site_settings_location">Геолокация</string>
+    <string name="pref_site_settings_location_ask">Сайтам потребуется ваше разрешение на использование геолокации (рекомендуется)</string>
     <string name="pref_site_settings_location_permission">Разрешите использование геолокации в &lt;font color=\"#247BFF\">Настройках Android&lt;/font>.</string>
     <string name="pref_site_settings_mic">Микрофон</string>
     <string name="pref_site_settings_mic_ask">Сайтам потребуется ваше разрешение на доступ к микрофону (рекомендуется)</string>

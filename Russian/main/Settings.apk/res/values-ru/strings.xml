@@ -6805,7 +6805,7 @@ OTG отключается автоматически через 10 минут �
     <string name="permission_settings_title">Разрешения приложений</string>
     <string name="permissions_label">Разрешения</string>
     <string name="permissions_usage_summary">Посмотреть, какие приложения недавно использовали разрешения</string>
-    <string name="permissions_usage_title">Панель управления доступом</string>
+    <string name="permissions_usage_title">Панель управления разрешениями</string>
     <string name="permit_draw_overlay">Поверх других приложений</string>
     <string name="permit_manage_external_storage">Управление файлами</string>
     <string name="permit_running_network">Фоновый трафик</string>

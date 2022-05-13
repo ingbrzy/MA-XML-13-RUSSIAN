@@ -133,7 +133,7 @@
     <string name="ew_detail_receive_distance_message2">%s км (Эпицентр далеко от вас. Вы можете не почувствовать землетрясение.)</string>
     <string name="ew_detail_receive_distance_title">Расстояние до эпицентра</string>
     <string name="ew_detail_receive_location_message">%2$s°N %1$s°E</string>
-    <string name="ew_detail_receive_location_title">Местоположение</string>
+    <string name="ew_detail_receive_location_title">Геопозиция</string>
     <string name="ew_detail_receive_time_title">Начало</string>
     <string name="ew_detail_receive_warn_time_message">%s сек.</string>
     <string name="ew_detail_receive_warn_time_title">Время до начала</string>

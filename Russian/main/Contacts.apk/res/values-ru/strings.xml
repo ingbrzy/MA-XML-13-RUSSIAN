@@ -1559,7 +1559,7 @@
     <string name="privacy_settings_mnotallowed">Не предоставлено</string>
     <string name="privacy_settings_permission_description">Сведения о разрешениях</string>
     <string name="privacy_settings_permission_related">Разрешения</string>
-    <string name="privacy_settings_phone_position">Местоположение</string>
+    <string name="privacy_settings_phone_position">Геолокация</string>
     <string name="privacy_settings_phone_position_description">Импорт контактов с других устройств через Bluetooth</string>
     <string name="privacy_settings_privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_settings_read_call_log">Журнал вызовов</string>

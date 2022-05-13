@@ -653,7 +653,7 @@
     <string name="tax_insurance_and_fund_detail">Детали страхования</string>
     <string name="tax_last_salary_hint">Укажите свой доход</string>
     <string name="tax_last_salary_number">Доход</string>
-    <string name="tax_location">Местоположение</string>
+    <string name="tax_location">Геопозиция</string>
     <string name="tax_medical">Медицинский</string>
     <string name="tax_param_error">Введите правильную ставку страхования</string>
     <string name="tax_payment_period">Количество платежей</string>

@@ -4316,7 +4316,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="send_sms_title">Разрешить %s отправлять сообщения?</string>
     <string name="set_applock_password">Задать пароль</string>
     <string name="set_complete">Готово</string>
-    <string name="set_location">Местоположение</string>
+    <string name="set_location">Геопозиция</string>
     <string name="set_mixed_password_name">Задайте пароль</string>
     <string name="set_now">Настройки</string>
     <string name="set_numeric_password_name">Задайте PIN-код</string>
@@ -5299,7 +5299,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_condition_incall">Вызов</string>
     <string name="title_condition_leave">Отбытие из места</string>
     <string name="title_condition_leave_activity">Выход из приложения</string>
-    <string name="title_condition_location">Местоположение</string>
+    <string name="title_condition_location">Геолокация</string>
     <string name="title_condition_lock_screen">Блокировка экрана</string>
     <string name="title_condition_meeting">Встреча</string>
     <string name="title_condition_message">Сообщение</string>
@@ -5365,7 +5365,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_result_eye_care">Режим чтения</string>
     <string name="title_result_flashlight">Фонарик</string>
     <string name="title_result_hotspot">Точка доступа</string>
-    <string name="title_result_location">Местоположение</string>
+    <string name="title_result_location">Геолокация</string>
     <string name="title_result_lock_screen">Блокировка экрана</string>
     <string name="title_result_music">Воспроизведение музыки</string>
     <string name="title_result_mute">Бесшумный режим</string>

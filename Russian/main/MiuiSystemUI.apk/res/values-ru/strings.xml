@@ -2040,7 +2040,7 @@ mm"</string>
     <string name="notification_channel_dnd">Не беспокоить</string>
     <string name="notification_channel_general">Сообщения</string>
     <string name="notification_channel_hints">Подсказки</string>
-    <string name="notification_channel_location">Местоположение</string>
+    <string name="notification_channel_location">Геолокация</string>
     <string name="notification_channel_minimized">Эти уведомления будут свернуты</string>
     <string name="notification_channel_screenbutton">Кнопки</string>
     <string name="notification_channel_screenshot">Скриншоты</string>
