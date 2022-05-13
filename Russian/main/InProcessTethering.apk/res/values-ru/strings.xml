@@ -8,7 +8,7 @@
     <string name="no_upstream_notification_message" />
     <string name="no_upstream_notification_title" />
     <string name="notification_channel_tethering_status">Статус точки доступа и модема</string>
-    <string name="tethered_notification_message">Нажмите, чтобы настроить.</string>
+    <string name="tethered_notification_message">Нажмите для настройки</string>
     <string name="tethered_notification_title">Модем или точка доступа активны</string>
     <string name="upstream_roaming_notification_message" />
     <string name="upstream_roaming_notification_title" />

@@ -136,9 +136,9 @@
         <item>" МБ"</item>
     </string-array>
     <string-array name="cellular_package_type">
-        <item>Ежемесячный тариф</item>
-        <item>Безлимитный тариф</item>
-        <item>Ежедневный тариф</item>
+        <item>Ежемесячный</item>
+        <item>Безлимитный</item>
+        <item>Суточный</item>
     </string-array>
     <string-array name="daily_brand">
         <item>Выбор</item>
@@ -297,9 +297,9 @@
         <item>Время обновления</item>
     </string-array>
     <string-array name="traffic_package_type">
-        <item>Месячный тариф</item>
-        <item>Суточный тариф</item>
-        <item>Безлимитный тариф</item>
+        <item>Ежемесячный</item>
+        <item>Суточный</item>
+        <item>Безлимитный</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"мобильный трафик "</item>

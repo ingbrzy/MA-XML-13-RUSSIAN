@@ -8596,7 +8596,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_name_hint">Укажите название SIM-карты</string>
     <string name="sim_no_inserted_msg">SIM-карта не вставлена</string>
     <string name="sim_no_service">Нет сети</string>
-    <string name="sim_notification_summary">Нажмите, чтобы настроить</string>
+    <string name="sim_notification_summary">Нажмите для настройки</string>
     <string name="sim_notification_title">SIM-карты заменены</string>
     <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_other_call_settings">Другие настройки вызовов</string>

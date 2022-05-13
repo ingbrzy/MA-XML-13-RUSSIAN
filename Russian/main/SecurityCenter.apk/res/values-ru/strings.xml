@@ -141,7 +141,7 @@
     <string name="adb_install_reject_notiy_desc">Разрешить установку через USB можно в настройках разработчика</string>
     <string name="adb_login_xiaomi_account">Сначала войдите в Mi Аккаунт</string>
     <string name="add_auto_task_desktop_icon">Добавить ярлык на рабочий стол</string>
-    <string name="add_bill_reminder_alarm">Настройка предупреждения о балансе</string>
+    <string name="add_bill_reminder_alarm">Настройка предупреждений о балансе</string>
     <string name="add_done">Успешно добавлено</string>
     <string name="add_game">Добавить</string>
     <string name="add_game_notification_summary">Нажмите для запуска и ускорения.</string>
@@ -961,9 +961,9 @@
     <string name="bg_network_exception_title">Фоновые подключения</string>
     <string name="bill_arrears_character">Недостаточно средств на SIM %d. Пополните баланс, чтобы оставаться на связи.</string>
     <string name="bill_arrears_title">SIM-карта %d без подключения к сети</string>
-    <string name="bill_limit_notification_text_format">Карта: %1$s | Баланс: %2$s CNY</string>
+    <string name="bill_limit_notification_text_format">Карта: %1$s | Баланс: %2$s</string>
     <string name="bill_limit_notification_title">Недостаточно средств</string>
-    <string name="bill_remind">Предупреждение о балансе</string>
+    <string name="bill_remind">Предупреждать о балансе</string>
     <string name="bill_reminder_summary">Напоминать о пополнении, когда баланс ниже %1s</string>
     <string name="bill_traffic_reminder_instruction">Внимание</string>
     <string name="bill_traffic_reminder_instruction_text">Фактические детали тарифных планов, предоставляемых операторами мобильной связи, могут отличаться, при выставлении счетов могут возникать задержки. Представленная здесь информация предназначена только для справки.</string>
@@ -1134,9 +1134,9 @@
     <string name="clear_immediately">Очистить</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_to_charge_bill">Пополнить</string>
-    <string name="click_to_set_carrier">Настроить</string>
-    <string name="click_to_set_personalized_reminder">Настройка предупреждений</string>
-    <string name="click_to_set_traffic">Настроить</string>
+    <string name="click_to_set_carrier">Нажмите для настройки</string>
+    <string name="click_to_set_personalized_reminder">Настройка уведомлений</string>
+    <string name="click_to_set_traffic">Нажмите для настройки</string>
     <string name="close">Закрыть</string>
     <string name="close_callwait">Откл</string>
     <string name="cmcc_app_check_dialog_message">Для завершения восстановления перезагрузите устройство.</string>
@@ -4310,7 +4310,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="select_app_title_default">Запуск приложения</string>
     <string name="select_app_title_music">Воспроизведение музыки</string>
     <string name="select_province_and_city">Выберите провинцию и город</string>
-    <string name="select_traffic_type_and_reminder_type">Настроить</string>
+    <string name="select_traffic_type_and_reminder_type">Нажмите для настройки</string>
     <string name="send">Отправить</string>
     <string name="send_msg_to_query">Отправить бесплатное SMS для проверки</string>
     <string name="send_sms_title">Разрешить %s отправлять сообщения?</string>
@@ -5421,7 +5421,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="top_game">Лучшие игры</string>
     <string name="top_load_fail_detail">Ошибка загрузки, нажмите для повтора</string>
     <string name="top_no_network_detial">Ошибка загрузки, проверьте подключение и повторите попытку</string>
-    <string name="traffic_advanced_settings">Доп. настройки трафика</string>
+    <string name="traffic_advanced_settings">Настройки трафика</string>
     <string name="traffic_alarm">Настройка оповещения</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Месячный лимит изменен на %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Лимит обновлен</string>
@@ -5461,8 +5461,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="traffic_over_purchase_link">"Вы достигли лимита трафика.&lt;br/&gt;Если вы превысите лимит, ваш оператор связи может взимать дополнительную плату.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Нажмите для пополнения баланса.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">SIM-карта отсутствует</string>
     <string name="traffic_purchase_body">Нажмите для пополнения баланса.</string>
-    <string name="traffic_remind">Предупреждение о трафике</string>
-    <string name="traffic_remind_switch">Предупреждение о трафике</string>
+    <string name="traffic_remind">Предупреждать о трафике</string>
+    <string name="traffic_remind_switch">"Предупреждать о трафике "</string>
     <string name="traffic_reminder_settings">Настройка предупреждения о трафике</string>
     <string name="traffic_setting_fragment_area">Местоположение</string>
     <string name="traffic_setting_fragment_brand">Бренд</string>

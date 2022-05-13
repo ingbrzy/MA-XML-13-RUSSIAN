@@ -394,7 +394,7 @@
     <string name="car_loading_profile">Загрузка</string>
     <string name="car_mode_disable_notification_message">Нажмите, чтобы выйти из автомобильного режима.</string>
     <string name="car_mode_disable_notification_title">Режим \"В автомобиле\"</string>
-    <string name="carrier_app_notification_text">Нажмите, чтобы настроить.</string>
+    <string name="carrier_app_notification_text">Нажмите для настройки</string>
     <string name="carrier_app_notification_title">Установлена новая SIM-карта</string>
     <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
@@ -592,7 +592,7 @@
     <string name="ext_media_unmountable_notification_title">%s не работает</string>
     <string name="ext_media_unmounting_notification_message">Не извлекать</string>
     <string name="ext_media_unmounting_notification_title">Извлечение карты \"%s\"…</string>
-    <string name="ext_media_unsupported_notification_message">Устройство не поддерживает этот носитель (%s). Нажмите, чтобы настроить.</string>
+    <string name="ext_media_unsupported_notification_message">Устройство не поддерживает этот носитель (%s). Нажмите для настройки.</string>
     <string name="ext_media_unsupported_notification_title">%s не поддерживается</string>
     <string name="extract_edit_menu_button">Изменить</string>
     <string name="face_acquired_insufficient">Не удалось записать четкие данные лица. Повторите попытку.</string>
