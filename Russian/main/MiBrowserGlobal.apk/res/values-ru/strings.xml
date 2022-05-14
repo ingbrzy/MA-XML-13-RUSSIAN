@@ -1403,7 +1403,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">Кэшированная версия этой страницы не может быть загружена.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page">Страница не может быть открыта.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Страница не может быть открыта. Доступ заблокирован %s0.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">Страница не может быть открыта. %S0 прервал соединение.</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">Страница не может быть открыта. %s0 прервал соединение.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">Страница не может быть открыта. %s0 отказался подключиться.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">Страница не может быть открыта. Соединение было сброшено.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">Страница не может быть открыта, потому что URL недействителен.</string>
