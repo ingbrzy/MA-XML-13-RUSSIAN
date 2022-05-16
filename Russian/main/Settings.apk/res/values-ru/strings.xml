@@ -225,14 +225,14 @@
     <string name="accessibility_screen_magnification_title">Увеличение</string>
     <string name="accessibility_screen_option">Параметры</string>
     <string name="accessibility_screen_reader_haptic_title">Чтение экрана</string>
-    <string name="accessibility_service_action_perform_description">Отслеживание взаимодействия с приложением или аппаратным датчиком, взаимодействие с приложениями от вашего имени.</string>
+    <string name="accessibility_service_action_perform_description">Отслеживание взаимодействий с приложением или датчиками, выполнение действий с приложениями от вашего имени.</string>
     <string name="accessibility_service_action_perform_title">Отслеживание и выполнение действий</string>
     <string name="accessibility_service_default_description">Нет описания</string>
     <string name="accessibility_service_master_open_title">Открыть %1$s</string>
     <string name="accessibility_service_master_switch_title">Сервис %1$s</string>
     <string name="accessibility_service_primary_open_title">Открыть %1$s</string>
     <string name="accessibility_service_primary_switch_title">Использовать приложение %1$s</string>
-    <string name="accessibility_service_screen_control_description">Чтение содержимого на экране и отображение поверх других приложений.</string>
+    <string name="accessibility_service_screen_control_description">Чтение контента на экране и отображение контента поверх других приложений.</string>
     <string name="accessibility_service_screen_control_title">Просмотр и управление экраном</string>
     <string name="accessibility_service_warning">%1$s запрашивает полный контроль над этим устройством. Сервис может читать содержимое экрана и взаимодействовать от имени пользователя.</string>
     <string name="accessibility_service_warning_description">Полный контроль над устройством для реализации специальных возможностей. </string>
@@ -2863,6 +2863,8 @@
     <string name="device_edit_title">Имя устройства</string>
     <string name="device_feedback">Отправить отзыв об устройстве</string>
     <string name="device_id">ID устройства для персонализированных рекомендаций</string>
+    <string name="device_ime_keyboard_fold">Параметры клавиатуры для складных устройств</string>
+    <string name="device_ime_keyboard_pad">Параметры клавиатуры для планшетов</string>
     <string name="device_info_default">Неизвестно</string>
     <string name="device_info_label">Сведения об устройстве</string>
     <string name="device_info_not_available">Недоступно</string>
@@ -3130,6 +3132,8 @@
     <string name="double_click_volume_down_when_lock">Двойное нажатие \"Уменьшение громкости\"</string>
     <string name="double_connect">Двойное подключение</string>
     <string name="double_connect_summary">Подключение к двум устройствам</string>
+    <string name="double_g_v">Дублирование кнопок G и V</string>
+    <string name="double_g_v_sumary">Дублирование центральных кнопок на эргономичной клавиатуре для большего удобства</string>
     <string name="double_knock">Двойное касание костяшкой</string>
     <string name="double_tap_power_for_camera_suggestion_title">Быстрый доступ к камере</string>
     <string name="double_tap_power_for_camera_summary">Включение камеры двойным нажатием кнопки питания в любом приложении</string>
@@ -3289,7 +3293,7 @@
     <string name="enable_service_password_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести пароль.</string>
     <string name="enable_service_pattern_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести графический ключ.</string>
     <string name="enable_service_pin_reason">Включение сервиса %1$s затронет шифрование данных, поэтому необходимо ввести PIN-код.</string>
-    <string name="enable_service_title">Сервису будут доступны следующие действия:</string>
+    <string name="enable_service_title">Сервису будет доступно</string>
     <string name="enable_sizecompat_freeform">Принудительный запуск в окнах с изменяемым размером</string>
     <string name="enable_sizecompat_freeform_summary">Разрешить приложениям с ограничениями совместимости запускаться в окнах с изменяемым размером</string>
     <string name="enable_snapshot_screenlock">Удерживайте кнопку \"Назад\", чтобы сделать фото</string>
@@ -3739,9 +3743,11 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="fold_game_adaptation">Игры</string>
     <string name="fold_rule_default">По умолчанию</string>
     <string name="fold_rule_important">Важные</string>
     <string name="fold_rule_unimportant">Неважные</string>
+    <string name="fold_screen_settings_title">Функции для большого экрана</string>
     <string name="fold_title">Правила групповых уведомлений</string>
     <string name="following_us_title">Подпишитесь на нас</string>
     <string name="font_cta_alert_btn_negative">Отмена</string>
@@ -4359,6 +4365,8 @@
     <string name="imei_information_title">Данные IMEI-кода</string>
     <string name="imei_multi_sim">IMEI (слот %1$d)</string>
     <string name="imei_multi_sim_softbank">IMEI %1$d</string>
+    <string name="imitate_real_keyboard">Классическая клавиатура</string>
+    <string name="imitate_real_keyboard_summary">Удобство использования, когда устройство на плоской поверхности</string>
     <string name="immediately_destroy_activities">Не хранить активити</string>
     <string name="immediately_destroy_activities_summary">Уничтожать активити приложения после их завершения</string>
     <string name="importance_default">По умолчанию</string>
@@ -4819,6 +4827,8 @@
     <string name="led_settings">Световой индикатор</string>
     <string name="left_edge">Левый край</string>
     <string name="left_function_key">Левый ярлык</string>
+    <string name="left_right_hand_switch">Левая/правая</string>
+    <string name="left_right_hand_switch_summary">Перестановка левой и правой части клавиатуры одним касанием</string>
     <string name="left_shoulder_key">Левый</string>
     <string name="legacy_control_center_desc">Свайп вниз - стандартная шторка с переключателями и уведомлениями</string>
     <string name="legacy_control_center_title">Старый стиль</string>
@@ -5711,6 +5721,7 @@
     <string name="misc_files">Разное</string>
     <string name="misc_files_selected_count">Выбрано: %1$d из %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
+    <string name="mishow_disable_password_setting">Невозможно установить пароли в деморежиме</string>
     <string name="miui_accessibility_asr_summary">Распознавание речи и сохранение текста</string>
     <string name="miui_accessibility_asr_title">Mi Ditto</string>
     <string name="miui_allow_alarm">Будильник</string>
@@ -5730,7 +5741,8 @@
     <string name="miui_lab_ai_preload_title">Предзагрузка</string>
     <string name="miui_lab_aiasst_call_screen_desc">Преобразование голоса и текста для ответов на вызовы без вашего участия</string>
     <string name="miui_lab_aiasst_call_screen_title">Помощник вызовов</string>
-    <string name="miui_lab_drive_mode_desc">Используйте управление голосом и слушайте сообщения WeChat</string>
+    <string name="miui_lab_drive_mode_desc">Используйте голосовое управление и слушайте сообщения WeChat</string>
+    <string name="miui_lab_drive_mode_desc_new">Голосовое управление</string>
     <string name="miui_lab_drive_mode_title">Режим \"За рулем\"</string>
     <string name="miui_lab_feature_applied">Применено</string>
     <string name="miui_lab_feature_off">Откл.</string>
@@ -8073,7 +8085,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_encryption_is_used">Вкл.</string>
     <string name="security_encryption_progress_dialog_close">Расшифровка…</string>
     <string name="security_encryption_progress_dialog_open">Шифрование…</string>
-    <string name="security_encryption_rejected_via_home_manager">Эта функция не работает в демонстрационной версии.</string>
+    <string name="security_encryption_rejected_via_home_manager">Эта функция не работает в демоверсии</string>
     <string name="security_encryption_title">Шифрование устройства</string>
     <string name="security_input">Безопасный ввод</string>
     <string name="security_input_enable">Защищенная клавиатура</string>
@@ -8333,6 +8345,9 @@ UT-интерфейс: %5$s"</string>
     <string name="send">Отправить</string>
     <string name="sensor_toggle_description">Для всех приложений и сервисов</string>
     <string name="sensors_off_quick_settings_title">Датчики отключены</string>
+    <string name="separate_keyboard">Эргономичная клавиатура</string>
+    <string name="separate_keyboard_summary_fold">Разделение клавиатуры перегородкой в центре для более удобного набора текста двумя руками</string>
+    <string name="separate_keyboard_summary_pad">Разделение клавиатуры перегородкой в центре для более быстрого и удобного набора текста</string>
     <string name="service_background_processes">%1$s свободно</string>
     <string name="service_foreground_processes">%1$s занято</string>
     <string name="service_manage">Настройки</string>
@@ -9341,6 +9356,8 @@ UT-интерфейс: %5$s"</string>
     <string name="switch_sim_dialog_title">Использовать %1$s?</string>
     <string name="switch_to_removable_notification">Вы переключились на сеть %1$s</string>
     <string name="switch_to_removable_notification_no_carrier_name">Вы переключились на сеть другого оператора</string>
+    <string name="symbol_fast_input">Спецсимволы</string>
+    <string name="symbol_fast_input_summary">Вызов клавиатуры со специальными символами с помощью назначенной клавиши</string>
     <string name="symbols_not_allowed_for_password">Пароль не может содержать символы</string>
     <string name="sync_active">Синхронизация активна</string>
     <string name="sync_automatically">Синхронизировать</string>
@@ -9392,6 +9409,7 @@ UT-интерфейс: %5$s"</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Обновления системы</string>
     <string name="tab_text">Вкладка</string>
+    <string name="tablet_screen_settings_title">Функции для планшетов</string>
     <string name="take_call_on_title">Ответить с помощью</string>
     <string name="talkback_summary">Инструмент для озвучивания данных с экрана для людей с нарушениями зрения</string>
     <string name="talkback_title">Talkback</string>
@@ -10360,6 +10378,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wallpaper_desktop">Рабочий стол</string>
     <string name="wallpaper_live">Живые обои</string>
     <string name="wallpaper_lockscreen">Экран блокировки</string>
+    <string name="wallpaper_setting_title">Обои</string>
     <string name="wallpaper_settings_fragment_title">Установка обоев</string>
     <string name="wallpaper_settings_summary_custom">Пользовательские</string>
     <string name="wallpaper_settings_summary_default">По умолчанию</string>

@@ -162,9 +162,9 @@
     <string name="accessibility_gesture_prompt_text">Выберите сервис, который будет запускаться жестом для доступа к специальным возможностям (провести по экрану снизу вверх двумя пальцами):</string>
     <string name="accessibility_magnification_chooser_text">Увеличение</string>
     <string name="accessibility_select_shortcut_menu_title">Нажмите на функцию, чтобы начать использовать:</string>
-    <string name="accessibility_service_action_perform_description">Отслеживание взаимодействия с приложением или аппаратным датчиком, взаимодействие с приложениями от вашего имени.</string>
+    <string name="accessibility_service_action_perform_description">Отслеживание взаимодействий с приложением или датчиками, выполнение действий с приложениями от вашего имени.</string>
     <string name="accessibility_service_action_perform_title">Отслеживание и выполнение действий</string>
-    <string name="accessibility_service_screen_control_description">Чтение содержимого на экране и отображение поверх других приложений.</string>
+    <string name="accessibility_service_screen_control_description">Чтение контента на экране и отображение контента поверх других приложений.</string>
     <string name="accessibility_service_screen_control_title">Просмотр и управление экраном</string>
     <string name="accessibility_service_warning_description">Полный контроль над устройством для реализации специальных возможностей.</string>
     <string name="accessibility_shortcut_disabling_service">Сервис %1$s отключен</string>

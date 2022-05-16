@@ -249,6 +249,7 @@
     <string name="connect_now">Подключиться</string>
     <string name="connecting_apk">Подключение…</string>
     <string name="contact_service">Email: %1$s</string>
+    <string name="content_failed_to_load">Не удалось загрузить содержимое</string>
     <string name="copy">Копировать</string>
     <string name="count_format_float">%2$1.1fK</string>
     <string name="count_million_format_float">%2$1.1fM</string>
@@ -652,7 +653,7 @@ ID: %s
     <string name="installing_apk">Установка…</string>
     <string name="insufficient_space">Недостаточно места в хранилище</string>
     <string name="invalid_number">Недействительный номер</string>
-    <string name="is_latest_version">Обновление не требуется</string>
+    <string name="is_latest_version">Нет обновлений</string>
     <string name="is_scanning">Проверка накопителя…</string>
     <string name="is_scanning_support_online">"Проверка накопителя…
 (Пока можно слушать музыку онлайн)"</string>

@@ -361,8 +361,8 @@ ID: %s
     <string name="morning">Утро</string>
     <string name="msg_alert_cancel_restore">Идет восстановление из Xiaomi Cloud. Отменить?</string>
     <string name="msg_alert_restore_error">Восстановление из Xiaomi Cloud не удалось. Повторите попытку.</string>
-    <string name="msg_restore_start_with_metered_network">Рабочий стол будет перезапущен. Приложения из резервной копии будут добавлены автоматически. Будет загружено файлов: %s</string>
-    <string name="msg_restore_with_metered_network_hint">Для загрузки выбранных элементов будет использоваться мобильный интернет.</string>
+    <string name="msg_restore_start_with_metered_network">"При восстановлении из этой резервной копии рабочий стол будет сброшен, приложения будут автоматически загружены и установлены.&lt;br />&lt;b>&lt;font color='red'>Размер резервной копии: %s&lt;/font>&lt;/b>"</string>
+    <string name="msg_restore_with_metered_network_hint">Для загрузки будет использоваться мобильный интернет</string>
     <string name="msg_restore_with_metered_network_pattern">Будет загружено файлов: %s</string>
     <string name="network_error">Подключитесь к сети</string>
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>

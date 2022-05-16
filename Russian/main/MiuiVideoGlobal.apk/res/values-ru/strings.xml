@@ -1718,7 +1718,7 @@ ID: %s
     <string name="t_lv_check_hide_file">Выберите видео для скрытия</string>
     <string name="t_lv_check_unhide_file">Выберите видео для показа</string>
     <string name="t_lv_downloading_new_version">Загрузка обновлений…</string>
-    <string name="t_lv_no_new_version">Обновление не требуется.</string>
+    <string name="t_lv_no_new_version">Нет обновлений</string>
     <string name="t_lv_password_limit">Пароль должен содержать не менее 4 символов</string>
     <string name="t_lv_password_limit_new">Пароль должен содержать не менее %d символов</string>
     <string name="t_lv_password_null">Пароль не может быть пустым</string>

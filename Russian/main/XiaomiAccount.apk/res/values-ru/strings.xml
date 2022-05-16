@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_device_info">Об устройстве</string>
+    <string name="about_mi_account">О Mi Аккаунте</string>
     <string name="accept">Разрешить</string>
     <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
     <string name="access_token_expired_warning">Срок действия аккаунта Weibo истек</string>
@@ -133,6 +134,7 @@ ID вашего аккаунта: %s"</string>
     <string name="change_phone_number">Изменить номер телефона</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="check_apk_update">Проверка обновлений</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="cloud_description_closed">Занято | Синхронизация отключена</string>
@@ -268,6 +270,7 @@ ID:%s
     <string name="find_device_title">Поиск устройства</string>
     <string name="find_device_unknown_error">Не удалось получить статус устройства. Подождите немного и повторите попытку.</string>
     <string name="find_equipment">Поиск устройства</string>
+    <string name="find_new_apk_version">Доступно обновление</string>
     <string name="first_login_time">Первая попытка входа: %s</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
@@ -299,6 +302,7 @@ ID:%s
     <string name="google_login">Войти через аккаунт Google</string>
     <string name="goto_accept">ОК</string>
     <string name="guest_account_label">Гостевой Mi аккаунт</string>
+    <string name="has_no_new_version">Обновление не требуется</string>
     <string name="health_action_activate">Активировать</string>
     <string name="health_action_install">Установить</string>
     <string name="health_action_update">Обновить</string>
@@ -426,6 +430,7 @@ ID:%s
     <string name="need_install_wechat">Установите WeChat</string>
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
+    <string name="new_version">Новая версия</string>
     <string name="night">Вечер</string>
     <string name="no_account_or_forget_password">Создать учетную запись или забыли пароль?</string>
     <string name="no_install">Не установлено</string>
@@ -905,6 +910,8 @@ ID:%s
 1. Если вы забыли свой пароль, перейдите на id.mi.com для его сброса.
 2. Если вы не можете сбросить пароль, перейдите на i.mi.com для разблокировки устройства.
 3. Ваш код разблокировки: %s"</string>
+    <string name="update_apk_version_later">Не сейчас</string>
+    <string name="update_apk_version_now">Обновить</string>
     <string name="update_contacts">Обновить контакты</string>
     <string name="update_email_address_dialog_message">Перед обновлением адреса почты необходимо подтвердить вашу личность.</string>
     <string name="update_email_address_dialog_title">Обновление адреса</string>
