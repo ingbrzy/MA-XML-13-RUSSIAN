@@ -1058,9 +1058,9 @@
     <string name="face_data_introduction_title">Добавление данных лица</string>
     <string name="face_data_manage_delete">Удалить данные лица?</string>
     <string name="face_data_manage_delete_msg">Удаление данных лица</string>
-    <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать разблокировку устройства по лицу.</string>
+    <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать разблокировку устройства по лицу</string>
     <string name="face_data_manage_delete_title">Данные лица</string>
-    <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите вверх для разблокировки устройства по лицу</string>
     <string name="face_data_manage_unlock_msg">Разблокировка устройства с использованием данных лица</string>
     <string name="face_data_manage_unlock_slide_msg">Заменить действия слайдера разблокировкой по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>

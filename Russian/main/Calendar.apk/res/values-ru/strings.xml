@@ -39,7 +39,7 @@
     <string name="accessibility_repeats">Повтор</string>
     <string name="accessibility_sync_cal">Синхронизировать календарь</string>
     <string name="accessibility_year_item_selected">Выбранный месяц: %d. Нажмите для просмотра.</string>
-    <string name="accessibility_year_page_selected">Просмотр года для %d. Проведите пальцем влево или вправо для переключения между годами, затем нажмите, чтобы выбрать месяц.</string>
+    <string name="accessibility_year_page_selected">Просмотр года для %d. Проведите влево или вправо для переключения между годами, затем нажмите, чтобы выбрать месяц.</string>
     <string name="account_and_calendar">Аккаунты</string>
     <string name="account_import_calendar">Импорт календаря</string>
     <string name="account_manager_delete">Удалить аккаунт</string>

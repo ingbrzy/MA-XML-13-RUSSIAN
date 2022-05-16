@@ -665,7 +665,7 @@
     <string name="device_status_sending">Отправка…</string>
     <string name="device_status_success">Успешно отправлено</string>
     <string name="device_status_waiting">Ожидание…</string>
-    <string name="device_storage_space_low_dialog_des">Сохраните оригинальные фото и видео в облаке, оставив на устройстве высококачественные копии меньшего размера, чтобы освободить %s места.</string>
+    <string name="device_storage_space_low_dialog_des">Сохраните оригинальные фото и видео в облаке, оставив на устройстве копии высокого качества меньшего размера, чтобы освободить %s места.</string>
     <string name="device_storage_space_low_dialog_title">Недостаточно места</string>
     <string name="device_storage_space_low_notice_des">Выполните синхронизацию фото и видео с облаком, чтобы освободить %s места.</string>
     <string name="device_storage_space_low_notice_title">Заканчивается место</string>

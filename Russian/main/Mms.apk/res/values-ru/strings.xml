@@ -324,9 +324,9 @@
     <string name="favorite_at_time">Добавлено в избранные: %1s</string>
     <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из списка разрешенных.</string>
     <string name="feature_mx">Mi Сообщения</string>
-    <string name="feature_mx_summary">&lt;b&gt;Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет.&lt;/b&gt;. Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение. Перед использованием этого сервиса прочтите и примите &lt;font color="#B3000000"&gt;Пользовательское соглашение&lt;/font&gt; и &lt;font color="#B3000000"&gt;Политику конфиденциальности&lt;/font&gt;.</string>
+    <string name="feature_mx_summary"><b>Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет</b>. Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение. Перед использованием этого сервиса прочтите и примите <a href="http://url1"><font color="#B3000000">Пользовательское соглашение</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности</font></a>.</string>	  
     <string name="feature_smart_sms">Умные сообщения</string>
-    <string name="feature_smart_sms_summary">"&lt;b&gt;Умные сообщения обеспечивают распознавание ID отправителя и услуги интеллектуального меню&lt;/b&gt;". Умные сообщения частично предоставлены Yulore. Перед использованием этого сервиса прочтите и примите "&lt;font color="#B3000000"&gt;Политику конфиденциальности&lt;/font&gt; Yulore."</string>
+    <string name="feature_smart_sms_summary"><b>Умные сообщения распознают ID отправителя и предоставляют интеллектуальное меню</b>. Сервис частично предоставлен Yulore. Перед использованием этого сервиса прочтите и примите <a href="http://url3"><font color="#B3000000">Политику конфиденциальности</font></a> Yulore.</string>
     <string name="festival_sms_loading">Загрузка…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Время создания:</string>
@@ -369,7 +369,7 @@
     <string name="ft_cfs_dialog_title">Альтернативная передача файлов</string>
     <string name="go_close">Настройки</string>
     <string name="go_to">"Открыть "</string>
-    <string name="google_message_promo_content">Xiaomi рекомендует перейти на приложение Сообщения от Google. Приложение позволит отправлять текстовые сообщения по Wi-Fi, обмениваться высококачественными медиафайлами и многое другое. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Подробности&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="google_message_promo_content">Xiaomi рекомендует перейти на Сообщения от Google. Установите приложение, чтобы  отправлять текстовые сообщения по Wi-Fi, обмениваться медиафайлами  высокого качестваи многое другое. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Подробности</font></a></string>	
     <string name="google_message_promo_title">Обновление приложения</string>
     <string name="group_already_kicked_hint">Отправка невозможна. Вы не являетесь участником этого чата.</string>
     <string name="group_member_is_composing">Печатает…</string>
@@ -408,7 +408,7 @@
     <string name="imageview_ad">Реклама</string>
     <string name="importing_progress_private_message">Импорт…</string>
     <string name="in_sms">Сообщение</string>
-    <string name="installed_google_message_promo_content">Xiaomi рекомендует перейти на приложение Сообщения от Google. Приложение позволит отправлять текстовые сообщения по Wi-Fi, обмениваться высококачественными медиафайлами и многое другое.</string>
+    <string name="installed_google_message_promo_content">Xiaomi рекомендует перейти на Сообщения от Google. Приложение позволяет отправлять текстовые сообщения по Wi-Fi, обмениваться медиафайлами высокого качества и многое другое.</string>
     <string name="installed_google_message_promo_title">Приложение Сообщения</string>
     <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
     <string name="invalid_conversation">Неверный диалог</string>

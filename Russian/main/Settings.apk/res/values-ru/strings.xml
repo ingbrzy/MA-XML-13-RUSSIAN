@@ -1325,7 +1325,7 @@
     <string name="block_list_no_device">В черном списке нет устройств</string>
     <string name="block_list_remove_dialog_content">Устройство \"%s\" сможет подключаться к этой точке доступа</string>
     <string name="block_list_remove_dialog_title">Внимание</string>
-    <string name="block_list_summary">Просмотр устройств, которым запрещено подключаться к этой точке доступа</string>
+    <string name="block_list_summary">Устройства, которым запрещено подключение к этой точке доступа</string>
     <string name="block_list_title">Черный список</string>
     <string name="block_title">Показывать уведомления</string>
     <string name="bluetooth">Bluetooth</string>
@@ -1705,12 +1705,12 @@
     <string name="bluetooth_talkback_input_peripheral">Периферийное устройство ввода</string>
     <string name="bluetooth_talkback_phone">Телефон</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth-модем</string>
-    <string name="bluetooth_tethering_available_subtext">Доступ к интернет-подключению через Bluetooth включен</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Интернет-подключение используется одним устройством через Bluetooth</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение используется %1$d устройствами через Bluetooth</string>
-    <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
-    <string name="bluetooth_tethering_off_subtext">Доступ к интернет-подключению через Bluetooth отключен</string>
-    <string name="bluetooth_tethering_off_subtext_config">Доступ к интернет-подключению устройства \"%1$d\" через Bluetooth включен</string>
+    <string name="bluetooth_tethering_available_subtext">Раздача интернета с устройства через Bluetooth</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Интернет-подключение через Bluetooth используется 1 устройством</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение через Bluetooth используется %1$d устройствами</string>
+    <string name="bluetooth_tethering_errored_subtext">Подключение отсутствует</string>
+    <string name="bluetooth_tethering_off_subtext">Раздача интернета с устройства через Bluetooth отключена</string>
+    <string name="bluetooth_tethering_off_subtext_config">Доступ к интернет-подключению устройства \"%1$d\" через Bluetooth</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
     <string name="bluetooth_tethering_subtext">Поделитесь интернет-соединением через Bluetooth</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
@@ -1854,8 +1854,8 @@
     <string name="bt_leaudio_open_dialog_title">Внимание</string>
     <string name="bt_leaudio_pre_title">LC3</string>
     <string name="bt_leaudio_summary">Высокое качество звука</string>
-    <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить высококачественный звук и снижает задержки во время игр, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
-    <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить высококачественный звук и снижает задержки во время игр, но также увеличивает энергопотребление.
+    <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но также увеличивает энергопотребление.
 Эту функцию можно отключить в Настройках"</string>
     <string name="bt_lhdc_dialog_title">Включена поддержка LHDC</string>
     <string name="bt_lhdc_open_dialog_summary">LHDC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
@@ -2385,7 +2385,7 @@
     <string name="contributors_title">Авторы</string>
     <string name="control_center">Центр управления</string>
     <string name="control_center_style">Стиль центра управления</string>
-    <string name="control_center_style_summary">Выбор стиля переключателей и уведомлений</string>
+    <string name="control_center_style_summary">Выбор отображения переключателей и уведомлений</string>
     <string name="control_panel_switch_side">Поменять сторону центра управления</string>
     <string name="controls_label">Элементы управления</string>
     <string name="controls_subtitle">Режим энергопотребления</string>
@@ -2414,7 +2414,7 @@
     <string name="copyable_slice_toast">\"%1$s\" в буфере обмена.</string>
     <string name="copyright">Авторские права</string>
     <string name="copyright_title">Авторские права</string>
-    <string name="corner_assistant_gesture_summary">Проведите пальцем вверх от нижнего левого или правого угла, чтобы запустить Google Ассистент.</string>
+    <string name="corner_assistant_gesture_summary">Проведите вверх от нижнего левого или правого угла, чтобы запустить Google Ассистент.</string>
     <string name="corner_assistant_gesture_title">Google Ассистент</string>
     <string name="country_name">%s (система)</string>
     <string name="create">Создать</string>
@@ -3446,8 +3446,8 @@
     <string name="estimated_time_left">Расчетное время работы без подзарядки</string>
     <string name="ethernet">Ethernet</string>
     <string name="ethernet_data_template">^1 (Ethernet)</string>
-    <string name="ethernet_data_usage">Ethernet трафик</string>
-    <string name="ethernet_tether_checkbox_text">Ethernet модем</string>
+    <string name="ethernet_data_usage">Ethernet-трафик</string>
+    <string name="ethernet_tether_checkbox_text">Ethernet-модем</string>
     <string name="ethernet_tethering_subtext">Раздача интернета с устройства через Ethernet</string>
     <string name="evening">После полудня</string>
     <string name="every_day">Ежедневно</string>
@@ -3500,7 +3500,7 @@
     <string name="face_data_manage_delete">Удалить данные лица?</string>
     <string name="face_data_manage_delete_msg">Удалить данные лица</string>
     <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете разблокировать устройство по лицу.</string>
-    <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите вверх для разблокировки устройства по лицу.</string>
     <string name="face_data_manage_unlock_msg">Использовать разблокировку по лицу</string>
     <string name="face_data_manage_unlock_slide_msg">Заменить действия слайдера разблокировкой по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
@@ -4821,7 +4821,7 @@
     <string name="left_function_key">Левый ярлык</string>
     <string name="left_shoulder_key">Левый</string>
     <string name="legacy_control_center_desc">Свайп вниз - стандартная шторка с переключателями и уведомлениями</string>
-    <string name="legacy_control_center_title">Старая версия</string>
+    <string name="legacy_control_center_title">Старый стиль</string>
     <string name="legacy_navigation_summary">Кнопки навигации внизу экрана (Назад, Домой, Недавние приложения)</string>
     <string name="legacy_navigation_title">Кнопки навигации</string>
     <string name="legal_information">Юридическая информация</string>
@@ -5917,8 +5917,8 @@
     <string name="model_number">Модель устройства</string>
     <string name="model_number_pad">Модель устройства</string>
     <string name="model_summary">Модель: %1$s</string>
-    <string name="modern_control_center_desc">Свайп вниз слева - просмотр уведомлений. Свайп вниз справа - центр управления.</string>
-    <string name="modern_control_center_title">Новая версия</string>
+    <string name="modern_control_center_desc">Свайп вниз слева - уведомления. Свайп вниз справа - центр управления.</string>
+    <string name="modern_control_center_title">Новый стиль</string>
     <string name="modify_default_browser_message">Сторонний браузер, установленный по умолчанию, может собирать историю просмотров и другие данные. Установить в любом случае?</string>
     <string name="modify_instruction_password_settings">Настройки защиты</string>
     <string name="modify_privacy_password">Изменение пароля</string>
@@ -8287,7 +8287,7 @@ UT-интерфейс: %5$s"</string>
 "<annotation id="url">Подробнее…</annotation></string>
     <string name="security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="security_settings_title">Безопасность</string>
-    <string name="security_settings_udfps_enroll_a11y">Чтобы найти сканер, проведите пальцем по экрану. Нажмите пальцем на сканер и удерживайте.</string>
+    <string name="security_settings_udfps_enroll_a11y">Чтобы найти сканер, проведите пальцем по экрану. Нажмите на сканер и удерживайте.</string>
     <string name="security_settings_udfps_enroll_find_sensor_message">Сканер отпечатков находится на экране. Сканирование отпечатка начнется на следующем шаге.</string>
     <string name="security_settings_udfps_enroll_find_sensor_start_button">Начать</string>
     <string name="security_settings_udfps_enroll_find_sensor_title">Как добавить отпечаток</string>
@@ -8500,7 +8500,7 @@ UT-интерфейс: %5$s"</string>
     <string name="shut_down_find_device_network_failure_content">Не удалось отключить Поиск устройства. Убедитесь, что устройство подключено к интернету.</string>
     <string name="shut_down_find_device_network_failure_title">Не удалось подключиться к сети</string>
     <string name="shuting_down_find_device">Отключение Поиска устройства…</string>
-    <string name="sidebar_setting">Настройки боковой панели</string>
+    <string name="sidebar_setting">Боковая панель</string>
     <string name="silent_duration">Длительность</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
     <string name="silent_mode_disable_media">Отключить все</string>
@@ -9414,9 +9414,9 @@ UT-интерфейс: %5$s"</string>
     <string name="tether_auto_disable_title">Автоотключение точки доступа</string>
     <string name="tether_custom_dialog_title">Лимит трафика</string>
     <string name="tether_data_usage_limit">Однократный лимит трафика</string>
-    <string name="tether_data_usage_limit_summary">Лимит будет применяться при каждом включении точки доступа</string>
+    <string name="tether_data_usage_limit_summary">Лимит трафика будет применен при следующем включении точки доступа</string>
     <string name="tether_devices_management_title">Управление устройствами</string>
-    <string name="tether_devices_max_number">Лимит подключенных устройств</string>
+    <string name="tether_devices_max_number">Лимит устройств</string>
     <string name="tether_limit_dialog_title">Лимит трафика</string>
     <string name="tether_limit_value_custom">Особый</string>
     <string name="tether_over_limit_dialog_cancle_btn">Сбросить точку</string>
@@ -11006,14 +11006,14 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_switch_to_gsm_title">Использовать GSM?</string>
     <string name="wifi_tap_to_sign_in">Нажмите для входа в сеть.</string>
     <string name="wifi_tether_checkbox_kddi_text">Точка доступа Wi-Fi</string>
-    <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
-    <string name="wifi_tether_configure_ap_kddi_text">Настройка точки доступа</string>
+    <string name="wifi_tether_checkbox_text">Точка доступа</string>
+    <string name="wifi_tether_configure_ap_kddi_text">Настройка точки доступа Wi-Fi</string>
     <string name="wifi_tether_configure_ap_text">Настройка точки доступа</string>
-    <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
+    <string name="wifi_tether_configure_ssid_default">Точка доступа Android</string>
     <string name="wifi_tether_configure_subtext">Точка доступа %1$s | %2$s</string>
     <string name="wifi_tether_enabled_nosecurity_summary">%1$s без шифрования</string>
-    <string name="wifi_tether_enabled_subtext">Сеть %1$s активна</string>
-    <string name="wifi_tether_enabled_summary">Точка доступа %1$s активна</string>
+    <string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
+    <string name="wifi_tether_enabled_summary">Точка доступа %1$s</string>
     <string name="wifi_tether_failed_subtext">Ошибка подключения</string>
     <string name="wifi_tether_setting_title">Основные настройки</string>
     <string name="wifi_tether_settings_title">Точка доступа Wi-Fi</string>

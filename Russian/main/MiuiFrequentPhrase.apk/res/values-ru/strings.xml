@@ -74,7 +74,7 @@
     <string name="input_method_clipboard_copy_success">Успешно скопировано</string>
     <string name="input_method_clipboard_delete_success">Успешно очищено</string>
     <string name="input_method_clipboard_move_cursor_guide1">Нажмите и удерживайте синюю область для перемещения курсора</string>
-    <string name="input_method_clipboard_move_cursor_guide2">Проведите пальцем по горизонтали</string>
+    <string name="input_method_clipboard_move_cursor_guide2">Проведите горизонтально по экрану</string>
     <string name="input_method_clipboard_participle">Разделить слова</string>
     <string name="input_method_clipboard_settings_button">Настройки</string>
     <string name="input_method_clipboard_tips">Скопированные элементы будут удалены из буфера обмена через 48 часов</string>

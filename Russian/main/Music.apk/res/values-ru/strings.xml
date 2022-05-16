@@ -828,7 +828,7 @@ ID: %s
     <string name="modify_lyric">Изменить текст песни</string>
     <string name="modify_pic">Изменить обложку</string>
     <string name="modify_progress">Меняйте скорость прокрутки</string>
-    <string name="modify_progress_helper">Проведите пальцем вверх или вниз для регулировки.</string>
+    <string name="modify_progress_helper">Проведите по экрану вверх или вниз для регулировки</string>
     <string name="modify_song_info">Редактирование трека</string>
     <string name="modify_song_info_success">Информация о треке обновлена</string>
     <string name="moe_inbox_name">Центр уведомлений</string>
