@@ -322,6 +322,7 @@ ID: %s
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
     <string name="dialog_edit_hint_name">Имя</string>
     <string name="dialog_edit_hint_url">URL</string>
+    <string name="dialog_item_add_video">Добавление видео</string>
     <string name="dialog_jumpto_choose">Больше не показывать</string>
     <string name="dialog_jumpto_content">Переключиться на Mi Видео для дополнительных функций воспроизведения?</string>
     <string name="dialog_jumpto_title">Mi Видео</string>
@@ -459,7 +460,9 @@ ID: %s
     <string name="favorite_cancel_success">Удалено из избранного</string>
     <string name="favorite_fail">Не удалось добавить в избранное. Повторите попытку.</string>
     <string name="favorite_success">Добавлено в избранное</string>
+    <string name="fcm_2_args">Первый: %1$s и второй: %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Прочие</string>
+    <string name="fcm_no_args">Строка без аргументов</string>
     <string name="fcm_push_title">Популярные</string>
     <string name="feedback">Обратная связь</string>
     <string name="feedback_activity_title">Обратная связь</string>
@@ -738,6 +741,11 @@ ID: %s
     <string name="local_push_setting_power_tag">Уведомления о локальных видео</string>
     <string name="local_push_title">Популярное сегодня</string>
     <string name="local_push_video_title">Поиск новых локальных видео</string>
+    <string name="local_subtitle_choose_language_text">Язык</string>
+    <string name="local_subtitle_exemption_hint">Поиск субтитров на opensubtitle.org</string>
+    <string name="local_subtitle_input_keyword_text">Ключевые слова</string>
+    <string name="local_subtitle_search_result_text">Результаты</string>
+    <string name="local_subtitle_searching_text">Поиск…</string>
     <string name="local_video_create_a_new_playlist">Создать плейлист</string>
     <string name="local_video_date">Дата</string>
     <string name="local_video_dialog_default">По умолчанию</string>
@@ -1615,6 +1623,7 @@ ID: %s
     <string name="slide_save_message">Создание видео…</string>
     <string name="small_video_cancel_button">Отмена</string>
     <string name="small_video_download_button">Загрузить</string>
+    <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
     <string name="small_video_snack_download_description">Загрузите SnackVideo, чтобы смотреть последние видео от избранных авторов</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Отправлено</string>
@@ -1730,10 +1739,13 @@ ID: %s
     <string name="tab_name_movies">Фильмы</string>
     <string name="tab_name_trending">Рекомендуемые</string>
     <string name="tab_name_video">Видео</string>
+    <string name="tab_name_vk">Видео VK</string>
     <string name="tab_playlist_local">Локальные</string>
     <string name="tab_playlist_online">Онлайн</string>
     <string name="talkback_ad_clicked">Реклама</string>
     <string name="talkback_background_playback">Фоновое воспроизведение</string>
+    <string name="talkback_music_play">Воспроизвести музыку</string>
+    <string name="talkback_video_play">Воспроизвести видео</string>
     <string name="talkback_voice_search">Голосовой поиск</string>
     <string name="target_sdk_version_30_upgrade_tips">Некоторые видео могут быть недоступны для просмотра из-за ограничений Android 11. Нажмите \"Файлы\", чтобы найти другие видео</string>
     <string name="temporary_not_available">Эта функция пока недоступна</string>
@@ -1793,6 +1805,7 @@ ID: %s
     <string name="tip_download_video_to_save_here">%d. Видео будет сохранено в ваших загрузках</string>
     <string name="tip_enter_the_website">%d. Откройте веб-сайт или приложение</string>
     <string name="tip_local_long_press_for_manager">Нажмите и удерживайте для управления видео</string>
+    <string name="tip_local_long_press_for_manager_folder">Нажмите и удерживайте для управления папками</string>
     <string name="tip_local_manager_here">Управляйте своими файлами здесь</string>
     <string name="tip_login_for_your_online_playlist">Войдите, чтобы просмотреть свои плейлисты</string>
     <string name="tip_play_a_video">%d. Воспроизведите видео</string>
@@ -1805,6 +1818,8 @@ ID: %s
     <string name="title_download_setting">Настройки загрузки</string>
     <string name="title_firework_recommend">Рекомендации Firework</string>
     <string name="title_history">История</string>
+    <string name="title_mangotv_history_sub" formatted="false">%s (эпизод %d)</string>
+    <string name="title_mangotv_subtitle_language">Язык субтитров</string>
     <string name="title_publisher">Создатели</string>
     <string name="title_select_directory">Выбор папки</string>
     <string name="title_selected">Выбрано</string>
@@ -1914,6 +1929,7 @@ ID: %s
     <string name="video_resolution_tag_suffix">%dP</string>
     <string name="videos_guide_tip">Откройте для себя тренды Индонезии</string>
     <string name="view">Просмотр</string>
+    <string name="vk_video_tab">Для вас</string>
     <string name="vp_VideoView_error_button">ОК</string>
     <string name="vp_VideoView_error_text_unknown">Произошла ошибка</string>
     <string name="vp_VideoView_error_title">Неизвестная ошибка</string>
@@ -1950,6 +1966,25 @@ ID: %s
     <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$s КБ</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s МБ</string>
+    <string name="yandex_ads_internal_after_timer_value">сек.</string>
+    <string name="yandex_ads_internal_before_timer_value">До получения награды осталось</string>
+    <string name="yandex_ads_internal_go">Перейти</string>
+    <string name="yandex_ads_internal_install">Установить</string>
+    <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
+    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
+    <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_tools_age_text">3+</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
+    <string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
+    <string name="yandex_ads_internal_tools_call_to_action_text">Перейти на сайт</string>
+    <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и недорогих машин на Авто.ру</string>
+    <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
     <string name="year">год</string>
     <string name="yesterday">Вчера</string>
     <string name="ytb_account">Аккаунты</string>

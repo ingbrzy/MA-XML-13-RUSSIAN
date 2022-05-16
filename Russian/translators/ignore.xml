@@ -54,6 +54,7 @@
     <string name="account_settings_background_attachments">account_settings_background_attachments</string>
     <string name="account_settings_bcc">account_settings_bcc</string>
     <string name="account_settings_body_load">account_settings_body_load</string>
+    <string name="account_settings_email_filter">account_settings_email_filter</string>
     <string name="account_settings_enable_account_smime">account_settings_enable_account_smime</string>
     <string name="account_settings_encrypt">account_settings_encrypt</string>
     <string name="account_settings_folders">account_settings_folders</string>
@@ -4072,12 +4073,14 @@
     <string name="setting_key_default_open_attachment">default_open_attachment</string>
     <string name="setting_key_delete_message">preference_delete_message</string>
     <string name="setting_key_email_about">email_about</string>
+    <string name="setting_key_email_slide">preference_email_slide</string>
     <string name="setting_key_help_QQ">help_QQ</string>
     <string name="setting_key_help_weixin">help_weixin</string>
     <string name="setting_key_opt_sug">opt_sug</string>
     <string name="setting_key_preference_spam_notify">preference_spam_notify</string>
     <string name="setting_key_preference_translate">preference_translate</string>
     <string name="setting_key_privacy_policy">privacy_policy</string>
+    <string name="setting_key_restart_conversation_options">restart_conversation_options</string>
     <string name="setting_key_settings_attachment">settings_attachment</string>
     <string name="setting_key_settings_operation">settings_operation</string>
     <string name="setting_key_spam_shield">preference_spam_shield</string>
@@ -4999,6 +5002,14 @@ feedsContentId:
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_company_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/network/%s</string>
     <string name="xunlei_privacy_related">http://sl-m-ssl.xunlei.com/h5/page/protocol/%s/?theme=light</string>
+    <string name="yandex_ads_context">yandex:ads:context</string>
+    <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
+    <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
+    <string name="yandex_ads_internal_tools_domain_text">domain</string>
+    <string name="yandex_ads_internal_tools_price_text">price</string>
+    <string name="yandex_ads_internal_tools_rating_text">rating</string>
+    <string name="yandex_ads_internal_tools_review_count_text">review count</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
     <string name="yiji_app_download_card_lebal">" "</string>
     <string name="yoigo_mcc">214</string>
     <string name="yoigo_mnc">04</string>
