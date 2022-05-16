@@ -1259,7 +1259,7 @@
     <string name="deep_power_save_item_title_lock_screen_time">Спящий режим</string>
     <string name="deep_save_memory_clean_summary">Очистка памяти при блокировке устройства для снижения расхода батареи приложениями</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Включение и выключение устройства по расписанию</string>
-    <string name="default_condition_summary">Например, \"Заряд батареи ниже %s\"</string>
+    <string name="default_condition_summary">Например, \"Заряд батареи ниже 20%\"</string>
     <string name="default_condition_title">Добавить условие</string>
     <string name="default_condition_title_continue">Добавить условие</string>
     <string name="default_result_summary">Например, \"Отключить режим полета\"</string>
