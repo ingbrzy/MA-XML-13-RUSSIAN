@@ -2494,10 +2494,10 @@
     <string name="current_password">Текущий способ защиты</string>
     <string name="current_screen_lock">Текущий способ защиты</string>
     <string name="current_use_default_wallet">Автовыбор</string>
-    <string name="current_use_ese">Используется встроенный элемент безопасности</string>
-    <string name="current_use_ese_wallet">Используется Mi Wallet. Это позволяет использовать Mi Pay и транспортную карту NFC.</string>
+    <string name="current_use_ese">Используется встроенный элемент защиты</string>
+    <string name="current_use_ese_wallet">Используется Mi Кошелек. Это позволяет использовать Mi Pay и транспортную карту NFC.</string>
     <string name="current_use_hce_wallet">Используется кошелек HCE</string>
-    <string name="current_use_uicc_se">Используется элемент безопасности на SIM карте</string>
+    <string name="current_use_uicc_se">Используется элемент защиты на SIM карте</string>
     <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
@@ -3574,6 +3574,8 @@
     <string name="feedback_btn_text">Обратная связь</string>
     <string name="feedback_settings">Обратная связь</string>
     <string name="feedback_settings_new">Обратная связь</string>
+    <string name="felica_wallet">FeliCa Кошелек </string>
+    <string name="felica_wallet_desc">FeliCa Кошелек </string>
     <string name="file_privacy_password_role_instruction">Здесь будут храниться ваши скрытые файлы</string>
     <string name="filter">Фильтр</string>
     <string name="filter_all_apps">Все приложения</string>
@@ -3881,7 +3883,7 @@
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Нажмите на приложение на боковой панели для открытия в плавающем окне.
 · Перетащите приложение в центр экрана для открытия в плавающем окне, или к краю для разделения экрана."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перетащите приложение из панели в центр экрана для открытия в плавающем окне, или к краю для разделения экрана.</string>
-    <string name="freeform_vedio_description_pad">Перетащите элемент из панели для открытия в плавающем окне</string>
+    <string name="freeform_vedio_description_pad">Перетащите приложение из панели для открытия в плавающем окне</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
     <string name="friday">Пятница</string>
@@ -5545,7 +5547,7 @@
     <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
     <string name="menu_use_uss">Использовать USS</string>
     <string name="mi_headset_healthy">Здоровье слуха</string>
-    <string name="mi_pay">Mi Wallet</string>
+    <string name="mi_pay">Mi Кошелек</string>
     <string name="mi_pay_indonesia">Аккаунт Mi Pay</string>
     <string name="mi_pay_summary">Транспортная карта/Mi Pay/Эмулятор карты</string>
     <string name="mi_pay_summary_without_nfc">Mi Pay</string>
@@ -5556,6 +5558,8 @@
     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Аккаунт Mi Pay</string>
+    <string name="mi_wallet">Mi Кошелек</string>
+    <string name="mi_wallet_desc">Mi Кошелек</string>
     <string name="mic_toggle_title">Доступ к микрофону</string>
     <string name="micloud_service_summary">Синхронизация списка приложений, резервное копирование настроек системы и рабочего стола</string>
     <string name="micloud_service_summary_temp">Синхронизация фото, видео, контактов и прочих данных</string>
@@ -5761,6 +5765,11 @@
     <string name="miui_master_clear_prompt_battery_low">Сброс к заводским настройкам недоступен, если осталось менее %1$s заряда батареи. Зарядите устройство.</string>
     <string name="miui_master_clear_summary">Удаление всех данных и возврат к заводским настройкам</string>
     <string name="miui_more_special_feature">Новые возможности</string>
+    <string name="miui_nfc_dialog_message">После отключения NFC, Mi Pay, транспортные карты, ключи-карты и другие функции будут недоступны. Отключить NFC?</string>
+    <string name="miui_nfc_dialog_negative">Отключить</string>
+    <string name="miui_nfc_dialog_positive">Отмена</string>
+    <string name="miui_nfc_dialog_title">Отключение NFC</string>
+    <string name="miui_nfc_mi_pay_summary">Mi Pay, транспортные карты, ключ-карты</string>
     <string name="miui_optimization_disabled">Отключить оптимизацию MIUI</string>
     <string name="miui_sos_around_photo_summary">Прикрепить %d фото с фронтальной и задней камер к текстовому сообщению, для отправки контактам в экстренных ситуациях</string>
     <string name="miui_sos_around_photo_title">Прикрепление фото</string>
@@ -6246,6 +6255,8 @@
     <string name="nfc_how_it_works_content">Настройте платежное приложение, а затем приложите заднюю панель устройства к терминалу со значком бесконтактной оплаты.</string>
     <string name="nfc_how_it_works_got_it">ОК</string>
     <string name="nfc_how_it_works_title">Как оплатить</string>
+    <string name="nfc_image_preference_text_click">Проверьте, где находится область антенны NFC на этом устройстве</string>
+    <string name="nfc_image_preference_text_noclick">Поместите устройство рядом с бесконтактным терминалом, чтобы использовать Mi Pay, транспортные карты, ключ-карты или другие функции NFC</string>
     <string name="nfc_main_switch_title">Использовать NFC</string>
     <string name="nfc_more_title">Еще…</string>
     <string name="nfc_payment_btn_text_set_deault">Установить по умолчанию</string>
@@ -6992,6 +7003,7 @@ OTG отключается автоматически через 10 минут �
     <string name="pref_volume_wake_title">Пробуждать кнопками громкости</string>
     <string name="preference_change_password_title">Изменить пароль</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="preference_toggle_nfc_dnd_mode_summary">Не получать уведомления о нераспознанных NFC-метках</string>
     <string name="preferred_app_settings">Приложения по умолчанию</string>
     <string name="preferred_app_settings_default">MIUI</string>
     <string name="preferred_app_settings_not_selected">Не выбрано</string>
@@ -7848,9 +7860,11 @@ UT-интерфейс: %5$s"</string>
     <string name="sdcard_settings_unmounted_status">SD-карту можно извлечь.</string>
     <string name="sdcard_settings_used_bytes_label">Использовано байтов:</string>
     <string name="sdcard_unmount">Извлечь SD-карту</string>
+    <string name="se_in_ese">Встроенный элемент защиты</string>
+    <string name="se_in_ese_desc">Встроенный элемент защиты</string>
     <string name="se_route_default">Автовыбор</string>
-    <string name="se_route_ese">Встроенный элемент безопасности</string>
-    <string name="se_route_uicc">Элемент безопасности на SIM карте</string>
+    <string name="se_route_ese">Встроенный элемент защиты</string>
+    <string name="se_route_uicc">Элемент защиты на SIM карте</string>
     <string name="se_wallet_ese">Mi Pay и транспортная карта NFC</string>
     <string name="se_wallet_hce">Кошелек HCE</string>
     <string name="se_wallet_uicc">Кошелек SIM%1$s</string>
@@ -8640,6 +8654,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_switch_button">Переключиться</string>
     <string name="sim_switch_channel_id">Переключение между операторами связи</string>
     <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
+    <string name="sim_wallet">SIM-кошелек</string>
+    <string name="sim_wallet_desc">SIM-кошелек</string>
     <string name="simulate_color_space">Имитация аномалии</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>

@@ -1988,6 +1988,7 @@
     <string name="unknown_contact_name">Неизвестный номер</string>
     <string name="unknown_details_add_to_contact">Существующий</string>
     <string name="unknown_details_new_contact">Новый</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">Отображение QR-кодов недоступно при разделении экрана</string>
     <string name="update_sim_contact_photo_toast">Нельзя установить фото для контакта на SIM-карте</string>
     <string name="upgrade_in_progress">Список контактов обновляется…</string>
     <string name="upgrade_out_of_memory">"Список контактов обновляется. 

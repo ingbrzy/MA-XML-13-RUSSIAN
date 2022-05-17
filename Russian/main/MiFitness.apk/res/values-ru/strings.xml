@@ -2539,7 +2539,7 @@ ID:%s
     <string name="heartrate_detect_state_regular_desc">Работаю или учусь, как обычно.</string>
     <string name="heartrate_detect_state_reseting">Отдыхаю</string>
     <string name="heartrate_detect_state_reseting_desc">Вы расслаблены или только что проснулись.</string>
-    <string name="heartrate_disable_in_split_screen">Нельзя измерять пульс в режиме разделения экрана</string>
+    <string name="heartrate_disable_in_split_screen">Измерение пульса недоступно при разделении экрана</string>
     <string name="heartrate_disturb_detect">Измерение было прервано</string>
     <string name="heartrate_finger_permission_desc">Чтобы отслеживать изменения в кровотоке и измерять частоту пульса, разрешите этому приложению доступ к сканеру отпечатков пальцев.</string>
     <string name="heartrate_fp_area">Сканер отпечатков</string>

@@ -324,6 +324,10 @@
         <item quantity="one">Отметились %d раз</item>
         <item quantity="few">Отметились %d дня подряд</item>
     </plurals>
+    <plurals name="gb_smart_battery_surplus">
+        <item quantity="other">Осталось %2$1.2f ч.</item>
+        <item quantity="one">Остался %2$1.2f ч.</item>
+    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Понятно (%d сек.)</item>
         <item quantity="one">Понятно (%d сек.)</item>
