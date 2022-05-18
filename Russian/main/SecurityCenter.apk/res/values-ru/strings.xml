@@ -1179,7 +1179,7 @@
     <string name="cpu_usage_view_action_btn_text">Просмотр</string>
     <string name="create_gamebooster_destop">Ярлык на рабочем столе успешно создан</string>
     <string name="create_shortcut">Создать на рабочем столе ярлык для Ускорения игр</string>
-    <string name="cta_HIPS_Perm_Location_Desc">Для использования информации о вашем местоположении в сервисах Центр предупреждения MIUI, Экстренный вызов, Контроль активности, Безопасность платежей, а также для приблизительной геолокации</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Для использования информации о вашем местоположении в сервисах Центр предупреждения MIUI, Экстренная помощь, Контроль активности, Безопасность платежей, а также для приблизительной геолокации</string>
     <string name="cta_agree_desc">Чтобы использовать наши сервисы, предоставьте приложению доступ к интернету и вышеперечисленные разрешения.</string>
     <string name="cta_close_dialog_cancel">Отмена</string>
     <string name="cta_close_dialog_content">Если вы ограничите Безопасности доступ в интернет и геолокацию, вы не сможете получать предупреждения о землетрясениях, обновлять описания вирусов и черные списки. Устройство станет менее безопасным. Ограничить?</string>
@@ -1197,7 +1197,7 @@
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Для использования черного списка и распознавания сообщений от оператора связи</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Для использования черного списка и отправки калибровочных сообщений оператору связи</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Для удаления сообщений из черного списка</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для предоставления функций, связанных с геолокацией, в сервисах Центр предупреждения MIUI, Экстренный вызов, Контроль активности, Безопасность платежей и в службах приблизительной геолокации</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для предоставления функций, связанных с геолокацией, в сервисах Центр предупреждения MIUI, Экстренная помощь, Контроль активности, Безопасность платежей и в службах приблизительной геолокации</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для очистки корзины и антивирусного сканирования</string>
     <string name="customize_limit_pkg">%s (особый)</string>
     <string name="customizer_mode_user_define_name">Мой профиль</string>
@@ -4633,7 +4633,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_sim_protect_summary">Защита информации на SIM-картах</string>
     <string name="sp_sim_protect_title">Безопасность SIM-карт</string>
     <string name="sp_sos_summary">Получение помощи в случае опасности</string>
-    <string name="sp_sos_title">Экстренный вызов</string>
+    <string name="sp_sos_title">Экстренная помощь</string>
     <string name="sp_system_security_title">Безопасность системы</string>
     <string name="sp_toast_removed_from_sign_white_list">Удалено из исключений. Объект будет проверен в следующий раз.</string>
     <string name="sp_website_scan_summary">Безопасный просмотр веб-страниц</string>
@@ -5103,7 +5103,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
     <string name="system_permission_perm_send_mms">Отправка MMS</string>
     <string name="system_tool_green_guard">Семейный защитник</string>
-    <string name="system_tool_sos">Экстренный вызов</string>
+    <string name="system_tool_sos">Экстренная помощь</string>
     <string name="tab_blacklist">Черный список</string>
     <string name="tab_block_log_unKnowNumber">Скрытый номер</string>
     <string name="tab_call">Вызовы</string>

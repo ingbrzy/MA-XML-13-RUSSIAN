@@ -825,7 +825,7 @@
     <string name="usage_state_device_unlock_today_tip_title">C %1$d:00 до %2$d:00</string>
     <string name="usage_state_download">Сохранить в Галерее</string>
     <string name="usage_state_duration_title">Текущая сессия</string>
-    <string name="usage_state_focus_call">Экстренный вызов</string>
+    <string name="usage_state_focus_call">Экстренная помощь</string>
     <string name="usage_state_focus_level1">Восходящая звезда</string>
     <string name="usage_state_focus_level_summary">Текущий уровень: %s</string>
     <string name="usage_state_focus_mode_experience_warning_message">Режим медитации позволяет использовать только камеру и делать экстренные вызовы. Вы не сможете досрочно выйти из режима.</string>

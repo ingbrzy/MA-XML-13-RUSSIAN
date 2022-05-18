@@ -1043,7 +1043,7 @@
     <string name="early_morning">Утро</string>
     <string name="ecm_exit_dialog">Режим экстренного вызова</string>
     <string name="edit_fdn_contact">Изменение номера</string>
-    <string name="emergencyDialerIconLabel">Экстренный вызов</string>
+    <string name="emergencyDialerIconLabel">Экстренная помощь</string>
     <string name="emergency_action_launch_hint">Нажмите еще раз для запуска</string>
     <string name="emergency_broadcast_disable">Экстренные оповещения отключены</string>
     <string name="emergency_broadcast_enable">Экстренные оповещения включены</string>
@@ -1052,7 +1052,7 @@
     <string name="emergency_call_shortcut_hint">Нажмите еще раз для вызова %s.</string>
     <string name="emergency_enable_radio_dialog_message">Включение радиомодуля…</string>
     <string name="emergency_enable_radio_dialog_retry">Сеть недоступна. Повтор…</string>
-    <string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
+    <string name="emergency_enable_radio_dialog_title">Экстренная помощь</string>
     <string name="emergency_information_confirm_hint">Нажмите еще раз для информации</string>
     <string name="emergency_information_hint">Экстренная информация</string>
     <string name="emergency_information_owner_hint">Владелец</string>

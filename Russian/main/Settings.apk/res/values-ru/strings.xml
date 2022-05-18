@@ -2058,7 +2058,7 @@
     <string name="cdma_system_select_dialogtitle">Выбор системы</string>
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
     <string name="cdma_system_select_title">Выбор системы</string>
-    <string name="cell_broadcast_settings">Экстренные оповещения по беспроводным сетям</string>
+    <string name="cell_broadcast_settings">Экстренные оповещения</string>
     <string name="cell_data_limit">^1 лимит трафика</string>
     <string name="cell_data_off_content_description">Мобильный интернет отключен</string>
     <string name="cell_data_template">^1 мобильного трафика</string>
@@ -3238,8 +3238,8 @@
     <string name="emergency_gesture_number_override_notes">"Если вместо номера экстренной службы вы укажете другой номер:
  • Чтобы совершить экстренный вызов, нужно будет разблокировать устройство
  • Ваш вызов может остаться без ответа"</string>
-    <string name="emergency_gesture_screen_summary">Для активации функции \"Экстренный вызов\" быстро нажмите кнопку питания не менее пяти раз, это запустит перечисленные ниже действия: Звуковой сигнал (если включено), Вызов экстренней службы</string>
-    <string name="emergency_gesture_screen_title">Экстренный вызов</string>
+    <string name="emergency_gesture_screen_summary">Для активации функции \"Экстренная помощь\" быстро нажмите кнопку питания не менее пяти раз, это запустит перечисленные ниже действия: Звуковой сигнал (если включено), Вызов экстренней службы</string>
+    <string name="emergency_gesture_screen_title">Экстренная помощь</string>
     <string name="emergency_gesture_settings_package" />
     <string name="emergency_gesture_sound_setting_summary">Включить громкий звуковой сигнал с обратным отсчетом перед экстренным вызовом</string>
     <string name="emergency_gesture_sound_setting_title">Звуковой сигнал</string>
@@ -3248,7 +3248,7 @@
     <string name="emergency_info_summary">%1$s: информация и контакты</string>
     <string name="emergency_info_title">Данные для экстренных случаев</string>
     <string name="emergency_settings_preference_title">Экстренные ситуации</string>
-    <string name="emergency_sos_title">Экстренный вызов</string>
+    <string name="emergency_sos_title">Экстренная помощь</string>
     <string name="emergency_tone_alert">Оповещения</string>
     <string name="emergency_tone_silent">Без звука</string>
     <string name="emergency_tone_summary">Настроить режим работы при экстренном вызове</string>
@@ -5797,11 +5797,11 @@
     <string name="miui_sos_emergency_delivered_sms_noname">Сообщение доставлено %1$s</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">Не удалось отправить сообщение %1s (%2s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Не удалось отправить сообщение для %1s</string>
-    <string name="miui_sos_emergency_title">Экстренный вызов</string>
+    <string name="miui_sos_emergency_title">Экстренная помощь</string>
     <string name="miui_sos_enable_switch_summary">Быстро нажмите кнопку питания 5 раз для отправки сообщения SOS с вашей геопозицией экстренным контактам</string>
-    <string name="miui_sos_enable_switch_title">Экстренный вызов</string>
+    <string name="miui_sos_enable_switch_title">Экстренная помощь</string>
     <string name="miui_sos_exit_dialog_cancel">Отмена</string>
-    <string name="miui_sos_exit_dialog_message">Функция \"Экстренный вызов\" активна. Ваша геопозиция транслируется экстренным контактам. Отключить?</string>
+    <string name="miui_sos_exit_dialog_message">Функция \"Экстренная помощь\" активна. Ваша геопозиция транслируется экстренным контактам. Отключить?</string>
     <string name="miui_sos_exit_dialog_ok">ОК</string>
     <string name="miui_sos_exit_dialog_title">Отключение функции</string>
     <string name="miui_sos_exit_emergency_title">Отключение</string>
@@ -5810,10 +5810,10 @@
     <string name="miui_sos_green_guard_title">Родительский контроль</string>
     <string name="miui_sos_hospital_card">Медицинская карта</string>
     <string name="miui_sos_hospital_card_important_info">Ваша важная медицинская информация для экстренних служб</string>
-    <string name="miui_sos_launch_error">Не удалось активировать функцию \"Экстренный вызов\"</string>
+    <string name="miui_sos_launch_error">Не удалось активировать функцию \"Экстренная помощь\"</string>
     <string name="miui_sos_launch_error_confirm">Понятно</string>
-    <string name="miui_sos_launch_error_message">Не удалось подключиться к мобильной сети. Функция \"Экстренный вызов\" недоступна.</string>
-    <string name="miui_sos_launching_summary">Активация функции \"Экстренный вызов\" через %d сек.</string>
+    <string name="miui_sos_launch_error_message">Не удалось подключиться к мобильной сети. Функция \"Экстренная помощь\" недоступна.</string>
+    <string name="miui_sos_launching_summary">Активация функции \"Экстренная помощь\" через %d сек.</string>
     <string name="miui_sos_launching_title">SOS</string>
     <string name="miui_sos_menu_add">Добавить</string>
     <string name="miui_sos_menu_edit">Изменить</string>
@@ -5823,10 +5823,10 @@
     <string name="miui_sos_pa_turn_on">Вкл.</string>
     <string name="miui_sos_play_voice">Воспроизвести сообщение SOS</string>
     <string name="miui_sos_remind_add">Добавить</string>
-    <string name="miui_sos_remind_close">Функция \"Экстренный вызов\" активна. Отключить?</string>
+    <string name="miui_sos_remind_close">Функция \"Экстренная помощь\" активна. Отключить?</string>
     <string name="miui_sos_remind_close_confirm">Отключить</string>
-    <string name="miui_sos_remind_infocontent">Вы добавлены в качестве моего экстренного контакта. Если я окажусь в опасности, вы получите сообщение с моим местоположением. [Mi \"Экстренный вызов\"]</string>
-    <string name="miui_sos_remind_open">Для работы функции \"Экстренный вызов\" требуется хотя бы 1 контакт.</string>
+    <string name="miui_sos_remind_infocontent">Вы добавлены в качестве моего экстренного контакта. Если я окажусь в опасности, вы получите сообщение с моим местоположением. [Mi \"Экстренная помощь\"]</string>
+    <string name="miui_sos_remind_open">Для работы функции \"Экстренная помощь\" требуется хотя бы 1 контакт.</string>
     <string name="miui_sos_remind_sendinfo">Не забудьте сообщить этим людям, что они являются вашими экстренными контактами. Так они смогут быстрее помочь вам в случае чрезвычайной ситуации.</string>
     <string name="miui_sos_remind_sendnow">Сообщить</string>
     <string name="miui_sos_remind_sendnow_donot_send">Отмена</string>
@@ -5835,7 +5835,7 @@
     <string name="miui_sos_settings_alert_contacts_too_many">Можно добавить не более 3х контактов</string>
     <string name="miui_sos_settings_category">Настройки SOS</string>
     <string name="miui_sos_statusbar_summary">Нажмите для отключения</string>
-    <string name="miui_sos_statusbar_title">Функция \"Экстренный вызов\" активна</string>
+    <string name="miui_sos_statusbar_title">Функция \"Экстренная помощь\" активна</string>
     <string name="miui_sos_unknow_contract">Неизвестный контакт</string>
     <string name="miui_special_feature">Специальные функции</string>
     <string name="miui_touch_filtered_touchassistant_warning">Сенсорный помощник перекрывает диалог разрешений. Переместите Сенсорный помощник или отключите эту функцию.</string>
@@ -8802,7 +8802,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_dialog_button_ok">Принимаю</string>
     <string name="sos_privacy_dialog_message">"Перед использованием прочтите и примите наши %s.
 Функции требуются разрешения для доступа к местоположению, для использования мобильной сети и для чтения контактов."</string>
-    <string name="sos_privacy_dialog_message_new_version">"Функция \"Экстренный вызов\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
+    <string name="sos_privacy_dialog_message_new_version">"Функция \"Экстренная помощь\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.
 Обратите внимание, что этому приложению необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:
 • Доступ к памяти устройства
@@ -8813,9 +8813,9 @@ UT-интерфейс: %5$s"</string>
 Для отправки текстовых сообщений экстренным контактам.
 • Использование геолокации
 Для отправки вашего местоположения экстренным контактам.
-Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренный вызов\" или не использовать ее.
+Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренная помощь\" или не использовать ее.
 Перед использованием прочитайте и примите наши %s."</string>
-    <string name="sos_privacy_dialog_message_old_version">"Функция \"Экстренный вызов\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
+    <string name="sos_privacy_dialog_message_old_version">"Функция \"Экстренная помощь\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.
 Обратите внимание, что этому приложению необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:
 • Доступ к памяти устройства
@@ -8826,22 +8826,22 @@ UT-интерфейс: %5$s"</string>
 Для отправки текстовых сообщений экстренным контактам.
 • Использование геолокации
 Для отправки вашего местоположения экстренным контактам.
-Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренный вызов\" или не использовать ее.
+Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренная помощь\" или не использовать ее.
 Перед использованием прочитайте и примите наши %s."</string>
     <string name="sos_privacy_dialog_title">Условия использования</string>
     <string name="sos_privacy_policy">Политика конфиденциальности</string>
     <string name="sos_privacy_policy_change_endtitle">Прежде чем продолжить, прочтите и примите обновленную %s.</string>
-    <string name="sos_privacy_policy_change_message_reject">Вы не сможете использовать функцию \"Экстренный вызов\", если не примите обновленную Политику конфиденциальности. Принимаете обновленную %s?</string>
-    <string name="sos_privacy_policy_change_subtitle">Политика конфиденциальности функции \"Экстренный вызов\" обновлена:</string>
+    <string name="sos_privacy_policy_change_message_reject">Вы не сможете использовать функцию \"Экстренная помощь\", если не примите обновленную Политику конфиденциальности. Принимаете обновленную %s?</string>
+    <string name="sos_privacy_policy_change_subtitle">Политика конфиденциальности функции \"Экстренная помощь\" обновлена:</string>
     <string name="sos_privacy_policy_change_title">Обновленная Политика конфиденциальности</string>
     <string name="sos_privacy_policy_change_title_reject">Отказ от использования</string>
     <string name="sos_privacy_policy_no_net_button">Понятно</string>
     <string name="sos_privacy_policy_no_net_message">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="sos_privacy_policy_no_net_title">Ошибка подключения</string>
     <string name="sos_privacy_policy_revoke">Отзыв согласия</string>
-    <string name="sos_privacy_policy_revoke_message_reject">"Если вы продолжите, согласие с Политикой конфиденциальности функции \"Экстренный вызов\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока, в соответствии с действующими законами и правилами, если не требуется иное.
+    <string name="sos_privacy_policy_revoke_message_reject">"Если вы продолжите, согласие с Политикой конфиденциальности функции \"Экстренная помощь\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока, в соответствии с действующими законами и правилами, если не требуется иное.
 
-Поскольку функция \"Экстренный вызов\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов безопасности.
+Поскольку функция \"Экстренная помощь\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов безопасности.
 
 Отозвать согласие для %s?"</string>
     <string name="sos_privacy_policy_revoke_title_reject">Внимание</string>

@@ -52,7 +52,7 @@
     <string name="disable_find_device_success">Поиск устройства отключен</string>
     <string name="doing_extra_login_steps">Проверка входа…</string>
     <string name="early_morning">Утро</string>
-    <string name="emergency_call">Экстренный вызов</string>
+    <string name="emergency_call">Экстренная помощь</string>
     <string name="enable_find_device_error">Не удалось включить Поиск устройства. %1$s</string>
     <string name="enable_find_device_success">Поиск устройства включен</string>
     <string name="eras_ad">н. э.</string>

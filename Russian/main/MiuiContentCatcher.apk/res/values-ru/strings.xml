@@ -44,7 +44,7 @@
     <string name="autofill_item_activity_label">Пароли приложений</string>
     <string name="autofill_list_activity_label">Пароли приложений</string>
     <string name="autofill_list_title">Управление паролями</string>
-    <string name="autofill_password">Автоматический ввод паролей</string>
+    <string name="autofill_password">Автоввод паролей</string>
     <string name="autofill_password_activity_label">Коды подтверждения</string>
     <string name="autofill_service_label">Управление паролями</string>
     <string name="autofill_setting_activity_label">Управление паролями</string>

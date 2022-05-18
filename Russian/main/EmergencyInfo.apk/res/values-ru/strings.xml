@@ -348,7 +348,7 @@
     <string name="dob">(%1$s)</string>
     <string name="edit_info">Редактирование экстренной информации</string>
     <string name="emergency_action_subtitle">Вызов %1$s …</string>
-    <string name="emergency_action_title">Экстренный вызов</string>
+    <string name="emergency_action_title">Экстренная помощь</string>
     <string name="emergency_contacts_title">Экстренные контакты</string>
     <string name="emergency_info_footer">"Добавление медицинской информации и экстренных контактов может помочь службам экстренного реагирования.
 
