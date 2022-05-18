@@ -174,7 +174,7 @@
     <string name="confirm_cancel_restore_positive">Продолжить</string>
     <string name="confirm_cancel_restore_title">Отменить восстановление?</string>
     <string name="confirm_restore">Восстановить</string>
-    <string name="confirm_restore_app_data">Перезапись данных</string>
+    <string name="confirm_restore_app_data">WeChat уже установлен на этом устройстве. Невозможно восстановить данные.</string>
     <string name="confirm_restore_app_data_summary">На устройстве уже есть данные WeChat. Перезаписать их данными из резервной копии?</string>
     <string name="confirm_restore_summary">Рабочий стол будет перезапущен. Приложения из бэкапа будут добавлены автоматически.</string>
     <string name="confirm_restore_title">Восстановление</string>
