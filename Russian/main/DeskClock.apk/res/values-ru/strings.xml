@@ -64,6 +64,7 @@
     <string name="alarmclock_empty_text">Нет будильников</string>
     <string name="alarmclock_silent_hint">Звук будильника отключен</string>
     <string name="alert">Мелодия</string>
+    <string name="alert_page_desc">Нажмите и удерживайте, затем проведите вверх, чтобы выключить будильник</string>
     <string name="alert_ringtone">Мелодия будильника</string>
     <string name="alert_vibrate_enable_summary">Вибрировать при срабатывании будильника</string>
     <string name="alert_volume">Громкость звонка</string>
