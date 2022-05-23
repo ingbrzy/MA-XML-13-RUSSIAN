@@ -947,6 +947,7 @@
     <string name="view_all_notes">Показать все</string>
     <string name="warn_cannot_add_new_bullet">Не удалось добавить новый маркированный список, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_checkbox">Не удалось добавить новый флажок, заметка слишком длинная</string>
+    <string name="warn_cannot_add_new_content">Не удалось добавить новый контент, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_doodle">Не удалось добавить новый эскиз, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_element">Не удалось добавить новый элемент, заметка слишком длинная</string>
     <string name="warn_cannot_add_new_link_card">Не удалось добавить новую ссылку, заметка слишком длинная</string>
@@ -969,6 +970,8 @@
     <string name="widget_size_item_big">Большой</string>
     <string name="widget_size_item_medium">Средний</string>
     <string name="widget_size_item_small">Маленький</string>
+    <string name="widget_size_item_super_big">Очень большой</string>
+    <string name="widget_size_not_support">Очень большой размер виджета не поддерживается на этом устройстве</string>
     <string name="widget_take_notes_title">Заметки</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>

@@ -1177,6 +1177,7 @@
     <string-array name="screenrecorder_settings_resolution_values"></string-array>
     <string-array name="screenrecorder_settings_sound_values"></string-array>
     <string-array name="screenrecorder_settings_storage_location_values"></string-array>
+    <string-array name="screenrecorder_utils_support_90fps_frames_cpu"></string-array>
     <string-array name="screenrecorder_utils_support_high_frames_cpu"></string-array>
     <string-array name="search_bar_search_engines_default"></string-array>
     <string-array name="search_bar_search_engines_only_google"></string-array>

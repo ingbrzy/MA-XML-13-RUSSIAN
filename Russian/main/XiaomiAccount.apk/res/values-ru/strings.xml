@@ -947,5 +947,8 @@ ID:%s
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Войти с помощью WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="yesterday">Вчера</string>
 </resources>

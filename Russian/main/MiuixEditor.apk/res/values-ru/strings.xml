@@ -6,6 +6,11 @@
     <string name="floating_toolbar_close_overflow_description">Закрыть доп. меню</string>
     <string name="floating_toolbar_open_overflow_description">Ещё</string>
     <string name="frequent_phrases">Частые фразы</string>
+    <string name="google_call">Вызов</string>
+    <string name="google_email">Email</string>
+    <string name="google_map">Карта</string>
+    <string name="google_open">Просмотр</string>
+    <string name="google_translate">Перевести</string>
     <string name="open">Просмотр</string>
     <string name="query">Запрос</string>
     <string name="select">Выбрать</string>

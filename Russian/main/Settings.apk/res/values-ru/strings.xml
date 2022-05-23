@@ -3965,6 +3965,11 @@
     <string name="go_back_button_label">Назад</string>
     <string name="go_to_sleep">Отключение экрана</string>
     <string name="google_account_title">Google</string>
+    <string name="google_assistant_guide_cancel">Отмена</string>
+    <string name="google_assistant_guide_message">Запуск Google Ассистента длительным нажатием кнопки питания. Установить этот ярлык?</string>
+    <string name="google_assistant_guide_ok">Установить</string>
+    <string name="google_assistant_guide_tip">*Нажмите и удерживайте кнопку питания в течение % сек. для вызова меню питания</string>
+    <string name="google_assistant_guide_title">Google Ассистент</string>
     <string name="google_assistant_label">Google Ассистент</string>
     <string name="google_backup_enable">Включить резервное копирование</string>
     <string name="google_backup_section_title">Резервное копирование в Google</string>
@@ -5732,6 +5737,8 @@
     <string name="miui_allow_light">Световой индикатор</string>
     <string name="miui_allow_music">Мультимедиа</string>
     <string name="miui_allow_vibrate">Вибрация</string>
+    <string name="miui_bubbles_notification">Уведомления в виде \"пузырей\"</string>
+    <string name="miui_bubbles_notification_status_opened">Вкл.</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>
     <string name="miui_face_enroll_risk_warning_btn_cancel">Отмена</string>
