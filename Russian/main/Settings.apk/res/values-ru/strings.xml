@@ -3968,7 +3968,7 @@
     <string name="google_assistant_guide_cancel">Отмена</string>
     <string name="google_assistant_guide_message">Запуск Google Ассистента длительным нажатием кнопки питания. Установить этот ярлык?</string>
     <string name="google_assistant_guide_ok">Установить</string>
-    <string name="google_assistant_guide_tip">*Нажмите и удерживайте кнопку питания в течение % сек. для вызова меню питания</string>
+    <string name="google_assistant_guide_tip">*Нажмите и удерживайте кнопку питания в течение %s сек. для вызова меню питания</string>
     <string name="google_assistant_guide_title">Google Ассистент</string>
     <string name="google_assistant_label">Google Ассистент</string>
     <string name="google_backup_enable">Включить резервное копирование</string>
