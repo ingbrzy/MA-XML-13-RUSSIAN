@@ -184,7 +184,7 @@
     <string name="branch_deepview_button">Загрузить</string>
     <string name="branch_deepview_button_description">Посмотреть контент сразу после установки</string>
     <string name="branch_feature_description">Быстрый поиск позволяет искать приложения, контент внутри приложений и в интернете</string>
-    <string name="branch_guide_attention">Для расширенного поиска требуется передача в Branch Metrics Inc. ваших поисковых запросов, идентификатора Google Ads и IP-адреса. Перед использованием этой функции прочтите и примите <a href="http://url1"><font color="#B3000000">Условия и положения конечного пользователя</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности Branch Discovery</font></a>.</string>
+    <string name="branch_guide_attention">Для расширенного поиска требуется передача в Branch Metrics Inc. ваших поисковых запросов, идентификатора Google Ads и IP-адреса. Перед использованием этой функции прочтите и примите <font color="#B3000000"><a href="http://url1">Условия и положения конечного пользователя</a></font> и <font color="#B3000000"><a href="http://url2">Политику конфиденциальности Branch Discovery</a></font>.</string>
     <string name="branch_guide_description_one">Все приложения будут размещены в \"Меню приложений\". Рабочий стол будет выглядеть аккуратно и организованно.</string>
     <string name="branch_guide_description_three">Встроенный поиск поможет быстро найти нужное</string>
     <string name="branch_guide_description_two">Меню приложений автоматически классифицирует приложения</string>
@@ -200,7 +200,7 @@
     <string name="branch_new_feature">Новая функция</string>
     <string name="branch_privacy_policy">Политика конфиденциальности</string>
     <string name="branch_search_guide_description">Результаты поиска теперь более полные</string>
-    <string name="branch_search_guide_privacy">Сервис предоставлен Branch Metrics Inc. Информация о вашем местоположении, поисковые запросы и идентификатор Google Ads будут переданы Branch. Перед использованием сервиса прочтите и примите <a href="http://url1"><font color="#B3000000">Условия и положения</font></a> и <a href="http://url2"><font color="#B3000000">Политику конфиденциальности</font></a> Branch.</string>
+    <string name="branch_search_guide_privacy">Сервис предоставлен Branch Metrics Inc. Информация о вашем местоположении, поисковые запросы и идентификатор Google Ads будут переданы Branch. Перед использованием сервиса прочтите и примите <font color="#B3000000"><a href="http://url1">Условия и положения</a></font> и <font color="#B3000000"><a href="http://url2">Политику конфиденциальности</a></font> Branch.</string>
     <string name="branch_search_guide_title">Поиск среди приложений</string>
     <string name="branch_terms_condition">Условия и положения</string>
     <string name="branch_tip_title">Быстрый поиск поможет найти нужное</string>

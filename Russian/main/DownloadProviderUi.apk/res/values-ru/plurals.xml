@@ -35,9 +35,9 @@
         <item quantity="few">Удалить %d загрузки?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Удалено %s загрузок</item>
-        <item quantity="one">Удалена %s загрузка</item>
-        <item quantity="few">Удалено %s загрузки</item>
+        <item quantity="other">Удалено %1$d загрузок</item>
+        <item quantity="one">Удалена %1$d загрузка</item>
+        <item quantity="few">Удалено %1$d загрузки</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d дней</item>
@@ -95,9 +95,9 @@
         <item quantity="few">Удалить %d объекта?</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%s объектов</item>
-        <item quantity="one">%s объект</item>
-        <item quantity="few">%s объекта</item>
+        <item quantity="other">%1$d объектов</item>
+        <item quantity="one">%1$d объект</item>
+        <item quantity="few">%1$d объекта</item>
     </plurals>
     <plurals name="sniff_find_resource">
         <item quantity="other">Найдено %d объектов</item>

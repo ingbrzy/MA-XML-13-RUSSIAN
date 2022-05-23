@@ -131,7 +131,7 @@
     <string name="accessibility_dialog_button_deny">Запретить</string>
     <string name="accessibility_dialog_button_stop">Остановить</string>
     <string name="accessibility_disable_animations">Отключить анимацию</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда вы хотите:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Видеть цвета более точно&lt;/li> &lt;li>&amp;nbsp;Убрать цвета, чтобы сосредоточиться&lt;/li> &lt;/ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li><br/><br/> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_display_inversion_preference_subtitle">Может снизить производительность</string>
     <string name="accessibility_display_inversion_preference_title">Инверсия цветов</string>
@@ -475,8 +475,8 @@
     <string name="add_fingerprint_dirty_fingerprint">Убедитесь, что поверхность экрана чистая. Повторите попытку записи отпечатка.</string>
     <string name="add_fingerprint_done_msg">Теперь можно разблокировать устройство отпечатком</string>
     <string name="add_fingerprint_done_title">Всё готово!</string>
-    <string name="add_fingerprint_edge_instruction_msg">Сместите палец для записи краев вашего отпечатка</string>
-    <string name="add_fingerprint_edge_instruction_title">Немного сместите палец</string>
+    <string name="add_fingerprint_edge_instruction_msg">Сместите немного палец так, чтобы датчик мог зафиксировать края отпечатка</string>
+    <string name="add_fingerprint_edge_instruction_title">Сместите палец</string>
     <string name="add_fingerprint_failed_retry_text">Не удалось добавить отпечаток</string>
     <string name="add_fingerprint_finished_button_text">Готово</string>
     <string name="add_fingerprint_instruction_msg">Сканер отпечатков встроен в кнопку \"Домой\" вашего устройства</string>
@@ -793,7 +793,7 @@
     <string name="application_lock_name">Защита приложений</string>
     <string name="application_manager_section_title">Приложения</string>
     <string name="application_mode_empty_text">Ничего нет</string>
-    <string name="application_mode_name">Режим отображения</string>
+    <string name="application_mode_name">Макеты приложений</string>
     <string name="application_permission_manager">Разрешения приложений</string>
     <string name="application_permissions">Разрешения приложений</string>
     <string name="application_restrictions">Разрешить приложения и контент</string>
@@ -5280,7 +5280,7 @@
     <string name="magic_list_empty_text">Нет приложений, совместимых с этой функцией</string>
     <string name="magic_list_empty_text_pad">Нет приложений, совместимых с этой функцией</string>
     <string name="magic_window_name">Разделение экрана</string>
-    <string name="magic_window_name_pad">Разделение экрана</string>
+    <string name="magic_window_name_pad">Оптимизация ландшафтного режима</string>
     <string name="mah">%d мА·ч</string>
     <string name="main_clear_accounts">"
 

@@ -142,7 +142,7 @@
     <string name="accessibility_detail_switch_disable">Недоступно</string>
     <string name="accessibility_detail_switch_off">Отключено</string>
     <string name="accessibility_detail_switch_on">Включено</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда вы хотите:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Видеть цвета более точно&lt;/li> &lt;li>&amp;nbsp;Убрать цвета, чтобы сосредоточиться&lt;/li> &lt;/ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li><br/><br/> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_divider">Разделитель экрана</string>
     <string name="accessibility_drag_hint_message">Перетащите объекты в верхнюю часть экрана</string>
