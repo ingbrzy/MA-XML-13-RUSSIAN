@@ -3745,11 +3745,12 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
-    <string name="fold_game_adaptation">Игры</string>
+    <string name="fold_application_mode_name">Макеты приложений</string>
+    <string name="fold_game_adaptation">Макеты игр</string>
     <string name="fold_rule_default">По умолчанию</string>
     <string name="fold_rule_important">Важные</string>
     <string name="fold_rule_unimportant">Неважные</string>
-    <string name="fold_screen_settings_title">Функции для большого экрана</string>
+    <string name="fold_screen_settings_title">Функции для складных устройств</string>
     <string name="fold_title">Правила групповых уведомлений</string>
     <string name="following_us_title">Подпишитесь на нас</string>
     <string name="font_cta_alert_btn_negative">Отмена</string>
@@ -3966,9 +3967,9 @@
     <string name="go_to_sleep">Отключение экрана</string>
     <string name="google_account_title">Google</string>
     <string name="google_assistant_guide_cancel">Отмена</string>
-    <string name="google_assistant_guide_message">Запуск Google Ассистента длительным нажатием кнопки питания. Установить этот ярлык?</string>
+    <string name="google_assistant_guide_message">Запуск Google Ассистента удержанием кнопки питания %s сек. Установить этот ярлык?</string>
     <string name="google_assistant_guide_ok">Установить</string>
-    <string name="google_assistant_guide_tip">*Нажмите и удерживайте кнопку питания в течение %s сек. для вызова меню питания</string>
+    <string name="google_assistant_guide_tip">*Нажмите и удерживайте кнопку питания %s сек. для вызова меню питания</string>
     <string name="google_assistant_guide_title">Google Ассистент</string>
     <string name="google_assistant_label">Google Ассистент</string>
     <string name="google_backup_enable">Включить резервное копирование</string>
@@ -10401,7 +10402,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wallpaper_desktop">Рабочий стол</string>
     <string name="wallpaper_live">Живые обои</string>
     <string name="wallpaper_lockscreen">Экран блокировки</string>
-    <string name="wallpaper_setting_title">Обои</string>
+    <string name="wallpaper_setting_title">Обои для складных устройств</string>
     <string name="wallpaper_settings_fragment_title">Установка обоев</string>
     <string name="wallpaper_settings_summary_custom">Пользовательские</string>
     <string name="wallpaper_settings_summary_default">По умолчанию</string>
