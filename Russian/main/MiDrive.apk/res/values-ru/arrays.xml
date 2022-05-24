@@ -66,6 +66,6 @@
     <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
         <item>Для входа с использованием Mi аккаунта</item>
         <item>Для просмотра, загрузки и синхронизации файлов</item>
-        <item>Для обнаружения доступных обновлений</item>
+        <item>Для проверки доступных обновлений</item>
     </string-array>
 </resources>

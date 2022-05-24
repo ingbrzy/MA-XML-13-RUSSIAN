@@ -2999,6 +2999,7 @@ d MMMM"</string>
     <string name="time_picker_label_minute">М</string>
     <string name="time_unit_just_now">Сейчас</string>
     <string name="time_zone_gmt">GMT</string>
+    <string name="tip_close_flares">Уведомления о действиях приложения в текущем сеансе отключены</string>
     <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
     <string name="title_usb_accessory">USB-устройство</string>
     <string name="today">Сегодня</string>

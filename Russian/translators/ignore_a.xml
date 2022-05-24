@@ -340,6 +340,8 @@
     <string-array name="config_defaultPinnerServiceFiles"></string-array>
     <array name="config_default_vm_number" />
     <array name="config_deviceSpecificSystemServices" />
+    <array name="config_deviceStatesOnWhichToSleep" />
+    <array name="config_deviceStatesOnWhichToWakeUp" />
     <array name="config_device_lock_need" />
     <array name="config_device_state_postures" />
     <array name="config_disableApkUnlessMatchedSku_skus_list" />

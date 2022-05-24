@@ -2045,12 +2045,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_game_mode_change">Переключение между режимами отображения</string>
     <string name="gb_game_mode_change_btn_right">Перезапустить</string>
     <string name="gb_game_mode_change_message">Перезапустить игру, чтобы применить изменения?</string>
+    <string name="gb_game_mode_change_new">Переключение между макетами</string>
     <string name="gb_game_mode_change_title">Перезапуск игры</string>
     <string name="gb_game_mode_choose_game_area">Активная область</string>
     <string name="gb_game_mode_choose_title">Режим отображения</string>
+    <string name="gb_game_mode_choose_title_new">Выбор макета</string>
     <string name="gb_game_mode_empty">Ничего нет</string>
     <string name="gb_game_mode_fill">Весь экран</string>
     <string name="gb_game_mode_fill_type">Весь экран</string>
+    <string name="gb_game_mode_new">Макеты игр</string>
     <string name="gb_game_mode_ratio">Исходный</string>
     <string name="gb_game_mode_ratio_type">Исходный</string>
     <string name="gb_game_mode_recommend">" (рекомендуется)"</string>
@@ -2106,6 +2109,15 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_performance_mode">Игровой режим</string>
     <string name="gb_performance_tips">"Производительный режим повышает производительность графики,
 но увеличивает разряд батареи и вероятность перегрева"</string>
+    <string name="gb_predownload_dialog_cancel">Отмена</string>
+    <string name="gb_predownload_dialog_checked">Больше не показывать</string>
+    <string name="gb_predownload_dialog_confirm">Включить</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Включите автозагрузку обновлений игр при подключении к Wi-Fi и выключенном экране. Таким образом, вам будут доступны новые версии игр сразу после их выхода.&lt;br>&lt;br>Перед использованием этой функции необходимо принять &lt;a href=\"%1$s\">Заявление об обновлениях в фоновом режиме&lt;/a>."</Data></string>
+    <string name="gb_predownload_dialog_title">Доступны обновления в фоновом режиме</string>
+    <string name="gb_predownload_message">Обновляйте King of Glory, Game for Peace и другие игры в фоновом режиме, когда устройство не используется</string>
+    <string name="gb_predownload_noti_message">%2$1.2f ГБ обновления уже загружено. Оно станет доступно, как только выйдет новая версия.</string>
+    <string name="gb_predownload_noti_title">Обновление %s завершено</string>
+    <string name="gb_predownload_title">Обновления в фоновом режиме</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
     <string name="gb_shoulder_guide_message1">Переместите [Л] в любое функциональное положение для использования с навесным триггером.</string>
     <string name="gb_shoulder_guide_message2">Действие [1] активируется при нажатии кнопки. Действие [2] активируется при отпускании кнопки.</string>
@@ -2153,6 +2165,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_signed_gift_loading_fail">Ошибка загрузки</string>
     <string name="gb_signed_gift_loading_summary">Подождите…</string>
     <string name="gb_signed_title">Отметились в этом месяце</string>
+    <string name="gb_smart_battery_surplus_new">Осталось %1$s %2$s</string>
     <string name="gb_sound_audition">Попробовать</string>
     <string name="gb_storage_game_dialog_button_timer">%d сек.</string>
     <string name="gb_storage_game_dialog_message">Можно автоматически сохранять игры в Ускорении игр. При включении этой функции они не будут отображаться на рабочем столе. Включить функцию?</string>

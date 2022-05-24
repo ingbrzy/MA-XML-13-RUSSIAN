@@ -43,6 +43,7 @@
     <string name="air_space_exit">Выход</string>
     <string name="air_space_setting">Настройки пространства</string>
     <string name="airspace_users_full">Не удалось создать рабочее пространство</string>
+    <string name="alwaysUsePrompt">Запомнить выбор</string>
     <string name="appData">Приложения</string>
     <string name="app_name">Ядро системы безопасности</string>
     <string name="back">Назад</string>
@@ -695,6 +696,7 @@
     <string name="xspace_guide_description">"Каждый аккаунт
 содержит свои приложения"</string>
     <string name="xspace_guide_title">Попробуйте клонирование приложений</string>
+    <string name="xspace_head">Клон приложения</string>
     <string name="xspace_header">Клонированные</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Клон приложения успешно создан. &lt;/font>&lt;font color=#0D84FF>Открыть&lt;/font>.</string>
@@ -710,6 +712,7 @@
     <string name="xspace_notification_error">Войдите в клон WeChat и повторите попытку</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">Удалить аккаунты клонов</string>
+    <string name="xspace_resolver_activity_title">Выбор приложения</string>
     <string name="xspace_setting_label">Настройки клонирования</string>
     <string name="xspace_settins">Настройка</string>
     <string name="xspace_start">Создать</string>

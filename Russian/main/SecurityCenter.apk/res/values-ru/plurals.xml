@@ -324,6 +324,14 @@
         <item quantity="one">Отметились %d раз</item>
         <item quantity="few">Отметились %d дня подряд</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
     <plurals name="gb_smart_battery_surplus">
         <item quantity="other">Осталось %2$1.2f ч.</item>
         <item quantity="one">Остался %2$1.2f ч.</item>

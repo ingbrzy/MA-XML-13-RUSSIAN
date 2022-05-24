@@ -3750,7 +3750,9 @@
     <string name="fold_rule_default">По умолчанию</string>
     <string name="fold_rule_important">Важные</string>
     <string name="fold_rule_unimportant">Неважные</string>
+    <string name="fold_screen_application_adaptation_title">Настройка макетов для складных устройств</string>
     <string name="fold_screen_settings_title">Функции для складных устройств</string>
+    <string name="fold_screen_special_function_title">Функции для складных устройств</string>
     <string name="fold_title">Правила групповых уведомлений</string>
     <string name="following_us_title">Подпишитесь на нас</string>
     <string name="font_cta_alert_btn_negative">Отмена</string>
@@ -9433,7 +9435,9 @@ UT-интерфейс: %5$s"</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">Обновления системы</string>
     <string name="tab_text">Вкладка</string>
+    <string name="tablet_screen_application_adaptation_title">Настройка макетов для планшетов</string>
     <string name="tablet_screen_settings_title">Функции для планшетов</string>
+    <string name="tablet_screen_special_function_title">Функции для складных планшетов</string>
     <string name="take_call_on_title">Ответить с помощью</string>
     <string name="talkback_summary">Инструмент для озвучивания данных с экрана для людей с нарушениями зрения</string>
     <string name="talkback_title">Talkback</string>
