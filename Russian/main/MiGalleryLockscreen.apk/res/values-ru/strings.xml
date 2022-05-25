@@ -230,8 +230,10 @@
     <string name="detail_no_more_recomm">Больше ничего нет</string>
     <string name="detail_no_net">Не удалось подключиться к сети</string>
     <string name="detail_outer_menu_icon">Меню</string>
+    <string name="detail_recomm_excellent">Подборки</string>
     <string name="detail_recomm_fail">Не удалось загрузить истории</string>
     <string name="detail_recomm_load_tip">Загрузка историй…</string>
+    <string name="detail_recomm_personal">Рекомендуемые</string>
     <string name="detail_share_moment">Моменты</string>
     <string name="detail_share_qq">QQ</string>
     <string name="detail_share_qzone">Qzone</string>
@@ -440,6 +442,7 @@ ID:%s
     <string name="look_str">Популярные</string>
     <string name="main_fragment_title_discover">Тематические</string>
     <string name="main_fragment_title_home">Рекомендуемые</string>
+    <string name="main_fragment_title_home_excellent">Подборки</string>
     <string name="main_fragment_title_search">Популярные</string>
     <string name="main_fragment_title_user">Настройки</string>
     <string name="manage">Управление</string>
