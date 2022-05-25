@@ -321,7 +321,7 @@
     <string name="move_file_success">Успешно перемещено</string>
     <string name="music_format_not_support">Невозможно просмотреть этот файл</string>
     <string name="music_picker_title">Выберите аудиофайл</string>
-    <string name="music_play_attention_network_traffic">Использование мобильных данных для потоковой передачи аудио и видео может привести к дополнительным расходам.</string>
+    <string name="music_play_attention_network_traffic">Использование мобильных данных для потоковой передачи аудио и видео может привести к дополнительным тратам.</string>
     <string name="music_play_online">Потоковое</string>
     <string name="music_play_online_network_not_available">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="music_preview_download_failed">Не удалось загрузить</string>

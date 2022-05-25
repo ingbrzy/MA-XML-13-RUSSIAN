@@ -118,7 +118,7 @@
     <string name="dark_mode_suggest_message">Темный режим может автоматически включаться на закате и выключаться на рассвете. Включить эту функцию?</string>
     <string name="dark_mode_suggest_title">Автовключение режима</string>
     <string name="dark_mode_suggest_toast">Темный режим будет автоматически включаться на закате и выключаться на рассвете</string>
-    <string name="data_usage_context">Если Wi-Fi не включен, устройство подключится к мобильной сети, что может привести к дополнительным расходам в зависимости от вашего тарифного плана.</string>
+    <string name="data_usage_context">Если Wi-Fi не включен, устройство подключится к мобильной сети, что может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
     <string name="daydream">Грезы</string>
     <string name="default_device_name">Неизвестное устройство</string>
     <string name="default_name">По умолчанию</string>

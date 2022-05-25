@@ -1007,7 +1007,7 @@ ID: %s
     <string name="online_apk_install_alert_continue">Возобновить</string>
     <string name="online_apk_install_alert_failed_text">Не удалось загрузить. Повторите попытку.</string>
     <string name="online_apk_install_alert_message">Необходимо загрузить плагин Яндекс.Музыка. Загрузить его?</string>
-    <string name="online_apk_install_alert_mobile_net_text">Используется мобильный интернет. Это может привести к дополнительным расходам.</string>
+    <string name="online_apk_install_alert_mobile_net_text">Используется мобильный интернет. Это может привести к дополнительным тратам.</string>
     <string name="online_apk_install_alert_note">Услуга предоставлена сервисом Яндекс.Музыка</string>
     <string name="online_apk_install_alert_note_new">Онлайн-контент предоставлен %s</string>
     <string name="online_apk_install_alert_pause">Приостановить</string>

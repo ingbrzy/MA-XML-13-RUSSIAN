@@ -2378,7 +2378,7 @@ mm"</string>
     <string name="quick_settings_cellular_detail_data_used">%s использовано</string>
     <string name="quick_settings_cellular_detail_data_warning">%s предупреждение</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет (WCDMA/LTE) будет отключен. Если Wi-Fi отключен, вы не сможете использовать приложения, которым требуется передача данных. Отправка и получение мультимедийных сообщений будут ограничены.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включен мобильный интернет. Это может привести к дополнительным расходам, в зависимости от вашего тарифного плана.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включен мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отмена</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ОК</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Отключить</string>
@@ -2494,7 +2494,7 @@ mm"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">ОК</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Больше не показывать</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Переключение между сетями</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети вспомогательная сеть будет отключена.</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi требуются два разных диапазона Wi-Fi. При изменении основной сети дополнительная сеть будет отключена.</string>
     <string name="quick_settings_wifi_detail_empty_text">Нет доступных сетей Wi-Fi</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Выберите ближайшую сеть</string>

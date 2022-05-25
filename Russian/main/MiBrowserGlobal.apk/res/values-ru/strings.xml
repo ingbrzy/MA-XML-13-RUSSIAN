@@ -563,7 +563,7 @@
     <string name="data_traffic_download_setting">Настройки</string>
     <string name="data_traffic_download_toast_msg">Используется мобильный интернет для кеширования видео</string>
     <string name="data_traffic_goto">Пакет трафика</string>
-    <string name="data_traffic_prompt_free_data">Использование мобильного интернета для воспроизведения видео может привести к дополнительным расходам. Попробуйте использовать пакет целевого трафика.</string>
+    <string name="data_traffic_prompt_free_data">Использование мобильного интернета для воспроизведения видео может привести к дополнительным тратам. Попробуйте использовать пакет целевого трафика.</string>
     <string name="data_traffic_prompt_message">Использование мобильного интернета для просмотра видео увеличит расходы. При превышении лимита ваш оператор может взимать дополнительную плату.</string>
     <string name="data_traffic_prompt_title">Мобильный трафик</string>
     <string name="data_traffic_stop">Остановить</string>
@@ -1343,8 +1343,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_crashes_list_activity_title">Сбои WebView</string>
     <string name="mw_crashes_num">Сбои (%1$d)</string>
     <string name="mw_current_detected_ui_locale_name">ru-RU</string>
-    <string name="mw_data_traffic_prompt_change">Использование мобильного интернета для потокового видео может привести к дополнительным расходам. При превышении лимита тарифного плана, оператор будет взимать с вас дополнительную плату.</string>
-    <string name="mw_data_traffic_prompt_message">Использование мобильного интернета для потокового видео может привести к дополнительным расходам. При превышении лимита тарифного плана, оператор будет взимать с вас дополнительную плату.</string>
+    <string name="mw_data_traffic_prompt_change">Использование мобильного интернета для потокового видео может привести к дополнительным тратам. При превышении лимита тарифного плана, оператор будет взимать с вас дополнительную плату.</string>
+    <string name="mw_data_traffic_prompt_message">Использование мобильного интернета для потокового видео может привести к дополнительным тратам. При превышении лимита тарифного плана, оператор будет взимать с вас дополнительную плату.</string>
     <string name="mw_data_traffic_prompt_message_short">Использование мобильного интернета для потокового видео может привести к превышению лимита тарифного плана</string>
     <string name="mw_data_traffic_prompt_title">Предупреждение о трафике</string>
     <string name="mw_date_picker_dialog_clear">Очистить</string>
@@ -2228,7 +2228,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="short_video_gesture_btn">Понятно</string>
     <string name="short_video_gesture_hint">Сделайте свайп для просмотра следующего видео</string>
     <string name="short_video_net_dialog_continue">Воспроизвести</string>
-    <string name="short_video_net_dialog_title">Вы используете мобильный интернет. Использование мобильного интернета может привести к дополнительным расходам.</string>
+    <string name="short_video_net_dialog_title">Вы используете мобильный интернет. Использование мобильного интернета может привести к дополнительным тратам.</string>
     <string name="short_video_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="short_video_tip">Посмотри! Веселое видео</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Мы будем собирать и использовать ваши личные данные, если вы решите воспользоваться нашим сервисом.

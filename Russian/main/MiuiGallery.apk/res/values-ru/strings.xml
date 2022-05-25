@@ -227,7 +227,7 @@
     <string name="art_still_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="art_still_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="art_still_download_sdk_without_wifi_title">Загрузка плагина \"Арт\"</string>
-    <string name="art_still_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным расходам. Загрузить?</string>
+    <string name="art_still_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
     <string name="art_still_download_with_metered_network_title">Мобильный интернет</string>
     <string name="art_still_load_data_fail">Ошибка загрузки</string>
     <string name="art_still_module_finish">Плагин \"Арт\" успешно загружен</string>
@@ -707,7 +707,7 @@
     <string name="download_type_thumbnail_subtitle">Изображения высокого качества выглядят почти так же, как и оригинальные, но занимают меньше места на устройстве</string>
     <string name="download_type_thumbnail_title">Высокое качество</string>
     <string name="download_type_title">Качество изображений</string>
-    <string name="download_with_metered_network_msg">Загрузка оригинальных файлов может привести к дополнительным расходам. Загрузить?</string>
+    <string name="download_with_metered_network_msg">Загрузка оригинальных файлов может привести к дополнительным тратам. Загрузить?</string>
     <string name="download_with_metered_network_title">Мобильный интернет</string>
     <string name="download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="download_without_wifi_title">Предупреждение о трафике</string>
@@ -1050,7 +1050,7 @@
     <string name="filter_sky_download_finish">Плагин загружен</string>
     <string name="filter_sky_download_sdk_without_wifi_msg">Если нет подключения к Wi-Fi, вы можете использовать мобильный интернет для загрузки плагина (%1$dМБ), который позволяет заменить небо на ваших фотографиях.</string>
     <string name="filter_sky_download_sdk_without_wifi_title">Загрузка плагина</string>
-    <string name="filter_sky_download_with_metered_network_msg">Использование мобильного интернета для загрузки файлов может привести к дополнительным расходам. Загрузить?</string>
+    <string name="filter_sky_download_with_metered_network_msg">Использование мобильного интернета для загрузки файлов может привести к дополнительным тратам. Загрузить?</string>
     <string name="filter_sky_download_with_metered_network_title">Мобильный интернет</string>
     <string name="filter_sky_dusk">Закат</string>
     <string name="filter_sky_dynamic_duoyun">Облачность</string>
@@ -1224,7 +1224,7 @@
     <string name="id_photo_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="id_photo_download_sdk_without_wifi_title">Загрузка плагина \"Фото на документы\"</string>
-    <string name="id_photo_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным расходам. Загрузить?</string>
+    <string name="id_photo_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
     <string name="id_photo_download_with_metered_network_title">Мобильный интернет</string>
     <string name="id_photo_load_data_fail">Ошибка загрузки</string>
     <string name="id_photo_module_finish">Плагин \"Фото на документы\" успешно загружен</string>
@@ -1381,7 +1381,7 @@
     <string name="magic_matting_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="magic_matting_download_sdk_without_wifi_title">Загрузка плагина \"Магия\"</string>
-    <string name="magic_matting_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным расходам. Загрузить?</string>
+    <string name="magic_matting_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
     <string name="magic_matting_download_with_metered_network_title">Мобильный интернет</string>
     <string name="magic_matting_error_px">Данный размер изображения не поддерживается</string>
     <string name="magic_matting_face_fail">Не удалось обработать</string>
@@ -1389,7 +1389,7 @@
     <string name="magic_matting_module_finish">Плагин \"Магия\" успешно загружен</string>
     <string name="magic_matting_module_loading">Загрузка плагина \"Магия\"…</string>
     <string name="magic_max_px">Изображение слишком большое</string>
-    <string name="magic_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным расходам. Загрузить?</string>
+    <string name="magic_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
     <string name="magic_metered_network_title">Мобильный интернет</string>
     <string name="magic_mix_px">Изображение слишком маленькое</string>
     <string name="magic_more_fact">Несколько человек на фото</string>
@@ -1642,7 +1642,7 @@
     <string name="movie_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
     <string name="movie_download_sdk_without_wifi_msg">Отсутствует подключение Wi-Fi. Загрузить требуемый плагин (3 МБ) через мобильный интернет?</string>
     <string name="movie_download_sdk_without_wifi_title">Предупреждение о трафике</string>
-    <string name="movie_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным расходам. Загрузить?</string>
+    <string name="movie_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным тратам. Загрузить?</string>
     <string name="movie_download_with_metered_network_title">Мобильный интернет</string>
     <string name="movie_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="movie_download_without_wifi_title">Предупреждение о трафике</string>
@@ -1690,7 +1690,7 @@
     <string name="need_to_turn_on_sync_first">Включите синхронизацию с облаком</string>
     <string name="need_to_turn_on_wlan">Подключитесь к Wi-Fi</string>
     <string name="network_connected_rescan">Не удалось подключиться к сети</string>
-    <string name="network_message">Для нормальной работы этой функции необходимо подключение к сети. Устройство не подключено к Wi-Fi. Использовать мобильный интернет? Это может привести к дополнительным расходам.</string>
+    <string name="network_message">Для нормальной работы этой функции необходимо подключение к сети. Устройство не подключено к Wi-Fi. Использовать мобильный интернет? Это может привести к дополнительным тратам.</string>
     <string name="network_title">Подключение к сети</string>
     <string name="new_album_invalid_byte">Имя слишком длинное</string>
     <string name="new_album_invalid_char">Имя альбома не может содержать \"%s\", введите букву или цифру.</string>
@@ -1735,7 +1735,7 @@
     <string name="ocr_title">Результат</string>
     <string name="ocr_using_cellular_negative">Распознать</string>
     <string name="ocr_using_cellular_positive">Отмена</string>
-    <string name="ocr_using_cellular_text">Использование мобильного интернета для распознавания текста может привести к дополнительным расходам. Продолжить?</string>
+    <string name="ocr_using_cellular_text">Использование мобильного интернета для распознавания текста может привести к дополнительным тратам. Продолжить?</string>
     <string name="ok">ОК</string>
     <string name="onekey_auto">Авто</string>
     <string name="onekey_beautify_tag_done">Эффекты применены</string>
@@ -1931,7 +1931,7 @@
     <string name="photo_editor_remover2_download_finish">AI Erase 2.0 успешно загружен</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить AI Erase 2.0 (%1$d MБ) через мобильный интернет?</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_title">Загрузка AI Erase 2.0</string>
-    <string name="photo_editor_remover2_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным расходам. Загрузить?</string>
+    <string name="photo_editor_remover2_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
     <string name="photo_editor_remover2_download_with_metered_network_title">Мобильный интернет</string>
     <string name="photo_editor_remover2_edit_type_free">Вручную</string>
     <string name="photo_editor_remover2_edit_type_line">Удалить линии</string>
@@ -2973,7 +2973,7 @@
     <string name="video_editor_down_load_now">Загрузить</string>
     <string name="video_editor_download">Загрузить</string>
     <string name="video_editor_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
-    <string name="video_editor_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным расходам. Загрузить?</string>
+    <string name="video_editor_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным тратам. Загрузить?</string>
     <string name="video_editor_download_with_metered_network_title">Мобильный интернет</string>
     <string name="video_editor_download_without_wifi_msg">Использование мобильного интернета для загрузки файлов увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="video_editor_download_without_wifi_title">Предупреждение о трафике</string>
@@ -3063,7 +3063,7 @@
     <string name="video_post_download_sdk_without_wifi_msg">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="video_post_download_sdk_without_wifi_msg_china">Устройство не подключено к Wi-Fi. Загрузить плагин через мобильный интернет?</string>
     <string name="video_post_download_sdk_without_wifi_title">Загрузка плагина \"Видеоэффекты\"</string>
-    <string name="video_post_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным расходам. Загрузить?</string>
+    <string name="video_post_download_with_metered_network_msg">Загрузка файлов через мобильный интернет может привести к дополнительным тратам. Загрузить?</string>
     <string name="video_post_download_with_metered_network_title">Мобильный интернет</string>
     <string name="video_post_load_data_fail">Ошибка загрузки</string>
     <string name="video_post_module_finish">Плагин \"Видеоэффекты\" успешно загружен</string>
@@ -3120,7 +3120,7 @@
     <string name="vlog_caption_ai_connecting">Скачивание плагина для создания субтитров…</string>
     <string name="vlog_caption_ai_error">Не удалось создать субтитры</string>
     <string name="vlog_caption_ai_generating">Создание субтитров…</string>
-    <string name="vlog_caption_ai_metered_network_msg">Использование мобильного интернета для создания субтитров может привести к дополнительным расходам. Продолжить?</string>
+    <string name="vlog_caption_ai_metered_network_msg">Использование мобильного интернета для создания субтитров может привести к дополнительным тратам. Продолжить?</string>
     <string name="vlog_caption_ai_metered_network_title">Мобильный интернет</string>
     <string name="vlog_caption_ai_network_unavailable">Ошибка подключения к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="vlog_caption_ai_no_detect">Не удалось создать субтитры</string>
@@ -3152,7 +3152,7 @@
     <string name="vlog_download_failed_for_notwork">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
     <string name="vlog_download_sdk_without_wifi_msg">Не удалось подключиться к Wi-Fi.  Вы можете использовать мобильный интернет для загрузки видеоредактора.</string>
     <string name="vlog_download_sdk_without_wifi_title">Загрузка видеоредактора…</string>
-    <string name="vlog_download_with_metered_network_msg">Использование мобильного интернета для загрузки исходных файлов может привести к дополнительным расходам. Загрузить?</string>
+    <string name="vlog_download_with_metered_network_msg">Использование мобильного интернета для загрузки исходных файлов может привести к дополнительным тратам. Загрузить?</string>
     <string name="vlog_download_with_metered_network_title">Мобильный интернет</string>
     <string name="vlog_downloading_cloud_file">Загрузка файлов из облака…</string>
     <string name="vlog_editor_talkback_ratio_239_1">Два целых тридцать девять десятых к одному</string>

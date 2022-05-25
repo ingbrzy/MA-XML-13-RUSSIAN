@@ -346,7 +346,7 @@ ID:%s
     <string name="lks_cta_title">Условия и положения</string>
     <string name="lks_current_lks_wallpaper">Текущий экран блокировки</string>
     <string name="lks_data_warning_toast_1">"Для просмотра обоев используется мобильный интернет.
-Это может привести к дополнительным расходам."</string>
+Это может привести к дополнительным тратам."</string>
     <string name="lks_dislike">Не нравится</string>
     <string name="lks_download">Загрузить</string>
     <string name="lks_left_net_deny">Сетевое подключение ограничено</string>

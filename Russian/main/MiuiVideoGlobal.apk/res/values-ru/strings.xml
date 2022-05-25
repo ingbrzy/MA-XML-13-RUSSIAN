@@ -1094,7 +1094,7 @@ ID: %s
     <string name="no_recommend_data">Нет рекомендаций</string>
     <string name="no_subscriptions">Ничего нет</string>
     <string name="noon">Полдень</string>
-    <string name="not_connect_wifi_tip">Загрузка файлов с использованием мобильного интернета может привести к дополнительным расходам. Все равно загрузить?</string>
+    <string name="not_connect_wifi_tip">Загрузка файлов с использованием мобильного интернета может привести к дополнительным тратам. Все равно загрузить?</string>
     <string name="not_set">Не задано</string>
     <string name="not_show">Больше не показывать</string>
     <string name="not_support_share">Не удалось поделиться</string>

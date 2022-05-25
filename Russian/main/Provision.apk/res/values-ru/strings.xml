@@ -89,7 +89,7 @@
     <string name="cookies_content_two">Требуется разрешение на использование файлов cookie доверенными сторонними поставщиками контента, для персонализации рекомендаций по контенту и рекламы.</string>
     <string name="cookies_title">Персонализированный контент и файлы cookies</string>
     <string name="copy">Копировать</string>
-    <string name="data_traffic_enable_dialog_title">При отсутствии подключения к Wi-Fi, устройство будет использовать мобильный интернет. Это может привести к дополнительным расходам.</string>
+    <string name="data_traffic_enable_dialog_title">При отсутствии подключения к Wi-Fi, устройство будет использовать мобильный интернет. Это может привести к дополнительным тратам.</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="desc_extra_fingerprint" />
@@ -262,7 +262,7 @@
     <string name="more">Еще</string>
     <string name="morning">Утро</string>
     <string name="move_data_dialog_box_le">Разрешение использовать мобильный интернет и соединение GPS по запросу пользователя. Мобильный интернет может потребоваться для синхронизации учетных записей и других данных, в зависимости от характеристик устройства.</string>
-    <string name="move_data_dialog_box_title">Если у вас нет тарифного плана с неограниченным трафиком, использование мобильного интернета может привести к дополнительным расходам. Все равно использовать мобильный интернет?</string>
+    <string name="move_data_dialog_box_title">Если у вас нет тарифного плана с неограниченным трафиком, использование мобильного интернета может привести к дополнительным тратам. Все равно использовать мобильный интернет?</string>
     <string name="move_data_dialog_cancel">Отмена</string>
     <string name="move_data_dialog_title">Вы можете ограничить использование мобильного интернета в настройках позже</string>
     <string name="move_data_dialog_use">Использовать</string>

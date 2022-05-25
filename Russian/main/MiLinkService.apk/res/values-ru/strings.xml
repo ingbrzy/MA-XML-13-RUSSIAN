@@ -35,8 +35,8 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
-    <string name="close_slave_wifi_hint">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
-    <string name="close_slave_wifi_hint_china">Отключите вспомогательную сеть Wi-Fi перед трансляцией</string>
+    <string name="close_slave_wifi_hint">Отключите дополнительную сеть Wi-Fi перед трансляцией</string>
+    <string name="close_slave_wifi_hint_china">Отключите дополнительную сеть Wi-Fi перед трансляцией</string>
     <string name="connect_device_fail">Не удалось подключиться к устройству</string>
     <string name="console_guide_btn_got_it">Понятно</string>
     <string name="console_guide_subtitle_hang_up">Можно продолжать трансляцию при выключенном экране устройства (это может привести к повышенному расходу батареи).</string>
