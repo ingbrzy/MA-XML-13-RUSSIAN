@@ -285,7 +285,7 @@ dd.MM"</string>
     <string name="select_notification_notify_style">Эффекты уведомлений</string>
     <string name="send">Отправить</string>
     <string name="share">Отправить</string>
-    <string name="share_to_community">Отправить в Mi Community</string>
+    <string name="share_to_community">Отправить в Xiaomi Community</string>
     <string name="show_battery">Показывать состояние батареи</string>
     <string name="show_battery_status">Показывать состояние батареи</string>
     <string name="show_lunar">Показывать традиционный китайский календарь</string>
@@ -325,7 +325,7 @@ dd.MM"</string>
     <string name="step_component_info_active_tip">Подсчет шагов предоставлен Xiaomi Health. Для продолжения примите условия Xiaomi Health.</string>
     <string name="step_component_info_desc">При достижении цели количества шагов вы получите трофей. Подсчет шагов предоставлен Xiaomi Health.</string>
     <string name="step_component_info_tip">Подсчет шагов предоставлен Xiaomi Health. Установите или обновите приложение Здоровье и примите необходимые условия для продолжения работы.</string>
-    <string name="step_to_image_community">Поиск в Mi Community</string>
+    <string name="step_to_image_community">Поиск в Xiaomi Community</string>
     <string name="summary">Если устройство долгое время находится в темноте, элементы не будут отображаться для экономии заряда.</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>

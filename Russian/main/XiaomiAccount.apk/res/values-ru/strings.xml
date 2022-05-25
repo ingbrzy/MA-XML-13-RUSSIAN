@@ -111,6 +111,7 @@ ID вашего аккаунта: %s"</string>
     <string name="area_code_search_hint">Поиск страны или региона</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
     <string name="authorize_title">Авторизация</string>
+    <string name="auto_fill_not_sport_on_water_mark_version">Автозаполнение при входе не поддерживается в версиях с водяными знаками</string>
     <string name="bind_facebook">Подключите аккаунт Facebook</string>
     <string name="bind_google">Подключите аккаунт Google</string>
     <string name="bind_qq">QQ</string>
@@ -344,7 +345,7 @@ ID:%s
     <string name="mi_finance">Мои финансы</string>
     <string name="mi_finance_info">Бонусы для новых пользователей</string>
     <string name="mi_health">Здоровье</string>
-    <string name="mi_member">Xiaomi Сообщество</string>
+    <string name="mi_member">Xiaomi Community</string>
     <string name="mi_vip_info">Просмотреть привилегии</string>
     <string name="midnight">Ночь</string>
     <string name="mipay">Оплата</string>
