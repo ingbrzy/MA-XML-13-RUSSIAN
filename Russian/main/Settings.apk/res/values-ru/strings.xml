@@ -6585,6 +6585,7 @@
     <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Уведомления</string>
     <string name="now">Перезагрузить</string>
+    <string name="nrca_need_reset">Перезагрузите устройство для применения изменений</string>
     <string name="nrca_switch_title">Агрегация несущих 5G</string>
     <string name="number_of_device_admins_none">Нет активных приложений</string>
     <string name="oaid_apps_summary">Настройка доступа для отдельных приложений</string>

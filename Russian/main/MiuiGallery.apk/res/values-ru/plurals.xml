@@ -98,6 +98,11 @@
         <item quantity="one">%1$d файл</item>
         <item quantity="few">%1$d файла</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d моментов</item>
+        <item quantity="one">%d момент</item>
+        <item quantity="few">%d момента</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">Будет добавлено %1$d фото из %2$s</item>
         <item quantity="one">Будет добавлено %1$d фото из %2$s</item>
@@ -636,6 +641,14 @@
         <item quantity="other">%1$s, %2$s элементов</item>
         <item quantity="one">%1$s, %2$s элемент</item>
         <item quantity="few">%1$s, %2$s элемента</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d выбранных файлов будут безвозвратно удалены из облака и со всех синхронизированных устройств. Все равно удалить?</item>

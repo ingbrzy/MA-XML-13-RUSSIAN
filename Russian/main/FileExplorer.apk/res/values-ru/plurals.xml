@@ -57,11 +57,21 @@
     <item quantity="one">%1$d день назад</item>
     <item quantity="few">%1$d дня назад</item>
   </plurals>
+    <plurals name="delete_files">
+    <item quantity="other">Удалить %1$d файлов?</item>
+    <item quantity="one">Удалить %1$d файл?</item>
+    <item quantity="few">Удалить %1$d файла?</item>
+    </plurals>
     <plurals name="delete_files_confirm">
     <item quantity="other">Удалить %1$d файлов</item>
     <item quantity="one">Удалить %1$d файл</item>
     <item quantity="few">Удалить %1$d файла</item>
   </plurals>
+    <plurals name="delete_folders">
+    <item quantity="other">Удалить %1$d папок?</item>
+    <item quantity="one">Удалить %1$d папку?</item>
+    <item quantity="few">Удалить %1$d папки?</item>
+    </plurals>
     <plurals name="delete_folders_confirm">
     <item quantity="other"> и %1$d папок?</item>
     <item quantity="one"> и %1$d папку?</item>

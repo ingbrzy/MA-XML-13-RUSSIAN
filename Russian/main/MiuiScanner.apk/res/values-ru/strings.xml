@@ -45,9 +45,11 @@
     <string name="agree_app_use">Сканирование QR-кодов и изображений (для некоторых функций может потребоваться разрешение использовать геолокацию)</string>
     <string name="agree_audio_permission">Для записи аудио</string>
     <string name="agree_btn">Принимаю</string>
-    <string name="agree_camera_permission">Для съемки фото и записи видео</string>
+    <string name="agree_camera_permission">Для использования камеры в качестве сканера</string>
+    <string name="agree_camera_permission_message">Для использования камеры в качестве сканера</string>
     <string name="agree_monitor_use">Для проверки внимания во время онлайн-занятий. Все личные данные будут сохранены локально</string>
-    <string name="agree_storage_permission">Для доступа к фото и файлам на устройстве</string>
+    <string name="agree_storage_permission">Для доступа к изображениям в галерее, импорта и сохранения файлов</string>
+    <string name="agree_storage_permission_message">Для доступа к изображениям в галерее, импорта и сохранения файлов</string>
     <string name="all_text">Весь текст</string>
     <string name="already_ocr_result">Автоматически выбранный текст</string>
     <string name="always">Всегда</string>
@@ -116,6 +118,7 @@
     <string name="code_always">Запомнить выбор</string>
     <string name="code_determine">ОК</string>
     <string name="code_result">Результаты</string>
+    <string name="come_back_picture">Назад</string>
     <string name="common_google_play_services_enable_button">Включить</string>
     <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
     <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
@@ -825,6 +828,8 @@
     <string name="to_date">Сегодня</string>
     <string name="to_install_title">Этот QR-код перенаправляет вас в удаленное приложение. Скачать это приложение сейчас?</string>
     <string name="to_pay">Оплатить</string>
+    <string name="toast_net_2g">Плохая связь. Попробуйте другую сеть.</string>
+    <string name="toast_net_timeout">Истек таймаут запроса. Попробуйте позже.</string>
     <string name="today">Сегодня</string>
     <string name="toinstall">Загрузить</string>
     <string name="tomorrow">Завтра</string>

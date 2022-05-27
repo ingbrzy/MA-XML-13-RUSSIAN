@@ -1891,6 +1891,7 @@
     <string name="nr_usaged_network_usaged">Данные за сегодня</string>
     <string name="nr_usaged_operator">Оператор</string>
     <string name="nr_usaged_used_time">Длительность использования</string>
+    <string name="nrca_need_reset">Перезагрузите устройство для применения изменений</string>
     <string name="nrca_switch_summary">Использовать агрегацию несущих 5G для улучшения связи</string>
     <string name="nrca_switch_title">Использование NRCA</string>
     <string name="number">Номер</string>

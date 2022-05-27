@@ -141,7 +141,7 @@
     <string name="adb_install_reject_notiy_desc">Разрешить установку через USB можно в настройках разработчика</string>
     <string name="adb_login_xiaomi_account">Сначала войдите в Mi Аккаунт</string>
     <string name="add_auto_task_desktop_icon">Добавить ярлык на рабочий стол</string>
-    <string name="add_bill_reminder_alarm">Настройка предупреждений о балансе</string>
+    <string name="add_bill_reminder_alarm">Предупреждение о балансе</string>
     <string name="add_done">Успешно добавлено</string>
     <string name="add_game">Добавить</string>
     <string name="add_game_notification_summary">Нажмите для запуска и ускорения.</string>
@@ -1206,7 +1206,7 @@
     <string name="daily_card_setting_fragment_daily_card_setting">Настройки суточного тарифа</string>
     <string name="daily_card_setting_fragment_daily_card_summary">MIUI установит лимиты трафика в соответствии с выбранным оператором. Если ваш оператор отсутствует в списке, выберите \"Другой\" и настройте суточный тариф вручную.</string>
     <string name="daily_card_setting_fragment_daily_package">Суточный лимит</string>
-    <string name="daily_card_setting_fragment_month_package">Месячный лимит</string>
+    <string name="daily_card_setting_fragment_month_package">Ежемесячный лимит</string>
     <string name="daily_card_setting_fragment_package_summary">Если ваш суточный тариф включает в себя месячный пакет, он будет использован до суточного пакета</string>
     <string name="daily_limit_and_lock_screen">Лимиты и уведомления</string>
     <string name="daily_limit_network_available_body">Нажмите для просмотра.</string>
@@ -5512,11 +5512,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="traffic_limit_input">Порог предупреждения о трафике (необязательно)</string>
     <string name="traffic_none">Нет</string>
     <string name="traffic_over_purchase_link">"Вы достигли лимита трафика.&lt;br/&gt;Если вы превысите лимит, ваш оператор связи может взимать дополнительную плату.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Нажмите для пополнения баланса.&lt;/U&gt;&lt;/font&gt;"</string>
-    <string name="traffic_provider_no_sim">SIM-карта отсутствует</string>
+    <string name="traffic_provider_no_sim">Нет SIM-карты</string>
     <string name="traffic_purchase_body">Нажмите для пополнения баланса.</string>
-    <string name="traffic_remind">Предупреждать о трафике</string>
+    <string name="traffic_remind">"Предупреждать о трафике "</string>
     <string name="traffic_remind_switch">"Предупреждать о трафике "</string>
-    <string name="traffic_reminder_settings">Настройка предупреждения о трафике</string>
+    <string name="traffic_reminder_settings">Предупреждение о трафике</string>
     <string name="traffic_setting_fragment_area">Местоположение</string>
     <string name="traffic_setting_fragment_brand">Бренд</string>
     <string name="traffic_setting_fragment_button1_text">Отмена</string>
