@@ -295,6 +295,9 @@
     <string name="other_settings_enhanced_lockscreen_privacy_index">Политика конфиденциальности</string>
     <string name="other_settings_enhanced_lockscreen_summary">Получайте ежедневные подборки изображений на экран блокировки. %1$s и %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Лицензионное соглашение с конечным пользователем</string>
+    <string name="other_settings_get_apps">Автообновление приложений</string>
+    <string name="other_settings_get_apps_summary">"Автоматически обновлять системные и сторонние приложения с использованием GetApps.
+Автообновления можно отключить в GetApps > Настройки > Автообновление."</string>
     <string name="other_settings_location">Геолокация</string>
     <string name="other_settings_location_summary">Разрешение приложениям использовать геолокацию для предоставления услуг на основе местоположения</string>
     <string name="other_settings_quality_service">Разрешения MIUI Daemon</string>

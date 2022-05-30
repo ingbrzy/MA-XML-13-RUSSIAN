@@ -359,6 +359,10 @@
         <item quantity="one">Будет сброшен %1$d аккаунт</item>
         <item quantity="few">Будет сброшено %1$d аккаунта</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Не более %d процессов</item>
+        <item quantity="one">Не более %d процесса</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">За %2$s память использовали %1$d приложений</item>
         <item quantity="one">За %2$s память использовало %1$d приложение</item>
@@ -615,6 +619,33 @@
         <item quantity="other">%d приложений с показом уведомлений</item>
         <item quantity="one">%d приложение с показом уведомлений</item>
         <item quantity="few">%d приложения с показом уведомлений</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Через %d мин.</item>
+        <item quantity="one">Через %d мин.</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d бит/отсчет</item>
+        <item quantity="one">%d бит/отсчет</item>
+    </plurals>
+    <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d рекомендаций</item>

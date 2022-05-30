@@ -67,6 +67,7 @@
     <string name="access_control_password_title">Использовать пароль</string>
     <string name="access_control_recording_intro_header">Задайте графический ключ</string>
     <string name="access_control_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
+    <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_audio_adjustment_title">Корректировка аудио</string>
     <string name="accessibility_autoclick_custom_title">Настройка</string>
@@ -888,8 +889,8 @@
     <string name="auto_caps">Заглавные автоматически</string>
     <string name="auto_caps_summary">Использовать автоматическую подстановку заглавных букв в начале предложений.</string>
     <string name="auto_clean_description">"О функции
-1. Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
-2. Если динамик сильно загрязнен, запустите эту функцию 2-5 раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
+%3$d. Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
+%4$d. Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
     <string name="auto_clean_description_pad">"О функции
 - Если динамик слегка загрязнен, запустите эту функцию 1-2 раза.
 - Если динамик сильно загрязнен, запустите эту функцию %1$d-%2$d раз, встряхивая устройство так, чтобы динамик был направлен вниз."</string>
@@ -1850,10 +1851,12 @@
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Свойства</string>
+    <string name="bt_leaudio_cg_dialog_summary">После включения LC3 некоторые функции будут недоступны. LC3 не поддерживает подключение несколько устройств к гарнитуре. Если подключено два устройства, сначала отключите одно из них. Включить LC3?</string>
     <string name="bt_leaudio_open_dialog_summary">LC3 не поддерживает подключение несколько устройств к гарнитуре. Другие подключенные устройства будут отключены. Включить LC3?</string>
     <string name="bt_leaudio_open_dialog_title">Внимание</string>
     <string name="bt_leaudio_pre_title">LC3</string>
     <string name="bt_leaudio_summary">Высокое качество звука</string>
+    <string name="bt_leaudio_support_multi_dialog_summary">После включения LC3 некоторые функции будут недоступны. Включить LC3?</string>
     <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но также увеличивает энергопотребление.
 Эту функцию можно отключить в Настройках"</string>
@@ -2169,6 +2172,7 @@
     <string name="codec_low_latency_video_summary">Минимальная задержка звука в играх и видео при синхронизации</string>
     <string name="codec_low_latency_zmi_summary">Минимальная задержка звука и улучшение звуковых эффектов в играх</string>
     <string name="codec_low_latency_zmi_title">Минимальная задержка в играх</string>
+    <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="color_black">Черный</string>
     <string name="color_blue">Синий</string>
     <string name="color_calibration_none">Натуральный</string>
@@ -2533,6 +2537,11 @@
     <string name="dark_color_mode">Темный режим</string>
     <string name="dark_color_summary_lcd">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим снижает напряжение глаз при использовании устройства в темноте.</string>
     <string name="dark_color_summary_oled">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим уменьшает энергопотребление и снижает напряжение глаз.</string>
+    <string name="dark_mode_alert_dialog_cancel">Отмена</string>
+    <string name="dark_mode_alert_dialog_checkbox">Больше не показывать</string>
+    <string name="dark_mode_alert_dialog_confirm">Включить</string>
+    <string name="dark_mode_alert_dialog_message">Это приложение может неправильно отображаться в темном режиме. Все равно включить темный режим?</string>
+    <string name="dark_mode_alert_dialog_title">Внимание</string>
     <string name="dark_mode_apps_header">Выбранные приложения</string>
     <string name="dark_mode_auto_time_summary">Включение и выключение темного режима в заданное время</string>
     <string name="dark_mode_auto_time_title">Пользовательское</string>
@@ -2901,6 +2910,10 @@
     <string name="device_total_memory">"Всего "</string>
     <string name="device_usage_list_summary">Использование устройства с момента полной зарядки</string>
     <string name="devices_title">Устройства</string>
+    <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
+    <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
+ID: %s
+Отправьте этот код руководителю."</string>
     <string name="dial_application_title">Вызов</string>
     <string name="dial_pad_tones_title">Звук набора номера</string>
     <string name="dialog_background_check_message">"Повышенный расход батареи, приложение %1$s часто выводит устройство из спящего режима.
@@ -3789,6 +3802,7 @@
     <string name="font_size_summary1">"Если шрифт слишком мал, попробуйте "</string>
     <string name="font_size_summary2">Простой режим.</string>
     <string name="footer_learn_more_content_description">Подробнее о сервисе \"%1$s\"</string>
+    <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="forbidden_network">(доступ запрещен)</string>
     <string name="forbidden_set_unlock_password_msg">Пароль не может быть установлен или изменен при активном режиме обслуживания</string>
     <string name="forbidden_switch_apn_string">Выбранные настройки точки доступа не соответствуют текущему типу сети</string>
@@ -3806,7 +3820,8 @@
     <string name="force_immersive_compatibility_hint_message">При скрытии экранных кнопок некоторые приложения могут работать неправильно.</string>
     <string name="force_immersive_compatibility_hint_title">Проблемы совместимости</string>
     <string name="force_msaa">Включить 4x MSAA</string>
-    <string name="force_msaa_new">Включить %dx MSAA</string>
+    <string name="force_msaa_new">Включить 4x MSAA</string>
+    <string name="force_msaa_prefrence_summary_new">Включить 4x MSAA в %1$.1f приложениях OpenGL ES 2.0</string>
     <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
     <string name="force_msaa_summary_new">Включить %2$dx MSAA в приложениях OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Изменение размера окон</string>
@@ -6213,6 +6228,7 @@
     <string name="network_detail">Свойства сети %s</string>
     <string name="network_disconnected">Отключено</string>
     <string name="network_error">Ошибка сети</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_global">Глобальная</string>
     <string name="network_id">ID сети</string>
     <string name="network_lte">LTE (рекомендуется)</string>
@@ -6238,6 +6254,7 @@
     <string name="network_speed_for_apps_title">Подключение</string>
     <string name="network_speed_for_apps_total">Скорость подключения</string>
     <string name="network_state_label">Состояние сети:</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
     <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
     <string name="networkid_label">"ID сети: "</string>
@@ -6602,6 +6619,7 @@
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Недоступно на устройствах, привязанных к оператору</string>
     <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>
     <string name="off">Откл.</string>
+    <string name="ok">ОК</string>
     <string name="ok_rules">Готово</string>
     <string name="okay">ОК</string>
     <string name="oldman_app_label">Простой режим</string>
@@ -7259,6 +7277,7 @@ OTG отключается автоматически через 10 минут �
     <string name="progress_dialog_speaker_auto_clean_button">Остановить</string>
     <string name="progress_dialog_speaker_auto_clean_title">Очистка динамика…</string>
     <string name="progress_scanning">Поиск</string>
+    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
     <string name="promote_conversation_summary">Добавить в раздел диалогов</string>
     <string name="promote_conversation_title">Это диалог</string>
     <string name="provider_internet_settings">Интернет</string>
@@ -8368,6 +8387,8 @@ UT-интерфейс: %5$s"</string>
     <string name="select_webview_provider_title">Сервис WebView</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
     <string name="send">Отправить</string>
+    <string name="send_diagnosis_log">Отправить журнал</string>
+    <string name="sending">Отправка…</string>
     <string name="sensor_toggle_description">Для всех приложений и сервисов</string>
     <string name="sensors_off_quick_settings_title">Датчики отключены</string>
     <string name="separate_keyboard">Эргономичная клавиатура</string>
@@ -9208,6 +9229,10 @@ UT-интерфейс: %5$s"</string>
     <string name="string_int_second">%d сек.</string>
     <string name="string_int_seconds">%d сек.</string>
     <string name="string_kHz">%.1f кГц</string>
+    <string name="string_kHz_1">%.1f кГц</string>
+    <string name="string_kHz_2">%.1f кГц</string>
+    <string name="string_kHz_3">%.1f кГц</string>
+    <string name="string_kHz_4">%.1f кГц</string>
     <string name="string_never">Никогда</string>
     <string name="string_off">Откл.</string>
     <string name="string_offed">Вкл.</string>
@@ -9425,6 +9450,7 @@ UT-интерфейс: %5$s"</string>
     <string name="system_dashboard_summary">Язык, жесты, время, резервное копирование</string>
     <string name="system_default_app">(по умолчанию)</string>
     <string name="system_default_app_subtext">По умолчанию</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="system_haptic_feedback">Виброотклик</string>
     <string name="system_navigation_title">Системная навигация</string>
     <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
@@ -9438,7 +9464,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tab_text">Вкладка</string>
     <string name="tablet_screen_application_adaptation_title">Настройка макетов для планшетов</string>
     <string name="tablet_screen_settings_title">Функции для планшетов</string>
-    <string name="tablet_screen_special_function_title">Функции для складных планшетов</string>
+    <string name="tablet_screen_special_function_title">Функции для планшетов</string>
     <string name="take_call_on_title">Ответить с помощью</string>
     <string name="talkback_summary">Инструмент для озвучивания данных с экрана для людей с нарушениями зрения</string>
     <string name="talkback_title">Talkback</string>
@@ -9449,6 +9475,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tap_to_wake">Включение нажатием</string>
     <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы включить устройство</string>
     <string name="taplus_title">Taplus</string>
+    <string name="temporary_not_available">Временно недоступно</string>
     <string name="temporary_style">В течение 10 секунд после нажатия</string>
     <string name="terms_title">Условия использования</string>
     <string name="testing">Проверка</string>
@@ -9749,6 +9776,7 @@ UT-интерфейс: %5$s"</string>
     <string name="uninstall_xspace_app_dlg_title">Удалить клон приложения?</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknown_app">Неизвестное приложение</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unknown_unavailability_setting_summary">Настройка недоступна.</string>
     <string name="unlock_change_lock_password_title">Изменить пароль</string>
     <string name="unlock_change_lock_pattern_title">Изменить графический ключ</string>
