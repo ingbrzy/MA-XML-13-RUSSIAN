@@ -84,7 +84,7 @@
     <string name="friday_shortest">Пт</string>
     <string name="invalid_package_signature">Неверная подпись приложения</string>
     <string name="login_mi_account_alert">Внимание</string>
-    <string name="login_mi_account_summary">Менеджер паролей синхронизирует пароли с Mi аккаунтом. Войти?</string>
+    <string name="login_mi_account_summary">Менеджер паролей синхронизирует пароли с Xiaomi аккаунтом. Войти?</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>

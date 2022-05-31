@@ -110,7 +110,7 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
-    <string name="four_note">Тест займет около 3 минут.</string>
+    <string name="four_note">Тест займет около %d минут.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -268,7 +268,7 @@
     <string name="music_audio_effect_settings">Настройки эффектов</string>
     <string name="music_audio_visual_wake_lock">Не выключать экран</string>
     <string name="music_audio_visual_wake_lock_summary">Не выключать экран при отображении визуальных эффектов</string>
-    <string name="music_below_thirty_years">До 30 лет</string>
+    <string name="music_below_thirty_years">До %d лет</string>
     <string name="music_customized_sound_summary">Настройка громкости в соответствии с вашим слуховым восприятием</string>
     <string name="music_customized_sound_title">Регулировка громкости</string>
     <string name="music_delete">Удалить</string>
@@ -365,10 +365,10 @@
     <string name="music_sound_num">Пользовательских: %s</string>
     <string name="music_sound_sample">Системные пресеты</string>
     <string name="music_sure_to_delete_sound_msg">Удалить выбранные пресеты?</string>
-    <string name="music_thirty_to_sixty_years">30-60 лет</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d лет</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">USB-гарнитура не поддерживается</string>
-    <string name="music_upper_sixty_years">Больше 60 лет</string>
+    <string name="music_upper_sixty_years">Больше %d лет</string>
     <string name="name">Название</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>

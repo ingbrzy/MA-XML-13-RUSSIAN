@@ -2872,8 +2872,8 @@
     <string name="device_edit_title">Имя устройства</string>
     <string name="device_feedback">Отправить отзыв об устройстве</string>
     <string name="device_id">ID устройства для персонализированных рекомендаций</string>
-    <string name="device_ime_keyboard_fold">Параметры клавиатуры для складных устройств</string>
-    <string name="device_ime_keyboard_pad">Параметры клавиатуры для планшетов</string>
+    <string name="device_ime_keyboard_fold">Клавиатура для складных устройств</string>
+    <string name="device_ime_keyboard_pad">Клавиатура для планшетов</string>
     <string name="device_info_default">Неизвестно</string>
     <string name="device_info_label">Сведения об устройстве</string>
     <string name="device_info_not_available">Недоступно</string>
@@ -4776,6 +4776,7 @@ ID: %s
     <string name="ks_dialog_reset_text_system">Восстановить настройки системных ярлыков по умолчанию?</string>
     <string name="ks_dialog_title">Открыть %s</string>
     <string name="ks_launch_control_center">Центр управления</string>
+    <string name="control_center_force_use_panel_guide_text">Потяните строку состояния вниз слева, чтобы просмотреть уведомления, или вниз справа, чтобы открыть центр управления. Для переключения между уведомлениями и центром управления, проведите влево или вправо.</string>
     <string name="ks_launch_notification_center">Шторка уведомлений</string>
     <string name="ks_reset_title">Настройки по умолчанию</string>
     <string name="ks_screenshot">Скриншот</string>
