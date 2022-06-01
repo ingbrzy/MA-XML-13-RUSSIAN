@@ -727,6 +727,7 @@ ID:%s
     <string name="personal_info_desc">Фото, псевдоним и другое</string>
     <string name="phone_activated">%s активирован</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
+    <string name="phone_register">Использовать номер телефона</string>
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_policy_reject_confirm_msg">"Вы не сможете использовать Mi Аккаунт, если не примите обновленную Политику конфиденциальности. Вы Согласны с правилами обновленной учетной записи Mi Account &lt;a href=\"%1$s\">Политика конфиденциальности&lt;/a> сейчас?"</string>

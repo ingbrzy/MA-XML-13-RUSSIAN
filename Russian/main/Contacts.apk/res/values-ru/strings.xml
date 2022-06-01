@@ -439,6 +439,7 @@
     <string name="calllog_menu_edit_before_call">Изменить номер и вызвать</string>
     <string name="calllog_menu_send_sms">Отправить сообщение</string>
     <string name="calllog_record_none_toast">Нет записей</string>
+    <string name="calllog_record_searching_toast">Поиск записей…</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин %2$d с</string>
     <string name="callrecordview_item_op_time_missed">Нет ответа</string>
@@ -1040,6 +1041,9 @@
     <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
     <string name="lunar_calendar">Лунный календарь</string>
     <string name="make_primary">Запомнить выбор</string>
+    <string name="manage_external_storage_dialog_message">Разрешите приложению доступ ко всем файлам для управления записями вызовов</string>
+    <string name="manage_external_storage_dialog_positive">Настройки</string>
+    <string name="manage_external_storage_dialog_title">Требуются разрешения</string>
     <string name="map_custom">Просмотреть адрес (%s)</string>
     <string name="map_home">Просмотреть домашний адрес</string>
     <string name="map_other">Просмотреть адрес</string>

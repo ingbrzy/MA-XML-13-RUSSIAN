@@ -241,6 +241,7 @@
     <string name="input_method_tab_phrase_text">Частые фразы</string>
     <string name="internal_livetalk_enable">Пакет пополнения баланса используется для внутренних вызовов</string>
     <string name="international_livetalk_enable">Пакет пополнения баланса используется для международных вызовов</string>
+    <string name="kb_reset_toast">Установки клавиатуры сброшены</string>
     <string name="key_btn_ok">ОК</string>
     <string name="key_btn_space">Пробел</string>
     <string name="keyboard_connect_failed">Не удалось подключить клавиатуру. Подключите снова.</string>

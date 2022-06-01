@@ -880,6 +880,9 @@
     <string name="feature_guidance_photo_effects">"Доступны новые
 фотоэффекты"</string>
     <string name="feature_guidance_video_editor_smart_effects">Доступны новые эффекты</string>
+    <string name="feedback_my_reports">Обратная связь</string>
+    <string name="feedback_problem">Сообщить о проблеме</string>
+    <string name="feedback_suggest">Отправить предложение</string>
     <string name="file_cannot_print">Не удается распечатать этот файл</string>
     <string name="file_cannot_screen_throw">Не удается транслировать этот файл</string>
     <string name="file_sending">Передача файлов…</string>

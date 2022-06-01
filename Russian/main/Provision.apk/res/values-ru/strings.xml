@@ -290,6 +290,7 @@
     <string name="other_settings_ad_enable_summary">Персонализированная реклама на основе ваших предпочтений</string>
     <string name="other_settings_auto_update">Автоматические обновления системы</string>
     <string name="other_settings_auto_update_summary">MIUI выберет лучшее время для загрузки и установки обновлений. Устройство будет автоматически перезагружено для применения изменений.</string>
+    <string name="other_settings_auto_update_summary_v1">MIUI выберет лучшее время для загрузки и установки обновлений. Устройство будет автоматически перезагружено для применения изменений.</string>
     <string name="other_settings_enhanced_lockscreen">Карусель обоев</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Взгляд на Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Политика конфиденциальности</string>
