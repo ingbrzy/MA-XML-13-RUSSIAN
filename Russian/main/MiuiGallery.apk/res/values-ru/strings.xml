@@ -1805,7 +1805,7 @@
     <string name="operation_projection">Транслировать</string>
     <string name="operation_remove_face">Удалить</string>
     <string name="operation_remove_from_face_album">Удалить из альбома</string>
-    <string name="operation_remove_from_other_albums">Переместить из Другие</string>
+    <string name="operation_remove_from_other_albums">Переместить из Других</string>
     <string name="operation_remove_from_rubbish_albums">Восстановить</string>
     <string name="operation_remove_rubbish">Восстановить</string>
     <string name="operation_remove_secret">Переместить</string>
@@ -1844,7 +1844,7 @@
     <string name="origin_video_name">видео</string>
     <string name="other_album">Другие</string>
     <string name="other_album_operation_move_to_rubbish_albums">Переместить в корзину</string>
-    <string name="other_album_operation_remove_from_other_albums">Удалить из корзины</string>
+    <string name="other_album_operation_remove_from_other_albums">Переместить из Других</string>
     <string name="other_settings">Дополнительные настройки</string>
     <string name="owner_album_subtitle">Пользователей: %1$s</string>
     <string name="pad_device_model_name">Планшет Xiaomi</string>
