@@ -11049,9 +11049,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_show_advanced">Расширенные настройки</string>
     <string name="wifi_show_password">Показать пароль</string>
     <string name="wifi_sign_in_button_text">Войти</string>
-    <string name="wifi_signal">Уровень сигнала</string>
+    <string name="wifi_signal">Cигнал</string>
     <string name="wifi_signal_found_msg">Подключиться к точке доступа Wi-Fi?</string>
-    <string name="wifi_speed">Скорость связи</string>
+    <string name="wifi_speed">Скорость</string>
     <string name="wifi_ssid">SSID</string>
     <string name="wifi_ssid_hint">Введите имя сети (SSID)</string>
     <string name="wifi_ssid_is_empty">SSID не может быть пустым</string>
