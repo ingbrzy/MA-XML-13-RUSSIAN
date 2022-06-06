@@ -1333,7 +1333,9 @@
     <string-array name="system_alert_window_notification_whitelist"></string-array>
     <string-array name="system_cta_runtime_perm"></string-array>
     <string-array name="system_cta_runtime_perm_desc"></string-array>
+    <string-array name="system_cta_runtime_perm_desc_above_eleven"></string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state"></string-array>
+    <string-array name="system_cta_runtime_perm_desc_non_phone_state_above_eleven"></string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state_install_app"></string-array>
     <string-array name="system_cta_runtime_perm_desc_non_phone_state_pad"></string-array>
     <string-array name="system_cta_runtime_perm_desc_pad"></string-array>

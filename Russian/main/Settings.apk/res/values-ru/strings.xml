@@ -1492,6 +1492,8 @@
     <string name="bluetooth_grp_source_selection_options_detail">"Источник трансляции 
        %1$s добавляется в список подключенных устройств.
        (Оставьте PIN-код трансляции пустым, если это незашифрованный источник трансляции)"</string>
+    <string name="bluetooth_hd_music_play_summary">Воспроизведение аудио %d кГц на Bluetooth-устройствах без снижения частоты дискретизации. При включении этой функции эффекты Dolby будут недоступны.</string>
+    <string name="bluetooth_hd_music_play_title">Воспроизведение аудио %d кГц</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству</string>
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Подключен к слуховому аппарату</string>

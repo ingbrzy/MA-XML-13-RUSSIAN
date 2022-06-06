@@ -305,6 +305,7 @@
     <string name="morning">Утро</string>
     <string name="msim_select_default_last">Последняя использованная</string>
     <string name="msim_select_default_time_left">(%d сек.)</string>
+    <string name="multi_call_manager_other_calls">другие вызовы (%1$d)</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="notification_action_accept">Принять</string>

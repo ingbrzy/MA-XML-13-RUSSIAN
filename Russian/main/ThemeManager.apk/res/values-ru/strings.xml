@@ -47,7 +47,8 @@
     <string name="ad_app_is_downloading">Загрузка…</string>
     <string name="ad_begin_to_download_tip">Начало загрузки…</string>
     <string name="ad_begin_to_install_tip">Установка…</string>
-    <string name="ad_closed_tip">Вы будете реже видеть подобные объявления</string>
+    <string name="ad_close">Реклама скрыта</string>
+    <string name="ad_closed_tip">Вы будете реже видеть такую рекламу</string>
     <string name="ad_details">Подробности</string>
     <string name="ad_download_download">Загрузка</string>
     <string name="ad_download_download_now">Загрузить</string>
@@ -100,7 +101,8 @@
     <string name="apply_not_support_aod">Активный экран не поддерживается на этом устройстве</string>
     <string name="apply_not_support_in_second_space">Не удалось применить этот компонент во втором пространстве</string>
     <string name="apply_not_support_maml_aod">Не удалось совместить Активный экран с темой на устройстве</string>
-    <string name="apply_succeed">Успешно применено</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Обои будут установлены на внутренний и внешний экраны блокировки и на рабочий стол</string>
+    <string name="apply_succeed">Применено</string>
     <string name="apply_success_not_enable_aod">Включите Активный экран в Настройках</string>
     <string name="apply_success_not_support_aod">Не удалось совместить Активный экран с темой на устройстве. Остальные компоненты успешно применены.</string>
     <string name="apply_theme_with_ringtones">Применять с рингтонами</string>
@@ -153,6 +155,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="close_custom_permission_warning_text">Без доступа к хранилищу приложение не сможет загружать компоненты тем. Все равно отключить?"</string>
+    <string name="close_custom_permission_warning_text_above_eleven">Без доступа к хранилищу приложение не сможет настраивать персонализацию. Все равно отключить?</string>
     <string name="common_applying">Применение…</string>
     <string name="common_downloading">Загрузка…</string>
     <string name="common_format_date_no_year">dd.MM</string>
@@ -186,7 +189,9 @@
     <string name="current_using_lockscreen_wallpaper_text">Экран блокировки</string>
     <string name="current_version">Текущая версия: %1$s</string>
     <string name="current_version_incompatible">Несовместимая версия</string>
-    <string name="custom_storage_permission_desc">Предоставьте доступ к хранилищу для настройки персонализации и сохранения загруженных компонент. Разрешение можно предоставить в Настройки > Конфиденциальность.</string>
+    <string name="custom_storage_permission_desc">Разрешите доступ к хранилищу для настройки персонализации и сохранения загруженных компонент. Разрешение можно предоставить в Настройки > Конфиденциальность.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Разрешите доступ к хранилищу для настройки персонализации. Разрешение можно предоставить в Настройки > Конфиденциальность.</string>
+    <string name="custom_widget">Рекомендуемые виджеты</string>
     <string name="date_picker_label_day"/>
     <string name="date_picker_label_month"/>
     <string name="date_picker_label_year"/>
@@ -224,6 +229,7 @@
     <string name="de_more_info">Еще</string>
     <string name="de_more_resource">Сделайте свайп, чтобы загрузить еще</string>
     <string name="de_no_more_recommendations">Больше ничего нет</string>
+    <string name="de_order">%1$d</string>
     <string name="de_preview">Предпросмотр</string>
     <string name="de_redeem">Активировать</string>
     <string name="de_resource_author">Автор (%1$s)</string>
@@ -401,6 +407,7 @@
     <string name="fold_restore_default_theme_dialog_content">Использование тем больше недоступно на этом устройстве. Вы можете восстановить тему по умолчанию.</string>
     <string name="fold_restore_default_theme_dialog_disagree">Нет, спасибо</string>
     <string name="fold_restore_default_theme_dialog_title">Восстановление темы по умолчанию</string>
+    <string name="fold_sensor_video_wallpaper_group">Динамические обои для складных устройств</string>
     <string name="font_compat_dialog_buy_confirm">Купить</string>
     <string name="font_compat_dialog_buy_content">Сторонние шрифты могут не поддерживаться некоторыми приложениями. Эта проблема совместимости будет исправлена в следующих обновлениях системы. Купить этот шрифт?</string>
     <string name="font_compat_dialog_cancel">Отмена</string>
@@ -425,6 +432,7 @@
     <string name="gift_share">Отправить</string>
     <string name="goto_purchased_list">История покупок</string>
     <string name="goto_wechat">Аккаунт WeChat \"%1$s\" скопирован в буфер обмена. Открыть WeChat?</string>
+    <string name="guide_to_widget">Нажмите для просмотра нового виджета</string>
     <string name="has_mamual_hide_aod">Элемент скрыт</string>
     <string name="has_mamual_hide_font">Скрытые</string>
     <string name="has_mamual_hide_icons">Скрытые</string>
@@ -461,10 +469,10 @@
     <string name="in_the_end">Больше ничего нет</string>
     <string name="incall_show_apply">Видео профиля для исходящих вызовов</string>
     <string name="incall_show_apply_fail">Не удалось установить</string>
-    <string name="incall_show_apply_success">"Успешно применено. Чтобы отключить эту функцию
-перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля."</string>
-    <string name="incall_show_apply_success_without_ringtone">"Успешно применено. Это видео без звука, будет использоваться установленный рингтон.
-Для выключения перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля."</string>
+    <string name="incall_show_apply_success">Применено. Чтобы отключить эту функцию
+перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля</string>
+    <string name="incall_show_apply_success_without_ringtone">Применено. Это видео без звука, будет использоваться установленный рингтон.
+Для выключения перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля.</string>
     <string name="incall_show_find_more">Найти еще</string>
     <string name="incall_show_not_set">Не задано</string>
     <string name="incall_show_remove">" "</string>
@@ -669,6 +677,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
+    <string name="mtrl_picker_confirm">ОК</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
@@ -691,6 +700,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Этот рингтон будет применен для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Рингтон применен для обеих SIM-карт.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Понятно</string>
@@ -847,6 +857,7 @@ mm"</string>
     <string name="privacy_phone_logoff_theme_service_detail_title">Прежде чем отказаться от услуг, прочтите \"Заявление об отказе от услуг Темы\".</string>
     <string name="privacy_phone_logoff_theme_service_introduce">Вы собираетесь отказаться от услуг Темы.</string>
     <string name="privacy_phone_read_and_write_storage">Доступ к хранилищу</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Доступ к хранилищу</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отказе от услуг Темы&lt;/a>&lt;/font>\".</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отзыве согласия с Политикой конфиденциальности Темы&lt;/a>&lt;/font>\".</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Все темы, обои, динамические обои, шрифты, иконки и рингтоны, загруженные на это устройство.</string>
@@ -1093,6 +1104,7 @@ mm"</string>
     <string name="resource_search_color_hint_purple">Фиолетовый</string>
     <string name="resource_search_color_hint_red">Красный</string>
     <string name="resource_search_color_hint_yellow">Желтый</string>
+    <string name="resource_search_history">История поиска</string>
     <string name="resource_search_list_empty">Ничего не найдено</string>
     <string name="resource_see_more">Показать еще</string>
     <string name="resource_select">Выбрать</string>
@@ -1177,6 +1189,7 @@ mm"</string>
     <string name="service_btn_text_know">Ознакомиться</string>
     <string name="service_btn_text_try">Попробовать</string>
     <string name="set_as_colorring">Установить рингтон</string>
+    <string name="set_calling">Установить</string>
     <string name="set_color_ring_back_tone">Сигнал вызова</string>
     <string name="set_home_wallpaper_failed">"%s. Не удалось применить обои."</string>
     <string name="set_wallpaper_group_success">Обои \"%1$s\" применены</string>
@@ -1291,6 +1304,7 @@ mm"</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Доступ к IMEI для работы сервисов загрузки</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Доступ к ID устройства для идентификации</string>
     <string name="system_cta_runtime_perm_desc_storage">Доступ к темам и компонентам на устройстве и сохранение приобретенных</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Для изменения настроек персонализации</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">Доступ к темам и компонентам на устройстве и сохранение приобретенных</string>
     <string name="system_precust">Предустановленные</string>
     <string name="tag_ad">Реклама</string>
@@ -1385,7 +1399,7 @@ mm"</string>
     <string name="theme_component_title_ringtone">Мелодии</string>
     <string name="theme_component_title_statusbar">Строка состояния</string>
     <string name="theme_component_title_wallpaper">Обои</string>
-    <string name="theme_component_video_wallpaper">Живые обои</string>
+    <string name="theme_component_video_wallpaper">Динамические обои</string>
     <string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
     <string name="theme_description_title_customized">Изменено</string>
     <string name="theme_description_title_default">По умолчанию</string>
@@ -1454,6 +1468,16 @@ mm"</string>
     <string name="title_system_audio_resource">Системные мелодии</string>
     <string name="title_system_wallpaper_resource">Системные обои</string>
     <string name="to_activate_the_account">Активировать Mi Аккаунт</string>
+    <string name="toast_both_all_apply_failured">Не удалось применить к рабочему столу и экрану блокировки</string>
+    <string name="toast_both_all_apply_success">Применено к рабочему столу и экрану блокировки</string>
+    <string name="toast_home_apply_failured">Не удалось применить к рабочему столу</string>
+    <string name="toast_home_apply_success">Применено к рабочему столу</string>
+    <string name="toast_lockscreen_apply_failured">Не удалось применить к экрану блокировки</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">Применено к рабочему столу. Не удалось применить к экрану блокировки.</string>
+    <string name="toast_lockscreen_apply_success">Применено к экрану блокировки</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Применено к экрану блокировки. Не удалось применить к рабочему столу.</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">Не удалось применить</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Применено</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="trans_wallpaper_offline_notice">Прозрачные обои недоступны</string>
