@@ -294,7 +294,7 @@
     <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d приложений с кешем видео</item>
         <item quantity="one">%d приложение с кешем видео</item>
-        <item quantity="one">%d приложения с кешем видео</item>
+        <item quantity="few">%d приложения с кешем видео</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s просмотров</item>
