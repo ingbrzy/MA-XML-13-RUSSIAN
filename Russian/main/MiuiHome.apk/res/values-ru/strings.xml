@@ -300,7 +300,7 @@
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
     <string name="drawer_background">Фон</string>
-    <string name="drawer_background_dark">Темный</string>
+    <string name="drawer_background_dark">Тёмный</string>
     <string name="drawer_background_light">Светлый</string>
     <string name="drawer_background_transparency">Прозрачность</string>
     <string name="drawer_settings">Меню приложений</string>

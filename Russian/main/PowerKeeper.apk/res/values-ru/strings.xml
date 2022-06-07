@@ -75,7 +75,7 @@
     <string name="connect_intranet_hint">Подключитесь к интранету</string>
     <string name="copy">Копировать</string>
     <string name="current_cloud_addr_is">Адрес сервера облачного управления:</string>
-    <string name="dark_mode">Темный режим</string>
+    <string name="dark_mode">Тёмный режим</string>
     <string name="dark_mode_summary">Использовать темную цветовую палитру для экономии заряда</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -258,7 +258,7 @@
     <string name="notification_exit_extreme_mode_text">Батарея заряжена более чем на %s</string>
     <string name="notification_exit_extreme_mode_title">Экстремальная экономия заряда отключена</string>
     <string name="notification_open_extreme_mode_text">Экстремальная экономия заряда включена</string>
-    <string name="open_dark_mode">Переключиться в Темный режим</string>
+    <string name="open_dark_mode">Переключиться в Тёмный режим</string>
     <string name="open_dark_mode_tip">Качество отображения некоторых функций в Темном режиме может ухудшиться. При выходе из режима оно вернется к нормальному состоянию. Переключиться?</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="performance_category">Производительность</string>

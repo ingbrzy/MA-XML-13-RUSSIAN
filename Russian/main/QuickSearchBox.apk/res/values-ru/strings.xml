@@ -88,7 +88,7 @@
     <string name="clear_webview_history_dialog_title">Очистка кеша и истории просмотров</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close_webview_description">Закрыть эту страницу</string>
-    <string name="common_background_dark">Темный</string>
+    <string name="common_background_dark">Тёмный</string>
     <string name="common_background_dialog_title">Цвет фона</string>
     <string name="common_background_light">Светлый</string>
     <string name="common_category_entrance_subtitle">Показывать категории поиска на главной странице</string>

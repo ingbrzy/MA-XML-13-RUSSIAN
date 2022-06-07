@@ -366,7 +366,7 @@
     <string name="miui_penengine_ppw_shortcut_single_click">Нажатие</string>
     <string name="miui_penengine_ppw_shortcut_sk_single_click_tip">Переключение между недавними цветами</string>
     <string name="miui_penengine_setting_select_background">Фон</string>
-    <string name="miui_penengine_setting_show_black_background">Черный</string>
+    <string name="miui_penengine_setting_show_black_background">Чёрный</string>
     <string name="miui_penengine_setting_show_grid_background">Пунктирный</string>
     <string name="miui_penengine_setting_show_white_background">Белый</string>
     <string name="miui_penengine_tool_brush">Выбранный инструмент</string>

@@ -316,7 +316,7 @@
     <string name="auto_sync_off">Автоматическая синхронизация выключена.</string>
     <string name="automatic_remind_text">Напомнить автоматически</string>
     <string name="bContact_list_search_hint">Поиск заблокированных контактов</string>
-    <string name="b_contacts">Черный список</string>
+    <string name="b_contacts">Чёрный список</string>
     <string name="b_contacts_remove">Удалить</string>
     <string name="b_contacts_remove_tips">Удалить этот адрес из черного списка?</string>
     <string name="back">Назад</string>
@@ -433,7 +433,7 @@
     <string name="contact_edit_set_black_list_from">Переместить все сообщения от этого отправителя в корзину</string>
     <string name="contact_edit_set_black_list_receive">Перемещать письма с этим получателем в корзину (только новые письма)</string>
     <string name="contact_edit_set_black_list_receive_summary">Удалить письма, в которых этот человек отмечен получателем или поставлен в копию</string>
-    <string name="contact_edit_set_black_list_title">Добавить в черный список</string>
+    <string name="contact_edit_set_black_list_title">Добавить в чёрный список</string>
     <string name="contact_edit_set_phone_contact">Изменить контакты телефона</string>
     <string name="contact_edit_title_phone_contact">Контакты телефона</string>
     <string name="contact_in_filter_title">Отправитель</string>
@@ -482,7 +482,7 @@
     <string name="conversation_quick_button_received">Получено</string>
     <string name="conversation_report_spam">Сообщить о спаме</string>
     <string name="conversation_report_un_spam">Не спам</string>
-    <string name="conversation_spam_dig_msg">Отметить это сообщение как спам? Сообщение будет перемещено в папку \"Спам\", а его отправитель будет добавлен в черный список.</string>
+    <string name="conversation_spam_dig_msg">Отметить это сообщение как спам? Сообщение будет перемещено в папку \"Спам\", а его отправитель будет добавлен в чёрный список.</string>
     <string name="conversation_spam_tips">Отметить это сообщение как спам?</string>
     <string name="conversation_view">Цепочка сообщений</string>
     <string name="conversation_view_keywords">цепочка сообщений;диалог почты</string>
@@ -631,7 +631,7 @@
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_message_account_or_password">Неверный ID аккаунта или пароль.</string>
     <string name="error_message_auth_error">Используйте проверочный код для входа.</string>
-    <string name="error_message_blacklist">Ваш аккаунт добавлен в черный список. Обратитесь к провайдеру электронной почты для решения этой проблемы.</string>
+    <string name="error_message_blacklist">Ваш аккаунт добавлен в чёрный список. Обратитесь к провайдеру электронной почты для решения этой проблемы.</string>
     <string name="error_message_imap_or_pop3_service_not_open">Включите IMAP или POP3 и повторите попытку.</string>
     <string name="error_message_imap_service_not_open">Включите IMAP и повторите попытку.</string>
     <string name="error_message_outlook_error">Сначала подтвердите свою личность в веб-версии Outlook.</string>

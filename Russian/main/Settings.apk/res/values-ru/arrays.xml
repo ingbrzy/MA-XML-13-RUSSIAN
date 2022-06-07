@@ -515,7 +515,7 @@
     <string-array name="captioning_preset_selector_titles">
         <item>Настройки приложения</item>
         <item>Белый на черном</item>
-        <item>Черный на белом</item>
+        <item>Чёрный на белом</item>
         <item>Желтый на черном</item>
         <item>Желтый на синем</item>
         <item>Специальный</item>
@@ -873,7 +873,7 @@
         <item>Высокая скорость</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Темный</item>
+        <item>Тёмный</item>
         <item>Светлый</item>
     </string-array>
     <array name="data_type_name_miui_mcc_key" />
@@ -1174,7 +1174,7 @@
     <string-array name="paper_color_values">
         <item>Насыщенные</item>
         <item>Светлые</item>
-        <item>Черный и белый</item>
+        <item>Чёрный и белый</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Разрешить</item>

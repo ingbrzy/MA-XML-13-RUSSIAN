@@ -260,7 +260,7 @@
     <string name="current_lyric">Текущий текст</string>
     <string name="current_version">Текущая версия</string>
     <string name="daily_recommendation">Ежедневный микс</string>
-    <string name="dark_mode">Темный режим</string>
+    <string name="dark_mode">Тёмный режим</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
     <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
     <string name="data_use_desc">Правовая документация</string>

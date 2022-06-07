@@ -504,7 +504,7 @@
     <string name="color_effect_entry_berry">Ягоды</string>
     <string name="color_effect_entry_blackgold">Родий</string>
     <string name="color_effect_entry_blackgold_describe">Этот высококонтрастный фильтр сохраняет только желтый и темно-синий цвета. Используйте его на хорошо освещенных улицах ночного города.</string>
-    <string name="color_effect_entry_blackice">Черный лед</string>
+    <string name="color_effect_entry_blackice">Чёрный лед</string>
     <string name="color_effect_entry_blackwhite">Ч/Б</string>
     <string name="color_effect_entry_classic">Классика</string>
     <string name="color_effect_entry_cookie">Печенье</string>
@@ -537,7 +537,7 @@
     <string name="color_effect_entry_warm">Солнце</string>
     <string name="color_effect_live_blue">Орхидея</string>
     <string name="color_effect_live_contrast">Контраст</string>
-    <string name="color_effect_live_deepblack">Глубокий черный</string>
+    <string name="color_effect_live_deepblack">Глубокий чёрный</string>
     <string name="color_effect_live_fair">Бледный</string>
     <string name="color_effect_live_hongkong">Баухиния</string>
     <string name="color_effect_live_mousse">Мусс</string>

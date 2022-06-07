@@ -50,9 +50,9 @@
     <string name="add_smiley">Смайлик</string>
     <string name="add_timing">Таймер</string>
     <string name="add_to_block_by_number">"%s добавлен
-в черный список"</string>
+в чёрный список"</string>
     <string name="add_to_block_by_tag">"Сообщение, содержащее \"%s\",
-добавлено в черный список"</string>
+добавлено в чёрный список"</string>
     <string name="add_to_browser_favorite_failed">Не удалось добавить</string>
     <string name="add_to_browser_favorite_success">Успешно добавлено</string>
     <string name="add_video">Добавить видео</string>
@@ -105,7 +105,7 @@
     <string name="batch_deleting_progress_message">Удаление…</string>
     <string name="bcc_label">"Скрытая копия: "</string>
     <string name="block_messaging_entry_title">Заблокированные SMS</string>
-    <string name="block_number_message">Этот номер телефона будет добавлен в черный список. Все сообщения с этого номера будут заблокированы.</string>
+    <string name="block_number_message">Этот номер телефона будет добавлен в чёрный список. Все сообщения с этого номера будут заблокированы.</string>
     <string name="block_support_text">Поддержка: Antiy</string>
     <string name="block_tag_message">Все сообщения с %s будут заблокированы. Возможно, вы не сможете получать коды подтверждения или счета, отправленные этой службой.</string>
     <string name="bookmark">Добавлено в избранные</string>
@@ -160,7 +160,7 @@
     <string name="complain_message_title">Отчет</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
     <string name="confirm">OK</string>
-    <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в чёрный список?</string>
     <string name="confirm_delete_SIM_message">Удалить это сообщение с SIM-карты?</string>
     <string name="confirm_delete_all_SIM_messages">Удалить все сообщения с SIM карты?</string>
     <string name="confirm_delete_all_conversations">Удалить все диалоги?</string>
@@ -451,7 +451,7 @@
     <string name="menu_preferences">Настройки</string>
     <string name="menu_report">Обратная связь</string>
     <string name="menu_send_as_common">Отправить как SMS</string>
-    <string name="menu_sms_block">Черный список</string>
+    <string name="menu_sms_block">Чёрный список</string>
     <string name="menu_traffic_destination">Назначение</string>
     <string name="menu_unlock">Удалить из избранных</string>
     <string name="menu_view_contact">Просмотреть контакт</string>
@@ -793,7 +793,7 @@
     <string name="pref_title_mms_retrieval_during_national_roaming">Автозагрузка MMS в национальном роуминге</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка MMS в роуминге</string>
     <string name="pref_title_mms_validity_period">Срок действия MMS</string>
-    <string name="pref_title_msg_blocked">Черный список</string>
+    <string name="pref_title_msg_blocked">Чёрный список</string>
     <string name="pref_title_notification_body_enabled">Сообщения на экране блокировки</string>
     <string name="pref_title_perm_audio">Доступ к микрофону</string>
     <string name="pref_title_perm_calander">Доступ к календарю</string>
@@ -913,7 +913,7 @@
     <string name="rcs_chatbot_image_message">Получено изображение. Нажмите для просмотра.</string>
     <string name="rcs_chatbot_local_net_error">"Не удалось получить данные.
 Включите мобильный интернет и откройте эту страницу снова."</string>
-    <string name="rcs_chatbot_main_menu_blacklist">Черный список</string>
+    <string name="rcs_chatbot_main_menu_blacklist">Чёрный список</string>
     <string name="rcs_chatbot_main_menu_scan">Поиск</string>
     <string name="rcs_chatbot_main_search_hint">Поиск мини-приложений</string>
     <string name="rcs_chatbot_main_tab_my">Мои приложения</string>
@@ -983,7 +983,7 @@
     <string name="rcs_message_title">5G Сообщения</string>
     <string name="rcs_more_bar_title">Дополнительная информация</string>
     <string name="rcs_msg">5G Сообщения</string>
-    <string name="rcs_my_black_chatbot_title">Черный список</string>
+    <string name="rcs_my_black_chatbot_title">Чёрный список</string>
     <string name="rcs_not_online">5G сообщения недоступны. Проверьте настройки сети и повторите попытку.</string>
     <string name="rcs_offline">Не удалось войти в 5G Сообщения. Повторите попытку позже.</string>
     <string name="rcs_offline_hint">5G Сообщения не в сети. Пересылка невозможна.</string>

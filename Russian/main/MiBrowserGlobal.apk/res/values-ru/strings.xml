@@ -548,8 +548,8 @@
 Просмотренные страницы не появятся в истории браузера."</string>
     <string name="custom_head_weather">Погода</string>
     <string name="custom_page_guide_content">Закладки, настройки и инструменты находятся здесь!</string>
-    <string name="dark_mode">Темный режим</string>
-    <string name="dark_mode_setting_dark">Ночной режим (темный)</string>
+    <string name="dark_mode">Тёмный режим</string>
+    <string name="dark_mode_setting_dark">Ночной режим (тёмный)</string>
     <string name="dark_mode_setting_follow">Системные установки</string>
     <string name="dark_mode_setting_light">Дневной режим (светлый)</string>
     <string name="dark_mode_setting_title">Ночной режим</string>
@@ -1282,7 +1282,7 @@ ID:%s
     <string name="mw_add_to_dictionary">Добавить в словарь</string>
     <string name="mw_autofill_popup_content_description">Показывать всплывающее окно автозаполнения</string>
     <string name="mw_chip_remove_icon_content_description">"Удаление '%1$s'"</string>
-    <string name="mw_color_picker_button_black">Черный</string>
+    <string name="mw_color_picker_button_black">Чёрный</string>
     <string name="mw_color_picker_button_blue">Голубой</string>
     <string name="mw_color_picker_button_cancel">Отмена</string>
     <string name="mw_color_picker_button_cyan">Светло-голубой</string>

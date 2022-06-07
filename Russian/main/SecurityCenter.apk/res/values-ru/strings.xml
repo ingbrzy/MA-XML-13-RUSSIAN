@@ -569,7 +569,7 @@
     <string name="app_permission_use_no_neccesary">Необязательные разрешения</string>
     <string name="app_permission_use_title">Разрешения</string>
     <string name="app_predict_black_list_empty">Ничего нет</string>
-    <string name="app_predict_black_list_setting_title">Черный список приложений</string>
+    <string name="app_predict_black_list_setting_title">Чёрный список приложений</string>
     <string name="app_predict_classification_search_empty">Ничего не найдено</string>
     <string name="app_predict_dialog_button">Добавить на рабочий стол</string>
     <string name="app_predict_dialog_message">ИИ предложит приложения, которые могут понадобиться вам на данный момент</string>
@@ -591,7 +591,7 @@
     <string name="app_predict_search_empty">Приложения не найдены</string>
     <string name="app_predict_search_local_app">На устройстве</string>
     <string name="app_predict_search_title">Все приложения</string>
-    <string name="app_predict_setting_black_list">Черный список</string>
+    <string name="app_predict_setting_black_list">Чёрный список</string>
     <string name="app_predict_setting_black_list_message">Блокировка нежелательных для рекомендаций приложений</string>
     <string name="app_predict_setting_privacy">Политика конфиденциальности</string>
     <string name="app_predict_setting_switch_message">Получать рекомендации по приложениям на основе ваших предпочтений</string>
@@ -977,7 +977,7 @@
     <string name="bl_no_blacklist">Нет заблокированных номеров</string>
     <string name="bl_no_block_call">Нет заблокированных вызовов</string>
     <string name="bl_no_block_sms">Нет заблокированных SMS</string>
-    <string name="blacklist_prefix_add_hint">Все номера с этим префиксом будут добавлены в черный список</string>
+    <string name="blacklist_prefix_add_hint">Все номера с этим префиксом будут добавлены в чёрный список</string>
     <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">Вызовы: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="boost_done">Успешно ускорено</string>
@@ -1324,9 +1324,9 @@
     <string name="dlg_antispam_mode_delete_title">Удалить профиль?</string>
     <string name="dlg_antispam_using_mode_delete_message">Удалить выбранный профиль и восстановить профиль по умолчанию?</string>
     <string name="dlg_antispam_using_mode_international_delete_message">Удалить выбранный профиль и восстановить профиль по умолчанию?</string>
-    <string name="dlg_black_address_antispam_message">Добавить регион в черный список?</string>
-    <string name="dlg_black_antispam_hint">Черный список</string>
-    <string name="dlg_black_antispam_message">Добавить номер в черный список?</string>
+    <string name="dlg_black_address_antispam_message">Добавить регион в чёрный список?</string>
+    <string name="dlg_black_antispam_hint">Чёрный список</string>
+    <string name="dlg_black_antispam_message">Добавить номер в чёрный список?</string>
     <string name="dlg_cancel">Отмена</string>
     <string name="dlg_clear_all_call">Удалить заблокированные вызовы?</string>
     <string name="dlg_clear_all_ok">Удалить все</string>
@@ -3602,12 +3602,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_optimize_close_wake_notification">Не включать экран для уведомлений</string>
     <string name="power_optimize_close_wlan">Отключить точку доступа</string>
     <string name="power_optimize_close_wlan_summary">Отсутствие подключенных устройств экономит заряд</string>
-    <string name="power_optimize_darkmode">Включить темный режим</string>
+    <string name="power_optimize_darkmode">Включить тёмный режим</string>
     <string name="power_optimize_darkmode_dialog_confirm">Включить</string>
-    <string name="power_optimize_darkmode_dialog_summary">Темный режим экономит заряд и снижает нагрузку на глаза</string>
-    <string name="power_optimize_darkmode_dialog_title">Включить темный режим</string>
-    <string name="power_optimize_darkmode_extend_summary">Темный режим экономит заряд и снижает нагрузку на глаза</string>
-    <string name="power_optimize_darkmode_summary">Темный режим экономит заряд</string>
+    <string name="power_optimize_darkmode_dialog_summary">Тёмный режим экономит заряд и снижает нагрузку на глаза</string>
+    <string name="power_optimize_darkmode_dialog_title">Включить тёмный режим</string>
+    <string name="power_optimize_darkmode_extend_summary">Тёмный режим экономит заряд и снижает нагрузку на глаза</string>
+    <string name="power_optimize_darkmode_summary">Тёмный режим экономит заряд</string>
     <string name="power_optimize_disable_5g">Ограничить 5G подключение</string>
     <string name="power_optimize_disable_5g_summary"> 5G подключение расходует батарею</string>
     <string name="power_optimize_disable_aod">Отключить Активный дисплей</string>
@@ -3623,7 +3623,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_optimize_loading">Загрузка</string>
     <string name="power_optimize_open_hide_mode">Включение контроля активности</string>
     <string name="power_optimize_power_save_extend_time">Добавить %s</string>
-    <string name="power_optimize_power_save_summary">Включить темный режим и применить оптимизацию системы для ограничения фоновой активности и экономии заряда</string>
+    <string name="power_optimize_power_save_summary">Включить тёмный режим и применить оптимизацию системы для ограничения фоновой активности и экономии заряда</string>
     <string name="power_optimize_prohibit_app_autostart">Ограничить автозапуск</string>
     <string name="power_optimize_reduce_fps">Снизить частоту обновления до %d Гц</string>
     <string name="power_optimize_reduce_fps_summary">Меньшая частота обновления экрана подходит для большинства сценариев использования устройства</string>
@@ -4545,7 +4545,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sms_detail_fragment_title_bill">Баланс</string>
     <string name="sms_detail_fragment_title_traffic">Остаток трафика</string>
     <string name="sms_filter">Умная блокировка</string>
-    <string name="sms_keywords">Черный список</string>
+    <string name="sms_keywords">Чёрный список</string>
     <string name="sms_malicious_url">Блокировать SMS с вредоносными ссылками</string>
     <string name="sms_prefix">Префиксы</string>
     <string name="sms_sender">"Кому: "</string>
@@ -4581,7 +4581,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_abnormal_scan_summary">Обнаружение и решение проблем</string>
     <string name="sp_abnormal_scan_title">Решение проблем</string>
     <string name="sp_antispam_scan_summary">Защита от мошенничества</string>
-    <string name="sp_antispam_scan_title">Черный список</string>
+    <string name="sp_antispam_scan_title">Чёрный список</string>
     <string name="sp_background_risk_dialog_summary">, проверьте и исправьте проблемы с оплатой.</string>
     <string name="sp_background_risk_dialog_summary_new">Текущая платежная среда может представлять угрозу безопасности. Найдите время для решения существующих проблем.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Вы подключены к публичной сети Wi-Fi, которая может быть небезопасной. Убедитесь в безопасности сети до завершения платежа.</string>
@@ -4736,7 +4736,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_antispam_des_smart_anti">Умная блокировка</string>
     <string name="st_antispam_des_uesless">Откл</string>
     <string name="st_antispam_mode_add_new">Новый профиль</string>
-    <string name="st_antispam_mode_blacklist">Черный список</string>
+    <string name="st_antispam_mode_blacklist">Чёрный список</string>
     <string name="st_antispam_mode_blacklist_sum">Блокировать вызовы и сообщения с номеров из черного списка</string>
     <string name="st_antispam_mode_denyownself_sum">Особый профиль</string>
     <string name="st_antispam_mode_only_all_deny">Блокировать все</string>
@@ -4782,7 +4782,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_message_phone_AntiSpam">Блокировать вызовы</string>
     <string name="st_message_phonepass">Разрешить вызовы</string>
     <string name="st_msg_intercept_contacts">Блокировать SMS от контактов</string>
-    <string name="st_msg_keyword_black">Черный список</string>
+    <string name="st_msg_keyword_black">Чёрный список</string>
     <string name="st_msg_keyword_group">Ключевые слова</string>
     <string name="st_msg_keyword_white">Белый список</string>
     <string name="st_msg_other_group">Другие сообщения</string>
@@ -4801,7 +4801,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_summary_whitelist_numbers_international">Разрешать вызовы и сообщения только с определенных номеров</string>
     <string name="st_tab_title">%1$s (SIM%2$d)</string>
     <string name="st_tab_title_esim">%1$s (eSIM)</string>
-    <string name="st_title_addblacklist">В черный список</string>
+    <string name="st_title_addblacklist">В чёрный список</string>
     <string name="st_title_addwhitelist">В белый список</string>
     <string name="st_title_adress">Выбрать регион</string>
     <string name="st_title_adress_num">Выбрано: %d</string>
@@ -4813,19 +4813,19 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="st_title_back_sound_none">Номер не существует</string>
     <string name="st_title_back_sound_stop">Не обслуживается</string>
     <string name="st_title_backsound_group">Сообщение об отсутствии</string>
-    <string name="st_title_blacklist_numbers">Черный список</string>
+    <string name="st_title_blacklist_numbers">Чёрный список</string>
     <string name="st_title_call_wait">Сигнал ожидания вызова</string>
     <string name="st_title_call_wait_setting">Ожидание вызова</string>
     <string name="st_title_editblacklist">Изменение черного списка</string>
     <string name="st_title_editwhitelist">Изменение белого списка</string>
-    <string name="st_title_keywords_blacklist">Черный список</string>
+    <string name="st_title_keywords_blacklist">Чёрный список</string>
     <string name="st_title_keywords_list">Список ключевых слов</string>
     <string name="st_title_keywords_whitelist">Белый список</string>
-    <string name="st_title_man_addblacklist">Добавить номер в черный список</string>
+    <string name="st_title_man_addblacklist">Добавить номер в чёрный список</string>
     <string name="st_title_man_addwhitelist">Добавить номер в белый список</string>
-    <string name="st_title_man_editblacklist">Выберите код региона для добавления в черный список</string>
+    <string name="st_title_man_editblacklist">Выберите код региона для добавления в чёрный список</string>
     <string name="st_title_man_editwhitelist">Выберите код региона для добавления в белый список</string>
-    <string name="st_title_man_head_addblacklist">Добавить префикс телефона в черный список</string>
+    <string name="st_title_man_head_addblacklist">Добавить префикс телефона в чёрный список</string>
     <string name="st_title_man_head_addwhitelist">Добавить префикс номера в белый список</string>
     <string name="st_title_markednumber_group">Отмеченные номера</string>
     <string name="st_title_mode_choose_group">Выберите режим</string>
@@ -5049,7 +5049,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="superpower_notification_title_new">Заряд менее %s</string>
     <string name="superpower_progress_content">Включение ультраэкономии заряда…</string>
     <string name="superpower_progress_left_time">%1$d ч. %2$d мин.</string>
-    <string name="superpower_progress_switch_home">Переключение в темный режим</string>
+    <string name="superpower_progress_switch_home">Переключение в тёмный режим</string>
     <string name="superpower_progress_title">Оставшееся время</string>
     <string name="superpower_progress_turndown_brightness">Уменьшение яркости экрана</string>
     <string name="superpower_progress_turnoff_items">Ограничение энергоемких функций</string>
@@ -5117,7 +5117,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="system_permission_perm_send_mms">Отправка MMS</string>
     <string name="system_tool_green_guard">Семейный защитник</string>
     <string name="system_tool_sos">Экстренная помощь</string>
-    <string name="tab_blacklist">Черный список</string>
+    <string name="tab_blacklist">Чёрный список</string>
     <string name="tab_block_log_unKnowNumber">Скрытый номер</string>
     <string name="tab_call">Вызовы</string>
     <string name="tab_gift">Подарки</string>
@@ -5128,7 +5128,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_close_airplane">Отключить режим полета</string>
     <string name="task_summary_close_auto_brightness">Отключить автояркость</string>
     <string name="task_summary_close_bluetooth">Отключить Bluetooth</string>
-    <string name="task_summary_close_dark_mode">Отключить темный режим</string>
+    <string name="task_summary_close_dark_mode">Отключить тёмный режим</string>
     <string name="task_summary_close_dc_light">Отключить устранение мерцания</string>
     <string name="task_summary_close_dial_tone">Отключить звук набора номера</string>
     <string name="task_summary_close_drive_mode">Отключить режим вождения</string>
@@ -5147,7 +5147,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_open_airplane">Включить режим полета</string>
     <string name="task_summary_open_auto_brightness">Включить автояркость</string>
     <string name="task_summary_open_bluetooth">Включить Bluetooth</string>
-    <string name="task_summary_open_dark_mode">Включить темный режим</string>
+    <string name="task_summary_open_dark_mode">Включить тёмный режим</string>
     <string name="task_summary_open_dc_light">Включить устранение мерцания</string>
     <string name="task_summary_open_dial_tone">Включить звук набора номера</string>
     <string name="task_summary_open_disturb_mode">Включить режим \"Не беспокоить\"</string>
@@ -5411,7 +5411,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_result_airplan">Режим полета</string>
     <string name="title_result_bluetooth">Bluetooth</string>
     <string name="title_result_brightness">Автояркость</string>
-    <string name="title_result_dark">Темный режим</string>
+    <string name="title_result_dark">Тёмный режим</string>
     <string name="title_result_dial_tone">Звук набора номера</string>
     <string name="title_result_drive">Режим вождения</string>
     <string name="title_result_examination">Антивирус</string>

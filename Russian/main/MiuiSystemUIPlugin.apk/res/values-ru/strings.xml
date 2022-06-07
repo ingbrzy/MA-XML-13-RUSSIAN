@@ -347,7 +347,7 @@
     <string name="quick_settings_location_label">Геолокация</string>
     <string name="quick_settings_more_settings">Настройки</string>
     <string name="quick_settings_mute_label">Без звука</string>
-    <string name="quick_settings_nightmode_label">Темный режим</string>
+    <string name="quick_settings_nightmode_label">Тёмный режим</string>
     <string name="quick_settings_papermode_label">Режим чтения</string>
     <string name="quick_settings_pcmode_cancel_button">Отмена</string>
     <string name="quick_settings_pcmode_dialog_description">Режим ПК поддерживает многооконные задачи и позволяет использовать клавиатуру и мышь. При переходе в этот режим все запущенные приложения будут закрыты. Некоторые приложения могут не поддерживать режим ПК.</string>

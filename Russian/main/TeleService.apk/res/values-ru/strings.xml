@@ -2440,7 +2440,7 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_zoom_summary_small">Мелкий</string>
     <string name="screen_zoom_summary_very_large">Очень крупный</string>
     <string name="search_antispam_setting">Антиспам</string>
-    <string name="search_app_name">Телефон;Записи вызовов;Переадресованные вызовы;переадресация;Ожидание вызова;Черный список;Код страны;Код города;Коды стран;Коды городов;Запись вызовов;Запись вызова;Набор;Вызов;Вызовы;Телефония;VoIP;VoLTE;Пропущенный вызов;Пропущенные вызовы;SIP;T9;IP-телефония;FDN</string>
+    <string name="search_app_name">Телефон;Записи вызовов;Переадресованные вызовы;переадресация;Ожидание вызова;Чёрный список;Код страны;Код города;Коды стран;Коды городов;Запись вызовов;Запись вызова;Набор;Вызов;Вызовы;Телефония;VoIP;VoLTE;Пропущенный вызов;Пропущенные вызовы;SIP;T9;IP-телефония;FDN</string>
     <string name="search_menu">Поиск настроек</string>
     <string name="search_menu_title">Поиск</string>
     <string name="selectContact">выбрать контакт</string>

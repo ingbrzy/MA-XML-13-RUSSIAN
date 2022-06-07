@@ -2453,7 +2453,7 @@ mm"</string>
     <string name="quick_settings_night_secondary_label_on_at">С %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">На закате</string>
     <string name="quick_settings_night_secondary_label_until_sunrise">До восхода</string>
-    <string name="quick_settings_nightmode_label">Темный режим</string>
+    <string name="quick_settings_nightmode_label">Тёмный режим</string>
     <string name="quick_settings_notifications_label">Уведомления</string>
     <string name="quick_settings_papermode_label">Режим чтения</string>
     <string name="quick_settings_powermode_label">Производительность</string>
@@ -2481,7 +2481,7 @@ mm"</string>
     <string name="quick_settings_tethering_label">Режим модема</string>
     <string name="quick_settings_time_label">Время</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Чтобы добавить элемент, перетащите его в верхнюю часть панели</string>
-    <string name="quick_settings_ui_mode_night_label">Темный режим</string>
+    <string name="quick_settings_ui_mode_night_label">Тёмный режим</string>
     <string name="quick_settings_user_label">Я</string>
     <string name="quick_settings_user_new_user">Новый пользователь</string>
     <string name="quick_settings_user_title">Пользователь</string>

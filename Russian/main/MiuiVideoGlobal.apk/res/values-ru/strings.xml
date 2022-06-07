@@ -1183,7 +1183,7 @@ ID: %s
     <string name="ovp_local_videos_title">Локальные видео</string>
     <string name="ovp_navigation_category">Категории</string>
     <string name="ovp_navigation_content">Контент</string>
-    <string name="ovp_navigation_darkmode">Темный режим</string>
+    <string name="ovp_navigation_darkmode">Тёмный режим</string>
     <string name="ovp_navigation_favorites">Избранное</string>
     <string name="ovp_navigation_feedback">Отзыв</string>
     <string name="ovp_navigation_history">История</string>

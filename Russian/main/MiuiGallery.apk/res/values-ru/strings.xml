@@ -933,7 +933,7 @@
     <string name="filter_food_orangeflavor">Мандарин</string>
     <string name="filter_food_softdrink">Лимонад</string>
     <string name="filter_food_wholemeal">Зерна</string>
-    <string name="filter_general_blackice">Черный лед</string>
+    <string name="filter_general_blackice">Чёрный лед</string>
     <string name="filter_general_blackwhite">Ч/Б</string>
     <string name="filter_general_delicious">Лакомство</string>
     <string name="filter_general_df">Ясность</string>
@@ -2702,7 +2702,7 @@
     <string name="talkback_screenshot_with_time">Скриншот, %s</string>
     <string name="talkback_screenshot_with_time_and_location">Скриншот, %1$s, %2$s</string>
     <string name="talkback_signature_delete">Удаление подписи</string>
-    <string name="talkback_signature_select_color_1">Черный</string>
+    <string name="talkback_signature_select_color_1">Чёрный</string>
     <string name="talkback_signature_select_color_2">Красный</string>
     <string name="talkback_signature_select_color_3">Оранжевый</string>
     <string name="talkback_signature_select_color_4">Синий</string>
