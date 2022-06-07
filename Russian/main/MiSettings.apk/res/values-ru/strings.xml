@@ -67,14 +67,14 @@
     <string name="authorization_tips">Требуются разрешения</string>
     <string name="baboon_info">Оливковый бабуин живет в группах с развитым социальным ранжированием</string>
     <string name="back">Назад</string>
-    <string name="bear_info">Медведи - самые крупные сухопутные хищники, живут в холодных регионах и известны острым обонянием</string>
+    <string name="bear_info">Самый крупный сухопутный хищник, живет в холодных регионах, известен острым обонянием</string>
     <string name="black_backed_jackal">Шакал</string>
     <string name="black_head_bulbul_info">Эти птицы часто передвигаются группами и летают на небольшие расстояния</string>
     <string name="black_headed_bulbul">Черноголовый бюльбюль</string>
-    <string name="black_howler_monkey">Черный ревун</string>
+    <string name="black_howler_monkey">Чёрный ревун</string>
     <string name="black_necked_crane">Черношейный журавль</string>
-    <string name="black_rhinoceros">Черный носорог</string>
-    <string name="black_swan">Черный лебедь</string>
+    <string name="black_rhinoceros">Чёрный носорог</string>
+    <string name="black_swan">Чёрный лебедь</string>
     <string name="blue_poison_dart_frog">Голубая лягушка</string>
     <string name="branch_bear">Медвежьи</string>
     <string name="branch_bulbulidae">Бюльбюлевые</string>
@@ -113,11 +113,11 @@
     <string name="calendar_tip">Звуки напоминаний для мероприятий, заметок и задач</string>
     <string name="canada_goose">Канадский гусь</string>
     <string name="capybara">Капибара</string>
-    <string name="capybara_info">Полуводные травоядные грызуны, могут задерживать дыхание под водой до пяти минут</string>
+    <string name="capybara_info">Полуводный травоядный грызун, может задерживать дыхание под водой до пяти минут</string>
     <string name="category_other">Другое</string>
     <string name="chacma_baboon">Бабуин чакма</string>
     <string name="cheetah">Гепард</string>
-    <string name="cheetah_info">Гепарды - самые быстрые наземные животные с гибкой и сложной социальной структурой</string>
+    <string name="cheetah_info">Самое быстрое наземное животное, живет в гибкой и сложной социальной структуре</string>
     <string name="chinstrap_penguin">Антарктический пингвин</string>
     <string name="class_amphibious">Амфибии</string>
     <string name="class_bird">Птицы</string>
@@ -171,7 +171,7 @@
     <string name="eastern_grey_kangaroo">Серый кенгуру</string>
     <string name="eastern_grey_kangaroo_info">У кенгуру большие мощные задние лапы и большие ступни, приспособленные для прыжков</string>
     <string name="egyptian_goose">Нильский гусь</string>
-    <string name="elephant_info">Слоны - самые крупные из наземных животных. Торговля слоновой костью - угроза популяции слонов.</string>
+    <string name="elephant_info">Самое крупное наземное животное. Торговля слоновой костью - угроза популяции слонов.</string>
     <string name="elk">Лось</string>
     <string name="elk_info">Лоси живут в субарктическом климате, питаются различными видами растений и фруктов</string>
     <string name="emperor_penguin">Императорский пингвин</string>
@@ -340,7 +340,7 @@
     <string name="laughing_kookaburra_info">Известна своими уникальными звуками, хорошо охотится на змей и других рептилий</string>
     <string name="leopard">Леопард</string>
     <string name="lion">Лев</string>
-    <string name="lion_info">Львы - свирепые и сильные хищники, живут группами и имеют сильное чувство территории</string>
+    <string name="lion_info">Свирепый и сильный хищник, живет в группах, имеет сильное чувство территории</string>
     <string name="lock_summary">Защитите личную информацию</string>
     <string name="long_tai1ed_iaeger">Длиннохвостый поморник</string>
     <string name="low_flicker_mode">Низкая освещенность</string>
@@ -509,7 +509,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="scarlet_macaw">Ара</string>
-    <string name="scarlet_macaw_info">Ара - длиннохвостые, часто разноцветные, попугаи Нового Света</string>
+    <string name="scarlet_macaw_info">Длиннохвостые, часто разноцветные, попугаи Нового Света</string>
     <string name="screen_cancel">Отмена</string>
     <string name="screen_confirm">Включить</string>
     <string name="screen_fps_summary_power_save">Фиксированная частота обновления экономит заряд</string>
@@ -522,7 +522,7 @@
     <string name="screen_original_gamut_summary">Использовать максимально широкий цветовой профиль</string>
     <string name="screen_paper_mode_apps_loading">Подождите…</string>
     <string name="screen_time_lock">Блокировка</string>
-    <string name="sea_eagle_info">Сильный вершинный хищник и падальщик, обычно обитает у больших водоемов</string>
+    <string name="sea_eagle_info">Сильный вершинный хищник-падальщик, обычно обитает у больших водоемов</string>
     <string name="sea_otter">Калан</string>
     <string name="seal_info">Морское млекопитающее, быстро плавает в глубоких водах, питается рыбой и креветками</string>
     <string name="search_app_name">Поиск приложений</string>
@@ -574,7 +574,7 @@
     <string name="split_page_authorization">Добро пожаловать в функцию Время экрана! Здесь вы можете установить лимит использования устройства и просмотреть статистику. Нажмите \"Начать\", чтобы включить.</string>
     <string name="split_page_start">Начать</string>
     <string name="spotted_hyaena">Пятнистая гиена</string>
-    <string name="spotted_hyaena_info">Гиены - ночные хищники с самым сложным социальным поведением</string>
+    <string name="spotted_hyaena_info">Ночной хищник с самым сложным социальным поведением</string>
     <string name="spur_winged_plover">Шпорцевый чибис</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Использовать цветовой профиль sRGB</string>
@@ -595,7 +595,7 @@
     <string name="sunday_shortest">Вс</string>
     <string name="superb_starling">Трехцветный спрео</string>
     <string name="tasmanian_devil">Тасманийский дьявол</string>
-    <string name="tasmanian_devil_info">Тасманийские дьяволы - маленькие хищные падальщики с ворчливым нравом</string>
+    <string name="tasmanian_devil_info">Маленький хищный падальщик с ворчливым нравом</string>
     <string name="tasmanian_native_hen">Зеленоногая камышница</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
@@ -667,7 +667,7 @@
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="two_toed_sloths">Двупалый ленивец</string>
-    <string name="two_toed_sloths_info">Двухпалые ленивцы легко передвигаются от дерева к дереву в кронах тропических лесов</string>
+    <string name="two_toed_sloths_info">Легко передвигается от дерева к дереву в кронах тропических лесов</string>
     <string name="unlock_times_per_day">"В среднем за день: "</string>
     <string name="unlock_times_per_hour">"В среднем в час: "</string>
     <string name="usage_agree">Принимаю</string>
@@ -948,7 +948,7 @@
     <string name="vervet_monkey">Зеленая мартышка</string>
     <string name="wait_tip">Подождите…</string>
     <string name="walrus">Морж</string>
-    <string name="walrus_info">Моржи - отличные ныряльщики, предпочитают мелководные участки шельфа и кормятся на морском дне</string>
+    <string name="walrus_info">Отличный ныряльщик, предпочитает мелководные участки шельфа, кормится на морском дне</string>
     <string name="weddell_seal">Тюлень Уэдделла</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
@@ -964,5 +964,5 @@
     <string name="yellow_necked_spurfowl">Желтогорлый турач</string>
     <string name="yellow_throated_marten">Харза</string>
     <string name="yesterday">Вчера</string>
-    <string name="yunnan_snub_nosed_monkey">Черный ринопитек</string>
+    <string name="yunnan_snub_nosed_monkey">Чёрный ринопитек</string>
 </resources>
