@@ -101,6 +101,7 @@
     <string name="hint_volume_down">Уменьшение громкости</string>
     <string name="hint_volume_up">Увеличение громкости</string>
     <string name="home_title_none">Выберите объекты</string>
+    <string name="invisible_mode_error_tip">Режим инкогнито. Запись аудио недоступна.</string>
     <string name="is_checked">Выбрано</string>
     <string name="is_go_home">Возврат на главную страницу</string>
     <string name="is_go_home_summary">Открывать главную страницу приложения после остановки записи</string>

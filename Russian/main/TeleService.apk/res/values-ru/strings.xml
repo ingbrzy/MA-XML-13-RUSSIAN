@@ -2350,7 +2350,7 @@ UT-интерфейс: %5$s"</string>
     <string name="registration_status_failed_try_later">Не удалось зарегистрировать аккаунт (%s). Новая попытка будет предпринята позже.</string>
     <string name="registration_status_invalid_credentials">Не удалось зарегистрировать аккаунт. Неверное имя пользователя или пароль.</string>
     <string name="registration_status_no_data">Не удалось зарегистрировать аккаунт. Отсутствует подключение к интернету.</string>
-    <string name="registration_status_no_wifi_data">Не удалось зарегистрировать аккаунт. Отсутствует подключение к сети Wi-Fi</string>
+    <string name="registration_status_no_wifi_data">Не удалось зарегистрировать аккаунт. Отсутствует подключение к Wi-Fi</string>
     <string name="registration_status_not_receiving">Вызовы не принимаются</string>
     <string name="registration_status_not_running">Не удалось зарегистрировать аккаунт.</string>
     <string name="registration_status_registering">Регистрация…</string>
@@ -2946,7 +2946,7 @@ UT-интерфейс: %5$s"</string>
     <string name="verify_apps_over_usb_title">Проверять приложения при установке</string>
     <string name="vibrating_for_outgoing_call_accepted_summary">Включить вибрацию для разрешенного исходящего вызова</string>
     <string name="vibrating_for_outgoing_call_accepted_title">Вибрация для исходящего вызова</string>
-    <string name="vice_card_data_in_use_alert">Могут возникнуть дополнительные затраты.</string>
+    <string name="vice_card_data_in_use_alert">Возможны дополнительные затраты</string>
     <string name="vice_slot_volte_data_switch_prompt">Во время вызовов VoLTE ваше устройство сможет использовать мобильный интернет через вторую SIM-карту. Это может вызвать дополнительные затраты. Обратитесь к вашему оператору связи за информацией о тарифном плане.</string>
     <string name="vice_slot_volte_data_switch_summary">Во время вызовов VoLTE устройство сможет использовать мобильный интернет через вторую SIM-карту</string>
     <string name="vice_slot_volte_data_switch_title">Мобильный интернет во время вызовов VoLTE</string>

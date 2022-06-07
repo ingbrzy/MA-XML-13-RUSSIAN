@@ -3125,7 +3125,7 @@ ID:%s
     <string name="nfc_door_card">Ключ-карты</string>
     <string name="nfc_door_card_battery_not_enough">Заряд батареи ниже 20%. Добавьте карту на устройство.</string>
     <string name="nfc_door_card_battery_sync_error">Добавьте карту на устройство.</string>
-    <string name="nfc_door_card_protocol_dialog_content_contain">"&lt;Data> Я принимаю на себя ответственность за любой ущерб или убытки, которые могут возникнуть в результате незаконного или ненадлежащего использования сервиса ключ-карты.&lt;br>Я принимаю&lt;a href=\"%1$s\">Пользовательское соглашение Key Card&lt;/a>.&lt;br>&lt;/Data>"</string>
+    <string name="nfc_door_card_protocol_dialog_content_contain">"&lt;Data> Я принимаю на себя ответственность за любой ущерб или убытки, которые возможны при незаконном или ненадлежащем использовании сервиса ключ-карты.&lt;br>Я принимаю&lt;a href=\"%1$s\">Пользовательское соглашение Key Card&lt;/a>.&lt;br>&lt;/Data>"</string>
     <string name="nfc_door_card_protocol_dialog_title">Внимание</string>
     <string name="nfc_dot">.</string>
     <string name="nfc_email_receive_code">E-mail</string>

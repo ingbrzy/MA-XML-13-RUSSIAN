@@ -800,7 +800,7 @@
     <string name="error_no_network_msg">Убедитесь, что ваше устройство подключено к Wi-Fi или включен мобильный интернет.</string>
     <string name="error_no_network_tip">Не удалось подключиться к сети</string>
     <string name="error_no_wifi_action">Продолжить</string>
-    <string name="error_no_wifi_msg">Отсутствует подключение Wi-Fi. Использование мобильного интернета может вызвать дополнительные затраты.</string>
+    <string name="error_no_wifi_msg">Отсутствует подключение к Wi-Fi. Использование мобильного интернета может вызвать дополнительные затраты.</string>
     <string name="error_no_wifi_tip">Не удалось подключиться к Wi-Fi</string>
     <string name="error_not_acceptable">Синхронизация отключена.</string>
     <string name="error_not_synced_action">Синхронизировать</string>
@@ -1652,7 +1652,7 @@
     <string name="movie_download">Загрузить</string>
     <string name="movie_download_failed">Ошибка загрузки</string>
     <string name="movie_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
-    <string name="movie_download_sdk_without_wifi_msg">Отсутствует подключение Wi-Fi. Загрузить требуемый плагин (3 МБ) через мобильный интернет?</string>
+    <string name="movie_download_sdk_without_wifi_msg">Отсутствует подключение к Wi-Fi. Загрузить требуемый плагин (3 МБ) через мобильный интернет?</string>
     <string name="movie_download_sdk_without_wifi_title">Предупреждение о трафике</string>
     <string name="movie_download_with_metered_network_msg">Загрузка исходных файлов может привести к дополнительным тратам. Загрузить?</string>
     <string name="movie_download_with_metered_network_title">Мобильный интернет</string>
