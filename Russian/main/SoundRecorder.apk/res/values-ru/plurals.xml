@@ -142,7 +142,7 @@
     <plurals name="time_left_for_clear_file">
         <item quantity="other">Осталось %d дней</item>
         <item quantity="one">Остался %d день</item>
-        <item quantity="one">Осталос %d дня</item>
+        <item quantity="few">Осталос %d дня</item>
     </plurals>
     <plurals name="trash_box_delete_items">
         <item quantity="other">Удалить %d выбранных записей из корзины?</item>
