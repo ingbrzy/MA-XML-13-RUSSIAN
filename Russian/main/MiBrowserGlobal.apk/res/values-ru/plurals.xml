@@ -165,7 +165,7 @@
     <plurals name="search_trending_views">
         <item quantity="other">%s поисковых запросов</item>
         <item quantity="one">%s поисковый запрос</item>
-        <item quantity="other">%s поисковых запроса</item>
+        <item quantity="few">%s поисковых запроса</item>
     </plurals>
     <plurals name="sku_price">
         <item quantity="other">%2$s каждые %1$s месяцев</item>
