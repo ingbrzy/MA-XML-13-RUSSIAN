@@ -398,7 +398,7 @@
     <string name="permission_group_title_others">Другое</string>
     <string name="permission_group_title_privacy_related">Конфиденциальность</string>
     <string name="permission_group_title_settings_related">Настройки</string>
-    <string name="permission_request_title">Требуется разрешение </string>
+    <string name="permission_request_title">Требуется разрешение</string>
     <string name="permission_review_title_template_install">Установите нужные разрешения для %1$s</string>
     <string name="permission_review_title_template_update">Приложение %1$s обновлено. Установите нужные разрешения.</string>
     <string name="permission_review_warning_title_template_update">Приложение %1$s обновлено. Разрешить %1$s доступ к нижеперечисленному?</string>

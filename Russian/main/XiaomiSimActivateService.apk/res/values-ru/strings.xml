@@ -192,14 +192,14 @@
     <string name="error_network_io_tip">Проверьте настройки сети и попробуйте еще раз</string>
     <string name="error_no_get_send_sms_permission">Разрешите SIM %d отправку SMS</string>
     <string name="error_no_get_send_sms_permission_one_sim">Разрешите отправку SMS</string>
-    <string name="error_no_send_sms_permission">Сервису активации Xiaomi SIM требуется разрешение на отправку SMS</string>
+    <string name="error_no_send_sms_permission">Разрешите сервису активации Xiaomi SIM отправку SMS</string>
     <string name="error_sim_not_in_service">Не удалось активировать SIM-карту. Убедитесь, что на вашем балансе достаточно средств.</string>
     <string name="error_sim_not_in_service_tip">SIM %d не может подключиться к сети. Убедитесь, что SIM-карта работает правильно и повторите попытку.</string>
     <string name="error_sim_not_in_service_tip_one_sim">Не удалось подключиться к сети. Убедитесь, что SIM-карта работает правильно и повторите попытку.</string>
     <string name="evening">После полудня</string>
     <string name="explain_activate_feature_server_title">Активировать %s</string>
     <string name="explain_activate_register_xiaomi_account_title">Создание Mi аккаунта</string>
-    <string name="explain_activate_send_sms_permission_msg">Для активации %s требуется разрешение на отправку SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
+    <string name="explain_activate_send_sms_permission_msg">Для активации %s разрешите отправку SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
     <string name="explain_send_sms_permission_button">Подтвердить</string>
     <string name="explain_send_sms_permission_msg">Для активации %s Xiaomi Service Framework отправит SMS, чтобы подтвердить ваш номер телефона. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="explain_send_sms_permission_title">Подтвердите номер телефона</string>

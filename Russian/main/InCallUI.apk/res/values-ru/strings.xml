@@ -186,6 +186,9 @@
     <string name="dialpad_wxyz">ЬЭЮЯ</string>
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Видеозвонки не поддерживаются на другом устройстве</string>
+    <string name="dsda_answer_call_prompt">Принятие этого вызова завершит текущий вызов</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">SIM %1$d недоступна для вызовов. Текущее сетевое окружение не поддерживает работу с двумя SIM-картами.</string>
+    <string name="dsda_swap_call_prompt">Если продолжите, вы будете переключены на голосовой вызов</string>
     <string name="early_morning">Утро</string>
     <string name="emergency_call_dialog_number_for_display">Экстренный номер</string>
     <string name="enter_ai_assistant">Использовать</string>
@@ -350,8 +353,8 @@
     <string name="relay_cal_from_device_name">От %1$s</string>
     <string name="relay_call">Ретрансляция</string>
     <string name="relay_call_device_name">Подключенное устройство (%1$s)</string>
-    <string name="relay_deny_permission_msg">Для ретрансляции вызовов требуется разрешение на запись аудио</string>
-    <string name="relay_grant_permissions_on_phone">Предоставьте разрешение на запись аудио</string>
+    <string name="relay_deny_permission_msg">Для ретрансляции вызовов разрешите запись аудио</string>
+    <string name="relay_grant_permissions_on_phone">Разрешите запись аудио</string>
     <string name="relay_known">Понятно</string>
     <string name="relay_network_error">Ошибка сети</string>
     <string name="relay_network_error_msg">Вызовы недоступны из-за ошибки сети, переключитесь на основное устройство.</string>
@@ -375,6 +378,7 @@
     <string name="select_audio_dialog_title">Выберите режим автоответчика</string>
     <string name="select_one_sim_title">Можно использовать только SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Можно использовать только SIM %1$d Sub %2$d</string>
+    <string name="select_other_sim_card_dial">Использовать SIM %1$d</string>
     <string name="select_sim_hint">Нельзя использовать SIM %2$d, когда SIM %1$d занята.</string>
     <string name="select_sim_hint_for_heduohao">Нельзя использовать, когда SIM %1$d Sub %2$d занята.</string>
     <string name="select_voice_call_sim">Выберите SIM-карту</string>

@@ -324,7 +324,7 @@
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
     <string name="aiwatermark_location_absent_hint">Не удалось получить информацию о местоположении</string>
     <string name="aiwatermark_location_list_title">Геолокация</string>
-    <string name="aiwatermark_location_tips">Разрешите приложению использование геолокации для получения актуальных водяных знаков</string>
+    <string name="aiwatermark_location_tips">Разрешите приложению использовать геолокацию для получения актуальных водяных знаков</string>
     <string name="altitude_text">Высота</string>
     <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">О длительной выдержке</string>
@@ -443,7 +443,7 @@
     <string name="camera_newcta_audio_message">Для записи видео со звуком</string>
     <string name="camera_newcta_camera_message">Для съемки фото и видео</string>
     <string name="camera_newcta_message">"Добро пожаловать в приложение \"Камера\"! С помощью этого приложения вы можете снимать фото и видео. "</string>
-    <string name="camera_newcta_other_message">Для предоставления дополнительных сервисов, требуется разрешение использовать геолокацию.</string>
+    <string name="camera_newcta_other_message">Для предоставления дополнительных сервисов разрешите использование геолокации</string>
     <string name="camera_newcta_storage_message">Для сохранения и отображения фото и видео</string>
     <string name="camera_setting">Камера</string>
     <string name="camera_settings_category_development">Экспериментальные функции</string>
@@ -912,7 +912,7 @@
     <string name="location_access_allow">Разрешить</string>
     <string name="location_fromkeyguard_not_permission">У приложения \"Камера\" отсутствует разрешение использовать геолокацию. Разблокируйте устройство.</string>
     <string name="location_permission_des">Добавлять информацию о местоположении в фото и видео</string>
-    <string name="location_permission_not_ask_again">Разрешите приложению использование геолокации</string>
+    <string name="location_permission_not_ask_again">Разрешите приложению использовать геолокацию</string>
     <string name="location_permission_not_ask_again_go_to_settings">Разрешить</string>
     <string name="log_format">LOG</string>
     <string name="longitude_text">Долгота</string>

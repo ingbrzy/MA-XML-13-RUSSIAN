@@ -54,8 +54,8 @@
     <string name="unreadable_input">Не удалось прочитать документ</string>
     <string name="waiting_to_send">Ожидание отправки…</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
-    <string name="wifi_direct_location_rationale">Службе печати требуется включение геолокации, для поиска устройств поблизости</string>
-    <string name="wifi_direct_permission_rationale">Службе печати требуется разрешение использовать геолокацию, для поиска устройств поблизости</string>
+    <string name="wifi_direct_location_rationale">Разрешите Службе печати включить геолокацию для поиска устройств поблизости</string>
+    <string name="wifi_direct_permission_rationale">Разрешите Службе печати использовать геолокацию для поиска устройств поблизости</string>
     <string name="wifi_direct_printers">Wi-Fi Direct принтеры</string>
     <string name="wifi_direct_printing">Wi-Fi Direct печать</string>
     <string name="wifi_direct_problem">Службе печати не удалось найти Wi-Fi Direct принтеры</string>

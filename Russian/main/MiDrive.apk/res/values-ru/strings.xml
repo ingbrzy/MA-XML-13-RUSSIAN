@@ -422,7 +422,7 @@
     <string name="rename_success">Успешно переименовано</string>
     <string name="request_permission_confirm">Понятно</string>
     <string name="request_permission_content">Mi Drive требуется доступ к аккаунтам на этом устройстве, чтобы использовать Mi аккаунт для входа в систему. Разрешение на доступ и запись файлов на устройстве необходимо для просмотра, загрузки и синхронизации файлов.</string>
-    <string name="request_permission_content_with_phone_state">Для входа в систему с помощью Mi Аккаунта, просмотра и загрузки файлов, синхронизации, проверки наличия обновлений, приложению Mi Drive требуется разрешение на доступ к аккаунтам, разрешение на чтение и запись файлов, а также разрешение на чтение IMEI.</string>
+    <string name="request_permission_content_with_phone_state">Для входа в систему с помощью Mi Аккаунта, просмотра и загрузки файлов, синхронизации, проверки наличия обновлений, разрешите приложению Mi Drive доступ к аккаунтам, чтение и запись файлов, а также чтение IMEI.</string>
     <string name="request_permission_title">Требуются разрешения</string>
     <string name="root_page_name">Мой диск</string>
     <string name="saturday">Суббота</string>

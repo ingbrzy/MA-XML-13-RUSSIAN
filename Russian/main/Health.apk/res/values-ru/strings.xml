@@ -1481,8 +1481,8 @@ ID:%s
     <string name="splash_title">"В приложении Здоровье можно задать цели активности
 и получить советы
 на основе введенных личных данных."</string>
-    <string name="sport_audio_permission_dialog_content">Приложению требуется разрешение на запись звука, для распознавания и отслеживания тренировок на основе издаваемых звуков</string>
-    <string name="sport_audio_permission_dialog_desc">Отслеживание тренировок на основе издаваемых звуков</string>
+    <string name="sport_audio_permission_dialog_content">Разрешите приложению доступ к микрофону для распознавания и отслеживания тренировок по звукам</string>
+    <string name="sport_audio_permission_dialog_desc">Отслеживание тренировок по звукам</string>
     <string name="sport_audio_permission_dialog_title">Требуются разрешения</string>
     <string name="sport_btn_continue">Возобновить</string>
     <string name="sport_btn_finish">Завершить</string>

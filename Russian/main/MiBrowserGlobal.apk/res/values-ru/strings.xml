@@ -1738,7 +1738,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="permission_notification">отправлять уведомления.</string>
     <string name="permission_notification_prompt">Вы можете запретить уведомления для этого сайта в настройках.</string>
     <string name="permission_open_camera">Сначала разрешите Браузеру доступ к камере в Настройках.</string>
-    <string name="permission_open_location">Сначала разрешите Браузеру использование геолокации в Настройках.</string>
+    <string name="permission_open_location">Сначала разрешите Браузеру использовать геолокацию в Настройках.</string>
     <string name="permission_open_mic">Сначала разрешите Браузеру доступ к микрофону в Настройках.</string>
     <string name="permission_open_storage">Сначала разрешите Браузеру доступ к памяти устройства в Настройках.</string>
     <string name="permission_service">Условия использования</string>
@@ -1940,8 +1940,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_site_settings_cookie_block_title">Блокировать все файлы cookie (не рекомендуется)</string>
     <string name="pref_site_settings_cookie_summary">Файлы cookie – это файлы, создаваемые посещенными вами сайтами для сохранения данных о ваших предпочтениях. Сторонние файлы cookie создаются сторонними веб-сайтами, которые являются владельцами контента (например, рекламы или изображений), который вы видите на посещаемых вами страницах.</string>
     <string name="pref_site_settings_location">Геолокация</string>
-    <string name="pref_site_settings_location_ask">Сайтам потребуется ваше разрешение на использование геолокации (рекомендуется)</string>
-    <string name="pref_site_settings_location_permission">Разрешите использование геолокации в &lt;font color=\"#247BFF\">Настройках Android&lt;/font>.</string>
+    <string name="pref_site_settings_location_ask">Сайтам потребуется ваше разрешение использовать геолокацию (рекомендуется)</string>
+    <string name="pref_site_settings_location_permission">Разрешите использовать геолокацию в &lt;font color=\"#247BFF\">Настройках Android&lt;/font>.</string>
     <string name="pref_site_settings_mic">Микрофон</string>
     <string name="pref_site_settings_mic_ask">Сайтам потребуется ваше разрешение на доступ к микрофону (рекомендуется)</string>
     <string name="pref_site_settings_mic_ask_permission">Включите разрешение на доступ к микрофону в &lt;font color=\"#247BFF\">Настройках Android&lt;/font>.</string>
@@ -2174,7 +2174,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="security_permission_desc_read_phone">Для доступа к IMEI для идентификации устройства</string>
     <string name="security_permission_desc_storage">Для сохранения, выгрузки и загрузки изображений и других файлов</string>
     <string name="security_permission_main_purpose">Просмотр веб-страниц, поиск, чтение книг и новостей, просмотр видео и др.</string>
-    <string name="security_permission_message_location">Приложению требуется разрешение использовать геолокацию, чтобы предоставлять услуги на основе местоположения. Если вы не согласны предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
+    <string name="security_permission_message_location">Разрешите приложению использование геолокации для предоставления услуг на основе местоположения. В случае отказа предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
     <string name="security_permission_negative_btn_location">Отмена</string>
     <string name="security_permission_positive_btn_location">Разрешить</string>
     <string name="security_permission_title_location">Использование геолокации</string>

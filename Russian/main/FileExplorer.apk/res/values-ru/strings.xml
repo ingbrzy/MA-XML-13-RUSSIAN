@@ -530,9 +530,9 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="name_empty">Введите имя</string>
-    <string name="need_open_content">Для использования этой функции, Проводнику требуется разрешение на доступ к фото и файлам</string>
+    <string name="need_open_content">Для использования этой функции разрешите Проводнику доступ к фото и файлам</string>
     <string name="need_open_permission">Требуются разрешения</string>
-    <string name="need_read_storage_permission">Проводнику для нормальной работы требуется разрешение на доступ к хранилищу</string>
+    <string name="need_read_storage_permission">Для нормальной работы разрешите Проводнику доступ к хранилищу</string>
     <string name="network_not_available">Ошибка подключения к сети</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="next">Далее</string>

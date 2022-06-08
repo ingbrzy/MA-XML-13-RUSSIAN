@@ -2689,11 +2689,11 @@ mm"</string>
     <string name="select_webview_provider_toast_text">Вариант недействителен. Повторите попытку.</string>
     <string name="send">Отправить</string>
     <string name="sensor_privacy_mode">Сканеры отключены</string>
-    <string name="sensor_privacy_start_use_camera_dialog_content">Доступ к камере будет разблокирован для всех приложений и служб, которым дано разрешение на использование.</string>
+    <string name="sensor_privacy_start_use_camera_dialog_content">Доступ к камере будет разблокирован для всех приложений и служб, которым дано разрешение</string>
     <string name="sensor_privacy_start_use_camera_dialog_title">Разблокировать камеру?</string>
-    <string name="sensor_privacy_start_use_mic_camera_dialog_content">Доступ к камере и микрофону будет разблокирован для всех приложений и служб, которым дано разрешение на использование.</string>
+    <string name="sensor_privacy_start_use_mic_camera_dialog_content">Доступ к камере и микрофону будет разблокирован для всех приложений и служб, которым дано разрешение</string>
     <string name="sensor_privacy_start_use_mic_camera_dialog_title">Разблокировать камеру и микрофон?</string>
-    <string name="sensor_privacy_start_use_mic_dialog_content">Доступ к микрофону будет разблокирован для всех приложений и служб, которым дано разрешение на использование.</string>
+    <string name="sensor_privacy_start_use_mic_dialog_content">Доступ к микрофону будет разблокирован для всех приложений и служб, которым дано разрешение</string>
     <string name="sensor_privacy_start_use_mic_dialog_title">Разблокировать микрофон?</string>
     <string name="settings_custom_notification">Настройки уведомлений</string>
     <string name="settings_label">Настройки</string>

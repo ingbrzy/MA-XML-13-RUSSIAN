@@ -173,7 +173,7 @@
     <string name="app_commute_guide_button_text">Добавить адрес</string>
     <string name="app_commute_location_close">Использование геолокации</string>
     <string name="app_commute_location_open">Разрешить</string>
-    <string name="app_commute_location_open_tip">Разрешите использование геолокации в Ленте виджетов, для просмотра и построения маршрутов.</string>
+    <string name="app_commute_location_open_tip">Разрешите Ленте виджетов использовать геолокацию для просмотра и построения маршрутов.</string>
     <string name="app_commute_more_lines">Еще</string>
     <string name="app_commute_no_data">Не удалось построить маршрут</string>
     <string name="app_commute_no_data_tip">Попробуйте изменить точку старта или пункт назначения.</string>

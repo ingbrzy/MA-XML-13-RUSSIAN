@@ -4,9 +4,9 @@
     <string name="action_text">Отправка SMS на номер %s</string>
     <string name="app_name">Теги</string>
     <string name="button_done">Готово</string>
-    <string name="call_phone_permission_denied">Этому приложению требуется разрешение на осуществление вызовов. Вы можете изменить разрешения в настройках</string>
+    <string name="call_phone_permission_denied">Разрешите приложению осуществлять вызовы. Разрешение можно изменить в настройках.</string>
     <string name="empty_tag_prompt">Этот тег пуст.</string>
-    <string name="external_storage_permission_denied">Этому приложению требуется доступ к файлам на внешней памяти. Вы можете изменить разрешения в настройках</string>
+    <string name="external_storage_permission_denied">Разрешите приложению доступ к файлам на внешней памяти. Разрешение можно изменить в настройках.</string>
     <string name="import_vcard">Импорт ^1</string>
     <string name="mime_display_name">Данные из тега малого радиуса действия</string>
     <string name="tag_empty">Пустой тег</string>

@@ -1449,7 +1449,7 @@
     <string name="map_album_detail_page_title">Геолокация</string>
     <string name="map_enable_position_service_message">Включите геолокацию для отображения на карте фото и видео</string>
     <string name="map_enable_position_service_title">Геолокация</string>
-    <string name="map_grant_position_permission_after_declined_twice_message">Разрешите приложению \"Галерея\" использование геолокации для отображения на карте фото и видео</string>
+    <string name="map_grant_position_permission_after_declined_twice_message">Разрешите приложению \"Галерея\" использовать геолокацию для отображения на карте фото и видео</string>
     <string name="map_grant_position_permission_subtitle">Для отображения на карте фото и видео</string>
     <string name="map_guide_message">Посмотрите на карте где сняты фото и видео</string>
     <string name="map_location">Перейти к текущему местоположению</string>

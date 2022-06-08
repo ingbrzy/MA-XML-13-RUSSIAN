@@ -115,8 +115,8 @@
     <string name="location_enable_later">Позже</string>
     <string name="location_enabled">Геолокация включена</string>
     <string name="location_north">ШИРОТА (С)</string>
-    <string name="location_not_enabled_summary">Приложению Компас требуется разрешение использовать геолокацию для отображения координат и высоты.</string>
-    <string name="location_not_enabled_summary_no_pressure_sensor">Приложению Компас требуется разрешение использовать геолокацию для отображения ваших текущих координат.</string>
+    <string name="location_not_enabled_summary">Разрешите приложению Компас использовать геолокацию для отображения координат и высоты.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Разрешите приложению Компас использовать геолокацию для отображения ваших текущих координат.</string>
     <string name="location_not_enabled_title">Геолокация</string>
     <string name="location_south">ШИРОТА (Ю)</string>
     <string name="location_west">ДОЛГОТА (З)</string>

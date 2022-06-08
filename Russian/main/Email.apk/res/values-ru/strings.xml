@@ -58,10 +58,10 @@
     <string name="account_permission_user_privacy">Лицензионное соглашение конечного пользователя</string>
     <string name="account_security_dialog_content_fmt">%s требует обновления настроек безопасности.</string>
     <string name="account_security_dialog_title">Обновления безопасности</string>
-    <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства.</string>
+    <string name="account_security_policy_explanation_fmt">Разрешите серверу %s удаленное управление некоторыми функциями безопасности устройства.</string>
     <string name="account_security_title">Безопасность устройства</string>
     <string name="account_security_verification">Проверка аккаунта</string>
-    <string name="account_set_up_change_type_note">Для переключения аккаунта между POP3 и IMAP необходимо удалить аккаунт и настроить новый.</string>
+    <string name="account_set_up_change_type_note">Для переключения аккаунта между POP3 и IMAP удалите аккаунт и настройте новый</string>
     <string name="account_setting">Аккаунты</string>
     <string name="account_setting_general_summry">Общие настройки электронной почты</string>
     <string name="account_setting_general_title">Функции</string>
@@ -392,7 +392,7 @@
     <string name="close_custom_folder">Свернуть</string>
     <string name="collapse_recipient_details">Скрыть информацию</string>
     <string name="compose">Создать</string>
-    <string name="compose_add_attachment_permission_denied">Невозможно переслать электронную почту. Требуется разрешение на доступ к внешней памяти.</string>
+    <string name="compose_add_attachment_permission_denied">Невозможно переслать электронную почту. Разрешите доступ к внешней памяти.</string>
     <string name="compose_attachment_number_limit">Максимум 10 вложений</string>
     <string name="compose_encrypt_lock_description">Зашифровать</string>
     <string name="compose_encrypt_unlock_description">Расшифровать</string>

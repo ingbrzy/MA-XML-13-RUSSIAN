@@ -710,7 +710,7 @@
     <string name="device_search_failed_help">Отладка ошибок соединения</string>
     <string name="device_search_help"><u>Возникли проблемы? Обратитесь к Справке.</u></string>
     <string name="device_search_not_mine">Не мое устройство</string>
-    <string name="device_search_open_location">Для добавления новых устройств, разрешите использование геолокации</string>
+    <string name="device_search_open_location">Разрешите использовать геолокацию для добавления новых устройств</string>
     <string name="device_search_select_tips">Выберите устройство</string>
     <string name="device_searching_nearby">Выполняется поиск</string>
     <string name="device_searching_tips">Поднесите устройство ближе к телефону.</string>

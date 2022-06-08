@@ -200,7 +200,8 @@ ID вашего аккаунта: %s"</string>
     <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Mi Аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Mi Аккаунтом %3$s. Продолжить?</string>
     <string name="continue_action">Продолжить</string>
     <string name="copy">Копировать</string>
-    <string name="copy_to_clipboard_successful">Успешно скопировано</string>
+    <string name="copy_link">Копировать URL</string>
+    <string name="copy_to_clipboard_successful">Скопировано</string>
     <string name="current_location_title">Текущее местоположение</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
@@ -429,6 +430,8 @@ ID:%s
     <string name="multi_user_not_show_sync_activity_title">Не включайте синхронизацию с Xiaomi Cloud</string>
     <string name="my_device_title">Текущее устройство</string>
     <string name="need_install_wechat">Установите WeChat</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="network_error_hint">Проверьте URL-адрес и повторите попытку, либо скопируйте его и откройте в браузере</string>
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="new_version">Новая версия</string>
@@ -466,6 +469,7 @@ ID:%s
     <string name="operator_unicom_agreement">Сервисы проверки China Unicom</string>
     <string name="optional_permissions">Дополнительные разрешения</string>
     <string name="other_devices_title">Другие устройства</string>
+    <string name="page_load_failed">Не удалось открыть страницу</string>
     <string name="passport_Resend">Повторить</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_hint_text">Email/Телефон/ID Mi Аккаунта</string>
@@ -552,7 +556,7 @@ ID:%s
     <string name="passport_google_login_failed">Не удалось войти в систему с помощью аккаунта Google. Используйте для входа Mi Аккаунт.</string>
     <string name="passport_i_know">Понятно</string>
     <string name="passport_identification_expired">Код устарел, начните сначала</string>
-    <string name="passport_imei_permission_denied_message">Требуется разрешение на доступ к IMEI вашего устройства. Для обеспечения безопасности, Mi Аккаунт использует идентификацию с использованием IMEI устройства, на котором вы регистрируетесь.</string>
+    <string name="passport_imei_permission_denied_message">Разрешите доступ к IMEI вашего устройства. Для обеспечения безопасности, Mi Аккаунт использует идентификацию с использованием IMEI устройства, на котором вы регистрируетесь.</string>
     <string name="passport_imei_permission_denied_title">Доступ к IMEI</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>
     <string name="passport_input_password_for_login">Этот номер связан с существующим аккаунтом, введите пароль</string>

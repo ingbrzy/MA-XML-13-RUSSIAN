@@ -495,7 +495,7 @@
     <string name="newbuildfile">Новый файл</string>
     <string name="nickname">Псевдоним: </string>
     <string name="night">Вечер</string>
-    <string name="no_has_experience_version_permission">У вас нет разрешения на использование бета-версии приложения. Подайте заявку на использование или загрузите стабильную версию.</string>
+    <string name="no_has_experience_version_permission">У вас нет разрешения использовать бета-версию приложения. Подайте заявку или загрузите стабильную версию.</string>
     <string name="no_inner_version">Бета-версия недоступна</string>
     <string name="no_network">Не удалось подключиться к сети. Повторите попытку позже.</string>
     <string name="no_one_phone">Введите правильный номер телефона</string>
@@ -752,7 +752,7 @@
     <string name="store_feedback_prompt">Напишите отзыв</string>
     <string name="store_location_dialog">Сервис предоставляется Dianping. Все фотографии, сделанные вами во время использования этого сервиса, включая информацию о местоположении, будут переданы в Dianping для получения информации о магазинах.</string>
     <string name="store_location_fail">Не удалось получить информацию о местоположении</string>
-    <string name="store_location_prompt">Разрешите приложению использование геолокации для идентификации магазинов</string>
+    <string name="store_location_prompt">Разрешите приложению использовать геолокацию для идентификации магазинов</string>
     <string name="store_module_title">Магазин</string>
     <string name="store_no_date">Не удалось идентифицировать магазин</string>
     <string name="store_title">Сканирование знака магазина</string>

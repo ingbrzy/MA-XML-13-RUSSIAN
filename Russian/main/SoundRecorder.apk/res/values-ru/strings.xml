@@ -462,7 +462,7 @@
     <string name="record_mark_point">Метка %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
-    <string name="record_permission_dialog_title">Требуются разрешения на использование микрофона</string>
+    <string name="record_permission_dialog_title">Требуется разрешение использовать микрофон</string>
     <string name="record_quliaty_preference_title">Качество записи</string>
     <string name="record_resotre">Восстановить записи</string>
     <string name="recorder_record">Аудио</string>
