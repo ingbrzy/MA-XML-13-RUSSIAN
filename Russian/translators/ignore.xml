@@ -3763,6 +3763,8 @@
     <string name="preference_category_information_setting">category_information_setting</string>
     <string name="preference_category_key_antivirus_setting">key_category_antivirus_setting</string>
     <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
+    <string name="preference_category_key_engine_settings">key_category_engine_settings</string>
+    <string name="preference_category_key_whatsapp_privacy">key_category_whatsapp_privacy</string>
     <string name="preference_category_revoke_privacy_setting">revoke_privacy_setting</string>
     <string name="preference_category_videobox_app_group">category_videobox_app_group</string>
     <string name="preference_category_videobox_line_group">category_videobox_line_group</string>

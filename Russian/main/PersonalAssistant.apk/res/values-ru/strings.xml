@@ -1880,6 +1880,7 @@ ID:%s
     <string name="pa_picker_detail_small_widget">Виджеты</string>
     <string name="pa_picker_detail_theme_app_cta">Настройки</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Чтобы использовать этот виджет, разрешите приложению Темы подключение к интернету. "</string>
+    <string name="pa_picker_detail_vp2_indicator">Выбранные страницы: %1$d из %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Ожидание загрузки через Wi-Fi</string>
     <string name="pa_picker_home_app_group_title">Приложения с виджетами</string>
     <string name="pa_picker_home_group_more">Все</string>

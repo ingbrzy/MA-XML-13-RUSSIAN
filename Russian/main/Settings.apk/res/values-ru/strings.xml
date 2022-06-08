@@ -66,7 +66,7 @@
     <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
     <string name="access_control_password_title">Использовать пароль</string>
     <string name="access_control_recording_intro_header">Задайте графический ключ</string>
-    <string name="access_control_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
+    <string name="access_control_reset_by_account">Войдите в Xiaomi Аккаунт для сброса пароля</string>
     <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_audio_adjustment_title">Корректировка аудио</string>
@@ -1296,8 +1296,8 @@
     <string name="billing_cycle_none_left">Время истекло</string>
     <string name="billing_cycle_summary">Платежный цикл начинается %1$s-го числа каждого месяца</string>
     <string name="bind_xiaomi_account_confirm">Привязать</string>
-    <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса.</string>
-    <string name="bind_xiaomi_account_success">Mi Аккаунт привязан</string>
+    <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Xiaomi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса.</string>
+    <string name="bind_xiaomi_account_success">Xiaomi Аккаунт привязан</string>
     <string name="biometric_settings_category_ways_to_unlock">Способы разблокировки</string>
     <string name="biometric_settings_category_ways_to_use">Использовать распознавание лица и отпечаток</string>
     <string name="biometric_settings_hand_back_to_guardian">Верни устройство родителю</string>
@@ -3847,8 +3847,8 @@ ID: %s
     <string name="forget_password_dialog_content_two">Как стереть данные:</string>
     <string name="forget_password_dialog_title">Сброс пароля</string>
     <string name="forget_pattern"><u>Забыли ключ?</u></string>
-    <string name="forget_privacy_password_setting">Привязать Mi Аккаунт</string>
-    <string name="forget_privacy_password_summary">Использовать Mi Аккаунт для сброса пароля</string>
+    <string name="forget_privacy_password_setting">Привязать Xiaomi Аккаунт</string>
+    <string name="forget_privacy_password_summary">Использовать Xiaomi Аккаунт для сброса пароля</string>
     <string name="forget_wifi_message">Устройство перестанет автоматически подключаться к этой сети. При повторном подключении к этой сети может потребоваться ввод пароля.</string>
     <string name="forgot_password_text">ИТ-администратор может помочь сбросить PIN-код, графический ключ или пароль.</string>
     <string name="forgot_password_title">Обратитесь к своему ИТ-администратору</string>
@@ -7190,9 +7190,9 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_notes">Приватные заметки</string>
     <string name="privacy_password">Пароль конфиденциальности</string>
     <string name="privacy_password_add_account">Привязать</string>
-    <string name="privacy_password_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
-    <string name="privacy_password_add_account_setting">Привязка к аккаунту Mi</string>
-    <string name="privacy_password_bind_account">Привязать Mi Аккаунт</string>
+    <string name="privacy_password_add_account_info">Привяжите Xiaomi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
+    <string name="privacy_password_add_account_setting">Аккаунт и конфиденциальность</string>
+    <string name="privacy_password_bind_account">Привязать Xiaomi Аккаунт</string>
     <string name="privacy_password_bind_account_immediate">Привязать</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Подтвердите пароль второго пространства</string>
     <string name="privacy_password_confirm_use_finger">Отпечаток</string>
@@ -7207,8 +7207,8 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_never_remind">Больше не спрашивать</string>
     <string name="privacy_password_not_add_account">Не сейчас</string>
     <string name="privacy_password_not_login_account">Вход не выполнен</string>
-    <string name="privacy_password_remind_bind_notlogin_account">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
-    <string name="privacy_password_remind_bindaccount_title">Привяжите Mi Аккаунт</string>
+    <string name="privacy_password_remind_bind_notlogin_account">Привяжите Xiaomi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
+    <string name="privacy_password_remind_bindaccount_title">Привяжите Xiaomi Аккаунт</string>
     <string name="privacy_password_settings">Использовать пароль конфиденциальности</string>
     <string name="privacy_password_settings_next">Далее</string>
     <string name="privacy_password_settings_summary">Пароль конфиденциальности защищает приватные сообщения, фото, файлы и заметки</string>
