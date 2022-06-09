@@ -172,7 +172,7 @@
     <string name="launcher_app_cant_be_used_by_work_profile">Эта панель запуска не поддерживает рабочие профили</string>
     <string name="learn_more_label">Кнопка \"Подробнее\"</string>
     <string name="learn_more_link">Подробнее…</string>
-    <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">Это небезопасная ссылка, поэтому ее нельзя открыть, пока устройство не настроено: %1$s</string>
+    <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">Это небезопасная ссылка, поэтому её нельзя открыть, пока устройство не настроено: %1$s</string>
     <string name="lock_device_description">Заблокируйте это устройство, если не осуществляете платежи</string>
     <string name="managed_device_info">Информация об управляемом устройстве</string>
     <string name="managed_provisioning_error_text">Не удалось настроить рабочий профиль. Обратитесь в отдел технической поддержки вашей компании или повторите попытку позже.</string>

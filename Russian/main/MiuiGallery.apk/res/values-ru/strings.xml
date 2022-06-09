@@ -2314,7 +2314,7 @@
     <string name="scanning_device_tips">Поиск устройств поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
     <string name="scope_storage_dialog_cancel_btn">Отмена</string>
     <string name="scope_storage_dialog_confirm_btn">Далее</string>
-    <string name="scope_storage_dialog_description">Разрешения галереи обновлены. Разрешите Галерее доступ к этой папке для просмотра ее содержимого.</string>
+    <string name="scope_storage_dialog_description">Разрешения галереи обновлены. Разрешите Галерее доступ к этой папке для просмотра её содержимого.</string>
     <string name="scope_storage_dialog_guide_content"><Data>Нажмите &lt;b>\"%1$s\"&lt;/b> и выберите &lt;b>\"%2$s\"&lt;/b>.</Data></string>
     <string name="scope_storage_dialog_guide_title">Предоставление разрешения</string>
     <string name="scope_storage_dialog_title">Требуются разрешения</string>

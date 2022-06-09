@@ -232,7 +232,7 @@
     <string name="app_express_detail_list_empty_text">"Информация здесь может появиться с задержкой.
 Вы также можете отслеживать экспресс доставку на официальных сайтах служб доставки."</string>
     <string name="app_express_detail_more">Еще</string>
-    <string name="app_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого ее статус больше не будет обновляться.</string>
+    <string name="app_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого её статус больше не будет обновляться.</string>
     <string name="app_express_empty_extra">Проверить</string>
     <string name="app_express_empty_title">Нет информации о доставке</string>
     <string name="app_express_install_scan_toast">Установите сканер, чтобы использовать эту функцию.</string>
@@ -1371,7 +1371,7 @@ ID:%s
     <string name="mini_debug_app_error">Ошибка программы! Кликните для подтверждения выхода</string>
     <string name="mini_download">Загрузить</string>
     <string name="mini_error_title_default">Примечание</string>
-    <string name="mini_expiry_date_content">Срок действия - это набор цифр на лицевой стороне карты ниже ее номера, по стандарту сначала идет месяц, затем - год</string>
+    <string name="mini_expiry_date_content">Срок действия - это набор цифр на лицевой стороне карты ниже её номера, по стандарту сначала идет месяц, затем - год</string>
     <string name="mini_expiry_date_title">Описание срока действия</string>
     <string name="mini_format_error">Ошибка формата</string>
     <string name="mini_fp_no_open_pay">Информация об отпечатках пальцев изменена, заново активируйте пароль к отпечаткам пальцев</string>
@@ -1701,7 +1701,7 @@ ID:%s
 Вы также можете отслеживать экспресс-доставку на официальных сайтах курьерских служб."</string>
     <string name="pa_express_detail_more">Еще</string>
     <string name="pa_express_detail_order_number_prefix">Номер отслеживания: %s</string>
-    <string name="pa_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого ее статус больше не будет обновляться.</string>
+    <string name="pa_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого её статус больше не будет обновляться.</string>
     <string name="pa_express_empty_extra">Отслеживание</string>
     <string name="pa_express_empty_title">Нет информации</string>
     <string name="pa_express_i_known">ОК</string>
@@ -2101,8 +2101,8 @@ ID:%s
     <string name="payment_clear_records_failed">Не удалось очистить историю платежей</string>
     <string name="payment_clear_records_success">Очищенная история платежей</string>
     <string name="payment_date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="payment_dialog_notice_message">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ленту виджетов вручную. Информация об оплате из других приложений может быть экспортирована вручную.</string>
-    <string name="payment_dialog_notice_message_inside">WeChat не поддерживает экспорт информации о платеже, вы можете добавить ее в Ленту виджетов вручную.</string>
+    <string name="payment_dialog_notice_message">WeChat не поддерживает экспорт информации о платеже, вы можете добавить её в Ленту виджетов вручную. Информация об оплате из других приложений может быть экспортирована вручную.</string>
+    <string name="payment_dialog_notice_message_inside">WeChat не поддерживает экспорт информации о платеже, вы можете добавить её в Ленту виджетов вручную.</string>
     <string name="payment_dialog_notice_ok">Понятно</string>
     <string name="payment_dialog_notice_title">Платежная информация</string>
     <string name="payment_guide_hint">Сбор информации об оплате из Сообщений и других приложений.</string>

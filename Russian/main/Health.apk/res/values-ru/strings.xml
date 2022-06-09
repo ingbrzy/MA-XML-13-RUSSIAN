@@ -143,7 +143,7 @@
     <string name="basic_info_label_height">Рост</string>
     <string name="basic_info_label_weight">Вес</string>
     <string name="basic_info_save">Сохранить</string>
-    <string name="bedTime_early_description">Вы рано легли спать. Если это ваша обычная привычка, можете придерживаться ее и игнорировать данное сообщение.</string>
+    <string name="bedTime_early_description">Вы рано легли спать. Если это ваша обычная привычка, можете придерживаться её и игнорировать данное сообщение.</string>
     <string name="bedTime_late_description">Вы поздно легли спать.</string>
     <string name="bedTime_normal_description">Вы легли спать вовремя. Так держать!</string>
     <string name="bedtime">Режим сна</string>
@@ -1445,7 +1445,7 @@ ID:%s
     <string name="snore_dream_talk">Храп и разговор во сне</string>
     <string name="snore_duration_label">Продолжительность храпа</string>
     <string name="snore_label">Храп</string>
-    <string name="snore_record_audio_delete_message">Эта запись хранится только на вашем устройстве. Вы не сможете восстановить ее, если удалите. Все равно удалить?</string>
+    <string name="snore_record_audio_delete_message">Эта запись хранится только на вашем устройстве. Вы не сможете восстановить её, если удалите. Все равно удалить?</string>
     <string name="snore_record_audio_delete_title">Удалить запись?</string>
     <string name="snore_section">Храп %1$s</string>
     <string name="snore_write_description">Для сохранения аудиозаписей на устройстве</string>

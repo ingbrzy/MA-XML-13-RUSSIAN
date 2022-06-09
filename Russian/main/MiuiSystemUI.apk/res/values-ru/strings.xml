@@ -165,7 +165,7 @@
     <string name="accessibility_floating_button_action_move_to_edge_and_hide_to_half">Сдвинуть к краю и скрыть</string>
     <string name="accessibility_floating_button_action_move_top_left">Влево вверх</string>
     <string name="accessibility_floating_button_action_move_top_right">Вправо вверх</string>
-    <string name="accessibility_floating_button_docking_tooltip">Переместите кнопку к краю, чтобы временно скрыть ее</string>
+    <string name="accessibility_floating_button_docking_tooltip">Переместите кнопку к краю, чтобы временно скрыть её</string>
     <string name="accessibility_floating_button_migration_tooltip">"Вызов функции спец. возможностей жестом изменен на вызов кнопкой
 
 "<annotation id="link">Настройки</annotation></string>
@@ -1436,7 +1436,7 @@
     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Вчера %s</string>
     <string name="keyguard_charging_info_last_charged_time_text">Последняя зарядка</string>
-    <string name="keyguard_charging_info_tip_text1">Для продления срока службы батареи держите ее заряд на уровне не менее 10%</string>
+    <string name="keyguard_charging_info_tip_text1">Для продления срока службы батареи держите её заряд на уровне не менее 10%</string>
     <string name="keyguard_charging_info_tip_text2">Не подвергайте батарею перезаряду. Несколько коротких подзарядок лучше, чем одна долгая.</string>
     <string name="keyguard_charging_info_tip_text3">Не следует заряжать устройство при температуре воздуха ниже 0℃.</string>
     <string name="keyguard_charging_info_tip_text4">Не следует активно использовать устройство во время зарядки во избежание перегрева.</string>
@@ -2558,7 +2558,7 @@ mm"</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remote_input_image_insertion_text">отправить как изображение</string>
     <string name="remove_from_settings">Удалить из Настроек</string>
-    <string name="remove_from_settings_prompt">Убрать функцию System UI Tuner из меню настроек и прекратить ее работу?</string>
+    <string name="remove_from_settings_prompt">Убрать функцию System UI Tuner из меню настроек и прекратить её работу?</string>
     <string name="report_rejected_touch">Сообщить об отклоненном касании</string>
     <string name="require_unlock_for_nfc">Разблокируйте для использования NFC</string>
     <string name="reset">Сбросить</string>

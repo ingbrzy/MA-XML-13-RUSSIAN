@@ -955,7 +955,7 @@
     </plurals>
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">Найдено %d проблем с питанием, решите их</item>
-        <item quantity="one">Найдена %d проблема с питанием, решите ее</item>
+        <item quantity="one">Найдена %d проблема с питанием, решите её</item>
         <item quantity="few">Найдено %d проблемы с питанием, решите их</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">

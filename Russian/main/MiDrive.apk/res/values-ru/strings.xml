@@ -368,7 +368,7 @@
     <string name="operation_save">Сохранить</string>
     <string name="operation_sure_to_delete">Удалить?</string>
     <string name="operation_transport_success">Добавлено в список загрузки</string>
-    <string name="operation_will_not_show_after_delete">Запись больше не будет отображаться здесь, если удалите ее</string>
+    <string name="operation_will_not_show_after_delete">Запись больше не будет отображаться здесь, если удалите её</string>
     <string name="pause_all">Приостановить все</string>
     <string name="pause_download">Приостановлено</string>
     <string name="pause_upload">Приостановлено</string>

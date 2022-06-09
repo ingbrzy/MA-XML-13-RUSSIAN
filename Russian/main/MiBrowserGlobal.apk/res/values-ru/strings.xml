@@ -2499,7 +2499,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="tip_drag">Удерживайте для изменения и перетаскивайте для сортировки</string>
     <string name="tip_not_support_external_sdcard_modify">Нельзя изменять файлы, сохраненные на SD-карте</string>
     <string name="tip_sync_disabled_by_incognito">Нельзя синхронизировать данные в режиме инкогнито.</string>
-    <string name="tip_sync_switch_off">Синхронизация отключена. Вы можете включить ее в разделе \"Мой аккаунт\".</string>
+    <string name="tip_sync_switch_off">Синхронизация отключена. Вы можете включить её в разделе \"Мой аккаунт\".</string>
     <string name="title_app_tags">Приложения</string>
     <string name="title_bar_loading">Загрузка…</string>
     <string name="title_command_mode">Командный режим</string>
@@ -2630,7 +2630,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="video_download_wait_for_network">Ожидание сети</string>
     <string name="video_download_wait_for_wifi">Ожидание Wi-Fi</string>
     <string name="video_downloaded_group">Загруженные</string>
-    <string name="video_downloader_edit_hint">"Скопируйте ссылку и вставьте ее, чтобы начать загрузку видео. Например:
+    <string name="video_downloader_edit_hint">"Скопируйте ссылку и вставьте её, чтобы начать загрузку видео. Например:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">Не удалось загрузить этот объект</string>
     <string name="video_downloader_retry">Повторить</string>

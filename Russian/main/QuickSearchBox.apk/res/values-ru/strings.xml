@@ -111,7 +111,7 @@
     <string name="common_home_search_delete">Удаление панели поиска</string>
     <string name="common_home_search_delete_cancle">Отмена</string>
     <string name="common_home_search_delete_confirm">Удалить</string>
-    <string name="common_home_search_delete_content">Вы не сможете выполнять поиск при помощи панели поиска после ее удаления. Удалить?</string>
+    <string name="common_home_search_delete_content">Вы не сможете выполнять поиск при помощи панели поиска после её удаления. Удалить?</string>
     <string name="common_hot">Популярные поисковые запросы</string>
     <string name="common_hot_subtitle">Получать рекомендации, основанные на популярных запросах</string>
     <string name="common_modify_download_path_title">Папка для загрузок</string>

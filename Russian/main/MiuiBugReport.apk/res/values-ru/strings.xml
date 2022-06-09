@@ -89,7 +89,7 @@
     <string name="catch_full_log_action_start">Начать</string>
     <string name="catch_full_log_add_original_photo">Добавить оригинал фото или видео</string>
     <string name="catch_full_log_add_photo">Добавить фото</string>
-    <string name="catch_full_log_add_photo_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти ее. Добавить фото?</string>
+    <string name="catch_full_log_add_photo_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти её. Добавить фото?</string>
     <string name="catch_full_log_category">Категории</string>
     <string name="catch_full_log_dialog_confirm_text">На рабочий стол</string>
     <string name="catch_full_log_dialog_content">Это может повлиять на общую производительность вашего устройства. Если вы не можете воспроизвести проблему, о которой хотите сообщить, вернитесь к журналам и нажмите \"Отменить\".</string>
@@ -207,7 +207,7 @@ ID: %s
     <string name="feedback_answer_detail_feedback_unresolved">Нет</string>
     <string name="feedback_answer_detail_relative_question">Это может быть актуально</string>
     <string name="feedback_answer_detail_submit_dialog_confirm">Отправить</string>
-    <string name="feedback_answer_detail_submit_dialog_content">Вы можете описать проблему, с которой столкнулись, и мы постараемся ее исправить. Отправить отзыв?</string>
+    <string name="feedback_answer_detail_submit_dialog_content">Вы можете описать проблему, с которой столкнулись, и мы постараемся её исправить. Отправить отзыв?</string>
     <string name="feedback_answer_detail_submit_dialog_title">Отправить отзыв?</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s проблема \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Выберите проблему</string>

@@ -2024,7 +2024,7 @@ ID:%s
 2. Полноценный отдых."</string>
     <string name="health_data_energy_recovery_title">Восстановить силы поможет:</string>
     <string name="health_data_energy_rest_home_desc">Энергия %1$s</string>
-    <string name="health_data_energy_understand_detail">Ваше носимое устройство использует данные вариабельности сердечного ритма для оценки запаса ваших сил, чтобы помочь определить, когда следует заняться активным отдыхом или сделать перерыв. Стресс и тренировки могут истощить силы, а сон и отдых восстанавливают ее.</string>
+    <string name="health_data_energy_understand_detail">Ваше носимое устройство использует данные вариабельности сердечного ритма для оценки запаса ваших сил, чтобы помочь определить, когда следует заняться активным отдыхом или сделать перерыв. Стресс и тренировки могут истощить силы, а сон и отдых восстанавливают их.</string>
     <string name="health_data_energy_understand_title">Подробнее</string>
     <string name="health_data_explain_mh_intensity">Подробнее</string>
     <string name="health_data_explain_stand">Подробнее</string>
@@ -2933,7 +2933,7 @@ ID:%s
 2. Чтобы завершить оплату, вам может потребоваться ввести цифровой код банковской карты. Для получения дополнительной информации обратитесь к эмитенту банковской карты."</string>
     <string name="nfc_add_card_bank_global">Добавить</string>
     <string name="nfc_add_card_door">Добавить</string>
-    <string name="nfc_add_door_card_custom_desc">Создайте пустую карту и запишите необходимые данные для ее активации</string>
+    <string name="nfc_add_door_card_custom_desc">Создайте пустую карту и запишите необходимые данные для её активации</string>
     <string name="nfc_add_door_card_custom_title">Пустая карта</string>
     <string name="nfc_add_door_card_lock_desc">Добавить умный дверной замок Mi</string>
     <string name="nfc_add_door_card_lock_title"> Умный дверной замок</string>
@@ -3162,17 +3162,17 @@ ID:%s
     <string name="nfc_loading_cards">Загрузка…</string>
     <string name="nfc_locale_not_support">В настоящее время карты Mastercard не поддерживаются в вашем регионе.</string>
     <string name="nfc_manager_card">Карты</string>
-    <string name="nfc_master_card_2000_expired_session">Время ожидания истекло. Удалите карту и добавьте ее снова.</string>
-    <string name="nfc_master_card_2000_incorrect_code_retries_exceeded">Слишком много неудачных попыток. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить ее снова.</string>
+    <string name="nfc_master_card_2000_expired_session">Время ожидания истекло. Удалите карту и добавьте её снова.</string>
+    <string name="nfc_master_card_2000_incorrect_code_retries_exceeded">Слишком много неудачных попыток. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
     <string name="nfc_master_card_2000_incorrect_tav">Ваш запрос был отклонен банком. Свяжитесь с эмитентом или потрошите попытку позже.</string>
     <string name="nfc_master_card_2000_invalid_incorrect_code">Неверный код.</string>
     <string name="nfc_master_card_2000_invalid_push_account_receipt">Недопустимый номер аккаунта. Свяжитесь с эмитентом банковской карты.</string>
     <string name="nfc_master_card_2000_no_response_from_issuer">Банк не отвечает. Свяжитесь с эмитентом банковской карты или повторите попытку позже.</string>
-    <string name="nfc_master_card_2000_pan_expired_code">Срок проверки истек. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить ее снова.</string>
+    <string name="nfc_master_card_2000_pan_expired_code">Срок проверки истек. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
     <string name="nfc_master_card_2000_pan_ineligible">Недопустимый номер аккаунта. Попробуйте воспользоваться картой Mastercard.</string>
     <string name="nfc_master_card_2000_pan_ineligible_for_device">При добавлении этой карты на носимое устройство произошла ошибка. Попробуйте воспользоваться картой Mastercard.</string>
     <string name="nfc_master_card_2000_valid_pan">Недопустимый номер аккаунта. Проверьте сведения о карте и повторите попытку.</string>
-    <string name="nfc_master_card_err_status">Срок проверки истек. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить ее снова.</string>
+    <string name="nfc_master_card_err_status">Срок проверки истек. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
     <string name="nfc_master_card_issue_error_back_msg">Необходимо заново ввести данные карты.</string>
     <string name="nfc_master_card_load_country_err">Произошла ошибка. Повторите попытку позже.</string>
     <string name="nfc_master_error_9004">9004 недопустимый запрос. Обратитесь в службу поддержки.</string>
@@ -3272,10 +3272,10 @@ ID:%s
     <string name="nfc_retrun_card">Удаление карты</string>
     <string name="nfc_retrun_card_btn_title">Удалить</string>
     <string name="nfc_retrun_card_confirm_msg">"1. Убедитесь, что нет незавершенных транзакций.
-2. Вы не сможете восстановить карту после ее удаления."</string>
+2. Вы не сможете восстановить карту после её удаления."</string>
     <string name="nfc_retrun_card_confirm_msg_2">"1. Убедитесь, что нет незавершенных транзакций.
 2. Плата за обслуживание не возвращается.
-3. Вы не сможете восстановить карту после ее удаления."</string>
+3. Вы не сможете восстановить карту после её удаления."</string>
     <string name="nfc_retrun_card_confirm_title">Примечание</string>
     <string name="nfc_retrun_card_create_token_loading">Подтверждение возврата…</string>
     <string name="nfc_retrun_card_error">Ошибка</string>

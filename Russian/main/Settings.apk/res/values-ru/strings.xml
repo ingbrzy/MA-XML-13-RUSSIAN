@@ -206,7 +206,7 @@
     <string name="accessibility_screen_magnification_enable">Жесты увеличения</string>
     <string name="accessibility_screen_magnification_gesture_navigation_warning">Жест спец. возможностей настроен на %1$s. Чтобы использовать увеличение, проведите двумя пальцами вверх от нижней части экрана и удерживайте. Затем выберите увеличение.</string>
     <string name="accessibility_screen_magnification_gestures_title">Увеличение по тройному касанию</string>
-    <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка спец. возможностей настроена на сервис \"%1$s\". Чтобы использовать увеличение, удерживайте ее, а затем выберите \"Увеличение изображения\".</string>
+    <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка спец. возможностей настроена на сервис \"%1$s\". Чтобы использовать увеличение, удерживайте её, а затем выберите \"Увеличение изображения\".</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Нажмите кнопку для увеличения</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Чтобы использовать увеличение, используйте кнопку спец. возможностей в нижней части экрана.
 
@@ -460,7 +460,7 @@
     <string name="adb_wireless_qrcode_summary">Подключите устройство по Wi-Fi, отсканировав QR-код</string>
     <string name="adb_wireless_settings">Беспроводная отладка</string>
     <string name="adb_wireless_verifying_qrcode_text">Подключение устройства…</string>
-    <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки. Используйте ее для копирования данных между компьютером и устройством, установки приложений на устройство без уведомления и чтения данных журналов.</string>
+    <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки. Используйте её для копирования данных между компьютером и устройством, установки приложений на устройство без уведомления и чтения данных журналов.</string>
     <string name="adbwifi_warning_title">Разрешить беспроводную отладку?</string>
     <string name="add">Добавить</string>
     <string name="add_a_language">Добавить</string>
@@ -868,7 +868,7 @@
     <string name="auto_anc_ten_recover">%d сек.</string>
     <string name="auto_brightness_default_title">По умолчанию</string>
     <string name="auto_brightness_description">Яркость экрана будет автоматически подстраиваться под окружающее освещение и использование. Можно перемещать ползунок вручную, чтобы адаптивная яркость запомнила ваши предпочтения.</string>
-    <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости ее можно временно изменить.</string>
+    <string name="auto_brightness_disclaimer">Яркость регулируется с учетом уровня освещенности. При необходимости её можно временно изменить.</string>
     <string name="auto_brightness_high_title">Высокий</string>
     <string name="auto_brightness_low_title">Низкий</string>
     <string name="auto_brightness_off_summary">Не учитывать уровень освещенности</string>
@@ -2000,7 +2000,7 @@
     <string name="cancel_lock_screen_dialog_button_label">Отмена</string>
     <string name="cancel_refresh_group">Отменить обновление</string>
     <string name="cannot_change_apn_toast">Этот APN не может быть изменен.</string>
-    <string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить ее, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию.</string>
+    <string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить её, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию.</string>
     <string name="cant_sync_dialog_title">Не удалось синхронизировать данные</string>
     <string name="capabilities_list_title">%1$s будет:</string>
     <string name="captioning_background_color">Цвет фона</string>
@@ -3054,7 +3054,7 @@ ID: %s
     <string name="diy_suppression_summary">Настройка размера области на краях экрана для игнорирования случайных касаний</string>
     <string name="diy_suppression_title">Пользовательские настройки</string>
     <string name="dlg_cancel">Отмена</string>
-    <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
+    <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до её подключения.</string>
     <string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
     <string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже.</string>
     <string name="dlg_error_unmount_title" />
@@ -3217,7 +3217,7 @@ ID: %s
     <string name="dual_wifi_switching_prompt">Переключение между сетями</string>
     <string name="dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi требуются два разных диапазона Wi-Fi. При изменении основной сети дополнительная сеть будет отключена.</string>
     <string name="dump_log">Сбор журналов</string>
-    <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Бета версиях MIUI. Используйте ее с осторожностью.
+    <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Бета версиях MIUI. Используйте её с осторожностью.
 Созданные журналы можно просмотреть в Проводнике."</string>
     <string name="dump_log_title">Об этой функции</string>
     <string name="eab_provisioned_switch_string">EAB/Presence обеспечение</string>
@@ -3789,9 +3789,9 @@ ID: %s
     <string name="font_size_normal">Маленький</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_preview_text">Подайте этому джентльмену пиво и киви.</string>
-    <string name="font_size_preview_text_body">"Даже надев зеленые очки, Дороти и ее друзья были ошеломлены сверканием этого удивительного города. По улицам стояли прекрасные дома из зеленого мрамора, украшенные блестящими изумрудами. Путники шли по тротуару из того же зеленого мрамора, а щели между плитами были заполнены изумрудами, сиявшими под лучами солнца. Окна домов были из зеленого стекла. Даже небо над Изумрудным Городом было зеленое, и зеленое солнце посылало жаркие зеленые лучи.
+    <string name="font_size_preview_text_body">"Даже надев зеленые очки, Дороти и её друзья были ошеломлены сверканием этого удивительного города. По улицам стояли прекрасные дома из зеленого мрамора, украшенные блестящими изумрудами. Путники шли по тротуару из того же зеленого мрамора, а щели между плитами были заполнены изумрудами, сиявшими под лучами солнца. Окна домов были из зеленого стекла. Даже небо над Изумрудным Городом было зеленое, и зеленое солнце посылало жаркие зеленые лучи.
 
-Вокруг сновали мужчины, женщины, дети, и все они носили зеленую одежду, и кожа у них была зеленоватого оттенка. Они с удивлением смотрели на Дороти и ее странных спутников. Завидев большого Льва, дети прятались за спины родителей, и никто не осмеливался задавать вопросы чужестранцам. В магазинах продавались товары зеленого цвета – зеленые конфеты и зеленая жареная кукуруза, зеленые башмаки и шляпы, зеленые платья и сюртуки всех фасонов и размеров. На одном из лотков продавец торговал зеленым лимонадом, и обступившие его дети расплачивались зелеными монетками.
+Вокруг сновали мужчины, женщины, дети, и все они носили зеленую одежду, и кожа у них была зеленоватого оттенка. Они с удивлением смотрели на Дороти и её странных спутников. Завидев большого Льва, дети прятались за спины родителей, и никто не осмеливался задавать вопросы чужестранцам. В магазинах продавались товары зеленого цвета – зеленые конфеты и зеленая жареная кукуруза, зеленые башмаки и шляпы, зеленые платья и сюртуки всех фасонов и размеров. На одном из лотков продавец торговал зеленым лимонадом, и обступившие его дети расплачивались зелеными монетками.
 
 На улицах Изумрудного Города не было ни лошадей, ни других животных. Мужчины возили поклажу в маленьких тачках на колесиках. У жителей Изумрудного Города был веселый и довольный вид."</string>
     <string name="font_size_preview_text_headline">Пример текста</string>
@@ -5096,7 +5096,7 @@ ID: %s
     <string name="lock_settings_picker_fingerprint_message">Выберите дополнительный способ защиты</string>
     <string name="lock_settings_picker_new_lock_title">Способ защиты</string>
     <string name="lock_settings_picker_new_profile_lock_title">Способ защиты раб. профиля</string>
-    <string name="lock_settings_picker_profile_message">Если вы забудете, как снять блокировку, ее сможет сбросить администратор.</string>
+    <string name="lock_settings_picker_profile_message">Если вы забудете, как снять блокировку, её сможет сбросить администратор.</string>
     <string name="lock_settings_picker_settings">Защита устройства</string>
     <string name="lock_settings_picker_title">Выберите способ защиты</string>
     <string name="lock_settings_picker_title_profile">Выберите способ защиты</string>
@@ -5922,7 +5922,7 @@ ID: %s
     <string name="mobile_network_active_esim">Активно / eSIM-карта</string>
     <string name="mobile_network_active_sim">Активно / SIM-карта</string>
     <string name="mobile_network_apn_title">Имена точек доступа</string>
-    <string name="mobile_network_disable_sim_explanation">Для отключения SIM-карты, извлеките ее из устройства</string>
+    <string name="mobile_network_disable_sim_explanation">Для отключения SIM-карты, извлеките её из устройства</string>
     <string name="mobile_network_erase_sim">Стереть данные SIM-карты</string>
     <string name="mobile_network_erase_sim_dialog_body">"При удалении данных SIM-карты, обслуживание %1$s будет прекращено.
 
@@ -6383,7 +6383,7 @@ ID: %s
     <string name="no_default_home">Не выбрано</string>
     <string name="no_device_admins">Нет доступных приложений администратора устройства</string>
     <string name="no_internet_access_remember">Больше не спрашивать для этой сети</string>
-    <string name="no_internet_access_text">Сеть Wi-Fi %1$s не имеет доступа в интернет. Использовать ее?</string>
+    <string name="no_internet_access_text">Сеть Wi-Fi %1$s не имеет доступа в интернет. Использовать её?</string>
     <string name="no_media_button_receiver">Нет</string>
     <string name="no_memory_use_summary">За последние 3 часа приложение не обращалось к памяти</string>
     <string name="no_nearby_wifi">Нет доступных сетей</string>
@@ -7485,8 +7485,8 @@ UT-интерфейс: %5$s"</string>
 
 Данные приложений удалены не будут."</string>
     <string name="reset_app_preferences_title">Сбросить настройки?</string>
-    <string name="reset_confirm_directory">Внимание: перед восстановлением проверьте наличие на устройстве папки MIUI/Backup/AllBackup. В случае отсутствия, создайте ее.</string>
-    <string name="reset_confirm_directory_pad">Внимание: перед восстановлением проверьте наличие на устройстве папки MIUI/Backup/AllBackup. В случае отсутствия, создайте ее.</string>
+    <string name="reset_confirm_directory">Внимание: перед восстановлением проверьте наличие на устройстве папки MIUI/Backup/AllBackup. В случае отсутствия, создайте её.</string>
+    <string name="reset_confirm_directory_pad">Внимание: перед восстановлением проверьте наличие на устройстве папки MIUI/Backup/AllBackup. В случае отсутствия, создайте её.</string>
     <string name="reset_dashboard_summary">Сброс настроек сети, приложений или устройства</string>
     <string name="reset_dashboard_summary_onlyApps">Очистка данных приложений</string>
     <string name="reset_dashboard_title">Сброс</string>
@@ -7869,7 +7869,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sd_data">Данные SD-карты</string>
     <string name="sd_eject">Извлечение SD-карты</string>
     <string name="sd_eject_new">Извлечение SD-карты</string>
-    <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
+    <string name="sd_eject_summary">Отключение SD-карты для её безопасного извлечения из устройства</string>
     <string name="sd_ejecting_summary">Выполняется извлечение</string>
     <string name="sd_ejecting_title">Извлечение</string>
     <string name="sd_format">Форматирование SD-карты</string>
@@ -8456,7 +8456,7 @@ UT-интерфейс: %5$s"</string>
     <string name="setup_choose_unlock_pattern">Графический ключ</string>
     <string name="setup_choose_unlock_pattern_title">Задайте графический ключ</string>
     <string name="setup_choose_unlock_type_title">Настройки защиты</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_message">Вы выбрали разблокировку отпечатком. Настройка займет около минуты. Если вы пропустите ее сейчас, вам все равно придется сделать это позже.</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message">Вы выбрали разблокировку отпечатком. Настройка займет около минуты. Если вы пропустите её сейчас, вам все равно придется сделать это позже.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Пропустить добавление отпечатков?</string>
     <string name="setup_fingerprint_enroll_finish_message">Чтобы разблокировать устройство, приложите палец к сканеру.</string>
     <string name="setup_fingerprint_enroll_finish_message_secondary">Этот значок означает, что вы можете подтверждать покупки и входить в приложения.</string>
@@ -8671,7 +8671,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_pin_toggle">Блокировка SIM-карты</string>
     <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
     <string name="sim_pref_divider">Использование SIM-карт</string>
-    <string name="sim_preferred_message">%1$s – единственная SIM-карта в устройстве. Использовать ее для вызовов, отправки SMS-сообщений и мобильных данных?</string>
+    <string name="sim_preferred_message">%1$s – единственная SIM-карта в устройстве. Использовать её для вызовов, отправки SMS-сообщений и мобильных данных?</string>
     <string name="sim_preferred_title">Изменить основную SIM-карту?</string>
     <string name="sim_radio_off">Отключена</string>
     <string name="sim_reenter_new">Введите новый PIN-код ещё раз</string>
@@ -8848,7 +8848,7 @@ UT-интерфейс: %5$s"</string>
 Для отправки текстовых сообщений экстренным контактам.
 • Использование геолокации
 Для отправки вашего местоположения экстренным контактам.
-Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренная помощь\" или не использовать ее.
+Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренная помощь\" или не использовать её.
 Перед использованием прочитайте и примите наши %s."</string>
     <string name="sos_privacy_dialog_message_old_version">"Функция \"Экстренная помощь\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.
@@ -8861,7 +8861,7 @@ UT-интерфейс: %5$s"</string>
 Для отправки текстовых сообщений экстренным контактам.
 • Использование геолокации
 Для отправки вашего местоположения экстренным контактам.
-Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренная помощь\" или не использовать ее.
+Если вы не предоставите требуемые разрешения, вы не сможете использовать это приложение. В этом случае вы можете отключить функцию \"Экстренная помощь\" или не использовать её.
 Перед использованием прочитайте и примите наши %s."</string>
     <string name="sos_privacy_dialog_title">Условия использования</string>
     <string name="sos_privacy_policy">Политика конфиденциальности</string>
@@ -9130,7 +9130,7 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_wizard_format_progress_title">^1 форматируется…</string>
     <string name="storage_wizard_init_external_summary">Для переноса фотографий и других файлов между устройствами.</string>
     <string name="storage_wizard_init_external_title">Портативный носитель</string>
-    <string name="storage_wizard_init_internal_summary">Для хранения данных (приложений, фотографий и других файлов) только на этом устройстве. Необходимо отформатировать карту, чтобы ее нельзя было использовать на других устройствах.</string>
+    <string name="storage_wizard_init_internal_summary">Для хранения данных (приложений, фотографий и других файлов) только на этом устройстве. Необходимо отформатировать карту, чтобы её нельзя было использовать на других устройствах.</string>
     <string name="storage_wizard_init_internal_title">Внутренняя память</string>
     <string name="storage_wizard_init_title">Настройте карту \"^1\"</string>
     <string name="storage_wizard_init_v2_external_action">Портативный носитель</string>
@@ -10299,7 +10299,7 @@ UT-интерфейс: %5$s"</string>
     <string name="voice_input_output_settings_title">Настройки голосового ввода и вывода</string>
     <string name="voice_input_settings">Настройки голосового ввода</string>
     <string name="voice_input_settings_title">Голосовой ввод</string>
-    <string name="voice_interaction_security_warning">Эта служба голосового ввода сможет выполнять непрерывный мониторинг речи и управлять приложениями от вашего имени. Для ее работы необходимо установить приложение \"%s\". Включить службу?</string>
+    <string name="voice_interaction_security_warning">Эта служба голосового ввода сможет выполнять непрерывный мониторинг речи и управлять приложениями от вашего имени. Для её работы необходимо установить приложение \"%s\". Включить службу?</string>
     <string name="voice_interactor_preference_summary">Расширенный режим: управление с помощью голосовых команд</string>
     <string name="voice_recognizer_preference_summary">Обычный режим: распознавание речи</string>
     <string name="voice_search_settings_title">Голосовой поиск</string>
@@ -10593,7 +10593,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant_switch_data">Переключиться</string>
     <string name="wifi_assistant_switch_wifi">Переключиться</string>
     <string name="wifi_auto_connect">Автоподключение</string>
-    <string name="wifi_auto_connect_summary">Разрешить автоподключение к сети в зоне ее действия</string>
+    <string name="wifi_auto_connect_summary">Разрешить автоподключение к сети в зоне её действия</string>
     <string name="wifi_auto_connect_title">Автоподключение</string>
     <string name="wifi_auto_sel_wapi_cert">Автовыбор</string>
     <string name="wifi_available_title">Подключение к Wi-Fi</string>
@@ -11131,7 +11131,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wakeup_positive_button">Включить</string>
     <string name="wifi_wakeup_scan_summary">Разрешить приложениям и службам поиск сетей Wi-Fi для возможности их автоматического включения. Включение этой функции позволит устройству автоматически подключаться к сохраненным сетям поблизости.</string>
     <string name="wifi_wakeup_summary">Включать Wi-Fi в зоне действия сохраненных сетей (например, домашней) с хорошим сигналом</string>
-    <string name="wifi_wakeup_summary_no_location">Недоступно, поскольку геолокация запрещена. <annotation id="link">Включите ее</annotation>.</string>
+    <string name="wifi_wakeup_summary_no_location">Недоступно, поскольку геолокация запрещена. <annotation id="link">Включите её</annotation>.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Недоступно, так как поиск сетей Wi-Fi отключен</string>
     <string name="wifi_wakeup_summary_scoring_disabled">Выберите источник рейтинга сетей</string>
     <string name="wifi_wakeup_title">Дополнительные функции</string>

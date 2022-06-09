@@ -94,7 +94,7 @@
     <string name="miui_feedback_answer_detail_title">Подробности</string>
     <string name="miui_feedback_edit_action_submit">Отправить</string>
     <string name="miui_feedback_edit_add_original_images">Добавить фото</string>
-    <string name="miui_feedback_edit_add_original_images_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти ее. Добавить фото?</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти её. Добавить фото?</string>
     <string name="miui_feedback_edit_choose_module">Выбор категории</string>
     <string name="miui_feedback_edit_choose_module_hint">Обязательно</string>
     <string name="miui_feedback_edit_choose_occurrence_time">Время</string>

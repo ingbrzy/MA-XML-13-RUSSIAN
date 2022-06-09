@@ -34,7 +34,7 @@
     <string name="agree_description">Разрешите приложению подключение к интернету для использования всех его функций.</string>
     <string name="alert_message_clear_records">Удалить выбранные записи?</string>
     <string name="alert_message_delete_local_record">Удалить эту запись?</string>
-    <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Xiaomi Cloud. Удалить запись?</string>
+    <string name="alert_message_delete_record">Удаление записи с устройства также удалит её и из Xiaomi Cloud. Удалить запись?</string>
     <string name="alert_message_delete_record_title">Удаление записи</string>
     <string name="all_record">Все записи</string>
     <string name="allowed">Предоставлено</string>
@@ -169,9 +169,9 @@
     <string name="loading_more">Подождите…</string>
     <string name="loading_order_list">Подождите…</string>
     <string name="loading_order_list_empty">Заказов нет</string>
-    <string name="low_battery_error">Заряд менее 5%. Остановите и сохраните запись, чтобы не потерять ее.</string>
+    <string name="low_battery_error">Заряд менее 5%. Остановите и сохраните запись, чтобы не потерять её.</string>
     <string name="low_battery_error_confirm">OK</string>
-    <string name="low_battery_error_for_pad">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять ее.</string>
+    <string name="low_battery_error_for_pad">Заряд менее %s. Остановите и сохраните запись, чтобы не потерять её.</string>
     <string name="low_battery_error_title">Батарея разряжена</string>
     <string name="lyric_item_point_count">От %1$d до %2$d</string>
     <string name="manage_external_storage">Доступ к файлам</string>

@@ -556,7 +556,7 @@
     <string name="expand_button_content_description_collapsed">Развернуть</string>
     <string name="expand_button_content_description_expanded">Скрыть</string>
     <string name="expires_on">Срок действия:</string>
-    <string name="ext_media_badremoval_notification_message">Перед тем как извлечь карту, отключите ее, чтобы избежать потери данных.</string>
+    <string name="ext_media_badremoval_notification_message">Перед тем как извлечь карту, отключите её, чтобы избежать потери данных.</string>
     <string name="ext_media_badremoval_notification_title">Карта \"%s\" неожиданно извлечена</string>
     <string name="ext_media_browse_action">Обзор</string>
     <string name="ext_media_checking_notification_message">Поиск ошибок</string>
@@ -1337,7 +1337,7 @@
     <string name="permdesc_bluetooth_connect">У приложения будет доступ к подключенным устройствам Bluetooth.</string>
     <string name="permdesc_bluetooth_scan">Приложение сможет находить устройства Bluetooth поблизости и подключаться к ним.</string>
     <string name="permdesc_bodySensors">Приложение сможет получить доступ к данным датчиков, размещенных на теле, например измеряющих частоту сердцебиения.</string>
-    <string name="permdesc_broadcastSticky">Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу телефона или сделать ее нестабильной из-за чрезмерного использования памяти.</string>
+    <string name="permdesc_broadcastSticky">Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу телефона или сделать её нестабильной из-за чрезмерного использования памяти.</string>
     <string name="permdesc_callCompanionApp">Приложение сможет просматривать и контролировать вызовы, получать информацию о телефонных номерах и состоянии вызовов.</string>
     <string name="permdesc_callPhone">Приложение сможет без вашего участия звонить на любой номер телефона. Это не относится к номерам экстренных служб. Вредоносные программы смогут совершать вызовы без вашего разрешения, что может привести к непредвиденным тратам.</string>
     <string name="permdesc_camera">Приложение может в любое время делать фотографии и снимать видео с помощью камеры.</string>
@@ -2062,7 +2062,7 @@
     <string name="wallpaper_binding_label">Фоновый рисунок</string>
     <string name="webpage_unresponsive">"Страница не отвечает.
 
-Закрыть ее?"</string>
+Закрыть её?"</string>
     <string name="websearch">Веб-поиск</string>
     <string name="week">нед.</string>
     <string name="weeks">нед.</string>

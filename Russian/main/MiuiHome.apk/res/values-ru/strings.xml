@@ -282,7 +282,7 @@
     <string name="default_folder_title_tools">Инструменты</string>
     <string name="default_screen_preview_title">Выбор основного экрана</string>
     <string name="delete">Удалить</string>
-    <string name="delete_category_dialog_content">Вы не сможете восстановить категорию, если удалите ее. Удалить?</string>
+    <string name="delete_category_dialog_content">Вы не сможете восстановить категорию, если удалите её. Удалить?</string>
     <string name="delete_category_dialog_title">Удаление категории</string>
     <string name="delete_screen">Удалить экран</string>
     <string name="delete_wallpaper_message">Удалить обои (%1$d)?</string>

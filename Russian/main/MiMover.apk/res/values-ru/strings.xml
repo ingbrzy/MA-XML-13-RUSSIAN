@@ -116,7 +116,7 @@
     <string name="close_cellular_title">Ошибка подключения</string>
     <string name="close_twice_auth_btn">Отключить двухфакторную аутентификацию</string>
     <string name="close_twice_auth_note">Примечание:
-После создания нового секретного вопроса и подтверждения даты вашего рождения двухфакторная аутентификация Apple ID будет отключена. Если вы не видите опцию отключения двухфакторной аутентификации на странице учетной записи Apple ID, вы не сможете отключить ее.</string>
+После создания нового секретного вопроса и подтверждения даты вашего рождения двухфакторная аутентификация Apple ID будет отключена. Если вы не видите опцию отключения двухфакторной аутентификации на странице учетной записи Apple ID, вы не сможете отключить её.</string>
     <string name="close_twice_auth_operation">"URL:
 Посетите https://appleid.apple.com/#!&amp;page=signin для отключения"</string>
     <string name="close_twice_auth_step_1">1. Откройте любой веб-браузер на любом компьютере и перейдите на appleid.apple.com.</string>
@@ -269,7 +269,7 @@
 3. Выберите \"Mi Mover\" в результатах поиска."</string>
     <string name="host_boot_installation_dialog_message">Версия Mi Mover на старом устройстве несовместима с установленной здесь. Обновите Mi Mover на старом устройстве.</string>
     <string name="host_boot_installation_first_title">Откройте Mi Mover на старом устройстве</string>
-    <string name="host_boot_installation_message">Выберите страницу, которую вы видите на старом устройстве. Если вы используете старую версию Mi Mover, мы расскажем вам, как ее обновить.</string>
+    <string name="host_boot_installation_message">Выберите страницу, которую вы видите на старом устройстве. Если вы используете старую версию Mi Mover, мы расскажем вам, как её обновить.</string>
     <string name="host_boot_installation_second_title">Подтвердите версию Mi Mover</string>
     <string name="host_boot_installation_step_one_messege">Перейдите в \"Настройки\", введите \"Mi Mover\" в строке поиска и выберите \"Mi Mover\" в результатах поиска.</string>
     <string name="host_boot_installation_step_one_title">1. Откройте Mi Mover на старом устройстве</string>

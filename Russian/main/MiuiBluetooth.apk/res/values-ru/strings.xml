@@ -466,7 +466,9 @@
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
     <string name="headset_battery_fw_failed">Низкий заряд</string>
+    <string name="headset_battery_low">Батарея разряжена, зарядите её</string>
     <string name="headset_connect_device">Подключение устройства</string>
+    <string name="headset_connect_timeout">Тайм-аут соединения, повторите попытку</string>
     <string name="headset_device_check_failed">Сбой</string>
     <string name="headset_device_donot_move">Не перемещайте устройство</string>
     <string name="headset_device_enter_upgrade_failed">Сбой</string>
@@ -496,6 +498,7 @@
     <string name="headset_loss_notify_summary">Один из наушников отсутствует в кейсе. Проверьте!</string>
     <string name="headset_loss_notify_summary1">Наушники отсутствуют в кейсе. Поместите их обратно для зарядки.</string>
     <string name="headset_loss_notify_title">Уведомление о наушниках</string>
+    <string name="headset_not_in_case">Наушники не в кейсе, повторите попытку</string>
     <string name="headset_read_fw_state">Сбой</string>
     <string name="headset_update_failed">Сбой</string>
     <string name="headset_update_ok">ОК</string>

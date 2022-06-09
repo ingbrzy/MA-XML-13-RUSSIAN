@@ -1717,7 +1717,7 @@
     <string name="msim_cmcc_dds_switch_not_support">Невозможно сменить SIM-карту из-за ограничений оператора.</string>
     <string name="msim_default_setting">Настройки по умолчанию</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
-    <string name="msim_disable_sim_card_summary_default_card">Эта SIM-карта используется по умолчанию. Если вы отключите ее, то не сможете совершать вызовы и использовать мобильный интернет. Сначала назначьте другую SIM-карту по умолчанию.</string>
+    <string name="msim_disable_sim_card_summary_default_card">Эта SIM-карта используется по умолчанию. Если вы отключите её, то не сможете совершать вызовы и использовать мобильный интернет. Сначала назначьте другую SIM-карту по умолчанию.</string>
     <string name="msim_disable_sim_card_summary_non_default_card">Вы не сможете совершать вызовы и использовать мобильный интернет. Отключить SIM-карту %s?</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Не отключайте свою вторую SIM-карту в режиме экстренных обратных вызовов.</string>
     <string name="msim_disable_sim_card_title">Отключение SIM-карты</string>

@@ -909,7 +909,7 @@
     <string name="welcome_to_thesweepversion">Добро пожаловать в бета-версию Сканера!</string>
     <string name="wifi">WIFI</string>
     <string name="wifi_details">Wi-Fi:</string>
-    <string name="wifi_exist_fail">Точка доступа Wi-Fi \"%1$s\" уже существует. Удалите ее и повторите попытку.</string>
+    <string name="wifi_exist_fail">Точка доступа Wi-Fi \"%1$s\" уже существует. Удалите её и повторите попытку.</string>
     <string name="wifi_low_version_prompt">Подсказка Wi-Fi</string>
     <string name="wifi_open_fail">Не удалось включить Wi-Fi</string>
     <string name="wifi_psd_toolong">Пароль слишком длинный, введите его вручную</string>

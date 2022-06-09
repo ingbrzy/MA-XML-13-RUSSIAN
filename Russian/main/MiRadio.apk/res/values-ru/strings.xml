@@ -103,7 +103,7 @@
     <string name="add_to_trust_device">Это проверенное устройство</string>
     <string name="added_next_play">Добавлено в очередь</string>
     <string name="afternoon">После полудня</string>
-    <string name="alaka_required">Вы должны купить эту песню, чтобы послушать ее</string>
+    <string name="alaka_required">Вы должны купить эту песню, чтобы послушать её</string>
     <string name="albun_publish_time">Выпущен %1$s</string>
     <string name="alert_frequency_duplicate">Такая станция уже существует</string>
     <string name="alert_invalid_frequency">Неверная частота</string>

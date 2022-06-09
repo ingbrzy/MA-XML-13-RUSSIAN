@@ -513,8 +513,8 @@
     <string name="note_dual_screen_dialog_content">Похоже, вы сейчас редактируете заметки на компьютере. Чтобы избежать конфликтов при правках, закройте приложение Заметки на компьютере.</string>
     <string name="note_dual_screen_dialog_title">Использование MIUI+…</string>
     <string name="note_gesture_guide_step1">Для создания голосовой заметки нажмите и удерживайте кнопку \"Создать\" </string>
-    <string name="note_gesture_guide_step2">Для создания папки нажмите и удерживайте заметку, затем перетащите ее на другую заметку</string>
-    <string name="note_gesture_guide_step3">Чтобы переместить заметку в папку, нажмите и удерживайте ее, затем перетащите на папку</string>
+    <string name="note_gesture_guide_step2">Для создания папки нажмите и удерживайте заметку, затем перетащите её на другую заметку</string>
+    <string name="note_gesture_guide_step3">Чтобы переместить заметку в папку, нажмите и удерживайте её, затем перетащите на папку</string>
     <string name="note_header_first_enter_guide">Потяните вниз, чтобы посмотреть больше</string>
     <string name="note_invalid_mindnote_hint">Ментальные карты в этой версии недоступны. Обновите приложение.</string>
     <string name="note_item_default_title">Текст отсутствует</string>

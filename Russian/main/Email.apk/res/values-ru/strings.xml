@@ -1212,7 +1212,7 @@
     <string name="ntes_had_send_to_content">Если вы уже отправили SMS с привязанного номера телефона, нажмите \"Сообщение отправлено\".</string>
     <string name="ntes_login_auth_too_much">Доступно не более 5 кодов подтверждения. Войдите в почтовый ящик на компьютере и удалите коды, которые не используете.</string>
     <string name="ntes_login_error_message" formatted="false">"Не удалось получить информацию об аккаунте (Ошибка %s). %s."</string>
-    <string name="ntes_password_error_hint">Если при вводе пароля возникают ошибки, закройте эту страницу и откройте ее снова.</string>
+    <string name="ntes_password_error_hint">Если при вводе пароля возникают ошибки, закройте эту страницу и откройте её снова.</string>
     <string name="ntes_phone_send">Отправить текстовое сообщение с привязанного номера телефона</string>
     <string name="ntes_send_to">Отправить: %s</string>
     <string name="ntes_send_to_content">Если текущий номер телефона связан с учетной записью, нажмите \"Отправить SMS\".</string>
