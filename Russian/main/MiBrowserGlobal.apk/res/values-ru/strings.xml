@@ -2573,7 +2573,7 @@ ID сбоя: http://crash/%1$s"</string>
 Вы в любое время можете отказаться от участия в программе в разделе Настройки > Пароли и защита > Конфиденциальность."</string>
     <string name="user_experience_disagree">Отклонить</string>
     <string name="user_experience_title">Программа улучшения качества</string>
-    <string name="user_guide_color_mode_info">Доступны светлая и темная темы</string>
+    <string name="user_guide_color_mode_info">Доступны светлая и тёмная темы</string>
     <string name="user_guide_color_mode_title">Выберите цветовую схему</string>
     <string name="user_guide_control_privacy_tips">Полностью управляйте конфиденциальностью</string>
     <string name="user_guide_read_info_tips">Для добавления в поисковую выдачу приложений Браузеру необходим доступ к списку приложений на устройстве.</string>

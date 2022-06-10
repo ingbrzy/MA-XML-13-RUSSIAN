@@ -2336,7 +2336,7 @@ mm"</string>
     <string name="qs_dnd_replace">Заменить</string>
     <string name="qs_dnd_until">До %s</string>
     <string name="qs_edit">Сортировка</string>
-    <string name="qs_open_night_mode_alert_summary">Некоторые настройки экрана не совместимы с Темным режимом. Тем не менее, они будут восстановлены после отключения Темного режима.</string>
+    <string name="qs_open_night_mode_alert_summary">Некоторые настройки экрана не совместимы с Тёмным режимом. Тем не менее, они будут восстановлены после отключения Тёмного режима.</string>
     <string name="qs_paging">Использовать новые Быстрые настройки</string>
     <string name="qs_rearrange">Изменить порядок Быстрых настроек</string>
     <string name="qs_status_phone_muted">Режим \"Без звука\"</string>

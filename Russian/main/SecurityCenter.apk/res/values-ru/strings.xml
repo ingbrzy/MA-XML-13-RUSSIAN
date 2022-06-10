@@ -749,8 +749,8 @@
     <string name="auto_task_default_add_action">Добавить действие</string>
     <string name="auto_task_default_add_task">Добавить в \"Мои задачи\"</string>
     <string name="auto_task_default_add_to_task_list">Добавить в \"Мои задачи\"</string>
-    <string name="auto_task_default_do_action">ЕСЛИ</string>
-    <string name="auto_task_default_if_exclude">ТО</string>
+    <string name="auto_task_default_do_action">ТО</string>
+    <string name="auto_task_default_if_exclude">ЕСЛИ</string>
     <string name="auto_task_default_task_summary_driver_car">Включение точки доступа при подключении к автомобильной системе через Bluetooth</string>
     <string name="auto_task_default_task_summary_get_up">Отключение режима \"Не беспокоить\", включение Bluetooth, Wi-Fi и мобильного интернета</string>
     <string name="auto_task_default_task_summary_listen_music">Воспроизведение музыки и выбор типа наушников</string>
@@ -5069,7 +5069,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="superpower_progress_turnoff_items">Ограничение энергоемких функций</string>
     <string name="superpower_progress_turnoff_process">Ограничение фоновой активности</string>
     <string name="superpower_savemode_description_title">Будут выполнены следующие действия:</string>
-    <string name="superpower_savemode_limit1">Включение темного режима</string>
+    <string name="superpower_savemode_limit1">Включение тёмного режима</string>
     <string name="superpower_savemode_limit2">Ограничение фоновой активности</string>
     <string name="superpower_savemode_limit3">Ограничение энергоемких функций (синхронизация, GPS, вибрация, Активный экран и др.)</string>
     <string name="superpower_savemode_limit4">Разрешение работать нормально только выбранным приложениям</string>

@@ -321,7 +321,7 @@
     <string name="qs_control_expand_detail_title">Мои данные</string>
     <string name="qs_control_header_tiles_title">Центр управления</string>
     <string name="qs_customize_title">Редактирование</string>
-    <string name="qs_open_night_mode_alert_summary">Некоторые настройки экрана не совместимы с Темным режимом. Тем не менее, они будут восстановлены после отключения Темного режима.</string>
+    <string name="qs_open_night_mode_alert_summary">Некоторые настройки экрана не совместимы с Тёмным режимом. Тем не менее, они будут восстановлены после отключения Тёмного режима.</string>
     <string name="quick_controls_subtitle">Добавьте элементы управления для подключенных устройств</string>
     <string name="quick_controls_title">Управление устройством</string>
     <string name="quick_settings_aitranslate_label">MI AI перевод</string>

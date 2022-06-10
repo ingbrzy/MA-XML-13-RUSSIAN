@@ -1111,7 +1111,7 @@
     <string name="filter_sky_yingxia">Утро</string>
     <string name="filter_sky_yingyue">Полнолуние</string>
     <string name="filter_sky_yinhe">Млечный путь</string>
-    <string name="filter_sky_youyue">Темная луна</string>
+    <string name="filter_sky_youyue">Тёмная луна</string>
     <string name="filter_sky_yuhui">Угасающий свет</string>
     <string name="filter_sky_yunbo">Волны</string>
     <string name="filter_sky_yunmeng">Фантазия</string>
@@ -1910,7 +1910,7 @@
     <string name="photo_editor_miui_beauty">Улучшение</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish">Дефекты</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Удаление дефектов</string>
-    <string name="photo_editor_miui_beauty_menu_eraser_pouch">Темные круги</string>
+    <string name="photo_editor_miui_beauty_menu_eraser_pouch">Тёмные круги</string>
     <string name="photo_editor_miui_beauty_menu_eye_bright">Блеск</string>
     <string name="photo_editor_miui_beauty_menu_eye_large">Большие глаза</string>
     <string name="photo_editor_miui_beauty_menu_face_thin">Стройность</string>

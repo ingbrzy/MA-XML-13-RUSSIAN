@@ -1563,7 +1563,7 @@ mm"</string>
     <string name="wallpaper_apply_pcmode">Режим ПК</string>
     <string name="wallpaper_apply_small">Внешний экран</string>
     <string name="wallpaper_crop">Обрезать</string>
-    <string name="wallpaper_dark_mode_image_preview_tip">Предпросмотр темного режима</string>
+    <string name="wallpaper_dark_mode_image_preview_tip">Предпросмотр тёмного режима</string>
     <string name="wallpaper_decoded_error">Ошибка</string>
     <string name="wallpaper_delete_all">Удалить выбранные?</string>
     <string name="wallpaper_detail_load_page_no_network">Подключитесь к сети и повторите попытку.</string>
