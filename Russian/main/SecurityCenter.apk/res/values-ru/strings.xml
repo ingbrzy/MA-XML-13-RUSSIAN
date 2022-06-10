@@ -749,8 +749,8 @@
     <string name="auto_task_default_add_action">Добавить действие</string>
     <string name="auto_task_default_add_task">Добавить в \"Мои задачи\"</string>
     <string name="auto_task_default_add_to_task_list">Добавить в \"Мои задачи\"</string>
-    <string name="auto_task_default_do_action">ТО</string>
-    <string name="auto_task_default_if_exclude">ЕСЛИ</string>
+    <string name="auto_task_default_do_action">То</string>
+    <string name="auto_task_default_if_exclude">Если</string>
     <string name="auto_task_default_task_summary_driver_car">Включение точки доступа при подключении к автомобильной системе через Bluetooth</string>
     <string name="auto_task_default_task_summary_get_up">Отключение режима \"Не беспокоить\", включение Bluetooth, Wi-Fi и мобильного интернета</string>
     <string name="auto_task_default_task_summary_listen_music">Воспроизведение музыки и выбор типа наушников</string>
@@ -2946,8 +2946,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="new_result_screen_display">Экран</string>
     <string name="new_result_setting_item">Настройка</string>
     <string name="new_result_sound_and_vibration">Звук и виброотклик</string>
-    <string name="new_task_condition_name">ЕСЛИ</string>
-    <string name="new_task_result_name">ТО</string>
+    <string name="new_task_condition_name">Если</string>
+    <string name="new_task_result_name">То</string>
     <string name="news_change">Изменить</string>
     <string name="nickname">Псевдоним</string>
     <string name="night">Вечер</string>
