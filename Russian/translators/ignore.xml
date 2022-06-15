@@ -2137,6 +2137,11 @@
     <string name="def_wireless_charging_started_sound">/system/media/audio/ui/charge_wireless.ogg</string>
     <string name="default_buffer_size">16384</string>
     <string name="default_folder_name_path">com.miui.home:string/folder_name</string>
+    <string name="default_folder_title_hot_path">com.miui.home:string/default_folder_title_hot</string>
+    <string name="default_folder_title_meitu_path">com.miui.home:string/default_folder_title_meitu</string>
+    <string name="default_folder_title_other_apps_path">com.miui.home:string/default_folder_title_other_apps</string>
+    <string name="default_folder_title_recommend_path">com.miui.home:string/default_folder_title_recommend</string>
+    <string name="default_folder_title_tools_path">com.miui.home:string/default_folder_title_tools</string>
     <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
     <string name="default_imap">IMAP</string>
     <string name="default_language">@string/language_value_chinese_cn</string>
@@ -2180,6 +2185,7 @@
     <string name="digit_percent">%</string>
     <string name="digital_clock_dot">:</string>
     <string name="directory_info_divider">"  |  "</string>
+    <string name="discovery_data_constant_part_end">&amp;ref=com.miui.home&amp;senderPackageName=com.miui.home&amp;ext_xxx=com.miui.home &amp;show_cta=true&amp;overlayPosition=1&amp;startDownload=true&amp;showToast=true&amp;extInstallUIType=1</string>
     <string name="display_name">DisplayName</string>
     <string name="display_temperature_default">--℃</string>
     <string name="dndm_auto_time_setting_summary">с %1$s до %2$s</string>
@@ -2464,6 +2470,7 @@
     <string name="function_taobao_title">Taobao</string>
     <string name="function_youku_title">Youku</string>
     <string name="function_zhihu_title">Zhihu</string>
+    <string name="gadget_common_global_search_label">@string/gadget_search_label</string>
     <string name="gallery_wallpaper_count">100k+</string>
     <string name="gallery_wallpaper_count_tw">10w+</string>
     <string name="galleryplus_theme_id">com.miui.video.theme.01</string>
@@ -2968,6 +2975,7 @@
     <string name="lucky_max_chat_title"> </string>
     <string name="lucky_money_close"> </string>
     <string name="lucky_money_group_summary"> </string>
+    <string name="lucky_money_help_link">https://api.miui.security.xiaomi.com/netassist/floworderunity/cdn/luckymoneyhelp</string>
     <string name="lucky_my_luckymoney"> </string>
     <string name="lucky_sound_mode_lucky"> </string>
     <string name="lucky_sound_warn"> </string>
@@ -3709,7 +3717,11 @@
     <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_key_apps">all_apps</string>
     <string name="pref_key_attach_to_bugreport">attach_to_bugreport</string>
+    <string name="pref_key_bubble_settings_manage_apps">pref_key_bubble_settings_manage_apps</string>
+    <string name="pref_key_bubble_settings_switch">pref_key_bubble_settings_switch</string>
     <string name="pref_key_buffer_size">buffer_size</string>
+    <string name="pref_key_g_bubble_settings_notification">pref_key_g_bubble_settings_notification</string>
+    <string name="pref_key_g_bubble_settings_preview">pref_key_group_bubble_settings_preview</string>
     <string name="pref_key_long_traces">long_traces</string>
     <string name="pref_key_max_long_trace_duration">max_long_trace_duration</string>
     <string name="pref_key_max_long_trace_size">max_long_trace_size</string>
@@ -5022,4 +5034,11 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_font_mi_lan_pro_regular">mipro</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_font_mi_sans_light">sans-serif-light</string>
+<!-- ### FROM SOURCE -->
+    <string name="pa_font_mi_sans_regular">sans-serif-regular</string>
+	
 </resources>

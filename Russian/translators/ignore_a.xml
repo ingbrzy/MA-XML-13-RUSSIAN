@@ -569,6 +569,7 @@
     <string-array name="deepclean_lock_screen_white_list"></string-array>
     <string-array name="deepclean_normal_white_list"></string-array>
     <string-array name="defalut_browser_package"></string-array>
+    <string-array name="default_bubble_apps"></string-array>
     <string-array name="default_colors"></string-array>
     <string-array name="default_email_package"></string-array>
     <string-array name="default_gallery_package"></string-array>

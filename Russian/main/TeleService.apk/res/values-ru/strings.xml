@@ -1379,6 +1379,11 @@
     <string name="ivr_type_cu_3">China Unicom 2G</string>
     <string name="ivr_type_settings">Настройки тарифа</string>
     <string name="ivr_type_settings_hint">Введите код вашего тарифа</string>
+    <string name="jp_sb_label_ndp">"Вставлена USIM другого оператора,
+ожидается ввод кода разблокировки"</string>
+    <string name="jp_sb_sim_lock_unlock_psw_max_length">Введенный код разблокировки содержит менее 8 или более 16 цифр</string>
+    <string name="jp_sb_unlock_failed">Ошибка проверки кода разблокировки</string>
+    <string name="jp_sb_unlock_success">Успешная проверка кода разблокировки</string>
     <string name="jump_to_mobile_network_setting">Настройки мобильной сети</string>
     <string name="kddi_sim_lock_status_allowed">Разрешено</string>
     <string name="kddi_sim_lock_status_code">Код</string>

@@ -1477,6 +1477,10 @@
     <string name="bluetooth_enable_gabeldorsche_summary">Включить стек функций Bluetooth Gabeldorsche</string>
     <string name="bluetooth_enable_inband_ringing">Рингтоны по Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed">Высокоскоростная передача по Bluetooth</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Чтобы применить изменения, требуется перезапуск Bluetooth. Это действие может прервать установленные соединения. Выполнить перезапуск?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Отмена</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Перезапуск</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Перезапуск Bluetooth</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Использование высокоскоростных протоколов Bluetooth P2P для передачи</string>
     <string name="bluetooth_enable_page_scan">Сканирование страниц Bluetooth</string>
     <string name="bluetooth_enable_page_scan_summary">Отключение/включение сканирования страниц для проверки Bluetooth</string>
@@ -3176,6 +3180,10 @@ ID: %s
     <string name="dpp_sharing_wifi_summary">Создание общей сети Wi-Fi…</string>
     <string name="dpp_theme_title">Общая сеть Wi-Fi</string>
     <string name="draw_overlay">Поверх других приложений</string>
+    <string name="dsda_close_toast">Режим DSDA отключен. Перезагрузите устройство, чтобы применить изменения.</string>
+    <string name="dsda_open_toast">Режим DSDA включен. Перезагрузите устройство, чтобы применить изменения.</string>
+    <string name="dsda_switch_summary">Разрешить одновременное использование двух SIM-карт для мобильного интернета и вызовов</string>
+    <string name="dsda_switch_title">Режим DSDA</string>
     <string name="dsds_activation_failure_body_msg1">Извлеките и снова вставьте SIM-карту. Если проблема не исчезнет, перезагрузите устройство.</string>
     <string name="dsds_activation_failure_body_msg2">Попробуйте включить SIM-карту ещё раз. Если проблема не исчезнет, перезагрузите устройство.</string>
     <string name="dsds_activation_failure_title">Не удалось активировать SIM-карту</string>
@@ -3901,9 +3909,9 @@ ID: %s
 • Потяните вниз панель действий плавающего окна.
 • Нажмите кнопку \"Плавающие окна\" в Недавних и выберите приложение.
 • Зажмите миниатюру приложения в Недавних и нажмите значок \"Плавающего окна\"."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Нажмите на приложение на боковой панели для открытия в плавающем окне.
-· Перетащите приложение в центр экрана для открытия в плавающем окне, или к краю для разделения экрана."</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перетащите приложение из панели в центр экрана для открытия в плавающем окне, или к краю для разделения экрана.</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Коснитесь приложения на боковой панели для открытия в плавающем окне.
+· Перетащите приложение в центр экрана для открытия в плавающем окне, либо к краю для разделения экрана."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Перетащите приложение из панели в центр экрана для открытия в плавающем окне, либо к краю для разделения экрана.</string>
     <string name="freeform_vedio_description_pad">Перетащите приложение из панели для открытия в плавающем окне</string>
     <string name="frequently_fragment_delete">Удалить</string>
     <string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
@@ -9373,6 +9381,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="sunlight_low_power_notification">Не удалось включить Дневной режим. Низкий заряд батареи.</string>
     <string name="sunlight_mode">Дневной режим</string>
     <string name="sunlight_mode_summary">Регулировать яркость экрана при ярком окружающем освещении</string>
     <string name="supl_not_set">&lt;Не настроено&gt;</string>

@@ -428,6 +428,7 @@ ID: %s
     <string name="enjoy_hungama_pro">Наслаждайтесь Hungama PRO</string>
     <string name="enroll_in">Регистрация</string>
     <string name="enter_garbage_clean">Требуется очистка места</string>
+    <string name="entertainment">Развлечения</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>
     <string name="eq_classical">Классика</string>
@@ -747,6 +748,7 @@ ID: %s
     <string name="low_sound_quality">Низкое</string>
     <string name="lrc_search_failed">Текст песни не найден</string>
     <string name="lrc_searching">Поиск текста песни…</string>
+    <string name="ludo_tab_guide">Загляните в наши новые музыкальные комнаты</string>
     <string name="lyric_is_empty">Текст песни недоступен</string>
     <string name="lyric_label">Текст песни</string>
     <string name="lyric_open_other_connect">Загрузка текстов через мобильный интернет</string>
@@ -1594,6 +1596,7 @@ ID: %s
     <string name="wednesday_shortest">Ср</string>
     <string name="weibo_login_btn_content_description">Войти с помощью Weibo</string>
     <string name="weixin_login_btn_content_description">Войти с помощью WeChat</string>
+    <string name="welcome_to_entertainment">Оцените новую функцию \"Развлечения\"</string>
     <string name="whats_app">WhatsApp</string>
     <string name="wifi_required_body" formatted="false">"Подключитесь к Wi-Fi для завершения этой загрузки (%s).
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
@@ -1605,6 +1608,25 @@ ID: %s
 Размер инкрементного обновления: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен, проверьте SD-карту.</string>
+    <string name="yandex_ads_internal_after_timer_value">сек.</string>
+    <string name="yandex_ads_internal_before_timer_value">До награды осталось</string>
+    <string name="yandex_ads_internal_go">Перейти</string>
+    <string name="yandex_ads_internal_install">Установить</string>
+    <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
+    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
+    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
+    <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_tools_age_text">3+</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
+    <string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
+    <string name="yandex_ads_internal_tools_call_to_action_text">Перейти на сайт</string>
+    <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и недорогих машин на Авто.ру</string>
+    <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
     <string name="yesterday">Вчера</string>
     <string name="you_can_switch_mode_in_settings">Вы можете переключить режим в настройках</string>
     <string name="you_may_like">Вам также может понравиться</string>

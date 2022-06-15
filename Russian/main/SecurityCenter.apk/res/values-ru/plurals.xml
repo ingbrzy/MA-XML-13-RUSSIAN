@@ -571,6 +571,11 @@
         <item quantity="one">Введите не менее %d символа</item>
         <item quantity="few">Введите не менее %d символов</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+     </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">Сеанс ускорения сети завершится через %d дней. Продлите сеанс во избежание проблем со скоростью сети.</item>
         <item quantity="one">Сеанс ускорения сети завершится через %d день. Продлите сеанс во избежание проблем со скоростью сети.</item>

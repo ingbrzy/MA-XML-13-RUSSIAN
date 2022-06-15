@@ -505,6 +505,8 @@
     <string name="not_identification_form">Не удалось распознать таблицу. Повторите выделение и начните сначала.</string>
     <string name="not_insert_contact">Не удалось добавить контакт</string>
     <string name="not_network">Не удалось подключиться к сети. Повторите попытку позже.</string>
+    <string name="not_permissions_hint">Разрешите доступ к камере для правильной работы</string>
+    <string name="not_permissions_title">Отсутствуют разрешения</string>
     <string name="not_recommend_access_web_url">Всё равно перейти</string>
     <string name="not_set">Не задано</string>
     <string name="note">Примечание: </string>
@@ -926,6 +928,9 @@
     <string name="xiaoai_dialog">"Скажите Mi AI
 что отсканировать"</string>
     <string name="xiaoai_text">Маленькая кнопка</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="yesterday">Вчера</string>
     <string name="you_have_permission_to_download">Нажмите, чтобы скачать бета-версию</string>
     <string name="you_id">"Ваш ID: "</string>

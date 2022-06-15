@@ -1634,7 +1634,15 @@ ID:%s
     <string name="pa_accessibility_olympic_the_second">Второе место: %s</string>
     <string name="pa_accessibility_olympic_the_third">Третье место: %s</string>
     <string name="pa_accessibility_picker_back">Назад</string>
+    <string name="pa_accessibility_picker_home_appList_entrance">Список поддерживаемых виджетов</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды, чтобы начать.</string>
+    <string name="pa_accessibility_picker_home_search">Поиск виджетов</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды, чтобы начать.</string>
+    <string name="pa_accessibility_picker_home_title">Добавление веджета</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей.</string>
     <string name="pa_accessibility_picker_search_cancel">Панель поиска виджета. Нажмите дважды для отмены.</string>
+    <string name="pa_accessibility_picker_search_clear">Очистить ввод</string>
     <string name="pa_accessibility_picker_search_tips">Панель поиска виджета. Нажмите дважды для поиска.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Магазин виджетов. Выбран %s. Нажмите дважды для подробностей.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Магазин виджетов. Выбран %s. Нажмите дважды для подробностей.</string>
@@ -1714,6 +1722,7 @@ ID:%s
     <string name="pa_express_item_menu_delete">Удалить</string>
     <string name="pa_express_item_menu_edit">Изменить</string>
     <string name="pa_express_item_menu_signed">Доставлено</string>
+    <string name="pa_express_main_mul_choice_title">Выбрано: %d</string>
     <string name="pa_express_main_select">Выбрать</string>
     <string name="pa_express_manual_query_hint">Введите номер заказа для поиска</string>
     <string name="pa_express_manual_select_company">Выбрать</string>
@@ -1791,6 +1800,7 @@ ID:%s
     <string name="pa_express_widget_order_42">Введите номер отслеживания</string>
     <string name="pa_express_widget_post">Отправить посылку</string>
     <string name="pa_finish">Готово</string>
+    <string name="pa_get_installed_app_permission_description">Для установки приложений и добавления виджетов</string>
     <string name="pa_guide_dialog_desc">Нажмите и удерживайте виджет, чтобы чтобы переместить его. Нажмите \"+\", чтобы добавить виджет.</string>
     <string name="pa_guide_dialog_sure">Понятно</string>
     <string name="pa_guide_dialog_title">Посетите магазин виджетов</string>
@@ -1843,6 +1853,9 @@ ID:%s
     <string name="pa_olympic_medals_description">Рейтинг олимпийских медалей</string>
     <string name="pa_operation_switch_summary">Просмотр популярных виджетов</string>
     <string name="pa_operation_switch_title">Популярные предложения</string>
+    <string name="pa_pad_privacy_text">Виджеты рабочего стола</string>
+    <string name="pa_pad_setting_privacy_logout_summary">Отказ от использования виджетов рабочего стола</string>
+    <string name="pa_pad_setting_privacy_revoke_cta_summary">Отзыв согласия с Политикой конфиденциальности виджетов рабочего стола</string>
     <string name="pa_picker_classic_widget">Виджеты для Android</string>
     <string name="pa_picker_detail_add_maml_net_unavailable">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="pa_picker_detail_add_to_home">Добавить на рабочий стол</string>
@@ -1882,6 +1895,8 @@ ID:%s
     <string name="pa_picker_detail_theme_app_cta_pre">"Чтобы использовать этот виджет, разрешите приложению Темы подключение к интернету. "</string>
     <string name="pa_picker_detail_vp2_indicator">Выбранные страницы: %1$d из %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Ожидание загрузки через Wi-Fi</string>
+    <string name="pa_picker_empty">"Виджеты недоступны в этой версии приложения. 
+Следите за обновлениями!"</string>
     <string name="pa_picker_home_app_group_title">Приложения с виджетами</string>
     <string name="pa_picker_home_group_more">Все</string>
     <string name="pa_picker_home_request_failed">Ошибка сети</string>
@@ -1895,6 +1910,7 @@ ID:%s
     <string name="pa_picker_list_load_end">Больше ничего нет</string>
     <string name="pa_picker_list_load_failed">Не удалось загрузить. Нажмите, чтобы повторить попытку.</string>
     <string name="pa_picker_list_loading">Подождите…</string>
+    <string name="pa_picker_list_recommend">Рекомендуемые</string>
     <string name="pa_picker_loading">Подождите…</string>
     <string name="pa_picker_maml_list_activity_title">Добавление виджетов</string>
     <string name="pa_picker_permission_denied">"Ленте виджетов требуется доступ к статусу установки
@@ -1905,6 +1921,7 @@ ID:%s
     <string name="pa_picker_search_error">Не удалось подключиться к сети</string>
     <string name="pa_picker_search_layout_cancel">Отмена</string>
     <string name="pa_picker_suit_list_activity_title">Пакеты персонализации</string>
+    <string name="pa_picker_theme_app_version_error">Некорректная версия приложения Темы</string>
     <string name="pa_picker_tips_count_limit_forbidden">Не удалось добавить виджеты. Удалите виджеты, чтобы добавить новые.</string>
     <string name="pa_picker_toast_add_successfully">Добавлено</string>
     <string name="pa_picker_toast_count_limit_forbidden">Достигнут лимит виджетов</string>
@@ -1912,6 +1929,7 @@ ID:%s
     <string name="pa_picker_toast_count_limit_warning">Добавлено. Большое количество виджетов на рабочем столе может замедлить работу устройства.</string>
     <string name="pa_picker_toast_screen_cell_locked">Не удалось добавить виджет. Рабочий стол защищен от изменений.</string>
     <string name="pa_privacy_text">Конфиденциальность</string>
+    <string name="pa_read_storage_permission_description">Для использования обоев рабочего стола в качестве фона в приложении</string>
     <string name="pa_recommend_add_btn">Начать</string>
     <string name="pa_recommend_add_msg">Добавить</string>
     <string name="pa_recommend_card">Рекомендации</string>
@@ -1925,6 +1943,7 @@ ID:%s
     <string name="pa_rtk_card_title">Панель</string>
     <string name="pa_rtk_more_content_description">Параметры</string>
     <string name="pa_rtk_place_holder_text">Виджет перемещен на панель</string>
+    <string name="pa_rtk_recommend_card_title">Рекомендуемые</string>
     <string name="pa_rtk_unlike_text">Открепить</string>
     <string name="pa_rts_summary">Разместите наиболее часто используемые виджеты на панели</string>
     <string name="pa_rts_text">Панель</string>
@@ -1977,6 +1996,22 @@ ID:%s
     <string name="pa_setting_privacy_third_parties">Заявление о передаче данных третьим лицам</string>
     <string name="pa_setting_privacy_view_priv">Политика конфиденциальности</string>
     <string name="pa_setting_version">Версия：%1$s</string>
+    <string name="pa_shopping_page_product_action_bar_title">Все товары</string>
+    <string name="pa_shopping_page_product_delete_bar_desc">Удалить товары</string>
+    <string name="pa_shopping_page_product_delete_dialog_message">Удалить %d выбранных товаров?</string>
+    <string name="pa_shopping_page_product_delete_error">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
+    <string name="pa_shopping_page_product_item_icon_tag">Рекомендуемые</string>
+    <string name="pa_shopping_page_product_jump_setting_error">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
+    <string name="pa_shopping_page_setting_source_desc">Скидки и акции на товары</string>
+    <string name="pa_shopping_page_setting_update_channel_failure">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
+    <string name="pa_shopping_widget_empty_content_click_desc">Ничего нет</string>
+    <string name="pa_shopping_widget_empty_content_desc">Ничего нет</string>
+    <string name="pa_shopping_widget_full_bottom_desc">Все товары</string>
+    <string name="pa_shopping_widget_full_title_desc">Сэкономьте %s CNY</string>
+    <string name="pa_shopping_widget_no_cta_content_desc">Нажмите, чтобы предоставить необходимые разрешения</string>
+    <string name="pa_shopping_widget_no_network_content_desc">Не удалось подключиться к сети</string>
+    <string name="pa_shopping_widget_no_setting_content_desc">Настройки</string>
+    <string name="pa_shopping_widget_title">Покупки</string>
     <string name="pa_shortcut_accessibility_description">Лента виджетов позволяет создавать ярлыки для сторонних приложений. Эти ярлыки не будут работать, если вы отключите эту функцию.</string>
     <string name="pa_shortcut_accessibility_service">Лента виджетов</string>
     <string name="pa_shortcut_add_limit">Можно добавить не более %1$d ярлыков</string>
@@ -2070,6 +2105,7 @@ ID:%s
     <string name="pa_stock_update_limitation_tip">Информация о фондовых рынках США и Гонконга обновляется с 15-минутной задержкой.</string>
     <string name="pa_stock_webview_bottom_button">Загрузить</string>
     <string name="pa_stock_webview_bottom_text">Откройте клиент для дополнительной информации</string>
+    <string name="pa_stock_webview_title_tiger_brokers">Акции Tiger Securities</string>
     <string name="pa_stock_widget_button_add_stock">Добавить</string>
     <string name="pa_stock_widget_empty">Ничего нет</string>
     <string name="pa_stock_widget_name">Акции</string>

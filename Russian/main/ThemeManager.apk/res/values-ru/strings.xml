@@ -721,6 +721,8 @@ mm"</string>
     <string name="no_net_work_connection">Проверьте настройки сети и повторите попытку.</string>
     <string name="no_network_desc">Не удалось подключиться к сети</string>
     <string name="no_network_please_retry">Проверьте настройки сети и повторите попытку</string>
+    <string name="no_used_title">не используется</string>
+    <string name="no_used_wallpaper">не используется</string>
     <string name="no_wallpaper">Ничего нет</string>
     <string name="noon">Полдень</string>
     <string name="not_allow">Не предоставлено</string>

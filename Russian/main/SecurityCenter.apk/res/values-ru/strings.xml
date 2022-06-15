@@ -1002,6 +1002,7 @@
     <string name="boot_time_day_tomorrow">Включение завтра в %1$s</string>
     <string name="bottom_func_guide_default_text">Дополнительные функции</string>
     <string name="bottom_notice_title">Проведите вверх, чтобы открыть панель инструментов</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="brand_diagnostic">Диагностика бренда оператора</string>
     <string name="btn_back">Назад</string>
     <string name="btn_finish_diagnostic">OK</string>
@@ -1020,6 +1021,10 @@
     <string name="btn_text_quick_save_power">Перейти</string>
     <string name="btn_text_quick_scan">Проверить</string>
     <string name="btn_text_stop">Остановить</string>
+    <string name="bubble_app_manage">Управление уведомлениями</string>
+    <string name="bubble_notification">Уведомления в виде \"пузырей\"</string>
+    <string name="bubble_notification_switch">Разрешить уведомления в виде \"пузырей\"</string>
+    <string name="bubble_notification_switch_desc">Когда плавающее окно скрыто у края экрана, его уведомления будут отображаться в виде  \"пузырей\"</string>
     <string name="business_have_hongbao">Красный конверт от %1$s</string>
     <string name="business_lucky_warning">Корпоративный красный конверт</string>
     <string name="button_background_connection">Разрешить</string>
@@ -1115,6 +1120,8 @@
     <string name="cetus_invisible_mode_warn_location">Режим инкогнито. Разрешение использовать геолокацию приостановлено.</string>
     <string name="cetus_invisible_mode_warn_open">Режим инкогнито. Разрешения использовать геолокацию, микрофон и камеру будут приостановлены. Включить режим?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Режим инкогнито. Разрешение использовать микрофон приостановлено.</string>
+    <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_high_temp_warning_dialog_ok">Понятно</string>
     <string name="charge_high_temp_warning_dialog_text">Порт зарядки слишком горячий. Отключите зарядное устройство и дайте батарее остыть.</string>
     <string name="charge_high_temp_warning_text">Отключите зарядное устройство и дайте батарее остыть</string>
@@ -1127,6 +1134,7 @@
     <string name="charging_text_battery_full_time">"Последняя зарядка "</string>
     <string name="charging_text_battery_nearly_full">Почти 100%</string>
     <string name="charging_text_battery_perfect">Полностью заряжена</string>
+    <string name="chip_text">Текст</string>
     <string name="choose">Выбрать</string>
     <string name="choose_gs_show_way">Ориентация</string>
     <string name="clean_immediately">Очистить</string>
@@ -1142,6 +1150,7 @@
     <string name="cleaned">Очищено</string>
     <string name="clear_garbage">Очистка мусора</string>
     <string name="clear_immediately">Очистить</string>
+    <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_to_charge_bill">Пополнить</string>
     <string name="click_to_set_carrier">Нажмите для настройки</string>
@@ -1417,6 +1426,7 @@
     <string name="enter">Войти</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
+    <string name="error_icon_content_description">Ошибка</string>
     <string name="evening">После полудня</string>
     <string name="every_day">Ежедневно</string>
     <string name="ew_alert_arrive_location">Сейсмическая волна прибудет %s</string>
@@ -1691,6 +1701,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
+    <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="extreme_power_save_mode_card_summary">Включение экстремальной экономии заряда при низком заряде батареи</string>
     <string name="extreme_power_save_mode_title">Экстремальная экономия заряда</string>
     <string name="face_unlock_be_on_the_screen">Держите девайс перед лицом</string>
@@ -1852,6 +1863,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="free_time_traffic_settings">Льготный трафик</string>
     <string name="free_time_traffic_title">Лимит льготного трафика</string>
     <string name="free_traffic_settings">Контроль льготного трафика</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Коснитесь приложения на боковой панели для открытия в плавающем окне.
+· Перетащите приложение в центр экрана для открытия в плавающем окне, либо к краю для разделения экрана."</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -2449,6 +2462,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="hot">Популярное</string>
     <string name="hot_today">Популярно сегодня</string>
     <string name="i_know">Понятно</string>
+    <string name="icon_content_description">Иконка диалога</string>
     <string name="icon_text_size_giga_byte">%.1f ГБ</string>
     <string name="icon_text_size_max">9.9 ГБ</string>
     <string name="icon_text_size_mega_byte">%d МБ</string>
@@ -2520,6 +2534,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="item_mms">Антиспам</string>
     <string name="item_system_auto_download">Автозагрузка обновлений</string>
     <string name="item_usb_debug">Отладка по USB</string>
+    <string name="item_view_role_description">Вкладка</string>
     <string name="item_virus_lib">Автообновление сигнатур</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">" КБ"</string>
@@ -2669,6 +2684,21 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mark_time_setting_dialog_title">Отметить номер</string>
     <string name="mark_time_text">%d</string>
     <string name="marked_by_user">"Вы отметили как "</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
+    <string name="material_hour_selection">Часы</string>
+    <string name="material_hour_suffix">"%1$s ч."</string>
+    <string name="material_minute_selection">Минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_slider_range_end">Конец диапазона,</string>
+    <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
+    <string name="material_timepicker_hour">Часы</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Установите время</string>
+    <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="megabyteShort">" МБ"</string>
     <string name="megabyte_per_second">" МБ/с"</string>
     <string name="memory_check_content">Освобождено: %s</string>
@@ -2857,6 +2887,34 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="more_settings">Еще</string>
     <string name="morning">Утро</string>
     <string name="mtp_ptp_mode_summary">MTP или PTP активен</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Новые уведомления: %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
+    <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
+    <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Выбор даты</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">День: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Неверный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Неверный диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к выбору года %1$s</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Начало – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Окончание</string>
+    <string name="mtrl_picker_range_header_title">Диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Начало – Окончание</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Окончание</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Начало</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Календарь</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="na_main_card_ad_subtitle">Много трафика, бесплатные звонки, низкие тарифы</string>
     <string name="na_main_card_ad_text">Найдите подходящий вам план</string>
     <string name="na_main_card_ad_title">Продвижение карты Mi Fan</string>
@@ -3180,6 +3238,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="password_promotion_not_login_xiaomi_account_message">Привяжите Xiaomi аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
     <string name="password_promotion_postbutton_text">Привязать</string>
     <string name="password_promotion_title">Привяжите Xiaomi аккаунт</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="password_type">Способ защиты</string>
     <string name="password_type_underline">
   <u>Способ защиты</u>
@@ -5878,6 +5937,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="weight_heavy">Толстый</string>
     <string name="weight_light">Тонкий</string>
     <string name="whitelist_prefix_add_hint">Все номера с этим префиксом будут добавлены в белый список</string>
+    <string name="widget_cleaner_size_unit">" МБ"</string>
     <string name="wifi_danger_dialog_messgae">Текущая сеть Wi-Fi может представлять угрозу безопасности. Используйте с осторожностью.</string>
     <string name="wifi_danger_dialog_tips">Управление безопасностью Wi-Fi доступно в Безопасность &gt; Антивирус &gt; Настройки &gt; Wi-Fi.</string>
     <string name="wifi_danger_dialog_title">Сеть Wi-Fi не защищена</string>

@@ -1003,6 +1003,11 @@
     <string name="insertContactDescription">Создать контакт</string>
     <string name="insertGroupDescription">Создать группу</string>
     <string name="invalidContactMessage">Контакт не существует</string>
+    <string name="invisible_mode_dialog_cancel">Отмена</string>
+    <string name="invisible_mode_dialog_to_close">Отключить</string>
+    <string name="invisible_mode_title">Режим инкогнито</string>
+    <string name="invisible_mode_unable_connect_camera">Камера недоступна в режиме инкогнито. Отключить режим инкогнито?</string>
+    <string name="invisible_mode_unable_get_location">Использование геолокации и импорт контактов с других устройств через Bluetooth недоступны в режиме инкогнито. Отключить режим инкогнито?</string>
     <string name="item_offical">Официальный</string>
     <string name="keep_local">Сохранить локально</string>
     <string name="keep_local_btn">Во внутреннюю память</string>

@@ -1256,6 +1256,7 @@
     <string name="status_unread">Непрочитанные</string>
     <string name="stick">Закрепить</string>
     <string name="stick_conversation">Закрепить диалог</string>
+    <string name="sticked">Закреплено</string>
     <string name="sticked_conversation">Диалог уже закреплен</string>
     <string name="storage_dialog_attachments">Вложения MMS:</string>
     <string name="storage_dialog_available_space">Доступно:</string>
@@ -1457,6 +1458,7 @@
     <string name="unknown_sender">Неизвестный отправитель</string>
     <string name="unstick">Открепить</string>
     <string name="unstick_conversation">Открепить диалог</string>
+    <string name="unsticked">Откреплено</string>
     <string name="unsticked_conversation">Диалог уже откреплен</string>
     <string name="unsubscribe">Отписаться</string>
     <string name="unsupported_media_format">Неподдерживаемый формат (%1$s).</string>
