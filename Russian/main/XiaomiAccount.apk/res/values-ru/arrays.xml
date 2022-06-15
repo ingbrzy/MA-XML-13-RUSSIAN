@@ -92,79 +92,74 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
-    <string-array name="settings_search_account_and_authority">
-        <item>Аккаунты</item>
-        <item>Добавление и управление сторонними аккаунтами</item>
-        <item>Авторизация;Аккаунт;Xiaomi аккаунт;Добавить;Связать;Xiaomi;Просмотр;SNS;WeChat;Google;Weibo</item>
-    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Аккаунты</item>
         <item>Добавление и управление сторонними аккаунтами</item>
-        <item>Аккаунты;SNS;Facebook;Google;Xiaomi аккаунт;Аккаунт</item>
+        <item>Аккаунты;SNS;Facebook;Google;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Аккаунты</item>
         <item>Добавление и управление сторонними аккаунтами</item>
-        <item>Аккаунты;SNS;WeChat;QQ;Weibo;Xiaomi аккаунт;Аккаунт</item>
+        <item>Аккаунты;SNS;WeChat;QQ;Weibo;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Изменение пароля</item>
         <item>Изменение пароля Xiaomi аккаунта</item>
-        <item>Изменение пароля;Обновление пароля;Xiaomi аккаунт;Аккаунт</item>
+        <item>Изменение пароля;Обновление пароля;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Помощь</item>
         <item>Получение справки и поддержки для Xiaomi аккаунта</item>
-        <item>Xiaomi аккаунт;Аккаунт;Помощь;Поддержка</item>
+        <item>Mi аккаунт;Аккаунт;Xiaomi аккаунт;Помощь;Поддержка</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>Двухэтапная авторизация</item>
         <item>Установите двухэтапную авторизацию для своего Xiaomi аккаунта</item>
-        <item>Вход;Логин;2-шаговый;Проверка;Авторизация;Xiaomi;Аккаунт;Xiaomi аккаунт;Аккаунт</item>
+        <item>Вход;Логин;2-шаговый;Проверка;Авторизация;Xiaomi;Аккаунт;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Безопасность аккаунта</item>
         <item>Номер телефона и адрес электронной почты для восстановления, управление паролями</item>
-        <item>Безопасность аккаунта;Вход;Восстановление;Адрес электронной почты для восстановления;Защита аккаунта;Номер телефона;Email;Изменить пароль;Добавить номер телефона;Добавить email;Xiaomi аккаунт;Аккаунт</item>
+        <item>Безопасность аккаунта;Вход;Восстановление;Адрес электронной почты для восстановления;Защита аккаунта;Номер телефона;Email;Изменить пароль;Добавить номер телефона;Добавить email;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Устройства</item>
         <item>Управление устройствами, связанными с Xiaomi аккаунтом</item>
-        <item>Управление устройствами;Мои устройства;Устройства;Список устройств;Xiaomi аккаунт;Аккаунт</item>
+        <item>Управление устройствами;Мои устройства;Устройства;Список устройств;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_payment_information">
         <item>Платежная информация</item>
         <item>Просмотр и управление платежной информацией</item>
-        <item>Оплата;Платеж;Метод платежа;Xiaomi аккаунт;Аккаунт</item>
+        <item>Оплата;Платеж;Метод платежа;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Политика конфиденциальности</item>
         <item>Просмотр Политики конфиденциальности Xiaomi аккаунта</item>
-        <item>Xiaomi аккаунт;Аккаунт;Политика конфиденциальности</item>
+        <item>Mi аккаунт;Аккаунт;Xiaomi аккаунт;Политика конфиденциальности</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>Адрес электронной почты для восстановления</item>
         <item>Добавить адрес электронной почты для восстановления</item>
-        <item>Адрес электронной почты для восстановления;Email;Добавить email;Xiaomi аккаунт;Аккаунт</item>
+        <item>Адрес электронной почты для восстановления;Email;Добавить email;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Номер телефона для восстановления</item>
         <item>Добавить номер телефона для восстановления</item>
-        <item>Номер телефона для восстановления;Добавить номер телефона;Xiaomi аккаунт;Аккаунт</item>
+        <item>Номер телефона для восстановления;Добавить номер телефона;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Реклама</item>
         <item>Управление системной рекламой</item>
-        <item>Реклама;Xiaomi аккаунт;Аккаунт</item>
+        <item>Реклама;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Информация об аккаунте</item>
         <item>Просмотр фото профиля и управление данными аккаунта</item>
-        <item>Личная информация;Фото профиля;Имя;Информация об аккаунте;Mi ID;ID;Xiaomi аккаунт;Аккаунт</item>
+        <item>Личная информация;Фото профиля;Имя;Информация об аккаунте;Mi ID;ID;Mi аккаунт;Аккаунт;Xiaomi аккаунт</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Пользовательское соглашение</item>
         <item>Просмотр Пользовательского соглашения Xiaomi аккаунта</item>
-        <item>Xiaomi аккаунт;Аккаунт;Пользовательское соглашение;EULA</item>
+        <item>Mi аккаунт;Аккаунт;Xiaomi аккаунт;Пользовательское соглашение;EULA</item>
     </string-array>
 </resources>
