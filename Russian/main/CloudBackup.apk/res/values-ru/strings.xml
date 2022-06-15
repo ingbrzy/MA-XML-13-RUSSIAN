@@ -135,10 +135,10 @@
     <string name="cloud_back_up_opening">Подождите…</string>
     <string name="cloud_back_up_share_activity_confirm">Повысить</string>
     <string name="cloud_back_up_share_activity_discription">Получите больше места в облаке, ежедневные резервные копии и другие возможности.</string>
-    <string name="cloud_back_up_share_activity_title">Повысить Mi Аккаунт</string>
+    <string name="cloud_back_up_share_activity_title">Повысить Xiaomi аккаунт</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Улучшить</string>
     <string name="cloud_back_up_subscribe_vip_discription">Получите больше места для хранения ежедневных резервных копий и многого другого.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Обновить Mi аккаунт</string>
+    <string name="cloud_back_up_subscribe_vip_title">Обновить Xiaomi аккаунт</string>
     <string name="cloud_back_up_task">Резервное копирование…</string>
     <string name="cloud_backup">Облачное резервное копирование</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
@@ -368,7 +368,7 @@ ID: %s
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="night">Вечер</string>
-    <string name="no_account">Не выполнен вход в Mi Аккаунт</string>
+    <string name="no_account">Не выполнен вход в Xiaomi аккаунт</string>
     <string name="no_backup">Нет резервных копий в Xiaomi Cloud</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>

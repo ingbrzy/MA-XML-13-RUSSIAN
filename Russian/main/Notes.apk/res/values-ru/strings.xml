@@ -40,7 +40,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="actionbar_close_description">Закрыть</string>
     <string name="actionbar_home_description">Назад</string>
-    <string name="add_account_desc">Синхронизировать заметки с вашим Mi аккаунтом?</string>
+    <string name="add_account_desc">Синхронизировать заметки с вашим Xiaomi аккаунтом?</string>
     <string name="afternoon">После полудня</string>
     <string name="alarm_bar_title">Напоминание</string>
     <string name="alert_action_edit_anyway">Продолжить</string>
@@ -195,7 +195,7 @@
     <string name="empty_folder_import_notes">Импорт заметок</string>
     <string name="empty_folder_no_notes">Нет заметок</string>
     <string name="enable_sync">Синхронизировать</string>
-    <string name="enable_sync_desc">Синхронизировать заметки с Mi аккаунтом (%1$s)?</string>
+    <string name="enable_sync_desc">Синхронизировать заметки с Xiaomi аккаунтом (%1$s)?</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_contact_not_exist">Контакт не существует</string>

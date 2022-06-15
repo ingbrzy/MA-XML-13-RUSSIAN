@@ -425,7 +425,7 @@ ID: %s
     <string name="other">Прочее</string>
     <string name="other_filter">Прочее</string>
     <string name="package_filter">Пакеты</string>
-    <string name="passport_oauth_actionbar_title">Mi Аккаунт</string>
+    <string name="passport_oauth_actionbar_title">Xiaomi аккаунт</string>
     <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_no_available">Путь не доступен</string>
@@ -767,7 +767,7 @@ ID: %s
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-    <string name="xiaomi_account_not_exist_message">Этот Mi аккаунт не существует</string>
+    <string name="xiaomi_account_not_exist_message">Этот Xiaomi аккаунт не существует</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
@@ -802,7 +802,7 @@ ID: %s
     <string name="xl_vip_quarter_price">%1$s Mi Coins в месяц (3 месяца)</string>
     <string name="xl_vip_semiannual">Полугодовая подписка</string>
     <string name="xl_vip_semiannual_price">%1$s Mi Coins в месяц (6 месяцев)</string>
-    <string name="xlunbind_sub_title">Удалите аккаунт Xunlei и добавьте Mi Аккаунт</string>
+    <string name="xlunbind_sub_title">Удалите аккаунт Xunlei и добавьте Xiaomi аккаунт</string>
     <string name="xunlei_account_has_unbind_message">Аккаунт Xunlei удален</string>
     <string name="xunlei_brand">Поддержка Xunlei</string>
     <string name="xunlei_close_tips_button">Включить</string>

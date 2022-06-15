@@ -721,7 +721,7 @@
     <string name="usage_focus_title_level3">Отвлекитесь от насущного</string>
     <string name="usage_focus_title_level4">Найдите радость в постоянстве</string>
     <string name="usage_focus_title_level5">Сохраняйте сосредоточенность</string>
-    <string name="usage_home_permission_account_summary">Вход в Mi Аккаунт и синхронизация статистики приложения</string>
+    <string name="usage_home_permission_account_summary">Вход в Xiaomi аккаунт и синхронизация статистики приложения</string>
     <string name="usage_home_permission_account_title">Доступ к учетной записи</string>
     <string name="usage_home_permission_phone_summary">Идентификация устройства с помощью VAID</string>
     <string name="usage_home_permission_phone_title">Доступ к информации об устройстве</string>

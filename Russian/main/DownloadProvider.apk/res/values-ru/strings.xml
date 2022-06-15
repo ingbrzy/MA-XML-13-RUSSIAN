@@ -205,7 +205,7 @@
     <string name="privacy_notif_content">Нажмите для информации.</string>
     <string name="privacy_notif_title">Ускорение Xunlei включено</string>
     <string name="privacy_tip_cancel">Отмена</string>
-    <string name="privacy_tip_content">Использовать ускорение Xunlei для увеличения скорости загрузки? URL-адрес загрузки будет загружен на серверы Xunlei. Также, будут загружены данные Mi Аккаунта для проверки активных подписок на эту услугу.</string>
+    <string name="privacy_tip_content">Использовать ускорение Xunlei для увеличения скорости загрузки? URL-адрес загрузки будет загружен на серверы Xunlei. Также, будут загружены данные Xiaomi аккаунта для проверки активных подписок на эту услугу.</string>
     <string name="privacy_tip_ok">ОК</string>
     <string name="privacy_tip_title">Использовать ускорение Xunlei?</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного интернета для загрузки этого файла?</string>

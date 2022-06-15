@@ -160,10 +160,10 @@
     <string name="common_downloading">Загрузка…</string>
     <string name="common_format_date_no_year">dd.MM</string>
     <string name="common_skip">Пропустить</string>
-    <string name="community_community_message_trigger_summary">Получать уведомления об ответах и обновлениях статуса Xiaomi Community, используя ваш идентификатор Mi Аккаунта</string>
+    <string name="community_community_message_trigger_summary">Получать уведомления об ответах и обновлениях статуса Xiaomi Community, используя ваш идентификатор Xiaomi аккаунта</string>
     <string name="community_community_message_trigger_title">Уведомления Xiaomi Community</string>
     <string name="community_cta_dialog_cancel">Отмена</string>
-    <string name="community_cta_dialog_des">Сторонние темы теперь поддерживают виджет Xiaomi Community. Разрешите приложению Темы доступ к вашему идентификатору Mi Аккаунта и статусам Xiaomi Community для возможности их просмотра здесь.</string>
+    <string name="community_cta_dialog_des">Сторонние темы теперь поддерживают виджет Xiaomi Community. Разрешите приложению Темы доступ к вашему идентификатору Xiaomi аккаунта и статусам Xiaomi Community для возможности их просмотра здесь.</string>
     <string name="community_cta_dialog_ok">Разрешить</string>
     <string name="community_cta_dialog_title">Требуются разрешения</string>
     <string name="community_entrance_summary">Поиск тематического контента в Xiaomi Community</string>
@@ -304,7 +304,7 @@
     <string name="evening">PM</string>
     <string name="exchange_alert">Вы можете активировать здесь коды, полученные во время наших мероприятий</string>
     <string name="exchange_code_dialog_title">Внимание</string>
-    <string name="exchange_code_not_match_account_dialog_content">Этот код уже был использован в другом Mi аккаунте. Войдите этот Mi аккаунт и повторите попытку.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Этот код уже был использован в другом Xiaomi аккаунте. Войдите этот Xiaomi аккаунт и повторите попытку.</string>
     <string name="exit_extreme_mode_dialog_agree">Отключить</string>
     <string name="exit_extreme_mode_dialog_cancel">Отмена</string>
     <string name="exit_extreme_mode_dialog_title">Отключение режима</string>
@@ -564,13 +564,13 @@ dd.MM"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
+    <string name="miuishare_account_activate_confirmation">Активируйте Xiaomi аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
     <string name="miuishare_account_login_cancel">Отмена</string>
-    <string name="miuishare_account_login_confirmation">Войдите в Mi Аккаунт</string>
+    <string name="miuishare_account_login_confirmation">Войдите в Xiaomi аккаунт</string>
     <string name="miuishare_account_login_ok">Войти</string>
-    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Активируйте ваш Mi Аккаунт.</string>
-    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Выполните вход в ваш Mi Аккаунт.</string>
+    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Xiaomi аккаунтом. Активируйте ваш Xiaomi аккаунт.</string>
+    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Xiaomi аккаунтом. Выполните вход в ваш Xiaomi аккаунт.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">Посмотрите обои, которые я нашел!</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
@@ -747,7 +747,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"После выхода Вы не сможете выполнять следующие действия:
 просматривать и использовать приобретенные или добавленные в Избранное компоненты."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Выйти из Обои и персонализация?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>&lt;/font> Обои и персонализация, а также &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Mi Аккаунта (для входа с использованием системного аккаунта).</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>&lt;/font> Обои и персонализация, а также &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Xiaomi аккаунта (для входа с использованием системного аккаунта).</Data></string>
     <string name="pad_fold_log_in_wallpaper">Войти в Обои и персонализация</string>
     <string name="pad_fold_no_permission">Требуется доступ к хранилищу</string>
     <string name="pad_fold_no_permission_detail">Разрешите доступ к хранилищу для настройки персонализации и сохранения загруженных компонент.</string>
@@ -776,7 +776,7 @@ mm"</string>
 2. Добавлять комментарии и лайки, подписываться и общаться."</string>
     <string name="phone_exit_theme_warning_title">Выйти из Темы?</string>
     <string name="phone_log_in_theme">Войти в Темы</string>
-    <string name="phone_log_in_theme_detail"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>&lt;/font> приложения Темы, а также &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Mi Аккаунта (для входа с использованием системного аккаунта).</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>&lt;/font> приложения Темы, а также &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Xiaomi аккаунта (для входа с использованием системного аккаунта).</Data></string>
     <string name="playing_ringtone">Воспроизведение</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Замена обоев на слайд-шоу изображений из различных категорий</string>
@@ -865,8 +865,8 @@ mm"</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас есть права отозвать согласие.
 2. Ваш отзыв согласия с Политикой конфиденциальности Темы не повлияет на нормальное использование других продуктов Xiaomi.
 3. Отзыв согласия является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отзыва согласия. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами) следующие данные:"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт. Вы больше не сможете использовать приобретенные компоненты.
-Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт.
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Xiaomi аккаунт. Вы больше не сможете использовать приобретенные компоненты.
+Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, на которых Вы использовали свой Xiaomi аккаунт.
 Все темы, обои, динамические обои, шрифты, иконки и рингтоны, загруженные на это устройство.
 История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, используемые на этом устройстве. Будут восстановлены настройки персонализации по умолчанию."</string>
@@ -883,8 +883,8 @@ mm"</string>
     <string name="privacy_remind_user_mode_content"><Data>Примите Политику конфиденциальности, чтобы использовать эту функцию. Прочтите &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>&lt;/font> чтобы узнать, как мы собираем, используем, раскрываем, обрабатываем и храним личную информацию, которую Вы предоставляете нам при использовании Темы.</Data></string>
     <string name="privacy_remind_user_mode_title">Внимание</string>
     <string name="privacy_revoke_agree_content">Отзыв Согласия</string>
-    <string name="privacy_revoke_agree_content_1">1. Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт. Вы больше не сможете использовать приобретенные компоненты.</string>
-    <string name="privacy_revoke_agree_content_2">2. Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, в которых Вы использовали свой Mi Аккаунт.</string>
+    <string name="privacy_revoke_agree_content_1">1. Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Xiaomi аккаунт. Вы больше не сможете использовать приобретенные компоненты.</string>
+    <string name="privacy_revoke_agree_content_2">2. Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, в которых Вы использовали свой Xiaomi аккаунт.</string>
     <string name="privacy_revoke_agree_content_5">5. Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Будут восстановлены настройки персонализации по умолчанию.</string>
     <string name="privacy_revoke_agree_data_warning">После отзыва согласия будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами) следующие данные:</string>
     <string name="privacy_revoke_succeed">Согласие отозвано</string>
@@ -896,8 +896,8 @@ mm"</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас есть права для отзыва согласия.
 2. Ваш отзыв согласия с Политикой конфиденциальности Обои и персонализации не повлияет на нормальное использование других продуктов Xiaomi.
 3. Отзыв согласия является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отзыва согласия. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами) следующие данные:"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт. Вы больше не сможете использовать приобретенные компоненты.
-Вся информация о Ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, на которых Вы использовали свой Mi Аккаунт.
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Xiaomi аккаунт. Вы больше не сможете использовать приобретенные компоненты.
+Вся информация о Ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, на которых Вы использовали свой Xiaomi аккаунт.
 Все обои, шрифты и рингтоны, загруженные на это устройство.
 Все разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут восстановлены по умолчанию."</string>
@@ -916,7 +916,7 @@ mm"</string>
     <string name="purchased_list">Купленные</string>
     <string name="purchased_list_current">Оптимизированные</string>
     <string name="purchased_list_legacy">Устаревшие</string>
-    <string name="read_and_agree_account_privacy"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское cоглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Mi Аккаунта.</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское cоглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Xiaomi аккаунта.</Data></string>
     <string name="recently_used">Недавние</string>
     <string name="recommend_trigger">Персонализированные рекомендации</string>
     <string name="recommend_trigger_summary">Включите, чтобы получать рекомендации, основанные на ваших предпочтениях</string>
@@ -935,7 +935,7 @@ mm"</string>
     <string name="resource_account_abnormal_state">Ошибка аккаунта. Повторите попытку позже.</string>
     <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
     <string name="resource_account_login">Войти</string>
-    <string name="resource_account_login_before_action">Войдите в Mi Аккаунт</string>
+    <string name="resource_account_login_before_action">Войдите в Xiaomi аккаунт</string>
     <string name="resource_account_login_title">Вход</string>
     <string name="resource_account_switch">Сменить</string>
     <string name="resource_alarm_default">Будильник</string>
@@ -1285,7 +1285,7 @@ mm"</string>
     <string name="super_wallpaper_setting_coordinate_title">Координаты</string>
     <string name="super_wallpaper_setting_view_height_title">Высота</string>
     <string name="supersave_mode_toast_message">Функция недоступна при включенной ультраэкономии заряда. Отключите ультраэкономию заряда.</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Эти обои уже связаны с другим Mi аккаунтом. Войдите в этот Mi аккаунт и повторите попытку.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Эти обои уже связаны с другим Xiaomi аккаунтом. Войдите в этот Xiaomi аккаунт и повторите попытку.</string>
     <string name="support_theme_store_des">Хорошие темы создаются талантливыми дизайнерами. Наше приложение содержит небольшое количество рекламы, которая позволяет нам поддерживать их работу.</string>
     <string name="support_theme_store_supported">Спасибо за поддержку!</string>
     <string name="support_theme_store_title">Поддержка дизайнеров</string>
@@ -1423,7 +1423,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage_summary">Для применения изменений потребуется перезапуск приложения</string>
     <string name="theme_log_out">Выход</string>
     <string name="theme_multiple_button_title_customize">Компоненты тем</string>
-    <string name="theme_need_login_dialog_content">Войдите в Mi аккаунт, чтобы продолжить</string>
+    <string name="theme_need_login_dialog_content">Войдите в Xiaomi аккаунт, чтобы продолжить</string>
     <string name="theme_no">Отмена</string>
     <string name="theme_not_include_module_desc">Тема не содержит следующие компоненты: %s</string>
     <string name="theme_on_the_phone_alert">Воспроизведение во время вызова недоступно</string>
@@ -1467,7 +1467,7 @@ mm"</string>
     <string name="title_system_audio_notification_resource">Системные уведомления</string>
     <string name="title_system_audio_resource">Системные мелодии</string>
     <string name="title_system_wallpaper_resource">Системные обои</string>
-    <string name="to_activate_the_account">Активировать Mi Аккаунт</string>
+    <string name="to_activate_the_account">Активировать Xiaomi аккаунт</string>
     <string name="toast_both_all_apply_failured">Не удалось применить к рабочему столу и экрану блокировки</string>
     <string name="toast_both_all_apply_success">Применено к рабочему столу и экрану блокировки</string>
     <string name="toast_home_apply_failured">Не удалось применить к рабочему столу</string>

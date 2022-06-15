@@ -244,10 +244,10 @@
     <string name="member_menu_vipname_premium">Премиум</string>
     <string name="member_menu_vipname_ultra">Ультра</string>
     <string name="micloud_space_applist_detail">Вы можете просматривать резервные копии рабочего стола на мобильном устройстве.</string>
-    <string name="micloud_space_duokan_detail">Откройте Duokan на устройстве и перейдите в \"Книжная полка и облачное хранилище\" для управления пространством. Убедитесь, что текущий Mi аккаунт установлен в качестве системного аккаунта MIUI.</string>
+    <string name="micloud_space_duokan_detail">Откройте Duokan на устройстве и перейдите в \"Книжная полка и облачное хранилище\" для управления пространством. Убедитесь, что текущий Xiaomi аккаунт установлен в качестве системного аккаунта MIUI.</string>
     <string name="micloud_space_duokan_title">Хранилище Duokan</string>
     <string name="micloud_space_soundrecorder_detail">Откройте приложение Диктофон на устройстве и выберите папку с файлами, хранящимися в облаке.
-Убедитесь, что текущий Mi аккаунт установлен в качестве системного аккаунта MIUI.</string>
+Убедитесь, что текущий Xiaomi аккаунт установлен в качестве системного аккаунта MIUI.</string>
     <string name="micloud_space_soundrecorder_title">Диктофон</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
@@ -421,8 +421,8 @@
     <string name="rename_file_select_error">Не могу переименовать несколько файлов</string>
     <string name="rename_success">Успешно переименовано</string>
     <string name="request_permission_confirm">Понятно</string>
-    <string name="request_permission_content">Mi Drive требуется доступ к аккаунтам на этом устройстве, чтобы использовать Mi аккаунт для входа в систему. Разрешение на доступ и запись файлов на устройстве необходимо для просмотра, загрузки и синхронизации файлов.</string>
-    <string name="request_permission_content_with_phone_state">Для входа в систему с помощью Mi Аккаунта, просмотра и загрузки файлов, синхронизации, проверки наличия обновлений, разрешите приложению Mi Drive доступ к аккаунтам, чтение и запись файлов, а также чтение IMEI.</string>
+    <string name="request_permission_content">Mi Drive требуется доступ к аккаунтам на этом устройстве, чтобы использовать Xiaomi аккаунт для входа в систему. Разрешение на доступ и запись файлов на устройстве необходимо для просмотра, загрузки и синхронизации файлов.</string>
+    <string name="request_permission_content_with_phone_state">Для входа в систему с помощью Xiaomi аккаунта, просмотра и загрузки файлов, синхронизации, проверки наличия обновлений, разрешите приложению Mi Drive доступ к аккаунтам, чтение и запись файлов, а также чтение IMEI.</string>
     <string name="request_permission_title">Требуются разрешения</string>
     <string name="root_page_name">Мой диск</string>
     <string name="saturday">Суббота</string>

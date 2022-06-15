@@ -66,7 +66,7 @@
     <string name="add_data_source">Добавить источники данных</string>
     <string name="add_data_source_description">"Добавьте данные о состоянии здоровья из других устройств в приложение Здоровье, чтобы повысить точность статистики и получить более актуальные рекомендации.
 Приложение Здоровье поддерживает устройства, ранее добавленные в приложение Mi Home. Если не удается найти устройство, которое хотите добавить, сначала проверьте, добавлено ли оно в Mi Home."</string>
-    <string name="add_data_source_login_and_open_sync">Войдите в Mi Аккаунт и включите синхронизацию с облаком для возможности добавлять источники данных.</string>
+    <string name="add_data_source_login_and_open_sync">Войдите в Xiaomi аккаунт и включите синхронизацию с облаком для возможности добавлять источники данных.</string>
     <string name="add_data_source_open_sync">Включите синхронизацию с облаком для возможности добавлять источники данных.</string>
     <string name="add_data_source_process">Как добавить источник данных</string>
     <string name="add_data_source_support_step">Это устройство не генерирует данные о количестве шагов. Попробуйте другое.</string>
@@ -353,8 +353,8 @@
     <string name="detection_wait_generate_report_detail">Отчет будет готов позже</string>
     <string name="device_data_manage">Управление устройствами</string>
     <string name="device_data_sync">Синхронизация данных</string>
-    <string name="device_description">Эти устройства связаны с Mi Аккаунтом %1$s. Если не удается найти нужное устройство, добавьте сначала его в Mi Fit или Xiaomi Wear.</string>
-    <string name="device_list_origin_description">Эти устройства связаны с Mi Аккаунтом %1$s. Если не удается найти нужное устройство, убедитесь, что оно уже добавлено в соответствующее приложение.</string>
+    <string name="device_description">Эти устройства связаны с Xiaomi аккаунтом %1$s. Если не удается найти нужное устройство, добавьте сначала его в Mi Fit или Xiaomi Wear.</string>
+    <string name="device_list_origin_description">Эти устройства связаны с Xiaomi аккаунтом %1$s. Если не удается найти нужное устройство, убедитесь, что оно уже добавлено в соответствующее приложение.</string>
     <string name="device_off_sync_description">Данные с этого устройства, не будут синхронизированы</string>
     <string name="device_unbound_from_account">Это устройство больше не связано с вашим аккаунтом</string>
     <string name="diagnosis_log_send_failed">Ошибка отправки журнала диагностики.</string>
@@ -728,7 +728,7 @@ ID:%s
     <string name="indoor_running">Беговая дорожка</string>
     <string name="input_body_weight">Введите данные о весе, чтобы получить советы</string>
     <string name="inquire_recover_data">Восстановить данные о состоянии здоровья?</string>
-    <string name="inquire_recover_data_subtitle">Похоже, имеются данные о состоянии здоровья, связаные с Вашим Mi Аккаунтом (%1$s). Синхронизировать с облаком и восстановить данные?</string>
+    <string name="inquire_recover_data_subtitle">Похоже, имеются данные о состоянии здоровья, связаные с Вашим Xiaomi аккаунтом (%1$s). Синхронизировать с облаком и восстановить данные?</string>
     <string name="instructions_provider">Инструкции предоставлены Miao Health</string>
     <string name="insufficient">Мало</string>
     <string name="internal_training">HIIT</string>
@@ -1056,7 +1056,7 @@ ID:%s
     <string name="number_divided">%1$d/%2$d</string>
     <string name="oar_time">Время в пути</string>
     <string name="oauth_account_failed">Не удалось получить информацию об аккаунте</string>
-    <string name="oauth_account_failed_desc">Для добавления источников данных Xiaomi Health требуется вход в Mi Аккаунт.</string>
+    <string name="oauth_account_failed_desc">Для добавления источников данных Xiaomi Health требуется вход в Xiaomi аккаунт.</string>
     <string name="oauth_invalid">Сессия истекла. Войдите снова.</string>
     <string name="ok">ОК</string>
     <string name="open">Включить</string>
@@ -1078,7 +1078,7 @@ ID:%s
     <string name="outdoor_walking">Ходьба</string>
     <string name="page">%1$d/%2$d</string>
     <string name="passable">ОК</string>
-    <string name="passport_oauth_actionbar_title">Mi Аккаунт</string>
+    <string name="passport_oauth_actionbar_title">Xiaomi аккаунт</string>
     <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pause">Пауза</string>
@@ -1751,8 +1751,8 @@ ID:%s
     <string name="tb_stand_wm_column_click">%1$s，активность %2$d，%3$s</string>
     <string name="tb_step_widget" formatted="false">Сегодня: %1$s. Прогресс: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Отмена</string>
-    <string name="tb_user_account_signed">Mi Аккаунт: %1$s.</string>
-    <string name="tb_user_account_unsigned">Нажмите, чтобы войти в Mi аккаунт</string>
+    <string name="tb_user_account_signed">Xiaomi аккаунт: %1$s.</string>
+    <string name="tb_user_account_unsigned">Нажмите, чтобы войти в Xiaomi аккаунт</string>
     <string name="tb_user_sleep_card_info">Цель ежедневного сна: %1$s.</string>
     <string name="tb_user_sleep_target_btn">Изменить цель сна</string>
     <string name="tb_user_step_card_info">Дневная цель: %1$s, около %2$s или %3$s.</string>

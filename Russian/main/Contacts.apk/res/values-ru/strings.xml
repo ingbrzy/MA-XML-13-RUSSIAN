@@ -60,8 +60,8 @@
     <string name="add_organization">Добавить организацию</string>
     <string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
     <string name="add_wait">Добавить ожидание</string>
-    <string name="add_xiaomi_account_dialog_btn">В Mi Аккаунт</string>
-    <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в Mi Аккаунт. Он позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на вашем компьютере.</string>
+    <string name="add_xiaomi_account_dialog_btn">В Xiaomi аккаунт</string>
+    <string name="add_xiaomi_account_dialog_msg">Рекомендуется сохранять контакты в Xiaomi аккаунт. Он позволяет производить синхронизацию и резервное копирование контактной информации и управление контактами на вашем компьютере.</string>
     <string name="add_xiaomi_account_dialog_title">Выберите аккаунт</string>
     <string name="afternoon">После полудня</string>
     <string name="agenda_not_today_empty_hint">Мероприятия отсутствуют. Нажмите, чтобы создать.</string>
@@ -124,7 +124,7 @@
     <string name="bh_cancellation_of_carrier_services_result">Если Вы продолжите, это будет означать отказ от сервисов Mi Carrier. Сбор и использование личной информации будут прекращены, история заказов будет удалена. Прежде чем отказаться от сервисов, убедитесь, что все транзакции завершены.</string>
     <string name="bh_cannot_action">%1$s недоступно для использования. Установите соответствующее приложение.</string>
     <string name="bh_cannot_fetch_num">Неизвестный номер телефона</string>
-    <string name="bh_cannot_login_miacount">Не удалось войти в Mi аккаунт</string>
+    <string name="bh_cannot_login_miacount">Не удалось войти в Xiaomi аккаунт</string>
     <string name="bh_card_order_detail">Информация о заказе</string>
     <string name="bh_card_order_name">Пакет услуг</string>
     <string name="bh_card_order_pay_price">Оплаченная сумма</string>
@@ -276,7 +276,7 @@
     <string name="bh_saved_number">Сохраненный номер: %1$s</string>
     <string name="bh_set_package">Установить тарифный план оператора связи</string>
     <string name="bh_settings">Настройки</string>
-    <string name="bh_should_login_to_buy">Войдите в Mi аккаунт для возможности покупки минут и пакетов интернета</string>
+    <string name="bh_should_login_to_buy">Войдите в Xiaomi аккаунт для возможности покупки минут и пакетов интернета</string>
     <string name="bh_sim">SIM %1$d</string>
     <string name="bh_sim_1">%1$s (SIM 1)</string>
     <string name="bh_sim_2">%1$s (SIM 2)</string>
@@ -575,7 +575,7 @@
     <string name="contact_detail_miprofile_accept_fail_toast">Не удалось обменяться визитками</string>
     <string name="contact_detail_miprofile_accept_success_toast">Обмен визитками состоялся</string>
     <string name="contact_detail_miprofile_binded_label">Подтверждено</string>
-    <string name="contact_detail_miprofile_exchange_closed">"Mi Аккаунт не связан с телефонным номером
+    <string name="contact_detail_miprofile_exchange_closed">"Xiaomi аккаунт не связан с телефонным номером
 Визитки отключены"</string>
     <string name="contact_detail_miprofile_privacy_settings">Запрашивать разрешение на просмотр</string>
     <string name="contact_detail_miprofile_request">Обменяться визитками</string>
@@ -648,13 +648,13 @@
     <string name="create_group_item_label">Создать новую группу</string>
     <string name="create_qrcode_fail_message">Ошибка создания QR-кода</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Важное замечание
-Нажав \"Принимаю\" ниже, вы принимаете &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Соглашение об обслуживании Mi аккаунта&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Пользовательское соглашение Mi Roaming&lt;/a>&lt;/font> и &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Политику конфиденциальности&lt;/a>&lt;/font>. Внимательно прочтите эти документы и изучите все соответствующие положения и условия.&lt;/strong>"</Data></string>
+Нажав \"Принимаю\" ниже, вы принимаете &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Соглашение об обслуживании Xiaomi аккаунта&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Пользовательское соглашение Mi Roaming&lt;/a>&lt;/font> и &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Политику конфиденциальности&lt;/a>&lt;/font>. Внимательно прочтите эти документы и изучите все соответствующие положения и условия.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">
 Для нормальной работы приложению Mi Roaming требуется подключение к интернету и доступ к информации о вашем местоположении. Приложение может собирать, использовать и передавать вашу личную информацию. Ваша личная информация будет защищена в соответствии с местными законами и постановлениями .</string>
     <string name="cta_dialog_cancel">Выход</string>
     <string name="cta_dialog_ok">Принимаю</string>
     <string name="cta_dialog_title">Условия и положения</string>
-    <string name="cta_newcontent_seg1"><Data>Мы обновили &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Соглашение об обслуживании Mi аккаунта&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Пользовательское соглашение Mi Roaming&lt;/a>&lt;/font> и &lt;font color=#33aaff>&lt;a href ='https://privacy.mi.com/business_hall/zh_CN/'>Политику конфиденциальности&lt;/a>&lt;/font>. &lt;strong>Внимательно прочтите эти документы и изучите все соответствующие положения и условия.&lt;/strong>"</Data></string>
+    <string name="cta_newcontent_seg1"><Data>Мы обновили &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Соглашение об обслуживании Xiaomi аккаунта&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Пользовательское соглашение Mi Roaming&lt;/a>&lt;/font> и &lt;font color=#33aaff>&lt;a href ='https://privacy.mi.com/business_hall/zh_CN/'>Политику конфиденциальности&lt;/a>&lt;/font>. &lt;strong>Внимательно прочтите эти документы и изучите все соответствующие положения и условия.&lt;/strong>"</Data></string>
     <string name="cta_newcontent_seg2">
 Приложение Mi Roaming может собирать, использовать и передавать вашу личную информацию. Ваша личная информация будет защищена в соответствии с местными законами и постановлениями.
 </string>
@@ -991,8 +991,8 @@
     <string name="import_to_xiaomi_account_confirm">Импорт</string>
     <string name="import_to_xiaomi_account_progress_finish">Импорт завершен</string>
     <string name="import_to_xiaomi_account_progress_message">Импорт…</string>
-    <string name="import_to_xiaomi_account_progress_title">Импорт контактов в Mi Аккаунт</string>
-    <string name="import_to_xiaomi_account_title">Импорт в Mi Аккаунт</string>
+    <string name="import_to_xiaomi_account_progress_title">Импорт контактов в Xiaomi аккаунт</string>
+    <string name="import_to_xiaomi_account_title">Импорт в Xiaomi аккаунт</string>
     <string name="import_vcard_description">Импорт контактов из памяти устройства</string>
     <string name="import_vcard_dialog_message">Импортировать vCard?</string>
     <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты…</string>
@@ -1112,7 +1112,7 @@
     <string name="miprofile_alertdialog_edit">Введите имя</string>
     <string name="miprofile_alertdialog_message">Показать это имя контактам, когда вы отправляете запрос на обмен визитками.</string>
     <string name="miprofile_alertdialog_title">Введите имя</string>
-    <string name="miprofile_bind_account_alertdialog_message">Для использования этой функции необходимо добавить номер телефона в Mi Аккаунт.</string>
+    <string name="miprofile_bind_account_alertdialog_message">Для использования этой функции необходимо добавить номер телефона в Xiaomi аккаунт.</string>
     <string name="miprofile_bind_account_alertdialog_positive">Добавить номер</string>
     <string name="miprofile_bind_account_alertdialog_title">Добавьте номер телефона</string>
     <string name="miprofile_contact_add">Добавить</string>
@@ -1122,7 +1122,7 @@
     <string name="miprofile_contact_verifying">Проверка</string>
     <string name="miprofile_edit_title">Изменить профиль</string>
     <string name="miprofile_error_accept_self">Нельзя обменяться визитками с собой</string>
-    <string name="miprofile_error_no_miaccount">Войдите в Mi Аккаунт</string>
+    <string name="miprofile_error_no_miaccount">Войдите в Xiaomi аккаунт</string>
     <string name="miprofile_error_not_opened">Отключить визитки</string>
     <string name="miprofile_error_not_set">Ваша визитка не синхронизирована с сервером</string>
     <string name="miprofile_error_unknown">Неизвестная ошибка</string>
@@ -1317,7 +1317,7 @@
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Для создания групп нужен аккаунт</string>
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из Mi Аккаунта</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из Xiaomi аккаунта</string>
     <string name="noContacts">Нет контактов</string>
     <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
     <string name="noFavoritesHelpText">"Список избранных пуст.
@@ -1480,9 +1480,9 @@
     <string name="pref_key_sim_manage">Контакты SIM карты</string>
     <string name="pref_key_sim_manage1">Контакты SIM карты 1</string>
     <string name="pref_key_sim_manage2">Контакты SIM карты 2</string>
-    <string name="pref_summary_import_from_account">Импорт контактов из Google и Exchange в Mi Аккаунт</string>
+    <string name="pref_summary_import_from_account">Импорт контактов из Google и Exchange в Xiaomi аккаунт</string>
     <string name="pref_title_account_import">Импорт контактов</string>
-    <string name="pref_title_import_from_account">Импорт в Mi Аккаунт</string>
+    <string name="pref_title_import_from_account">Импорт в Xiaomi аккаунт</string>
     <string name="preference_auto_ip_summary_disable">Откл</string>
     <string name="preference_auto_ip_summary_on">IP префикс оператора: %s</string>
     <string name="preference_auto_ip_title">Автонабор IP</string>

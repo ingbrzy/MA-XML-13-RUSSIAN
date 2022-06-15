@@ -159,7 +159,7 @@
     <string name="access_thirdparty_alipay_bind_error">Повтор</string>
     <string name="access_thirdparty_alipay_bind_success_desc">Чтобы прекратить передачу данных из приложения Mi Фитнес в Alipay, нажмите Отключить и подтвердите действие в приложении. Кроме того, измените настройки конфиденциальности в Alipay.</string>
     <string name="access_thirdparty_alipay_bind_success_title">Теперь вы можете просматривать количество шагов в \"Alipay\" > \"Sports\".</string>
-    <string name="access_thirdparty_alipay_confirm_bind_msg">Этот аккаунт Alipay связан с другим Mi аккаунтом в приложении Mi Фитнес. Связать аккаунт Alipay с текущим Mi аккаунтом?</string>
+    <string name="access_thirdparty_alipay_confirm_bind_msg">Этот аккаунт Alipay связан с другим Xiaomi аккаунтом в приложении Mi Фитнес. Связать аккаунт Alipay с текущим Xiaomi аккаунтом?</string>
     <string name="access_thirdparty_alipay_confirm_bind_title">Подключение к Alipay</string>
     <string name="access_thirdparty_alipay_sync_title">Подключение к Alipay</string>
     <string name="access_thirdparty_alipay_unbind">Отключить</string>
@@ -186,7 +186,7 @@
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
-    <string name="account_empty_user_name">Введите имя пользователя Mi аккаунта</string>
+    <string name="account_empty_user_name">Введите имя пользователя Xiaomi аккаунта</string>
     <string name="account_error_all_space_user_name">Имя пользователя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">Имя не может содержать \"&lt;\", \">\" или \"/\"</string>
     <string name="account_error_longer_user_name">Имя должно содержать не более 20 символов</string>
@@ -208,7 +208,7 @@
     <string name="account_user_details">Личная информация</string>
     <string name="account_user_email">Адрес электронной почты для восстановления</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_id">ID Mi аккаунта</string>
+    <string name="account_user_id">ID Xiaomi аккаунта</string>
     <string name="account_user_name">Псевдоним</string>
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_other_info">Подробнее</string>
@@ -260,7 +260,7 @@
     <string name="bank_card_verify_failed">Неверные данные карты</string>
     <string name="bank_error">Не удалось выпустить карту. Повторите попытку или обратитесь в банк.</string>
     <string name="bank_system_busying">Повторите попытку позже, банковская система занята</string>
-    <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
+    <string name="bind_sign_in_title">Добавьте Xiaomi аккаунт</string>
     <string name="ble_ota_fw_upgrade_success_message">Не используйте устройство до завершения процесса обновления.</string>
     <string name="ble_ota_fw_upgrade_success_title">Синхронизация завершена</string>
     <string name="ble_ota_push_error">Ошибка обновления</string>
@@ -352,7 +352,7 @@
     <string name="confirm_activate_email">Подтверждено</string>
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_new_pwd">Подтвердите пароль</string>
-    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Xiaomi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
     <string name="continue_text">Продолжить</string>
     <string name="copy">Копировать</string>
     <string name="country_or_region_AE">Объединенные Арабские Эмираты</string>
@@ -1306,7 +1306,7 @@ ID:%s
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_common">Системная ошибка. Попробуйте позже.</string>
-    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Mi аккаунтом.</string>
+    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Xiaomi аккаунтом.</string>
     <string name="error_ese_route_disabled">ESE маршрутизация отключена</string>
     <string name="error_get_account">Не удалось получить информацию об аккаунте</string>
     <string name="error_get_cplc">Не удалось получить информацию о SE</string>
@@ -1320,7 +1320,7 @@ ID:%s
     <string name="error_recharge_failed">Пополнение не удалось, попробуйте позже.</string>
     <string name="error_se_restricted">SE ограничен</string>
     <string name="evening">День</string>
-    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
+    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Xiaomi аккаунтом.</string>
     <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
     <string name="exo_controls_cc_enabled_description">Выключить субтитры</string>
     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
@@ -1435,7 +1435,7 @@ ID:%s
     <string name="face_style">Стиль</string>
     <string name="face_used_not_edit">Редактирование не поддерживается</string>
     <string name="face_wearos_install">Подождите…</string>
-    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
+    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Xiaomi аккаунтом</string>
     <string name="failed_times_exceed_limit">Слишком много неудачных попыток</string>
     <string name="feedback_app_log">Журналы приложения</string>
     <string name="feedback_app_problem">Приложение</string>
@@ -1752,7 +1752,7 @@ ID:%s
     <string name="friday_shortest">Пт</string>
     <string name="get_back_pwd">Выполняется сброс пароля</string>
     <string name="get_ph_ticket">Получить код</string>
-    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
+    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Xiaomi аккаунтов. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
     <string name="google_application_id" />
     <string name="goto_sign_up">Создать аккаунт</string>
@@ -2427,7 +2427,7 @@ ID:%s
     <string name="health_sync_dialog_title3">Синхронизировать данные</string>
     <string name="health_sync_needlogin_desc">Включите синхронизацию с облаком, чтобы создавать резервные копии данных об активности и синхронизировать их со всеми устройствами. Когда функция включена, вам будет доступно следующее.</string>
     <string name="health_sync_needlogin_title">Включить синхронизацию?</string>
-    <string name="health_sync_switch_desc">Похоже, что с вашим Mi аккаунтом (%1$s) связаны данные о состоянии здоровья. Чтобы восстановить данные, включите синхронизацию с облаком. Когда включена синхронизация, вы также можете:</string>
+    <string name="health_sync_switch_desc">Похоже, что с вашим Xiaomi аккаунтом (%1$s) связаны данные о состоянии здоровья. Чтобы восстановить данные, включите синхронизацию с облаком. Когда включена синхронизация, вы также можете:</string>
     <string name="health_sync_switch_title">Восстановить данные тренировок и активности?</string>
     <string name="health_tab_title_heart_rate_extremely_high">Высокий</string>
     <string name="health_tab_title_heart_rate_extremely_low">Низкий</string>
@@ -2601,7 +2601,7 @@ ID:%s
     <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения вашего аккаунта</string>
     <string name="input_length_exceeds_limit">Текст слишком длинный</string>
     <string name="input_new_pwd">Введите новый пароль</string>
-    <string name="isornot_your_mi_account">Это ваш Mi аккаунт?</string>
+    <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_second">Подождите…</string>
     <string name="keep_alive_notification_channel">Подключение устройства</string>
@@ -2644,7 +2644,7 @@ ID:%s
     <string name="logIn_success">Успешный вход</string>
     <string name="log_off_account_failure">Ошибка удаления аккаунта</string>
     <string name="log_off_account_success">Аккаунт удален</string>
-    <string name="login_account_desc">Войдите в Mi аккаунт, чтобы воспользоваться этой функцией. Выполнить вход?</string>
+    <string name="login_account_desc">Войдите в Xiaomi аккаунт, чтобы воспользоваться этой функцией. Выполнить вход?</string>
     <string name="login_by_local_phone_long_text">Войти в систему</string>
     <string name="login_by_local_phone_short_text">Войти</string>
     <string name="login_camera_title">Съемка фото и видео</string>
@@ -2673,7 +2673,7 @@ ID:%s
     <string name="login_next_step">Далее</string>
     <string name="login_open_sport_health_cloud_sync">Синхронизировать?</string>
     <string name="login_open_sport_health_cloud_sync_des">Синхронизировать данные тренировок и активности на всех устройствах.</string>
-    <string name="login_other">Другой Mi аккаунт</string>
+    <string name="login_other">Другой Xiaomi аккаунт</string>
     <string name="login_personalize_mode">Классический</string>
     <string name="login_privacy_add_experience_tips">&lt;Data>Участвуйте в &lt;a href=\"%1$s\">Программе улучшения качества&lt;/a> и делитесь статистическими данными, чтобы помочь нам улучшить продукты и услуги.&lt;/Data></string>
     <string name="login_privacy_add_experience_tips_korea">&lt;Data>Участвуйте в &lt;a href=\"%1$s\">Программе улучшения качества&lt;/a> и делитесь статистическими данными, чтобы помочь нам улучшить продукты и услуги (необязательно).&lt;/Data></string>
@@ -2795,7 +2795,7 @@ ID:%s
     <string name="mine_medal">Мои награды</string>
     <string name="mine_medal_entrance_got">"Награда за
 %1$s"</string>
-    <string name="mine_medal_user_id">Mi аккаунт:</string>
+    <string name="mine_medal_user_id">Xiaomi аккаунт:</string>
     <string name="mine_misport_data_importing">Перенос данных…</string>
     <string name="mine_misport_import_faile">Произошла ошибка. Повторите попытку.</string>
     <string name="mine_misport_last_import_time">Перенесено: %1$s</string>
@@ -3037,7 +3037,7 @@ ID:%s
     <string name="nfc_card_issue_hint_device_empty">Добавьте устройство</string>
     <string name="nfc_card_issue_hint_mutl_device_dialog_title">Выберите устройство</string>
     <string name="nfc_card_issue_hint_no_device">Нет устройств, связанных с этим аккаунтом</string>
-    <string name="nfc_card_issue_hint_no_login">Войдите в свой Mi аккаунт</string>
+    <string name="nfc_card_issue_hint_no_login">Войдите в свой Xiaomi аккаунт</string>
     <string name="nfc_card_issue_hint_param_error">Неверные параметры</string>
     <string name="nfc_card_issue_hint_success_default">Добавлено</string>
     <string name="nfc_card_issue_hint_success_milock">Завершите настройку ключ-карты в Mi Home</string>
@@ -3459,7 +3459,7 @@ ID:%s
     <string name="open_settings">Настройки</string>
     <string name="otp_info_reverify">Карта проверена</string>
     <string name="passport_access_denied">Доступ запрещен</string>
-    <string name="passport_account_label">Mi аккаунт</string>
+    <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код региона</string>
@@ -3689,7 +3689,7 @@ ID:%s
     <string name="show_info_text">Добавить тестовый ключ безопасности?</string>
     <string name="sign_in">Выполняется вход</string>
     <string name="sign_in_progress">Выполняется вход…</string>
-    <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
+    <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
     <string name="skip_query_account">Пропустить</string>
     <string name="sleep_detection_stop">Эта сессия будет завершена после пробуждения</string>
     <string name="sleep_detector_content">Mi Фитнес отслеживает данные сна в фоновом режиме</string>
@@ -4468,7 +4468,7 @@ ID:%s
     <string name="user_agreement_hint_with_unicom">&lt;Data>Я принимаю  &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>, &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%3$s\">Пользовательское соглашение сервиса верификации China Unicom&lt;/a>.&lt;/Data></string>
     <string name="user_avatar_update_title">Изменить фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
-    <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
+    <string name="user_id_hint">Эл. почта/Номер телефона/ID Xiaomi аккаунта</string>
     <string name="user_identity_verify_failed">Введенные данные аккаунта неверны</string>
     <string name="user_name_phone_number">Номер телефона</string>
     <string name="user_no_apply_privilege">У вас нет привилегий для применения карты</string>
@@ -4636,7 +4636,7 @@ ID:%s
     <string name="userinfo_user_birthday">Дата рождения</string>
     <string name="userinfo_user_name">--</string>
     <string name="userinfo_user_sex">Пол</string>
-    <string name="userinfo_xiaomi_account">Mi аккаунт:</string>
+    <string name="userinfo_xiaomi_account">Xiaomi аккаунт:</string>
     <string name="userinfo_year">Год</string>
     <string name="userinfo_yes">Да</string>
     <string name="v7_preference_off">ВЫКЛ.</string>

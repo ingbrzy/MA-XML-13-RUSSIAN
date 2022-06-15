@@ -42,9 +42,9 @@
     <string name="activate_feature_mms_sync">Синхронизация сообщений</string>
     <string name="activate_feature_mx">Mi сообщения</string>
     <string name="activate_feature_mx_and_voip">Mi сообщения и VoIP</string>
-    <string name="activate_feature_register_xiaomi_account">Настройка Mi аккаунта</string>
+    <string name="activate_feature_register_xiaomi_account">Настройка Xiaomi аккаунта</string>
     <string name="activate_feature_remote_assist">Удаленный помощник</string>
-    <string name="activate_feature_verify_mx_token">Подтверждение Mi аккаунта</string>
+    <string name="activate_feature_verify_mx_token">Подтверждение Xiaomi аккаунта</string>
     <string name="activate_feature_voip">Mi сообщения VoIP</string>
     <string name="activate_history_canceled_overview">Активация SIM-карты была отменена. Активация запущена \"%1$s\".</string>
     <string name="activate_history_multisim_canceled_overview">Активация SIM-карты %2$d была отменена. Активация запущена %1$s\".</string>
@@ -57,8 +57,8 @@
     <string name="activate_phone_failed_notif_title">Не удалось активировать SIM-карту</string>
     <string name="activate_phone_failed_notif_title_msim">Не удалось активировать SIM-карту %d</string>
     <string name="activate_phone_failed_notif_title_sim">Не удалось активировать %2$s с использованием SIM %1$d</string>
-    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Mi аккаунт успешно создан с использованием SIM %d</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Не удалось создать Mi аккаунт с использованием SIM %d</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Xiaomi аккаунт успешно создан с использованием SIM %d</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Не удалось создать Xiaomi аккаунт с использованием SIM %d</string>
     <string name="activate_phone_server_failed_notif_title">Не удалось активировать %s</string>
     <string name="activate_phone_server_success_notif_title">%s успешно активирован</string>
     <string name="activate_phone_success_notif_title">SIM-карта успешно активирована</string>
@@ -98,7 +98,7 @@
     <string name="activate_popup_desc_intl_sim_card">Для активации %s будет отправлено международное SMS. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_intl_sim_card_msg">Для активации сервиса \"%2$s\" будет отправлено %1$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Для активации сервиса \"%2$s\" будет отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>. Оплата согласно тарифу вашего оператора.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>В случае каких-либо вопросов, обратитесь к &lt;a href="https://account.xiaomi.com/helpcenter/faq">Руководству пользователя Mi аккаунта&lt;/a>.</Data></string>
+    <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>В случае каких-либо вопросов, обратитесь к &lt;a href="https://account.xiaomi.com/helpcenter/faq">Руководству пользователя Xiaomi аккаунта&lt;/a>.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">Для активации %s будет отправлено 2 SMS (обычное и международное). Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg">Для активации сервиса \"%3$s\" будет отправлено %1$d обычн. и %2$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Для активации сервиса \"%3$s\" будет отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font> и &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>. Оплата согласно тарифу вашего оператора.</string>
@@ -108,9 +108,9 @@
     <string name="activate_popup_desc_new_mixed_sim_cards">Вы заменили SIM карту. Для активации %s будет отправлено 2 SMS (обычное и международное). Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_new_sim_card">Вы заменили SIM карту. Для активации %s будет отправлено обычное SMS. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Вы заменили SIM карту. Введите номер телефона для активации %s.</string>
-    <string name="activate_popup_desc_register_account">Для создания вашего Mi аккаунта может потребоваться отправка SMS. Оплата согласно тарифу вашего оператора.</string>
+    <string name="activate_popup_desc_register_account">Для создания вашего Xiaomi аккаунта может потребоваться отправка SMS. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_register_account_downlink">Введите номер телефона</string>
-    <string name="activate_popup_desc_register_account_intl">Для создания вашего Mi аккаунта может потребоваться отправка международного SMS. Оплата взимается согласно тарифу вашего оператора.</string>
+    <string name="activate_popup_desc_register_account_intl">Для создания вашего Xiaomi аккаунта может потребоваться отправка международного SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_sim_card">Для активации %s будет отправлено обычное SMS. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_sim_card_downlink">Введите номер телефона для активации %s.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Для активации %2$s введите номер телефона SIM-карты %1$d.</string>
@@ -133,18 +133,18 @@
     <string name="activate_popup_title_failed_server">Ошибка сервера</string>
     <string name="activate_popup_title_manual">Активация %s</string>
     <string name="activate_popup_title_new_sim_card">Реактивация %s</string>
-    <string name="activate_popup_title_register_account">Создание Mi аккаунта</string>
+    <string name="activate_popup_title_register_account">Создание Xiaomi аккаунта</string>
     <string name="activate_progress_status_title">Активация %s…</string>
-    <string name="activate_registered_xiaomi_account_failed_notif_title">Не удалось создать Mi аккаунт</string>
-    <string name="activate_registered_xiaomi_account_success_notif_title">Mi аккаунт успешно создан</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">Не удалось создать Xiaomi аккаунт</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">Xiaomi аккаунт успешно создан</string>
     <string name="activate_sms_postfix">Mi</string>
     <string name="activate_status_desc_acquire_phone_number">Проверка номера телефона…</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Ошибка сервера при проверке номера телефона</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Не удалось проверить номер телефона</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Не удалось проверить номер телефона. Убедитесь, что SIM %d работает правильно и повторите попытку.</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Не удалось проверить номер телефона. Убедитесь, что SIM-карта работает правильно и повторите попытку.</string>
-    <string name="activate_status_desc_checking_xiaomi_account">Проверка Mi аккаунта…</string>
-    <string name="activate_status_desc_checking_xiaomi_account_server_error">Ошибка сервера при проверке Mi аккаунта</string>
+    <string name="activate_status_desc_checking_xiaomi_account">Проверка Xiaomi аккаунта…</string>
+    <string name="activate_status_desc_checking_xiaomi_account_server_error">Ошибка сервера при проверке Xiaomi аккаунта</string>
     <string name="activate_status_desc_completed_with_sms_sent">Для активации SIM-карты отправлено SMS</string>
     <string name="activate_status_desc_completed_with_sms_sent_for_activate_server">%d обычн. SMS было отправлено для активации этой услуги.</string>
     <string name="activate_status_desc_device_id_error">Неверный IMEI</string>
@@ -158,8 +158,8 @@
     <string name="activate_status_desc_query_activation_server_info">Получение информации…</string>
     <string name="activate_status_desc_registering_sim_account">Регистрация SIM-карты…</string>
     <string name="activate_status_desc_registering_sim_account_server_error">Ошибка сервера при регистрации SIM-карты</string>
-    <string name="activate_status_desc_registering_xiaomi_account">Создание Mi аккаунта…</string>
-    <string name="activate_status_desc_registering_xiaomi_account_server_error">Ошибка сервера при создании Mi аккаунта</string>
+    <string name="activate_status_desc_registering_xiaomi_account">Создание Xiaomi аккаунта…</string>
+    <string name="activate_status_desc_registering_xiaomi_account_server_error">Ошибка сервера при создании Xiaomi аккаунта</string>
     <string name="activate_status_desc_request_activation_sms">Запрос SMS для активации…</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Ошибка сервера при запросе SMS для активации.</string>
     <string name="activate_status_desc_request_activation_sms_server_error_tip">Не удалось получить SMS для активации. Убедитесь, что SIM %d работает правильно и повторите попытку.</string>
@@ -198,7 +198,7 @@
     <string name="error_sim_not_in_service_tip_one_sim">Не удалось подключиться к сети. Убедитесь, что SIM-карта работает правильно и повторите попытку.</string>
     <string name="evening">После полудня</string>
     <string name="explain_activate_feature_server_title">Активировать %s</string>
-    <string name="explain_activate_register_xiaomi_account_title">Создание Mi аккаунта</string>
+    <string name="explain_activate_register_xiaomi_account_title">Создание Xiaomi аккаунта</string>
     <string name="explain_activate_send_sms_permission_msg">Для активации %s разрешите отправку SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
     <string name="explain_send_sms_permission_button">Подтвердить</string>
     <string name="explain_send_sms_permission_msg">Для активации %s Xiaomi Service Framework отправит SMS, чтобы подтвердить ваш номер телефона. Оплата взимается согласно тарифу вашего оператора.</string>
@@ -311,7 +311,7 @@
     <string name="sim_activated_failed_msg">Не удалось активировать сервис. Нажмите, чтобы повторить попытку.</string>
     <string name="sim_unactivated_feature_title">%s не активирован</string>
     <string name="sim_unactivated_msg">Эта служба не активирована. Нажмите, чтобы повторить попытку.</string>
-    <string name="sim_unactivated_register_xiaomi_account_feature_title">Не удалось создать Mi аккаунт</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">Не удалось создать Xiaomi аккаунт</string>
     <string name="sim_unactivated_title">SIM-карта не активирована</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>

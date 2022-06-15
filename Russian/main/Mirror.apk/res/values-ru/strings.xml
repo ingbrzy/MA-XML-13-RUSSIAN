@@ -243,11 +243,11 @@
     <string name="pad_settings_handoff_wps_summary">Продолжайте работу с документами на другом устройстве</string>
     <string name="pad_settings_handoff_wps_title">Документы</string>
     <string name="pad_settings_how_use">Использование Handoff</string>
-    <string name="pad_settings_pad_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим Mi аккаунтом</string>
+    <string name="pad_settings_pad_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим Xiaomi аккаунтом</string>
     <string name="pad_settings_pc_history_title">История подключений</string>
     <string name="pad_settings_pc_trusted_title">Автоподключение</string>
     <string name="pad_settings_pc_use_tile">О функции</string>
-    <string name="pad_settings_phone_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим Mi аккаунтом</string>
+    <string name="pad_settings_phone_handoff_summary">Используйте функцию Handoff для работы с приложениями, документами и буфером обмена, для просмотра видео на других устройствах, связанным с вашим Xiaomi аккаунтом</string>
     <string name="pad_settings_phone_handoff_title">Функция Handoff</string>
     <string name="pad_settings_scanner_summary">Подключение с помощью QR-кода</string>
     <string name="pad_settings_trusted_delete_dialog_msg">Автоподключение к этому устройству будет недоступно после удаления из списка</string>

@@ -372,7 +372,7 @@
     <string name="email">Email</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">До н.э.</string>
-    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
+    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Xiaomi аккаунтом.</string>
     <string name="error_not_acceptable">Синхронизация отключена</string>
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Синхронизация отключена из-за большого количества попыток входа в систему.</string>

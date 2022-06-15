@@ -110,7 +110,7 @@
     <string name="disagreement_function">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать эту функцию. В этом случае вы можете отказаться от использования этой функции.</string>
     <string name="disagreement_location_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать эту службу.</string>
     <string name="disagreement_location_service_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать геолокацию. Включить или отключить геолокацию можно в любое время в разделе Настройки > Защита конфиденциальности.</string>
-    <string name="disagreement_mi_account_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать службы Mi Аккаунта. Включить или выключить эти службы можно в любое время в разделе Настройки > Mi Аккаунт.</string>
+    <string name="disagreement_mi_account_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать службы Xiaomi аккаунта. Включить или выключить эти службы можно в любое время в разделе Настройки > Xiaomi аккаунт.</string>
     <string name="disagreement_service_not_working_properly">В случае отказа предоставить эти разрешения, вы не сможете использовать это приложение.</string>
     <string name="disagreement_terminate_bluetooth">В случае отказа предоставить необходимые разрешения, вы не сможете использовать Bluetooth. Вы можете включать и отключать Bluetooth, а также добавлять устройства Bluetooth в Настройках.</string>
     <string name="disagreement_terminate_miuidaemon">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В таком случае вы можете отказаться от использования этого сервиса или ограничить разрешения в настройках. Обратите внимание, что мы будем использовать разрешения при передаче данных с устройства, если его экран поврежден.</string>
@@ -148,7 +148,7 @@
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="font_hint_large">Увеличить размер</string>
     <string name="font_hint_normal">Размер по умолчанию</string>
-    <string name="framework_introduction">Mi Services Framework позволяет использовать Mi Аккаунт, Mi Push, Mi Stats и MIUI BI.</string>
+    <string name="framework_introduction">Mi Services Framework позволяет использовать Xiaomi аккаунт, Mi Push, Mi Stats и MIUI BI.</string>
     <string name="framwork_base_service">Для работы этих сервисов Mi Services Framework (Mi А, Mi Push, Mi Stats, MIUI BI) необходимо подключение к интернету, доступ к номеру телефона, IMEI и IMSI, разрешение устройству получать push-уведомления.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -184,9 +184,9 @@
     <string name="location_location">Аварийно-спасательные службы могут получить ваше текущее местоположение по запросу</string>
     <string name="lockscreen_introduction">Карусель обоев позволяет регулярно получать новые обои на экран блокировки.</string>
     <string name="member_exclusive_medal">Значок участника</string>
-    <string name="membership_rights_tip">Войдите в Mi Аккаунт, чтобы получить эксклюзивные преимущества</string>
+    <string name="membership_rights_tip">Войдите в Xiaomi аккаунт, чтобы получить эксклюзивные преимущества</string>
     <string name="message_introduction">Это приложение можно использовать для отправки и получения SMS.</string>
-    <string name="mi_account_introduction">Mi Аккаунт позволяет регистрироваться, выполнять вход и управлять учетными записями.</string>
+    <string name="mi_account_introduction">Xiaomi аккаунт позволяет регистрироваться, выполнять вход и управлять учетными записями.</string>
     <string name="midnight">Ночь</string>
     <string name="mint_keyboard_oobe_checkbox">Я принимаю политику конфиденциальности Mint Keyboard</string>
     <string name="mint_keyboard_oobe_terms">Политика конфиденциальности Mint Keyboard</string>
@@ -316,7 +316,7 @@
     <string name="permission_access_calendar">Доступ к календарю</string>
     <string name="permission_access_calendar_fast_application_summary">Для доступа к календарю для Быстрых приложений;</string>
     <string name="permission_account">Доступ к аккаунтам на устройстве</string>
-    <string name="permission_account_introduction">Для входа в Mi Аккаунт</string>
+    <string name="permission_account_introduction">Для входа в Xiaomi аккаунт</string>
     <string name="permission_application_package_introduction">Для доступа к хранилищу для анализа и сканирования установочных пакетов</string>
     <string name="permission_backup">Доступ к хранилищу</string>
     <string name="permission_backup_introduction">Для управления резервными копиями на устройстве</string>
@@ -462,7 +462,7 @@
     <string name="service_fast_pairing_policy"><Data>Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности Mi Link&lt;/a >.</Data></string>
     <string name="service_interconnection_communication">Службы интернет-коммуникации Xiaomi</string>
     <string name="service_location_share_policy"><Data>Прежде чем продолжить, прочтите и примите &lt;a href=\"%1$s\">Заявление о конфиденциальности геолокации&lt;/a >.</Data></string>
-    <string name="service_mi_account">Mi Аккаунт</string>
+    <string name="service_mi_account">Xiaomi аккаунт</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_address_dialing">Контакты и телефон</string>
     <string name="service_name_album">Галерея</string>
@@ -499,7 +499,7 @@
     <string name="servicestate_title">Заявление об основных сервисах</string>
     <string name="setting_locale">Настройка региона…</string>
     <string name="shut_down">Выключение</string>
-    <string name="sim_activation_introduction">Служба активации SIM-карты проверяет информацию о SIM-карте, чтобы убедиться, что службы MIUI могут работать нормально. Эти службы включают в себя Поиск устройства, Mi Сообщения, создание Mi Аккаунта с использованием телефонных номеров, а также синхронизацию сообщений и журнала вызовов.</string>
+    <string name="sim_activation_introduction">Служба активации SIM-карты проверяет информацию о SIM-карте, чтобы убедиться, что службы MIUI могут работать нормально. Эти службы включают в себя Поиск устройства, Mi Сообщения, создание Xiaomi аккаунта с использованием телефонных номеров, а также синхронизацию сообщений и журнала вызовов.</string>
     <string name="sim_card_detecting">Обнаружение SIM-карты…</string>
     <string name="sim_card_detecting_check">SIM-карта не найдена. Убедитесь, что SIM-карта установлена ​​правильно, и на балансе достаточно средств.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Разрешить подключение к мобильным сетям передачи данных? Установленная SIM-карта будет использоваться для подключения к мобильным сетям передачи данных.</string>
@@ -562,7 +562,7 @@
     <string name="terms_of_use_ble_htmlViewer">, поставщик геолокации, средство просмотра HTML</string>
     <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Прочитайте наши Условия использования и Политику конфиденциальности, чтобы понять, какую информацию мы собираем, как мы её используем и какие варианты доступны для Вас.
 
-Вы должны принять Условия использования и Политику конфиденциальности, прежде чем использовать MIUI. %s и компоненты Mi аккаунта подключатся к интернету и получат информацию о вашем местоположении."</string>
+Вы должны принять Условия использования и Политику конфиденциальности, прежде чем использовать MIUI. %s и компоненты Xiaomi аккаунта подключатся к интернету и получат информацию о вашем местоположении."</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">Системный плагин Mi Store</string>
     <string name="terms_of_use_label_RMS">Менеджер разрешений</string>
@@ -582,7 +582,7 @@
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">функция оптимизации просмотра в альбомной ориентации</string>
     <string name="terms_of_use_label_mab">MAB</string>
-    <string name="terms_of_use_label_mi_account">Компоненты Mi Аккаунта</string>
+    <string name="terms_of_use_label_mi_account">Компоненты Xiaomi аккаунта</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">AI Настройка OS</string>

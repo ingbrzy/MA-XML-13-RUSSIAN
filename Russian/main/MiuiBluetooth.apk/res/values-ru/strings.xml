@@ -418,7 +418,7 @@
     <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
     <string name="fast_connect_nzbt_reset">Удерживайте верхнюю кнопку нажатой в течение %1$s секунд при выключении питания</string>
     <string name="fast_connect_reset_common">Сброс устройства для возможности сопряжения</string>
-    <string name="fast_connect_same_account_content">Устройства Bluetooth могут быть синхронизированы с Mi аккаунтом и подключены без сопряжения на других устройствах.</string>
+    <string name="fast_connect_same_account_content">Устройства Bluetooth могут быть синхронизированы с Xiaomi аккаунтом и подключены без сопряжения на других устройствах.</string>
     <string name="fast_connect_same_accout_devices_connecting">Подключение через Xiaomi Cloud…</string>
     <string name="fast_connect_same_accout_devices_title">%1$s подключено к другим устройствам</string>
     <string name="fast_connect_same_accout_ok">ОК</string>

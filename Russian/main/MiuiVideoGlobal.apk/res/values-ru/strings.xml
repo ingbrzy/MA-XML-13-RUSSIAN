@@ -35,7 +35,7 @@
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
-    <string name="account_empty_user_name">Введите имя пользователя Mi аккаунта</string>
+    <string name="account_empty_user_name">Введите имя пользователя Xiaomi аккаунта</string>
     <string name="account_error_all_space_user_name">Имя пользователя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">Имя не может содержать \"&lt;\", \">\" или \"/\"</string>
     <string name="account_error_longer_user_name">Имя должно содержать не более 20 символов</string>
@@ -57,7 +57,7 @@
     <string name="account_user_details">Личная информация</string>
     <string name="account_user_email">Адрес электронной почты для восстановления</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_id">ID Mi аккаунта</string>
+    <string name="account_user_id">ID Xiaomi аккаунта</string>
     <string name="account_user_name">Псевдоним</string>
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_other_info">Подробнее</string>
@@ -113,7 +113,7 @@
     <string name="background_playback_enabled">Включено фоновое воспроизведение</string>
     <string name="before_yestoday">2 дня назад</string>
     <string name="before_yestoday_new">%d д. назад</string>
-    <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
+    <string name="bind_sign_in_title">Добавьте Xiaomi аккаунт</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="box_title_gallery">Инструменты для видео</string>
     <string name="box_title_mivideo">Дополнительные функции</string>
@@ -279,7 +279,7 @@
     <string name="confirm_activate_email">Подтверждено</string>
     <string name="confirm_bundled_phone_dialog_title">Подтвердите номер телефона</string>
     <string name="confirm_new_pwd">Подтвердите пароль</string>
-    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s на %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Xiaomi аккаунтом %2$s на %1$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
     <string name="content">Описание</string>
     <string name="content_can_not_null">Нельзя отправить отзыв без описания.</string>
     <string name="continue_play">Возобновить</string>
@@ -392,7 +392,7 @@ ID: %s
     <string name="error_drm_not_supported">Защищенный контент не поддерживается на уровнях API ниже 18</string>
     <string name="error_drm_unknown">Неизвестная ошибка DRM</string>
     <string name="error_drm_unsupported_scheme">Данное устройство не поддерживает требуемую схему DRM</string>
-    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Mi аккаунтом.</string>
+    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Xiaomi аккаунтом.</string>
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="error_mg_content_not_available">Этот контент недоступен в вашей стране.</string>
@@ -407,7 +407,7 @@ ID: %s
     <string name="error_no_content">Контент не доступен.</string>
     <string name="error_title">Сведения</string>
     <string name="evening">После полудня</string>
-    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
+    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Xiaomi аккаунтом.</string>
     <string name="exit">Выход</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
@@ -449,7 +449,7 @@ ID: %s
     <string name="explore_on_mi_video">Еще больше в Mi Видео</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="facebook_application_id"/>
-    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
+    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Xiaomi аккаунтом</string>
     <string name="failed_to_fetch_data">Не удалось загрузить данные.</string>
     <string name="failure">Не удалось загрузить</string>
     <string name="favor_movie">Фильмы</string>
@@ -666,7 +666,7 @@ ID: %s
     <string name="galleryplus_vp_videoview_error_title">Не удалось воспроизвести видео</string>
     <string name="get_back_pwd">Выполняется сброс пароля</string>
     <string name="get_ph_ticket">Получить код</string>
-    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
+    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Xiaomi аккаунтов. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
     <string name="google_application_id"/>
     <string name="got_it">Понятно</string>
@@ -694,7 +694,7 @@ ID: %s
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="input_size_tips">Можно ввести до 1000 символов</string>
     <string name="input_size_tips_new">Можно ввести до %d символов</string>
-    <string name="isornot_your_mi_account">Это ваш Mi аккаунт?</string>
+    <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
     <string name="issue">Проблема</string>
     <string name="item_card_all_replies">Все ответы</string>
     <string name="item_card_continue_play">Автовоспроизведение</string>
@@ -1230,7 +1230,7 @@ ID: %s
     <string name="ovp_video_plugin_installation_two">Подождите…</string>
     <string name="page_title_language">Языковые предпочтения</string>
     <string name="passport_access_denied">Доступ запрещен</string>
-    <string name="passport_account_label">Mi аккаунт</string>
+    <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код региона</string>
@@ -1616,9 +1616,9 @@ ID: %s
     <string name="sign_in">Выполняется вход</string>
     <string name="sign_in_google_account">Вход с аккаунтом Google</string>
     <string name="sign_in_google_account_hint">Войдите в свой аккаунт Google, чтобы увидеть больше видео</string>
-    <string name="sign_in_mi_account">Вход c Mi аккаунтом</string>
+    <string name="sign_in_mi_account">Вход c Xiaomi аккаунтом</string>
     <string name="sign_in_progress">Выполняется вход…</string>
-    <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
+    <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
     <string name="slid_fail_message">Не удалось сохранить видео</string>
     <string name="slide_save_message">Создание видео…</string>
     <string name="small_video_cancel_button">Отмена</string>
@@ -1868,7 +1868,7 @@ ID: %s
     <string name="upload_error_log">Отправить журнал</string>
     <string name="user_avatar_update_title">Изменить фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
-    <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
+    <string name="user_id_hint">Эл. почта/Номер телефона/ID Xiaomi аккаунта</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="v_agree">Принимаю</string>

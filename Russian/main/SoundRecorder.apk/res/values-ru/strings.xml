@@ -193,9 +193,9 @@
     <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="menu">Меню</string>
     <string name="message_file_size_error">Запись достигла максимального размера (%s)</string>
-    <string name="mi_account_msg">Войдите в Mi аккаунт для транскрибирования записей в облаке и бесплатных 60 минут.</string>
+    <string name="mi_account_msg">Войдите в Xiaomi аккаунт для транскрибирования записей в облаке и бесплатных 60 минут.</string>
     <string name="mi_account_ok">Войти</string>
-    <string name="mi_account_title">Войти с Mi Аккаунтом</string>
+    <string name="mi_account_title">Войти с Xiaomi аккаунтом</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>

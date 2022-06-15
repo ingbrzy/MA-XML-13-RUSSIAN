@@ -306,13 +306,13 @@
     <string name="main_setting_history">История</string>
     <string name="menu_help">Помощь</string>
     <string name="menu_settings">Настройки поиска</string>
-    <string name="mi_account">Mi Аккаунт</string>
+    <string name="mi_account">Xiaomi аккаунт</string>
     <string name="mi_account_unlogin_subtitle">Нажмите для входа</string>
     <string name="mi_account_unlogin_title">Вход не выполнен</string>
     <string name="midnight">Ночь</string>
     <string name="mina_name">Приложения</string>
     <string name="miui_autologin_bar_error">Ошибка авторизации</string>
-    <string name="miui_autologin_bar_title">Войдите в Mi аккаунт</string>
+    <string name="miui_autologin_bar_title">Войдите в Xiaomi аккаунт</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
     <string name="miuishare_title_more">Еще</string>
     <string name="miuishare_title_share">Поделиться</string>

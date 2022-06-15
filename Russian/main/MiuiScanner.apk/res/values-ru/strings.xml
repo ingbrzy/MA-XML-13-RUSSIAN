@@ -242,9 +242,9 @@
     <string name="examples_form_guide">Сканирование таблиц</string>
     <string name="examples_text_guide">Сканирование текста</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="experience_new_feature_tips">Войдите в Mi аккаунт, чтобы подать заявку на использование бета-версии. Вы сможете использовать бета-версию после рассмотрения заявки. Бета-версия может содержать ошибки.</string>
+    <string name="experience_new_feature_tips">Войдите в Xiaomi аккаунт, чтобы подать заявку на использование бета-версии. Вы сможете использовать бета-версию после рассмотрения заявки. Бета-версия может содержать ошибки.</string>
     <string name="experience_new_features">Бета-версия</string>
-    <string name="experiential_version_of_the_prompt_content">Для доступа к бета-версии сканера необходимо войти в Mi аккаунт. Войти?</string>
+    <string name="experiential_version_of_the_prompt_content">Для доступа к бета-версии сканера необходимо войти в Xiaomi аккаунт. Войти?</string>
     <string name="express_no_empty">Введите номер заказа</string>
     <string name="failed_to_get_xiaomi_account">Не удалось войти</string>
     <string name="fax">Факс</string>

@@ -48,7 +48,7 @@
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_blocked_by_user_tips">Вы заблокированы другой стороной и не можете выполнять следующие действия</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
-    <string name="account_empty_user_name">Введите имя пользователя Mi Аккаунта</string>
+    <string name="account_empty_user_name">Введите имя пользователя Xiaomi аккаунта</string>
     <string name="account_error_all_space_user_name">Имя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">В имени не может быть символов &lt;, &gt;, /</string>
     <string name="account_error_longer_user_name">Имя не может содержать более 20 символов</string>
@@ -71,7 +71,7 @@
     <string name="account_user_details">Личная информация</string>
     <string name="account_user_email">Электронная почта</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_id">ID Mi Аккаунта</string>
+    <string name="account_user_id">ID Xiaomi аккаунта</string>
     <string name="account_user_name">Имя пользователя</string>
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_other_info">Другие сведения</string>
@@ -140,7 +140,7 @@
     <string name="app_permission_require">Обязательные разрешения</string>
     <string name="app_permission_use_desc">Разрешения</string>
     <string name="app_permission_use_group_account">Аккаунты</string>
-    <string name="app_permission_use_group_account_desc">Для получения информации о Mi аккаунте</string>
+    <string name="app_permission_use_group_account_desc">Для получения информации о Xiaomi аккаунте</string>
     <string name="app_permission_use_group_phone">Телефон</string>
     <string name="app_permission_use_group_phone_desc">Для Google Push сервисов</string>
     <string name="app_permission_use_group_storage">Хранилище</string>
@@ -507,7 +507,7 @@ ID: %s
     <string name="failed_to_connect_hint">Проверьте настройки сети и повторите попытку</string>
     <string name="failed_to_connect_text">Не удалось подключиться к сети</string>
     <string name="fans">Подписчики</string>
-    <string name="fav_login_msg">Войдите в Mi Аккаунт для загрузки треков</string>
+    <string name="fav_login_msg">Войдите в Xiaomi аккаунт для загрузки треков</string>
     <string name="favorite_canceled">Удалено из избранных</string>
     <string name="favorite_playlist">Избранные</string>
     <string name="favorite_singer">Избранные исполнители</string>
@@ -658,7 +658,7 @@ ID: %s
     <string name="is_scanning_support_online">"Проверка накопителя…
 (Пока можно слушать музыку онлайн)"</string>
     <string name="item_view_role_description">Вкладка</string>
-    <string name="joox_account_bind_mi_account">Добавить Mi Аккаунт</string>
+    <string name="joox_account_bind_mi_account">Добавить Xiaomi аккаунт</string>
     <string name="joox_account_cancel_login">Отмена</string>
     <string name="joox_account_continue_login">Войти</string>
     <string name="joox_account_fans_center">Клуб фанатов</string>
@@ -738,8 +738,8 @@ ID: %s
     <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
     <string name="login_by_local_phone_short_text">Вход</string>
     <string name="login_instantly">Вход</string>
-    <string name="login_mi_account_and_gain_more_rights">Войдите в Mi аккаунт чтобы получить доступ к дополнительным функциям.</string>
-    <string name="login_other">Другой Mi Аккаунт</string>
+    <string name="login_mi_account_and_gain_more_rights">Войдите в Xiaomi аккаунт чтобы получить доступ к дополнительным функциям.</string>
+    <string name="login_other">Другой Xiaomi аккаунт</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_with_sns">Другие варианты входа</string>
     <string name="long_press_to_select_lyric">"Нажмите и удерживайте для 
@@ -929,7 +929,7 @@ ID: %s
     <string name="music_settings">Музыка</string>
     <string name="mv_metered_play_summary">Не показывать предупреждение о трафике</string>
     <string name="mv_metered_play_title">Воспроизводить видео через мобильный интернет</string>
-    <string name="my_account">Mi Аккаунт</string>
+    <string name="my_account">Xiaomi аккаунт</string>
     <string name="my_music_empty">Плейлист пуст</string>
     <string name="my_music_empty_goto_online">Ничего нет</string>
     <string name="my_playlist_add_song">Добавить</string>
@@ -1040,7 +1040,7 @@ ID: %s
     <string name="other_song_in_album">Другие треки из этого альбома</string>
     <string name="party">Вечеринка</string>
     <string name="passport_access_denied">Доступ запрещен</string>
-    <string name="passport_account_label">Mi Аккаунт</string>
+    <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код страны</string>
@@ -1494,7 +1494,7 @@ ID: %s
     <string name="toast_cant_collect_mine_playlist">Добавление своих плейлистов в избранное недоступно</string>
     <string name="toast_cant_commit_without_title">Введите название песни</string>
     <string name="toast_download_error_by_count_limit">Вы израсходовали квоту на загрузки в этом месяце</string>
-    <string name="toast_download_error_by_not_login">Войдите в Mi Аккаунт и повторите попытку</string>
+    <string name="toast_download_error_by_not_login">Войдите в Xiaomi аккаунт и повторите попытку</string>
     <string name="toast_download_error_by_vip_required">Приобретите пакет Премиум для загрузки этого трека</string>
     <string name="toast_download_in_process">Загрузка…</string>
     <string name="toast_favorite_has_been_added">Добавлено в плейлист</string>
@@ -1544,21 +1544,21 @@ ID: %s
     <string name="upload_favorite_setting_title">Синхронизация</string>
     <string name="upload_playlist_to_hungama_negative_text">Отмена</string>
     <string name="upload_playlist_to_hungama_positive_text">Синхронизировать</string>
-    <string name="upload_playlist_to_hungama_title">Синхронизируйте онлайн-контент с Hungama, чтобы иметь доступ к ним на других устройствах с Mi аккаунтом.</string>
+    <string name="upload_playlist_to_hungama_title">Синхронизируйте онлайн-контент с Hungama, чтобы иметь доступ к ним на других устройствах с Xiaomi аккаунтом.</string>
     <string name="upload_playlist_to_hungama_toast">Онлайн контент будет синхронизирован с Hungama</string>
     <string name="user_agreement">Условия использования</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_agreement_hint_default_1"><Data>Прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a></Data></string>
     <string name="user_agreement_hint_default_extra"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a> При первом входе в систему будет автоматически создан аккаунт Xiaomi."</Data></string>
     <string name="user_agreement_hint_first_login">"Если вы впервые используете свой номер телефона, аккаунт будет создан автоматически."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_experience_program_open">В связи с ограничениями авторских прав, необходимо зарегистрироваться в Программе улучшения качества, чтобы иметь возможность воспроизводить загруженные песни. Это можно сделать в разделе Настройки > Пароли и защита > Конфиденциальность > Программа улучшения качества.</string>
     <string name="user_name_phone_number">Номер телефона</string>

@@ -207,7 +207,7 @@
     <string name="countdown_notify_title">Событие: %1$s</string>
     <string name="countdown_secondary_tag">Событие</string>
     <string name="countdown_today">Сегодня</string>
-    <string name="create_an_account_desc">"Календарь лучше работает с Mi Аккаунтом.
+    <string name="create_an_account_desc">"Календарь лучше работает с Xiaomi аккаунтом.
 
 • Доступ к календарю из любого веб-браузера.
 • Надежное резервное копирование мероприятий."</string>
@@ -652,13 +652,13 @@
     <string name="midnight">Ночь</string>
     <string name="missing_name">(Без имени)</string>
     <string name="missing_required_permission">Вы не имеете необходимых разрешений.</string>
-    <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
+    <string name="miuishare_account_activate_confirmation">Активируйте Xiaomi аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
     <string name="miuishare_account_login_cancel">Отмена</string>
-    <string name="miuishare_account_login_confirmation">Войдите в Mi Аккаунт</string>
+    <string name="miuishare_account_login_confirmation">Войдите в Xiaomi аккаунт</string>
     <string name="miuishare_account_login_ok">Войти</string>
-    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Активируйте ваш Mi Аккаунт.</string>
-    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Выполните вход в ваш Mi Аккаунт.</string>
+    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Xiaomi аккаунтом. Активируйте ваш Xiaomi аккаунт.</string>
+    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Xiaomi аккаунтом. Выполните вход в ваш Xiaomi аккаунт.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети</string>
     <string name="miuishare_publish">Отправить</string>
@@ -1467,7 +1467,7 @@
     <string name="work_day_indication_chinese_calendar">Будни</string>
     <string name="xiaomi_calendar_delete_description">Приложение \"Календарь\" является системным, позволяет создавать мероприятия и управлять ими. После удаления ярлыка приложения с рабочего стола, некоторые функции по-прежнему будут доступны.</string>
     <string name="xiaomi_calendar_delete_title">Удалить \"Календарь\" с рабочего стола?</string>
-    <string name="xiaomi_calendar_display_name">Календарь Mi Аккаунта</string>
+    <string name="xiaomi_calendar_display_name">Календарь Xiaomi аккаунта</string>
     <string name="year">Год</string>
     <string name="year_indicator_month">Начало лунного календаря</string>
     <string name="yearly">Ежегодно (%s)</string>

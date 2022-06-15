@@ -436,7 +436,7 @@
     <string name="security_permission_open_wifi_settings">Настройки Wi-Fi</string>
     <string name="security_permission_validate_warning">Спасибо за то, что помогаете сделать MIUI лучше!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi и мобильный интернет включены</string>
-    <string name="security_permission_xiaomi_account_missed_text">Введите ID вашего Mi аккаунта</string>
+    <string name="security_permission_xiaomi_account_missed_text">Введите ID вашего Xiaomi аккаунта</string>
     <string name="security_share_text">Защита конфиденциальности</string>
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
@@ -478,7 +478,7 @@
     <string name="standard_description">Отключение звука для входящих вызовов и уведомлений</string>
     <string name="standard_title">Без звука</string>
     <string name="start_dump_log">Начать сбор журналов проблем</string>
-    <string name="start_security_permission_verify_text">Проверьте разрешения с помощью вашего Mi аккаунта</string>
+    <string name="start_security_permission_verify_text">Проверьте разрешения с помощью вашего Xiaomi аккаунта</string>
     <string name="status_bar_toggle_auto_brightness">Яркость</string>
     <string name="status_bar_toggle_battery_saver">Экономия заряда</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>

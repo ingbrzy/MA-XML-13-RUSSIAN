@@ -634,7 +634,7 @@
 - Доступ к хранилищу"</string>
     <string name="request_all_permission_title">Требуются разрешения</string>
     <string name="restore_data_to_device_content">"Ваши данные были синхронизированы с Xiaomi Cloud.
-Войдите в ваш Mi Аккаунт, чтобы восстановить их."</string>
+Войдите в ваш Xiaomi аккаунт, чтобы восстановить их."</string>
     <string name="restore_data_to_device_title">Восстановление данных на этом устройстве</string>
     <string name="revoke">Отозвать</string>
     <string name="revoke_agree">Отзыв согласия</string>
@@ -699,7 +699,7 @@
     <string name="sender_finish_title">Успешно передано</string>
     <string name="sender_scanning_code">Поместите изображение в рамку</string>
     <string name="sender_scanning_connecting">Подключение к новому устройству…</string>
-    <string name="set_new_device_account">Синхронизация с Mi аккаунтом</string>
+    <string name="set_new_device_account">Синхронизация с Xiaomi аккаунтом</string>
     <string name="set_new_device_lock">Настройка защиты</string>
     <string name="set_new_device_more">Дополнительные системные настройки…</string>
     <string name="set_new_device_navigationbar">Настройка системной навигации</string>

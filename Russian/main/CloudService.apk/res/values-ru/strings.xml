@@ -32,7 +32,7 @@
     <string name="accept_all_positive">Выбрать</string>
     <string name="accept_use_permissions">Предоставить</string>
     <string name="access_denied">Доступ запрещен</string>
-    <string name="account_related">Устройство связано с существующим Mi аккаунтом (%s). Подключитесь к сети для проверки устройства.</string>
+    <string name="account_related">Устройство связано с существующим Xiaomi аккаунтом (%s). Подключитесь к сети для проверки устройства.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_find_device_success">Поиск устройства активирован</string>
     <string name="activate_finddevice">Подключитесь к сети для активации устройства</string>
@@ -146,7 +146,7 @@
     <string name="error_server_busy">Сервер занят. Повторите попытку позже.</string>
     <string name="error_server_error">Ошибка сервера</string>
     <string name="error_timeout">Таймаут истек</string>
-    <string name="error_token_expired">Войдите в Mi Аккаунт снова</string>
+    <string name="error_token_expired">Войдите в Xiaomi аккаунт снова</string>
     <string name="error_unknown">Ошибка авторизации</string>
     <string name="error_unsupported">Функция не поддерживается на этом устройстве</string>
     <string name="evening">После полудня</string>
@@ -286,25 +286,25 @@
     <string name="micloud_battery_low_notification_message">Подключите зарядное устройство</string>
     <string name="micloud_battery_low_notification_title">Батарея разряжена</string>
     <string name="micloud_buy_member_safe">Получить больше места</string>
-    <string name="micloud_check_sim_notify_text">Вы заменили SIM карту. Войдите в Mi аккаунт для повторной активации сервисов Xiaomi Cloud.</string>
+    <string name="micloud_check_sim_notify_text">Вы заменили SIM карту. Войдите в Xiaomi аккаунт для повторной активации сервисов Xiaomi Cloud.</string>
     <string name="micloud_check_sim_notify_title">Повторная активация</string>
-    <string name="micloud_check_sim_title">Вы заменили SIM карту. Войдите в Mi аккаунт для повторной активации сервисов Xiaomi Cloud.</string>
+    <string name="micloud_check_sim_title">Вы заменили SIM карту. Войдите в Xiaomi аккаунт для повторной активации сервисов Xiaomi Cloud.</string>
     <string name="micloud_confusion_account_hint">Изменения на этом устройстве будут синхронизированы со всеми вашими устройствами. В целях защиты аккаунта рекомендуем отключить синхронизацию для других устройств, если вы их не используете.</string>
     <string name="micloud_confusion_account_name">Аккаунт:</string>
-    <string name="micloud_confusion_account_notify_text">Другое устройство изменяет ваш Mi аккаунт. Проверьте его.</string>
+    <string name="micloud_confusion_account_notify_text">Другое устройство изменяет ваш Xiaomi аккаунт. Проверьте его.</string>
     <string name="micloud_confusion_account_notify_title">Проверьте аккаунт</string>
-    <string name="micloud_confusion_account_question">Mi аккаунт %s принадлежит вам?</string>
-    <string name="micloud_confusion_account_title">Mi аккаунт</string>
-    <string name="micloud_confusion_alert_message">%s изменяет информацию Mi аккаунта.</string>
+    <string name="micloud_confusion_account_question">Xiaomi аккаунт %s принадлежит вам?</string>
+    <string name="micloud_confusion_account_title">Xiaomi аккаунт</string>
+    <string name="micloud_confusion_alert_message">%s изменяет информацию Xiaomi аккаунта.</string>
     <string name="micloud_confusion_alert_negative">Позже</string>
     <string name="micloud_confusion_alert_positive">Подробности</string>
     <string name="micloud_confusion_alert_title">Другое устройство изменяет ваш аккаунт</string>
     <string name="micloud_confusion_cancel">Отмена</string>
-    <string name="micloud_confusion_check_account_title">Войдите в Mi аккаунт для повторной активации сервисов Xiaomi Cloud.</string>
-    <string name="micloud_confusion_entrance_hint">Не заходите в Mi аккаунт с общественных устройств</string>
+    <string name="micloud_confusion_check_account_title">Войдите в Xiaomi аккаунт для повторной активации сервисов Xiaomi Cloud.</string>
+    <string name="micloud_confusion_entrance_hint">Не заходите в Xiaomi аккаунт с общественных устройств</string>
     <string name="micloud_confusion_entrance_notify_text">Нажмите для просмотра.</string>
     <string name="micloud_confusion_entrance_notify_title">Другое устройство изменяет ваш аккаунт</string>
-    <string name="micloud_confusion_entrance_question">Изменяли ли вы в последнее время Mi аккаунт, используя %s?</string>
+    <string name="micloud_confusion_entrance_question">Изменяли ли вы в последнее время Xiaomi аккаунт, используя %s?</string>
     <string name="micloud_confusion_entrance_title">Данные изменены</string>
     <string name="micloud_confusion_finish_hint">Изменения на этом устройстве будут синхронизированы со всеми вашими устройствами. В целях защиты аккаунта рекомендуем отключить синхронизацию для других устройств, если вы их не используете.</string>
     <string name="micloud_confusion_finish_message">Отключите синхронизацию для других устройств.</string>
@@ -317,7 +317,7 @@
     <string name="micloud_confusion_setting_question">Отключите синхронизацию для других устройств, связанных с вашим аккаунтом.</string>
     <string name="micloud_confusion_setting_title">Слишком много устройств</string>
     <string name="micloud_confusion_toast_confirm">Устройство подтверждено</string>
-    <string name="micloud_confusion_toast_deny">Войдите в Mi аккаунт</string>
+    <string name="micloud_confusion_toast_deny">Войдите в Xiaomi аккаунт</string>
     <string name="micloud_confusion_yes">Да</string>
     <string name="micloud_detail_fail">Ошибка синхронизации</string>
     <string name="micloud_detail_query_error">Не удалось получить данные о ходе синхронизации</string>
@@ -334,7 +334,7 @@
     <string name="micloud_find_device_common_sms_alert_with_charge_hint">"Для активации сервиса будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платн. SMS&lt;/b>&lt;/font>.&lt;br/> В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>платн. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения."</string>
     <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">"Для активации сервиса будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font>.&lt;br/> В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>обычн. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения."</string>
     <string name="micloud_find_device_finish">Готово</string>
-    <string name="micloud_find_device_guide_alert_content">Поиск устройства связан с вашим Mi аккаунтом. Вам нужно задать пароль или ввести ранее заданный пароль. Убедитесь, что вы запомнили ID вашего Mi аккаунта и пароль.</string>
+    <string name="micloud_find_device_guide_alert_content">Поиск устройства связан с вашим Xiaomi аккаунтом. Вам нужно задать пароль или ввести ранее заданный пароль. Убедитесь, что вы запомнили ID вашего Xiaomi аккаунта и пароль.</string>
     <string name="micloud_find_device_guide_alert_negtive">Нет, спасибо</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Нет, спасибо</string>
     <string name="micloud_find_device_guide_alert_positive">OK</string>
@@ -352,7 +352,7 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat рекомендует включить Поиск устройства</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay рекомендует включить Поиск устройства</string>
     <string name="micloud_find_device_guide_progress">Включение Поиска устройства…</string>
-    <string name="micloud_find_device_guide_title">Выполните вход в Mi Аккаунт на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; для поиска и блокировки устройства, удаленного стирания данных. Подробности &lt;a href="micloud://com.miui.cloudservice/helpcenter?type=finddevice">здесь&lt;/a>.</string>
+    <string name="micloud_find_device_guide_title">Выполните вход в Xiaomi аккаунт на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; для поиска и блокировки устройства, удаленного стирания данных. Подробности &lt;a href="micloud://com.miui.cloudservice/helpcenter?type=finddevice">здесь&lt;/a>.</string>
     <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"Для активации сервиса будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>.&lt;br/> В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения."</string>
     <string name="micloud_find_device_open_fail">Не удалось включить Поиск устройства</string>
     <string name="micloud_find_device_opened">Поиск устройства включен</string>
@@ -887,11 +887,11 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="share_sdk_pref_category_search_local_title">Контакты</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Сканировать QR-код</string>
     <string name="share_sdk_pref_family_detail_title">Просмотр сведений о семейной группе</string>
-    <string name="share_sdk_privacy_link_description">Прочтите и примите <u><a href="https://account.xiaomi.com/about/protocol/privacy">Политику конфиденциальности Mi аккаунта</a></u> перед использованием этого сервиса.</string>
+    <string name="share_sdk_privacy_link_description">Прочтите и примите <u><a href="https://account.xiaomi.com/about/protocol/privacy">Политику конфиденциальности Xiaomi аккаунта</a></u> перед использованием этого сервиса.</string>
     <string name="share_sdk_qr_code_description">Приглашение от %1$s</string>
     <string name="share_sdk_qr_code_expire_time">Срок действия QR-кода: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Слишком много исходящих приглашений. Повторите попытку через 24 часа.</string>
-    <string name="share_sdk_search_hint">Номер телефона/ID Mi аккаунта</string>
+    <string name="share_sdk_search_hint">Номер телефона/ID Xiaomi аккаунта</string>
     <string name="share_sdk_search_online">Поиск в сети %1$s</string>
     <string name="share_sdk_share_entrance_title">Добавить участников</string>
     <string name="share_sdk_suggest_member_pref_summary">Алгоритм рекомендаций предоставлен Xiaomi Cloud</string>
@@ -998,7 +998,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="sync_off_confirm_content">Вы не сможете синхронизировать новые пароли после отключения Менеджера паролей.</string>
     <string name="sync_off_confirm_title">Внимание</string>
     <string name="sync_on">Вкл.</string>
-    <string name="sync_page_autofill_login">Войдите в Mi Аккаунт, чтобы использовать менеджер паролей</string>
+    <string name="sync_page_autofill_login">Войдите в Xiaomi аккаунт, чтобы использовать менеджер паролей</string>
     <string name="sync_page_autofill_title">Менеджер паролей</string>
     <string name="sync_page_route_message">Менеджер паролей позволяет шифровать пароли и хранить их в облаке. Включить менеджер паролей?</string>
     <string name="sync_page_route_not_now">Нет, спасибо</string>
@@ -1059,7 +1059,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="tip_short_cut_added_success">Успешно добавлен</string>
     <string name="tip_short_cut_already_added">Уже добавлен</string>
     <string name="title_back">Назад</string>
-    <string name="title_reg">Создание Mi аккаунта</string>
+    <string name="title_reg">Создание Xiaomi аккаунта</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="trying_to_connect_to_network">Подключение к сети…</string>

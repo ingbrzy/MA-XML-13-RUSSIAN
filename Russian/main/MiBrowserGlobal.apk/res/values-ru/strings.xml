@@ -32,7 +32,7 @@
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
-    <string name="account_empty_user_name">Введите имя пользователя Mi аккаунта</string>
+    <string name="account_empty_user_name">Введите имя пользователя Xiaomi аккаунта</string>
     <string name="account_error_all_space_user_name">Имя пользователя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">Имя не может содержать \"&lt;\", \">\" или \"/\"</string>
     <string name="account_error_longer_user_name">Имя должно содержать не более 20 символов</string>
@@ -55,7 +55,7 @@
     <string name="account_user_details">Личная информация</string>
     <string name="account_user_email">Адрес электронной почты для восстановления</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_id">ID Mi аккаунта</string>
+    <string name="account_user_id">ID Xiaomi аккаунта</string>
     <string name="account_user_name">Псевдоним</string>
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_other_info">Подробнее</string>
@@ -229,7 +229,7 @@
     <string name="back_description">Назад</string>
     <string name="back_home">Отпустите для возврата</string>
     <string name="batch_download_tip">Обнаружено несколько одновременных загрузок. Заблокировать их?</string>
-    <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
+    <string name="bind_sign_in_title">Добавьте Xiaomi аккаунт</string>
     <string name="block">Блокировать</string>
     <string name="block_ads_choice_block">Блокировать</string>
     <string name="block_ads_choice_continue">Продолжить</string>
@@ -500,7 +500,7 @@
     <string name="confirm_know">ОК</string>
     <string name="confirm_new_pwd">Подтвердите пароль</string>
     <string name="confirm_privacy_password">Введите графический ключ</string>
-    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Xiaomi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
     <string name="connection_lost">Отключено</string>
     <string name="content_collection_done">Добавлено в избранное</string>
     <string name="context_menu_add_to_desk_id">Добавить на Рабочий стол</string>
@@ -765,7 +765,7 @@ ID:%s
     <string name="empty_app_name">Другое приложение</string>
     <string name="empty_bookmark">Ничего нет</string>
     <string name="empty_cloud_tab_login_hint">Облачные вкладки отсутствуют</string>
-    <string name="empty_cloud_tab_logout_hint">"Войдите в Mi аккаунт, 
+    <string name="empty_cloud_tab_logout_hint">"Войдите в Xiaomi аккаунт, 
 чтобы просмотреть открытые вкладки 
 с других устройств"</string>
     <string name="empty_history_hint">Ничего нет</string>
@@ -782,10 +782,10 @@ ID:%s
     <string name="enter_the_user_name">Введите имя пользователя</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
-    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Mi аккаунтом.</string>
+    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Xiaomi аккаунтом.</string>
     <string name="error_filename_too_long">Слишком длинное имя файла.</string>
     <string name="error_folder_already_exists">Такой файл уже существует</string>
-    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Mi аккаунтом.</string>
+    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашим Xiaomi аккаунтом.</string>
     <string name="error_info_cant_send_folder">Нельзя отправлять папки.</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="error_not_acceptable">Синхронизация отключена.</string>
@@ -793,10 +793,10 @@ ID:%s
     <string name="error_not_url_tips">Введите действительный URL</string>
     <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
     <string name="error_title">Ошибка синхронизации</string>
-    <string name="error_unauthorized">Синхронизация с вашим Mi аккаунтом отключена из-за слишком большого количества попыток входа.</string>
+    <string name="error_unauthorized">Синхронизация с вашим Xiaomi аккаунтом отключена из-за слишком большого количества попыток входа.</string>
     <string name="error_unsupport_url_tips">Невозможно скачать это видео. В настоящее время поддерживается скачивание видео с Facebook, Twitter и Instagram.</string>
     <string name="evening">После полудня</string>
-    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
+    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Xiaomi аккаунтом.</string>
     <string name="exit">Выход</string>
     <string name="exit_browser_confirmation">Нажмите еще раз, чтобы вернуться на рабочий стол</string>
     <string name="exit_browser_warning">Выйти из браузера сейчас?</string>
@@ -849,7 +849,7 @@ ID:%s
     <string name="experience_improve">Программа улучшения качества</string>
     <string name="exported">Экспортировать</string>
     <string name="external_app_restricted_access_error">Браузер не может получить доступ к этому объекту.</string>
-    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
+    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Xiaomi аккаунтом</string>
     <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
     <string name="fast_search_title">Быстрый поиск</string>
     <string name="fast_than">Вы обошли %1$s%% пользователей</string>
@@ -947,7 +947,7 @@ ID:%s
     <string name="geolocation_settings_page_title">Запрет геолокации</string>
     <string name="get_back_pwd">Выполняется сброс пароля</string>
     <string name="get_ph_ticket">Получить код</string>
-    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
+    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Xiaomi аккаунтов. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
     <string name="go_supermarket_button">Перейти</string>
     <string name="go_supermarket_title">Больше приложений, высокая скорость и экономия трафика в Mi Apps</string>
@@ -1052,7 +1052,7 @@ ID:%s
     <string name="is_last_tab">Это последняя вкладка</string>
     <string name="is_page_bottom">Вы достигли конца страницы</string>
     <string name="is_page_top">Вы достигли начала страницы</string>
-    <string name="isornot_your_mi_account">Это ваш Mi аккаунт?</string>
+    <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
     <string name="js_disable_confirm_message">При отключении JavaScript некоторые сайты могут отображаться некорректно.</string>
     <string name="js_disable_confirm_title">Отключить JavaScript?</string>
     <string name="just_a_second">Подождите…</string>
@@ -1127,7 +1127,7 @@ ID:%s
     <string name="midnight">Ночь</string>
     <string name="mint_games">Популярные игры</string>
     <string name="miui_autologin_bar_error">Не удается войти</string>
-    <string name="miui_autologin_bar_title">Войти в Mi Аккаунт</string>
+    <string name="miui_autologin_bar_title">Войти в Xiaomi аккаунт</string>
     <string name="miui_bookmark_action_bar_add_group_title">Новая группа</string>
     <string name="miui_bookmark_action_bar_new_group_title">Новая папка</string>
     <string name="miui_facebook_enable_pref_summary">Более удобное управление уведомлениями Facebook</string>
@@ -1140,13 +1140,13 @@ ID:%s
     <string name="miui_search_notification_message">Нажмите для открытия панели поиска.</string>
     <string name="miui_search_notification_title">Поиск</string>
     <string name="miui_startpage">Стартовая страница</string>
-    <string name="miuishare_account_activate_confirmation">Активируйте Mi Аккаунт</string>
+    <string name="miuishare_account_activate_confirmation">Активируйте Xiaomi аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>
     <string name="miuishare_account_login_cancel">Отмена</string>
-    <string name="miuishare_account_login_confirmation">Войти в Mi Аккаунт</string>
+    <string name="miuishare_account_login_confirmation">Войти в Xiaomi аккаунт</string>
     <string name="miuishare_account_login_ok">Войти</string>
-    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Активируйте ваш Mi Аккаунт.</string>
-    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Mi Аккаунтом. Выполните вход в ваш Mi Аккаунт.</string>
+    <string name="miuishare_account_need_activate">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Xiaomi аккаунтом. Активируйте ваш Xiaomi аккаунт.</string>
+    <string name="miuishare_account_need_login">Для обмена с Weibo требуется аккаунт Weibo, связанный с вашим Xiaomi аккаунтом. Выполните вход в ваш Xiaomi аккаунт.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_dialog_cancel">Отмена</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети</string>
@@ -1619,7 +1619,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="page_info_view">Посмотреть</string>
     <string name="partner_privacy">Политики конфиденциальности третьих сторон</string>
     <string name="passport_access_denied">Доступ запрещен</string>
-    <string name="passport_account_label">Mi аккаунт</string>
+    <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код региона</string>
@@ -2253,10 +2253,10 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="sign_and_open">Войти и включить</string>
     <string name="sign_in">Выполняется вход</string>
     <string name="sign_in_by_others">Другие способы входа</string>
-    <string name="sign_in_by_xiaommi">Войти через Mi аккаунт</string>
+    <string name="sign_in_by_xiaommi">Войти через Xiaomi аккаунт</string>
     <string name="sign_in_failed">Ошибка авторизации</string>
     <string name="sign_in_progress">Выполняется вход…</string>
-    <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
+    <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
     <string name="sign_in_to" formatted="false">Вход в %s1 \"%s2\"</string>
     <string name="sign_out">Выйти</string>
     <string name="skip">Пропуск</string>
@@ -2577,7 +2577,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="user_guide_color_mode_title">Выберите цветовую схему</string>
     <string name="user_guide_control_privacy_tips">Полностью управляйте конфиденциальностью</string>
     <string name="user_guide_read_info_tips">Для добавления в поисковую выдачу приложений Браузеру необходим доступ к списку приложений на устройстве.</string>
-    <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
+    <string name="user_id_hint">Эл. почта/Номер телефона/ID Xiaomi аккаунта</string>
     <string name="username">Имя пользователя</string>
     <string name="uuid">UUID (нажмите для экспорта)</string>
     <string name="v5_deselect_all">Снять выбор</string>

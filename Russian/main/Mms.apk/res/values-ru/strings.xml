@@ -356,7 +356,7 @@
     <string name="forward_prefix">"FW: "</string>
     <string name="found_old_messages">Загрузить сообщения из %1$s в %2$s?</string>
     <string name="found_old_messages_title">Загрузить сообщения с других SIM карт?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Для синхронизации сообщений с Xiaomi Cloud войдите в свой Mi аккаунт и включите синхронизацию.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Для синхронизации сообщений с Xiaomi Cloud войдите в свой Xiaomi аккаунт и включите синхронизацию.</string>
     <string name="found_wild_messages_guide_settings_desc">Синхронизируйте сообщения с Xiaomi Cloud в настройках.</string>
     <string name="found_wild_messages_guide_sync_not_started">Синхронизация еще не началась</string>
     <string name="found_wild_messages_title">Синхронизация с Xiaomi Cloud</string>
@@ -1493,7 +1493,7 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="wild_msg_processing">Обработка…</string>
     <string name="wild_msg_title">Выберите номера телефонов для синхронизации</string>
-    <string name="xiaomi_account_service_retry_main_purpose">Для нормальной работы этой функции должны быть включены службы Mi Аккаунта. Включить службы можно включить в Настройки > Приложения.</string>
+    <string name="xiaomi_account_service_retry_main_purpose">Для нормальной работы этой функции должны быть включены службы Xiaomi аккаунта. Включить службы можно включить в Настройки > Приложения.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Отмена</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>

@@ -155,7 +155,7 @@
 Подключение шнура питания: один конец типа C подключается к разъему питания Magic Control Bridge, другой конец USB к адаптеру питания."</string>
     <string name="mj_uwb_install_help_title">Инструкции Magic Control Bridge для телевизора</string>
     <string name="mj_uwb_know_it">Я знаю</string>
-    <string name="mj_uwb_login_mitv_account">Войдите в Mi аккаунт для доступа к дополнительным функциям</string>
+    <string name="mj_uwb_login_mitv_account">Войдите в Xiaomi аккаунт для доступа к дополнительным функциям</string>
     <string name="mj_uwb_miracast">Трансляция…</string>
     <string name="mj_uwb_mitv_control_power_off">Телевизор выключен.</string>
     <string name="mj_uwb_mitv_control_power_off_fail">Сбой включения. Повторите подключение.</string>

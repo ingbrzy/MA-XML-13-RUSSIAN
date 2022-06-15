@@ -31,7 +31,7 @@
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
-    <string name="account_empty_user_name">Введите имя пользователя Mi Аккаунта</string>
+    <string name="account_empty_user_name">Введите имя пользователя Xiaomi аккаунта</string>
     <string name="account_error_all_space_user_name">Имя не может состоять из одних пробелов</string>
     <string name="account_error_invalid_user_name">В имени не может быть символов &lt;, &gt;, /</string>
     <string name="account_error_longer_user_name">Имя не может содержать более 20 символов</string>
@@ -53,7 +53,7 @@
     <string name="account_user_details">Личная информация</string>
     <string name="account_user_email">Электронная почта</string>
     <string name="account_user_gender">Пол</string>
-    <string name="account_user_id">ID Mi Аккаунта</string>
+    <string name="account_user_id">ID Xiaomi аккаунта</string>
     <string name="account_user_name">Имя пользователя</string>
     <string name="account_user_name_dialog_title">Введите имя пользователя</string>
     <string name="account_user_other_info">Другие сведения</string>
@@ -74,7 +74,7 @@
     <string name="app_name">Отчет</string>
     <string name="app_search">Поиск приложений</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
-    <string name="bind_sign_in_title">Добавить Mi Аккаунт</string>
+    <string name="bind_sign_in_title">Добавить Xiaomi аккаунт</string>
     <string name="btn_send">Отправить</string>
     <string name="bugreport_dialog_not_show_again">Больше не показывать</string>
     <string name="bugreport_dialog_submit_content">Вы собираетесь сохранить журналы программного обеспечения. Они могут содержать личную информацию и данные вашего местоположения. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажав \"Принимаю\", вы принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
@@ -142,7 +142,7 @@
     <string name="confirm_activate_email">Проверено</string>
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_new_pwd">Подтвердите новый пароль</string>
-    <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Mi Аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Mi Аккаунтом %3$s. Продолжить?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Номер телефона %1$s связан с Xiaomi аккаунтом %2$s. Если вы продолжите, он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
     <string name="copy">Копировать</string>
     <string name="cta_cancel">Отмена</string>
     <string name="cta_confirm">OK</string>
@@ -192,14 +192,14 @@ ID: %s
     <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">Обслуживание пользователей</string>
-    <string name="error_dup_binded_email">Этот адрес электронной почты связан с другим Mi Аккаунтом.</string>
+    <string name="error_dup_binded_email">Этот адрес электронной почты связан с другим Xiaomi аккаунтом.</string>
     <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="error_no_connection">Не удалось подключиться к сети</string>
     <string name="evening">После полудня</string>
-    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi Аккаунтом.</string>
+    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Xiaomi аккаунтом.</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="facebook_application_id"/>
-    <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Mi Аккаунтом</string>
+    <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Xiaomi аккаунтом</string>
     <string name="failed_to_fetch_fql">Не удалось получить информацию FAQ, проверьте подключение к сети</string>
     <string name="feedback_answer_detail_feedback_resolved">Да</string>
     <string name="feedback_answer_detail_feedback_result">Спасибо за обратную связь!</string>
@@ -248,7 +248,7 @@ ID: %s
     <string name="feedback_empty_report_list">Пока нет отчетов</string>
     <string name="feedback_guess">Наше предположение</string>
     <string name="feedback_hint_optional">Выбор</string>
-    <string name="feedback_history_remind_login_desc">Войдите в свой Mi Аккаунт для просмотра подробностей о ваших отчетах</string>
+    <string name="feedback_history_remind_login_desc">Войдите в свой Xiaomi аккаунт для просмотра подробностей о ваших отчетах</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA Key: %s</string>
     <string name="feedback_jira_key_place_holder">Создание Jira…</string>
@@ -256,7 +256,7 @@ ID: %s
     <string name="feedback_phone_model_label">Модель телефона</string>
     <string name="feedback_probability_label">Вероятность</string>
     <string name="feedback_remind_login_btn">Войти</string>
-    <string name="feedback_report_remind_login_desc">Войдите в свой Mi Аккаунт, чтобы наши инженеры могли связаться с Вами.</string>
+    <string name="feedback_report_remind_login_desc">Войдите в свой Xiaomi аккаунт, чтобы наши инженеры могли связаться с Вами.</string>
     <string name="feedback_report_remind_login_desc2">Вы можете просмотреть продвижение своего отчета в разделе \"Мои отзывы\".</string>
     <string name="feedback_reproductivity_everytime">Каждый раз</string>
     <string name="feedback_reproductivity_occasionally">Редко</string>
@@ -358,7 +358,7 @@ ID: %s
     <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения аккаунта</string>
     <string name="input_length_exceeds_limit">Слишком длинный текст</string>
     <string name="input_new_pwd">Введите новый пароль</string>
-    <string name="isornot_your_mi_account">Это ваш Mi Аккаунт?</string>
+    <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
     <string name="issue_search">Поиск</string>
     <string name="jump_full_log_dialog_cancel">Отмена</string>
     <string name="jump_full_log_dialog_confirm">Создать</string>
@@ -367,7 +367,7 @@ ID: %s
     <string name="just_a_second">Подождите…</string>
     <string name="kr_authorization_agree">Принимаю</string>
     <string name="kr_authorization_contact">Учетные записи</string>
-    <string name="kr_authorization_contact_desc">Получение информации о Mi Аккаунте и проверка учетной записи</string>
+    <string name="kr_authorization_contact_desc">Получение информации о Xiaomi аккаунте и проверка учетной записи</string>
     <string name="kr_authorization_exit">Отмена</string>
     <string name="kr_authorization_function">Отправка отзывов и отчетов, просмотр часто задаваемых вопросов</string>
     <string name="kr_authorization_log_protocol">Лог протокола (необязательно)</string>
@@ -385,7 +385,7 @@ ID: %s
     <string name="loading_apps">Загрузка списка приложений…</string>
     <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
     <string name="login_by_local_phone_short_text">Вход</string>
-    <string name="login_other">Другой Mi Аккаунт</string>
+    <string name="login_other">Другой Xiaomi аккаунт</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
     <string name="login_with_sns">Другие варианты входа</string>
@@ -591,7 +591,7 @@ ID: %s
     <string name="open_settings">Настройки</string>
     <string name="packaging_dialog_content">Создание отчета…</string>
     <string name="passport_access_denied">Доступ запрещен</string>
-    <string name="passport_account_label">Mi Аккаунт</string>
+    <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_activate_token_expired">Код устарел. Повторите попытку.</string>
     <string name="passport_area_code_title">Код страны</string>
@@ -757,7 +757,7 @@ ID: %s
     <string name="set_success">Изменения внесены</string>
     <string name="sign_in">Авторизация</string>
     <string name="sign_in_progress">Вход…</string>
-    <string name="sign_in_title">Войти с Mi Аккаунтом</string>
+    <string name="sign_in_title">Войти с Xiaomi аккаунтом</string>
     <string name="skip_query_account">Пропустить</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
@@ -793,7 +793,7 @@ ID: %s
     <string name="stop_full_log_dialog_title">Создание журналов…</string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">Принимаю</string>
-    <string name="submit_dialog_content"><Data>"Перед отправкой отчета прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>. Проблемы, о которых вы сообщаете, а также данные, которые вы прикрепляете (включая журналы, которые могут содержать личную информацию и информацию об устройстве и сети), будут загружены на серверы MIUI. Это поможет нам в решении проблем, о которых вы сообщаете. Если проблемы связаны с несколькими устройствами, будут также загружены журналы с других устройств, где используется ваш Mi аккаунт."</Data></string>
+    <string name="submit_dialog_content"><Data>"Перед отправкой отчета прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>. Проблемы, о которых вы сообщаете, а также данные, которые вы прикрепляете (включая журналы, которые могут содержать личную информацию и информацию об устройстве и сети), будут загружены на серверы MIUI. Это поможет нам в решении проблем, о которых вы сообщаете. Если проблемы связаны с несколькими устройствами, будут также загружены журналы с других устройств, где используется ваш Xiaomi аккаунт."</Data></string>
     <string name="submit_dialog_content_global">Ваш отчет вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.</string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>Ваш отзыв, а также вложения (если таковые имеются) и журналы (вы можете снять флажки с соответствующих пунктов, которые вы не хотите загружать) будут отправлены на серверы MIUI. Журналы могут содержать личную информацию и данные о вашем местоположении. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.</Data></string>
     <string name="submit_dialog_not_show_again">Больше не показывать</string>
@@ -921,18 +921,18 @@ ID: %s
     <string name="update_phone_notice">Настройки безопасности</string>
     <string name="upload_error_log">Отправить журнал</string>
     <string name="upload_log_failed">Не удалось отправить журналы</string>
-    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_agreement_hint_default_1"><Data>Прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a></Data></string>
     <string name="user_agreement_hint_default_extra"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a> При первом входе в систему будет автоматически создан аккаунт Xiaomi."</Data></string>
     <string name="user_agreement_hint_first_login">"Если вы впервые используете свой номер телефона, аккаунт будет создан автоматически."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_id_hint">Email/Phone/Mi Account ID</string>
