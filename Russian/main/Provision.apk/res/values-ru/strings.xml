@@ -268,7 +268,7 @@
     <string name="move_data_dialog_use">Использовать</string>
     <string name="msim_setting_default_data">Интернет</string>
     <string name="msim_setting_default_voice">Вызовы</string>
-    <string name="multisim_settings_category">Настройки SIM-карт</string>
+    <string name="multisim_settings_category">Настройки SIM-карты</string>
     <string name="multisim_settings_sb_title">Обнаружена 1 SIM-карта</string>
     <string name="multisim_settings_title">Обнаружено 2 SIM-карты</string>
     <string name="navigation_picker_gesture_guide">Руководство по жестам</string>
