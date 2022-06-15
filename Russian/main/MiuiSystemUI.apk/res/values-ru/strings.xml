@@ -463,7 +463,7 @@
     <string name="audio_status">Прослушивание</string>
     <string name="auto_brightness_off">Автояркость отключена</string>
     <string name="auto_brightness_on">Автояркость включена</string>
-    <string name="auto_connect_disable">Автоподключение отключено</string>
+    <string name="auto_connect_disable">Без автоподключения</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
     <string name="auto_saver_enabled_text">Экономия заряда включится автоматически при уровне заряда ниже %d%%</string>
@@ -3389,7 +3389,7 @@ d MMMM"</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="wifi_whitelist_roaming">SSID Bridging - быстрая передача</string>
     <string name="wifi_whitelist_roaming_summary">Разрешить роуминг между разными SSID AP WPA/WPA2-PSK с одинаковым MAC-адресом шлюза</string>
-    <string name="wifitrackerlib_auto_connect_disable">Автоподключение отключено</string>
+    <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>
     <string name="wifitrackerlib_available_via_app">Доступно через %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
@@ -3413,7 +3413,7 @@ d MMMM"</string>
     <string name="wifitrackerlib_tap_to_sign_up">Нажмите для регистрации</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Точка доступа временно заполнена</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Проверьте пароль и повторите попытку</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Подключено к устройству. Без доступа в интернет.</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Подключено. Без доступа в интернет.</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Отключено</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Ошибка конфигурации IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Ошибка аутентификации</string>
@@ -3424,8 +3424,8 @@ d MMMM"</string>
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Слабый сигнал. Попробуйте приблизиться к роутеру.</string>
     <string name="wifitrackerlib_wifi_metered_label">С лимитом</string>
     <string name="wifitrackerlib_wifi_network_not_found">Не удалось подключиться. Повторите позже.</string>
-    <string name="wifitrackerlib_wifi_no_internet">Без доступа в интернету</string>
-    <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернету и переподключения</string>
+    <string name="wifitrackerlib_wifi_no_internet">Без доступа в интернет</string>
+    <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истек</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Временное плохое состояние сети</string>
     <string name="wifitrackerlib_wifi_remembered">Сохранено</string>

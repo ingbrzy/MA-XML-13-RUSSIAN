@@ -56,7 +56,7 @@
     <string name="app_name">systemui-controls</string>
     <string name="auto_brightness_off">Автояркость отключена</string>
     <string name="auto_brightness_on">Автояркость включена</string>
-    <string name="auto_connect_disable">Автоподключение отключено</string>
+    <string name="auto_connect_disable">Без автоподключения</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
     <string name="bt_is_off">Bluetooth отключен</string>

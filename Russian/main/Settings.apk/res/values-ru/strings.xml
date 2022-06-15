@@ -897,7 +897,7 @@
     <string name="auto_clean_summary">Воспроизведение 30-секундного аудиофайла для очистки динамика</string>
     <string name="auto_clean_summary_new">Воспроизведение %d-секундного аудиофайла для очистки динамика. В случае сильного загрязнения динамика, используйте эту функцию несколько раз подряд.</string>
     <string name="auto_clean_title">Очистка динамика</string>
-    <string name="auto_connect_disable">Автоподключение отключено</string>
+    <string name="auto_connect_disable">Без автоподключения</string>
     <string name="auto_disable_broadcast_audio">Отключать при отсутствии трансляции</string>
     <string name="auto_disable_screenbuttons_ask">Спрашивать</string>
     <string name="auto_disable_screenbuttons_auto">Всегда отключать</string>
@@ -10854,7 +10854,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_menu_advanced">Дополнительные функции</string>
     <string name="wifi_menu_configure">Настроить</string>
     <string name="wifi_menu_connect">Подключиться к сети</string>
-    <string name="wifi_menu_forget">Удалить эту сеть</string>
+    <string name="wifi_menu_forget">Удалить сеть</string>
     <string name="wifi_menu_modify">Изменить сеть</string>
     <string name="wifi_menu_more_options">Ещё</string>
     <string name="wifi_menu_p2p">Wi-Fi Direct</string>
@@ -11180,7 +11180,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wps_onstart_pin">Введите код %1$s на вашем роутере. Настройка может занять до двух минут.</string>
     <string name="wifi_wps_overlap_error">Обнаружен другой сеанс WPS. Подождите немного и повторите попытку.</string>
     <string name="wifi_wps_setup_title">Безопасная настройка Wi-Fi</string>
-    <string name="wifitrackerlib_auto_connect_disable">Автоподключение отключено</string>
+    <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>
     <string name="wifitrackerlib_available_via_app">Доступно через %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
@@ -11204,7 +11204,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifitrackerlib_tap_to_sign_up">Нажмите для регистрации</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Точка доступа временно заполнена</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Проверьте пароль и повторите попытку</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Подключено к устройству. Без доступа в интернет.</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Подключено. Без доступа в интернет.</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Отключено</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Ошибка конфигурации IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Ошибка аутентификации</string>

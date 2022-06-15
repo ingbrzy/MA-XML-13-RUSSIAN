@@ -115,7 +115,7 @@
     <string name="apn_settings_not_available">Настройка точки доступа недоступна для этого пользователя</string>
     <string name="app_label">Экстренная информация</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
-    <string name="auto_connect_disable">Автоподключение отключено</string>
+    <string name="auto_connect_disable">Без автоподключения</string>
     <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
@@ -839,7 +839,7 @@
     <string name="wifi_wapi_fail_to_init">Не получается открыть сертификаты WAPI.  Похоже, хранилище учетных данных не включено.</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
-    <string name="wifitrackerlib_auto_connect_disable">Автоподключение отключено</string>
+    <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>
     <string name="wifitrackerlib_available_via_app">Доступно через %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Подключено через %1$s</string>
     <string name="wifitrackerlib_connected_via_network_scorer">Автоматически подключено через %1$s</string>
@@ -863,7 +863,7 @@
     <string name="wifitrackerlib_tap_to_sign_up">Нажмите для регистрации</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Точка доступа временно заполнена</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Проверьте пароль и повторите попытку</string>
-    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Подключено к устройству. Без доступа в интернет.</string>
+    <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Подключено. Без доступа в интернет.</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Отключено</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">Ошибка конфигурации IP</string>
     <string name="wifitrackerlib_wifi_disabled_password_failure">Ошибка аутентификации</string>
@@ -874,8 +874,8 @@
     <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Слабый сигнал. Попробуйте приблизиться к роутеру.</string>
     <string name="wifitrackerlib_wifi_metered_label">С лимитом</string>
     <string name="wifitrackerlib_wifi_network_not_found">Не удалось подключиться. Повторите позже.</string>
-    <string name="wifitrackerlib_wifi_no_internet">Без доступа в интернету</string>
-    <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернету и переподключения</string>
+    <string name="wifitrackerlib_wifi_no_internet">Без доступа в интернет</string>
+    <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истек</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Временное плохое состояние сети</string>
     <string name="wifitrackerlib_wifi_remembered">Сохранено</string>
