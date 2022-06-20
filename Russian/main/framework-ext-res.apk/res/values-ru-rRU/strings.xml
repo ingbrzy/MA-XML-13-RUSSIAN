@@ -318,6 +318,11 @@
     <string name="notice_audition">Звуки природы</string>
     <string name="notification_channel_hotspot">Уведомление точки доступа</string>
     <string name="notificationxylophone">Уведомление (ксилофон)</string>
+    <string name="nps_ContentText">Нажмите для подробностей</string>
+    <string name="nps_ContentTitle">Поиск GPS</string>
+    <string name="nps_description">Уведомление о статусе GPS</string>
+    <string name="nps_mock_description">Фиктивная геопозиция, для восстановления требуется перезагрузка</string>
+    <string name="nps_monitor_name">Геолокация по GPS</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 минут</string>

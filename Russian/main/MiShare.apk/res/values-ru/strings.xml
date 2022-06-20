@@ -87,10 +87,19 @@
     <string name="eras_bc">до н. э.</string>
     <string name="error_ap_in_use">Передача файлов при включенной точке доступа недоступна</string>
     <string name="error_ap_or_screen_already_hosting">Передача файлов во время трансляции или при включенной точке доступа недоступна</string>
+    <string name="error_ble_connect_failure">Принимающее устройство не может подключиться к Bluetooth. Убедитесь, что его экран включен.</string>
+    <string name="error_ble_connect_timeout">Не удалось подключиться к Bluetooth. Повторно подключитесь к Bluetooth на обоих устройствах и повторите попытку.</string>
     <string name="error_device_lost">Похоже, другое устройство вне досягаемости. Повторите попытку позже.</string>
     <string name="error_has_occurred">Произошла ошибка</string>
     <string name="error_mirror_working">Передача файлов во время трансляции недоступна</string>
     <string name="error_msg_network_error">Ошибка сети. Повторите попытку.</string>
+    <string name="error_msg_network_error_china">Не удалось подключиться к сети. Проверьте подключение обоих устройств к Wi-Fi и Bluetooth.</string>
+    <string name="error_msg_wlan_error">Не удалось подключиться. Повторно подключитесь к Wi-Fi и повторите попытку.</string>
+    <string name="error_msg_wlan_error_china">Не удалось подключиться. Повторно подключитесь к Wi-Fi и повторите попытку.</string>
+    <string name="error_p2p_create_group_failure">Не удалось подключиться. Повторно подключитесь к Wi-Fi на обоих устройствах и повторите попытку.</string>
+    <string name="error_p2p_create_group_failure_china">Не удалось подключиться. Повторно подключитесь к Wi-Fi на обоих устройствах и повторите попытку.</string>
+    <string name="error_p2p_recv_connect_timeout">Не удалось подключиться. Повторно подключитесь к Wi-Fi на обоих устройствах и повторите попытку.</string>
+    <string name="error_p2p_recv_connect_timeout_china">Не удалось подключиться. Повторно подключитесь к Wi-Fi на обоих устройствах и повторите попытку.</string>
     <string name="error_permission_denied">Для использования этой функции предоставьте Mi Share все необходимые разрешения в настройках</string>
     <string name="error_receive_file_cannot_read">Не удалось принять файл</string>
     <string name="error_receive_file_changed">Не удалось принять. Файл был изменен.</string>
@@ -434,6 +443,8 @@
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
+    <string name="tips_p2p_support_use5g">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
+    <string name="tips_p2p_support_use5g_china">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
     <string name="tips_prompt_enable_midrop">Обмен файлами с устройствами поблизости</string>
     <string name="to_feedback">Отчет</string>
     <string name="today">Сегодня</string>
@@ -469,6 +480,7 @@
     <string name="vivo_phone">vivo</string>
     <string name="wait_receive_file">Ожидание приема…</string>
     <string name="wait_remote_receive_tips">Ожидание…</string>
+    <string name="wait_remote_receive_tips_china">Убедитесь, что на обоих устройствах включены экраны, Wi-Fi и Bluetooth</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>

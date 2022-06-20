@@ -1561,7 +1561,9 @@ mm"</string>
     <string name="wallpaper_24h">24ч</string>
     <string name="wallpaper_apply">Применить</string>
     <string name="wallpaper_apply_full">Все</string>
+    <string name="wallpaper_apply_inner">Внутренний экран</string>
     <string name="wallpaper_apply_large">Внутренний экран</string>
+    <string name="wallpaper_apply_outer">Внешний экран</string>
     <string name="wallpaper_apply_pcmode">Режим ПК</string>
     <string name="wallpaper_apply_small">Внешний экран</string>
     <string name="wallpaper_crop">Обрезать</string>

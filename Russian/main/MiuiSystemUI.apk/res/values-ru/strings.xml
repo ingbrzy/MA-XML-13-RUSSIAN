@@ -2438,6 +2438,7 @@ mm"</string>
     <string name="quick_settings_inversion_label">Инверсия цвета</string>
     <string name="quick_settings_location_label">Геолокация</string>
     <string name="quick_settings_location_off_label">Геолокация откл.</string>
+    <string name="quick_settings_low_battery_toast_text">Фонарик недоступен. Низкий заряд батареи.</string>
     <string name="quick_settings_media_device_label">Режим медиа</string>
     <string name="quick_settings_mic_label">Доступ к микрофону</string>
     <string name="quick_settings_midrop_label">Mi Drop</string>
