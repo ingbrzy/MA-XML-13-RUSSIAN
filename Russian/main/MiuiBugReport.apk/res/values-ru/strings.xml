@@ -898,7 +898,7 @@ ID: %s
     <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
     <string name="toast_report_sent_failed">Не удалось отправить отчет</string>
     <string name="toast_report_sent_succeed">Отчет успешно отправлен</string>
-    <string name="toast_screenshot_too_large">Нельзя отправить файл размером более 100 МБ</string>
+    <string name="toast_screenshot_too_large">Нельзя отправить файл размером более %d МБ</string>
     <string name="toast_third_packagename_required">Введите имя приложения</string>
     <string name="toast_title_required">Опишите вашу проблему</string>
     <string name="today">Сегодня</string>
