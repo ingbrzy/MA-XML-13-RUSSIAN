@@ -585,6 +585,7 @@
     <string name="app_predict_dialog_message">ИИ предложит приложения, которые могут понадобиться вам на данный момент</string>
     <string name="app_predict_dialog_success">Успешно добавлено на рабочий стол</string>
     <string name="app_predict_folder_name">Поиск</string>
+    <string name="app_predict_folder_tips">Рекомендации на основе ваших предпочтений </string>
     <string name="app_predict_go_shop_search_app">Поиск в GetApps</string>
     <string name="app_predict_guide_button">Добавить</string>
     <string name="app_predict_guide_message">ИИ предложит приложения, которые могут понадобиться вам на данный момент</string>
@@ -607,6 +608,7 @@
     <string name="app_predict_setting_switch_message">Получать рекомендации по приложениям на основе ваших предпочтений</string>
     <string name="app_predict_setting_switch_title">Персонализированные рекомендации</string>
     <string name="app_predict_setting_title">Рекомендации по приложениям</string>
+    <string name="app_predict_settings_train_tip">Используйте автоматическую оптимизацию актуальности рекомендаций</string>
     <string name="app_predict_widget_experience_now">Попробовать</string>
     <string name="app_predict_widget_name_2x4">Рекомендации</string>
     <string name="app_predict_widget_summary">Быстрый запуск приложений, которые могут вам понадобиться</string>
@@ -2089,6 +2091,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_game_ratio_right">Справа</string>
     <string name="gb_game_ratio_top">Сверху</string>
     <string name="gb_game_time_toast">Таймер уже доступен!</string>
+    <string name="gb_game_tips_restart">Игра будет перезапущена для применения изменений</string>
     <string name="gb_game_video_ai_record_finish_tips">AI записи при ускорении игр: %d</string>
     <string name="gb_game_video_bottom_tips">Пересматривайте ключевые моменты игровых сессий в Ускорении игр. Записи будут автоматически удалены через 7 дней.</string>
     <string name="gb_game_video_bottom_tips_new">Пересматривайте ключевые моменты игровых сессий в Ускорении игр. Записи будут автоматически удалены через %d д.</string>
