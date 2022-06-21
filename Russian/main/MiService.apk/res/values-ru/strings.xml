@@ -313,7 +313,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="permission_china_version_msg">&lt;Data&gt;Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1$s\"&gt;Условиями использования&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политикой конфиденциальности&lt;/a&gt;. Для правильной работы приложению также необходимо подключение к интернету.&lt;/Data&gt;</string>
     <string name="permission_complete">Готово</string>
     <string name="permission_contacts_info">Доступ к информации об аккаунте</string>
-    <string name="permission_contacts_introduce">Для входа через Xiaomi аккаунт</string>
+    <string name="permission_contacts_introduce">Для входа с помощью аккаунта Xiaomi</string>
     <string name="permission_device_info">Доступ к информации об устройстве</string>
     <string name="permission_device_introduce">Для определения срока ограниченной гарантии</string>
     <string name="permission_exit">Отмена</string>
