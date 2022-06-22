@@ -372,6 +372,7 @@
     <string name="permission_warning_template_ask">Разрешить доступ приложению %1$s?</string>
     <string name="permisson_reject_notice_toast_text2">нет разрешения на %1$s.</string>
     <string name="pp_privacy_lab_operator_introduction">Внимание</string>
+    <string name="precise_location_title">Максимальная точность</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="real_location_off">Пониженная точность: вкл.</string>
     <string name="real_location_on">Пониженная точность: откл.</string>
