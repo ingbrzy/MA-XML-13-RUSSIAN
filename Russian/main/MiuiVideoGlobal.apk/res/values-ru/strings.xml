@@ -274,6 +274,7 @@
     <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы %1$s, обновляются.</string>
     <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
     <string name="common_open_on_phone">Открыть на устройстве</string>
+    <string name="common_retry_late_hint">Повторите попытку позже</string>
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="confirm_activate_email">Подтверждено</string>
@@ -326,9 +327,12 @@ ID: %s
     <string name="dialog_jumpto_choose">Больше не показывать</string>
     <string name="dialog_jumpto_content">Переключиться на Mi Видео для дополнительных функций воспроизведения?</string>
     <string name="dialog_jumpto_title">Mi Видео</string>
+    <string name="dialog_look_offline_btn">Просмотр офлайн</string>
+    <string name="dialog_no_internet_des">Отсутствует подключение к сети. Посмотреть офлайн-контент?</string>
     <string name="dialog_no_video_confirm">Понятно</string>
     <string name="dialog_no_video_tip">Попробуйте сначала открыть сведения о видео. Кнопка загрузки будет доступна, как только видео будет найдено.</string>
     <string name="dialog_no_video_title">Не удалось найти видео</string>
+    <string name="dialog_open_internet_btn">Подлючение к сети</string>
     <string name="dialog_privacy_change_info">Мы обновили политику конфиденциальности Mi Видео в связи с корректировкой предлагаемых услуг. Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>.</string>
     <string name="dialog_privacy_change_title">Обновление политики конфиденциальности</string>
     <string name="dialog_privacy_experience_plan">Присоединяйтесь к программе улучшения качества, чтобы делиться с нами пользовательскими данными и помочь нам улучшить наши продукты и сервисы.</string>
@@ -573,6 +577,9 @@ ID: %s
     <string name="galleryplus_gallery_video_save_video">Создание видео…</string>
     <string name="galleryplus_gallery_video_slow_edit">Замедленное видео</string>
     <string name="galleryplus_gallery_view_tags">Показать теги</string>
+    <string name="galleryplus_globalvideo_controller_go">Начать</string>
+    <string name="galleryplus_globalvideo_controller_hint">Ознакомьтесь с улучшенными возможностями Mi Видео</string>
+    <string name="galleryplus_globalvideo_controller_tip">Посмотрите новые функции</string>
     <string name="galleryplus_is_higher_definition">Предпросмотр HD</string>
     <string name="galleryplus_network_connect_check">Не удалось подключиться к сети</string>
     <string name="galleryplus_network_connect_confirm">Подключитесь к Wi-Fi или включите мобильный интернет в настройках сети</string>
@@ -580,11 +587,20 @@ ID: %s
     <string name="galleryplus_network_not_wifi">Использование мобильного интернета для потоковой передачи видео может повлечь за собой дополнительные расходы</string>
     <string name="galleryplus_next_step">Далее</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Управление файлами %$s Добавление субтитров %$s Трансляция %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1_new">Используйте функцию \"картинка в картинке\", воспроизведение в фоне, масштабирование, трансляцию и прочее %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Защитите личные видео паролем %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2_new">Защитите паролем личные видео, управляйте своими файлами %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Загружайте видео из TikTok, Instagram и Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3_new">Фильмы, клипы и короткие видеоролики с ваших платформ %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle4">Смотрите популярные драмы, комедии и прочее</string>
+    <string name="galleryplus_notification_linkvideo_subtitle5">Подписывайтесь и смотрите спорт, фильмы, мультфильмы и прочее</string>
     <string name="galleryplus_notification_linkvideo_title1">%$s Оцените все возможности Mi Видео!</string>
     <string name="galleryplus_notification_linkvideo_title2">%$s Нажмите для управления видео</string>
     <string name="galleryplus_notification_linkvideo_title3">%1$s Бесплатная загрузка видео %2$s Управление файлами</string>
+    <string name="galleryplus_notification_linkvideo_title3_new">%$s Быстрая и бесплатная загрузка</string>
+    <string name="galleryplus_notification_linkvideo_title4">Сотни видео доступны бесплатно в течение определенного времени</string>
+    <string name="galleryplus_notification_linkvideo_title5">Транслируйте бесплатно любимые шоу</string>
+    <string name="galleryplus_notification_try_now_btn">Попробовать</string>
     <string name="galleryplus_online_cta">Приложению Mi Видео для нормальной работы необходимо подключение к интернету. Разрешить?</string>
     <string name="galleryplus_online_cta_agree">Разрешить</string>
     <string name="galleryplus_online_cta_disagree">Выход</string>
@@ -688,6 +704,18 @@ ID: %s
     <string name="icon_content_description">Иконка диалога</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Идентификация</string>
+    <string name="incentive_details">Подробности</string>
+    <string name="incentive_dialog_cancel_not_interested">Отмена</string>
+    <string name="incentive_dialog_continue_to_watch">Продолжить</string>
+    <string name="incentive_dialog_default_message">Посмотрите еще %1$s, чтобы получить %2$s!</string>
+    <string name="incentive_dialog_default_title">Продолжить просмотр?</string>
+    <string name="incentive_dialog_exit">Выход</string>
+    <string name="incentive_dialog_negative_give_up">Нет, спасибо</string>
+    <string name="incentive_dialog_negative_play_next_video">Следующее видео</string>
+    <string name="incentive_dialog_ok_receive_task">Завершено</string>
+    <string name="incentive_dialog_positive_get_credits">Получить баллы</string>
+    <string name="incentive_dialog_positive_login_and_get_credits">Вход</string>
+    <string name="incentive_view_details">Подробности</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="init_channels">Сброс настроек</string>
     <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения вашего аккаунта</string>
@@ -725,12 +753,14 @@ ID: %s
     <string name="live_title">Прямой эфир</string>
     <string name="live_tv_title">Прямой эфир</string>
     <string name="loading">Подождите…</string>
+    <string name="local_diversion_all_local_videos">Видео на устройстве</string>
     <string name="local_diversion_close_recommend">Закрыть</string>
     <string name="local_diversion_download_more_video">Еще</string>
     <string name="local_diversion_manage_local_video">Управление файлами</string>
     <string name="local_diversion_open_mivideo">"Посмотреть в Mi Видео
 "</string>
     <string name="local_diversion_recommend_title">Популярное</string>
+    <string name="local_diversion_view_more">Просмотр</string>
     <string name="local_empty_guide">Видео, которые вы снимаете, появятся здесь</string>
     <string name="local_folder_select_count">Выбрано: %s</string>
     <string name="local_hide_folder_dialog_content">Скрытые видео не будут отображаться в ваших плейлистах</string>
@@ -931,6 +961,7 @@ ID: %s
     <string name="mediation_ad">Реклама</string>
     <string name="mediation_ad_can_not_share">Не удалось поделиться этим видео</string>
     <string name="mi_video">Mi Видео</string>
+    <string name="mi_video_pip_mode">Картинка в картинке</string>
     <string name="midnight">Ночь</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
@@ -1626,6 +1657,7 @@ ID: %s
     <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
     <string name="small_video_snack_download_description">Загрузите SnackVideo, чтобы смотреть последние видео от избранных авторов</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
+    <string name="small_video_tab_expose_hint">Небольшие видеоролики, которые могут быть интересны</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
@@ -1809,8 +1841,12 @@ ID: %s
     <string name="tip_local_manager_here">Управляйте своими файлами здесь</string>
     <string name="tip_login_for_your_online_playlist">Войдите, чтобы просмотреть свои плейлисты</string>
     <string name="tip_play_a_video">%d. Воспроизведите видео</string>
+    <string name="tip_playlist_guide_hint_a">Смотрите видео из ваших плейлистов в Google</string>
+    <string name="tip_playlist_guide_hint_b">Смотрите без рекламы видео из плейлистов YouTube</string>
     <string name="tip_pop"><Data>Контент из Moments предоставляется Firework. Для улучшения впечатления от просмотра и получения релевантных рекомендаций по контенту, разрешите Firework собирать, обрабатывать и использовать вашу личную информацию в соответствии с Политикой конфиденциальности. Перед использованием этого сервиса прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности Firework&lt;/a>.</Data></string>
     <string name="tip_storage_used_space" formatted="false">Использовано: %.2f из %.2f ГБ</string>
+    <string name="tip_subscribe_guide_hint_a">Посмотрите авторов из ваших подписок в Google</string>
+    <string name="tip_subscribe_guide_hint_b">Смотрите без рекламы новые видео с каналов YouTube, на которые вы подписаны</string>
     <string name="tip_tap_download_button">%d. Нажите \"Загрузить\"</string>
     <string name="tip_topic_click">Нажмите, чтобы найти больше видео по этой теме</string>
     <string name="title_bookmarks">Закладки</string>
@@ -1845,6 +1881,7 @@ ID: %s
     <string name="tool_bar_notification_setting_title">Панель инструментов</string>
     <string name="top_bar_game_desc">Откройте для себя новые игры</string>
     <string name="top_bar_game_title">Игровой канал</string>
+    <string name="trending_history_continue_watching">Продолжить просмотр</string>
     <string name="trending_scroll_load_more">Свайп вверх для просмотра других видео</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
@@ -1987,6 +2024,7 @@ ID: %s
     <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
     <string name="year">год</string>
     <string name="yesterday">Вчера</string>
+    <string name="yt_subscription_notification_setting_title">Уведомления подписки</string>
     <string name="ytb_account">Аккаунты</string>
     <string name="ytb_author_video">Видео</string>
     <string name="ytb_login">Войти</string>

@@ -34,6 +34,11 @@
         <item quantity="one">Просмотреть %d ответ</item>
         <item quantity="few">Просмотреть %d ответа</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">Выбрано %s звезд</item>
+        <item quantity="one">Выбрана %s звезда</item>
+        <item quantity="few">Выбрано %s звезды</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Возврат на домашнюю страницу через %1$d секунд…</item>
         <item quantity="one">Возврат на домашнюю страницу через %1$d секунду…</item>
@@ -61,8 +66,45 @@
         <item quantity="one">через 1 минуту</item>
         <item quantity="few">через %d минуты</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">Вы получили %d баллов!</item>
+        <item quantity="one">Вы получили %d балл!</item>
+        <item quantity="few">Вы получили %d балла!</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d баллов</item>
+        <item quantity="one">%d балл</item>
+        <item quantity="few">%d балла</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Войдите, чтобы подать заявку и получить %d дополнительных баллов</item>
+        <item quantity="one">Войдите, чтобы подать заявку и получить %d дополнительный балл</item>
+        <item quantity="few">Войдите, чтобы подать заявку и получить %d дополнительных балла</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">За %d минут просмотра, вы получите дополнительные баллы! Хотите выполнить задание?</item>
+        <item quantity="one">За %d минуту просмотра, вы получите дополнительные баллы! Хотите выполнить задание?</item>
+        <item quantity="few">За %d минуты просмотра, вы получите дополнительные баллы! Хотите выполнить задание?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Можно получить %d баллов,
+только сегодня"</item>
+        <item quantity="one">"Можно получить %d балл,
+только сегодня"</item>
+    </plurals>
+        <item quantity="few">"Можно получить %d балла,
+только сегодня"</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d папок</item>
@@ -154,6 +196,11 @@
         <item quantity="other">Выбрано %s объектов</item>
         <item quantity="one">Выбран %s объект</item>
         <item quantity="few">Выбрано %s объекта</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Удалить %s файлов навсегда?</item>
+        <item quantity="one">Удалить %s файл навсегда?</item>
+        <item quantity="few">Удалить %s файла навсегда?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Размер файла: %.2f Кб</item>

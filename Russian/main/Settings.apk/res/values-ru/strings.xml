@@ -4947,6 +4947,7 @@ ID: %s
     <string name="location_category_location_services">Геолокация</string>
     <string name="location_category_recent_location_access">Недавний доступ</string>
     <string name="location_category_recent_location_requests">Недавние запросы</string>
+    <string name="location_description_no_gps">Это устройство не поддерживает спутниковую навигацию. Геолокация на основе данных сети может быть недостаточной для некоторых функций.</string>
     <string name="location_gps">По спутникам GPS</string>
     <string name="location_high_battery_use">Высокий расход батареи</string>
     <string name="location_indicator_settings_description">Показывать для всех вариантов геолокации, включая сети и подключения</string>

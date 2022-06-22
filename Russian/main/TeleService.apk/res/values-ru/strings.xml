@@ -885,6 +885,7 @@
 
 Использовать мобильный интернет?"</string>
     <string name="data_enabled">Мобильный интернет</string>
+    <string name="data_interruption_remind">Для улучшения соединения разрешите устройству во время VoLTE вызовов использовать мобильный интернет на вторичной SIM-карте</string>
     <string name="data_plan">Тарифные планы</string>
     <string name="data_usage_disable_mobile">Отключить мобильный интернет?</string>
     <string name="data_usage_ota">Обновления системы</string>
