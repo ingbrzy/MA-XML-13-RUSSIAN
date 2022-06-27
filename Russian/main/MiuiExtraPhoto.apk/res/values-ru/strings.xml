@@ -31,7 +31,7 @@
     <string name="afternoon">После полудня</string>
     <string name="cancel">Отмена</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
-    <string name="close">Закрыть</string>
+    <string name="close">Отключить</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="doc_photo_adjust_section_talkback">Обрезка и редактирование</string>

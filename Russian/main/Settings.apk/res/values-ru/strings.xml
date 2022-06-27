@@ -3560,7 +3560,8 @@ ID: %s
     <string name="face_unlock_offset_right">Сдвиньтесь влево</string>
     <string name="face_unlock_offset_top">Немного поднимите устройство</string>
     <string name="face_unlock_open_eye">Откройте глаза немного шире</string>
-    <string name="face_unlock_prompt">Запрос на разблокировку по лицу</string>
+    <string name="face_unlock_prompt">"Посмотрите на внешний экран 
+для записи данных лица"</string>
     <string name="face_unlock_quality">Не удалось четко увидеть ваше лицо</string>
     <string name="face_unlock_reveal_eye">Ваши глаза должны быть видны</string>
     <string name="face_unlock_reveal_mouth">Ваши губы должны быть видны</string>
@@ -5767,7 +5768,7 @@ ID: %s
     <string name="miui_allow_light">Световой индикатор</string>
     <string name="miui_allow_music">Мультимедиа</string>
     <string name="miui_allow_vibrate">Вибрация</string>
-    <string name="miui_bubbles_notification">Уведомления в виде \"пузырей\"</string>
+    <string name="miui_bubbles_notification">\"Пузыри\" для диалогов</string>
     <string name="miui_bubbles_notification_status_opened">Вкл.</string>
     <string name="miui_data_usage_menu_metered">Мобильная точка доступа</string>
     <string name="miui_experience_optimization">Включить оптимизацию MIUI</string>

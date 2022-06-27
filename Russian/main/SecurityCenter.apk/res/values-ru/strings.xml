@@ -1026,7 +1026,7 @@
     <string name="bubble_app_manage">Управление \"пузырями\"</string>
     <string name="bubble_notification">\"Пузыри\" диалога</string>
     <string name="bubble_notification_switch">Показывать \"пузыри\"</string>
-    <string name="bubble_notification_switch_desc">Когда мессенджер открыт в плавающем окне и скрыт у края экрана, входящие сообщения будут отображаться в виде  \"пузырей\"</string>
+    <string name="bubble_notification_switch_desc">Когда мессенджер открыт в плавающем окне и скрыт у края экрана, входящие сообщения будут отображаться в виде \"пузырей\"</string>
     <string name="business_have_hongbao">Красный конверт от %1$s</string>
     <string name="business_lucky_warning">Корпоративный красный конверт</string>
     <string name="button_background_connection">Разрешить</string>
