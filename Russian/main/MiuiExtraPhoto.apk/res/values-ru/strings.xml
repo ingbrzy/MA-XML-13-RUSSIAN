@@ -53,7 +53,9 @@
     <string name="doc_photo_idcard_emblem">Задняя сторона</string>
     <string name="doc_photo_idcard_mode_title">Удостоверение</string>
     <string name="doc_photo_idcard_portrait">Лицевая сторона</string>
+    <string name="doc_photo_not_save">Не сохранять</string>
     <string name="doc_photo_not_support">Не удается отредактировать изображение как документ</string>
+    <string name="doc_photo_save_effect_toast">Сохранить изменения?</string>
     <string name="doc_photo_toast_undistortion_close">Коррекция отключена</string>
     <string name="doc_photo_toast_undistortion_open">Коррекция включена</string>
     <string name="doc_photo_view_effect">Предпросмотр</string>
@@ -164,6 +166,7 @@
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="ok">ОК</string>
+    <string name="open">Включить</string>
     <string name="refocus_discard_confirm_message">Сохранить изменения?</string>
     <string name="refocus_discard_negative_btn">Отменить</string>
     <string name="refocus_discard_positive_btn">Сохранить</string>

@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">Плавающие окна</string>
+    <string name="bottom_bar_smallwindow_drag_text">Перетащите сюда, чтобы закрепить</string>
     <string name="bottom_bar_smallwindow_text">Отпустите, чтобы закрепить</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
@@ -80,6 +81,7 @@
     <string name="friday_shortest">Пт</string>
     <string name="fullscreen_slide_to_small_freeform">Плавающее окно</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Проведите от нижней части экрана к правому верхнему углу</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Проведите от нижнего края экрана к верхнему</string>
     <string name="how_to_close_or_fullscreen_freeform">Закрытие или переключение в полноэкранный режим</string>
     <string name="how_to_drop_down_to_fullscreen">Полноэкранный режим</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Потяните панель действий плавающего окна вниз</string>

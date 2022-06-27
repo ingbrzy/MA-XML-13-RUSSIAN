@@ -475,6 +475,7 @@
     <integer-array name="config_scrollBarrierVibePattern"></integer-array>
     <array name="config_secondaryBuiltInDisplayWaterfallCutout"></array>
     <array name="config_serialPorts" />
+    <string-array name="config_serviceStateLocationAllowedPackages"></string-array>
     <array name="config_settings_slices_accessibility_components" />
     <string-array name="config_show_datatraffic_dialog_mccmnc"></string-array>
     <string-array name="config_show_setpassword_dialog_mccmnc"></string-array>

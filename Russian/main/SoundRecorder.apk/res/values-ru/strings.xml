@@ -82,6 +82,8 @@
     <string name="dialog_privacy_revoke_tips">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение? Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com до отзыва разрешения для сервисов Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">Недостаточно места</string>
     <string name="download">Загрузить</string>
+    <string name="download_pause">Загрузка приостановлена. Нажмите, чтобы возобновить.</string>
+    <string name="downloading">Загрузка. Нажмите, чтобы приостановить.</string>
     <string name="duration_format_hour">%s ч.</string>
     <string name="duration_format_minute">%s мин.</string>
     <string name="duration_format_second">%s сек.</string>

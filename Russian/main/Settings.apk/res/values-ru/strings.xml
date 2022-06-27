@@ -3900,6 +3900,8 @@ ID: %s
 Функция работает при использовании жестов в качестве экранной навигации."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Перетащите угол, чтобы свернуть приложение</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Перетащите угол, чтобы свернуть приложение</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Перетащите нижнюю часть окна к верхнему краю экрана.
+Функция работает при использовании жестов в качестве экранной навигации."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Жест для плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_summary">Проведите вверх от панели действий плавающего окна</string>
     <string name="freeform_guide_slide_up_to_close_title">Закрытие</string>
@@ -5633,6 +5635,7 @@ ID: %s
     <string name="miheadset_auto_ack_mode">Автоподтверждение</string>
     <string name="miheadset_auto_ack_mode_summary">Автоподтверждение устройства</string>
     <string name="miheadset_auto_answer_call">Автоответ при вызовах</string>
+    <string name="miheadset_auto_upgrade_reminder">Отключите автообновление и повторите проверку обновлений</string>
     <string name="miheadset_bluetooth_audio_title">Частота дискретизации звука Bluetooth LC3plus</string>
     <string name="miheadset_bright">Яркость</string>
     <string name="miheadset_call_assist">Помощник вызовов</string>

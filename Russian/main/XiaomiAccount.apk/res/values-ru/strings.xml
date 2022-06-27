@@ -925,6 +925,8 @@ ID:%s
     <string name="update_phone_number_notice_message">Перед обновлением номера телефона необходимо подтвердить вашу личность.</string>
     <string name="updated_nothing">Все обновлено</string>
     <string name="used_cloud_storage_info">Использовано %s</string>
+    <string name="user_agreement_network_permission_msg">Для предоставления необходимых сервисов требуется подключение к интернету</string>
+    <string name="user_agreement_use_account_msg">Xiaomi аккаунт позволяет получить доступ ко всем сервисам Xiaomi</string>
     <string name="user_avatar_update_title">Изменение фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_instruction_all_purpose">Добро пожаловать в Xiaomi аккаунт! Вы можете использовать свой аккаунт для доступа к сервисам, предоставляемым Xiaomi и её аффилированными компаниями, таким как Mi.com, Xiaomi Cloud и GetApps. Вам будут доступны получение монет Mi Coins, покупка виртуальных товаров, включая игры, темы и электронные книги.</string>
