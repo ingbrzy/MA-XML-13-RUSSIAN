@@ -2922,6 +2922,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="na_main_card_ad_text">Найдите подходящий вам план</string>
     <string name="na_main_card_ad_title">Продвижение карты Mi Fan</string>
     <string name="na_main_card_title_sim">"Карта "</string>
+    <string name="na_open_at_once">Включить</string>
+    <string name="na_query_and_correction">Проверка и настройка баланса</string>
+    <string name="na_query_and_correction_msg">"Вы можете проверить и настроить баланс счета и статистику мобильного интернета, отправив бесплатное SMS своему оператору связи. Это сообщение будет зашифровано.
+Сообщение с запросом баланса не будет сохраняться и отображаться в приложении Сообщения.
+Опцию \"Автообновление статистики\" можно отключить в любое время."</string>
     <string name="na_text_checking">"Тестирование: "</string>
     <string name="name">Имя</string>
     <string name="nd_result_button_optimize">Оптимизировать</string>

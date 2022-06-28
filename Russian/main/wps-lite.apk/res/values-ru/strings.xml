@@ -262,6 +262,7 @@
     <string name="public_pdf_converter_success_open">Открыть</string>
     <string name="public_pdf_converter_success_tip">Успешно экспортировано</string>
     <string name="public_pdf_converter_title">Экспорт</string>
+    <string name="public_pdf_converter_water">С водяным знаком</string>
     <string name="public_pdf_convertering_title">Экспорт…</string>
     <string name="public_pdf_label">Просмотр PDF</string>
     <string name="public_pdf_print_converting">Подготовка к печати…</string>

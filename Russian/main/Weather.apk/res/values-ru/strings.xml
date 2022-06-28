@@ -161,6 +161,7 @@
     <string name="content_desc_activity_main_add_city">Добавить город</string>
     <string name="content_desc_activity_main_add_city_manage">Управление городами</string>
     <string name="content_desc_activity_main_more_settings">Прочие настройки</string>
+    <string name="content_desc_activity_main_page">Страница %1$d из %2$d</string>
     <string name="content_desc_back_button">Назад</string>
     <string name="content_desc_city_manage_del">Удалить</string>
     <string name="content_desc_city_manage_edit">Изменить</string>

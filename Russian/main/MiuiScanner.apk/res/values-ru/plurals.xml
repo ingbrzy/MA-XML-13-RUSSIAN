@@ -82,4 +82,9 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">%d символов сверх лимита</item>
+        <item quantity="one">%d символ сверх лимита</item>
+        <item quantity="few">%d символа сверх лимита</item>
+    </plurals>
 </resources>

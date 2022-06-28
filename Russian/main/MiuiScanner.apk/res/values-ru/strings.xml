@@ -169,6 +169,7 @@
     <string name="crop_and_create">Обрезка и создание файла Excel…</string>
     <string name="crop_cancel_description">Отмена</string>
     <string name="crop_done_description">Готово</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Область выбора должна иметь четыре стороны</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">Режущий четырехугольник не может быть вогнутым, а максимальный угол превышать 140 градусов</string>
     <string name="crop_title_study">Увеличить фото</string>
     <string name="crop_title_translation">Выберите текст для перевода</string>
@@ -287,6 +288,7 @@
     <string name="food_module_title_food">Калории</string>
     <string name="form_demo_dialog_negative">Нажмите, чтобы отсканировать таблицу и экспортировать в файл Excel</string>
     <string name="form_excel_save_sucess">Файл сохранен</string>
+    <string name="form_preview_title">Предпросмотр таблицы Excel</string>
     <string name="form_recognition_crop_hint">Убедитесь, что углы таблицы находятся внутри выбранной области</string>
     <string name="format_error">Неверный пароль</string>
     <string name="friday">Пятница</string>
@@ -358,6 +360,8 @@
     <string name="link_to_network">Подключиться</string>
     <string name="local_ocr_recognition">OCR распознавание офлайн</string>
     <string name="local_ocr_recognition_str">Переключение на офлайн-перевод</string>
+    <string name="location_permission_message">Для подключения к Wi-Fi</string>
+    <string name="location_permissions_text">Для использования этой функции разрешите использование геолокации в настройках</string>
     <string name="logistics">Экспресс доставка</string>
     <string name="logout_service">Отзыв согласия</string>
     <string name="low_version_tip">Чтобы использовать Сканер обновите MIUI до последней версии.</string>
