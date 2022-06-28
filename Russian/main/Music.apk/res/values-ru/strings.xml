@@ -97,6 +97,7 @@
     <string name="action_settings">Настройки</string>
     <string name="action_update_phone">Изменить номер телефона</string>
     <string name="actionbar_button_up_description">Назад</string>
+    <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
     <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="ad_close">Закрыть</string>
     <string name="ad_data_exception">Ошибка данных рекламы</string>
@@ -131,6 +132,7 @@
     <string name="already_favorited">Уже в избранном</string>
     <string name="always_use_metered">Всегда использовать мобильный интернет</string>
     <string name="am">AM</string>
+    <string name="anchor_unspport_match">Эта функция временно недоступна!</string>
     <string name="app_description_content">Приложение \"Музыка\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Воспроизведение музыки в приложении по-прежнему будет доступно.</string>
     <string name="app_description_title">Удалить \"Музыка\" с рабочего стола?</string>
     <string name="app_label">Загрузки</string>
@@ -161,6 +163,7 @@
     <string name="audio_ad_countdown">Пропустить рекламу (%s сек.)</string>
     <string name="audio_ad_pass">Пропустить рекламу</string>
     <string name="audio_picker_title">Выберите трек</string>
+    <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
     <string name="auto_recommend">Авто (рекомендуется)</string>
     <string name="auto_sound_quality">Авто</string>
     <string name="auto_update">Автообновление</string>
@@ -174,6 +177,7 @@
     <string name="back_confirm">Нажмите еще раз для выхода</string>
     <string name="banner_op">Mi Музыка</string>
     <string name="best_experience">Лучшие впечатления</string>
+    <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="btn_text_edit">Редактировать</string>
@@ -193,12 +197,26 @@
     <string name="cancel">Отмена</string>
     <string name="cancel_running_download">Отмена</string>
     <string name="cannot_download_to_sdcard_hint">Нельзя загрузить файлы на SD-карту из-за ограничений авторских прав. Файлы будут загружены во внутреннее хранилище.</string>
+    <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_download_quality">Изменить качество загрузки</string>
     <string name="change_password">Изменить пароль</string>
     <string name="changepassword_hint_input1">Текущий пароль</string>
     <string name="changepassword_toast_passworderror">Неверный пароль</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
+    <string name="chat_audio_tip_1">Сдвиньте вверх для отмены</string>
+    <string name="chat_button_delete">Удалить</string>
+    <string name="chat_cancel_tip_2">Отмена</string>
+    <string name="chat_hint_saysomething">Скажите что-нибудь…</string>
+    <string name="chat_hint_successfirst">Поприветствуйте нового друга</string>
+    <string name="chat_hint_time_just">Сейчас</string>
+    <string name="chat_hint_time_today">Сегодня</string>
+    <string name="chat_hint_time_yestoday">Вчера</string>
+    <string name="chat_mute_set_1">10 минут</string>
+    <string name="chat_mute_set_2">1 час</string>
+    <string name="chat_mute_set_3">12 часов</string>
+    <string name="chat_mute_set_4">24 часа</string>
+    <string name="chat_on">Начать</string>
     <string name="checking_new_version">Проверка обновлений…</string>
     <string name="chip_text">Текст</string>
     <string name="choose_download_quality">Выберите качество загрузки</string>
@@ -212,6 +230,7 @@
     <string name="click_to_add_album_cover_and_lyric">Нажмите, чтобы добавить обложку и текст</string>
     <string name="click_to_shuffle">Перемешать</string>
     <string name="close">Закрыть</string>
+    <string name="close_country_code_content_description">Удалить код страны</string>
     <string name="close_music_time">"Оставшееся время: "</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="columbus_ad_flag_text">Реклама</string>
@@ -245,12 +264,19 @@
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="confirm">OK</string>
+    <string name="confirm_activate_email">Подтверждено</string>
+    <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_exit">Сохранить изменения?</string>
+    <string name="confirm_new_pwd">Подтвердите пароль</string>
+    <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
     <string name="connect_now">Подключиться</string>
     <string name="connecting_apk">Подключение…</string>
+    <string name="connection_error">"Что-то не так с сетью…
+Проверьте сеть"</string>
     <string name="contact_service">Email: %1$s</string>
     <string name="content_failed_to_load">Не удалось загрузить содержимое</string>
     <string name="copy">Копировать</string>
+    <string name="copy_success">Скопировано</string>
     <string name="count_format_float">%2$1.1fK</string>
     <string name="count_million_format_float">%2$1.1fM</string>
     <string name="create_playlist">Создать плейлист</string>
@@ -261,6 +287,7 @@
     <string name="current_version">Текущая версия</string>
     <string name="daily_recommendation">Ежедневный микс</string>
     <string name="dark_mode">Тёмный режим</string>
+    <string name="data_is_loading">Загрузка…</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
     <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
     <string name="data_use_desc">Правовая документация</string>
@@ -270,12 +297,20 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
+    <string name="day">День</string>
+    <string name="default_filedownloader_notification_content">Идет загрузка файлов…</string>
+    <string name="default_filedownloader_notification_title">Загрузка файлов</string>
     <string name="delete">Удалить</string>
+    <string name="delete_count">Удалить пользователя (%1$d)</string>
+    <string name="delete_counts">Удалить пользователей (%1$d)</string>
     <string name="delete_download">Удалить</string>
     <string name="delete_file_as_well">Удалить навсегда этот трек</string>
     <string name="delete_file_end">Удалить навсегда</string>
     <string name="delete_file_error">Ошибка удаления файла</string>
     <string name="delete_file_start">Удалить выбранные файлы</string>
+    <string name="delete_user">Удаление аккаунта</string>
+    <string name="delete_user_content">Внимание! Восстановить аккаунт будет нельзя. Уверены, что хотите удалить?</string>
+    <string name="description">Описание</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="desktop_lyric_button_close">Закрыть</string>
     <string name="desktop_lyric_button_lock">Блокировать</string>
@@ -287,6 +322,8 @@
     <string name="desktop_lyric_setting_summary">Показывать тексты песен на рабочем столе</string>
     <string name="desktop_lyric_setting_title">Тексты песен на рабочем столе</string>
     <string name="desktop_lyric_textsize">Текст</string>
+    <string name="destroy_room_no">Отмена</string>
+    <string name="destroy_room_sure">Продолжить</string>
     <string name="develop_mode">Режим разработчика</string>
     <string name="device_connected">Подключено</string>
     <string name="device_not_connected">Не подключено</string>
@@ -343,8 +380,12 @@ ID: %s
     <string name="dialog_title_remove_tracks">Убрать</string>
     <string name="disallow_add_to_fm">Нельзя добавить в Радио</string>
     <string name="discover_more_music">Откройте для себя новую музыку</string>
+    <string name="do_not_disturb">Отключить уведомление</string>
     <string name="do_not_remind_this_version">Не напоминать об этой версии</string>
     <string name="do_not_support_google_voice_search">Голосовой поиск Google не поддерживается на вашем устройстве.</string>
+    <string name="doing_login">Выполняется вход…</string>
+    <string name="doing_query_account">Проверка информации учетной записи…</string>
+    <string name="doing_register">Создание аккаунта…</string>
     <string name="download">Загрузить</string>
     <string name="download_added_to_list">Добавлено в очередь загрузок</string>
     <string name="download_apk_desktop_installing">Установка</string>
@@ -421,13 +462,23 @@ ID: %s
     <string name="downloading_pause_apk">Пауза. Возобновите загрузку в шторке уведомлений.</string>
     <string name="due_date">Срок оплаты: %s</string>
     <string name="early_morning">Утро</string>
+    <string name="edit_button_save">Сохранить</string>
+    <string name="edit_hint_birthday">Дата рождения:</string>
+    <string name="edit_hint_default_avatar">Фото профиля по умолчанию ></string>
+    <string name="edit_hint_name">Псевдоним:</string>
     <string name="edit_playlist_info">Редактирование плейлиста</string>
+    <string name="edit_title_edit">Редактирование профиля</string>
+    <string name="edit_toast_noname">Псевдоним не может быть пустым</string>
+    <string name="edit_toast_saveerror">Ошибка сохранения. Попробуйте позже.</string>
+    <string name="edit_toast_savesuccess">Сохранено</string>
+    <string name="email">Email</string>
+    <string name="emoji_res_from">Предоставлено %s</string>
     <string name="empty_page_no_album">Нет альбомов</string>
     <string name="empty_page_no_artist">Нет исполнителей</string>
     <string name="enabled">ОК</string>
     <string name="enjoy_hungama_pro">Наслаждайтесь Hungama PRO</string>
     <string name="enroll_in">Регистрация</string>
-    <string name="enter_garbage_clean">Требуется очистка места</string>
+    <string name="enter_garbage_clean">Требуется очистка</string>
     <string name="entertainment">Развлечения</string>
     <string name="eq_auto">Пользовательский</string>
     <string name="eq_blues">Блюз</string>
@@ -449,11 +500,17 @@ ID: %s
     <string name="equalizer">Эквалайзер</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
+    <string name="error_dup_binded_email">Этот адрес эл. почты уже связан с другим Mi аккаунтом.</string>
+    <string name="error_hint_noavatar">Выберите или загрузите фото профиля</string>
+    <string name="error_hint_nodata">Нет данных</string>
+    <string name="error_hint_typesupport_emoji">Смайлы и специальные символы не поддерживаются</string>
     <string name="error_icon_content_description">Ошибка</string>
+    <string name="error_invalid_bind_address">Неверный адрес электронной почты.</string>
     <string name="error_message_no_internet_connection">Не удалось подключиться к интернету. Проверьте подключение к интернету и повторите попытку.</string>
     <string name="error_message_something_went_wrong">Что-то пошло не так, повторите попытку</string>
     <string name="error_not_support">Не поддерживается</string>
     <string name="evening">PM</string>
+    <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
     <string name="exo_controls_hide">Скрыть управление</string>
@@ -503,6 +560,7 @@ ID: %s
     <string name="facebook_not_installed">Сначала установите Facebook.</string>
     <string name="fail_to_fetch_payment_page_url">Не удалось получить данные платежа</string>
     <string name="fail_to_play">Не удалось воспроизвести трек</string>
+    <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Mi аккаунтом</string>
     <string name="failed_not_access_sd_card">необходимо сначала разрешить доступ к SD-карте</string>
     <string name="failed_obtain_permissions">Не удалось получить разрешения</string>
     <string name="failed_to_connect_hint">Проверьте настройки сети и повторите попытку</string>
@@ -574,11 +632,16 @@ ID: %s
     <string name="get_more_favorite_content_after_login">Войдите для поиска песен и видео</string>
     <string name="get_one_day_vip">Вы получили %d-дневный VIP!</string>
     <string name="get_one_hour_vip">Вы получили %d-часовой VIP!</string>
+    <string name="get_ph_ticket">Получить код</string>
+    <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
+    <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
     <string name="get_vip">Получить VIP</string>
     <string name="google_account_login">Вход с помощью Google</string>
+    <string name="google_application_id" />
     <string name="google_login_btn_content_description">Войти с помощью Google</string>
     <string name="goto_local_search">Поиск на устройстве</string>
     <string name="goto_online_search">Поиск онлайн</string>
+    <string name="goto_sign_up">Создать аккаунт</string>
     <string name="gps_prompt_context">Использовать для загрузки мобильный интернет?</string>
     <string name="gps_prompt_title">Внимание</string>
     <string name="handle_later">Не сейчас</string>
@@ -625,6 +688,7 @@ ID: %s
     <string name="i_know">ОК</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="id_namespace">hungama</string>
+    <string name="identity">Идентификация</string>
     <string name="imported">Импортировано</string>
     <string name="impunity_declaration_content">Нажав \"Принимаю\", вы принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
     <string name="impunity_declaration_ignore">Больше не показывать</string>
@@ -634,6 +698,7 @@ ID: %s
     <string name="impunity_declaration_summary">Показывать Условия использования при каждом запуске приложения Музыка</string>
     <string name="impunity_declaration_title">Условия использования</string>
     <string name="in_searching_please_wait">Поиск…</string>
+    <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="individuation_card_login_button">Войти</string>
     <string name="individuation_card_login_message">Войдите для поиска любимых песен</string>
     <string name="individuation_card_title">Для вас</string>
@@ -649,8 +714,10 @@ ID: %s
     <string name="info_product">Устройство:</string>
     <string name="info_system">Система:</string>
     <string name="info_system_version">Версия системы:</string>
+    <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения вашего аккаунта</string>
     <string name="input_hint_prefix">Введите %1$s</string>
     <string name="input_length_exceeds_limit">Слишком длинный текст</string>
+    <string name="input_new_pwd">Введите новый пароль</string>
     <string name="installing_apk">Установка…</string>
     <string name="insufficient_space">Недостаточно места в хранилище</string>
     <string name="invalid_number">Недействительный номер</string>
@@ -658,6 +725,7 @@ ID: %s
     <string name="is_scanning">Проверка накопителя…</string>
     <string name="is_scanning_support_online">"Проверка накопителя…
 (Пока можно слушать музыку онлайн)"</string>
+    <string name="isornot_your_mi_account">Это ваш Mi аккаунт?</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="joox_account_bind_mi_account">Добавить Xiaomi аккаунт</string>
     <string name="joox_account_cancel_login">Отмена</string>
@@ -743,6 +811,7 @@ ID: %s
     <string name="login_other">Другой Xiaomi аккаунт</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_with_sns">Другие варианты входа</string>
+    <string name="logout_account">Выйти</string>
     <string name="long_press_to_select_lyric">"Нажмите и удерживайте для 
 редактирования трека"</string>
     <string name="low_sound_quality">Низкое</string>
@@ -949,7 +1018,9 @@ ID: %s
     <string name="network_traffic">Трафик</string>
     <string name="next_time">Не сейчас</string>
     <string name="next_to_play">Следующий</string>
+    <string name="nick_name">Псевдоним</string>
     <string name="night">PM</string>
+    <string name="no_account">Вход не выполнен</string>
     <string name="no_album_info">Нет информации об альбоме</string>
     <string name="no_artist_info">Нет информации об исполнителе</string>
     <string name="no_downloads">Нет загрузок</string>
@@ -962,6 +1033,7 @@ ID: %s
     <string name="no_local_source_find">Файл не найден</string>
     <string name="no_longer_prompt">Больше не показывать</string>
     <string name="no_lyrics">Ничего нет</string>
+    <string name="no_phone">Нет номера телефона</string>
     <string name="no_results_return">Ничего не найдено</string>
     <string name="no_scanned_songs">Ничего нет</string>
     <string name="no_song_downloaded">Треки для загрузки не найдены</string>
@@ -1150,6 +1222,11 @@ ID: %s
     <string name="permission_declaration_title">Разрешить доступ</string>
     <string name="permission_open">Разрешить</string>
     <string name="permission_required">Требуются разрешения</string>
+    <string name="phone_bind_too_many">Этот номер был привязан к разным аккаунтам в течение короткого периода времени. Попробуйте использовать другой номер.</string>
+    <string name="phone_hint">Номер телефона</string>
+    <string name="phone_num_use_for">Функции номера телефона:</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="pick_favorite_song">Избранные</string>
     <string name="pick_local_song">Локальные</string>
     <string name="pick_recent_song">Недавние</string>
@@ -1177,6 +1254,7 @@ ID: %s
     <string name="playlist_type_recommend">Популярные плейлисты</string>
     <string name="please_agree_protocal">Примите Протокол</string>
     <string name="please_download_first">Перед установкой на звонок трек необходимо загрузить</string>
+    <string name="please_select_report_reason">Укажите причину</string>
     <string name="please_select_song">Сначала выберите трек</string>
     <string name="pm">PM</string>
     <string name="power_save_mode_dialog_msg">Включена экономия заряда. Начать загрузку?</string>
@@ -1205,9 +1283,12 @@ ID: %s
     <string name="protocal_dialog_cancel">Отмена</string>
     <string name="protocal_dialog_confirm">Принимаю</string>
     <string name="protocal_dialog_title">Внимание</string>
+    <string name="psw_hint">Пароль</string>
+    <string name="psw_sign_in">Войти по паролю</string>
     <string name="pulluprefreshrecyclerview_loading_error">Не удалось загрузить данные</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Успешно загружено</string>
     <string name="pulluprefreshrecyclerview_loading_running">Загрузка…</string>
+    <string name="qq_login_btn_content_description">Вход через QQ</string>
     <string name="queue_is_empty">Очередь пуста</string>
     <string name="ready_to_play">Следующий</string>
     <string name="recently_played">Недавние</string>
@@ -1240,7 +1321,14 @@ ID: %s
     <string name="request_privacy_permission_title">Прочтите и примите условия ниже для доступа ко всем сервисам.</string>
     <string name="request_share_info">Подождите…</string>
     <string name="request_subscription_status">Подождите…</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что сообщение не попало в папку со спамом.</string>
+    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_email_success">Отправлено</string>
+    <string name="restart_action">Начать сначала</string>
     <string name="restart_immediate">Перезапуск</string>
+    <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Начать сначала?</string>
+    <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
     <string name="retry">Повторить</string>
     <string name="retry_after_network_available">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
     <string name="retry_download">Повторить</string>
@@ -1252,6 +1340,7 @@ ID: %s
     <string name="ringtones_stop">Остановить</string>
     <string name="ringtones_successful">Рингтон установлен успешно</string>
     <string name="root_downloads">Загрузки</string>
+    <string name="rule">Правила</string>
     <string name="s1">Сохранить изображение</string>
     <string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
     <string name="s3">Разрешить</string>
@@ -1259,6 +1348,7 @@ ID: %s
     <string name="s5">Создать мероприятие</string>
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
+    <string name="same_new_and_old_pwd">Новый пароль не может совпадать с текущим паролем</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
@@ -1299,14 +1389,18 @@ ID: %s
     <string name="selected_count">Выбрано %1$d из %2$d</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
+    <string name="send_email_activate_message">Сообщение для подтверждения успешно отправлено</string>
     <string name="send_to_title">Отправить (%1$s)</string>
+    <string name="sending">Отправка…</string>
     <string name="service_and_settings">Аккаунт и настройки</string>
+    <string name="service_error">Ошибка сервера</string>
     <string name="set_as_alarm_clock_ringtone">Будильник</string>
     <string name="set_as_ring">Установить на звонок</string>
     <string name="set_online_home_subtitle">Открывать онлайн рекомендации при запуске приложения</string>
     <string name="set_online_home_title">Онлайн рекомендации</string>
     <string name="set_ringtones_failed">Не удалось установить на звонок</string>
     <string name="set_ringtones_successful">Трек \"%s\" установлен на звонок</string>
+    <string name="set_success">Изменения сохранены</string>
     <string name="setting_feature_setting">Настройки функций</string>
     <string name="settings">Настройки</string>
     <string name="settings_search_key_notification">Уведомления Музыки;Музыка;Уведомления;треки</string>
@@ -1329,6 +1423,9 @@ ID: %s
     <string name="shuffle_off_notif">Перемешивание отключено.</string>
     <string name="shuffle_on_notif">Перемешивание включено.</string>
     <string name="shuffle_play_toast_text">Перемешивание треков…</string>
+    <string name="sign_in">Выполняется вход</string>
+    <string name="sign_in_progress">Выполняется вход…</string>
+    <string name="sign_in_title">Войдите в свой Mi аккаунт</string>
     <string name="signout_popup_title_nopassword">Внимание</string>
     <string name="similar_albums">Похожие альбомы</string>
     <string name="similar_playlists">Похожие плейлисты</string>
@@ -1341,6 +1438,10 @@ ID: %s
     <string name="sleep_mode_summary">Остановить плеер через заданное время</string>
     <string name="sleep_mode_title">Таймер сна</string>
     <string name="sliding_pro_center">PRO центр</string>
+    <string name="sms_send_success">Отправлено</string>
+    <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
+    <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
+    <string name="sns_sign_in">Другие способы входа</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -1435,6 +1536,7 @@ ID: %s
     <string name="talkback_pre">Предыдущий трек</string>
     <string name="talkback_search">Поиск</string>
     <string name="talkback_show_navigation_draw">Показать меню</string>
+    <string name="temporary_not_available">Эта функция пока недоступна</string>
     <string name="terms_of_service">Условия использования</string>
     <string name="test_mode">Тестовый режим</string>
     <string name="text_separator">|</string>
@@ -1481,6 +1583,9 @@ ID: %s
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
+    <string name="ticket_hint">Код подтверждения</string>
+    <string name="ticket_invalid">Код введен неверно</string>
+    <string name="ticket_sign_in">Войти через SMS</string>
     <string name="ticket_summary">Приобретайте билеты на спектакли, концерты, и другие мероприятия.</string>
     <string name="ticket_title">Показать билеты</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
@@ -1507,6 +1612,7 @@ ID: %s
     <string name="toast_my_playlist_set_to_private">Плейлист закрыт и никому не доступен</string>
     <string name="toast_my_playlist_set_to_public">Плейлист доступен всем</string>
     <string name="toast_my_playlist_sync_failed">Не удалось синхронизировать плейлисты из-за ошибки сети</string>
+    <string name="toast_network_error">Ошибка сети</string>
     <string name="toast_new_playlist_name_no_enter">Не удалось начать новый абзац</string>
     <string name="toast_new_playlist_name_too_long">Имя плейлиста слишком длинное</string>
     <string name="toast_normal_songs_for_download">Качество загрузок: стандартное</string>
@@ -1537,10 +1643,16 @@ ID: %s
     <string name="unlimited_downloads">Неограниченные загрузки</string>
     <string name="unlimited_offline_songs">Неограниченные локальные треки</string>
     <string name="unlimited_skips">Неограниченные пропуски</string>
+    <string name="update_button">Обновить</string>
+    <string name="update_email_address_dialog_message">Перед изменением электронной почты для восстановления необходимо подтвердить вашу личность.</string>
+    <string name="update_email_address_dialog_title">Обновить адрес электронной почты для восстановления</string>
     <string name="update_now">ОБНОВИТЬ</string>
+    <string name="update_phone_notice">Измените настройки безопасности</string>
+    <string name="update_popup_button_yes">Обновить</string>
     <string name="upgrade_music">Обновите приложение Музыка</string>
     <string name="upgrade_music_message">Перезапустите для обновления.</string>
     <string name="upgrading_in_backstage">Обновление в фоновом режиме…</string>
+    <string name="upload_error_log">Загрузить журнал</string>
     <string name="upload_favorite_dialog_title">Загрузите контент в облако, чтобы иметь доступ к ним на других синхронизированных устройствах. Вы можете отключить эту функцию в настройках.</string>
     <string name="upload_favorite_setting_summary">Загрузка контента в облако для доступа к ним на других устройствах</string>
     <string name="upload_favorite_setting_title">Синхронизация</string>
@@ -1548,6 +1660,7 @@ ID: %s
     <string name="upload_playlist_to_hungama_positive_text">Синхронизировать</string>
     <string name="upload_playlist_to_hungama_title">Синхронизируйте онлайн-контент с Hungama, чтобы иметь доступ к ним на других устройствах с Xiaomi аккаунтом.</string>
     <string name="upload_playlist_to_hungama_toast">Онлайн контент будет синхронизирован с Hungama</string>
+    <string name="user_account_cancel_toast">Этот аккаунт удален</string>
     <string name="user_agreement">Условия использования</string>
     <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
@@ -1561,8 +1674,10 @@ ID: %s
     <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
     <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
+    <string name="user_avatar_update_title">Изменить фото профиля</string>
     <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_experience_program_open">В связи с ограничениями авторских прав, необходимо зарегистрироваться в Программе улучшения качества, чтобы иметь возможность воспроизводить загруженные песни. Это можно сделать в разделе Настройки > Пароли и защита > Конфиденциальность > Программа улучшения качества.</string>
+    <string name="user_id_hint">Эл. почта/Номер телефона/ID Mi аккаунта</string>
     <string name="user_name_phone_number">Номер телефона</string>
     <string name="user_playlist_plaza">Плейлисты</string>
     <string name="user_privacy_dialog_negative_text">Отмена</string>
@@ -1576,6 +1691,7 @@ ID: %s
     <string name="user_profile_follow_count">Подписки: %s</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="v_code_title">Введите код подтверждения</string>
     <string name="version_info">Версия</string>
     <string name="vhigh_sound_quality">HD</string>
     <string name="video_play_cellular">Подключение к Wi-Fi отсутствует. Использовать мобильный интернет?</string>
@@ -1627,8 +1743,10 @@ ID: %s
     <string name="yandex_ads_internal_tools_call_to_action_text">Перейти на сайт</string>
     <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и недорогих машин на Авто.ру</string>
     <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+    <string name="yes">да</string>
     <string name="yesterday">Вчера</string>
-    <string name="you_can_switch_mode_in_settings">Вы можете переключить режим в настройках</string>
+    <string name="you">Вы</string>
+    <string name="you_can_switch_mode_in_settings">Вы можете изменить режим в настройках</string>
     <string name="you_may_like">Вам также может понравиться</string>
-    <string name="youtube_play_history">История воспроизведения</string>
+    <string name="youtube_play_history">История просмотров</string>
 </resources>

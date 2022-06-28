@@ -2503,6 +2503,7 @@
     <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
     <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
     <string name="google_authority">com.android.quicksearchbox.google</string>
+    <string name="google_client_id">104679324016548960094</string>
     <string name="google_crash_reporting_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
     <string name="google_parent">Google</string>
     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
