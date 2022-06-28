@@ -428,7 +428,7 @@
     <string name="particulate_matter_not_exceeded">Норма</string>
     <string name="particulate_matter_serious_exceeded">Сильное превышение</string>
     <string name="permission_device_info">Информация об устройстве</string>
-    <string name="permission_device_introduce">Для распознавания ID устройства на основе модели устройства и IMEI и предоставления локализованных услуг на основе языковых предпочтений</string>
+    <string name="permission_device_introduce">Для распознавания устройства на основе модели и предоставления локализованных услуг на основе языковых предпочтений</string>
     <string name="permission_exit">Выход</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
     <string name="permission_select_all">Выбрать все</string>
