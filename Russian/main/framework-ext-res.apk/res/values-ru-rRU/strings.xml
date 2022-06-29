@@ -314,6 +314,9 @@
     <string name="monet">Пруд с лилиями</string>
     <string name="morning">Утро</string>
     <string name="mountainspring">Горный ручей</string>
+    <string name="mw_guide_dialog_button_confirm">Понятно</string>
+    <string name="mw_guide_dialog_message">Приложение не поддерживает разделение экрана и переключено на другой режим отображения</string>
+    <string name="mw_guide_dialog_title">Внимание</string>
     <string name="nearby_share">Nearby Share</string>
     <string name="notice_audition">Звуки природы</string>
     <string name="notification_channel_hotspot">Уведомление точки доступа</string>

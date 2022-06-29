@@ -10592,7 +10592,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant_disconnect">Отключиться</string>
     <string name="wifi_assistant_explicitly_confirm_data_message">Эта сеть Wi-Fi не имеет доступа в интернет. Переключиться на мобильный интернет?</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">Отключиться от сети Wi-Fi?</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">Доступна другая сеть Wi-Fi. Переключиться?</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">Переключиться на другую доступную сеть Wi-Fi?</string>
     <string name="wifi_assistant_keep_connection">Оставить</string>
     <string name="wifi_assistant_keep_wifi_connection">Оставить</string>
     <string name="wifi_assistant_off">Откл.</string>
@@ -10604,7 +10604,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant_prompt_summary">Устройство будет переключаться на другие доступные сети Wi-Fi или мобильный интернет, если текущая сеть Wi-Fi без интернета.</string>
     <string name="wifi_assistant_setup_wifi_assistant">Настроить</string>
     <string name="wifi_assistant_summary">Переключаться на другие доступные Wi-Fi сети или мобильный интернет, если текущая сеть Wi-Fi без интернета</string>
-    <string name="wifi_assistant_switch_data">Переключиться</string>
+    <string name="wifi_assistant_switch_data">Мобильный интернет</string>
     <string name="wifi_assistant_switch_wifi">Переключиться</string>
     <string name="wifi_auto_connect">Автоподключение</string>
     <string name="wifi_auto_connect_summary">Разрешить автоподключение к сети в зоне её действия</string>
