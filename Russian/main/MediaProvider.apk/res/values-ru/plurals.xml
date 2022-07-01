@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Разрешить ^1 удалить ^2 аудиофайлов?</item>
+        <item quantity="one">Разрешить ^1 удалить ^2 аудиофайл?</item>
+        <item quantity="few">Разрешить ^1 удалить ^2 аудиофайла?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Разрешить ^1 удалить ^2 файлов?</item>
+        <item quantity="one">Разрешить ^1 удалить ^2 файл?</item>
+        <item quantity="few">Разрешить ^1 удалить ^2 файла?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Разрешить ^1 удалить ^2 фото?</item>
+        <item quantity="one">Разрешить ^1 удалить ^2 фото?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Разрешить ^1 удалить ^2 видео?</item>
+        <item quantity="one">Разрешить ^1 удалить ^2 видео?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Включая ^1 дополнительных файлов</item>
+        <item quantity="one">Включая ^1 дополнительный файл</item>
+        <item quantity="few">Включая ^1 дополнительных файла</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_progress_delete_audio">
+        <item quantity="other">Удаление ^1 аудиофайлов…</item>
+        <item quantity="one">Удаление аудиофайла…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_generic">
+        <item quantity="other">Удаление ^1 файлов…</item>
+        <item quantity="one">Удаление файла…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_image">
+        <item quantity="other">Удаление ^1 фото…</item>
+        <item quantity="one">Удаление фото…</item>
+    </plurals>
+    <plurals name="permission_progress_delete_video">
+        <item quantity="other">Удаление ^1 видео…</item>
+        <item quantity="one">Удаление видео…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_audio">
+        <item quantity="other">Перемещение ^1 аудиофайлов в корзину…</item>
+        <item quantity="one">Перемещение аудиофайла в корзину…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_generic">
+        <item quantity="other">Перемещение ^1 файлов в корзину…</item>
+        <item quantity="one">Перемещение файла в корзину…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_image">
+        <item quantity="other">Перемещение ^1 фото в корзину…</item>
+        <item quantity="one">Перемещение фото в корзину…</item>
+    </plurals>
+    <plurals name="permission_progress_trash_video">
+        <item quantity="other">Перемещение ^1 видео в корзину…</item>
+        <item quantity="one">Перемещение видео в корзину…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_audio">
+        <item quantity="other">Перемещение ^1 аудиофайлов из корзины…</item>
+        <item quantity="one">Перемещение аудиофайла из корзины…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_generic">
+        <item quantity="other">Перемещение ^1 файлов из корзины…</item>
+        <item quantity="one">Перемещение файла из корзины…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_image">
+        <item quantity="other">Перемещение ^1 фото из корзины…</item>
+        <item quantity="one">Перемещение фото из корзины…</item>
+    </plurals>
+    <plurals name="permission_progress_untrash_video">
+        <item quantity="other">Перемещение ^1 видео из корзины…</item>
+        <item quantity="one">Перемещение видео из корзины…</item>
+    </plurals>
+    <plurals name="permission_progress_write_audio">
+        <item quantity="other">Изменение ^1 аудиофайлов…</item>
+        <item quantity="one">Изменение аудиофайла…</item>
+    </plurals>
+    <plurals name="permission_progress_write_generic">
+        <item quantity="other">Изменение ^1 файлов…</item>
+        <item quantity="one">Изменение аудиофайла…</item>
+    </plurals>
+    <plurals name="permission_progress_write_image">
+        <item quantity="other">Изменение ^1 фото…</item>
+        <item quantity="one">Изменение фото…</item>
+    </plurals>
+    <plurals name="permission_progress_write_video">
+        <item quantity="other">Изменение ^1 видео…</item>
+        <item quantity="one">Изменение видео…</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Разрешить ^1 переместить ^2 аудиофайлов в корзину?</item>
+        <item quantity="one">Разрешить ^1 переместить аудиофайл в корзину?</item>
+        <item quantity="few">Разрешить ^1 переместить ^2 аудиофайла в корзину?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Разрешить ^1 переместить ^2 файлов в корзину?</item>
+        <item quantity="one">Разрешить ^1 переместить файл в корзину?</item>
+        <item quantity="few">Разрешить ^1 переместить ^2 файла в корзину?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Разрешить ^1 переместить ^2 фото в корзину?</item>
+        <item quantity="one">Разрешить ^1 переместить фото в корзину?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Разрешить ^1 переместить ^2 видео в корзину?</item>
+        <item quantity="one">Разрешить ^1 переместить видео в корзину?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Разрешить ^1 переместить ^2 аудиофайлов из корзины?</item>
+        <item quantity="one">Разрешить ^1 переместить аудиофайл из корзины?</item>
+        <item quantity="few">Разрешить ^1 переместить ^2 аудиофайла из корзины?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Разрешить ^1 переместить ^2 файлов из корзины?</item>
+        <item quantity="one">Разрешить ^1 переместить файл из корзины?</item>
+        <item quantity="few">Разрешить ^1 переместить ^2 файла из корзины?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Разрешить ^1 переместить ^2 фото из корзины?</item>
+        <item quantity="one">Разрешить ^1 переместить фото из корзины?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Разрешить ^1 переместить ^2 видео из корзины?</item>
+        <item quantity="one">Разрешить ^1 переместить видео из корзины?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Разрешить ^1 изменить ^2 аудиофайлов?</item>
+        <item quantity="one">Разрешить ^1 изменить аудиофайл?</item>
+        <item quantity="few">Разрешить ^1 изменить ^2 аудиофайла?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Разрешить ^1 изменить ^2 файлов?</item>
+        <item quantity="one">Разрешить ^1 изменить файл?</item>
+        <item quantity="few">Разрешить ^1 изменить ^2 файла?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Разрешить ^1 изменить ^2 фото?</item>
+        <item quantity="one">Разрешить ^1 изменить фото?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Разрешить ^1 изменить ^2 видео?</item>
+        <item quantity="one">Разрешить ^1 изменить видео?</item>
+    </plurals>
+</resources>

@@ -630,8 +630,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
-<!-- ### FROM SOURCE -->
-    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="multi_selecting_tips">Нажмите и удерживайте для перемещения</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Проведите вверх от нижнего края экрана, затем влево или вправо</string>
