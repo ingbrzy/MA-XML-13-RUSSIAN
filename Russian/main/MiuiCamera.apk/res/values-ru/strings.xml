@@ -429,9 +429,9 @@
     <string name="button_fisheye_camera_title">Рыбий глаз</string>
     <string name="button_front_camera_title">Фронтальная камера</string>
     <string name="button_normal_video_title">Запись видео</string>
-    <string name="camcorder_tip_8k_max_video_duration">Вы можете записать до %1$d мин. видео в разрешении 8K</string>
-    <string name="camcorder_tip_current_max_video_duration">Вы можете записать до %d мин. видео в текущем разрешении</string>
-    <string name="camcorder_tip_super_night_video_4k_max_video_duration">Вы можете записать до %d мин. видео в разрешении 4K</string>
+    <string name="camcorder_tip_8k_max_video_duration">Можно записать до %1$d мин. видео в разрешении 8K</string>
+    <string name="camcorder_tip_current_max_video_duration">Можно записать до %d мин. видео в текущем разрешении</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">Можно записать до %d мин. видео в разрешении 4K</string>
     <string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
     <string name="camera_error_title">Ошибка камеры</string>
     <string name="camera_facedetection_sub_option_hint">Экспериментальная функция</string>
@@ -570,11 +570,11 @@
     <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
     <string name="confirm_restore_title">Сброс настроек</string>
     <string name="copy">Копировать</string>
-    <string name="cta_mimoji_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие разрешения для сбора вашей личной информации:</string>
+    <string name="cta_mimoji_msg">Добро пожаловать в приложение Камера! Это приложение можно использовать для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие разрешения для сбора вашей личной информации:</string>
     <string name="cta_mimoji_perm_type">Обязательные разрешения (для основных функций и сервисов приложения)</string>
     <string name="cta_mimoji_user_links"><Data>Перед использованием приложения прочтите и примите наши &lt;a href ="%1$s">Пользовательское соглашение&lt;/a> и &lt;a href ="%2$s">Политику конфиденциальности&lt;/a>.</Data></string>
     <string name="cta_mimoji_user_tips">Если вы не предоставите обязательные разрешения или не разрешите использовать личную информацию, вы не сможете использовать приложение. Если вы не предоставите дополнительные разрешения, вы не сможете использовать некоторые функции приложения, однако основные функции по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать свое согласие в настройках.</string>
-    <string name="cta_msg">Добро пожаловать в приложение Камера! Вы можете использовать это приложение для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
+    <string name="cta_msg">Добро пожаловать в приложение Камера! Это приложение можно использовать для съемки фото и видео. Разрешите приложению подключение к интернету и предоставьте следующие дополнительные разрешения:</string>
     <string name="cta_perm_cam">Камера</string>
     <string name="cta_perm_cam_desc">Съемка фото и видео</string>
     <string name="cta_perm_dec">Добавление информации о местоположении в фото и видео</string>
@@ -1474,7 +1474,7 @@
     <string name="pref_camera_facedetection_auto_hidden_title">Автоматически скрывать рамку обнаружения лица</string>
     <string name="pref_camera_facedetection_title">Обнаружение лица</string>
     <string name="pref_camera_fastmotion_duration">Продолжительность</string>
-    <string name="pref_camera_fastmotion_duration_description">Продолжительность съемки по умолчанию не ограничена. Вы можете установить таймер для остановки съемки по истечению заданного времени.</string>
+    <string name="pref_camera_fastmotion_duration_description">Продолжительность съемки по умолчанию не ограничена. Можно установить таймер для остановки съемки по истечению заданного времени.</string>
     <string name="pref_camera_fastmotion_duration_infinity">Без ограничения</string>
     <string name="pref_camera_fastmotion_duration_unit">%1$s в минуту</string>
     <string name="pref_camera_fastmotion_speed">Скорость</string>
@@ -2250,7 +2250,7 @@
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
     <string name="vv_duartion_hint">%1$s | Сегмент %2$d | %3$s сек.</string>
-    <string name="vv_hint">Вы можете снимать видеоблоги только в ландшафтном режиме</string>
+    <string name="vv_hint">Съемка видеоблога доступна только в ландшафтном режиме</string>
     <string name="vv_mode_menu_item_name">ВЛОГ</string>
     <string name="vv_stability_hint">Держите устройство неподвижно</string>
     <string name="vv_start">Съемка</string>

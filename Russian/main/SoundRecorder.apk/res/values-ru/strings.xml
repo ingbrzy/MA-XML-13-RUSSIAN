@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="add_remark_hint">Добавьте комментарий</string>
     <string name="add_remark_tip">Нажмите, чтобы добавить комментарий</string>
@@ -296,6 +297,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="network_tip_dialog_cancel">Отмена</string>
     <string name="network_tip_dialog_content">Приложению Диктофон для нормальной работы требуется подключение к интернету. Разрешить?</string>
     <string name="network_tip_dialog_ok">Разрешить</string>
@@ -394,6 +397,7 @@
     <string name="privacy_policy_title">Политика конфиденциальности</string>
     <string name="privacy_settings">Конфиденциальность</string>
     <string name="progress">Индикатор прогресса</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="recognition_button_add_to_queue">Добавить в очередь</string>
     <string name="recognition_button_cancel">Не сейчас</string>
     <string name="recognition_button_start">Начать</string>
@@ -568,6 +572,7 @@
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sync_desc_state_complete">Синхронизировано: %1$s</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="tab_all">Все</string>
     <string name="tab_apps">Приложения</string>
     <string name="tab_call">Вызовы</string>
@@ -651,6 +656,7 @@
     <string name="tuesday_shortest">Вт</string>
     <string name="uninstall_warning_content">Приложение \"Диктофон\" является системным. После удаления вы не сможете записывать и транскрибировать аудио и голосовые вызовы.</string>
     <string name="uninstall_warning_title">Удалить \"Диктофон\"?</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="usage_description">Транскрибирование аудио и синхронизация элементов с облаком</string>
     <string name="user_feedback">Обратная связь</string>
     <string name="v7_preference_off">ОТКЛ.</string>

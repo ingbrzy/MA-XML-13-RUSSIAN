@@ -1113,7 +1113,7 @@
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="view_float_window_move">Перемещение калькулятора</string>
     <string name="voiceDesc">Голосовое управление</string>
-    <string name="voice_guide_text">Вы можете здесь включить речевой вывод</string>
+    <string name="voice_guide_text">Здесь можно включить речевой вывод</string>
     <string name="warn_locale_unsupport_for_voice">Голосовой вывод для этого языка пока не поддерживается.</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>

@@ -938,7 +938,7 @@ mm"</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
-    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="protocal_dialog_cancel">Отмена</string>
     <string name="protocal_dialog_confirm">Принимаю</string>
     <string name="protocal_dialog_title">Внимание</string>

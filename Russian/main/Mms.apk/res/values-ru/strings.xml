@@ -322,7 +322,7 @@
     <string name="fake_cell_safe_hint">Это сообщение безопасно</string>
     <string name="fake_cell_timeout_hint">Не удалось проверить безопасность</string>
     <string name="favorite_at_time">Добавлено в избранные: %1s</string>
-    <string name="fdn_check_failure">Вы можете отправлять сообщения только на номера из списка разрешенных.</string>
+    <string name="fdn_check_failure">Можно отправлять сообщения только на номера из списка разрешенных.</string>
     <string name="feature_mx">Mi Сообщения</string>
     <string name="feature_mx_summary"><b>Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет</b>. Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение. Перед использованием этого сервиса прочтите и примите <font color="#B3000000"><a href="http://url1">Пользовательское соглашение</a></font> и <font color="#B3000000"><a href="http://url2">Политику конфиденциальности</a></font>.</string>
     <string name="feature_smart_sms">Умные сообщения</string>
@@ -1022,7 +1022,7 @@
     <string name="rcs_send_rms_remind_title">Используйте 5G Сообщения</string>
     <string name="rcs_service_agreement">Условия использования</string>
     <string name="rcs_setting">Настройки 5G Сообщений</string>
-    <string name="rcs_setting_tips">Вы можете изменить альтернативные способы доставки в настройках.</string>
+    <string name="rcs_setting_tips">Альтернативные способы доставки можно изменить в настройках.</string>
     <string name="rcs_silence_message">Приглушать уведомления</string>
     <string name="rcs_summary_auto_resend_mms">Отправлять мультимедийные 5G сообщения в виде MMS через мобильную сеть, когда нет подключения Wi-Fi. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="rcs_summary_auto_resend_sms">Отправлять текстовые 5G сообщения в виде SMS через мобильную сеть, когда нет подключения Wi-Fi. Оплата взимается согласно тарифу вашего оператора.</string>
@@ -1046,9 +1046,9 @@
     <string name="recommend_bar_title_mx_rcs">Mi Сообщения</string>
     <string name="recommend_bar_title_smart_message">Умные сообщения</string>
     <string name="recommend_both_dialog_title">Добро пожаловать в Сообщения!</string>
-    <string name="recommend_dialog_message">Вы можете включить Mi Сообщения и Умные сообщения для доступа к дополнительным функциям.</string>
+    <string name="recommend_dialog_message">Включите Mi Сообщения и Умные сообщения для доступа к дополнительным функциям.</string>
     <string name="recommend_mx_dialog_title">Добро пожаловать в Mi Сообщения!</string>
-    <string name="recommend_mx_setting_summary">\"Mi Сообщения\" позволяет отправлять сообщения другим пользователям через интернет без дополнительной оплаты.</string>
+    <string name="recommend_mx_setting_summary">\"Mi Сообщения\" позволяют отправлять сообщения другим пользователям через интернет без дополнительной оплаты.</string>
     <string name="recommend_smart_sms_dialog_title">Добро пожаловать в Умные сообщения!</string>
     <string name="recommend_smart_sms_setting_summary">Умные сообщения обеспечивают распознавание ID отправителя и интеллектуальные меню.</string>
     <string name="recording_failed">Ошибка записи</string>
@@ -1300,7 +1300,7 @@
     <string name="system_permission_declare_privacy_declare_new">Приложению для нормальной работы требуются подключение к интернету и следующие разрешения:</string>
     <string name="system_permission_declare_privacy_link">Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите %1s.</string>
     <string name="system_permission_declare_rcs">Добро пожаловать в 5G Сообщения!</string>
-    <string name="system_permission_declare_revoke_path">Вы можете отменить авторизацию и отключить сервисы в настройках Сообщений.</string>
+    <string name="system_permission_declare_revoke_path">Отменить авторизацию и отключить сервисы можно в настройках Сообщений.</string>
     <string name="system_permission_declare_single_link">Перед использованием этого сервиса прочтите и примите %1s.</string>
     <string name="system_permission_declare_smart_message">Добро пожаловать в Умные сообщения!</string>
     <string name="system_permission_declare_triple_link" formatted="false">"%1s. 
@@ -1313,7 +1313,7 @@
     <string name="system_permission_disabled">Не предоставлено</string>
     <string name="system_permission_enabled">Предоставлено</string>
     <string name="system_permission_perm_agree_desc">Предоставьте этому приложению доступ к интернету и дополнительные разрешения, чтобы использовать все его функции</string>
-    <string name="system_permission_perm_all_purpose">Добро пожаловать в Сообщения! Вы можете использовать это приложение для отправки и получения текстовых и мультимедийных сообщений.</string>
+    <string name="system_permission_perm_all_purpose">Добро пожаловать в Сообщения! Это приложение можно использовать для отправки и получения текстовых и мультимедийных сообщений.</string>
     <string name="system_permission_perm_answer_call">Вызовы</string>
     <string name="system_permission_perm_calendar">Для создания мероприятий календаря</string>
     <string name="system_permission_perm_call_log">Для доступа к недавним контактам при создании сообщений</string>

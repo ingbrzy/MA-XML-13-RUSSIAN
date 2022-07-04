@@ -534,7 +534,7 @@
     <string name="joke_card_long_click_toast">Скопировано</string>
     <string name="joke_card_paste_suffix">[календарь MIUI]</string>
     <string name="landscape_week_view">Альбомная ориентация</string>
-    <string name="language_change_confirmation">Успешно изменено. Вы можете изменить язык в настройках календаря.</string>
+    <string name="language_change_confirmation">Успешно изменено. Язык можно изменить в настройках календаря.</string>
     <string name="latest_sync_time">Синхронизировано %1$s</string>
     <string name="launch_weather_comment">Нажмите для получения информации о погоде</string>
     <string name="library_cert4android_author">Рики Хирнер</string>
@@ -967,7 +967,7 @@
     <string name="privacy_card_description">Примите нашу Политику конфиденциальности для доступа ко всем функциям.</string>
     <string name="privacy_policy_dialog_agree">Принимаю</string>
     <string name="privacy_policy_dialog_dont_agree">Отмена</string>
-    <string name="privacy_policy_dialog_message"><Data>"Добро пожаловать в Календарь!&lt;br/>Вы можете использовать это приложение для создания мероприятий и управления ими, установки напоминаний, получения дополнительной информации на основе местоположения.&lt;br/>Для предоставления основных сервисов разрешите приложению Календарь сбор некоторой личной информации. Вы можете узнать как мы обрабатываем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>.&lt;br/>Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. Вы можете в любой момент отозвать свое согласие с настройках.&lt;br/> В случае несогласия с нашей Политикой конфиденциальности, вы не сможете использовать некоторые функции приложения, однако его базовая функциональность по-прежнему будет доступна."</Data></string>
+    <string name="privacy_policy_dialog_message"><Data>"Добро пожаловать в Календарь!&lt;br/>Это приложение можно использовать для создания мероприятий и управления ими, установки напоминаний, получения дополнительной информации на основе местоположения.&lt;br/>Для предоставления основных сервисов разрешите приложению Календарь сбор некоторой личной информации. Как обрабатывается собранная информация можно узнать в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>.&lt;br/>Перед использованием приложения прочтите и примите наши &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>. Согласие можно отзвать в любой момент в настройках.&lt;br/> В случае несогласия с нашей Политикой конфиденциальности, вы не сможете использовать некоторые функции приложения, однако его базовая функциональность по-прежнему будет доступна."</Data></string>
     <string name="privacy_policy_dialog_title">Условия и положения</string>
     <string name="privacy_revoke_switch_text">Отзыв согласия</string>
     <string name="productivity_add_event">Создать мероприятие</string>
@@ -1406,7 +1406,7 @@
     <string name="trust_certificate_issued_by">Выдан</string>
     <string name="trust_certificate_issued_for">Выдано для</string>
     <string name="trust_certificate_reject">Отклонить</string>
-    <string name="trust_certificate_reset_info">Вы можете сбросить все пользовательские сертификаты в настройках приложения.</string>
+    <string name="trust_certificate_reset_info">Пользовательские сертификаты можно сбросить в настройках приложения.</string>
     <string name="trust_certificate_unknown_certificate_found">cert4android обнаружил неизвестный сертификат. Доверять этому сертификату?</string>
     <string name="trust_certificate_validity_period">Срок действия</string>
     <string name="trust_certificate_validity_period_value">%1$s – %2$s (без проверки)</string>

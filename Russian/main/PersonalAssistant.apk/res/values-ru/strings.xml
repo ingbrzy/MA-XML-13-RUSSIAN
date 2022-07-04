@@ -997,7 +997,7 @@ ID:%s
     <string name="express_setting_authorized_number_delete">Удалить</string>
     <string name="express_setting_authorized_number_description">Используя эту функцию, вы соглашаетесь, что мы предоставим ваш номер телефона соответствующим поставщикам услуг. Ваш номер телефона будет использоваться только для запроса и отображения информации о заказе экспресс-доставки.</string>
     <string name="express_setting_authorized_number_empty">Вы еще не подтвердили свой номер телефона.</string>
-    <string name="express_setting_authorized_number_limit">Вы можете добавить до 4 телефонных номеров.</string>
+    <string name="express_setting_authorized_number_limit">Можно добавить до 4 телефонных номеров.</string>
     <string name="express_setting_brief">Отслеживание экспресс-доставки</string>
     <string name="express_setting_brief_detail">Отслеживайте все свои посылки, используя свой номер телефона и информацию о заказе.</string>
     <string name="express_setting_code_invalid">Убедитесь, что вы ввели правильный код</string>
@@ -2312,7 +2312,7 @@ ID:%s
     <string name="setting_football_hupu">HuPu</string>
     <string name="setting_football_loading">Подождите…</string>
     <string name="setting_football_select_title">Выберите команды, чтобы следить за ними</string>
-    <string name="setting_football_toast_max">Вы можете выбрать до 4 команд</string>
+    <string name="setting_football_toast_max">Можно выбрать до 4 команд</string>
     <string name="setting_home_label">Добавить домашний адрес</string>
     <string name="setting_launch_all_added">Больше нельзя добавить</string>
     <string name="setting_launch_change">Изменить</string>

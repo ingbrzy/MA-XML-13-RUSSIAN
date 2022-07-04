@@ -674,7 +674,7 @@
     <string name="unknown_ringtone_title">Неизвестный</string>
     <string name="unselect_all">Отменить</string>
     <string name="upcoming_alarm">Будильник: %s</string>
-    <string name="upcoming_alarm_hint">Вы можете отключить этот будильник</string>
+    <string name="upcoming_alarm_hint">Можно отключить этот будильник</string>
     <string name="update_health_app">Обновление приложения</string>
     <string name="update_health_app_desc">Функция отслеживания сна предоставляется приложением Mi Здоровье. Обновите приложение до последней версии, чтобы получить доступ к соответствующим функциям.</string>
     <string name="update_health_app_desc_new">Функция отслеживания сна предоставляется Mi Фитнес. Обновите Mi Фитнес до последней версии, чтобы получить доступ к соответствующим функциям.</string>

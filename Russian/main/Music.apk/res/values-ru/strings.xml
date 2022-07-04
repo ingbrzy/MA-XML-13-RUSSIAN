@@ -1268,7 +1268,7 @@ ID: %s
     <string name="privacy_authorize_revoking">Отмена авторизации…</string>
     <string name="privacy_desc">Политика конфиденциальности (обязательно)</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="privacy_request_desc"><Data>Приложению Музыка требуется согласие на сбор некоторой личной информации для предоставления онлайн-сервисов потокового вещания. Вы можете узнать, как мы обрабатываем собранную информацию в &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Вы можете в любой момент отозвать свое согласие в настройках.
+    <string name="privacy_request_desc"><Data>Приложению Музыка требуется согласие на сбор некоторой личной информации для предоставления онлайн-сервисов потокового вещания. Как мы обрабатываем собранную информацию можно узнать в &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Вы можете в любой момент отозвать свое согласие в настройках.
 Перед использованием приложения вы должны принять &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>.
 В случае отказа вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность по-прежнему будет вам доступна.</Data></string>
     <string name="privacy_request_subtitle">Добро пожаловать в приложение Музыка! Это приложение предоставляет следующие возможности:
@@ -1376,7 +1376,7 @@ ID: %s
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_clip_desc">Выберите фрагмент</string>
-    <string name="select_desc_sub">Вы можете выбрать до %d языков</string>
+    <string name="select_desc_sub">Можно выбрать до %d языков</string>
     <string name="select_device">Выберите устройство</string>
     <string name="select_displayed_folders">Выберите папки</string>
     <string name="select_local_album_cover">Выберите изображение</string>
@@ -1385,7 +1385,7 @@ ID: %s
     <string name="select_local_lyric_file">Выберите файл с текстом</string>
     <string name="select_none">Снять выбор</string>
     <string name="select_one_language">Выберите хотя бы %d язык</string>
-    <string name="select_three_languages">Вы можете выбрать до %d языков</string>
+    <string name="select_three_languages">Можно выбрать до %d языков</string>
     <string name="selected_count">Выбрано %1$d из %2$d</string>
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>

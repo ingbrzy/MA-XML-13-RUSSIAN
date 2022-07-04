@@ -91,11 +91,11 @@
         <item quantity="few">Посмотрите %d минуты, чтобы заработать баллы! Завершить задание?</item>
     </plurals>
     <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"Вы можете получить %d баллов.
+        <item quantity="other">"Можно получить %d баллов.
 Доступно только сегодня."</item>
-        <item quantity="one">"Вы можете получить %d балл.
+        <item quantity="one">"Можно получить %d балл.
 Доступно только сегодня."</item>
-        <item quantity="few">"Вы можете получить %d балла.
+        <item quantity="few">"Можно получить %d балла.
 Доступно только сегодня."</item>
     </plurals>
     <plurals name="incentive_guide_current_time_tip">

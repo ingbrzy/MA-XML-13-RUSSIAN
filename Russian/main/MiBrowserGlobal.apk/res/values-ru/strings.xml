@@ -1736,7 +1736,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="permission_mic">Микрофон</string>
     <string name="permission_non_essential">Дополнительные разрешения</string>
     <string name="permission_notification">отправлять уведомления.</string>
-    <string name="permission_notification_prompt">Вы можете запретить уведомления для этого сайта в настройках.</string>
+    <string name="permission_notification_prompt">Уведомления для этого сайта можно запретить в настройках.</string>
     <string name="permission_open_camera">Сначала разрешите Браузеру доступ к камере в Настройках.</string>
     <string name="permission_open_location">Сначала разрешите Браузеру использовать геолокацию в Настройках.</string>
     <string name="permission_open_mic">Сначала разрешите Браузеру доступ к микрофону в Настройках.</string>
@@ -2499,7 +2499,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="tip_drag">Удерживайте для изменения и перетаскивайте для сортировки</string>
     <string name="tip_not_support_external_sdcard_modify">Нельзя изменять файлы, сохраненные на SD-карте</string>
     <string name="tip_sync_disabled_by_incognito">Нельзя синхронизировать данные в режиме инкогнито.</string>
-    <string name="tip_sync_switch_off">Синхронизация отключена. Вы можете включить её в разделе \"Мой аккаунт\".</string>
+    <string name="tip_sync_switch_off">Синхронизация отключена. Включить её можно в разделе \"Мой аккаунт\".</string>
     <string name="title_app_tags">Приложения</string>
     <string name="title_bar_loading">Загрузка…</string>
     <string name="title_command_mode">Командный режим</string>
@@ -2776,9 +2776,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_file_saved_success">Сохранено</string>
     <string name="whatsapp_how_it_works">Как это работает</string>
     <string name="whatsapp_intro_dialog_title">Новая функция</string>
-    <string name="whatsapp_no_status_tips">Нет изображений или видео. Посмотрите статусы WhatsApp и вернитесь снова.</string>
-    <string name="whatsapp_principle_page_message">WhatsApp сохраняет просмотренные фото и видео в скрытую папку. Эти объекты удаляются каждые %1$d часа. Теперь вы можете сохранять их с помощью Браузера.</string>
-    <string name="whatsapp_principle_page_title">Вы можете сохранять изображения и видео из статусов в WhatsApp с помощью Браузера</string>
+    <string name="whatsapp_no_status_tips">Нет изображений или видео. Просмотрите статусы WhatsApp и вернитесь снова.</string>
+    <string name="whatsapp_principle_page_message">WhatsApp сохраняет просмотренные фото и видео в скрытую папку. Эти объекты удаляются каждые %1$d часа. Их сохранение доступно с помощью Браузера.</string>
+    <string name="whatsapp_principle_page_title">Можно сохранять изображения и видео из статусов в WhatsApp с помощью Браузера</string>
     <string name="whatsapp_principle_step_1">Откройте изображения и видео во вкладке \"Статус\" в приложении WhatsApp.</string>
     <string name="whatsapp_principle_step_2">Вернитесь сюда, чтобы сохранить их.</string>
     <string name="whatsapp_status_saver">Сохранение статусов WhatsApp</string>

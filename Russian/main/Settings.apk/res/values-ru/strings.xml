@@ -67,7 +67,7 @@
     <string name="access_control_password_title">Использовать пароль</string>
     <string name="access_control_recording_intro_header">Задайте графический ключ</string>
     <string name="access_control_reset_by_account">Войдите в Xiaomi Аккаунт для сброса пароля</string>
-    <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
+    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_audio_adjustment_title">Корректировка аудио</string>
     <string name="accessibility_autoclick_custom_title">Настройка</string>
@@ -7293,7 +7293,7 @@ OTG отключается автоматически через 10 минут �
     <string name="progress_dialog_speaker_auto_clean_button">Остановить</string>
     <string name="progress_dialog_speaker_auto_clean_title">Очистка динамика…</string>
     <string name="progress_scanning">Поиск</string>
-    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="promote_conversation_summary">Добавить в раздел диалогов</string>
     <string name="promote_conversation_title">Это диалог</string>
     <string name="provider_internet_settings">Интернет</string>
@@ -8125,7 +8125,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secure_keyguard_business_title">Защита устройства</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
     <string name="security_center_title">Безопасность</string>
-    <string name="security_check_progress_dialog_message">Проверка наличия проблем с безопасностью…</string>
+    <string name="security_check_progress_dialog_message">Проверка безопасности…</string>
     <string name="security_dashboard_summary">Блокировка экрана, сервис \"Найти устройство\", безопасность приложений</string>
     <string name="security_dashboard_summary_face">Блокировка экрана, разблокировка по лицу</string>
     <string name="security_dashboard_summary_no_fingerprint">Блокировка экрана</string>

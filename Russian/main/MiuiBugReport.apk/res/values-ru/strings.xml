@@ -207,7 +207,7 @@ ID: %s
     <string name="feedback_answer_detail_feedback_unresolved">Нет</string>
     <string name="feedback_answer_detail_relative_question">Это может быть актуально</string>
     <string name="feedback_answer_detail_submit_dialog_confirm">Отправить</string>
-    <string name="feedback_answer_detail_submit_dialog_content">Вы можете описать проблему, с которой столкнулись, и мы постараемся её исправить. Отправить отзыв?</string>
+    <string name="feedback_answer_detail_submit_dialog_content">Опишите проблему с которой столкнулись, и мы постараемся её исправить. Отправить отзыв?</string>
     <string name="feedback_answer_detail_submit_dialog_title">Отправить отзыв?</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s проблема \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Выберите проблему</string>
@@ -699,7 +699,7 @@ ID: %s
 %2$s
 Прежде чем продолжить, прочтите и примите обновленную %3$s."</string>
     <string name="privacy_policy_update_title">Обновленная Политика конфиденциальности</string>
-    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="protocal_dialog_cancel">Отмена</string>
     <string name="protocal_dialog_confirm">Принимаю</string>
     <string name="protocal_dialog_title">Внимание</string>

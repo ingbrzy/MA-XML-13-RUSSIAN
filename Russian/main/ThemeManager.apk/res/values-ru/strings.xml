@@ -261,7 +261,7 @@
     <string name="detail_reward_alert">Поощрите талантливых дизайнеров за их работу</string>
     <string name="detail_reward_build_order_error">Не удалось создать заказ. Повторите попытку позже.</string>
     <string name="detail_reward_custom_amount">Другая сумма</string>
-    <string name="detail_reward_duplicate_order_error">Слишком много попыток. Повторите попытку позже.</string>
+    <string name="detail_reward_duplicate_order_error">Слишком много попыток. Попробуйте позже.</string>
     <string name="detail_reward_exceed_limit">Вознаграждение может содержать до 200 юаней</string>
     <string name="detail_reward_know_it">Понятно</string>
     <string name="detail_reward_limited_to_200">Вознаграждение может содержать до 200 Mi Coins</string>
@@ -772,7 +772,7 @@ mm"</string>
     <string name="personalize_title">Персонализация</string>
     <string name="personalize_wallpaper_sub_title">Суперобои и популярные изображения</string>
     <string name="personalize_wallpaper_title">Обои</string>
-    <string name="personalized_cta_content_text">Добро пожаловать в приложение Темы! Вы можете использовать это приложение для управления обоями, рингтонами, шрифтами и другими компонентами.</string>
+    <string name="personalized_cta_content_text">Добро пожаловать в приложение Темы! Это приложение можно использовать для управления обоями, рингтонами, шрифтами и другими компонентами.</string>
     <string name="phone_exit_theme_warning_content">"После выхода Вы не сможете выполнять следующие действия:
 1. Просматривать и использовать приобретенные или добавленные в Избранное компоненты.
 2. Добавлять комментарии и лайки, подписываться и общаться."</string>
@@ -1297,9 +1297,9 @@ mm"</string>
     <string name="system_aod_dialog_title">Активный экран отключен</string>
     <string name="system_cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="system_cta_all_purpose">"Добро пожаловать в приложение Темы! 
-Вы можете использовать это приложение для управления темами, обоями, мелодиями и шрифтами. "</string>
-    <string name="system_cta_all_purpose_fold">Добро пожаловать в Обои и персонализация! Вы можете использовать это приложение для управления темами Активного дисплея, обоями, рингтонами и шрифтами.</string>
-    <string name="system_cta_all_purpose_pad">Добро пожаловать в Персонализацию! Вы можете использовать это приложение для управления обоями, рингтонами, иконками и шрифтами.</string>
+Это приложение можно использовать для управления темами, обоями, мелодиями и шрифтами. "</string>
+    <string name="system_cta_all_purpose_fold">Добро пожаловать в Обои и персонализация! Это приложение можно использовать для управления темами Активного дисплея, обоями, рингтонами и шрифтами.</string>
+    <string name="system_cta_all_purpose_pad">Добро пожаловать в Персонализацию! Это приложение можно использовать для управления обоями, рингтонами, иконками и шрифтами.</string>
     <string name="system_cta_main_purpose">Управление онлайн и офлайн темами, обоями, мелодиями, шрифтами и видеообоями</string>
     <string name="system_cta_retry_get_permission_btn_pad">Начать</string>
     <string name="system_cta_retry_get_permission_msg_pad">Требуются разрешения</string>

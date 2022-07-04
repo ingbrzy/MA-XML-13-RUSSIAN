@@ -83,7 +83,7 @@
     <string name="miservice_notification_open_feedback_title">Представляем \"Обратная связь\"</string>
     <string name="miservice_notification_scan_content">Используйте Сканер для перевода слов и фраз</string>
     <string name="miservice_notification_scan_title">Переводите на лету</string>
-    <string name="miui_feedback_answer_detail_community">Вы можете найти ответы на свои вопросы в Xiaomi Community</string>
+    <string name="miui_feedback_answer_detail_community">Ответы на свои вопросы можно найти в Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Да</string>
     <string name="miui_feedback_answer_detail_feedback_result">Спасибо за отчет!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Была ли эта информация полезна?</string>

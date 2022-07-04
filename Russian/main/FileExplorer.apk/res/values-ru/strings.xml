@@ -41,9 +41,9 @@
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="agree">Принимаю</string>
     <string name="app_all_purpose">"Добро пожаловать в Проводник!
-Вы можете использовать это приложение для управления файлами на устройстве.
+Это приложение можно использовать для управления файлами на устройстве.
 "</string>
-    <string name="app_all_purpose_pad">Добро пожаловать в Проводник! Вы можете использовать это приложение для управления файлами на устройстве.</string>
+    <string name="app_all_purpose_pad">Добро пожаловать в Проводник! Это приложение можно использовать для управления файлами на устройстве.</string>
     <string name="app_function">Управление файлами на устройстве</string>
     <string name="app_name">Проводник</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -360,6 +360,8 @@
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_now">Только что</string>
     <string name="kilobyteShort">" КБ"</string>
+    <string name="lack_perm_msg">Для нормальной работы приложения \"Проводник\" требуются следующие разрешения: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Требуются разрешения</string>
     <string name="launcher_icon_add_description">Добавить ярлык на рабочий стол</string>
     <string name="launcher_icon_remove_description_content">Приложение \"Проводник\" является системным, удалить его нельзя. После удаления ярлыка с рабочего стола, управление файлами на устройстве будет недоступно.</string>
     <string name="launcher_icon_remove_description_title">Удалить \"Проводник\" с рабочего стола?</string>
@@ -371,6 +373,9 @@
     <string name="local_image">Фото</string>
     <string name="local_music">Аудио</string>
     <string name="local_video">Видео</string>
+    <string name="main_button_continue">Настройки</string>
+    <string name="main_button_ok">ОК</string>
+    <string name="main_button_quit">Отмена</string>
     <string name="make_private">Приватные файлы</string>
     <string name="make_private_msg_1">Сделать этот файл приватным?</string>
     <string name="make_private_msg_2">Сделать эти файлы приватными?</string>
@@ -394,6 +399,7 @@
     <string name="menu_new_display_open">Открыть в новом окне</string>
     <string name="menu_pc_open">Открыть на ПК</string>
     <string name="menu_set_wallpaper">Установить как обои</string>
+    <string name="message_request_manage_external_storage_perm">Для управления файлами на устройстве, Проводнику необходимо разрешение на доступ к файлам. Разрешение можно предоставить в Настройках.</string>
     <string name="mi_router_label">Роутер</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Ночь</string>
@@ -615,6 +621,7 @@
     <string name="partial_encrypt_success">Не удалось переместить некоторые файлы в приватную папку. Повторите попытку.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_name_email">Email</string>
+    <string name="perm_manage_external_storage">Доступ к файлам</string>
     <string name="permission_denial">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.</string>
     <string name="permission_description">Сведения о разрешениях</string>
     <string name="permission_required">Нет доступа к файлам. Разрешите Проводнику доступ к файлам в разделе Настройки.​</string>
@@ -674,7 +681,7 @@
     <string name="repair_error">Не удалось восстановить. Повторите попытку.</string>
     <string name="repair_file">Восстановить зашифрованные файлы</string>
     <string name="replace">Заменить</string>
-    <string name="request_document_permission">Для управления файлами на вашей SD-карте предоставьте Проводнику необходимые разрешения.</string>
+    <string name="request_document_permission">Для управления файлами на SD-карте предоставьте Проводнику необходимые разрешения.</string>
     <string name="request_document_permission_title">Требуются разрешения</string>
     <string name="request_timeout">Тайм-аут сетевого запроса</string>
     <string name="reset_password">Смена пароля</string>
@@ -839,6 +846,7 @@
     <string name="title_app_tags">Приложения</string>
     <string name="title_expire_video">Срок истекает</string>
     <string name="title_recent">Недавние</string>
+    <string name="title_request_manage_external_storage_perm">Требуются разрешения</string>
     <string name="title_select_volume">Выберите папку</string>
     <string name="to_open">Настройки</string>
     <string name="to_setting">Настройки</string>

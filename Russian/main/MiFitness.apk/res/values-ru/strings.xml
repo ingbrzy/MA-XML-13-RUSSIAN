@@ -562,7 +562,7 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="date_to_now">Начало: %1$s</string>
     <string name="day"/>
-    <string name="decive_settings_hint_most_count">Вы можете добавить до 20 часов</string>
+    <string name="decive_settings_hint_most_count">Можно добавить до 20 часов</string>
     <string name="device_add">Добавить</string>
     <string name="device_add_device">Добавить</string>
     <string name="device_add_device_again">"Добавить устройство?
@@ -1418,7 +1418,7 @@ ID:%s
     <string name="face_photo_face_style">Стиль</string>
     <string name="face_photo_label_band">Установите фото в качестве циферблата</string>
     <string name="face_photo_label_watch">Установите фото в качестве циферблата</string>
-    <string name="face_photo_more">Вы можете добавить до 9 фото</string>
+    <string name="face_photo_more">Можно добавить до 9 фото</string>
     <string name="face_photo_setting_changed_msg">Обнаружены несохраненные изменения</string>
     <string name="face_photo_setting_changed_title">Отменить изменения?</string>
     <string name="face_repick_photo_band">Выберите другое фото</string>
@@ -3613,7 +3613,7 @@ ID:%s
     <string name="privacy_system_permission">Требуются разрешения</string>
     <string name="privacy_system_permission_granted">Предоставлено</string>
     <string name="privacy_system_permission_not_granted">Не предоставлено</string>
-    <string name="progressbar_title">Проверка наличия проблем безопасности…</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="provider_exercise_goal_accomplished">Цель достигнута</string>
     <string name="provider_exercise_goal_lack_exercise">Недостаточная активность</string>
     <string name="provider_exercise_goal_not_accomplished">Цель не достигнута</string>

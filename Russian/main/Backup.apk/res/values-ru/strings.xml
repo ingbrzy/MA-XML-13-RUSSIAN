@@ -515,7 +515,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="notif_restore_content">Восстановление данных пользователя</string>
     <string name="notif_restore_title">Восстановление данных</string>
     <string name="notif_sending_transingsd">Отправка %1$s (%2$s)…</string>
-    <string name="notif_trans_auto_reconnecting_content">Вы можете отменить текущую задачу.</string>
+    <string name="notif_trans_auto_reconnecting_content">Можно отменить текущую задачу.</string>
     <string name="notif_trans_auto_reconnecting_title">Соединение прервано. Повторное подключение…</string>
     <string name="notif_trans_receiving_completed">Данные успешно получены</string>
     <string name="notif_trans_receiving_failed">Не удалось получить данные</string>
@@ -819,7 +819,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="trans_detail_item_app_data_too_large_tip">Объект слишком большой для передачи.</string>
     <string name="trans_detail_list_footer">"1. Вы можете выбрать отдельные приложения для переноса.
 2. В случае выбора данных приложений, также будут выбраны соответствующие приложения.
-3. Данные приложений WeChat и QQ могут не передаваться из-за проблем совместимости. Вы можете попробовать встроенные в приложения средства передачи данных."</string>
+3. Данные приложений WeChat и QQ могут не передаваться из-за проблем совместимости. Попробуйте встроенные в приложения средства передачи данных."</string>
     <string name="trans_detail_page_tip">Чем больше объектов вы выберете, тем дольше будет длиться передача.</string>
     <string name="trans_detail_qq_data">Данные QQ (включая историю чатов)</string>
     <string name="trans_detail_sys_data_list_title">Системные приложения</string>
@@ -867,7 +867,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="trans_intro_desc_new">Нажмите \"Я получатель\". Будет создан QR-код.</string>
     <string name="trans_intro_desc_old">Нажмите \"Я отправитель\". Отсканируйте QR-код с нового устройства, дождитесь, когда Mi Mover выяснит, какие файлы отправлять, и нажмите \"Отправить\".</string>
     <string name="trans_intro_desc_old_market">Нажмите \"Начать\". Отсканируйте QR-код с нового устройства, дождитесь, когда Mi Mover выяснит, какие файлы отправлять, и нажмите \"Отправить\".</string>
-    <string name="trans_intro_desc_private">Mi Mover не может получить доступ к фотографиям в скрытом альбоме, поскольку они зашифрованы. Вы можете восстановить эти фотографии из Mi Cloud на новом устройстве.</string>
+    <string name="trans_intro_desc_private">Mi Mover не может получить доступ к фото в скрытом альбоме, поскольку они зашифрованы. Эти фото можно восстановить из Mi Cloud на новом устройстве.</string>
     <string name="trans_intro_question_1">%d. Как использовать Mi Mover для переноса данных с устройства iOS?</string>
     <string name="trans_intro_question_10">"%d. Не удалось найти точку доступа на старом устройстве?"</string>
     <string name="trans_intro_question_2">%d. Как использовать Mi Mover для переноса данных с устройства Android?</string>

@@ -245,7 +245,7 @@
     <string name="add_pre_message_attachments_yes">Добавить</string>
     <string name="add_star">Отметить</string>
     <string name="afternoon">После полудня</string>
-    <string name="all_purpose">Добро пожаловать в Почту! Этот почтовый клиент был создан Kingsoft для Xiaomi. Вы можете использовать это приложение для отправки и получения писем.</string>
+    <string name="all_purpose">Добро пожаловать в Почту! Этот почтовый клиент был создан Kingsoft для Xiaomi. Это приложение можно использовать для отправки и получения писем.</string>
     <string name="allow_notify">Разрешить уведомления</string>
     <string name="allread">Прочитать все</string>
     <string name="always_bcc_myself">Отправлять себе скрытую копию</string>
@@ -399,7 +399,7 @@
     <string name="compose_encrypt_unlock_w_description">Не доверенный контакт</string>
     <string name="compose_event">Приглашение</string>
     <string name="compose_paste_address_oob">Слишком много символов</string>
-    <string name="compose_picturesexceedlimits">Вы можете добавить больше изображений во вложении</string>
+    <string name="compose_picturesexceedlimits">Больше изображений можно добавить во вложении</string>
     <string name="compose_send">Отправить</string>
     <string name="compose_sent">Письмо отправлено</string>
     <string name="compose_smime_sign_description">Применить подпись</string>
@@ -672,7 +672,7 @@
     <string name="feedback_user_edit_tag">От MIUI</string>
     <string name="fetch_bank_sender_list_failure">Не удалось получить данные</string>
     <string name="fetching_attachment">Загрузка вложения</string>
-    <string name="file_defailt_save_path">По умолчанию вложения сохраняются в папке %s. Вы можете изменить папку в Настройках.</string>
+    <string name="file_defailt_save_path">По умолчанию вложения сохраняются в папке %s. Изменить папку можно в Настройках.</string>
     <string name="file_default_save_path_title">Папка по умолчанию для вложений</string>
     <string name="file_deleted_success">Файл удален</string>
     <string name="file_not_found">Не удалось найти файл</string>
@@ -1287,7 +1287,7 @@
     <string name="password_expire_warning_dialog_title">Истекает срок действия пароля блокировки экрана</string>
     <string name="password_expire_warning_ticker_fmt">Аккаунт \"%s\" требует изменить код или пароль экрана блокировки.</string>
     <string name="password_expired_content_title">Пароль блокировки экрана устарел</string>
-    <string name="password_expired_dialog_content_fmt">Данные аккаунта %s были удалены с вашего устройства. Вы можете восстановить их путем изменения вашего PIN-кода или пароля. Изменить сейчас?</string>
+    <string name="password_expired_dialog_content_fmt">Данные аккаунта %s были удалены с вашего устройства. Можно восстановить их путем изменения вашего PIN-кода или пароля. Изменить сейчас?</string>
     <string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
     <string name="password_expired_ticker">Срок действия вашего кода или пароля блокировки экрана истек</string>
     <string name="password_toggle_content_description">Показать пароль</string>
@@ -1342,7 +1342,7 @@
     <string name="permission_tip">Ошибка конфигурации. Разрешите звонки и текстовые сообщения при настройке конфигурации.</string>
     <string name="permission_write_contacts_subtitle">Для отображения и изменения адресов электронной почты контактов</string>
     <string name="permission_write_external_storage_title">Доступ к фото и файлам на устройстве</string>
-    <string name="personal_data_collection_summary">Когда переключатель включен, это означает, что вы даете согласие на сбор ваших личных данных. Вы можете в любое время отключить его, чтобы отозвать авторизацию и удалить свои данные с наших серверов.</string>
+    <string name="personal_data_collection_summary">Когда переключатель включен, это означает ваше согласие на сбор личных данных. Вы можете в любой момент отключить его, чтобы отозвать авторизацию и удалить свои данные с наших серверов.</string>
     <string name="personal_data_collection_title">Сбор личных данных</string>
     <string name="phone">телефоном</string>
     <string name="photo_load_failed">Не удалось загрузить изображение</string>
@@ -1637,7 +1637,7 @@
     <string name="sign_in_dialog_outlook_enterprise">Outlook для бизнеса (без календаря)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (с календарем)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (без календаря)</string>
-    <string name="sign_in_graph_error">Вы можете войти в систему с использованием протоколов IMAP или EXCHANGE, только если ваша организация не изменила общую конфигурацию сервера. Если адрес сервера изменен организацией или соответствующие протоколы отключены, используйте для входа новый протокол Microsoft.</string>
+    <string name="sign_in_graph_error">Можно войти в систему с использованием протоколов IMAP или EXCHANGE, только если ваша организация не изменила общую конфигурацию сервера. Если адрес сервера изменен организацией или соответствующие протоколы отключены, используйте для входа новый протокол Microsoft.</string>
     <string name="sign_in_no_useful_provider_error">Не удается получить конфигурацию протокола от Microsoft. Обновите протокол или используйте другой.</string>
     <string name="signature">"
 
@@ -1856,8 +1856,8 @@
     <string name="user_new_auth_code">Использовать новый код для входа</string>
     <string name="user_privacy_settings">Настройки конфиденциальности</string>
     <string name="user_privacy_settings_agreement_authorization">(Нажав \"Принимаю\", вы даете приложению Почта все необходимые разрешения)</string>
-    <string name="user_privacy_settings_path">Совет: Вы можете отозвать свое согласие в Настройки > Настройки конфиденциальности пользователя.</string>
-    <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Вы можете в любое время отозвать свое согласие в настройках конфиденциальности пользователя.</string>
+    <string name="user_privacy_settings_path">Совет: согласие можно отозвать в Настройки > Настройки конфиденциальности пользователя.</string>
+    <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Согласие можно отозвать в любой момент в Настройках конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_title">Напоминание о конфиденциальности MI Mail</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>

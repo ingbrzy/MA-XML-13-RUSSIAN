@@ -34,7 +34,7 @@
     <string name="about_newest">Карусель обоев устарела.</string>
     <string name="about_permission">Разрешения</string>
     <string name="about_update">Обновление</string>
-    <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
+    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -113,6 +113,7 @@
     <string name="at_least_one">Выберите хотя бы одну категорию</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
     <string name="auto_interval">При разблокировке</string>
+    <string name="back">Назад</string>
     <string name="back_icon_content_description">Назад</string>
     <string name="bind_sign_in_title">Привязать к Xiaomi аккаунту</string>
     <string name="cancel">Отмена</string>
@@ -149,6 +150,7 @@
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
+    <string name="close_country_code_content_description">Удалить код страны</string>
     <string name="close_gallery">Отключить</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="comment_pop_cancel">Не сейчас</string>
@@ -278,6 +280,7 @@ ID:%s
     <string name="external_storage_permission">Хранилище</string>
     <string name="external_storage_permission_summary">Для выбора обоев и сохранения загруженных изображений</string>
     <string name="facebook_application_id"/>
+    <string name="facebook_login_btn_content_description">Войти с помощью Facebook</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Xiaomi аккаунтом</string>
     <string name="favor_list_no_data">Ничего нет</string>
     <string name="favor_list_title">Избранные</string>
@@ -312,6 +315,7 @@ ID:%s
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
     <string name="getverifycode_seconde">сек.</string>
     <string name="google_application_id"/>
+    <string name="google_login_btn_content_description">Войти с помощью  Google</string>
     <string name="goto_confirm">Настройки</string>
     <string name="goto_sign_up">Создать аккаунт</string>
     <string name="header_help">Помощь</string>
@@ -728,7 +732,7 @@ mm"</string>
     <string name="privacy_update_summary3">Вы не сможете использовать Карусель обоев, если не примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?</string>
     <string name="privacy_update_title1">Обновленная политика конфиденциальности</string>
     <string name="privacy_update_title2">Внимание</string>
-    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="protocal_dialog_cancel">Отмена</string>
     <string name="protocal_dialog_confirm">Принимаю</string>
     <string name="protocal_dialog_title">Внимание</string>
@@ -743,6 +747,7 @@ mm"</string>
     <string name="pull_to_refresh_refreshing_label">Обновление…</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="qq_application_id"/>
+    <string name="qq_login_btn_content_description">Войти с помощью  QQ</string>
     <string name="recommend_switch_desc">Получение рекомендаций на основе ваших предпочтений</string>
     <string name="recommend_switch_dlg_close">Отключить</string>
     <string name="recommend_switch_dlg_desc">Вы не сможете получать рекомендации на основе ваших предпочтений, если вы отключите эту функцию.</string>
@@ -815,7 +820,7 @@ mm"</string>
     <string name="set_success">Изменения внесены</string>
     <string name="setting_about_item_des">Версия</string>
     <string name="setting_about_item_title">О Карусели обоев</string>
-    <string name="setting_des">Вы можете настроить слайд-шоу в Настройки &gt; Блокировка и защита &gt; Карусель обоев</string>
+    <string name="setting_des">Слайд-шоу можно настроить в Настройки &gt; Блокировка и защита &gt; Карусель обоев</string>
     <string name="setting_head">Настройки</string>
     <string name="setting_ok">Настройки</string>
     <string name="setting_tip">"Больше не показывать"</string>
@@ -1094,7 +1099,9 @@ mm"</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="weibo_application_id"/>
+    <string name="weibo_login_btn_content_description">Войти с помощью  Weibo</string>
     <string name="weibo_redirect_uri"/>
+    <string name="weixin_login_btn_content_description">Войти с помощью  WeChat</string>
     <string name="wlan_download">Обновление только по Wi-Fi</string>
     <string name="wlan_download_cn">Обновление только по Wi-Fi</string>
     <string name="wm_storage_left">"Осталось: "</string>

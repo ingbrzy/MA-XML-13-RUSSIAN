@@ -142,7 +142,7 @@ ID: %s
     <string name="dialog_insufficient_space_on_external">Не удалось загрузить. Недостаточно места на внешнем накопителе.</string>
     <string name="dialog_media_not_found">Подключите внешний накопитель.</string>
     <string name="dialog_msg_disabled_net">Приложение %1$s ограничило загрузки для текущей сети. Нажмите \"Настройки сети\" для перехода в приложение \"Безопасность\".</string>
-    <string name="dialog_msg_recommend">Вы не сможете просматривать рекомендуемые источники после отключения. Вы можете выбрать \"Загружать содержимое только по Wi-Fi\" для экономии мобильного трафика.</string>
+    <string name="dialog_msg_recommend">Вы не сможете просматривать рекомендуемые источники после отключения. Можно выбрать \"Загружать содержимое только по Wi-Fi\" для экономии мобильного трафика.</string>
     <string name="dialog_privacy_update_button1">Отмена</string>
     <string name="dialog_privacy_update_button2">Принимаю</string>
     <string name="dialog_privacy_update_title">Обновленная Политика конфиденциальности</string>

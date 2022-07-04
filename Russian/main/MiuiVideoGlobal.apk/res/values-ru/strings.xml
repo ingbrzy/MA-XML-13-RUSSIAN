@@ -31,7 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="access_denied_info">Слишком много попыток. Повторите попытку позже.</string>
+    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
     <string name="account_bind_secure_email_title">Добавьте электронную почту для восстановления</string>
     <string name="account_bind_secure_phone_title">Добавьте номер телефона для восстановления</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>
@@ -727,6 +727,7 @@ ID: %s
     <string name="incentive_exchange_successful">Получено</string>
     <string name="incentive_exchange_tip">Эти баллы доступны только сегодня</string>
     <string name="incentive_login_for_claim">Войдите в учетную запись Google, чтобы получить баллы</string>
+    <string name="incentive_login_success_for_already_claimd">Вход выполнен. Баллы получены.</string>
     <string name="incentive_login_tip">Войдите в систему, чтобы получить баллы и награды.</string>
     <string name="incentive_my_points">Мои баллы</string>
     <string name="incentive_popup_window_share">Поделитесь, чтобы получить баллы</string>
@@ -761,6 +762,7 @@ ID: %s
     <string name="item_download_path">Папка загрузки</string>
     <string name="item_download_path_setting">Настройка папки загрузки</string>
     <string name="item_setting_go_back">Отзыв согласия</string>
+    <string name="item_title_for_search_page_hot">Популярное</string>
     <string name="item_title_unknown">Неизвестное название</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_second">Подождите…</string>
@@ -768,7 +770,7 @@ ID: %s
     <string name="language_select_tips">"Выберите предпочитаемый язык
 видео"</string>
     <string name="language_setting_tips">Выберите предпочитаемый язык, чтобы получить более релевантные рекомендации. Вы можете изменить предпочитаемый язык в разделе Профиль > Язык.</string>
-    <string name="language_setting_tips_dialog">Вы можете выбрать предпочитаемый язык в разделе Аккаунт > Язык.</string>
+    <string name="language_setting_tips_dialog">Предпочитаемый язык можно выбрать в разделе Аккаунт > Язык.</string>
     <string name="later">Позже</string>
     <string name="lbl_connection_failed_alert_title">Ошибка соединения</string>
     <string name="lbl_player_local_video_deleted_alert_dialog_text">Это видео не может быть воспроизведено.</string>
@@ -1145,6 +1147,7 @@ ID: %s
     <string name="nick_name">Псевдоним</string>
     <string name="night">Вечер</string>
     <string name="no_account">Вход не выполнен</string>
+    <string name="no_app_found_error">Приложение не найдено</string>
     <string name="no_history">Ничего нет</string>
     <string name="no_longer_prompt">Больше не показывать</string>
     <string name="no_more_content">Больше ничего нет</string>
@@ -1186,6 +1189,10 @@ ID: %s
     <string name="ok">ОК</string>
     <string name="on_tip_firework_recommend">Включены персонализированные рекомендации по контенту от Firework</string>
     <string name="online_play_hint">Например: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">Подождите…</string>
+    <string name="online_play_start_ready_loading_tip_b">Загрузка: %.2f Б/сек.</string>
+    <string name="online_play_start_ready_loading_tip_kb">Загрузка: %.2f КБ/сек.</string>
+    <string name="online_play_start_ready_loading_tip_mb">Загрузка: %.2f МБ/сек.</string>
     <string name="online_play_title">Введите URL</string>
     <string name="open_settings">Настройки</string>
     <string name="order_recently_subscribe">Новые подписки</string>
@@ -1685,7 +1692,7 @@ ID: %s
     <string name="small_video_load_more_hint">Проведите вверх, чтобы увидеть больше видео</string>
     <string name="small_video_snack_download_description">Загрузите SnackVideo, чтобы смотреть последние видео от избранных авторов</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">Небольшие видеоролики, которые могут быть интересны</string>
+    <string name="small_video_tab_expose_hint">Нажмите для просмотра других видеороликов</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
@@ -2028,6 +2035,12 @@ ID: %s
     <string name="welcome_tip_into_mivideo">Начать</string>
     <string name="welcome_tip_skip">Пропустить</string>
     <string name="welcome_tip_title">Добро пожаловать в Mi Видео</string>
+    <string name="widget_local_video">Локальные</string>
+    <string name="widget_local_video_click">Просмотр видео на устройстве</string>
+    <string name="widget_more_channel">Больше каналов</string>
+    <string name="widget_more_channel_click">Просмотр ТВ-каналов</string>
+    <string name="widget_trending_click">Просмотр популярных сегодня видео</string>
+    <string name="widget_trending_today">Популярное сегодня</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s Б</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключиться к диспетчеру загрузки, проверьте его состояние в разделе «Управление приложениями».</string>
     <string name="xiaomi_update_sdk_dialog_message">Доступна версия %1$s

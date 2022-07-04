@@ -201,7 +201,7 @@
     <string name="notification_channel_description_download">Показать прогресс загрузки в шторке уведомлений</string>
     <string name="notification_channel_name_download">Показать прогресс загрузки</string>
     <string name="notify_connected_action_button">Отключить</string>
-    <string name="notify_connected_message">Вы можете передавать файлы и взаимодействовать с мобильным устройством, используя ПК</string>
+    <string name="notify_connected_message">Можно передавать файлы и взаимодействовать с мобильным устройством, используя ПК</string>
     <string name="notify_connected_title">Подключено к %1$s</string>
     <string name="ok">ОК</string>
     <string name="open_folder">Открыть</string>
@@ -256,7 +256,7 @@
     <string name="pcmode_not_support_multi_window">Режим ПК не поддерживает отображение нескольких окон</string>
     <string name="permission_access_nearby_device">Доступ к устройствам поблизости</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
-    <string name="privacy_all_purpose">Добро пожаловать в MIUI+! Вы можете использовать это приложение для объединения мобильного устройства и ПК в одну рабочую станцию.</string>
+    <string name="privacy_all_purpose">Добро пожаловать в MIUI+! Это приложение можно использовать для объединения мобильного устройства и ПК в одну рабочую станцию.</string>
     <string name="privacy_describe_change_wifi_state">Для подключения устройств и передачи файлов по Wi-Fi</string>
     <string name="privacy_describe_location">Для поиска ПК поблизости и передачи файлов</string>
     <string name="privacy_describe_record_audio">Для перенаправления вывода звука на ПК</string>

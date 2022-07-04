@@ -174,7 +174,7 @@
     <string name="bh_flow_order">Мобильный интернет</string>
     <string name="bh_flow_service">Мобильный интернет</string>
     <string name="bh_flow_unlimited">Безлимитный тариф</string>
-    <string name="bh_funtion_desc">Добро пожаловать в сервисы Mi Carrier! Вы можете использовать это приложение для проверки баланса, покупки минут, пакетов интернета и т.д. Для нормальной работы приложению требуется подключение к сети.</string>
+    <string name="bh_funtion_desc">Добро пожаловать в сервисы Mi Carrier! Это приложение можно использовать для проверки баланса, покупки минут, пакетов интернета и т.д. Для нормальной работы приложению требуется подключение к сети.</string>
     <string name="bh_gb">" ГБ"</string>
     <string name="bh_get_balance_success">Проверено успешно. Информация может обновляться с задержкой.</string>
     <string name="bh_get_charge_phone_number">Выбрать из контактов</string>

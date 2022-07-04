@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_to_recover">Подождите…</string>
-    <string name="access_denied_info">Слишком много попыток. Повторите попытку позже.</string>
+    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_is_running">Задача выполняется…</string>
@@ -385,7 +385,7 @@ ID: %s
     <string name="permission_to_use">Сведения о разрешениях</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="process_whole_recovery">Восстановление \"%s\"</string>
-    <string name="progressbar_title">Проверка проблем с безопасностью…</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
     <string name="provision_back">Назад</string>
     <string name="provision_background_restore_more_data">Восстанавливать объекты в фоновом режиме</string>
     <string name="provision_error_connect_msg">Проверьте сеть и повторите попытку. Резервное копирование недоступно, когда ваше устройство отключено от сети.</string>

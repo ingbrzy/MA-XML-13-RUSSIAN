@@ -65,14 +65,14 @@
         <item quantity="few">%1$s секунды после отчета</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
-        <item quantity="other">Вы можете отправить отзыв еще раз через %1$s минут</item>
-        <item quantity="one">Вы можете отправить отзыв еще раз через %1$s минуту </item>
-        <item quantity="few">Вы можете отправить отзыв еще раз через %1$s минуты </item>
+        <item quantity="other">Отзыв можно отправить еще раз через %1$s минут</item>
+        <item quantity="one">Отзыв можно отправить еще раз через %1$s минуту </item>
+        <item quantity="few">Отзыв можно отправить еще раз через %1$s минуты </item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_second">
-        <item quantity="other">Вы можете отправить отзыв еще раз через %1$s минут</item>
-        <item quantity="one">Вы можете отправить отзыв еще раз через %1$s минуту </item>
-        <item quantity="few">Вы можете отправить отзыв еще раз через %1$s минуты </item>
+        <item quantity="other">Отзыв можно отправить еще раз через %1$s минут</item>
+        <item quantity="one">Отзыв можно отправить еще раз через %1$s минуту </item>
+        <item quantity="few">Отзыв можно отправить еще раз через %1$s минуты </item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>

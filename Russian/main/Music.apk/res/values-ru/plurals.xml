@@ -18,9 +18,9 @@
 Помочь вам продлить её?"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">Вы можете загрузить %1$d бесплатных треков. Загрузить %2$s сейчас?</item>
-        <item quantity="one">Вы можете загрузить %1$d бесплатный трек. Загрузить %2$s сейчас?</item>
-        <item quantity="few">Вы можете загрузить %1$d бесплатных трека. Загрузить %2$s сейчас?</item>
+        <item quantity="other">Можно загрузить %1$d бесплатных треков. Загрузить %2$s сейчас?</item>
+        <item quantity="one">Можно загрузить %1$d бесплатный трек. Загрузить %2$s сейчас?</item>
+        <item quantity="few">Можно загрузить %1$d бесплатных трека. Загрузить %2$s сейчас?</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Плеер остановится через %d минут</item>

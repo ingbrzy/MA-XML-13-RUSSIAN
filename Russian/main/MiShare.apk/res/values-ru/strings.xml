@@ -196,7 +196,7 @@
     <string name="mishare_folder_in_file_explorer">Проводник &gt; Mi Share</string>
     <string name="mishare_service_channel_desc">Процессы приложения</string>
     <string name="mishare_settings_summary_international">"Mi Share позволяет обмениваться файлами по беспроводной сети с другими устройствами поблизости.
-Эта функция поддерживается OPPO, vivo, realme и другими производителями смартфонов. Вы можете проверить список поддерживаемых устройств на официальном сайте любого выбранного бренда."</string>
+Эта функция поддерживается OPPO, vivo, realme и другими производителями смартфонов. Список поддерживаемых устройств можно проверить на официальном сайте любого выбранного бренда."</string>
     <string name="mishare_state_protection">Автовключение</string>
     <string name="mishare_state_protection_summary">Автоматически включать Mi Share при доступном подключении по Bluetooth или Wi-Fi</string>
     <string name="mishare_state_protection_summary_china">Автоматически включать Mi Share при доступном подключении по Bluetooth или Wi-Fi</string>
@@ -341,7 +341,7 @@
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="scanning_device_tips">Поиск устройства поблизости… Убедитесь, что другое устройство находится в режиме обнаружения.</string>
-    <string name="scanning_only_xiaomi_device">Вы можете предавать файлы только на устройства Xiaomi или Black Shark</string>
+    <string name="scanning_only_xiaomi_device">Можно передавать файлы только на устройства Xiaomi или Black Shark</string>
     <string name="search_menu_title">Поиск</string>
     <string name="seize_content">Прекратить трансляцию содержимого экрана для возможности передачи файлов?</string>
     <string name="seize_title">Прекращение трансляции</string>
@@ -450,7 +450,7 @@
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="transfer_intercept_to_remote">Не удалось передать: %1$s</string>
-    <string name="transfer_to_pc_summary">Последняя версия программного обеспечения AIoT, установленная на ноутбуках Mi, поддерживает работу с Mi Share. Вы можете проверить список поддерживаемых моделей ноутбуков на сайте MIUI. Если ваш ноутбук есть в списке, но AIoT на нем не установлен, обновите BIOS и драйвер сетевого адаптера и загрузите AIoT.</string>
+    <string name="transfer_to_pc_summary">Последняя версия программного обеспечения AIoT, установленная на ноутбуках Mi, поддерживает работу с Mi Share. Список поддерживаемых моделей ноутбуков можно проверить на сайте MIUI. Если ваш ноутбук есть в списке, но AIoT на нем не установлен, обновите BIOS и драйвер сетевого адаптера и загрузите AIoT.</string>
     <string name="transfer_to_pc_summary_new"><Data>Последняя версия MIUI+, установленная на ноутбуках Mi, совместима с Mi Share. Cписок поддерживаемых моделей ноутбуков можно проверить на сайте MIUI+ (&lt;a href=\"%1$s\">%2$s&lt;/a>). Если ваш ноутбук есть в списке, но MIUI+ на нем не установлен, обновите BIOS и драйвер сетевого адаптера ноутбука, затем загрузите MIUI+.</Data></string>
     <string name="transfer_to_pc_title">Передача на ПК</string>
     <string name="transfer_to_phone_summary">Включите Mi Share в шторке уведомлений. Выберите устройство получателя из списка доступных устройств поблизости, чтобы передать файлы или фото.</string>

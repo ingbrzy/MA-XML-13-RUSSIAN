@@ -146,10 +146,10 @@
         <item quantity="many">%d комментариев</item>
     </plurals>
     <plurals name="comment_input_length_invalid">
-        <item quantity="other">Вы можете ввести до %1$d символов.</item>
-        <item quantity="one">Вы можете ввести %1$d символ.</item>
-        <item quantity="few">Вы можете ввести до %1$d символов.</item>
-        <item quantity="many">Вы можете ввести до %1$d символов.</item>
+        <item quantity="other">Можно ввести до %1$d символов.</item>
+        <item quantity="one">Можно ввести %1$d символ.</item>
+        <item quantity="few">Можно ввести до %1$d символов.</item>
+        <item quantity="many">Можно ввести до %1$d символов.</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Удалить %d объектов?</item>

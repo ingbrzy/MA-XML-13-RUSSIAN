@@ -331,7 +331,7 @@
     <string name="switch_audio_device_hfp_toast_hint">Выберите аудиовыход по умолчанию, чтобы снова начать воспроизведение звука на этом устройстве</string>
     <string name="switch_audio_device_phone">Это устройство</string>
     <string name="switch_audio_device_phone_summary">Воспроизведение аудио на этом устройстве</string>
-    <string name="switch_audio_device_switch_hint">Вы можете отключить уведомления о подключенных устройствах в Настройки > Bluetooth > Дополнительно.</string>
+    <string name="switch_audio_device_switch_hint">Уведомления о подключенных устройствах можно отключить в Настройки > Bluetooth > Дополнительно.</string>
     <string name="switch_audio_dialog_title">Выбор устройства вывода</string>
     <string name="switch_audio_notification_content">"Текущее устройство вывода звука: "</string>
     <string name="switch_audio_notification_title">Подключения</string>

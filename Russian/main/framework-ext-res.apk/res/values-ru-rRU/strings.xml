@@ -45,7 +45,7 @@
     <string name="autofill">Автозаполнение</string>
     <string name="autofill_save_message">Разрешить MIUI сохранять учетные записи и пароли?</string>
     <string name="autofill_save_ok">Разрешить</string>
-    <string name="autofill_save_sub_message">Вы можете просматривать пароли и управлять ими в Настройки &gt; Пароли и защита &gt; %s</string>
+    <string name="autofill_save_sub_message">Просматривать пароли и управлять ими можно в Настройки &gt; Пароли и защита &gt; %s</string>
     <string name="autofill_save_title">Автосохранение данных</string>
     <string name="autofill_service_name">Управление паролями</string>
     <string name="battery_authentic_failed_button">Понятно</string>
@@ -174,7 +174,7 @@
     <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
     <string name="force_exit_skip_message">Нельзя принудительно закрыть системное приложение %1$s.</string>
     <string name="fourhours">2 часа</string>
-    <string name="fp_nav_center_action_choose_dlg_msg">Вы можете возвращаться на рабочий стол легким касанием кнопки \"Домой\". Для включения и выключения данной функции перейдите в Настройки &gt; Дополнительно &gt; Кнопки и жесты.</string>
+    <string name="fp_nav_center_action_choose_dlg_msg">Вернуться на рабочий стол можно легким касанием кнопки \"Домой\". Для включения или выключения данной функции перейдите в Настройки &gt; Дополнительно &gt; Кнопки и жесты.</string>
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Не сейчас</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Включить</string>
     <string name="fp_nav_center_action_choose_dlg_title">Включить \"Быстрый возврат\"?</string>

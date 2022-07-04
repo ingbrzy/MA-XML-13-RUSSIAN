@@ -425,7 +425,7 @@
     <string name="global_wa_main_header_cleaning_hints">Освобождение места на устройстве…</string>
     <string name="global_wa_main_header_scanning_hints">Сканирование устройства…</string>
     <string name="global_wa_main_item_desc_cache">Очистка кеша не повлияет на регулярное использование</string>
-    <string name="global_wa_main_item_desc_chat">Вы можете просмотреть вложения на следующей странице</string>
+    <string name="global_wa_main_item_desc_chat">Вложения можно просмотреть на следующей странице</string>
     <string name="global_wa_main_item_title_cache">Кеш приложений</string>
     <string name="global_wa_main_item_title_chat">Вложения</string>
     <string name="global_wa_main_stop_cancel">Отмена</string>
@@ -902,9 +902,9 @@
     <string name="reset_app_dialog_summary">Будет выполнен сброс выбранных приложений. Все данные приложений (включая статус входа в систему, настройки, кэшированные изображения, видео, файлы и чаты) будут удалены безвозвратно, это вернет приложения в исходное состояние.</string>
     <string name="reset_app_dialog_title">Сброс приложений</string>
     <string name="reset_selected">Сброс %s</string>
-    <string name="resutl_function_deep_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data></string>
-    <string name="resutl_function_qq_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data></string>
-    <string name="resutl_function_wechat_clean_summary"><Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
+    <string name="resutl_function_deep_clean_summary"><Data>Можно очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data></string>
+    <string name="resutl_function_qq_clean_summary"><Data>Можно очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data></string>
+    <string name="resutl_function_wechat_clean_summary"><Data>Можно очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
     <string name="rs_clean_size_free_space">Освободите %s</string>
     <string name="rs_clean_size_storage_size">Занято %1$s/%2$s</string>
     <string name="rs_clean_size_storage_title">Хранилище</string>

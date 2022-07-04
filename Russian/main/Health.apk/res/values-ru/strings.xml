@@ -283,8 +283,8 @@
     <string name="data_source_list_description">Приложение Здоровье получает данные о состоянии здоровья (%1$s) из этих источников. Если данные дублируются из нескольких источников, будут отображаться данные, которые появляются первыми.</string>
     <string name="data_source_manage">Управление источниками данных</string>
     <string name="data_source_not_support_hm_description">"%1$s не предоставляет данные о количестве шагов. Попробуйте другой источник данных в Настройки > Источники данных."</string>
-    <string name="data_source_not_support_hm_description_consume">Выбранный источник данных (%1$s) не содержит подробных данных о потреблении. Вы можете выбрать другой источник данных в Настройки > Источники данных.</string>
-    <string name="data_source_not_support_hm_description_duration">Выбранный источник данных (%1$s) не содержит сведений о продолжительности активности. Вы можете выбрать другой источник данных в Настройки > Источники данных.</string>
+    <string name="data_source_not_support_hm_description_consume">Выбранный источник данных (%1$s) не содержит подробных данных о потреблении. Другой источник данных можно выбрать в Настройки > Источники данных.</string>
+    <string name="data_source_not_support_hm_description_duration">Выбранный источник данных (%1$s) не содержит сведений о продолжительности активности. Другой источник данных можно выбрать в Настройки > Источники данных.</string>
     <string name="date">Дата</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -415,8 +415,8 @@ ID:%s
 3. Данные о состоянии здоровья из приложений Здоровье, Xiaomi Wear и других приложений в одном месте."</string>
     <string name="dialog_upgrade_positive_btn">Обновить</string>
     <string name="dialog_upgrade_title">Mi Фитнес</string>
-    <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Используйте приложение для подсчета пройденных шагов, сбора статистики о вашем сне, менструальном цикле и весе, а также для синхронизации статистики с облаком.</string>
-    <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Вы можете использовать это приложение для спортивного шагомера, отслеживания сна, менструального цикла, веса, а также для использования сервиса Xiaomi Health Cloud и других функций.</string>
+    <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчета шагов, отслеживания сна, менструального цикла, веса, синхронизации статистики с облаком.</string>
+    <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчета шагов, отслеживания сна, менструального цикла, веса и многого другого.</string>
     <string name="diastolic_pressure">Диастолическое</string>
     <string name="disable">Отключить</string>
     <string name="discard_update">Нет, спасибо</string>
@@ -475,11 +475,11 @@ ID:%s
     <string name="exercise_correct">Корректно</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве калорий.
-Вы можете выбрать другой источник данных в Настройки > Источники данных."</string>
+Можно выбрать другой источник данных в Настройки > Источники данных."</string>
     <string name="exercise_detail_no_exercise_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о длительности упражнения.
-Вы можете выбрать другой источник данных в Настройки > Источники данных."</string>
+Можно выбрать другой источник данных в Настройки > Источники данных."</string>
     <string name="exercise_detail_no_steps_hint">"Выбранный источник данных (%1$s) не предоставляет информацию о количестве шагов.
-Вы можете выбрать другой источник данных в Настройки > Источники данных."</string>
+Можно выбрать другой источник данных в Настройки > Источники данных."</string>
     <string name="exercise_duration">Длительность</string>
     <string name="exercise_duration_consume">Длительность: %1$s | Сожжено: %2$s</string>
     <string name="exercise_fast_description">%1$s (%2$s)</string>
@@ -1384,8 +1384,8 @@ ID:%s
     <string name="sleep_setting_title">Настройки сна</string>
     <string name="sleep_snore_audio_auto">Отслеживайте свое аудио</string>
     <string name="sleep_snore_audio_auto_desc">Записывайте разговор, когда вы спите, и сохраняйте файл в телефоне, чтобы защитить свою конфиденциальность.</string>
-    <string name="sleep_snore_audio_close_desc">Вы можете отключить его в настройках сна.</string>
-    <string name="sleep_snore_audio_enable">Обнаружения включены</string>
+    <string name="sleep_snore_audio_close_desc">Можно отключить его в настройках сна.</string>
+    <string name="sleep_snore_audio_enable">Обнаружение включено</string>
     <string name="sleep_snore_audio_enable_desc">Сегодня ночью ваш сон будет отслеживаться автоматически.</string>
     <string name="sleep_snore_audio_file_mamagement_desc">Автоматически удалять старые записи для экономии места на устройстве (будут храниться только 100 МБ последних записей).</string>
     <string name="sleep_snore_audio_file_mamagement_title">Автоочистка записей</string>

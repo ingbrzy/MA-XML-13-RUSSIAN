@@ -3066,9 +3066,9 @@
     <string name="video_editor_smart_effect_radical">Позитив</string>
     <string name="video_editor_smart_effect_rhythm">Пульс</string>
     <string name="video_editor_smart_effect_street">Мегаполис</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">Вы можете применить этот эффект к видео не длиннее %d сек. Длительность исправлена автоматически.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">Этот эффект можно применить к видео не длиннее %d сек. Длительность исправлена автоматически.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">Этот эффект можно применить к видео длиной не менее %d сек.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">Вы можете применить этот эффект к видео не длиннее %d сек. Длительность исправлена автоматически.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">Этот эффект можно применить к видео не длиннее %d сек. Длительность исправлена автоматически.</string>
     <string name="video_editor_template_family">Семья</string>
     <string name="video_editor_template_forbidden_tips">Нельзя сделать это при помощи шаблона</string>
     <string name="video_editor_template_oldfilm">Ретро</string>
