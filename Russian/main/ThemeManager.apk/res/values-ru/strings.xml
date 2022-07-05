@@ -291,7 +291,7 @@
     <string name="download_failed">Ошибка загрузки</string>
     <string name="download_preview_failed">Не удалось загрузить эскиз</string>
     <string name="download_success">Загрузка завершена</string>
-    <string name="dynamic_video_wallpaper">Динамические обои</string>
+    <string name="dynamic_video_wallpaper">24-часовые обои</string>
     <string name="early_morning">Утро</string>
     <string name="empty"/>
     <string name="enable_all_free_mode">Загрузить</string>
@@ -407,7 +407,7 @@
     <string name="fold_restore_default_theme_dialog_content">Использование тем больше недоступно на этом устройстве. Вы можете восстановить тему по умолчанию.</string>
     <string name="fold_restore_default_theme_dialog_disagree">Нет, спасибо</string>
     <string name="fold_restore_default_theme_dialog_title">Восстановление темы по умолчанию</string>
-    <string name="fold_sensor_video_wallpaper_group">Динамические обои для складных устройств</string>
+    <string name="fold_sensor_video_wallpaper_group">Живые обои для складных устройств</string>
     <string name="font_compat_dialog_buy_confirm">Купить</string>
     <string name="font_compat_dialog_buy_content">Сторонние шрифты могут не поддерживаться некоторыми приложениями. Эта проблема совместимости будет исправлена в следующих обновлениях системы. Купить этот шрифт?</string>
     <string name="font_compat_dialog_cancel">Отмена</string>
@@ -844,14 +844,14 @@ mm"</string>
     <string name="privacy_phone_important_prompt_content">"Отсутствует согласие с нашими Пользовательским соглашением и Политикой конфиденциальности. Тем не менее, основные функции и услуги Обои и персонализация по-прежнему доступны Вам.
 Каждый раз, когда на этом устройстве Вы используете компоненты для персонализации (обои, рингтоны, и т.д.), мы будем запрашивать разрешение на доступ к хранилищу."</string>
     <string name="privacy_phone_logoff_service_content">Отказ от услуг Темы</string>
-    <string name="privacy_phone_logoff_theme_content_3">3. Все темы, обои, динамические обои, шрифты, иконки и рингтоны, загруженные на это устройство.</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. Все темы, обои, живые обои, шрифты, иконки и рингтоны, загруженные на это устройство.</string>
     <string name="privacy_phone_logoff_theme_content_4">4. История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве. </string>
     <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас достаточно прав для отказа от услуг.
 2. Отказ от услуг Темы не повлияет на нормальное использование других продуктов Xiaomi.
 3. Отказ от услуг - необратимое действие. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отказа от услуг. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами) следующие данные:"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Все компоненты (в том числе оплаченные), на устройствах Xiaomi. Вы больше не сможете использовать приобретенные компоненты.
 Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.
-Все темы, обои, динамические обои, шрифты, иконки и рингтоны, загруженные на это устройство.
+Все темы, обои, живые обои, шрифты, иконки и рингтоны, загруженные на это устройство.
 История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, используемые на этом устройстве. Будут восстановлены настройки персонализации по умолчанию."</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Отказ от услуг не означает освобождения или смягчения ответственности, возникшей в результате действий до отказа от услуг.</string>
@@ -862,14 +862,14 @@ mm"</string>
     <string name="privacy_phone_read_and_write_storage_above_eleven">Доступ к хранилищу</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отказе от услуг Темы&lt;/a>&lt;/font>\".</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отзыве согласия с Политикой конфиденциальности Темы&lt;/a>&lt;/font>\".</Data></string>
-    <string name="privacy_phone_revoke_agree_content_3">3. Все темы, обои, динамические обои, шрифты, иконки и рингтоны, загруженные на это устройство.</string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Все темы, обои, живые обои, шрифты, иконки и рингтоны, загруженные на это устройство.</string>
     <string name="privacy_phone_revoke_agree_content_4">4. История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве.</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас есть права отозвать согласие.
 2. Ваш отзыв согласия с Политикой конфиденциальности Темы не повлияет на нормальное использование других продуктов Xiaomi.
 3. Отзыв согласия является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отзыва согласия. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами) следующие данные:"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Все заказы (включая оплаченные), сделанные на устройствах Xiaomi, на которых Вы использовали свой Xiaomi аккаунт. Вы больше не сможете использовать приобретенные компоненты.
 Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, на устройствах Xiaomi, на которых Вы использовали свой Xiaomi аккаунт.
-Все темы, обои, динамические обои, шрифты, иконки и рингтоны, загруженные на это устройство.
+Все темы, обои, живые обои, шрифты, иконки и рингтоны, загруженные на это устройство.
 История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, используемые на этом устройстве. Будут восстановлены настройки персонализации по умолчанию."</string>
     <string name="privacy_phone_revoke_agree_detail_content_3">"4. После отзыва согласия с Политикой конфиденциальности Темы, сбор Вашей личной информации будет прекращен. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. 
@@ -1401,7 +1401,7 @@ mm"</string>
     <string name="theme_component_title_ringtone">Мелодии</string>
     <string name="theme_component_title_statusbar">Строка состояния</string>
     <string name="theme_component_title_wallpaper">Обои</string>
-    <string name="theme_component_video_wallpaper">Динамические обои</string>
+    <string name="theme_component_video_wallpaper">Живые обои</string>
     <string name="theme_current_using_has_update">Тема была обновлена. Нажмите, чтобы применить.</string>
     <string name="theme_description_title_customized">Изменено</string>
     <string name="theme_description_title_default">По умолчанию</string>
@@ -1461,7 +1461,7 @@ mm"</string>
     <string name="title_component">Компоненты тем</string>
     <string name="title_my_audio_resource">Мои мелодии</string>
     <string name="title_my_miwallpaper_desktop_effects">Живые обои</string>
-    <string name="title_my_miwallpaper_resource">Мои динамические обои</string>
+    <string name="title_my_miwallpaper_resource">Мои живые обои</string>
     <string name="title_my_miwallpaper_video_file_resource">Мои живые обои</string>
     <string name="title_my_wallpaper">Мои обои</string>
     <string name="title_my_wallpaper_resource">Мои обои</string>

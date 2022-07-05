@@ -87,7 +87,7 @@
     <string-array name="settings_search_superwp">
         <item>Суперобои</item>
         <item>Обои/Суперобои</item>
-        <item>Суперобои;Обои;Динамические обои;3D-обои</item>
+        <item>Суперобои;Обои;Живые обои;3D-обои</item>
     </string-array>
     <string-array name="settings_search_weather">
         <item>Погода</item>
