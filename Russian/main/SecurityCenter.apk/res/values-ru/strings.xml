@@ -2128,6 +2128,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_ngtb_gpu">GPU</string>
     <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
+    <string name="gb_performace_guide_disable_desc"><Data>"Переключение в сбалансированный режим в Ускорении игр недоступно, если включен общесистемный производительный режим. Настройки режима можно изменить в приложении &lt;a href=\"#\">Безопасность&lt;/a>."</Data></string>
     <string name="gb_performance_balance">Сбалансированный</string>
     <string name="gb_performance_balance_tips">"Сбалансированный режим экономит заряд,
 снижая частоту обновления и вероятность перегрева"</string>

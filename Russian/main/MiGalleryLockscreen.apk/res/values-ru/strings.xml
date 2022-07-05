@@ -106,9 +106,9 @@
     <string name="app_self_upgrade_dlg_title">Доступно обновление</string>
     <string name="app_self_upgrade_toast_downloading_install">Обновление…</string>
     <string name="apply">Применить</string>
-    <string name="apply_to_above_all">Установить везде</string>
-    <string name="apply_to_screenlock">Установить на экран блокировки</string>
-    <string name="apply_to_wallpaper">Установить на рабочий стол</string>
+    <string name="apply_to_above_all">Применить везде</string>
+    <string name="apply_to_screenlock">Применить к экрану блокировки</string>
+    <string name="apply_to_wallpaper">Применить к рабочему столу</string>
     <string name="article_item_hot">Посмотрите новые популярные статьи: %s+ </string>
     <string name="at_least_one">Выберите хотя бы одну категорию</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>

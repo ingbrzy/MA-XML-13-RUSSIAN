@@ -2256,7 +2256,6 @@
     <string name="error_message_respond_revert_20">@string/error_message_auth_error</string>
     <string name="error_message_respond_revert_22">@string/error_message_account_or_password</string>
     <string name="error_message_respond_revert_23">@string/error_message_account_or_password</string>
-    <string name="error_message_respond_revert_24">@string/error_message_blacklist</string>
     <string name="esim_inactive_notification_channel">eSimInActiveNotification</string>
     <string name="esim_inactive_notification_channel_for_global">eSimInActiveNotificationForGlobal</string>
     <string name="event_lunar_month">月</string>

@@ -1221,7 +1221,7 @@
     <string name="fiveg_switch_title">Сеть 5G</string>
     <string name="fiveg_upperlayer_indication1">Состояние индикации верхнего уровня :</string>
     <string name="flash_when_ring_summary">Использовать вспышку для уведомления о входящих вызовах</string>
-    <string name="flash_when_ring_title">Вспышка при звонке</string>
+    <string name="flash_when_ring_title">Вспышка при вызове</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -1503,6 +1503,7 @@
     <string name="location">Местоположение</string>
     <string name="lodgings_disable">Аренда отключена</string>
     <string name="lodgings_enable">Аренда включена</string>
+    <string name="low_battery_flash_when_ring_button_tip">Вспышка при вызове недоступна из-за низкого заряда батареи</string>
     <string name="lte_band_sel_setting">список диапазонов</string>
     <string name="lte_band_set_status">диапазон lte</string>
     <string name="lte_freq_set_button">частота и pci</string>
@@ -1996,7 +1997,7 @@
     <string name="path_enable_antispam_strange_title">Системные приложения/Телефон/Входящие вызовы/Приглушать начало звонка</string>
     <string name="path_enable_proximity_title">Системные приложения/Телефон/Входящие вызовы/Датчик приближения</string>
     <string name="path_fdn">Системные приложения/Телефон/Расширенные настройки/Разрешенные номера</string>
-    <string name="path_flash_when_ring_title">Системные приложения/Телефон/Входящие вызовы/Вспышка при звонке</string>
+    <string name="path_flash_when_ring_title">Системные приложения/Телефон/Входящие вызовы/Вспышка при вызове</string>
     <string name="path_handon_ringer_title">Системные приложения/Телефон/Входящие вызовы/Приглушать звонок при взятии в руки</string>
     <string name="path_missed_call_notify_times_title">Системные приложения/Телефон/Расширенные настройки/Напоминания о пропущенных вызовах</string>
     <string name="path_preference_dial_pad_touch_tone_title">Системные приложения/Телефон/Расширенные настройки/Звук при наборе номера</string>

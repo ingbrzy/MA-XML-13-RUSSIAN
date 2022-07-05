@@ -159,11 +159,11 @@
     <string name="app_install_state">Установлено</string>
     <string name="app_name">matrix-io-canary</string>
     <string name="application_name">Рабочий стол MIUI</string>
-    <string name="apply">Установить</string>
-    <string name="apply_action">Установить</string>
-    <string name="apply_as_lock_screen">Установить на экран блокировки</string>
-    <string name="apply_as_wallpaper">Установить на рабочий стол</string>
-    <string name="apply_both">Установить везде</string>
+    <string name="apply">Применить</string>
+    <string name="apply_action">Применить</string>
+    <string name="apply_as_lock_screen">Применить к экрану блокировки</string>
+    <string name="apply_as_wallpaper">Применить к рабочему столу</string>
+    <string name="apply_both">Применить везде</string>
     <string name="apply_text">ПРИМЕНИТЬ</string>
     <string name="aqi_quality_index_dangerous">Очень нездоровый</string>
     <string name="aqi_quality_index_good">Хороший</string>

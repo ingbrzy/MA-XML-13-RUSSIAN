@@ -1807,6 +1807,7 @@
     <string name="bootloader_tips_ok">Понятно</string>
     <string name="bootloader_tips_warning">"Не отключайтесь от сети, не выходите из Xiaomi аккаунта, не выполняйте сброс настроек или очистку данных системных приложений."</string>
     <string name="bottom_function_settings">Функции дополнительных кнопок</string>
+    <string name="bottom_to_top_slide">Свайп вверх</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="breathing_light_color_menu_title">Цвет индикатора</string>
     <string name="breathing_light_color_summary">Цвет индикатора для уведомлений</string>
@@ -4869,6 +4870,7 @@ ID: %s
     <string name="left_right_hand_switch">Левая/правая</string>
     <string name="left_right_hand_switch_summary">Перестановка левой и правой части клавиатуры одним касанием</string>
     <string name="left_shoulder_key">Левый</string>
+    <string name="left_to_right_slide">Свайп вправо</string>
     <string name="legacy_control_center_desc">Свайп вниз - стандартная шторка с переключателями и уведомлениями</string>
     <string name="legacy_control_center_title">Старый стиль</string>
     <string name="legacy_navigation_summary">Кнопки навигации внизу экрана (Назад, Домой, Недавние приложения)</string>
@@ -5716,6 +5718,9 @@ ID: %s
     <string name="miheadset_key_config_triple_right">Коснитесь трижды правого наушника</string>
     <string name="miheadset_key_config_volume_down">Уменьшение громкости</string>
     <string name="miheadset_key_config_volume_up">Увеличение громкости</string>
+    <string name="miheadset_keyconfig_click_thrice">Тройное нажатие кнопки</string>
+    <string name="miheadset_keyconfig_click_twice">Двойное нажатие кнопки</string>
+    <string name="miheadset_keyconfig_press_long">Нажмите и удерживайте кнопку %d сек.</string>
     <string name="miheadset_last_version">Обновление не требуется</string>
     <string name="miheadset_local_ota">Обновить</string>
     <string name="miheadset_low_latency">Низкая задержка</string>
@@ -7592,6 +7597,7 @@ UT-интерфейс: %5$s"</string>
     <string name="right_edge">Правый край</string>
     <string name="right_function_key">Правый ярлык</string>
     <string name="right_shoulder_key">Правый</string>
+    <string name="right_to_left_slide">Свайп влево</string>
     <string name="ring_to_you">Рингтон вызова</string>
     <string name="ring_to_you_info">Установите свой рингтон, который услышат вызывающие абоненты</string>
     <string name="ring_volume_option_title">Рингтоны и уведомления</string>
@@ -9655,6 +9661,7 @@ UT-интерфейс: %5$s"</string>
     <string name="toggle_auto_speaker_preference_title">Автопереключение на динамик</string>
     <string name="toggle_collapse_after_clicked_title">Скрывать после касания</string>
     <string name="tomorrow">Завтра</string>
+    <string name="top_to_bottom_slide">Свайп вниз</string>
     <string name="total">Не беспокоить</string>
     <string name="total_info">Все звуки и вибрация отключены, кроме будильников</string>
     <string name="total_info_no_vibrator">Все звуки отключены, кроме будильников</string>
@@ -11258,6 +11265,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wizard_finish">Готово</string>
     <string name="wizard_next">Далее</string>
     <string name="wlan_scanner_unresizeble">Разделение экрана для настроек Wi-Fi не поддерживается</string>
+    <string name="wlan_switch_tips">Переключение сетей Wi-Fi</string>
+    <string name="wlan_switch_tips_message">При переключении между вспомогательной и основной сетями Wi-Fi, устройство будет временно отключено от вспомогательной сети Wi-Fi. Переключиться?</string>
     <string name="words_title">Текст</string>
     <string name="work_alarm_ringtone_title">Звук будильника по умолчанию</string>
     <string name="work_mode_label">Рабочий режим</string>

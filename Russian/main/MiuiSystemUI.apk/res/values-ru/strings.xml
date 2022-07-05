@@ -936,6 +936,9 @@
     <string name="device_locked_without_biometric_face">Разблокировка с помощью данных лица недоступна при использовании сторонней блокировки</string>
     <string name="device_locked_without_biometric_finger">Разблокировка с помощью отпечатка недоступна при использовании сторонней блокировки</string>
     <string name="device_services">Службы устройства</string>
+    <string name="dialog_forget_password_cancel">Отмена</string>
+    <string name="dialog_forget_password_message">Если вы забыли PUK-код, вы можете отключить эту eSIM, чтобы не потерять доступ к устройству. После этого вы можете обратиться за помощью к оператору связи.</string>
+    <string name="dialog_forget_password_ok">Отключить</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Примечание: для запуска этого приложения после перезагрузки, разблокируйте устройство.</string>
     <string name="disable_carrier_button_text">Отключить eSIM</string>
@@ -1185,6 +1188,7 @@
     <string name="force_rtl_layout_all_locales_summary">Включить написание справа налево для всех языков</string>
     <string name="forced_resizable_secondary_display">Приложение может не работать на дополнительном экране.</string>
     <string name="forget_password_string">Забыли пароль?</string>
+    <string name="forget_password_string_for_esim"><u>Забыли PUK-код?</u></string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
