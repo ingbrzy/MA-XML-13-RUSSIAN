@@ -148,9 +148,14 @@
     <string-array name="error_message_respond">
         <item>LOGIN Ошибка входа или неверный пароль</item>
         <item>LOGIN Ошибка входа. Неверный пароль.</item>
+        <item>Неверный логин или пароль</item>
+        <item>LOGIN Ошибка. Неверный логин или пароль</item>
+        <item>LOGIN errno:1424, аккаунт не существует (md return:2100001)</item>		
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
         <item>Используйте код авторизации для входа. Подробнее: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Неверный код авторизации. Подробнее на https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>LOGIN Ошибка входа. Пользователь заблокирован.</item>
+        <item>LOGIN Ошибка, требуется аторизация\ufffd</item>		
         <item>LOGIN errno:1423, ошибка пароля пользователя (sp return:2200019)</item>
         <item>AUTHENTICATIONFAILED LOGIN Неверные учетные данные</item>
         <item>Ошибка входа. Неверный пароль или служба не доступна.</item>
@@ -170,6 +175,8 @@
         <item>Неверный логин или пароль</item>
         <item>IP-адрес XXXXXXX в черном списке. Переключите сеть или войдите на https://mail.sohu.com, чтобы настроить белый список IP-адресов клиента</item>
         <item>java.net.UnknownHostException: Невозможно определить хост XXXX : отсутствует адрес, связанный с именем хоста</item>
+        <item>клиент отключен, переключите статус на https://mail.sohu.com</item>
+        <item>отсутствует начальный пароль, войдите на https://mail.sohu.com, чтобы сгенерировать пароль клиента</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Мелкий</item>
