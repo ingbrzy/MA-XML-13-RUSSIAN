@@ -31,6 +31,8 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_name">MIUI+</string>
+    <string name="app_no_storage_permission">Разрешите %1$s доступ к хранилищу в  Настройки > Приложения > %2$s > Разрешения</string>
+    <string name="app_opened_in_new_window">Приложение открыто в новом окне</string>
     <string name="cancel">Отмена</string>
     <string name="cast_mcc_tips_button_cancel">Отмена</string>
     <string name="cast_mcc_tips_button_ok">Настройки</string>
@@ -279,6 +281,7 @@
     <string name="screen_num_over_limit">Достигнут лимит количества окон</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
+    <string name="settings_bluetooth_enable_summary">Включите Bluetooth для поиска устройств поблизости</string>
     <string name="settings_connect">Как подключиться</string>
     <string name="settings_connect_more_help">Помощь</string>
     <string name="settings_connect_pc_group">Работа с ПК</string>
@@ -305,6 +308,7 @@
     <string name="settings_feature_multi_window_title">Несколько окон</string>
     <string name="settings_feature_pc_edit_files_summary">Щелкните правой кнопкой мыши на файлах в Галерее или Проводнике, чтобы отредактировать их на компьютере.</string>
     <string name="settings_feature_pc_edit_files_title">Редактирование на компьютере</string>
+    <string name="settings_handoff_enable_bluetooth">Включите Bluetooth для поиска устройств поблизости</string>
     <string name="settings_history">История подключений</string>
     <string name="settings_history_clear">Очистить</string>
     <string name="settings_history_clear_dialog_title">Очистить историю подключений?</string>

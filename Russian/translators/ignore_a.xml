@@ -1313,6 +1313,7 @@
     <array name="super_wallpaper_res_scale_100_devices" />
     <string-array name="super_wallpaper_res_scale_10_devices"></string-array>
     <string-array name="support_accessibility_haptic_device_list"></string-array>
+    <string-array name="support_magic_window_device_list"></string-array>
     <string-array name="support_mi_nmea_devices"></string-array>
     <integer-array name="support_networktypes_cdma_master"></integer-array>
     <integer-array name="support_networktypes_cdma_master_all"></integer-array>
