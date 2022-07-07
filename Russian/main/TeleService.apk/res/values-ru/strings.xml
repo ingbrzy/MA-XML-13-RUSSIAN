@@ -1767,7 +1767,7 @@
     <string name="msim_setting_sim_info_editor_title">Информация SIM-карты</string>
     <string name="msim_sim_lock">Заблокирована</string>
     <string name="msim_sim_radio_off">Отключена</string>
-    <string name="msim_switch_data_conn_toast">Вы заменили SIM-карту. Тип сети изменен. Дополнительную информацию можно найти в меню Настройки > SIM-карты и мобильные сети.</string>
+    <string name="msim_switch_data_conn_toast">Вы сменили SIM-карту. Тип сети изменен.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">SIM-карта 2 поддерживает только сети GSM. Тип сети данной SIM-карты будет изменен на 2G.</string>
     <string name="mtn_simlock_emergency">SOS</string>
     <string name="mtn_simlock_text_tip">Вставленная SIM-карта не соответствует требованиям. Необходимо вставить SIM-карту, предусмотренную контрактом. Для получения подробной информации обратитесь к оператору связи.</string>
