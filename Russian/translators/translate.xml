@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="accessibility_banner_message_dismiss">Отклонить</string>
     <string name="accessibility_battery_full">Батарея заряжена.</string>
     <string name="accessibility_battery_level">Уровень заряда: %d.</string>

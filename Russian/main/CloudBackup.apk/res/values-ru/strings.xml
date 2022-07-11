@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_to_recover">Подождите…</string>
-    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
     <string name="app_is_running">Задача выполняется…</string>

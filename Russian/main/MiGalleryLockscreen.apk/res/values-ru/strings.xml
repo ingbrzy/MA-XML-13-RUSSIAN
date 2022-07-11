@@ -34,7 +34,7 @@
     <string name="about_newest">Карусель обоев устарела.</string>
     <string name="about_permission">Разрешения</string>
     <string name="about_update">Обновление</string>
-    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>
     <string name="account_crop_user_avatar">Обрезать фото</string>

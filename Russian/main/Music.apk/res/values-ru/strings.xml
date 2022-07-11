@@ -42,7 +42,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accept_failure">Не удалось принять приглашение~</string>
-    <string name="access_denied_info">Слишком много попыток. Повторите позже.</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="account_and_cloud">Аккаунт</string>
     <string name="account_bind_secure_email_title">Добавить адрес электронной почты</string>
     <string name="account_bind_secure_phone_title">Добавить номер телефона</string>

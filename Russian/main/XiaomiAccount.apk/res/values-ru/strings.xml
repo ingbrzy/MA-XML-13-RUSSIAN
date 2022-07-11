@@ -30,7 +30,7 @@
     <string name="about_device_info">Об устройстве</string>
     <string name="about_mi_account">О Xiaomi аккаунте</string>
     <string name="accept">Разрешить</string>
-    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="access_token_expired_warning">Срок действия аккаунта Weibo истек</string>
     <string name="access_token_invalid_warning">Некорректный аккаунт Weibo</string>
     <string name="account">Аккаунт</string>

@@ -257,6 +257,7 @@
     <string name="auto_upload_disable_tip">Синхронизация с облаком отключена</string>
     <string name="auto_upload_disable_toast_long_press_menu">Синхронизация с облаком отключена</string>
     <string name="auto_upload_enable_toast_long_press_menu">Синхронизация с облаком включена</string>
+    <string name="autocrop_enter">Xiaomi ProCut</string>
     <string name="baby_album">Детский альбом</string>
     <string name="baby_album_change_background">Изменить фон</string>
     <string name="baby_album_needs_auto_backup_tip">Не удалось отключить автоматическую синхронизацию Детского альбома</string>
@@ -685,11 +686,13 @@
     <string name="document_provider_guide_step_3">%d. Нажмите кнопку бокового меню.</string>
     <string name="document_provider_guide_step_4">%d. Выберите \"SD-карта\".</string>
     <string name="document_provider_guide_step_5">%d. Нажмите \"Выбрать\".</string>
+    <string name="dolby_vision_icon">Значок Dolby Vision</string>
     <string name="doodle_paint_select_heavy_talkback">Толстая</string>
     <string name="doodle_paint_select_light_talkback">Тонкая</string>
     <string name="doodle_paint_select_medium_talkback">Средняя</string>
     <string name="doodle_paint_select_talkback">Ширина штриха</string>
     <string name="double_tap_for_hr_preview_108m">Нажмите дважды еще раз для предпросмотра 108MP</string>
+    <string name="double_tap_for_hr_preview_200m">Нажмите дважды еще раз для предпросмотра 200MP</string>
     <string name="double_tap_to_higher_definition">Нажмите дважды для просмотра в HD</string>
     <string name="download_canceled">Загрузка отменена</string>
     <string name="download_delete_error_desc">Невозможно восстановить этот файл, поскольку он удален с этого устройства и из облака. Удалить отсутствующий файл?</string>
@@ -1218,6 +1221,7 @@
     <string name="homepage_allphotos_tip_dialog_title">Какие изображения хотите видеть в альбоме \"Фото\"?</string>
     <string name="how_to_set_relation">Нажмите и удерживайте альбом для создания группы</string>
     <string name="hr_preview_108m">Предпросмотр 108MP</string>
+    <string name="hr_preview_200m">Предпросмотр 200MP</string>
     <string name="hybrid_check_network">Настройки сети</string>
     <string name="hybrid_data_error">Произошла ошибка</string>
     <string name="hybrid_locating_fail">Не удалось определить местоположение</string>
@@ -1263,6 +1267,8 @@
     <string name="input_or_select_a_name">Введите или выберите имя</string>
     <string name="input_relation_name">Введите имя группы</string>
     <string name="install_fail">Не удалось загрузить плагин из-за ошибки.</string>
+    <string name="install_media_editor_download_description">Загрузка…</string>
+    <string name="install_media_editor_download_title">Загрузка плагина редактора…</string>
     <string name="install_media_editor_function_message">Для возможности использования \"%1$s\" загрузите последнюю версию редактора галереи.</string>
     <string name="install_media_editor_latest_message">Для возможности редактирования загрузите последнюю версию плагина.</string>
     <string name="install_media_editor_message">Для возможности редактирования необходимо загрузить плагин. Загрузить?</string>
@@ -2105,6 +2111,7 @@
     <string name="places_album_empty_title">Фото можно отсортировать по месту съемки</string>
     <string name="play_gif_desc">Воспроизвести GIF</string>
     <string name="play_video_desc">Воспроизвести видео</string>
+    <string name="pref_today_of_year_summary">Освежите в памяти лучшие моменты этого дня. Уже созданные моменты сохранятся при отключении этой функции.</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="prepare_to_drop">Сохранение в %s</string>
     <string name="preparing_data">Подождите…</string>
@@ -2436,6 +2443,8 @@
     <string name="select_item_face">"Это '%s'?"</string>
     <string name="select_origin_tip">Оригинал (%s)</string>
     <string name="send">Отправить</string>
+    <string name="send_dolby_vision_duration_more_than_40s">Видео Dolby Vision более 4 минут можно передать только в исходном формате, который может не поддерживаться принимающим устройством. Все равно продолжить?</string>
+    <string name="send_dolby_vision_video_continue">Продолжить</string>
     <string name="send_file_beautify_failed">Не удалось отправить</string>
     <string name="send_files_by">Отправить через</string>
     <string name="send_files_to">Отправить</string>
@@ -2906,6 +2915,8 @@
     <string name="today">Сегодня</string>
     <string name="today_of_year">В этот день</string>
     <string name="today_of_year_empty_tip">Ничего нет</string>
+    <string name="today_of_year_function_closed_btn_tip">Включить</string>
+    <string name="today_of_year_function_closed_tip">Вы еще не включили \"В этот день\"</string>
     <string name="today_of_year_location_num">Места</string>
     <string name="today_of_year_photo_num">Фотографии</string>
     <string name="tomorrow">Завтра</string>

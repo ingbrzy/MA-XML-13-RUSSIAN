@@ -67,7 +67,7 @@
     <string name="access_control_password_title">Использовать пароль</string>
     <string name="access_control_recording_intro_header">Задайте графический ключ</string>
     <string name="access_control_reset_by_account">Войдите в Xiaomi Аккаунт для сброса пароля</string>
-    <string name="access_denied_info">Слишком много попыток. Попробуйте позже.</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_audio_adjustment_title">Корректировка аудио</string>
     <string name="accessibility_autoclick_custom_title">Настройка</string>

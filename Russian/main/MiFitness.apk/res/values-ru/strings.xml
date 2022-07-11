@@ -125,7 +125,7 @@
     <string name="access_common_save_fail">Не удалось сохранить</string>
     <string name="access_common_save_success">Сохранено</string>
     <string name="access_common_waiting">Подождите…</string>
-    <string name="access_denied_info">Слишком много запросов. Подождите пару минут и повторите попытку.</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
     <string name="access_mine_thirdparty_access">Подключенные приложения</string>
     <string name="access_misport">Mi Fit</string>
     <string name="access_misport_auth_title">Войдите в Mi Fit</string>
