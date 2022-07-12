@@ -196,6 +196,7 @@
     <string-array name="bookmarks_vodafone_nl"></string-array>
     <string-array name="bookmarks_vodafone_pt"></string-array>
     <string-array name="bookmarks_vodafone_uk"></string-array>
+    <array name="bookshelf_recommend_detail_background"></array>
     <array name="boot_msg_text" />
     <string-array name="broadcast_locales"></string-array>
     <string-array name="bt_hci_snoop_log_values"></string-array>
@@ -719,6 +720,7 @@
     <string-array name="gb_gpu_custom_lod_value"></string-array>
     <string-array name="gb_gpu_custom_texture_value"></string-array>
     <string-array name="gb_voice_change_gender"></string-array>
+    <string-array name="general__notification_toolbar_book_tips_array"></string-array>
     <string-array name="general_preference_text_zoom_entries"></string-array>
     <string-array name="general_preference_text_zoom_values"></string-array>
     <string-array name="gesture_prevent_ringing_entries"></string-array>
@@ -1006,6 +1008,11 @@
     <string-array name="perms_hips_values"></string-array>
     <string-array name="persist_apns_for_plmn"></string-array>
     <string-array name="persist_service"></string-array>
+    <string-array name="personal__language_code_arr"></string-array>
+    <string-array name="personal__language_country_arr"></string-array>
+    <string-array name="personal__language_name_arr"></string-array>
+    <array name="personal__personal_item_ic_arr"></array>
+    <string-array name="personal__personal_item_title_arr"></string-array>
     <string-array name="phone_call_noise_suppression_values"></string-array>
     <string-array name="phone_type_values"></string-array>
     <string-array name="poco_device_list"></string-array>
@@ -1056,6 +1063,9 @@
     <string-array name="pref_nav_mode_summary_values"></string-array>
     <string-array name="pref_navscreen_layoutstate_values"></string-array>
     <string-array name="pref_security_do_not_track_values"></string-array>
+    <string-array name="pref_spinner_value_all"></string-array>
+    <string-array name="pref_spinner_value_sub_mode_one"></string-array>
+    <string-array name="pref_spinner_value_sub_mode_two"></string-array>
     <string-array name="pref_text_zoom_values"></string-array>
     <string-array name="pref_ua_values"></string-array>
     <string-array name="pref_video_encoder_entries"></string-array>
@@ -1126,6 +1136,7 @@
     <string-array name="radioAttributes"></string-array>
     <string-array name="rcs_fallback_value"></string-array>
     <string-array name="rcs_quality_value"></string-array>
+    <string-array name="reading_feedback_issue_cases"></string-array>
     <integer-array name="readmode_theme_bgcolors"></integer-array>
     <array name="readmode_theme_fontcolors"></array>
     <array name="recents_blacklist_array" />
@@ -1215,6 +1226,8 @@
     <string-array name="setting_phone_note_layout_way"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_detail"></string-array>
     <string-array name="settings_atmospheric_pressure_unit_values"></string-array>
+    <string-array name="settings_timeout_option_entries"></string-array>
+    <integer-array name="settings_timeout_option_value"></integer-array>
     <array name="shape_default_color_item"></array>
     <string-array name="show_hidden_task_if_finished_white_list_activity"></string-array>
     <string-array name="show_non_rect_clip_values"></string-array>
@@ -1295,6 +1308,8 @@
     <string-array name="stat_volume_button_behaviors"></string-array>
     <string-array name="status_bar_settings_qs_layout_values"></string-array>
     <array name="status_bar_show_spn_by_gid_when_airplane" />
+    <array name="store__web_page_background"></array>
+    <array name="store__web_page_background_color"></array>
     <string-array name="stylus_language_entries"></string-array>
     <string-array name="stylus_language_value"></string-array>
     <string-array name="subscreen_timeout_values"></string-array>
