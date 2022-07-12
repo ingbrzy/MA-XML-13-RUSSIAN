@@ -1023,6 +1023,7 @@
     <string name="btn_text_quick_save_power">Перейти</string>
     <string name="btn_text_quick_scan">Проверить</string>
     <string name="btn_text_stop">Остановить</string>
+    <string name="bubble_app_empty_page">Не удалось найти на устройстве приложения, поддерживающие \"пузыри\" диалога</string>
     <string name="bubble_app_manage">Управление \"пузырями\"</string>
     <string name="bubble_notification">\"Пузыри\" диалога</string>
     <string name="bubble_notification_switch">Показывать \"пузыри\"</string>
@@ -1729,6 +1730,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="fast_open_list_open_title">Включено для %s приложений</string>
     <string name="fast_open_noti_summary">%s отправил красный конверт</string>
     <string name="fast_open_summary">Быстрое получение красного конверта</string>
+    <string name="fbo_search_path" formatted="false">%s/%s/%s</string>
     <string name="file_confirm_start_activity">Приложение %s запрашивает доступ к Галерее и файлам приложений соцсетей. Разрешить?</string>
     <string name="finger_remind_message">Добавьте отпечаток пальца. Нажмите для открытия Настроек.</string>
     <string name="fingerprint_identify_msg">Разблокировка отпечатком</string>
@@ -4398,6 +4400,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="scan_open_shut_down_password_title">Подтверждение выключения</string>
     <string name="scan_status_risk">Найдены угрозы</string>
     <string name="scan_status_safe">Система защищена</string>
+    <string name="scan_widget_guide_title">Новый виджет</string>
     <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">Установите последнюю версию Записи экрана и повторите попытку.</string>
@@ -5020,6 +5023,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_menu_mount">Подключить</string>
     <string name="storage_mount_failure">Ошибка подключения: %1$s</string>
     <string name="storage_mount_success">Успешно подключено: %1$s</string>
+    <string name="storage_my_device">Устройство</string>
     <string name="storage_space_release_hint">Нужно больше места?</string>
     <string name="storage_system_log">Системные журналы</string>
     <string name="storage_system_log_tip">Системные журналы будут автоматически очищаться по необходимости</string>

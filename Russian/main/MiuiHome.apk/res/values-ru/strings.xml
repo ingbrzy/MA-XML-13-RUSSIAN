@@ -340,6 +340,7 @@
     <string name="exit_overview_because_task_stack_changed">Недавние закрыты из-за изменений в фоновом режиме</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
+    <string name="external_not_support_split_screen_j18">Разделение экрана не поддерживается для внешнего экрана</string>
     <string name="failed_to_delete_temporary">Ошибка удаления</string>
     <string name="failed_to_drop">Не удалось переместить</string>
     <string name="failed_to_drop_widget_invalid">Недопустимый виджет</string>
@@ -1053,5 +1054,8 @@
     <string name="work_profile_second_content">Рабочие приложения и данные видны вашему ИТ-администратору</string>
     <string name="work_profile_title">Рабочий профиль</string>
     <string name="work_profile_toggle_label">Рабочий профиль</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="yesterday">Вчера</string>
 </resources>

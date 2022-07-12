@@ -472,7 +472,9 @@
     <string name="pm_lable_name">О ROOT-доступе</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_declare_dialog_title">Условия использования</string>
+    <string name="privacy_name">Политика конфиденциальности</string>
     <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для получения информации о тарифах.</string>
+    <string name="privacy_title">Политика конфиденциальности</string>
     <string name="remove_kid_mode_tip_msg">При удалении дочернего пространства все данные в этом пространстве будут удалены без возможности восстановления. Удалить детское пространство?</string>
     <string name="renew_now">Продлить</string>
     <string name="restrict_time_interval">Период отключения</string>

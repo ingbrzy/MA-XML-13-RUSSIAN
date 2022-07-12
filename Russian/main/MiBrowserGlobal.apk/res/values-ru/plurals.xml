@@ -50,6 +50,21 @@
         <item quantity="other">Воспроизведение через %d сек.</item>
         <item quantity="one">Воспроизведение через %d сек.</item>
     </plurals>
+    <plurals name="bonus_amount">
+        <item quantity="other">%d бонусов</item>
+        <item quantity="one">%d бонус</item>
+        <item quantity="few">%d бонуса</item>
+    </plurals>
+    <plurals name="bookroom__clear_invalid_book_view__found">
+        <item quantity="other">Найдено &lt;font color="#ed6c00">%d&lt;/font> устаревших элементов</item>
+        <item quantity="one">Найден &lt;font color="#ed6c00">%d&lt;/font> устаревший элемент</item>
+        <item quantity="few">Найдено &lt;font color="#ed6c00">%d&lt;/font> устаревших элемента</item>
+    </plurals>
+    <plurals name="coin_amount">
+        <item quantity="other">%d монет</item>
+        <item quantity="one">%d монета</item>
+        <item quantity="few">%d монеты</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d дней назад</item>
         <item quantity="one">%1$d день назад</item>
@@ -64,10 +79,23 @@
         <item quantity="one">Удалить %d задание?</item>
         <item quantity="few">Удалить %d задания?</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотка назад на %d сек.</item>
+        <item quantity="one">Перемотка назад на %d сек.</item>
+    </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d файлов</item>
         <item quantity="one">%1$d файл</item>
         <item quantity="few">%1$d файла</item>
+    </plurals>
+    <plurals name="file_num">
+        <item quantity="other">%d файлов</item>
+        <item quantity="one">%d файл</item>
+        <item quantity="few">%d файла</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d совпадений</item>
@@ -78,6 +106,23 @@
         <item quantity="other">Найдено %1$d новых файлов</item>
         <item quantity="one">Найден %1$d новый файл</item>
         <item quantity="few">Найдено %1$d новых файла</item>
+    </plurals>
+    <plurals name="general__d_day_unit">
+        <item quantity="other">%d д.</item>
+        <item quantity="one">%d д.</item>
+    </plurals>
+    <plurals name="general__d_hour_unit">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="general__d_minute_unit">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="general__make_purchase_bonus">
+        <item quantity="other">+%d бонусов</item>
+        <item quantity="one">+%d бонус</item>
+        <item quantity="few">+%d бонуса</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
@@ -92,6 +137,11 @@
         <item quantity="one">%1$d час назад</item>
         <item quantity="few">%1$d часа назад</item>
     </plurals>
+    <plurals name="import_confirm">
+        <item quantity="other">Импорт %d файлов</item>
+        <item quantity="one">Импорт %d файла</item>
+        <item quantity="few">Импорт %d файлов</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через час</item>
     </plurals>
@@ -105,6 +155,28 @@
         <item quantity="other">через %d минут</item>
         <item quantity="one">через 1 минуту</item>
         <item quantity="few">через %d минуты</item>
+    </plurals>
+    <plurals name="income_expenses_bonus">
+        <item quantity="other">%1$s%2$d бонусов</item>
+        <item quantity="one">%1$s%2$d бонус</item>
+        <item quantity="few">%1$s%2$d бонуса</item>
+    </plurals>
+    <plurals name="income_expenses_coins">
+        <item quantity="other">%1$s%2$d монет</item>
+        <item quantity="one">%1$s%2$d монета</item>
+        <item quantity="few">%1$s%2$d монеты</item>
+    </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+        <item quantity="few">%d</item>
+        <item quantity="many">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">Защищено %d раз</item>
+        <item quantity="one">Защищено %d раз</item>
+        <item quantity="few">Защищено %d раза</item>
+        <item quantity="many">Защищено %d раз</item>
     </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">Загружено %d элементов</item>
@@ -153,6 +225,15 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="personal__continuous_days_card_tip">
+        <item quantity="other">День %d</item>
+        <item quantity="one">День %d</item>
+    </plurals>
+    <plurals name="personal__continuous_days_title">
+        <item quantity="other">дней</item>
+        <item quantity="one">день</item>
+        <item quantity="few">дня</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d игроков</item>
         <item quantity="one">%d игрок</item>
@@ -162,6 +243,24 @@
         <item quantity="other">Заблокировано: %d</item>
         <item quantity="one">Заблокировано: %d</item>
     </plurals>
+    <plurals name="privacy_dialog_next_plurals">
+        <item quantity="other">Далее (%1$d сек.)</item>
+        <item quantity="one">Далее (%1$d сек.)</item>
+    </plurals>
+    <plurals name="privacy_dialog_revoke_plurals">
+        <item quantity="other">Отозвать (%1$d сек.)</item>
+        <item quantity="one">Отозвать (%1$d сек.)</item>
+    </plurals>
+    <plurals name="scanning_notyfy">
+        <item quantity="other">Найдено %d файлов…</item>
+        <item quantity="one">Найден %d файл…</item>
+        <item quantity="few">Найдено %d файла…</item>
+    </plurals>
+    <plurals name="scanresult">
+        <item quantity="other">Найдено %d файлов</item>
+        <item quantity="one">Найден %d файл</item>
+        <item quantity="few">Найдено %d файла</item>
+    </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s поисковых запросов</item>
         <item quantity="one">%s поисковый запрос</item>
@@ -170,6 +269,11 @@
     <plurals name="sku_price">
         <item quantity="other">%2$s каждые %1$s месяцев</item>
         <item quantity="one">%2$s каждый %1$s месяц</item>
+    </plurals>
+    <plurals name="store__fiction_detail_all_chapter">
+        <item quantity="other">%d глав</item>
+        <item quantity="one">%d глава</item>
+        <item quantity="few">%d главы</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">%d треков</item>
@@ -228,6 +332,12 @@
         <item quantity="one">Осталась %d минута</item>
         <item quantity="few">Осталось %d минуты</item>
     </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s просмотров</item>
+        <item quantity="one">%s просмотр</item>
+        <item quantity="few">%s просмотра</item>
+        <item quantity="many">%s просмотров</item>
+    </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">%1$d новых видео</item>
         <item quantity="one">%1$d новое видео</item>
@@ -247,5 +357,69 @@
         <item quantity="other">Проголосовало %d человек</item>
         <item quantity="one">Проголосовал %d человек</item>
         <item quantity="few">Проголосовало %d человека</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">Заблокировано %d рекламных записей</item>
+        <item quantity="one">Заблокирована %d рекламная запись</item>
+        <item quantity="few">Заблокированы %d рекламные записи</item>
+        <item quantity="many">Заблокировано %d рекламных записей</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">Разрешено %d раз</item>
+        <item quantity="one">Разрешено %d раз</item>
+        <item quantity="few">Разрешено %d раза</item>
+        <item quantity="many">Разрешено %d раз</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">Запрещено %d раз</item>
+        <item quantity="one">Запрещено %d раз</item>
+        <item quantity="few">Запрещено %d раза</item>
+        <item quantity="many">Запрещено %d раз</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">Остановлено %d раз</item>
+        <item quantity="one">Остановлено %d раз</item>
+        <item quantity="few">Остановлено %d раза</item>
+        <item quantity="many">Остановлено %d раз</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">Заблокировано %s рекламных записей</item>
+        <item quantity="one">Заблокирована %s рекламная запись</item>
+        <item quantity="few">Заблокированы %s рекламные записи</item>
+        <item quantity="many">Заблокировано %s рекламных записей</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">Разрешено %s раз</item>
+        <item quantity="one">Разрешено %s раз</item>
+        <item quantity="few">Разрешено %s раза</item>
+        <item quantity="many">Разрешено %s раз</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">Запрещено %s раз</item>
+        <item quantity="one">Запрещено %s раз</item>
+        <item quantity="few">Запрещено %s раза</item>
+        <item quantity="many">Запрещено %s раз</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">Остановлено %s раз</item>
+        <item quantity="one">Остановлено %s раз</item>
+        <item quantity="few">Остановлено %s раза</item>
+        <item quantity="many">Остановлено %s раз</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s дней</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дня</item>
+        <item quantity="many">%s дней</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s раз</item>
+        <item quantity="one">%s раз</item>
+        <item quantity="few">%s раза</item>
+        <item quantity="many">%s раз</item>
+    </plurals>
+    <plurals name="welcome_skip_count_down">
+        <item quantity="other">%d сек.</item>
+        <item quantity="one">%d сек.</item>
     </plurals>
 </resources>

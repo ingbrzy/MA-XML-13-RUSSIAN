@@ -150,11 +150,11 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме вызовов и аудио)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме вызовов и аудио) | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">Подключено (нет доступа к сообщениям)</string>
-    <string name="bluetooth_connecting">Подключение...</string>
+    <string name="bluetooth_connecting">Подключение…</string>
     <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку.</string>
     <string name="bluetooth_disconnected">Нет подключения</string>
-    <string name="bluetooth_disconnecting">Отключение...</string>
+    <string name="bluetooth_disconnecting">Отключение…</string>
     <string name="bluetooth_dun_profile_summary_connected">Подключено к серверу коммутируемого доступа</string>
     <string name="bluetooth_dun_profile_summary_use_for">Использовать для коммутируемого доступа к сети</string>
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
@@ -174,7 +174,7 @@
     <string name="bluetooth_opp_profile_summary_connected">Установлено подключение к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_use_for">Используется для передачи файлов</string>
-    <string name="bluetooth_pairing">Сопряжение...</string>
+    <string name="bluetooth_pairing">Сопряжение…</string>
     <string name="bluetooth_pairing_accept">Добавить</string>
     <string name="bluetooth_pairing_accept_all_caps">ДОБАВИТЬ</string>
     <string name="bluetooth_pairing_decline">Отмена</string>

@@ -727,6 +727,8 @@
     <string name="worldcolock_timezone_gap">| %s ч.</string>
     <string name="worldcolock_timezone_local">| как местное время</string>
     <string name="xiaoai_ringtone_title">Mi AI рингтоны</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">Приложение \"Часы\" является системным. После удаления вы не сможете проверять время, устанавливать будильники или использовать другие функции.</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Удалить \"Часы\"?</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
