@@ -98,6 +98,7 @@
     <string name="controls_favorite_removed">Все элементы управления удалены</string>
     <string name="controls_favorite_subtitle">Выберите элементы управления для доступа из меню питания</string>
     <string name="controls_favorite_toast_no_changes">Изменения не сохранены</string>
+    <string name="controls_media_title">Медиа</string>
     <string name="controls_menu_add">Добавить</string>
     <string name="controls_menu_edit">Изменить</string>
     <string name="controls_mijia_setup_subtitle">Выберите приложение для управления умным домом</string>
@@ -205,6 +206,8 @@
     <string name="miui_toast_zen_to_dnd_when_lock">Звуки рингтонов и уведомлений будут отключены при блокировке устройства</string>
     <string name="miui_toast_zen_to_standard">Включен режим \"Без звука\"</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Включен режим \"Без звука\". Звуки рингтонов, уведомлений и мультимедиа отключены.</string>
+    <string name="miuix_access_state_desc">Выбрано</string>
+    <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
@@ -219,6 +222,8 @@
     <string name="miuix_appcompat_select_all">Выбрать все</string>
     <string name="miuix_appcompat_select_all_description">Выбор всех объектов</string>
     <string name="miuix_appcompat_select_item">Выберите объекты</string>
+    <string name="miuix_indexer_collect">Подборки</string>
+    <string name="miuix_indexer_selected">Выбрано: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Потяните вниз для обновления</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Успешно обновлено</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Обновление…</string>

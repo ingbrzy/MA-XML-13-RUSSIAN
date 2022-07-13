@@ -5646,6 +5646,7 @@ ID: %s
     <string name="miheadset_cancel_device">Отмена</string>
     <string name="miheadset_checkUpdate">Проверка обновлений</string>
     <string name="miheadset_closeAnc">Откл.</string>
+    <string name="miheadset_close_leaudio_first">Отключите LE Audio в дополнительных настройках, чтобы использовать эту функцию.</string>
     <string name="miheadset_codec_sample_rate">Частота дискретизации звука Bluetooth</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Подключите наушники для просмотра версии прошивки</string>
@@ -5738,6 +5739,7 @@ ID: %s
     <string name="miheadset_notification_title">Виджет в шторке уведомлений</string>
     <string name="miheadset_ok_device">ОК</string>
     <string name="miheadset_openAnc">Шумоподавление</string>
+    <string name="miheadset_openAnc2">Шумоподавление</string>
     <string name="miheadset_play_pause">Воспроизведение/Пауза</string>
     <string name="miheadset_plus">Прибавить</string>
     <string name="miheadset_preferences">Настройки</string>
