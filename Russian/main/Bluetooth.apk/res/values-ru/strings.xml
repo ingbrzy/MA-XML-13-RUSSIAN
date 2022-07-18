@@ -147,7 +147,7 @@
     <string name="incoming_file_confirm_cancel">Отклонить</string>
     <string name="incoming_file_confirm_content">Принять файл?</string>
     <string name="incoming_file_confirm_ok">Принять</string>
-    <string name="incoming_file_confirm_timeout_content">В процессе приема файла от \"%1$s\" произошел тайм-аут</string>
+    <string name="incoming_file_confirm_timeout_content">В процессе приёма файла от \"%1$s\" истёк тайм-аут</string>
     <string name="incoming_file_confirm_timeout_ok">ОК</string>
     <string name="incoming_file_confirm_title">Передача файла</string>
     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Получить его?</string>
@@ -258,7 +258,7 @@
     <string name="permlab_bluetoothAcceptlist">Доступ для Bluetooth-устройств из списка разрешенных</string>
     <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
     <string name="permlab_bluetoothWhitelist">Доступ для Bluetooth-устройств из списка разрешенных</string>
-    <string name="permlab_handoverStatus">Прием широковещательной передачи с BT</string>
+    <string name="permlab_handoverStatus">Приём широковещательной передачи с BT</string>
     <string name="phonebook_advance_feature_support">Поддержка телефонной книги</string>
     <string name="process"/>
     <string name="remote_pbap_version_change">Изменение версии профиля внешней телефонной книги</string>

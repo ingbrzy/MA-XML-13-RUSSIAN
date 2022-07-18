@@ -145,7 +145,7 @@
     <string name="error_server">Ошибка сервера</string>
     <string name="error_server_busy">Сервер занят. Повторите попытку позже.</string>
     <string name="error_server_error">Ошибка сервера</string>
-    <string name="error_timeout">Таймаут истек</string>
+    <string name="error_timeout">Таймаут истёк</string>
     <string name="error_token_expired">Войдите в Xiaomi аккаунт снова</string>
     <string name="error_unknown">Ошибка авторизации</string>
     <string name="error_unsupported">Функция не поддерживается на этом устройстве</string>
@@ -862,7 +862,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="share_sdk_dialog_cancel">Отмена</string>
     <string name="share_sdk_dialog_confirm">ОК</string>
     <string name="share_sdk_error_code_error_and_msg">Ошибка %1$d (%2$s)</string>
-    <string name="share_sdk_error_current_invitation_invalid">Срок действия приглашения истек</string>
+    <string name="share_sdk_error_current_invitation_invalid">Срок действия приглашения истёк</string>
     <string name="share_sdk_error_current_sharing_invalid">Передача прекращена</string>
     <string name="share_sdk_error_too_frequent">Слишком много запросов. Повторите попытку позже.</string>
     <string name="share_sdk_error_update_sharing">Выберите хотя бы 1 элемент</string>
@@ -921,7 +921,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="sina_share_fail_content_repeat">Вы уже поделились этим.</string>
     <string name="sina_share_pendding">Отправка…</string>
     <string name="sina_share_success">Отправлено</string>
-    <string name="sina_token_expired_warning">Срок действия учетной записи Weibo истек, добавьте учетную запись еще раз.</string>
+    <string name="sina_token_expired_warning">Срок действия учетной записи Weibo истёк, добавьте учетную запись еще раз.</string>
     <string name="sina_token_invalid_warning">Учетная запись Weibo недействительна, добавьте учетную запись еще раз.</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>

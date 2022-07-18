@@ -60,7 +60,7 @@
     <string name="callFailed_number_unreachable">Номер недоступен</string>
     <string name="callFailed_outOfService">Мобильная сеть недоступна</string>
     <string name="callFailed_out_of_network">Внешние вызовы запрещены</string>
-    <string name="callFailed_powerOff">Приемопередатчик выключен</string>
+    <string name="callFailed_powerOff">Приёмопередатчик выключен</string>
     <string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже.</string>
     <string name="callFailed_server_unreachable">Сервер недоступен</string>
     <string name="callFailed_simError">Ошибка SIM карты</string>

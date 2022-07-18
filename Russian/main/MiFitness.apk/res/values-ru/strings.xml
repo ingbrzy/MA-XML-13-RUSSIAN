@@ -255,7 +255,7 @@
     <string name="bank_card_type_credit">Кредитная</string>
     <string name="bank_card_type_debit">Дебетовая</string>
     <string name="bank_card_unit">cards</string>
-    <string name="bank_card_user_account_expire">Срок действия аккаунта истек</string>
+    <string name="bank_card_user_account_expire">Срок действия аккаунта истёк</string>
     <string name="bank_card_user_not_reserve_phone">Вы не указали номер телефона для банковского счета, обратитесь в службу поддержки банка</string>
     <string name="bank_card_verify_failed">Неверные данные карты</string>
     <string name="bank_error">Не удалось выпустить карту. Повторите попытку или обратитесь в банк.</string>
@@ -2572,7 +2572,7 @@ ID:%s
     <string name="heartrate_report_active_lowest_desc">Частота вашего пульса говорит нам о том, что вы занимаетесь физической активностью низкой интенсивности. Она стимулирует ваше тело в определенной степени, не требуя много энергии.</string>
     <string name="heartrate_report_active_mid_desc">Частота вашего пульса говорит нам о том, что вы занимаетесь физической активностью умеренной интенсивности. Большинству здоровых взрослых людей рекомендуется заниматься физическими упражнениями средней и высокой интенсивности в общей сложности 150 минут в неделю.</string>
     <string name="heartrate_report_common_desc">Нормальная частота сердечных сокращений поддерживается организмом человека при повседневной деятельности и колеблется в пределах от 60 до 100 ударов в минуту. Пульс ниже 60 ударов в минуту является признаком брадикардии, а значения более 100 ударов в минуту у взрослых могут быть симптомом тахикардии.</string>
-    <string name="heartrate_report_regular_fast_desc">Текущий пульс слишком высокий. Чрезмерная физическая активность, употребление алкоголя, тяжелый физический труд, нервозность, беспокойство или прием некоторых лекарственных препаратов могут вызвать физиологическую тахикардию. Кроме того, признаками патологической тахикардии могут быть сердечно-сосудистые заболевания, анемия, гипертиреоз, гипоксия, сердечная недостаточность и другие заболевания. При плохом самочувствии своевременно обращайтесь к врачу.</string>
+    <string name="heartrate_report_regular_fast_desc">Текущий пульс слишком высокий. Чрезмерная физическая активность, употребление алкоголя, тяжелый физический труд, нервозность, беспокойство или приём некоторых лекарственных препаратов могут вызвать физиологическую тахикардию. Кроме того, признаками патологической тахикардии могут быть сердечно-сосудистые заболевания, анемия, гипертиреоз, гипоксия, сердечная недостаточность и другие заболевания. При плохом самочувствии своевременно обращайтесь к врачу.</string>
     <string name="heartrate_report_regular_normal_desc">Текущий пульс является нормальным. Ваше сердце хорошо справляется со стрессом, а тело сопротивляется внешнему давлению. Однако не стоит забывать, что изменения частоты сердечных сокращений могут быть признаком болезни сердца. Всегда следите за своим сердечным ритмом, особенно во время тренировок.</string>
     <string name="heartrate_report_regular_slow_desc">Текущий пульс слишком низкий. Около 15% людей могут испытывать физиологическую брадикардию, которая представляет собой медленный синусовый ритм ниже 60 ударов в минуту. Если это состояние не вызывает головокружения, потери сознания или обморока, то вам, скорее всего, не требуется медицинская помощь. Однако, если вы испытываете тяжесть в груди или другие симптомы, своевременно обратитесь к врачу.</string>
     <string name="heartrate_report_resting_fast_desc">Ваш пульс в состоянии покоя выше нормы, что может быть признаком тахикардии. Диета с низким содержанием соли и масла, снижение веса, отказ от курения и алкоголя, забота о психическом здоровье и физическая активность могут помочь вам замедлить частоту сердечных сокращений в состоянии покоя.</string>
@@ -2950,7 +2950,7 @@ ID:%s
     <string name="nfc_add_time_switcher_title">Выбрать по умолчанию</string>
     <string name="nfc_alert_msg_card_number_disable_and_refund">Карта заморожена. Сумма будет возвращена на ваш счет</string>
     <string name="nfc_alert_msg_card_number_not_exist_and_refund">Неверный номер карты. Сумма будет возвращена на ваш счет</string>
-    <string name="nfc_alert_msg_card_out_validity_and_refund">Срок действия карты истек. Сумма будет возвращена на ваш счет.</string>
+    <string name="nfc_alert_msg_card_out_validity_and_refund">Срок действия карты истёк. Сумма будет возвращена на ваш счет.</string>
     <string name="nfc_alert_msg_card_refunded_and_refund">Карта аннулирована. Сумма будет возвращена на ваш счет</string>
     <string name="nfc_alert_msg_card_status_data_illegal">Неверные данные карты. Обратитесь в службу поддержки.</string>
     <string name="nfc_alert_msg_card_status_end_date_invalid">Неверный срок действия. Обратитесь в службу поддержки.</string>
@@ -2981,7 +2981,7 @@ ID:%s
     <string name="nfc_bank_card_status_active">Доступно</string>
     <string name="nfc_bank_card_status_error">Ошибка</string>
     <string name="nfc_bank_card_status_not_active">Недоступно</string>
-    <string name="nfc_bank_card_status_time_out">Срок действия истек</string>
+    <string name="nfc_bank_card_status_time_out">Срок действия истёк</string>
     <string name="nfc_bank_card_support_list_global">&lt;Data>&lt;a href=\"%1$s\">Поддерживаемые банки&lt;/a>&lt;/Data></string>
     <string name="nfc_bank_card_support_list_title"><Data>Поддерживаемые банки</Data></string>
     <string name="nfc_bank_card_valid_date_empty">Введите срок действия</string>
@@ -3168,11 +3168,11 @@ ID:%s
     <string name="nfc_master_card_2000_invalid_incorrect_code">Неверный код.</string>
     <string name="nfc_master_card_2000_invalid_push_account_receipt">Недопустимый номер аккаунта. Свяжитесь с эмитентом банковской карты.</string>
     <string name="nfc_master_card_2000_no_response_from_issuer">Банк не отвечает. Свяжитесь с эмитентом банковской карты или повторите попытку позже.</string>
-    <string name="nfc_master_card_2000_pan_expired_code">Срок проверки истек. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
+    <string name="nfc_master_card_2000_pan_expired_code">Срок проверки истёк. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
     <string name="nfc_master_card_2000_pan_ineligible">Недопустимый номер аккаунта. Попробуйте воспользоваться картой Mastercard.</string>
     <string name="nfc_master_card_2000_pan_ineligible_for_device">При добавлении этой карты на носимое устройство произошла ошибка. Попробуйте воспользоваться картой Mastercard.</string>
     <string name="nfc_master_card_2000_valid_pan">Недопустимый номер аккаунта. Проверьте сведения о карте и повторите попытку.</string>
-    <string name="nfc_master_card_err_status">Срок проверки истек. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
+    <string name="nfc_master_card_err_status">Срок проверки истёк. Свяжитесь с эмитентом, чтобы добавить карту. Вы также можете попробовать удалить карту, а затем добавить её снова.</string>
     <string name="nfc_master_card_issue_error_back_msg">Необходимо заново ввести данные карты.</string>
     <string name="nfc_master_card_load_country_err">Произошла ошибка. Повторите попытку позже.</string>
     <string name="nfc_master_error_9004">9004 недопустимый запрос. Обратитесь в службу поддержки.</string>
@@ -3697,7 +3697,7 @@ ID:%s
     <string name="sleep_service_background_running">Служба контроля сна работает в фоновом режиме</string>
     <string name="sleep_snore_detection_running_state_description">Включен микрофон. Он продолжит работать в фоновом режиме.</string>
     <string name="sms_code_wrong">Неверный проверочный код</string>
-    <string name="sms_expire">Срок действия кода истек</string>
+    <string name="sms_expire">Срок действия кода истёк</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>

@@ -359,9 +359,9 @@
         <item quantity="one">Получите %d-дневную пробную версию</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-        <item quantity="other">"Срок действия подписки истек.
+        <item quantity="other">"Срок действия подписки истёк.
 Можно получить %d-дневную пробную версию сейчас!"</item>
-        <item quantity="one">"Срок действия подписки истек.
+        <item quantity="one">"Срок действия подписки истёк.
 Можно получить %d-дневную пробную версию сейчас!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">

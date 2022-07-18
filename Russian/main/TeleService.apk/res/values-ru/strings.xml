@@ -472,7 +472,7 @@
     <string name="callFailed_data_disabled">Звонок завершен, так как отключен режим мобильных данных.</string>
     <string name="callFailed_data_limit_reached">Достигнут лимит трафика мобильных данных. Вызов завершен.</string>
     <string name="callFailed_data_limit_reached_description">Вызов завершен, так как достигнут лимит трафика мобильных данных.</string>
-    <string name="callFailed_destination_out_of_order">Приемник в нерабочем состоянии</string>
+    <string name="callFailed_destination_out_of_order">Приёмник в нерабочем состоянии</string>
     <string name="callFailed_dialToDial">DIAL-запрос преобразован в другой DIAL-запрос с измененным номером телефона.</string>
     <string name="callFailed_dialToDialVideo">DIAL-запрос преобразован в видео DIAL-запрос</string>
     <string name="callFailed_dialToSs">DIAL-запрос преобразован в SS-запрос</string>
@@ -490,7 +490,7 @@
     <string name="callFailed_imei_not_accepted">Ошибка подключения. Вставьте поддерживаемую SIM-карту.</string>
     <string name="callFailed_incoming_calls_barred_within_CUG">Входящие звонки запрещены в пределах CUG</string>
     <string name="callFailed_incoming_cb_enabled">Все входящие вызовы запрещены.</string>
-    <string name="callFailed_incompatible_destination">Несовместимый приемник</string>
+    <string name="callFailed_incompatible_destination">Несовместимый приёмник</string>
     <string name="callFailed_information_element_non_existent">Информационный элемент не существует или не реализован</string>
     <string name="callFailed_interworking_unspecified">Взаимодействие, неуказанное</string>
     <string name="callFailed_invalid_credentials">Неверное имя пользователя или пароль</string>
@@ -508,7 +508,7 @@
     <string name="callFailed_noSignal">Нет сигнала</string>
     <string name="callFailed_no_answer_from_user">Оповещение пользователя, нет ответа</string>
     <string name="callFailed_no_circuit_avail">Нет доступной схемы</string>
-    <string name="callFailed_no_route_to_destination">Нет маршрута до приемника</string>
+    <string name="callFailed_no_route_to_destination">Нет маршрута до приёмника</string>
     <string name="callFailed_no_user_responding">Пользователь не отвечает</string>
     <string name="callFailed_non_selected_user_clearing">Очистка не выбранного пользователя</string>
     <string name="callFailed_normal">Очистка нормальных вызовов</string>
@@ -520,7 +520,7 @@
     <string name="callFailed_otasp_provisioning_in_process">Невозможно выполнить вызов, так как выполняется инициализация устройства.</string>
     <string name="callFailed_outOfService">Мобильная сеть недоступна</string>
     <string name="callFailed_out_of_network">Внешние вызовы запрещены</string>
-    <string name="callFailed_powerOff">Приемопередатчик выключен</string>
+    <string name="callFailed_powerOff">Приёмопередатчик выключен</string>
     <string name="callFailed_preemption">Упреждение</string>
     <string name="callFailed_protocol_error_unspecified">Ошибка протокола, неуказанная</string>
     <string name="callFailed_recovery_on_timer_expired">Восстановление по истечении таймера</string>
@@ -742,10 +742,10 @@
     <string name="clh_callFailed_call_rejected_txt">Вызов отклонен</string>
     <string name="clh_callFailed_channel_unacceptable_txt">Недопустимый канал</string>
     <string name="clh_callFailed_conditional_IE_error_txt">Условная ошибка IE</string>
-    <string name="clh_callFailed_destination_out_of_order_txt">Приемник в нерабочем состоянии</string>
+    <string name="clh_callFailed_destination_out_of_order_txt">Приёмник в нерабочем состоянии</string>
     <string name="clh_callFailed_facility_rejected_txt">Объект отклонен</string>
     <string name="clh_callFailed_incoming_calls_barred_within_the_CUG_txt">Входящие звонки запрещены в пределах CUG</string>
-    <string name="clh_callFailed_incompatible_destination_txt">Несовместимый приемник</string>
+    <string name="clh_callFailed_incompatible_destination_txt">Несовместимый приёмник</string>
     <string name="clh_callFailed_information_element_non_existent_or_not_implemented_txt">Информационный элемент не существует или не реализован</string>
     <string name="clh_callFailed_interworking_unspecified_txt">Взаимодействие, неуказанное</string>
     <string name="clh_callFailed_invalid_mandatory_information_txt">Неверная обязательная информация</string>
@@ -757,7 +757,7 @@
     <string name="clh_callFailed_message_type_not_compatible_with_protocol_state_txt">Тип сообщения не совместим с состоянием протокола</string>
     <string name="clh_callFailed_network_out_of_order_txt">Сеть недоступна</string>
     <string name="clh_callFailed_no_circuit_available_txt">Нет доступных схемы/канала</string>
-    <string name="clh_callFailed_no_route_to_destination_txt">Нет маршрута до приемника</string>
+    <string name="clh_callFailed_no_route_to_destination_txt">Нет маршрута до приёмника</string>
     <string name="clh_callFailed_no_user_responding_txt">Пользователь не отвечает</string>
     <string name="clh_callFailed_non_selected_user_clearing_txt">Очистка не выбранного пользователя</string>
     <string name="clh_callFailed_normal_call_clearing_txt">Очистка нормальных вызовов</string>
@@ -1238,8 +1238,8 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
-    <string name="fold_answer_pref_summary">Сверните устройство для приема входящего вызова автоматически</string>
-    <string name="fold_answer_pref_title">Сверните для приема вызова</string>
+    <string name="fold_answer_pref_summary">Сверните устройство для приёма входящего вызова автоматически</string>
+    <string name="fold_answer_pref_title">Сверните для приёма вызова</string>
     <string name="forbidden_fakecell">Защита от поддельных базовых станций</string>
     <string name="forbidden_fakecell_summary">Предотвращать подключение устройства к поддельным базовым станциям</string>
     <string name="forbidden_network">(доступ запрещен)</string>
@@ -2547,7 +2547,7 @@ UT-интерфейс: %5$s"</string>
     <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Внимание</string>
     <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Для сетей 5G можно активировать только одну SIM-карту. Нажатие \"Активировать\" ниже отключит другую SIM-карту.</string>
     <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Активировать</string>
-    <string name="sip_account_disable">Аккаунт неактивен. Прием вызовов невозможен.</string>
+    <string name="sip_account_disable">Аккаунт неактивен. Приём вызовов невозможен.</string>
     <string name="sip_account_list">SIP-аккаунты</string>
     <string name="sip_accounts">SIP-аккаунты</string>
     <string name="sip_accounts_removed_notification_action">Настройки</string>
@@ -2570,7 +2570,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sip_menu_discard">Отменить</string>
     <string name="sip_menu_save">Сохранить</string>
     <string name="sip_profile_create_error">Не удалось создать новый профиль SIP</string>
-    <string name="sip_receive_call_disable">Прием вызовов невозможен. Разрешите прием вызовов.</string>
+    <string name="sip_receive_call_disable">Приём вызовов невозможен. Разрешите приём вызовов.</string>
     <string name="sip_receive_calls">Принимать входящие</string>
     <string name="sip_receive_calls_summary">Повышенный расход батареи</string>
     <string name="sip_save_register_error">Не удалось зарегистрировать и сохранить новый профиль SIP</string>
@@ -3125,7 +3125,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_no_internet">Без доступа в интернет</string>
     <string name="wifi_no_internet_no_reconnect">Подключение не будет выполняться автоматически</string>
     <string name="wifi_not_in_range">Недоступна</string>
-    <string name="wifi_passpoint_expired">Срок действия истек</string>
+    <string name="wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>
@@ -3226,7 +3226,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifitrackerlib_wifi_network_not_found">Не удалось подключиться. Повторите позже.</string>
     <string name="wifitrackerlib_wifi_no_internet">Без доступа в интернет</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
-    <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истек</string>
+    <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Временное плохое состояние сети</string>
     <string name="wifitrackerlib_wifi_remembered">Сохранено</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Enterprise 192-bit</string>

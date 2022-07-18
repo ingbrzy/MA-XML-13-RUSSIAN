@@ -1026,7 +1026,7 @@ mm"</string>
     <string name="resource_exchange_device_not_support">Этот компонент не поддерживается на вашем устройстве</string>
     <string name="resource_exchange_empty_format">Введите подарочный код</string>
     <string name="resource_exchange_has_bought">Вы уже приобрели этот компонент ранее</string>
-    <string name="resource_exchange_has_expired">Срок действия кода истек</string>
+    <string name="resource_exchange_has_expired">Срок действия кода истёк</string>
     <string name="resource_exchange_has_used">Введенный код уже использован</string>
     <string name="resource_exchange_hint">Введите код</string>
     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>

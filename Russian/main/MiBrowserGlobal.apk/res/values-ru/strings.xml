@@ -2589,9 +2589,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
     <string name="ssl_continue">Продолжить</string>
-    <string name="ssl_date_error_warnings_header">Сертификат этого сайта истек или еще не действителен. Рекомендуется покинуть эту страницу.</string>
+    <string name="ssl_date_error_warnings_header">Сертификат этого сайта истёк или еще не действителен. Рекомендуется покинуть эту страницу.</string>
     <string name="ssl_date_invalid">Этот сертификат имеет недействительную дату.</string>
-    <string name="ssl_expired">Срок действия этого сертификата истек.</string>
+    <string name="ssl_expired">Срок действия этого сертификата истёк.</string>
     <string name="ssl_go_back">Назад</string>
     <string name="ssl_invalid">Этот сертификат недействителен.</string>
     <string name="ssl_mismatch">Имя сайта не совпадает с именем в сертификате.</string>
@@ -2805,7 +2805,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="twitter_moments">Моменты Twitter</string>
     <string name="type_not_support">Формат файла не поддерживается. Распакуйте и повторите попытку.</string>
     <string name="unSwitchText">НЕТ</string>
-    <string name="unauthorized_toast">Ваш сеанс истек. Войдите снова.</string>
+    <string name="unauthorized_toast">Ваш сеанс истёк. Войдите снова.</string>
     <string name="undo">Отмена</string>
     <string name="uni_search_setting_summary">Поиск в приложении</string>
     <string name="uni_search_setting_title">Улучшение поисковой выдачи</string>

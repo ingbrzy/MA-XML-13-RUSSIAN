@@ -784,7 +784,7 @@
     <string name="wifi_no_internet">Без доступа в интернет</string>
     <string name="wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
     <string name="wifi_not_in_range">Недоступно</string>
-    <string name="wifi_passpoint_expired">Срок действия истек</string>
+    <string name="wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>
@@ -876,7 +876,7 @@
     <string name="wifitrackerlib_wifi_network_not_found">Не удалось подключиться. Повторите позже.</string>
     <string name="wifitrackerlib_wifi_no_internet">Без доступа в интернет</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
-    <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истек</string>
+    <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Временное плохое состояние сети</string>
     <string name="wifitrackerlib_wifi_remembered">Сохранено</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Enterprise 192-bit</string>

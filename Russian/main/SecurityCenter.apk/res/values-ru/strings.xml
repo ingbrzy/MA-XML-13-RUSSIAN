@@ -2244,14 +2244,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_voice_changer_trial_gender_dialog">Загружена пробная версия! Выберите пол для соответствующих эффектов и рекомендаций.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Пробная версия</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Загрузка пробной версии…</string>
-    <string name="gb_voice_changer_user_status_expired">Срок действия подписки истек</string>
+    <string name="gb_voice_changer_user_status_expired">Срок действия подписки истёк</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Загрузите %d-дневную пробную версию
 для ознакомления с Синтезатором голоса!"</string>
     <string name="gb_voice_changer_user_status_no_login">Войдите в Xiaomi аккаунт</string>
     <string name="gb_voice_changer_user_status_remain_time">Оставшееся время: %s</string>
     <string name="gb_voice_changer_user_status_renew">Возобновить</string>
-    <string name="gb_voice_changer_user_tips_info_vip_expire">Срок действия подписки истек. Продлите подписку!</string>
-    <string name="gb_voice_changer_user_vip_expired">Срок действия истек</string>
+    <string name="gb_voice_changer_user_tips_info_vip_expire">Срок действия подписки истёк. Продлите подписку!</string>
+    <string name="gb_voice_changer_user_vip_expired">Срок действия истёк</string>
     <string name="gb_voice_changer_user_vip_remain_time">Дата окончания: %s</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">Записывайте ключевые моменты ваших игровых сессий</string>
     <string name="gb_wonderful_video_cancel">Отмена</string>

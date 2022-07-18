@@ -138,7 +138,7 @@
     <string name="mj_uwb_camera_permission_denied">Нет разрешения на доступ к камере</string>
     <string name="mj_uwb_check_aoa_fail">Калибровка не удалась из-за чрезмерного движения</string>
     <string name="mj_uwb_check_aoa_ok">ОК</string>
-    <string name="mj_uwb_check_distance_timeout">Таймаут калибровки истек</string>
+    <string name="mj_uwb_check_distance_timeout">Таймаут калибровки истёк</string>
     <string name="mj_uwb_check_succeed">Калибровка завершена</string>
     <string name="mj_uwb_close_to_auth">Подойдите ближе 2 метров для завершения проверки безопасности</string>
     <string name="mj_uwb_common_device_loading">Подождите…</string>

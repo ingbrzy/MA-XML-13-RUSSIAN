@@ -1329,7 +1329,7 @@
     <string name="permdesc_bindConditionProviderService">Приложение сможет подключаться к базовому интерфейсу поставщиков условий. Это разрешение обычно используется только специальными приложениями.</string>
     <string name="permdesc_bindDreamService">Подключение к базовому интерфейсу службы экранных заставок. Это разрешение не используется обычными приложениями.</string>
     <string name="permdesc_bindNotificationListenerService">Приложение сможет подключаться к базовому интерфейсу службы просмотра уведомлений. Это разрешение не используется обычными приложениями.</string>
-    <string name="permdesc_bind_connection_service">Доступ к службам телефонии для совершения и приема вызовов.</string>
+    <string name="permdesc_bind_connection_service">Доступ к службам телефонии для совершения и приёма вызовов.</string>
     <string name="permdesc_bind_incall_service">Управление экраном во время разговора.</string>
     <string name="permdesc_bluetooth">Приложение сможет просматривать конфигурацию Bluetooth на телефоне, а также запрашивать и подтверждать соединение с другими устройствами.</string>
     <string name="permdesc_bluetoothAdmin">Приложение сможет настраивать параметры локального телефона с поддержкой Bluetooth, а также обнаруживать удаленные устройства и выполнять сопряжение с ними.</string>
@@ -1573,9 +1573,9 @@
     <string name="permlab_readSyncSettings">Просмотр настроек синхронизации</string>
     <string name="permlab_readSyncStats">Просмотр статистики синхронизации</string>
     <string name="permlab_receiveBootCompleted">Запуск при включении устройства</string>
-    <string name="permlab_receiveMms">Прием MMS-сообщений</string>
-    <string name="permlab_receiveSms">Прием SMS-сообщений</string>
-    <string name="permlab_receiveWapPush">Прием WAP-сообщений</string>
+    <string name="permlab_receiveMms">Приём MMS-сообщений</string>
+    <string name="permlab_receiveSms">Приём SMS-сообщений</string>
+    <string name="permlab_receiveWapPush">Приём WAP-сообщений</string>
     <string name="permlab_recordAudio">Запись аудио</string>
     <string name="permlab_recordBackgroundAudio">Запись аудио в фоновом режиме</string>
     <string name="permlab_register_call_provider">Регистрация новых операторов связи</string>

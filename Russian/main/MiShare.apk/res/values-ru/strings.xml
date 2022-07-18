@@ -60,7 +60,7 @@
     <string name="confirm_cancel_task_images">Отменить передачу изображений %1$s?</string>
     <string name="copy">Копировать</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для передачи файлов по Bluetooth и Wi-Fi</string>
-    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для отправки и приема файлов</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Для отправки и приёма файлов</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_device_name">Неизвестное устройство</string>
@@ -200,7 +200,7 @@
     <string name="mishare_state_protection">Автовключение</string>
     <string name="mishare_state_protection_summary">Автоматически включать Mi Share при доступном подключении по Bluetooth или Wi-Fi</string>
     <string name="mishare_state_protection_summary_china">Автоматически включать Mi Share при доступном подключении по Bluetooth или Wi-Fi</string>
-    <string name="mishare_transefer_channel_desc">Отправка и прием файлов</string>
+    <string name="mishare_transefer_channel_desc">Отправка и приём файлов</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
@@ -294,8 +294,8 @@
     <string name="queue_full">Не удалось добавить. Завершите текущие передачи перед добавлением новых.</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
-    <string name="receive_complete">Прием завершен</string>
-    <string name="receive_error">Ошибка приема</string>
+    <string name="receive_complete">Приём завершен</string>
+    <string name="receive_error">Ошибка приёма</string>
     <string name="receive_file">Принять</string>
     <string name="receive_only_from_contacts">Принимать файлы только от контактов</string>
     <string name="receiver_error">Не удалось принять. Повторите попытку позже.</string>
@@ -478,7 +478,7 @@
     <string name="view_file">Просмотр</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
-    <string name="wait_receive_file">Ожидание приема…</string>
+    <string name="wait_receive_file">Ожидание приёма…</string>
     <string name="wait_remote_receive_tips">Ожидание…</string>
     <string name="wait_remote_receive_tips_china">Убедитесь, что на обоих устройствах включены экраны, Wi-Fi и Bluetooth</string>
     <string name="wednesday">Среда</string>

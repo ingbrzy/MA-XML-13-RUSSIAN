@@ -653,7 +653,7 @@
     <string name="recognition_form_fail_403">Не удалось распознать. Файл слишком большой.</string>
     <string name="recognition_form_fail_50021100">Ошибка 1100: Не удалось распознать. Повторите позже.</string>
     <string name="recognition_form_fail_50021102">Не удалось распознать. Повторите выделение и начните сначала.</string>
-    <string name="recognition_form_fail_504">Истек таймаут. Повторите позже.</string>
+    <string name="recognition_form_fail_504">Истёк таймаут. Повторите позже.</string>
     <string name="recognition_historical_date_create_time">"Создано "</string>
     <string name="recognition_historical_no_document">Ничего нет</string>
     <string name="recognition_historical_no_form">Ничего нет</string>
@@ -835,7 +835,7 @@
     <string name="to_install_title">Этот QR-код перенаправляет вас в удаленное приложение. Скачать это приложение сейчас?</string>
     <string name="to_pay">Оплатить</string>
     <string name="toast_net_2g">Плохая связь. Попробуйте другую сеть.</string>
-    <string name="toast_net_timeout">Истек таймаут запроса. Попробуйте позже.</string>
+    <string name="toast_net_timeout">Истёк таймаут запроса. Попробуйте позже.</string>
     <string name="today">Сегодня</string>
     <string name="toinstall">Загрузить</string>
     <string name="tomorrow">Завтра</string>

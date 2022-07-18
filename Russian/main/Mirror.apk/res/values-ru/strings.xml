@@ -262,7 +262,7 @@
     <string name="privacy_describe_change_wifi_state">Для подключения устройств и передачи файлов по Wi-Fi</string>
     <string name="privacy_describe_location">Для поиска ПК поблизости и передачи файлов</string>
     <string name="privacy_describe_record_audio">Для перенаправления вывода звука на ПК</string>
-    <string name="privacy_describe_storage">Для отправки и приема файлов</string>
+    <string name="privacy_describe_storage">Для отправки и приёма файлов</string>
     <string name="privacy_pad_all_purpose">Добро пожаловать в MIUI+! Это приложение можно использовать для объединения мобильных устройств в одну рабочую станцию. MIUI+ позволяет пользоваться приложениями и отвечать на вызовы на другом устройстве, использовать общий буфер обмена, передавать файлы и транслировать содержимое экрана.</string>
     <string name="privacy_pad_describe_change_wifi_state">Для отображения содержимого экрана</string>
     <string name="privacy_pad_describe_record_audio">Для передачи аудиопотока на другое устройство во время трансляции</string>

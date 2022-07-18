@@ -1278,7 +1278,7 @@
     <string name="bcast_enable_metadata_sync">Синхронизация метаданных</string>
     <string name="bcast_info_update">Обновить</string>
     <string name="bcast_metadata_sync_state">Статус синхронизации метаданных</string>
-    <string name="bcast_sink_volume_title">Громкость приемника трансляции</string>
+    <string name="bcast_sink_volume_title">Громкость приёмника трансляции</string>
     <string name="bcast_source_address">Устройство-источник трансляции</string>
     <string name="bcast_source_enc_status">Статус шифрования</string>
     <string name="bcast_source_info_sid">ID источника трансляции</string>
@@ -1361,7 +1361,7 @@
     <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
     <string name="bluetooth_bc_profile_summary_connected">Подключено к серверу BA</string>
     <string name="bluetooth_bc_profile_summary_use_for">Использовать для BA</string>
-    <string name="bluetooth_bcast_rcvr_device_name">Приемник трансляции</string>
+    <string name="bluetooth_bcast_rcvr_device_name">Приёмник трансляции</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Отмена</string>
     <string name="bluetooth_blacklist_remove_device">Удалить</string>
     <string name="bluetooth_broadcast">Трансляция</string>
@@ -1372,7 +1372,7 @@
        %1$s добавляется в список
        подключенных устройств."</string>
     <string name="bluetooth_col_source_selection_options_detail">"Источник трансляции 
-       %1$s добавляется на приемник"</string>
+       %1$s добавляется на приёмник"</string>
     <string name="bluetooth_companion_app_body">Приложение \"%1$s\" будет отключено от устройства %2$s.</string>
     <string name="bluetooth_companion_app_remove_association_confirm_button">Отключить</string>
     <string name="bluetooth_companion_app_remove_association_dialog_title">Отключить приложение?</string>
@@ -1685,22 +1685,22 @@
     <string name="bluetooth_sim_card_access_dialog_title">Предоставить доступ к SIM-карте?</string>
     <string name="bluetooth_sim_card_access_notification_content">Устройство запрашивает доступ к вашей SIM-карте. Нажмите для подробностей.</string>
     <string name="bluetooth_sim_card_access_notification_title">Запрос на доступ к SIM-карте</string>
-    <string name="bluetooth_source_added_message">Источник трансляции успешно добавлен на приемнике %1$s.</string>
-    <string name="bluetooth_source_addition_error_message">Не удалось добавить источник трансляции на приемнике %1$s.</string>
-    <string name="bluetooth_source_dup_addition_error_message">Не удалось добавить источник трансляции на приемнике %1$s . Дублирование источника.</string>
-    <string name="bluetooth_source_no_empty_slot_error_message">Попробуйте удалить какой-либо источник на приемнике %1$s. Нет свободного слота.</string>
+    <string name="bluetooth_source_added_message">Источник трансляции успешно добавлен на приёмнике %1$s.</string>
+    <string name="bluetooth_source_addition_error_message">Не удалось добавить источник трансляции на приёмнике %1$s.</string>
+    <string name="bluetooth_source_dup_addition_error_message">Не удалось добавить источник трансляции на приёмнике %1$s . Дублирование источника.</string>
+    <string name="bluetooth_source_no_empty_slot_error_message">Попробуйте удалить какой-либо источник на приёмнике %1$s. Нет свободного слота.</string>
     <string name="bluetooth_source_removal_error_message">Не удалось удалить источник трансляции на %1$s.</string>
     <string name="bluetooth_source_remove_invalid_group_op">Не удалось удалить источник трансляции на %1$s. Недопустимая групповая операция, попробуйте негрупповую операцию.</string>
     <string name="bluetooth_source_remove_invalid_src_id">Не удалось удалить источник трансляции на %1$s. Неверный ID источника.</string>
-    <string name="bluetooth_source_selection_error_message">Для приемника выбран недопустимый источник трансляции %1$s.</string>
-    <string name="bluetooth_source_selection_error_src_unavail_message">Выбранный источник для приемника %1$s недоступен.</string>
+    <string name="bluetooth_source_selection_error_message">Для приёмника выбран недопустимый источник трансляции %1$s.</string>
+    <string name="bluetooth_source_selection_error_src_unavail_message">Выбранный источник для приёмника %1$s недоступен.</string>
     <string name="bluetooth_source_selection_options_detail">"Источник трансляции 
-        %1$s добавляется на приемник.
+        %1$s добавляется на приёмник.
         (оставьте PIN-код трансляции пустым, если
         это незашифрованный источник трансляции)"</string>
-    <string name="bluetooth_source_selection_options_detail_title">Настройка приемника трансляции</string>
+    <string name="bluetooth_source_selection_options_detail_title">Настройка приёмника трансляции</string>
     <string name="bluetooth_source_setpin_error_message">Не удалось обновить PIN-код трансляции для %1$s.</string>
-    <string name="bluetooth_source_update_error_message">Не удалось обновить сведения об источнике трансляции на приемнике %1$s.</string>
+    <string name="bluetooth_source_update_error_message">Не удалось обновить сведения об источнике трансляции на приёмнике %1$s.</string>
     <string name="bluetooth_source_update_invalid_group_op">Не удалось обновить источник трансляции на %1$s. Недопустимая групповая операция, попробуйте негрупповую операцию.</string>
     <string name="bluetooth_source_update_invalid_src_id">Не удалось обновить источник трансляции на %1$s. Неверный ID источника.</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
@@ -5745,8 +5745,8 @@ ID: %s
     <string name="miheadset_preferences">Настройки</string>
     <string name="miheadset_rename">Переименовать</string>
     <string name="miheadset_rename_device">Переименовать</string>
-    <string name="miheadset_same_account_incall">Прием вызовов со всех синхронизированных устройств</string>
-    <string name="miheadset_same_account_incall_summary">Подключите наушники к другим синхронизированным устройствам для приема входящих вызовов</string>
+    <string name="miheadset_same_account_incall">Приём вызовов со всех синхронизированных устройств</string>
+    <string name="miheadset_same_account_incall_summary">Подключите наушники к другим синхронизированным устройствам для приёма входящих вызовов</string>
     <string name="miheadset_shared_contacts">Обмен контактами</string>
     <string name="miheadset_shared_contacts_summary">Для обмена контактами</string>
     <string name="miheadset_single_ear_indicate">Наденьте оба наушника для использования шумоподавления</string>
@@ -7660,8 +7660,8 @@ UT-интерфейс: %5$s"</string>
     <string name="runtime_permissions_summary_no_permissions_granted">У приложения нет разрешений</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Приложение не запрашивало разрешения</string>
     <string name="rx_link_speed">%1$d Мбит/с</string>
-    <string name="rx_link_speed_label">Скорость приема:</string>
-    <string name="rx_wifi_speed">Скорость приема</string>
+    <string name="rx_link_speed_label">Скорость приёма:</string>
+    <string name="rx_wifi_speed">Скорость приёма</string>
     <string name="safe_install_mode_settings">Secure mode</string>
     <string name="safety_and_regulatory_info">Безопасность и соответствие стандартам</string>
     <string name="sar">Информация о радиочастотном воздействии</string>
@@ -10017,7 +10017,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
     <string name="usage_type_on_time">Время работы</string>
     <string name="usage_type_phone">Телефон</string>
-    <string name="usage_type_radio_active">Время работы приемопередатчика</string>
+    <string name="usage_type_radio_active">Время работы приёмопередатчика</string>
     <string name="usage_type_total_battery_capacity">Емкость батареи</string>
     <string name="usage_type_video">Видео</string>
     <string name="usage_type_wake_lock">Акт. режим</string>
@@ -10281,8 +10281,9 @@ UT-интерфейс: %5$s"</string>
     <string name="virtual_sim_global_description">Для подключения к сети передачи данных не требуется SIM-карта</string>
     <string name="virtual_sim_global_title">Сервис передачи данных</string>
     <string name="virtual_sim_title">Интернет в роуминге</string>
-    <string name="virtual_surround_sound_switch_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео (функция не работает при воспроизведении %.1f аудио) </string>
-    <string name="virtual_surround_sound_switch_title">Иммерсивный звук</string>
+    <string name="virtual_surround_sound_switch_summary">Увеличение глубины звука в наушниках при воспроизведении аудио и видео</string>
+    <string name="virtual_surround_sound_switch_summary_global">Увеличение глубины звука в наушниках при воспроизведении аудио и видео. Функция не работает, если включен LDAC.</string>
+    <string name="virtual_surround_sound_switch_title">Иммерсивные звуковые эффекты</string>
     <string name="virus_scan">Антивирус</string>
     <string name="virus_scan_app_continue">Продолжить</string>
     <string name="virus_scan_app_finish">Проверка завершена</string>
@@ -10927,7 +10928,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_p2p_remembered_groups">Сохраненные группы</string>
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_wps_setup">Настройка WPS</string>
-    <string name="wifi_passpoint_expired">Срок действия истек</string>
+    <string name="wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifi_password">Пароль</string>
     <string name="wifi_poor_network_detection">Фильтр сетей Wi-Fi</string>
     <string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi при нестабильном соединении</string>
@@ -11236,7 +11237,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifitrackerlib_wifi_network_not_found">Не удалось подключиться. Повторите позже.</string>
     <string name="wifitrackerlib_wifi_no_internet">Без доступа в интернет</string>
     <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Без доступа в интернет и переподключения</string>
-    <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истек</string>
+    <string name="wifitrackerlib_wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Временное плохое состояние сети</string>
     <string name="wifitrackerlib_wifi_remembered">Сохранено</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Enterprise 192-bit</string>

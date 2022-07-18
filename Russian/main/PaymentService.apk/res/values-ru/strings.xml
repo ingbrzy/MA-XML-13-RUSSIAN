@@ -142,7 +142,7 @@ ID:%s
     <string name="mibi_all_purpose">Добро пожаловать в Mi Coin! Это приложение можно использовать для пополнения баланса Mi Coin, проверки подарочных карт и т. д.</string>
     <string name="mibi_applock_config">Невозможно установить блокировку приложения при использовании разделенного экрана.</string>
     <string name="mibi_applock_dialog_cancel">Не сейчас</string>
-    <string name="mibi_applock_dialog_content">В связи с обновлением системы срок действия вашего текущего пароля истек. Пожалуйста, установите новый.</string>
+    <string name="mibi_applock_dialog_content">В связи с обновлением системы срок действия текущего пароля истёк. Установите новый.</string>
     <string name="mibi_applock_dialog_ok">Установить</string>
     <string name="mibi_applock_dialog_title">Установить новый пароль</string>
     <string name="mibi_auth_manage_access_camera">Доступ к камере</string>
@@ -240,7 +240,7 @@ ID:%s
 Пожалуйста, проверьте дату и попробуйте снова.</string>
     <string name="mibi_error_common_summary">Системная ошибка. Пожалуйста, попробуйте позже.</string>
     <string name="mibi_error_deduct">Не удалось активировать протокол автоматической оплаты</string>
-    <string name="mibi_error_expired_summary">Ваш заказ истек</string>
+    <string name="mibi_error_expired_summary">Ваш заказ истёк</string>
     <string name="mibi_error_frozen_summary">Ваш аккаунт был заморожен, пожалуйста, свяжитесь с нашим центром обслуживания клиентов.</string>
     <string name="mibi_error_has_bought_summary">Вы уже приобрели этот товар.</string>
     <string name="mibi_error_illegal_order_summary">Ошибка заказа. Пожалуйста, попробуйте позже</string>
@@ -283,7 +283,7 @@ ID:%s
     <string name="mibi_giftcard_discount_detail3">Потратьте %1$s Mi Coins для погашения</string>
     <string name="mibi_giftcard_empty_detail">Нет %1$s купонов.</string>
     <string name="mibi_giftcard_expire_soon">Истекает</string>
-    <string name="mibi_giftcard_has_expired">Срок действия истек %1$s</string>
+    <string name="mibi_giftcard_has_expired">Срок действия истёк %1$s</string>
     <string name="mibi_giftcard_has_unavailable">Просрочен</string>
     <string name="mibi_giftcard_has_used">Использован</string>
     <string name="mibi_giftcard_hint">Mi Coins, добавленные через подарочную карту, будут автоматически потрачены первыми.</string>
@@ -411,7 +411,7 @@ ID:%s
     <string name="mibi_privacy_setting">Политика конфиденциальности</string>
     <string name="mibi_privacy_tip_message">Вы не можете использовать Mi Coins после отмены авторизации.</string>
     <string name="mibi_privacy_tip_title">Разрешите авторизацию</string>
-    <string name="mibi_process_expired">Срок данной операции истек</string>
+    <string name="mibi_process_expired">Срок данной операции истёк</string>
     <string name="mibi_progress_creating">Получение информации о заказе…</string>
     <string name="mibi_progress_deduct_creating">Активация протокола автооплаты %1$s​…</string>
     <string name="mibi_progress_downloading">Загрузка…</string>
@@ -627,7 +627,7 @@ ID:%s
     <string name="passport_account_set_password">Задать пароль</string>
     <string name="passport_account_set_password_prompt">Установите пароль для своей учетной записи.</string>
     <string name="passport_account_set_password_title">Задайте пароль</string>
-    <string name="passport_activate_token_expired">Код подтверждения истек. Попробуйте еще раз.</string>
+    <string name="passport_activate_token_expired">Код подтверждения истёк. Попробуйте еще раз.</string>
     <string name="passport_active_email_visit">Проверьте вашу почту %s</string>
     <string name="passport_activing_account">Активация…</string>
     <string name="passport_adding_account">Добавление аккаунта…</string>
@@ -695,7 +695,7 @@ ID:%s
     <string name="passport_getting_activator_phone">Получение данных SIM-карты…</string>
     <string name="passport_getting_verify_code">Получение…</string>
     <string name="passport_i_know">Понятно</string>
-    <string name="passport_identification_expired">Срок действия кода истек, начните сначала</string>
+    <string name="passport_identification_expired">Срок действия кода истёк, начните сначала</string>
     <string name="passport_imei_permission_denied_message">Мы запрашиваем доступ к IMEI вашего устройства. Xiaomi аккаунт использует IMEI устройства, чтобы обеспечить безопасность ваших данных.</string>
     <string name="passport_imei_permission_denied_title">Разрешение на доступ к IMEI</string>
     <string name="passport_input_captcha_hint">Введите код с картинки</string>

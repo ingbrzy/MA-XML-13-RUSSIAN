@@ -416,7 +416,7 @@
     <string name="read_internal_storage">Доступ к хранилищу</string>
     <string name="read_phone_state">Доступ к информации об устройстве</string>
     <string name="read_phone_state_desc">Доступ к статусу вызова при срабатывании будильника</string>
-    <string name="read_phone_state_desc_when_request">Доступ к статусу вызова для приостановки будильника при приеме вызовов</string>
+    <string name="read_phone_state_desc_when_request">Доступ к статусу вызова для приостановки будильника при приёме вызовов</string>
     <string name="remark_hint">Введите метку</string>
     <string name="remind_ringtone">Мелодия</string>
     <string name="repeat_count">Количество</string>

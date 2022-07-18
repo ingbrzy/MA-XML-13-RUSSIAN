@@ -101,7 +101,7 @@
     <string name="err_msg_convert_success">Готово</string>
     <string name="err_msg_create">Заказ создан</string>
     <string name="err_msg_delete">Заказ удален</string>
-    <string name="err_msg_expired">Срок действия заказа истек</string>
+    <string name="err_msg_expired">Срок действия заказа истёк</string>
     <string name="err_msg_pending_value">Оценка стоимости…</string>
     <string name="err_msg_pengding_pay">Ожидание платежа…</string>
     <string name="err_msg_processing">Обработка…</string>
@@ -368,7 +368,7 @@
     <string name="permission_dialog_cancel">Отмена</string>
     <string name="permission_dialog_ok">Настройки</string>
     <string name="permission_read_phone_state">Информация об устройстве</string>
-    <string name="permission_read_phone_state_description">Для доступа к состоянию вызова (для автоматического прерывания записи при приеме вызова)</string>
+    <string name="permission_read_phone_state_description">Для доступа к состоянию вызова (для автоматического прерывания записи при приёме вызова)</string>
     <string name="permission_record">Микрофон</string>
     <string name="permission_record_description">Для записи аудио</string>
     <string name="permission_storage">Хранилище</string>

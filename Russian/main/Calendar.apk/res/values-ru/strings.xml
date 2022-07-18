@@ -546,7 +546,7 @@
     <string name="life_card_credit_primary_no_account">Оплата кредитной картой</string>
     <string name="life_card_credit_secondary">Дата погашения: %1$s  |  Истекает: %2$s</string>
     <string name="life_card_credit_secondary_no_countdown">Дата погашения: %1$s</string>
-    <string name="life_card_credit_secondary_overdue">Дата погашения: %1$s  |  Срок истек</string>
+    <string name="life_card_credit_secondary_overdue">Дата погашения: %1$s  |  Срок истёк</string>
     <string name="life_card_electricity_bill_primary">Оплата электричества (счет %1$s)</string>
     <string name="life_card_electricity_bill_primary_no_account">Оплата электричества</string>
     <string name="life_card_gas_bill_primary">Оплата газа (счет %1$s)</string>

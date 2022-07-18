@@ -71,10 +71,10 @@
     <string name="ble_connect_failed_title">Не удалось подключиться</string>
     <string name="ble_connect_request_hint">Похоже, другое устройство поблизости использует Mi Mover. Подключиться?</string>
     <string name="ble_discovery_connect_request_title">Обнаружено устройство поблизости</string>
-    <string name="ble_enter_connect_timeout_summary">Тайм-аут подключения к устройству истек. Подключитесь вручную.</string>
+    <string name="ble_enter_connect_timeout_summary">Тайм-аут подключения к устройству истёк. Подключитесь вручную.</string>
     <string name="ble_enter_connect_timeout_title">Тайм-аут подключения</string>
     <string name="ble_enter_verify_code_title">Введите код</string>
-    <string name="ble_enter_verifycode_timeout_summary">Тайм-аут ввода кода истек. Подключитесь вручную.</string>
+    <string name="ble_enter_verifycode_timeout_summary">Тайм-аут ввода кода истёк. Подключитесь вручную.</string>
     <string name="ble_enter_verifycode_timeout_title">Тайм-аут сессии</string>
     <string name="ble_guest_connecting_title">Подключение к новому устройству…</string>
     <string name="ble_host_verification_summary">Введите %d-значный код на старом устройстве.</string>

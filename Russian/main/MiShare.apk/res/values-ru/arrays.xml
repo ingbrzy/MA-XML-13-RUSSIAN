@@ -68,13 +68,13 @@
         <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12">
-        <item>Для отправки и приема файлов</item>
+        <item>Для отправки и приёма файлов</item>
         <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
         <item>Для поиска доступных устройств поблизости с помощью Bluetooth</item>
         <item>Для поиска доступных устройств поблизости и передачи файлов по Wi-Fi</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
-        <item>Для отправки и приема файлов</item>
+        <item>Для отправки и приёма файлов</item>
         <item>Для передачи файлов по Bluetooth и Wi-Fi</item>
         <item>Для поиска доступных устройств поблизости с помощью Bluetooth</item>
         <item>Для поиска доступных устройств поблизости и передачи файлов по Wi-Fi</item>

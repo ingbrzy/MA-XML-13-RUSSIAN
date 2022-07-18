@@ -638,12 +638,12 @@
     <string name="error_message_respond_revert_03">Доменное имя не существует. Проверьте URL-адрес и повторите попытку.</string>
     <string name="error_message_respond_revert_06">Неверный пароль.</string>
     <string name="error_message_respond_revert_07">Не удалось подтвердить вашу личность. Используйте проверочный код для входа в систему.</string>
-    <string name="error_message_respond_revert_16">Срок действия пароля истек. Обновите пароль и выполните вход снова.</string>
+    <string name="error_message_respond_revert_16">Срок действия пароля истёк. Обновите пароль и выполните вход снова.</string>
     <string name="error_message_respond_revert_21">Включите POP3 и повторите попытку.</string>
     <string name="error_message_respond_revert_24">Ваш IP-адрес заблокирован. Обратитесь в службу поддержки Sohu Mail, чтобы решить эту проблему.</string>
     <string name="error_message_respond_revert_25">Проверьте подключение к сети и повторите попытку.</string>
     <string name="error_message_respond_revert_26">Ваш аккаунт заморожен. Войдите в Sohu Mail в браузере, чтобы активировать его.</string>
-    <string name="error_message_respond_revert_27">Срок действия пароля истек. Войдите в Sohu Mail в браузере, чтобы получить сгенерированный сервером пароль.</string>
+    <string name="error_message_respond_revert_27">Срок действия пароля истёк. Войдите в Sohu Mail в браузере, чтобы получить сгенерированный сервером пароль.</string>
     <string name="evening">После полудня</string>
     <string name="exception_cancel">"
         Следующее событие было отменено:
@@ -1292,7 +1292,7 @@
     <string name="password_expired_content_title">Пароль блокировки экрана устарел</string>
     <string name="password_expired_dialog_content_fmt">Данные аккаунта %s были удалены с вашего устройства. Можно восстановить их путем изменения вашего PIN-кода или пароля. Изменить сейчас?</string>
     <string name="password_expired_dialog_title">Пароль блокировки экрана устарел</string>
-    <string name="password_expired_ticker">Срок действия вашего кода или пароля блокировки экрана истек</string>
+    <string name="password_expired_ticker">Срок действия вашего кода или пароля блокировки экрана истёк</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_about_account_setting">Почта/Настройки/Аккаунты</string>
     <string name="path_about_add_account">Почта/Настройки/Добавить аккаунт</string>
@@ -1603,14 +1603,14 @@
     <string name="server_cet_cert_data">"Срок действия: "</string>
     <string name="server_cet_cert_issuer">"Издатель сертификата: "</string>
     <string name="server_cet_data">"Срок действия: "</string>
-    <string name="server_cet_data_exp">Срок действия сертификата этого сервера истек</string>
+    <string name="server_cet_data_exp">Срок действия сертификата этого сервера истёк</string>
     <string name="server_cet_data_to" formatted="false">%s - %s</string>
     <string name="server_cet_domain">"Имя домена: "</string>
     <string name="server_cet_error_sug">"Попробуйте следующие шаги:
 1. Подключитесь к другой сети или перезагрузите Wi-Fi роутер.
 2. Убедитесь, что используете действительные сертификаты."</string>
     <string name="server_cet_error_title_1">Сертификат сервера не поддерживает этот домен</string>
-    <string name="server_cet_error_title_2">Срок действия сертификата истек</string>
+    <string name="server_cet_error_title_2">Срок действия сертификата истёк</string>
     <string name="server_cet_error_title_3">Издатель сертификата не является доверенной организацией.</string>
     <string name="server_cet_issue_to">"Выдан для "</string>
     <string name="server_cet_issuer">"Выдан "</string>
@@ -1776,7 +1776,7 @@
     <string name="to_heading">"Кому: "</string>
     <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите попытку позже.</string>
     <string name="toast_bar_insufficient_memory_space">Не удается получить почту. Недостаточно места.</string>
-    <string name="toast_bar_invalid_account">Срок информации об учетной записи истек. Нажмите, чтобы войти снова.</string>
+    <string name="toast_bar_invalid_account">Срок информации об учетной записи истёк. Нажмите, чтобы войти снова.</string>
     <string name="toast_bar_no_connection_network">Отсутствует подключение к интернету</string>
     <string name="toast_bar_open_gmail_synchronization">Не удалось подключиться к Gmail. Проверьте настройки сети и повторите попытку.</string>
     <string name="toast_bar_send_fail_remind">Не удалось отправить письмо. Сохранено в папке «Исходящие».</string>
