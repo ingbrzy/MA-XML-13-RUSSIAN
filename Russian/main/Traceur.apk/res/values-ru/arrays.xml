@@ -185,7 +185,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>Отключено</item>
         <item>Рисовать область усечения синим</item>
-        <item>Подсвечивать команды рисования зеленым</item>
+        <item>Подсвечивать команды рисования зелёным</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Отключено</item>

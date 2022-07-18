@@ -5877,7 +5877,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_disaster_receive_level_blue">Синий</string>
     <string name="warningcenter_disaster_receive_level_orange">Оранжевый</string>
     <string name="warningcenter_disaster_receive_level_red">Красный</string>
-    <string name="warningcenter_disaster_receive_level_yellow">Желтый</string>
+    <string name="warningcenter_disaster_receive_level_yellow">Жёлтый</string>
     <string name="warningcenter_disaster_receive_settings">Формат предупреждения</string>
     <string name="warningcenter_disaster_receive_strong">Высокоприоритетные (рекомендуется)</string>
     <string name="warningcenter_disaster_receive_strong_summary">Получать push-уведомления о высокоприоритетных предупреждениях для выбранного региона</string>
@@ -5901,7 +5901,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="warningcenter_disaster_type_cancel">Отмененные</string>
     <string name="warningcenter_disaster_type_first">Новые</string>
     <string name="warningcenter_disaster_type_update">Обновленные</string>
-    <string name="warningcenter_disaster_yellow">Желтый уровень</string>
+    <string name="warningcenter_disaster_yellow">Жёлтый уровень</string>
     <string name="warningcenter_disaster_zhongwuran">Смог</string>
     <string name="warningcenter_earthquake_info">Раннее предупреждение о землетрясении</string>
     <string name="warningcenter_mijia_alert_close">Закрыть</string>

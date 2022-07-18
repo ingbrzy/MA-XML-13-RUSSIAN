@@ -253,7 +253,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>Откл.</item>
         <item>Непрямоугольное усечение синим</item>
-        <item>Тест. команды рисования зеленым</item>
+        <item>Тест. команды рисования зелёным</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Отключить</item>

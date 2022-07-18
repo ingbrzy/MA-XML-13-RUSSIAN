@@ -147,11 +147,11 @@
         <item>Воскресенье</item>
     </string-array>
     <string-array name="pa_stock_color_schema_value_array">
-        <item>Красный - вверх, зеленый - вниз</item>
-        <item>Зеленый - вверх, красный - вниз</item>
+        <item>Красный - вверх, зелёный - вниз</item>
+        <item>Зелёный - вверх, красный - вниз</item>
     </string-array>
     <string-array name="stock_color_schema">
-        <item>Красный - вверх, зеленый - вниз</item>
-        <item>Зеленый - вверх, красный - вниз</item>
+        <item>Красный - вверх, зелёный - вниз</item>
+        <item>Зелёный - вверх, красный - вниз</item>
     </string-array>
 </resources>

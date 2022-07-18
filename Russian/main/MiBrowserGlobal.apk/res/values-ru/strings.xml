@@ -1446,13 +1446,13 @@ ID:%s
     <string name="mw_color_picker_button_blue">Голубой</string>
     <string name="mw_color_picker_button_cancel">Отмена</string>
     <string name="mw_color_picker_button_cyan">Светло-голубой</string>
-    <string name="mw_color_picker_button_green">Зеленый</string>
+    <string name="mw_color_picker_button_green">Зелёный</string>
     <string name="mw_color_picker_button_magenta">Пурпурный</string>
     <string name="mw_color_picker_button_more">Еще</string>
     <string name="mw_color_picker_button_red">Красный</string>
     <string name="mw_color_picker_button_set">Установить</string>
     <string name="mw_color_picker_button_white">Белый</string>
-    <string name="mw_color_picker_button_yellow">Желтый</string>
+    <string name="mw_color_picker_button_yellow">Жёлтый</string>
     <string name="mw_color_picker_dialog_title">Выберите цвет</string>
     <string name="mw_color_picker_hue">Оттенок</string>
     <string name="mw_color_picker_saturation">Насыщенность</string>

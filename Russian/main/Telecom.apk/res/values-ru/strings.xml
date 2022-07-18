@@ -317,11 +317,11 @@
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
     <string name="copy">Копировать</string>
     <string name="creating_new_user_dialog_message">Создание нового пользователя…</string>
-    <string name="daltonizer_mode_deuteranomaly">Дейтераномалия (красный/зеленый)</string>
+    <string name="daltonizer_mode_deuteranomaly">Дейтераномалия (красный/зелёный)</string>
     <string name="daltonizer_mode_disabled">Отключено</string>
     <string name="daltonizer_mode_monochromacy">Монохромный режим</string>
-    <string name="daltonizer_mode_protanomaly">Протаномалия (красный/зеленый)</string>
-    <string name="daltonizer_mode_tritanomaly">Тританомалия (синий/желтый)</string>
+    <string name="daltonizer_mode_protanomaly">Протаномалия (красный/зелёный)</string>
+    <string name="daltonizer_mode_tritanomaly">Тританомалия (синий/жёлтый)</string>
     <string name="daltonizer_type_overridden">Новая настройка: %1$s</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
@@ -786,7 +786,7 @@
     <string name="show_all_anrs">Все ANR</string>
     <string name="show_all_anrs_summary">Уведомлять о том, что приложение не отвечает</string>
     <string name="show_hw_layers_updates">Показ. аппаратные обновл.</string>
-    <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым при обновлении</string>
+    <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зелёным при обновлении</string>
     <string name="show_hw_screen_updates">Показывать обнов. экрана</string>
     <string name="show_hw_screen_updates_summary">Подсвечивать области экрана при отрисовке с GPU</string>
     <string name="show_non_rect_clip">Отладка операций усечения сложной формы</string>

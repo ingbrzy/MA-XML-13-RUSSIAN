@@ -341,7 +341,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>Откл.</item>
         <item>Непрямоугольное усечение синим</item>
-        <item>Тест. команды рисования зеленым</item>
+        <item>Тест. команды рисования зелёным</item>
     </string-array>
     <array name="thermal_mitigation_allowlisted_packages" />
     <string-array name="track_frame_time_entries">

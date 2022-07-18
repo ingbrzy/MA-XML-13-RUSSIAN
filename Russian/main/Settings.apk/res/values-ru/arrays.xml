@@ -516,8 +516,8 @@
         <item>Настройки приложения</item>
         <item>Белый на черном</item>
         <item>Чёрный на белом</item>
-        <item>Желтый на черном</item>
-        <item>Желтый на синем</item>
+        <item>Жёлтый на черном</item>
+        <item>Жёлтый на синем</item>
         <item>Специальный</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
@@ -853,7 +853,7 @@
         <item>Стандартный</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Сине-зеленый</item>
+        <item>Сине-зелёный</item>
         <item>Синий</item>
         <item>Индиго</item>
         <item>Фиолетовый</item>
@@ -1021,8 +1021,8 @@
     <string-array name="led_color_entries">
         <item>Синий</item>
         <item>Красный</item>
-        <item>Желтый</item>
-        <item>Зеленый</item>
+        <item>Жёлтый</item>
+        <item>Зелёный</item>
         <item>Голубой</item>
         <item>Белый</item>
         <item>Фиолетовый</item>
@@ -1089,7 +1089,7 @@
     <string-array name="mi1_led_color_entries">
         <item>Синий</item>
         <item>Красный</item>
-        <item>Зеленый</item>
+        <item>Зелёный</item>
         <item>Розовый</item>
         <item>Фиолетовый</item>
         <item>Пурпурный</item>
@@ -1404,7 +1404,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>Отключено</item>
         <item>Рисовать область усечения синим</item>
-        <item>Подсвечивать команды рисования зеленым</item>
+        <item>Подсвечивать команды рисования зелёным</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>Всегда</item>

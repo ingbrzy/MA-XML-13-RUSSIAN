@@ -2089,7 +2089,7 @@ ID:%s
     <string name="pa_stock_empty_follow_list">Ничего нет</string>
     <string name="pa_stock_follow_limit_alert">Можно добавить не более %1$d компаний</string>
     <string name="pa_stock_follow_list_label">Мои компании</string>
-    <string name="pa_stock_green_grow">Зеленый - вверх, красный - вниз</string>
+    <string name="pa_stock_green_grow">Зелёный - вверх, красный - вниз</string>
     <string name="pa_stock_hszs">Hang Sen</string>
     <string name="pa_stock_init_toast">Инициализация виджетов…</string>
     <string name="pa_stock_label_stock">Акции</string>
@@ -2097,7 +2097,7 @@ ID:%s
     <string name="pa_stock_network_unavailable">Не удалось подключиться к сети</string>
     <string name="pa_stock_not_found_related_items">Ничего не найдено</string>
     <string name="pa_stock_nsdk">Nasdaq</string>
-    <string name="pa_stock_red_grow">Красный — вверх, зеленый — вниз</string>
+    <string name="pa_stock_red_grow">Красный — вверх, зелёный — вниз</string>
     <string name="pa_stock_search_failure">Ничего не найдено</string>
     <string name="pa_stock_search_input_hint">Введите название акции или код</string>
     <string name="pa_stock_search_loading">Подождите…</string>
@@ -2224,8 +2224,8 @@ ID:%s
     <string name="recommend_empty_tip">Больше нет объектов. Вы можете добавить больше карточек.</string>
     <string name="record_name">Запись</string>
     <string name="record_parent">Диктофон</string>
-    <string name="red_dowm_blue_grow">Зеленый - вверх, красный - вниз</string>
-    <string name="red_grow_blue_dowm">Красный - вверх, зеленый - вниз</string>
+    <string name="red_dowm_blue_grow">Зелёный - вверх, красный - вниз</string>
+    <string name="red_grow_blue_dowm">Красный - вверх, зелёный - вниз</string>
     <string name="refresh_error">Ошибка сети. Попробуйте позже.</string>
     <string name="refresh_over_pull">Отпустите для обновления</string>
     <string name="refresh_pull">Потяните для обновления</string>
