@@ -446,7 +446,7 @@
     <string name="tips_p2p_support_use5g">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
     <string name="tips_p2p_support_use5g_china">Для лучших результатов используйте сеть Wi-Fi 5 ГГц</string>
     <string name="tips_prompt_enable_midrop">Обмен файлами с устройствами поблизости</string>
-    <string name="to_feedback">Отчет</string>
+    <string name="to_feedback">Отчёт</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="transfer_intercept_to_remote">Не удалось передать: %1$s</string>

@@ -531,7 +531,7 @@
 4. Taylor, P. (2020, May 30). Время сна. От 10 сентября 2020, https://www.pewsocialtrends.org/2009/07/29/nap-time/. 
 5. Рекомендации Национального фонда сна по продолжительности сна: методология и краткое изложение результатов. Здоровье сна, 1(1), 40–43. 
 6. Изучение парадокса дневного сна: дневной сон — друг или враг? Медицина сна, 37, 88–97. 
-7. Рекомендации Национального фонда сна по качеству сна: первый отчет. Здоровье Сна. 2017 Feb;3(1):6-19. 
+7. Рекомендации Национального фонда сна по качеству сна: первый отчёт. Здоровье Сна. 2017 Feb;3(1):6-19. 
 8. Национальный институт неврологических расстройств и инсульта. (н.д.). Основы мозга: Понимание сна. От 7 июня 2017. 
 9. Ведение хронической бессонницы у взрослых: клиническое практическое руководство Американского колледжа врачей. Энн Интерн Мед. От 19 июля 2016;165(2):125-33."</string>
     <string name="data_type_calorie">Калории</string>
@@ -1457,11 +1457,11 @@ ID:%s
     <string name="feedback_crop_tip">Загрузите снимки экрана, чтобы помочь нам выявить проблему.</string>
     <string name="feedback_device_problem">Устройство</string>
     <string name="feedback_device_uploading">Подождите…</string>
-    <string name="feedback_failed">Не удалось отправить отчет.</string>
+    <string name="feedback_failed">Не удалось отправить отчёт.</string>
     <string name="feedback_health_monitoring">Мониторинг здоровья</string>
     <string name="feedback_health_monitoring_title">Мониторинг здоровья</string>
     <string name="feedback_hint">Описание проблемы должно содержать более 10 слов</string>
-    <string name="feedback_input_feedback_content">Отчет не может быть пустым</string>
+    <string name="feedback_input_feedback_content">Отчёт не может быть пустым</string>
     <string name="feedback_log">Загрузите журналы, чтобы помочь нам выявить и решить эту проблему.</string>
     <string name="feedback_mail">E-mail</string>
     <string name="feedback_mine_feedback">Обратная связь</string>
@@ -1480,7 +1480,7 @@ ID:%s
     <string name="feedback_toast_less_than_word">Введите не менее 10 символов</string>
     <string name="feedback_toast_more_than_word">Вы можете ввести до 500 символов</string>
     <string name="feedback_txt_num">%1$d/500</string>
-    <string name="feedback_type">Выберите категорию, которая наиболее близка вашему отчету.</string>
+    <string name="feedback_type">Выберите категорию, которая наиболее близка вашему отчёту.</string>
     <string name="feedback_type_label">Проблема</string>
     <string name="feedback_upload">Отправить</string>
     <string name="feedback_upload_device_log_message">Загрузив журналы, вы поможете нам быстрее обнаружить проблему. На это может потребоваться 1—2 минуты.</string>
@@ -2532,7 +2532,7 @@ ID:%s
     <string name="heartrate_detect_principle_desc_1">Для измерения пульса  накройте вспышку и камеру. Вспышка будет использоваться в качестве источника света, а камера будет регистрировать изменения кровотока. Полученные изображения будут проанализированы, и на основе повторяющихся паттернов будет определена частота пульса.</string>
     <string name="heartrate_detect_principle_desc_3">Выполните несколько измерений, чтобы убедиться в точности результата. Представленные данные предназначены только для ознакомления. Данный способ измерения не может заменить использование профессионального медицинского оборудования.</string>
     <string name="heartrate_detect_principle_title">Измерение пульса</string>
-    <string name="heartrate_detect_report_title">Отчет о пульсе</string>
+    <string name="heartrate_detect_report_title">Отчёт о пульсе</string>
     <string name="heartrate_detect_state_after_activity">Недавно тренировались</string>
     <string name="heartrate_detect_state_after_activity_desc">Вы только что выполняли физические упражнения.</string>
     <string name="heartrate_detect_state_regular">Обычное</string>
@@ -2580,7 +2580,7 @@ ID:%s
     <string name="heartrate_report_resting_slow_desc">Текущий пульс ниже нормы, что может быть признаком брадикардии. Длительные периоды замедленного сердцебиения могут вызвать ишемию и гипоксию, а также другие сердечно-сосудистые и цереброваскулярные нарушения. Частота сердечных сокращений в состоянии покоя тесно связана с вашей диетой, активностью, уровнем стресса, распорядком сна и общим физическим состоянием. Ведите здоровый образ жизни и уделяйте внимание своему телу, чтобы избежать проблем со здоровьем. Если вы испытываете стеснение в груди, головокружение, потерю сознания или обмороки, своевременно обратитесь к врачу.</string>
     <string name="heartrate_resting_heart_rate">Пульс в покое</string>
     <string name="heartrate_resting_heart_rate_desc">Пульс в состоянии покоя — это количество ударов сердца в минуту, когда вы находитесь в состоянии покоя. Как правило, частота сердечных сокращений в покое колеблется от 55 до 80 ударов в минуту. Однако она также может зависеть от возраста, пола и других факторов.</string>
-    <string name="heartrate_see_report">Показать отчет</string>
+    <string name="heartrate_see_report">Показать отчёт</string>
     <string name="heartrate_start_detect">Начать</string>
     <string name="heartrate_state">Состояние</string>
     <string name="heartrate_state_active">Тренировка</string>
@@ -2824,10 +2824,10 @@ ID:%s
     <string name="mine_user_info">Пол | Рост | Возраст</string>
     <string name="mine_user_male">Мужской</string>
     <string name="mine_user_name">--</string>
-    <string name="mine_weekly_report">Еженедельный отчет</string>
+    <string name="mine_weekly_report">Еженедельный отчёт</string>
     <string name="mine_weekly_report_auth_desc">Разрешите этому приложению доступ к данным о тренировках.</string>
     <string name="mine_weekly_report_auth_title">Разрешения</string>
-    <string name="mine_weekly_report_auth_welcome">Просмотрите еженедельный отчет</string>
+    <string name="mine_weekly_report_auth_welcome">Просмотрите еженедельный отчёт</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
@@ -4086,7 +4086,7 @@ ID:%s
     <string name="trail_feedback_dialog_desc">Загрузить данные тренировки, чтобы помочь нам улучшить наши службы?</string>
     <string name="trail_feedback_dialog_nagtive_btn">Отмена</string>
     <string name="trail_feedback_dialog_positive_btn">Загрузить</string>
-    <string name="trail_feedback_failed">Не удалось отправить отчет.</string>
+    <string name="trail_feedback_failed">Не удалось отправить отчёт.</string>
     <string name="trail_feedback_success">Отправлено</string>
     <string name="trail_feedback_upload">Отправить</string>
     <string name="trail_free_sport_set">Произвольная активность</string>

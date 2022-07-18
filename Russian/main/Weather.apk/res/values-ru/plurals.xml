@@ -60,9 +60,9 @@
         <item quantity="few">Прогноз на %1$s дня</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s секунд после отчета</item>
-        <item quantity="one">%1$s секунда после отчета</item>
-        <item quantity="few">%1$s секунды после отчета</item>
+        <item quantity="other">%1$s секунд после отчёта</item>
+        <item quantity="one">%1$s секунда после отчёта</item>
+        <item quantity="few">%1$s секунды после отчёта</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
         <item quantity="other">Отзыв можно отправить еще раз через %1$s минут</item>

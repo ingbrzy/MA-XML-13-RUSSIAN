@@ -247,9 +247,9 @@
     <string name="comment_model_delete_success">Комментарий удален</string>
     <string name="comment_model_reply">Ответы</string>
     <string name="comment_model_reply_comment">"Ответ на %s: "</string>
-    <string name="comment_model_report">Отчет</string>
+    <string name="comment_model_report">Отчёт</string>
     <string name="comment_model_report_fail">Ошибка отправки</string>
-    <string name="comment_model_report_success">Отчет отправлен</string>
+    <string name="comment_model_report_success">Отчёт отправлен</string>
     <string name="comment_model_send_fail">Ошибка отправки</string>
     <string name="comment_model_send_fail_frequently">Повторите попытку позже.</string>
     <string name="comment_model_send_forbid_desc">Вы опубликовали несколько комментариев, содержание которых нарушают стандарты нашего сообщества. Ваш аккаунт окончательно заблокирован. Вы можете обжаловать решение, используя обратную связь в приложении.</string>
@@ -1607,7 +1607,7 @@ ID: %s
     <string name="reminder">Внимание</string>
     <string name="rename">Переименовать</string>
     <string name="rename_word_out">Имя файла слишком длинное</string>
-    <string name="report">Отчет</string>
+    <string name="report">Отчёт</string>
     <string name="report_content_dislike">Насилие или неподобающее поведение</string>
     <string name="report_content_fakement">Спам или мошенничество</string>
     <string name="report_content_harmful">Вредные или опасные действия</string>
@@ -1618,7 +1618,7 @@ ID: %s
     <string name="report_content_sexy">Сексуально откровенное содержание</string>
     <string name="report_content_violence">Разжигание ненависти</string>
     <string name="report_fail">Произошла ошибка. Повторите попытку.</string>
-    <string name="report_success">Отчет успешно отправлен</string>
+    <string name="report_success">Отчёт успешно отправлен</string>
     <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с соответствующими законами и постановлениями. Для нормальной работы приложению необходимы следующие разрешения:&lt;br>&lt;br>&lt;b>Камера (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не согласитесь предоставить такие разрешения, вы не сможете использовать некоторые функции приложения, однако его основные функции все равно будут вам доступны. Вы всегда можете ограничить разрешения или отозвать свою авторизацию в настройках."</string>
     <string name="resend_active_email">Повторить</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что сообщение не попало в папку со спамом.</string>

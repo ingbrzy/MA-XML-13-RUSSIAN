@@ -800,7 +800,7 @@ ID:%s
     <string name="dialog_font_light">Яркость</string>
     <string name="dialog_mark_like">Помечено как важное</string>
     <string name="dialog_report_cancel">Отмена</string>
-    <string name="dialog_report_confirm">Отчет</string>
+    <string name="dialog_report_confirm">Отчёт</string>
     <string name="dialog_report_desc">Вы можете сообщить нам об ошибках формата страницы. Сообщить сейчас?</string>
     <string name="dialog_report_title">Формат неверен</string>
     <string name="dialog_report_toast">Отчёт составлен</string>
@@ -1549,8 +1549,8 @@ ID:%s
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
     <string name="month_statement_category_detail_title">Выписка</string>
-    <string name="monthly_report_entry_text">Ежемесячный отчет</string>
-    <string name="monthly_report_lable">Ежемесячный отчет</string>
+    <string name="monthly_report_entry_text">Ежемесячный отчёт</string>
+    <string name="monthly_report_lable">Ежемесячный отчёт</string>
     <string name="more">Еще</string>
     <string name="more_express_numbers">Дополнительные номера курьеров</string>
     <string name="morning">Утро</string>

@@ -1802,8 +1802,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="first_aid_item4_content">Батарея</string>
     <string name="first_aid_item5_content">Другие проблемы</string>
     <string name="first_aid_result_feedback_button">Отправить</string>
-    <string name="first_aid_result_feedback_summary">Проблем не найдено. Тем не менее, если они есть, можете отправить отчет.</string>
-    <string name="first_aid_result_feedback_title">Отчет</string>
+    <string name="first_aid_result_feedback_summary">Проблем не найдено. Тем не менее, если они есть, можете отправить отчёт.</string>
+    <string name="first_aid_result_feedback_title">Отчёт</string>
     <string name="first_aid_result_summary_normal">Всё в порядке</string>
     <string name="first_aid_result_summary_not_finished">Проверка не завершена. Некоторые проблемы могли остаться незамеченными.</string>
     <string name="first_aid_scanning_item1">Проверка проблем с производительностью…</string>
@@ -2562,7 +2562,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
     <string name="loading">Подождите…</string>
     <string name="loading_text_format" formatted="false">Поиск фото с персональной информацией (%d/%d)…</string>
-    <string name="local_ip_exception_summary">Ошибка получения локального IP адреса. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
+    <string name="local_ip_exception_summary">Ошибка получения локального IP адреса. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчёт\" и отправьте журнал с вашего устройства.</string>
     <string name="lock_all_title">Блокировка всех приложений</string>
     <string name="lock_mode_title">Режим защиты</string>
     <string name="lock_screen_traffic_guide_notification_summary">Используется на экране блокировки: %s</string>
@@ -3957,7 +3957,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pref_roaming_setting_gategory">Настройки</string>
     <string name="pref_special_package_setting">Особый тариф</string>
     <string name="pref_special_package_setting_summary">Управление льготным трафиком, пакетами пополнения и целевым трафиком</string>
-    <string name="pref_summary_upload_data_usage">Отправка отчетов о трафике для улучшения MIUI. Отчетность осуществляется в соответствии с нашей Политикой конфиденциальности.</string>
+    <string name="pref_summary_upload_data_usage">Отправка отчётов о трафике для улучшения MIUI. Отчётность осуществляется в соответствии с нашей Политикой конфиденциальности.</string>
     <string name="pref_title_declaration">Отказ от ответственности</string>
     <string name="pref_title_diagnostics_show_float_notification">Всплывающие уведомления</string>
     <string name="pref_title_manual_check_virus_db_update">Проверить обновления</string>
@@ -3966,7 +3966,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pref_title_traffic_package_type">Тип тарифа</string>
     <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
     <string name="pref_title_update_notification">Виджет в шторке уведомлений</string>
-    <string name="pref_title_upload_data_usage">Отправлять отчеты о трафике</string>
+    <string name="pref_title_upload_data_usage">Отправлять отчёты о трафике</string>
     <string name="pref_traffic_daily_package">Суточный тариф</string>
     <string name="pref_traffic_daily_package_brand">Оператор суточного тарифа</string>
     <string name="pref_traffic_manage_title">Контроль трафика</string>
@@ -4265,7 +4265,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="protect_screen_information">Экран защищен</string>
     <string name="protect_screen_information_detail">Скриншоты или запись экрана во время набора текста недоступны</string>
     <string name="protocol_exception_title">Диагностика сетевого протокола</string>
-    <string name="protocol_loop_back_exception_summary">Ошибка диагностики. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
+    <string name="protocol_loop_back_exception_summary">Ошибка диагностики. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчёт\" и отправьте журнал с вашего устройства.</string>
     <string name="provision_back">Назад</string>
     <string name="provision_next">Далее</string>
     <string name="provision_skip_underline">Пропустить</string>
@@ -4321,10 +4321,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="repeated_marked_number_summary">Не блокировать повторный вызов с того же отмеченного номера в течение 3 минут</string>
     <string name="repeated_marked_number_title">Не блокировать повторные вызовы</string>
     <string name="replace_dns">Автоматическая замена DNS</string>
-    <string name="report">Отчет</string>
-    <string name="report_error">Ошибка отправки отчета</string>
-    <string name="report_only">Выберите сообщение для отчета</string>
-    <string name="report_success">Отчет отправлен</string>
+    <string name="report">Отчёт</string>
+    <string name="report_error">Ошибка отправки отчёта</string>
+    <string name="report_only">Выберите сообщение для отчёта</string>
+    <string name="report_success">Отчёт отправлен</string>
     <string name="report_warning">Отправить %1$s SMS в Xiaomi? Эти сообщения и телефонные номера, с которых они были отправлены, будут загружены на серверы Xiaomi для рассмотрения. Любая личная информация, связанная с этими сообщениями, останется анонимной.</string>
     <string name="report_warning_title">Внимание</string>
     <string name="required_permissions">"Обязательные разрешения "</string>
@@ -5254,7 +5254,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_title_charge">Зарядка</string>
     <string name="task_title_nfc">NFC</string>
     <string name="tc_cmd_invalid">Недопустимый шаблон</string>
-    <string name="tc_diagnostic_all_error_notification_summary">Нажмите для отправки отчета.</string>
+    <string name="tc_diagnostic_all_error_notification_summary">Нажмите для отправки отчёта.</string>
     <string name="tc_diagnostic_all_error_notification_title">Не удалось завершить диагностику</string>
     <string name="tc_diagnostic_brand_error_notification_summary">Нажмите для изменения типа сети.</string>
     <string name="tc_diagnostic_brand_error_notification_title">Неверный тип сети</string>
@@ -5276,7 +5276,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Диагностика завершена, исправлено местоположение.&lt;/font&gt;"</string>
     <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Диагностика завершена, исправлены местоположение и данные оператора.&lt;/font&gt;"</string>
     <string name="tc_diagnostic_repair_success_toast">Изменения внесены</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Не удалось завершить диагностику&lt;br/&gt;&lt;br/&gt;Отправьте отчет, чтобы помочь MIUI улучшить инструменты диагностики&lt;/font&gt;"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Не удалось завершить диагностику&lt;br/&gt;&lt;br/&gt;Отправьте отчёт, чтобы помочь MIUI улучшить инструменты диагностики&lt;/font&gt;"</string>
     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Неверное местоположение&lt;br/&gt;&lt;br/&gt;Установленное: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Реальное: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
     <string name="tc_diagnostic_status_error_brand">Ошибка поиска сети оператора</string>
     <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Ошибка&lt;/font&gt;"</string>
@@ -5286,13 +5286,13 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Сеть отвечает&lt;/font&gt;"</string>
     <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Тайм-аут&lt;/font&gt;"</string>
     <string name="tc_diagnostic_status_updating">Тестирование…</string>
-    <string name="tc_diagnostic_success_notification_summary">Отправьте отчет, чтобы помочь MIUI улучшить инструменты диагностики</string>
+    <string name="tc_diagnostic_success_notification_summary">Отправьте отчёт, чтобы помочь MIUI улучшить инструменты диагностики</string>
     <string name="tc_diagnostic_success_notification_title">Сеть и бренд оператора установлены верно</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Сеть и бренд оператора установлены верно&lt;br/&gt;&lt;br/&gt;Не удалось выполнить корректировку:&lt;br/&gt;1. Статистика оператора может быть ненадежной в начале или в конце месяца.&lt;br/&gt;2. Функции Безопасности не были обновлены.&lt;br/&gt;&lt;br/&gt;Отправьте отчет, чтобы помочь MIUI улучшить инструменты диагностики&lt;/font&gt;&gt;"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Сеть и бренд оператора установлены верно&lt;br/&gt;&lt;br/&gt;Не удалось выполнить корректировку:&lt;br/&gt;1. Статистика оператора может быть ненадежной в начале или в конце месяца.&lt;br/&gt;2. Функции Безопасности не были обновлены.&lt;br/&gt;&lt;br/&gt;Отправьте отчёт, чтобы помочь MIUI улучшить инструменты диагностики&lt;/font&gt;&gt;"</string>
     <string name="tc_diagnostic_title">Диагностика оператора</string>
-    <string name="tc_diagnostic_upload_button">Отчет</string>
-    <string name="tc_diagnostic_upload_no_network">Спасибо за ваш отчет! Он будет отправлен, когда устройство подключится к сети.</string>
-    <string name="tc_diagnostic_upload_success">Спасибо за ваш отчет!</string>
+    <string name="tc_diagnostic_upload_button">Отчёт</string>
+    <string name="tc_diagnostic_upload_no_network">Спасибо за ваш отчёт! Он будет отправлен, когда устройство подключится к сети.</string>
+    <string name="tc_diagnostic_upload_success">Спасибо за ваш отчёт!</string>
     <string name="tc_get_cmd_error">Ошибка получения шаблона</string>
     <string name="tc_parse_error">Ошибка разбора SMS</string>
     <string name="tc_receive_timeout">Время калибровки истекло</string>
@@ -5308,29 +5308,29 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tc_sms_report_get_sms_failure">Ошибка получения информации о трафике</string>
     <string name="tc_sms_report_get_sms_successs">Информация о трафике обновлена</string>
     <string name="tc_sms_report_get_sms_timeout">Время ожидания истекло</string>
-    <string name="tc_sms_report_get_success">Получен SMS отчет о трафике от оператора. Убедитесь в точности отчета и отправьте его нам.</string>
-    <string name="tc_sms_report_get_success_notify_body">Убедитесь в точности отчета и отправьте его нам.</string>
-    <string name="tc_sms_report_get_success_notify_title">Получен отчет о трафике по SMS</string>
+    <string name="tc_sms_report_get_success">Получен SMS отчёт о трафике от оператора. Убедитесь в точности отчёта и отправьте его нам.</string>
+    <string name="tc_sms_report_get_success_notify_body">Убедитесь в точности отчёта и отправьте его нам.</string>
+    <string name="tc_sms_report_get_success_notify_title">Получен отчёт о трафике по SMS</string>
     <string name="tc_sms_report_geting_sms">Получение данных SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Перейдите в модуль передачи данных и обновите данные вручную.</string>
     <string name="tc_sms_report_notify_correction_business_hall">Выполните калибровку повторно в Сервисах оператора</string>
     <string name="tc_sms_report_notify_correction_failure_title">Ошибка обновления информации о трафике</string>
-    <string name="tc_sms_report_notify_get_failure_body">Ошибка отправки отчета о трафике. Убедитесь, что вы подключены к мобильной сети.</string>
+    <string name="tc_sms_report_notify_get_failure_body">Ошибка отправки отчёта о трафике. Убедитесь, что вы подключены к мобильной сети.</string>
     <string name="tc_sms_report_notify_get_failure_title">Ошибка получения SMS с данными о трафике</string>
     <string name="tc_sms_report_notify_get_timeout_body">Время ожидания истекло. Уточните у оператора корректность введенного вами кода запроса SMS.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Ошибка получения SMS с данными о трафике</string>
-    <string name="tc_sms_report_receive_content">Содержание отчета о трафике</string>
+    <string name="tc_sms_report_receive_content">Содержание отчёта о трафике</string>
     <string name="tc_sms_report_receive_content_null">Помогите нам улучшить эту функцию!&lt;br/&gt;Как это сделать:&lt;br/&gt;1. Перейдите в \"Проверить команды SMS\" и \"Номер получателя\"&lt;br/&gt;2. Нажмите \"Получить шаблон SMS \"&lt;br/&gt;3. Дождитесь SMS от оператора &lt;br/&gt;4. Нажмите \"Отправить\"</string>
     <string name="tc_sms_report_receive_num">Номер получателя</string>
     <string name="tc_sms_report_send_num">Номер оператора</string>
-    <string name="tc_sms_report_summary">Помогите улучшить эту функцию путем отправки отчета в случае, если информация о трафике некорректна или неактуальна</string>
-    <string name="tc_sms_report_tips_dialog_message">Для получения актуальной информации о трафике от вашего оператора было отправлено SMS. Если вы считаете, что информация неверна, пришлите нам отчет.</string>
-    <string name="tc_sms_report_tips_dialog_title">SMS отчет о трафике</string>
-    <string name="tc_sms_report_title">Отправлять отчеты</string>
+    <string name="tc_sms_report_summary">Помогите улучшить эту функцию путем отправки отчёта в случае, если информация о трафике некорректна или неактуальна</string>
+    <string name="tc_sms_report_tips_dialog_message">Для получения актуальной информации о трафике от вашего оператора было отправлено SMS. Если вы считаете, что информация неверна, пришлите нам отчёт.</string>
+    <string name="tc_sms_report_tips_dialog_title">SMS отчёт о трафике</string>
+    <string name="tc_sms_report_title">Отправлять отчёты</string>
     <string name="tc_sms_report_toast_text">Получение данных…</string>
-    <string name="tc_sms_report_type">Тип отчета</string>
-    <string name="tc_sms_report_upload_success">Отчет о трафике отправлен</string>
-    <string name="tc_sms_report_upload_when_net">Спасибо за ваш отчет!</string>
+    <string name="tc_sms_report_type">Тип отчёта</string>
+    <string name="tc_sms_report_upload_success">Отчёт о трафике отправлен</string>
+    <string name="tc_sms_report_upload_when_net">Спасибо за ваш отчёт!</string>
     <string name="tc_web_correct_error">Ошибка калибровки</string>
     <string name="ten_percent_total_pkg">%s (10%% от месячного лимита)</string>
     <string name="terms_and_conditions_content"><Data>"Эта функция предупреждает о землетрясениях. Она сообщит о предстоящем землетрясении и воспроизведет сигнал тревоги. Вы сможете найти ближайшее убежище, позвонить в службу спасения и, при необходимости, предъявить медкарту. &lt;br>Мы будем защищать вашу личную информацию в соответствии с действующими законами, нормативными актами и политикой конфиденциальности. &lt;br>Для нормальной работы этой функции необходимы следующие разрешения для сбора вашей личной информации: &lt;br>• Геолокация: &lt;br>Для определения геопозиции и предоставления точных предупреждений о землетрясениях. &lt;br>В случае отказа предоставить необходимое разрешение и поделиться личной информацией, функция будет недоступна. В этом случае можно отключить эту функцию или не включать её. &lt;br>Перед использованием функции прочтите и примите &lt;a href=%s>Политику конфиденциальности&lt;/a>."</Data></string>

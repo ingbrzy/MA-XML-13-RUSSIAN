@@ -70,8 +70,8 @@
     <string name="afternoon">После полудня</string>
     <string name="announcement">Внимание</string>
     <string name="app_empty">Приложения не найдены.</string>
-    <string name="app_label">Отчет</string>
-    <string name="app_name">Отчет</string>
+    <string name="app_label">Отчёт</string>
+    <string name="app_name">Отчёт</string>
     <string name="app_search">Поиск приложений</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
     <string name="back">Назад</string>
@@ -80,11 +80,11 @@
     <string name="bugreport_dialog_not_show_again">Больше не показывать</string>
     <string name="bugreport_dialog_submit_content">Вы собираетесь сохранить журналы программного обеспечения. Они могут содержать личную информацию и данные вашего местоположения. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажав \"Принимаю\", вы принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
     <string name="bugreport_dump_complete_notification_summary">Нажмите для просмотра.</string>
-    <string name="bugreport_dump_complete_notification_title">Отчет создан</string>
+    <string name="bugreport_dump_complete_notification_title">Отчёт создан</string>
     <string name="bugreport_dump_start_notification_summary">Это может занять несколько минут.</string>
-    <string name="bugreport_dump_start_notification_title">Создание отчета об ошибке…</string>
+    <string name="bugreport_dump_start_notification_title">Создание отчёта об ошибке…</string>
     <string name="bugreport_tool_log_dumping_desc">Это займет около минуты</string>
-    <string name="bugreport_tool_log_dumping_title">Создание отчета об ошибке</string>
+    <string name="bugreport_tool_log_dumping_title">Создание отчёта об ошибке</string>
     <string name="catch_full_log_action_cancel">Отменить</string>
     <string name="catch_full_log_action_complete">Завершить и отправить</string>
     <string name="catch_full_log_action_start">Начать</string>
@@ -166,7 +166,7 @@ ID: %s
     <string name="dialog_ask_quit">Выход</string>
     <string name="discard_draft_dialog_button_cancel">Отмена</string>
     <string name="discard_draft_dialog_button_discard">Удалить</string>
-    <string name="discard_draft_dialog_content">Любые изменения, внесенные вами в этот отчет, будут потеряны.</string>
+    <string name="discard_draft_dialog_content">Любые изменения, внесенные вами в этот отчёт, будут потеряны.</string>
     <string name="discard_draft_dialog_title">Удалить черновик?</string>
     <string name="doing_login">Вход…</string>
     <string name="doing_query_account">Проверка информации об аккаунте…</string>
@@ -174,7 +174,7 @@ ID: %s
     <string name="early_morning">Утро</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
-    <string name="err_type">Тип отчета</string>
+    <string name="err_type">Тип отчёта</string>
     <string name="err_type_app">Приложения</string>
     <string name="err_type_appstore">Mi Apps</string>
     <string name="err_type_bluetooth">Bluetooth</string>
@@ -221,7 +221,7 @@ ID: %s
     <string name="feedback_choose_third_app_name">Выбор приложения</string>
     <string name="feedback_collect_log_failed">Не удалось собрать журналы</string>
     <string name="feedback_contact_info_hint">Телефон/Email</string>
-    <string name="feedback_continue">Отправить отчет</string>
+    <string name="feedback_continue">Отправить отчёт</string>
     <string name="feedback_delete_images">Удалить изображения</string>
     <string name="feedback_description">Описание</string>
     <string name="feedback_description_bugreport_hint">В некоторых случаях (…) мой телефон работает неправильно (…).</string>
@@ -242,16 +242,16 @@ ID: %s
     <string name="feedback_detail_feedback_summary">Обратная связь</string>
     <string name="feedback_detail_need_content">Добавьте содержимое</string>
     <string name="feedback_detail_title">Сведения</string>
-    <string name="feedback_detail_upload_generate_log">Создание отчетов</string>
+    <string name="feedback_detail_upload_generate_log">Создание отчётов</string>
     <string name="feedback_detail_upload_image">Отправка изображений/видео</string>
     <string name="feedback_detail_upload_local_log">Отправка файла</string>
-    <string name="feedback_detail_upload_log">Отправка отчетов</string>
+    <string name="feedback_detail_upload_log">Отправка отчётов</string>
     <string name="feedback_detail_waiting">Создание…</string>
     <string name="feedback_edit_popup_window_related_title">Это может быть актуально</string>
-    <string name="feedback_empty_report_list">Пока нет отчетов</string>
+    <string name="feedback_empty_report_list">Пока нет отчётов</string>
     <string name="feedback_guess">Наше предположение</string>
     <string name="feedback_hint_optional">Выбор</string>
-    <string name="feedback_history_remind_login_desc">Войдите в свой Xiaomi аккаунт для просмотра подробностей о ваших отчетах</string>
+    <string name="feedback_history_remind_login_desc">Войдите в свой Xiaomi аккаунт для просмотра подробностей о ваших отчётах</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA Key: %s</string>
     <string name="feedback_jira_key_place_holder">Создание Jira…</string>
@@ -260,7 +260,7 @@ ID: %s
     <string name="feedback_probability_label">Вероятность</string>
     <string name="feedback_remind_login_btn">Войти</string>
     <string name="feedback_report_remind_login_desc">Войдите в свой Xiaomi аккаунт, чтобы наши инженеры могли связаться с Вами.</string>
-    <string name="feedback_report_remind_login_desc2">Вы можете просмотреть продвижение своего отчета в разделе \"Мои отзывы\".</string>
+    <string name="feedback_report_remind_login_desc2">Вы можете просмотреть продвижение своего отчёта в разделе \"Мои отзывы\".</string>
     <string name="feedback_reproductivity_everytime">Каждый раз</string>
     <string name="feedback_reproductivity_occasionally">Редко</string>
     <string name="feedback_reproductivity_often">Часто</string>
@@ -280,9 +280,9 @@ ID: %s
     <string name="feedback_select_upload_log_not_select_desc">Не выбрано \"Добавить журналы\"</string>
     <string name="feedback_select_upload_log_select_desc">Выбрано \"Добавить журналы\"</string>
     <string name="feedback_status_answered">Ответ дан</string>
-    <string name="feedback_status_change_notification_title">Статус вашего отчета был обновлен</string>
+    <string name="feedback_status_change_notification_title">Статус вашего отчёта был обновлен</string>
     <string name="feedback_status_collect_log_failed">Не удалось собрать журналы</string>
-    <string name="feedback_status_commit_failed_title">Не удалось отправить отчет</string>
+    <string name="feedback_status_commit_failed_title">Не удалось отправить отчёт</string>
     <string name="feedback_status_commit_in_queue_title">Ожидание…</string>
     <string name="feedback_status_commit_succ_title">Отправлено</string>
     <string name="feedback_status_commit_uploading_title">Отправка…</string>
@@ -291,21 +291,21 @@ ID: %s
     <string name="feedback_status_jira_comment">Добавить комментарий</string>
     <string name="feedback_status_more">Подробности</string>
     <string name="feedback_status_processing">Обработка…</string>
-    <string name="feedback_status_recorded">Отчет получен</string>
+    <string name="feedback_status_recorded">Отчёт получен</string>
     <string name="feedback_status_replyed">С ответом</string>
     <string name="feedback_status_reresolved">Решено</string>
     <string name="feedback_status_save_log_info_failed">Не удалось изменить URL вложения</string>
     <string name="feedback_status_submit_attachment">Вложение успешно отправлено</string>
-    <string name="feedback_status_submit_bbs_failed">Не удалось отправить содержимое отчета</string>
-    <string name="feedback_status_submit_feedback_failed">Не удалось отправить отчет</string>
+    <string name="feedback_status_submit_bbs_failed">Не удалось отправить содержимое отчёта</string>
+    <string name="feedback_status_submit_feedback_failed">Не удалось отправить отчёт</string>
     <string name="feedback_status_supplement">Подробно опишите проблему</string>
     <string name="feedback_status_supplement_more">Добавить комментарий</string>
     <string name="feedback_status_upload_log_failed">Не удалось отправить вложения</string>
     <string name="feedback_submit_failed_notification_desc">Подробности</string>
     <string name="feedback_submit_failed_notification_retry">Повторить</string>
-    <string name="feedback_submit_failed_notification_title">Не удалось отправить отчет</string>
+    <string name="feedback_submit_failed_notification_title">Не удалось отправить отчёт</string>
     <string name="feedback_submit_hint">Сообщайте об ошибках каждый раз, когда сталкиваетесь с проблемами, чтобы мы могли быстрее их устранить</string>
-    <string name="feedback_submit_hint1">Мы сообщим вам о ходе рассмотрения вашего отчета</string>
+    <string name="feedback_submit_hint1">Мы сообщим вам о ходе рассмотрения вашего отчёта</string>
     <string name="feedback_submit_hint2">Для подробностей перейдите в раздел \"Мои отзывы\"</string>
     <string name="feedback_submit_hint_gone">Сообщение закрыто</string>
     <string name="feedback_submit_succ">Отправлено</string>
@@ -319,7 +319,7 @@ ID: %s
     <string name="feedback_title_reproductivity">Укажите повторяемость</string>
     <string name="feedback_tracking">Отслеживание проблем</string>
     <string name="feedback_version_label">Версия</string>
-    <string name="feesback_list">Отчеты</string>
+    <string name="feesback_list">Отчёты</string>
     <string name="find_psw">Забыли пароль?</string>
     <string name="first_position">2#</string>
     <string name="floor">%1$s#</string>
@@ -373,7 +373,7 @@ ID: %s
     <string name="kr_authorization_contact">Учетные записи</string>
     <string name="kr_authorization_contact_desc">Получение информации о Xiaomi аккаунте и проверка учетной записи</string>
     <string name="kr_authorization_exit">Отмена</string>
-    <string name="kr_authorization_function">Отправка отзывов и отчетов, просмотр часто задаваемых вопросов</string>
+    <string name="kr_authorization_function">Отправка отзывов и отчётов, просмотр часто задаваемых вопросов</string>
     <string name="kr_authorization_log_protocol">Лог протокола (необязательно)</string>
     <string name="kr_authorization_log_protocol_desc">"Для улучшения предоставляемых услуг, мы будем загружать статистику использования и системные журналы на наши серверы. Эти данные могут включать вашу личную информацию, а также информацию о вашем устройстве и сетях. Загруженные данные будут использованы только для поиска и анализа проблем в системе."</string>
     <string name="kr_authorization_phone">Телефон</string>
@@ -393,7 +393,7 @@ ID: %s
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
     <string name="login_with_sns">Другие варианты входа</string>
-    <string name="logo_title">Отчет</string>
+    <string name="logo_title">Отчёт</string>
     <string name="logout_account">Выйти из аккаунта</string>
     <string name="max_error">Ваш %1$s слишком длинный.</string>
     <string name="menu_copy">Копировать</string>
@@ -416,7 +416,7 @@ ID: %s
     <string name="michat_close_text">Чат завершен</string>
     <string name="michat_comment_net_error">Не удалось подключиться к сети, повторите попытку позже</string>
     <string name="michat_comment_submit">Оценить и вернуться</string>
-    <string name="michat_comment_thx">Спасибо за ваш отчет!</string>
+    <string name="michat_comment_thx">Спасибо за ваш отчёт!</string>
     <string name="michat_customer_join">Присоединяйтесь к чату</string>
     <string name="michat_customer_quit">Персонал поддержки покинул чат</string>
     <string name="michat_customer_text">Служба поддержки</string>
@@ -425,7 +425,7 @@ ID: %s
     <string name="michat_error_need_login_text">Войдите, чтобы использовать онлайн-поддержку</string>
     <string name="michat_failed_to_add_media">К сожалению, не могу отправить %1$s</string>
     <string name="michat_failed_to_fetch_fql">Не удалось получить данные FAQ, проверьте подключение к сети</string>
-    <string name="michat_feedback_title_name">Обзор отчета</string>
+    <string name="michat_feedback_title_name">Обзор отчёта</string>
     <string name="michat_finish_text">Завершить</string>
     <string name="michat_in_artificial_customer_state">В данный момент занят, помогаю другому человеку</string>
     <string name="michat_invalid_url">Неверная ссылка</string>
@@ -580,7 +580,7 @@ ID: %s
     <string name="network_errortip_unknow">Мы пытаемся это исправить…</string>
     <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
-    <string name="network_unavailable_dialog_content">Ваш отчет будет отправлен при подключении к сети.</string>
+    <string name="network_unavailable_dialog_content">Ваш отчёт будет отправлен при подключении к сети.</string>
     <string name="network_unavailable_dialog_title">Интернет недоступен</string>
     <string name="nick_name">Псевдоним</string>
     <string name="night">Вечер</string>
@@ -593,7 +593,7 @@ ID: %s
     <string name="ok">ОК</string>
     <string name="open_feedback_main">Еще</string>
     <string name="open_settings">Настройки</string>
-    <string name="packaging_dialog_content">Создание отчета…</string>
+    <string name="packaging_dialog_content">Создание отчёта…</string>
     <string name="passport_access_denied">Доступ запрещен</string>
     <string name="passport_account_label">Xiaomi аккаунт</string>
     <string name="passport_account_name">"Аккаунт: %1$s "</string>
@@ -742,7 +742,7 @@ ID: %s
     <string name="photoPickerNotFoundText">Нет доступных фото.</string>
     <string name="pic_not_exist">Это изображение не существует</string>
     <string name="please_agree_protocal">Примите Протокол</string>
-    <string name="plus_one_submit_dialog_content">Ваш отчет вместе с журналами ошибок будет отправлен на серверы MIUI.</string>
+    <string name="plus_one_submit_dialog_content">Ваш отчёт вместе с журналами ошибок будет отправлен на серверы MIUI.</string>
     <string name="plus_one_submit_dialog_not_show_again">Запомнить выбор</string>
     <string name="post_miui_bbs_failed">Не удалось разместить на форуме MIUI</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
@@ -772,7 +772,7 @@ ID: %s
     <string name="reply_option_log_hint">Необязательно</string>
     <string name="reply_select_log_hint">Выберите журнал</string>
     <string name="reply_successful">Ответ успешно отправлен</string>
-    <string name="report_miui">Отчет MIUI</string>
+    <string name="report_miui">Отчёт MIUI</string>
     <string name="request_agree">Разрешить</string>
     <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Этому приложению для нормальной работы требуются следующие разрешения:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не предоставите такие разрешения, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему доступна. Вы всегда можете ограничить разрешения или отозвать свое разрешение в Настройках."</string>
     <string name="request_cancel">Отмена</string>
@@ -799,7 +799,7 @@ ID: %s
     <string name="search_menu_title">Поиск</string>
     <string name="second_position">3#</string>
     <string name="section_description">Описание</string>
-    <string name="section_err_type">Тип отчета</string>
+    <string name="section_err_type">Тип отчёта</string>
     <string name="section_screenshot">Скриншот</string>
     <string name="select_system_app_tag">Выберите проблему</string>
     <string name="send">Отправить</string>
@@ -847,12 +847,12 @@ ID: %s
     <string name="stop_full_log_dialog_title">Создание журналов…</string>
     <string name="submit_dialog_cancel">Отмена</string>
     <string name="submit_dialog_confirm">Принимаю</string>
-    <string name="submit_dialog_content"><Data>"Перед отправкой отчета прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>. Проблемы, о которых вы сообщаете, а также данные, которые вы прикрепляете (включая журналы, которые могут содержать личную информацию и информацию об устройстве и сети), будут загружены на серверы MIUI. Это поможет нам в решении проблем, о которых вы сообщаете. Если проблемы связаны с несколькими устройствами, будут также загружены журналы с других устройств, где используется ваш Xiaomi аккаунт."</Data></string>
-    <string name="submit_dialog_content_global">Ваш отчет вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.</string>
+    <string name="submit_dialog_content"><Data>"Перед отправкой отчёта прочтите и примите &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>. Проблемы, о которых вы сообщаете, а также данные, которые вы прикрепляете (включая журналы, которые могут содержать личную информацию и информацию об устройстве и сети), будут загружены на серверы MIUI. Это поможет нам в решении проблем, о которых вы сообщаете. Если проблемы связаны с несколькими устройствами, будут также загружены журналы с других устройств, где используется ваш Xiaomi аккаунт."</Data></string>
+    <string name="submit_dialog_content_global">Ваш отчёт вместе со вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые не хотите отправлять) будет отправлен на серверы MIUI и в закрытый раздел форума MIUI для разработчиков. Информация о ваших темах и активности на форуме также будет собрана для анализа и дальнейшего общения. Журналы могут содержать личную информацию и данные вашего местоположения. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.</string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>Ваш отзыв, а также вложения (если таковые имеются) и журналы (вы можете снять флажки с соответствующих пунктов, которые вы не хотите загружать) будут отправлены на серверы MIUI. Журналы могут содержать личную информацию и данные о вашем местоположении. Нажав \"Принимаю\", вы принимаете наши &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"%2$s\">Пользовательское соглашение&lt;/a>.</Data></string>
     <string name="submit_dialog_not_show_again">Больше не показывать</string>
-    <string name="submit_dialog_title">Отправка отчета</string>
-    <string name="submit_feedback_info_failed">Не удалось отправить отчет</string>
+    <string name="submit_dialog_title">Отправка отчёта</string>
+    <string name="submit_feedback_info_failed">Не удалось отправить отчёт</string>
     <string name="suggest_upload_log_dialog_cancel">Нет, спасибо</string>
     <string name="suggest_upload_log_dialog_confirm">Отправить</string>
     <string name="suggest_upload_log_dialog_content">Чтобы помочь нам найти и решить возникшую у вас проблему как можно скорее, рекомендуем отправить соответствующие журналы. Журналы используются только для анализа проблем и не будут использоваться для других целей.</string>
@@ -867,7 +867,7 @@ ID: %s
     <string name="tab_title_chat">Вопросы и ответы</string>
     <string name="tab_title_my_reports">Мои отзывы</string>
     <string name="tab_title_preferences">Настройки</string>
-    <string name="tab_title_report">Отчет</string>
+    <string name="tab_title_report">Отчёт</string>
     <string name="temporary_not_available">Эта функция пока недоступна.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
@@ -931,27 +931,27 @@ ID: %s
     <string name="toast_app_tag_required">Сначала выберите проблему</string>
     <string name="toast_catch_full_log_catching">Одновременно можно создать только один журнал</string>
     <string name="toast_catch_full_log_open_failed">Не удалось начать создание журнала</string>
-    <string name="toast_description_required">Отчет не может быть пустым</string>
+    <string name="toast_description_required">Отчёт не может быть пустым</string>
     <string name="toast_feedback_collect_store">Сбор журналов…</string>
     <string name="toast_feedback_network_unavailable">Не удалось подключиться к сети</string>
-    <string name="toast_feedback_pending_wlan">Ваш отчет будет отправлен при подключении к сети Wi-Fi</string>
-    <string name="toast_feedback_submitted">Отчет успешно отправлен</string>
+    <string name="toast_feedback_pending_wlan">Ваш отчёт будет отправлен при подключении к сети Wi-Fi</string>
+    <string name="toast_feedback_submitted">Отчёт успешно отправлен</string>
     <string name="toast_feedback_submitting">Отправка…</string>
     <string name="toast_file_format_not_support">Этот формат файла не поддерживается. Попробуйте выбрать другой файл.</string>
-    <string name="toast_fill_brackets">В отчете не хватает некоторых сведений</string>
+    <string name="toast_fill_brackets">В отчёте не хватает некоторых сведений</string>
     <string name="toast_loading_app_id">Получение данных…</string>
     <string name="toast_log_not_exists">Необходимый журнал был удален или не существует</string>
     <string name="toast_log_too_large">Журнал слишком большой для отправки</string>
     <string name="toast_min_description_count">Описание должно быть длиннее</string>
     <string name="toast_module_required">Выберите категорию</string>
-    <string name="toast_network_unavailable">Не удалось отправить отчет. Интернет недоступен.</string>
+    <string name="toast_network_unavailable">Не удалось отправить отчёт. Интернет недоступен.</string>
     <string name="toast_pending_log_collection">Идет сбор журналов…</string>
     <string name="toast_pic_not_exists">Сохраненное изображение было удалено</string>
     <string name="toast_post_deleted">Эта тема не существует, была удалена или изменена</string>
     <string name="toast_problem_class_required">Выберите категорию</string>
-    <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
-    <string name="toast_report_sent_failed">Не удалось отправить отчет</string>
-    <string name="toast_report_sent_succeed">Отчет успешно отправлен</string>
+    <string name="toast_report_copied_to_clipboard">Отчёт скопирован в буфер обмена</string>
+    <string name="toast_report_sent_failed">Не удалось отправить отчёт</string>
+    <string name="toast_report_sent_succeed">Отчёт успешно отправлен</string>
     <string name="toast_screenshot_too_large">Нельзя отправить файл размером более %d МБ</string>
     <string name="toast_third_packagename_required">Введите имя приложения</string>
     <string name="toast_title_required">Опишите вашу проблему</string>

@@ -242,11 +242,11 @@
     <string name="feedback_moderate_rain">Дождь</string>
     <string name="feedback_moderate_snow">Снег</string>
     <string name="feedback_overcast">Пасмурно</string>
-    <string name="feedback_report_privacy_msg">Отчет будет содержать ваше местоположение</string>
+    <string name="feedback_report_privacy_msg">Отчёт будет содержать ваше местоположение</string>
     <string name="feedback_result_fail_no_choice">Выберите текущие погодные условия</string>
     <string name="feedback_result_fail_no_reason">Спасибо за ваш отзыв!</string>
-    <string name="feedback_result_fail_same_type">Похоже, ваш отчет не отличается от текущей погоды. Попробуйте еще раз.</string>
-    <string name="feedback_result_success">Успешно отправлено, спасибо за ваш отчет</string>
+    <string name="feedback_result_fail_same_type">Похоже, ваш отчёт не отличается от текущей погоды. Попробуйте еще раз.</string>
+    <string name="feedback_result_success">Успешно отправлено, спасибо за ваш отчёт</string>
     <string name="feedback_sandy">Пыль</string>
     <string name="feedback_sunny">Ясно</string>
     <string name="first_start_network_title">Интернет и местоположение</string>
@@ -313,7 +313,7 @@
     <string name="minute_rain_after_an_hour">Через 1 час</string>
     <string name="minute_rain_after_two_hour">Через 2 часа</string>
     <string name="minute_rain_feedback_subtitle">Скажите нам, какая сейчас погода.</string>
-    <string name="minute_rain_feedback_text">Отчет</string>
+    <string name="minute_rain_feedback_text">Отчёт</string>
     <string name="minute_rain_feedback_title">Неверная информация о погоде</string>
     <string name="minute_rain_let_go_refresh">Отпустите для обновления</string>
     <string name="minute_rain_no_data">Данных нет</string>

@@ -255,8 +255,8 @@
     <string name="bt_plugin_update_done_dialog_title">Применение изменений</string>
     <string name="bt_plugin_update_done_toast">Успешно обновлено</string>
     <string name="bt_plugin_update_notification_updating">Обновление Bluetooth</string>
-    <string name="bugreport_in_power">Отчет об ошибке</string>
-    <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчета об ошибке</string>
+    <string name="bugreport_in_power">Отчёт об ошибке</string>
+    <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчёта об ошибке</string>
     <string name="button_convert_fbe">Очистить и перейти…</string>
     <string name="cached_apps_freezer_device_default">По умолчанию</string>
     <string name="cached_apps_freezer_disabled">Отключено</string>
@@ -378,7 +378,7 @@
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_verbose_vendor_logging">Журнал поставщика</string>
-    <string name="enable_verbose_vendor_logging_summary">Включение в отчеты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
+    <string name="enable_verbose_vendor_logging_summary">Включение в отчёты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
     <string name="enabled_by_admin">Включено администратором</string>
     <string name="enhanced_connectivity">Улучшенное соединение</string>
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>

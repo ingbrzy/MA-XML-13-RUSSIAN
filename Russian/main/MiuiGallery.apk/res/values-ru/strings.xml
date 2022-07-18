@@ -827,9 +827,9 @@
     <string name="error_sync_off_tip">Синхронизация отключена</string>
     <string name="error_title">Ошибка синхронизации</string>
     <string name="error_unauthorized">Синхронизация отключена из-за большого количества попыток входа в систему.</string>
-    <string name="error_unknown_action">Отчет</string>
+    <string name="error_unknown_action">Отчёт</string>
     <string name="error_unknown_host">Не удалось подключиться к сети. Проверьте подключение и повторите попытку.</string>
-    <string name="error_unknown_msg">Произошла ошибка. Пришлите нам отчет.</string>
+    <string name="error_unknown_msg">Произошла ошибка. Пришлите нам отчёт.</string>
     <string name="error_unknown_tip">Произошла ошибка.</string>
     <string name="evening">После полудня</string>
     <string name="exif_tag_smart_fusion">Умное объединение</string>

@@ -103,10 +103,10 @@
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="applications">Приложения</string>
     <string name="attach_to_bug_report">Прикрепление трассировок</string>
-    <string name="attach_to_bug_report_summary">Автоматически прикреплять трассировки при отправке отчета об ошибках в BetterBug</string>
-    <string name="attached_to_report">Трассировка прикреплена к отчету об ошибках</string>
+    <string name="attach_to_bug_report_summary">Автоматически прикреплять трассировки при отправке отчёта об ошибках в BetterBug</string>
+    <string name="attached_to_report">Трассировка прикреплена к отчёту об ошибках</string>
     <string name="attached_to_report_summary">Нажмите, чтобы открыть BetterBug</string>
-    <string name="attaching_to_report">Прикрепление трассировки к отчету об ошибках</string>
+    <string name="attaching_to_report">Прикрепление трассировки к отчёту об ошибках</string>
     <string name="auto_connect_disable">Без автоподключения</string>
     <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
@@ -231,8 +231,8 @@
     <string name="bt_hci_snoop_log">Включить журнал HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Сохранять все пакеты HCI Bluetooth в файле</string>
     <string name="buffer_size">Размер буфера</string>
-    <string name="bugreport_in_power">Отчет об ошибке</string>
-    <string name="bugreport_in_power_summary">Показывать в меню кнопку для отправки отчета об ошибке</string>
+    <string name="bugreport_in_power">Отчёт об ошибке</string>
+    <string name="bugreport_in_power_summary">Показывать в меню кнопку для отправки отчёта об ошибке</string>
     <string name="button_convert_fbe">Очистить и перейти…</string>
     <string name="cached_apps_freezer_device_default">По умолчанию</string>
     <string name="cached_apps_freezer_disabled">Отключено</string>
@@ -355,7 +355,7 @@
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_verbose_vendor_logging">Журнал поставщика</string>
-    <string name="enable_verbose_vendor_logging_summary">Включение в отчеты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
+    <string name="enable_verbose_vendor_logging_summary">Включение в отчёты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
     <string name="enabled_by_admin">Включено администратором</string>
     <string name="enhanced_connectivity">Улучшенное соединение</string>
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>
@@ -664,7 +664,7 @@
     <string name="start_new_trace">Начать новую трассировку</string>
     <string name="status_unavailable">Недоступен</string>
     <string name="stop_on_bugreport">Завершение трассировки</string>
-    <string name="stop_on_bugreport_summary">Завершать активные записи трассировки при запуске отчета об ошибке</string>
+    <string name="stop_on_bugreport_summary">Завершать активные записи трассировки при запуске отчёта об ошибке</string>
     <string name="stop_tracing">Остановить трассировку</string>
     <string name="storage_category">Хранилище</string>
     <string name="strict_mode">Строгий режим</string>

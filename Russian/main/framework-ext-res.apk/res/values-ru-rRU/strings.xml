@@ -159,7 +159,7 @@
     <string name="fadeout">Затухание</string>
     <string name="fairyland">Сказка</string>
     <string name="fantasy">Фантазия</string>
-    <string name="fc_dialog_body">Отправить отчет об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчеты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
+    <string name="fc_dialog_body">Отправить отчёт об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчёты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
     <string name="fc_dialog_jump_to_preview">Просмотреть</string>
     <string name="fieldtrip">Экскурсия</string>
     <string name="file_cannot_print">"Не удается распечатать."</string>

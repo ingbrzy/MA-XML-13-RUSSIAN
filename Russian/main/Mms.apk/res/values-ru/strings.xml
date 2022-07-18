@@ -157,7 +157,7 @@
     <string name="cmcc_privacy">Соглашение о конфиденциальности China Mobile</string>
     <string name="cn_privacy_dialog_title">Внимание</string>
     <string name="cn_privacy_update_dialog_title">Обновленная Политика конфиденциальности</string>
-    <string name="complain_message_title">Отчет</string>
+    <string name="complain_message_title">Отчёт</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в чёрный список?</string>
@@ -241,12 +241,12 @@
     <string name="delete_wild_sims">Удалить номера</string>
     <string name="delete_wild_sims_confirm">Все сообщения от выбранных номеров будут удалены с этого телефона. Вы можете восстановить их из i.mi.com.</string>
     <string name="delete_wild_sims_title">Удаление выбранных номеров</string>
-    <string name="delivery_report_activity">Отчет о доставке</string>
+    <string name="delivery_report_activity">Отчёт о доставке</string>
     <string name="delivery_toast_body">Сообщение для %s доставлено</string>
     <string name="dialog_agree">Принимаю</string>
     <string name="dialog_cancel">Отмена</string>
     <string name="dialog_choice_all_correct_as_normal">Все сообщения от %s</string>
-    <string name="dialog_complain_tips">Разрешить Сообщениям подключение к сети, для возможности отчетов.</string>
+    <string name="dialog_complain_tips">Разрешить Сообщениям подключение к сети, для возможности отчётов.</string>
     <string name="dialog_message_correct_as_ad">Все сообщения от %s (кроме проверочных кодов) будут перемещены в рекламные сообщения.</string>
     <string name="dialog_message_correct_as_normal">Выберите сообщения для перемещения</string>
     <string name="dialog_message_fake_cell_detect_error">Скорректировать информацию об этом сообщении? Для этого MIUI необходимо загрузить номер телефона (%1$s), содержимое сообщения и информацию о ближайшем местоположении на свои серверы.</string>
@@ -300,7 +300,7 @@
     <string name="error_invalid_phone">Неверный номер телефона</string>
     <string name="error_login">"Не удалось войти"</string>
     <string name="error_state">Данные были изменены</string>
-    <string name="error_state_text">Состояние диалогов и получателей не согласовано. Создайте отчет об ошибке и отправьте его через http://go/droidanizer</string>
+    <string name="error_state_text">Состояние диалогов и получателей не согласовано. Создайте отчёт об ошибке и отправьте его через http://go/droidanizer</string>
     <string name="error_timed_msg">Нельзя запланировать время ранее текущего</string>
     <string name="evening">После полудня</string>
     <string name="ex_type_mx">Mi сообщение</string>
@@ -478,7 +478,7 @@
     <string name="message_rejected">Отклонено</string>
     <string name="message_saved_as_draft">Черновик сообщения сохранен</string>
     <string name="message_send_failed_title">Сообщение не отправлено</string>
-    <string name="message_send_read_report">Будет отправлен отчет.</string>
+    <string name="message_send_read_report">Будет отправлен отчёт.</string>
     <string name="message_sent">Отправлено</string>
     <string name="message_size_label">"Размер сообщения: "</string>
     <string name="message_too_big_for_audio">Сообщение слишком большое для добавления аудио</string>
@@ -668,7 +668,7 @@
     <string name="no">Отмена</string>
     <string name="no_block_button_msg">Разблокировать</string>
     <string name="no_conversations">Нет сообщений</string>
-    <string name="no_delivery_report">Нет отчета о доставке</string>
+    <string name="no_delivery_report">Нет отчёта о доставке</string>
     <string name="no_dialogue_yet">Выберите диалог</string>
     <string name="no_longer_recommend">Больше не показывать</string>
     <string name="no_network_description">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
@@ -728,7 +728,7 @@
     <string name="pref_allow_network_access_summary">Получать актуальную информацию о доставке и других услугах</string>
     <string name="pref_cell_broadcast">Экстренные оповещения</string>
     <string name="pref_collapse_sp_messages_summary">Автоматически группировать уведомления о SMS</string>
-    <string name="pref_delivery_ringtone">Звук отчета о доставке</string>
+    <string name="pref_delivery_ringtone">Звук отчёта о доставке</string>
     <string name="pref_edit_smsc_address">Номер SMS центра (SMSC)</string>
     <string name="pref_forward_title">Переслать</string>
     <string name="pref_group_ad_mms_recognition">Группировать рекламные сообщения</string>
@@ -738,7 +738,7 @@
     <string name="pref_msg_trash_bin_title">Удаленные сообщения</string>
     <string name="pref_notification_settings_title">Уведомления</string>
     <string name="pref_other_title">Дополнительные настройки</string>
-    <string name="pref_rcs_show_report_message">Отчет о доставке</string>
+    <string name="pref_rcs_show_report_message">Отчёт о доставке</string>
     <string name="pref_rcs_show_report_message_tip">Уведомлять о доставке сообщения</string>
     <string name="pref_show_blocked_messages_summary">Показывать заблокированные SMS в списке диалогов</string>
     <string name="pref_show_list_avatar_summary">Показывать фото и данные контактов в режиме списка</string>
@@ -756,7 +756,7 @@
     <string name="pref_summary_collapse_ad_notification_mms">Показывать все рекламные сообщения в отдельной папке</string>
     <string name="pref_summary_collapse_ad_notification_mms_new">Группировать рекламные сообщения и помечать их как маловажные</string>
     <string name="pref_summary_delete_limit">Сообщений в диалоге: %1$s</string>
-    <string name="pref_summary_delivery_reports">Показывать отчет о доставке для отправленных сообщений</string>
+    <string name="pref_summary_delivery_reports">Показывать отчёт о доставке для отправленных сообщений</string>
     <string name="pref_summary_delivery_ringtone">Получать звуковые уведомления о доставке сообщений</string>
     <string name="pref_summary_enable_ad_notification">Группировать рекламные сообщения в шторке уведомлений</string>
     <string name="pref_summary_enable_classify">Перенести рекламные и финансовые сообщения в отдельную папку</string>
@@ -768,7 +768,7 @@
     <string name="pref_summary_off_system_mms_priority">Использовать сторонние приложения для отправки и получения MMS</string>
     <string name="pref_summary_on_system_mms_priority">Использовать системное приложение для отправки и получения MMS</string>
     <string name="pref_summary_privacy_authority">Используйте переключатель для предоставления или отмены разрешения</string>
-    <string name="pref_summary_send_delivery_reports">Отправлять отчет о доставке при получении MMS</string>
+    <string name="pref_summary_send_delivery_reports">Отправлять отчёт о доставке при получении MMS</string>
     <string name="pref_summary_switch_aim_card">Отображение сообщений, содержащих видео, изображения и сложное форматирование в виде карточек</string>
     <string name="pref_summary_voice_report">Читать сообщения вслух при поступлении. Для остановки воспроизведения нажмите кнопку уменьшения громкости или кнопку питания.</string>
     <string name="pref_summary_wake_up_screen">Включать подсветку экрана при получении нового сообщения</string>
@@ -780,7 +780,7 @@
     <string name="pref_title_auto_delete">Удалять старые сообщения</string>
     <string name="pref_title_card_format">Формат обмена визитками</string>
     <string name="pref_title_collapse_ad_notification">Группировать уведомления о рекламных сообщениях</string>
-    <string name="pref_title_delivery_reports">Отчет о доставке</string>
+    <string name="pref_title_delivery_reports">Отчёт о доставке</string>
     <string name="pref_title_enable_ad_notification">Рекламные сообщения</string>
     <string name="pref_title_enable_classify">Автогруппировка сообщений</string>
     <string name="pref_title_fwd_sender_info">Данные отправителя</string>
@@ -788,7 +788,7 @@
     <string name="pref_title_miui_card">Отправлять как визитку MIUI</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка MMS</string>
     <string name="pref_title_mms_delete">Максимальное количество MMS</string>
-    <string name="pref_title_mms_read_reports">Отчет о прочтении MMS</string>
+    <string name="pref_title_mms_read_reports">Отчёт о прочтении MMS</string>
     <string name="pref_title_mms_retrieval_during_international_roaming">Автозагрузка MMS в международном роуминге</string>
     <string name="pref_title_mms_retrieval_during_national_roaming">Автозагрузка MMS в национальном роуминге</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка MMS в роуминге</string>
@@ -810,7 +810,7 @@
     <string name="pref_title_privacy_policy_detail">Политика конфиденциальности</string>
     <string name="pref_title_ringtone_repeat">Звук уведомлений</string>
     <string name="pref_title_ringtone_repeat_summary">Воспроизводить звук уведомления, если сообщение пришло при выключенном экране</string>
-    <string name="pref_title_send_delivery_reports">Отправлять отчеты о доставке</string>
+    <string name="pref_title_send_delivery_reports">Отправлять отчёты о доставке</string>
     <string name="pref_title_smart_msg_privacy_policy">Политика конфиденциальности Умных сообщений</string>
     <string name="pref_title_sms_delete">Максимальное количество SMS</string>
     <string name="pref_title_sms_validity_period">Срок действия SMS</string>
@@ -947,7 +947,7 @@
     <string name="rcs_chatdetail_menu_delete_error">Не удалось удалить. Повторите попытку.</string>
     <string name="rcs_chatdetail_menu_delete_success">Успешно удалено</string>
     <string name="rcs_chatdetail_menu_more_chabot">Дополнительная информация</string>
-    <string name="rcs_chatdetail_menu_post">Отчет</string>
+    <string name="rcs_chatdetail_menu_post">Отчёт</string>
     <string name="rcs_chatdetail_menu_remove_black">Разблокировать</string>
     <string name="rcs_chatdetail_menu_save_black_fail">Не удалось заблокировать. Повторите попытку.</string>
     <string name="rcs_chatdetail_menu_save_black_success">Успешно заблокировано</string>
@@ -1000,7 +1000,7 @@
     <string name="rcs_pref_ft_cfs">Альтернативная передача файлов</string>
     <string name="rcs_pref_login_rcs">Обмен RCS-сообщениями</string>
     <string name="rcs_pref_picture_message_default_quality">Качество изображения</string>
-    <string name="rcs_pref_send_display_report">Показывать отчет о доставке</string>
+    <string name="rcs_pref_send_display_report">Показывать отчёт о доставке</string>
     <string name="rcs_pref_send_display_report_detail">Уведомлять отправителей о прочтении</string>
     <string name="rcs_pref_setting_entrance">Настройки обмена RCS-сообщениями</string>
     <string name="rcs_pref_user_alias_title">Псевдоним</string>
@@ -1127,7 +1127,7 @@
   </string>
     <string name="security_alert_desc_highlight">Пожаловаться на абонента</string>
     <string name="security_alert_dialog_desc">Отправьте этот номер (%s) и сообщение в Xiaomi для проверки.</string>
-    <string name="security_alert_dialog_title">Отчет</string>
+    <string name="security_alert_dialog_title">Отчёт</string>
     <string name="select_audio">Выберите аудио</string>
     <string name="select_bottom_text">Текст внизу</string>
     <string name="select_copy_text">Выделите и скопируйте текст</string>
@@ -1171,7 +1171,7 @@
     <string name="shortcut_new_msg">Новое сообщение</string>
     <string name="shortcut_setting">Настройки</string>
     <string name="show_all_messages">Показать все сообщения</string>
-    <string name="show_delivery_status">Показывать отчет о доставке</string>
+    <string name="show_delivery_status">Показывать отчёт о доставке</string>
     <string name="show_sender">Показать данные отправителя</string>
     <string name="sim1">SIM 1</string>
     <string name="sim2">SIM 2</string>
@@ -1206,11 +1206,11 @@
     <string name="sms_full_title">Хранилище сообщений заполнено</string>
     <string name="sms_rejected_body">Входящее сообщение отклонено</string>
     <string name="sms_rejected_title">Сообщение отклонено</string>
-    <string name="sms_report_dialog_content">Не удалось отправить отчет, повторите попытку.</string>
+    <string name="sms_report_dialog_content">Не удалось отправить отчёт, повторите попытку.</string>
     <string name="sms_report_dialog_retry">Повторить</string>
     <string name="sms_report_dialog_title">Повторите попытку</string>
-    <string name="sms_report_failed">Не удалось отправить отчет</string>
-    <string name="sms_report_success">Отчет отправлен</string>
+    <string name="sms_report_failed">Не удалось отправить отчёт</string>
+    <string name="sms_report_success">Отчёт отправлен</string>
     <string name="snippet_audio">[Аудио]</string>
     <string name="snippet_picture">[Изображение]</string>
     <string name="snippet_timed">[Таймер]</string>
@@ -1504,7 +1504,7 @@
     <string name="yesterday">Вчера</string>
     <string name="you_have_new_message">У вас есть новые сообщения</string>
     <string name="yulore_term">Политика Конфиденциальности</string>
-    <string name="zero_sms_feedback_message">Отчеты загружаются на наши серверы вместе с номерами телефонов отправителей и используются только для улучшения работы черных списков.</string>
-    <string name="zero_sms_feedback_success">Отчет отправлен</string>
-    <string name="zero_sms_feedback_title">Отчет</string>
+    <string name="zero_sms_feedback_message">Отчёты загружаются на наши серверы вместе с номерами телефонов отправителей и используются только для улучшения работы черных списков.</string>
+    <string name="zero_sms_feedback_success">Отчёт отправлен</string>
+    <string name="zero_sms_feedback_title">Отчёт</string>
 </resources>

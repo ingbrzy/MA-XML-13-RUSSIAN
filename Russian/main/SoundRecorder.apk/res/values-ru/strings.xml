@@ -416,7 +416,7 @@
     <string name="recognition_error_format">Неверный формат аудио</string>
     <string name="recognition_error_internal">Внутренняя ошибка</string>
     <string name="recognition_error_stopped">Транскрибирование остановлено</string>
-    <string name="recognition_error_unknown">Неизвестная ошибка. Отправьте отчет и повторите попытку.</string>
+    <string name="recognition_error_unknown">Неизвестная ошибка. Отправьте отчёт и повторите попытку.</string>
     <string name="recognition_interrupt_current_dialog_body">Транскрибирование может занять некоторое время. Вы получите уведомление, когда задание будет выполнено. Идет транскрибирование \"%s\". Добавить в очередь заданий?</string>
     <string name="recognition_notification_channel">Транскрибирование</string>
     <string name="recognition_notification_complete_success">Транскрибирование \"%s\" завершено. Нажмите для просмотра.</string>
@@ -483,12 +483,12 @@
     <string name="reg_error_audio_exist">Файл уже существует</string>
     <string name="reg_error_audio_large">Аудиофайл не должен превышать 500 МБ</string>
     <string name="reg_error_audio_short">Аудиофайл слишком мал</string>
-    <string name="reg_error_business">Не удалось транскрибировать файл. Отправьте нам отчет и повторите попытку.</string>
-    <string name="reg_error_client">Ошибка данных. Отправьте нам отчет и повторите попытку.</string>
+    <string name="reg_error_business">Не удалось транскрибировать файл. Отправьте нам отчёт и повторите попытку.</string>
+    <string name="reg_error_client">Ошибка данных. Отправьте нам отчёт и повторите попытку.</string>
     <string name="reg_error_create_order">Не удалось создать заказ, повторите попытку.</string>
     <string name="reg_error_ifly_account">Ошибка аккаунта, повторите попытку.</string>
-    <string name="reg_error_price">Ошибка оценки стоимости. Отправьте нам отчет и повторите попытку.</string>
-    <string name="reg_error_server">Ошибка сервера. Отправьте нам отчет и повторите попытку.</string>
+    <string name="reg_error_price">Ошибка оценки стоимости. Отправьте нам отчёт и повторите попытку.</string>
+    <string name="reg_error_server">Ошибка сервера. Отправьте нам отчёт и повторите попытку.</string>
     <string name="reg_error_upload_audio">Не удалось загрузить файл, повторите попытку</string>
     <string name="reg_error_upload_order">Не удалось загрузить, повторите попытку</string>
     <string name="remind_settings_pref_title">Уведомления</string>

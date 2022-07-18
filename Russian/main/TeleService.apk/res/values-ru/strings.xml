@@ -442,8 +442,8 @@
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="bt_hci_snoop_log">Включить журнал HCI Bluetooth</string>
     <string name="bt_hci_snoop_log_summary">Сохранять все пакеты HCI Bluetooth в файле</string>
-    <string name="bugreport_in_power">Отчет об ошибке</string>
-    <string name="bugreport_in_power_summary">Показывать в меню кнопку для отправки отчета об ошибке</string>
+    <string name="bugreport_in_power">Отчёт об ошибке</string>
+    <string name="bugreport_in_power_summary">Показывать в меню кнопку для отправки отчёта об ошибке</string>
     <string name="button_convert_fbe">Очистить и перейти…</string>
     <string name="cached_apps_freezer_device_default">По умолчанию</string>
     <string name="cached_apps_freezer_disabled">Отключено</string>
@@ -1119,7 +1119,7 @@
     <string name="enable_terminal_summary">Разрешить терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминальный доступ</string>
     <string name="enable_verbose_vendor_logging">Журнал поставщика</string>
-    <string name="enable_verbose_vendor_logging_summary">Включение в отчеты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
+    <string name="enable_verbose_vendor_logging_summary">Включение в отчёты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
     <string name="enable_vice_volte_if_dual_ct">Включать VoLTE для второй SIM-карты автоматически, когда установлены две SIM-карты China Telecom.</string>
     <string name="enable_video_calling_dialog_close">Закрыть</string>
     <string name="enable_video_calling_dialog_msg">Для включения видеовызовов активируйте режим 4G LTE в настройках сети.</string>
@@ -1648,7 +1648,7 @@
     <string name="mock_location_app">Выбрать приложение для фиктивных местоположений</string>
     <string name="mock_location_app_not_set">Нет приложения для фиктивных местоположений</string>
     <string name="mock_location_app_set">Приложение для создания фиктивных местоположений: %1$s</string>
-    <string name="modem_dialog_body">Мобильная сеть нестабильна, это вызывает перебои или сетевые проблемы. Отправить отчет об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчеты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
+    <string name="modem_dialog_body">Мобильная сеть нестабильна, это вызывает перебои или сетевые проблемы. Отправить отчёт об ошибке в Xiaomi? Он может содержать некоторые личные данные. Мы используем отчёты только для анализа и исправления неполадок и не предоставляем их третьим лицам в коммерческих целях.</string>
     <string name="modem_dialog_title">Мобильная сеть нестабильна</string>
     <string name="modem_set_title">НАСТРОЙКА МОДЕМА</string>
     <string name="modem_setting_button_title">руководство по настройке</string>

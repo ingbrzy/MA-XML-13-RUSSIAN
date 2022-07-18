@@ -693,7 +693,7 @@
     <string name="usage_app_weekend_limit">Выходные дни</string>
     <string name="usage_beat_fans">Лучше, чем %s пользователей</string>
     <string name="usage_continuous_days">Период</string>
-    <string name="usage_creating_weekly_report">Создание еженедельного отчета…</string>
+    <string name="usage_creating_weekly_report">Создание еженедельного отчёта…</string>
     <string name="usage_cta_desc">"Добро пожаловать в Настройки! Для получения статистики и настройки функций Время экрана и Режим медитации, разрешите сбор следующей информации: количество разблокировок устройства и включения экрана, продолжительность использования приложений. Собранные данные будут храниться на этом устройстве локально.
 "</string>
     <string name="usage_current_week_usage">%s в среднем за 7 дней</string>
@@ -915,7 +915,7 @@
     <string name="usage_week_avg_usage_title">В среднем в неделю</string>
     <string name="usage_week_avg_usage_title2">Среднее время</string>
     <string name="usage_weekly_report_summary">Узнайте, сколько времени вы проводите с устройством</string>
-    <string name="usage_weekly_report_title">Еженедельный отчет</string>
+    <string name="usage_weekly_report_title">Еженедельный отчёт</string>
     <string name="usagestats_app_category_miui_education">Образование</string>
     <string name="usagestats_app_category_miui_entainment">Развлечения</string>
     <string name="usagestats_app_category_miui_financial">Финансы</string>

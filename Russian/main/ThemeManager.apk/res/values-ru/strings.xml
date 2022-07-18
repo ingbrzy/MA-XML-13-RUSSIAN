@@ -1365,7 +1365,7 @@ mm"</string>
     <string name="theme_batch_update_all">Обновить все</string>
     <string name="theme_batch_update_dlg_title">Обновление темы</string>
     <string name="theme_batch_updating_text">Обновление (%1$d)</string>
-    <string name="theme_bug_report">Отчет об ошибке</string>
+    <string name="theme_bug_report">Отчёт об ошибке</string>
     <string name="theme_changing_dialog_title">"Применение "</string>
     <string name="theme_comment_detail_no_more">Больше ничего нет</string>
     <string name="theme_comment_detail_sub_comment_title">Все ответы</string>

@@ -1905,11 +1905,11 @@
     <string name="bubbles_feature_disabled_dialog_text">"Включение \"пузырей\" для этого приложения включит их и для других приложений, это общая функция для всех приложений."</string>
     <string name="bubbles_feature_disabled_dialog_title">Включить \"пузыри\"?</string>
     <string name="bubbles_feature_education">Уведомления и другой контент будут отображаться в виде \"пузырей\". Коснитесь \"пузыря\" для просмотра или смахните вниз, чтобы закрыть.</string>
-    <string name="bug_report_handler_picker_footer_text">Выбор приложения обработки отчетов об ошибке</string>
-    <string name="bug_report_handler_title">Обработчик отчетов об ошибке</string>
-    <string name="bug_report_settings">Отчет</string>
-    <string name="bugreport_in_power">Отчет об ошибке</string>
-    <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчета об ошибке</string>
+    <string name="bug_report_handler_picker_footer_text">Выбор приложения обработки отчётов об ошибке</string>
+    <string name="bug_report_handler_title">Обработчик отчётов об ошибке</string>
+    <string name="bug_report_settings">Отчёт</string>
+    <string name="bugreport_in_power">Отчёт об ошибке</string>
+    <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчёта об ошибке</string>
     <string name="build_number">Номер сборки</string>
     <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
     <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
@@ -3328,7 +3328,7 @@ ID: %s
     <string name="enable_text">Включить</string>
     <string name="enable_uft">Отключить uft</string>
     <string name="enable_verbose_vendor_logging">Журналы поставщиков</string>
-    <string name="enable_verbose_vendor_logging_summary">Включение дополнительных журналов поставщиков конкретных устройств в отчеты об ошибках</string>
+    <string name="enable_verbose_vendor_logging_summary">Включение дополнительных журналов поставщиков конкретных устройств в отчёты об ошибках</string>
     <string name="enable_wifi_display">Беспроводной дисплей</string>
     <string name="enabled">Вкл.</string>
     <string name="enabled_5g_mode_title">Включить 5G</string>
@@ -3401,7 +3401,7 @@ ID: %s
     <string name="enterprise_privacy_always_on_vpn_personal">Постоянная VPN включена в вашем личном профиле</string>
     <string name="enterprise_privacy_always_on_vpn_work">Постоянная VPN включена в вашем рабочем профиле</string>
     <string name="enterprise_privacy_apps_count_estimation_info">Количество приложений являются ориентировочным. Оно может не включать установки из неизвестных источников.</string>
-    <string name="enterprise_privacy_bug_reports">Последний отчет об ошибках</string>
+    <string name="enterprise_privacy_bug_reports">Последний отчёт об ошибках</string>
     <string name="enterprise_privacy_ca_certs">Надежные сертификаты</string>
     <string name="enterprise_privacy_ca_certs_device">Надежные сертификаты</string>
     <string name="enterprise_privacy_ca_certs_personal">Надежные сертификаты в личном профиле</string>
@@ -4844,7 +4844,7 @@ ID: %s
     <string name="launcher_wallpaper_title">Рабочий стол и обои</string>
     <string name="launching_cit">Запуск инженерного меню…</string>
     <string name="launching_pho">Загрузка информации об устройстве…</string>
-    <string name="launching_rep">Отправка отчета об ошибках…</string>
+    <string name="launching_rep">Отправка отчёта об ошибках…</string>
     <string name="layout_exhuge_font_take_effect_tips">XXL размер текста доступен только в Вызовах, Контактах и Сообщениях</string>
     <string name="layout_exhuge_font_tips">Больше функций доступно в %1$s</string>
     <string name="layout_exhuge_font_tips_reg">Спец. возможности &gt; Масштаб изображения</string>
@@ -7335,7 +7335,7 @@ OTG отключается автоматически через 10 минут �
     <string name="proxy_settings_title">Прокси-сервер</string>
     <string name="proxy_url_title">URL</string>
     <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется только браузером.</string>
-    <string name="qtifeedback_settings_subtitle">Отчеты Qualcomm Technologies</string>
+    <string name="qtifeedback_settings_subtitle">Отчёты Qualcomm Technologies</string>
     <string name="qtifeedback_settings_title">Отзывы по оборудованию</string>
     <string name="quick_controls_lower">управление устройством</string>
     <string name="quick_reply_title">Быстрые ответы</string>
@@ -8074,7 +8074,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_sim_management_title">Мобильные сети;Мобильные данные;Сотовая связь;Данные;Международный роуминг;Роуминг;Всегда принимать MMS;Сотовые сети;</string>
     <string name="search_sim_status_title">Статус SIM;SIM</string>
     <string name="search_slot_status_title">Информация об IMEI;IMEI</string>
-    <string name="search_sms_delivered_sound_title">Сообщение доставлено;доставленное сообщение; звук сообщения;отчет о доставке</string>
+    <string name="search_sms_delivered_sound_title">Сообщение доставлено;доставленное сообщение;звук сообщения;отчёт о доставке;отчет о доставке</string>
     <string name="search_sms_received_sound_title">Входящее сообщение;звук сообщения;полученное сообщение;рингтон сообщения</string>
     <string name="search_sound_effects_enable_title">Звук нажатия на экран;Включить звуки нажатия на экран</string>
     <string name="search_sound_settings">Звук;Громкость;вибрация;подавление шума;шумоподавление</string>
@@ -8502,8 +8502,8 @@ UT-интерфейс: %5$s"</string>
     <string name="severe_threats_title">Серьезные угрозы</string>
     <string name="share">Поделиться</string>
     <string name="share_remote_bugreport_action">Предоставить доступ</string>
-    <string name="share_remote_bugreport_dialog_message">Администратор запросил отчет об ошибке, чтобы устранить неполадку. Он может получить доступ к приложениям и данным. Возможно временное снижение скорости работы вашего устройства.</string>
-    <string name="share_remote_bugreport_dialog_message_finished">Администратор запросил отчет об ошибке, чтобы устранить неполадку. Он может получить доступ к приложениям и данным.</string>
+    <string name="share_remote_bugreport_dialog_message">Администратор запросил отчёт об ошибке, чтобы устранить неполадку. Он может получить доступ к приложениям и данным. Возможно временное снижение скорости работы вашего устройства.</string>
+    <string name="share_remote_bugreport_dialog_message_finished">Администратор запросил отчёт об ошибке, чтобы устранить неполадку. Он может получить доступ к приложениям и данным.</string>
     <string name="share_remote_bugreport_dialog_title">Разрешить доступ к информации об ошибке?</string>
     <string name="share_this_wifi">Расширение покрытия Wi-Fi</string>
     <string name="shared_data_delete_failure_text">Произошла ошибка при удалении общих данных</string>
@@ -8512,7 +8512,7 @@ UT-интерфейс: %5$s"</string>
     <string name="shared_data_query_failure_text">Произошла ошибка при извлечении общих данных. Повторите попытку.</string>
     <string name="shared_data_summary">Просмотр и изменение общих данных</string>
     <string name="shared_data_title">Общие данные</string>
-    <string name="sharing_remote_bugreport_dialog_message">Администратору предоставлен доступ к отчету об ошибке. Обратитесь к нему за дополнительной информацией.</string>
+    <string name="sharing_remote_bugreport_dialog_message">Администратору предоставлен доступ к отчёту об ошибке. Обратитесь к нему за дополнительной информацией.</string>
     <string name="short_summary_font_size">Увеличение или уменьшение размера шрифта</string>
     <string name="short_time">10 минут</string>
     <string name="shoulder_key_diagram">Демо</string>

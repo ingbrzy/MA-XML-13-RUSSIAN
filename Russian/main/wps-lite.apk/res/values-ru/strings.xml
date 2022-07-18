@@ -199,11 +199,11 @@
     <string name="public_continue">Продолжить</string>
     <string name="public_copy">Копир.</string>
     <string name="public_crash_dialog_content">Работа программы завершена по неизвестной причине.</string>
-    <string name="public_crash_dialog_content_2">Выберите, отсылать ли отчет об ошибке. Отправляя отчет об ошибке Вы можете помочь нам решить проблему.</string>
+    <string name="public_crash_dialog_content_2">Выберите, отсылать ли отчёт об ошибке. Отправляя отчёт об ошибке Вы можете помочь нам решить проблему.</string>
     <string name="public_crash_dialog_content_open_fail_corrupted">Файл не может быть открыт. Возможно, он поврежден.</string>
     <string name="public_crash_dialog_content_open_fail_unknown">Файл не может быть открыт по неизвестной причине.</string>
     <string name="public_crash_dialog_thank">Благодарим за то, что отправили нам журнал сбоев и тем самым помогли улучшить WPS Office. С вами может связаться наша группа разработки, чтобы получить дополнительные сведения для воспроизведения случившегося сбоя. Спасибо!</string>
-    <string name="public_crash_dialog_title">Отправка отчета об ошибке</string>
+    <string name="public_crash_dialog_title">Отправка отчёта об ошибке</string>
     <string name="public_cut">Вырезать</string>
     <string name="public_decryptDocument">Расшифровать</string>
     <string name="public_displayPasswd">Отобразить пароль</string>

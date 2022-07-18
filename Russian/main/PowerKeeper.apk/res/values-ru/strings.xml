@@ -407,8 +407,8 @@
     <string name="update_profile_sucess">Профиль успешно обновлен</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="vip_feedback">VIP отчет</string>
-    <string name="vip_feedback_enable">Включить VIP отчет</string>
+    <string name="vip_feedback">VIP отчёт</string>
+    <string name="vip_feedback_enable">Включить VIP отчёт</string>
     <string name="warm_configure">Настройки контроля температуры</string>
     <string name="warm_performance_tip">Ваше устройство будет нагреваться при работе большего количества процессов.</string>
     <string name="wednesday">Среда</string>

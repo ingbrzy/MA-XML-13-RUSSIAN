@@ -349,8 +349,8 @@
     <string name="detection_running">Анализ сна…</string>
     <string name="detection_running_detail">Анализ сна…</string>
     <string name="detection_stop">Данная сессия будет завершена, когда вы проснетесь</string>
-    <string name="detection_wait_generate_report">Создание отчета…</string>
-    <string name="detection_wait_generate_report_detail">Отчет будет готов позже</string>
+    <string name="detection_wait_generate_report">Создание отчёта…</string>
+    <string name="detection_wait_generate_report_detail">Отчёт будет готов позже</string>
     <string name="device_data_manage">Управление устройствами</string>
     <string name="device_data_sync">Синхронизация данных</string>
     <string name="device_description">Эти устройства связаны с Xiaomi аккаунтом %1$s. Если не удается найти нужное устройство, добавьте сначала его в Mi Fit или Xiaomi Wear.</string>
@@ -544,7 +544,7 @@ ID:%s
     <string name="fast">быстро</string>
     <string name="fat_rate">Жир</string>
     <string name="fat_rate_descripe_content">Процент жира в организме - доля жира в общей массе тела.</string>
-    <string name="feedback_need_permission_msg">Разрешите приложению Здоровье доступ к хранилищу для создания журналов, используемых в отчетах.</string>
+    <string name="feedback_need_permission_msg">Разрешите приложению Здоровье доступ к хранилищу для создания журналов, используемых в отчётах.</string>
     <string name="feedback_permission_denied_msg">Не удалось сохранить журналы. Предоставьте приложению Здоровье необходимые разрешения в разделе Настройки.</string>
     <string name="fewer">Мало</string>
     <string name="find_new_verision">Доступна версия %s</string>
@@ -658,7 +658,7 @@ ID:%s
     <string name="hr_detect_principle_desc_2">Тесты показывают, что погрешность этого метода составляет около 2 ударов в минуту.</string>
     <string name="hr_detect_principle_desc_3">Обратите внимание, что такие факторы, как температура, оттенок кожи или движение, могут привести к неточностям в измерении. Выполните несколько измерений, чтобы убедиться, что текущие показания точны. Результаты предназначены только для справки, данный метод измерения не может заменить профессиональное медицинское оборудование.</string>
     <string name="hr_detect_principle_title">Измерение пульса</string>
-    <string name="hr_detect_report_title">Отчет</string>
+    <string name="hr_detect_report_title">Отчёт</string>
     <string name="hr_detect_state_after_activity">После активности</string>
     <string name="hr_detect_state_after_activity_desc">Измерение сразу после физической активности</string>
     <string name="hr_detect_state_regular">Обычное состояние</string>
@@ -705,7 +705,7 @@ ID:%s
     <string name="hr_report_resting_fast_desc">Пульс покоя выше нормы, это может привести к усталости или тахикардии. Рекомендуется улучшить свой образ жизни, снизить содержание соли и масла, похудеть, отказаться от курения и алкоголя, психологически и эмоционально адаптироваться, постепенно увеличить физические упражнения, которые помогут снизить пульс покоя.</string>
     <string name="hr_report_resting_normal_desc">Пульс покоя в норме. Пульс покоя - это частота сердечных сокращений в минуту в спокойном состоянии. Лучшее время для измерения пульса покоя - утром в постели после сна. Перед измерением пульса покоя сделайте глубокий вдох, чтобы полностью расслабить тело.</string>
     <string name="hr_report_resting_slow_desc">Пульс покоя ниже нормы. Если пульс слишком низкий в течение длительного времени, возможны ишемия и гипоксия органов, особенно сосудов сердца и мозга. Пульс покоя тесно связан с питанием, физическими упражнениями, стрессом, сном и физическим состоянием. Рекомендуется вести здоровый и правильный образ жизни и вовремя обращать внимание на физические реакции. Если у вас есть такие симптомы, как головокружение, усталость, обморок и стеснение в груди, обратитесь к врачу.</string>
-    <string name="hr_see_report">Посмотреть отчет</string>
+    <string name="hr_see_report">Посмотреть отчёт</string>
     <string name="hr_start_detect">Начать</string>
     <string name="hr_state">Состояние</string>
     <string name="hr_state_active">Активность</string>
@@ -1177,7 +1177,7 @@ ID:%s
     <string name="remind_sleep_report_complete">Статистика сна готова</string>
     <string name="remind_sleep_report_content">Сон: %1$d ч. %2$d мин.</string>
     <string name="remind_sleep_report_content_1">Вы спали %1$d ч. прошлой ночью. Нажмите для подробностей.</string>
-    <string name="remind_sleep_report_title">Отчет о сне</string>
+    <string name="remind_sleep_report_title">Отчёт о сне</string>
     <string name="remind_subtitle_menstruation_start">Получать напоминания за два дня до возможного начала менструации</string>
     <string name="remind_subtitle_record">Получать напоминания о записи начала и окончания менструации</string>
     <string name="remind_time">Напомнить в</string>
@@ -1662,7 +1662,7 @@ ID:%s
     <string name="tb_exercise_list_walk">Количество шагов: %1$s. Время окончания: %2$s. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_sport_no_distance">%1$s. Продолжительность: %2$s. Сожжено калорий: %3$s.</string>
     <string name="tb_exercise_sport_normal">%1$s. Дальность: %2$s. Продолжительность : %3$s. Сожжено калорий: %4$s.</string>
-    <string name="tb_exercise_sport_sum">Отчет об упражнении. %1$s. Нажмите, чтобы просмотреть подробную информацию.</string>
+    <string name="tb_exercise_sport_sum">Отчёт об упражнении. %1$s. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_steps_no_data">Нет данных о шагах. Текущая цель: %1$d. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_steps_no_goal">Количество шагов: %1$d. Нажмите, чтобы просмотреть подробную информацию.</string>
     <string name="tb_exercise_steps_normal">Количество шагов: %1$d. Текущая цель: %2$d. Прогресс: %3$d процент. Нажмите, чтобы просмотреть подробную информацию.</string>

@@ -1008,8 +1008,8 @@ ID:%s
     <string name="repeat_current_notif">Повтор текущего трека</string>
     <string name="reply_comment">Ответить</string>
     <string name="reply_comment_hint">Ответить на %s:</string>
-    <string name="report">Отчет</string>
-    <string name="report_comment_success">Мы рассмотрим ваш отчет. Спасибо за отзыв.</string>
+    <string name="report">Отчёт</string>
+    <string name="report_comment_success">Мы рассмотрим ваш отчёт. Спасибо за отзыв.</string>
     <string name="resend_active_email">Отправить снова</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
     <string name="resend_email_reach_limit_title">Слишком много попыток</string>

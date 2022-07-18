@@ -1117,7 +1117,7 @@
     <string name="setting_title_weather_card_display">Показывать информацию о погоде</string>
     <string name="setting_title_yiji_display">Показывать альманах</string>
     <string name="setting_toast_dump_mylog_done">Журнал сохранен в /MIUI/debug_log/com.android.calendar/dump</string>
-    <string name="setting_user_experience">Отправлять отчеты</string>
+    <string name="setting_user_experience">Отправлять отчёты</string>
     <string name="settings_global_search">Поиск</string>
     <string name="settings_show_long_holiday">Длинные праздники</string>
     <string name="settings_show_long_holiday_description">Планируйте свой отпуск заранее</string>

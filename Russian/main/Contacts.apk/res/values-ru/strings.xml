@@ -1645,7 +1645,7 @@
     <string name="remove_duplicate">"MIUI поможет найти и объединить дубликаты контактов.
 
 Для продолжения нажмите кнопку \"Объединить\"."</string>
-    <string name="report_inquiry_mms">Отчет SMS</string>
+    <string name="report_inquiry_mms">Отчёт SMS</string>
     <string name="residual_time_description">%1$s д. %2$s ч.</string>
     <string name="residual_time_description2">%1$d ч.</string>
     <string name="residual_time_description3">%1$d мин.</string>

@@ -696,8 +696,8 @@
     <string name="bubbles_user_education_manage">Настройка отображения \"пузырей\" для приложения</string>
     <string name="bubbles_user_education_manage_title">Управление \"пузырями\"</string>
     <string name="bubbles_user_education_title">Использование \"пузырей\"</string>
-    <string name="bugreport_in_power">Отчет об ошибке</string>
-    <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчета об ошибке</string>
+    <string name="bugreport_in_power">Отчёт об ошибке</string>
+    <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчёта об ошибке</string>
     <string name="build_number_clip_data_label">Номер сборки</string>
     <string name="build_number_copy_toast">Номер сборки скопирован в буфер обмена</string>
     <string name="button_convert_fbe">Очистить и перейти…</string>
@@ -1006,7 +1006,7 @@
     <string name="enable_terminal_summary">Включить приложение, которое предлагает терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминал</string>
     <string name="enable_verbose_vendor_logging">Журнал поставщика</string>
-    <string name="enable_verbose_vendor_logging_summary">Включение в отчеты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
+    <string name="enable_verbose_vendor_logging_summary">Включение в отчёты об ошибках подробных журналов поставщика устройства. Журналы могут содержать личную информацию, а также увеличивать энергопотребление и использование памяти.</string>
     <string name="enabled_by_admin">Включено администратором</string>
     <string name="enhanced_connectivity">Улучшенное соединение</string>
     <string name="enhanced_connectivity_summary">Включение функции улучшения соединения</string>
@@ -2659,7 +2659,7 @@ mm"</string>
     <string name="screenshot_failed_to_save_title">Недостаточно места для нового скриншота</string>
     <string name="screenshot_failed_to_save_unknown_text">Ошибка при сохранении скриншота. Возможно, скриншот запрещен в приложении.</string>
     <string name="screenshot_failed_to_save_user_locked_text">Разблокируйте устройство для сохранения скриншота</string>
-    <string name="screenshot_feedback_txt">Отчет</string>
+    <string name="screenshot_feedback_txt">Отчёт</string>
     <string name="screenshot_insert_failed">Не удалось загрузить скриншот. Сделайте новый или выберите в Галерее.</string>
     <string name="screenshot_left_boundary_pct">Левая граница %1$d%%</string>
     <string name="screenshot_long_screenshot">Прокрутка</string>

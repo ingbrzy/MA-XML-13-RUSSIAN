@@ -329,7 +329,7 @@
     <string name="bill_cycle_text">Периодичность выставления счетов</string>
     <string name="bill_remind">Напоминание о погашении</string>
     <string name="bill_remind_due">Погашение производится по %s, нажмите для просмотра</string>
-    <string name="blank_feedback_toast">Невозможно отправить пустой отчет</string>
+    <string name="blank_feedback_toast">Невозможно отправить пустой отчёт</string>
     <string name="body_forward_email_text">[Переслать]</string>
     <string name="body_hint">Тело сообщения</string>
     <string name="body_inline_pic_text">[Изображение]</string>
@@ -455,7 +455,7 @@
     <string name="contextmenu_create">Создать новый контакт</string>
     <string name="contextmenu_dial_dot">Набор номера…</string>
     <string name="contextmenu_edit">Изменить контакт</string>
-    <string name="contextmenu_feedback">Отправить отчет</string>
+    <string name="contextmenu_feedback">Отправить отчёт</string>
     <string name="contextmenu_help">Справка</string>
     <string name="contextmenu_map">Карта</string>
     <string name="contextmenu_open">Открыть</string>
@@ -667,8 +667,8 @@
     <string name="fallback_menu_item_copy_link">Копировать ссылку</string>
     <string name="fallback_menu_item_open_in_browser">Открыть в браузере</string>
     <string name="fallback_menu_item_share_link">Отправить ссылку</string>
-    <string name="feedback">Отправить отчет</string>
-    <string name="feedback_body">Текст отчета</string>
+    <string name="feedback">Отправить отчёт</string>
+    <string name="feedback_body">Текст отчёта</string>
     <string name="feedback_body_domestic"/>
     <string name="feedback_sent">Спасибо за ваш отзыв</string>
     <string name="feedback_user_edit_hint">Опишите проблему здесь. Мы ответим вам письмом на электронную почту.</string>
@@ -1577,8 +1577,8 @@
     <string name="send_encrypt_dialog_fail_content">Это электронное письмо не может быть зашифровано, потому что у получателя нет доверенного сертификата подписи. Отправить в незашифрованном виде?</string>
     <string name="send_encrypt_dialog_fail_title">Ошибка отправки</string>
     <string name="send_failed">Сообщение не отправлено</string>
-    <string name="send_feed_back">Отправить отчет</string>
-    <string name="send_feed_back_keywords">отправить отчет</string>
+    <string name="send_feed_back">Отправить отчёт</string>
+    <string name="send_feed_back_keywords">отправить отчёт</string>
     <string name="send_mail">Отправить</string>
     <string name="sender_whitelist_cleared">Изображения не будут отображаться автоматически</string>
     <string name="senders_split_token">, </string>
@@ -1842,11 +1842,11 @@
     <string name="update_domain_title">Обновить настройки домена</string>
     <string name="update_to_wps_mail">Больше возможностей с WPS Mail</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
-    <string name="upload_log">Отправить отчет</string>
+    <string name="upload_log">Отправить отчёт</string>
     <string name="upload_log_failed">Не удалось отправить</string>
     <string name="upload_log_no">Отмена</string>
     <string name="upload_log_success">Отправлено! Мы скоро ответим вам.</string>
-    <string name="upload_log_title">Отправляйте отчеты об ошибках, чтобы помочь нам улучшить Почту</string>
+    <string name="upload_log_title">Отправляйте отчёты об ошибках, чтобы помочь нам улучшить Почту</string>
     <string name="upload_log_yes">Отправить</string>
     <string name="upload_logs">Загрузить журналы</string>
     <string name="upload_logs_keywords">загрузить журналы</string>
@@ -1913,7 +1913,7 @@
     <string name="xiaomi_under_certification">Авторизация…</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
-    <string name="you_are_in_mobile_network">Использовать мобильный интернет для отправки отчетов?</string>
+    <string name="you_are_in_mobile_network">Использовать мобильный интернет для отправки отчётов?</string>
     <string name="youfuli">Акция</string>
     <string name="zip_viewer_no_file">Нет файлов.</string>
 </resources>
