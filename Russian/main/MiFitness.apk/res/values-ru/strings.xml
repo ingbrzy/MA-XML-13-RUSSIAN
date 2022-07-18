@@ -2966,7 +2966,7 @@ ID:%s
     <string name="nfc_alert_msg_recharge_result_unknown">Ошибка пополнения. Обратитесь в службу поддержки для подтверждения оплаты.</string>
     <string name="nfc_alert_title_recharge_failed_and_refund">Не удалось пополнить</string>
     <string name="nfc_alert_title_recharge_result_unknown">Не удалось загрузить</string>
-    <string name="nfc_app_name_mi_wallet">Кошелек Xiaomi</string>
+    <string name="nfc_app_name_mi_wallet">Кошелёк Xiaomi</string>
     <string name="nfc_bank_account_number">Номер карты</string>
     <string name="nfc_bank_card">Банковская карта</string>
     <string name="nfc_bank_card_cnv2_empty">Введите CVN2</string>

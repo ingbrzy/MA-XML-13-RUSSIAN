@@ -555,7 +555,7 @@
     <string name="context_menu_orientation_portrait_swap_id">Повернуть экран</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
     <string name="contextmenu_copy">Копировать</string>
-    <string name="contextmenu_copylink">Скопировать URL</string>
+    <string name="contextmenu_copylink">Копировать URL</string>
     <string name="contextmenu_dial_dot">Набор номера…</string>
     <string name="contextmenu_download_image">Сохранить изображение</string>
     <string name="contextmenu_download_image_as">Сохранить изображение</string>

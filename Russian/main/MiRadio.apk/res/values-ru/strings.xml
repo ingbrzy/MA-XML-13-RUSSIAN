@@ -721,7 +721,7 @@ ID:%s
     <string name="my_download">Загрузки</string>
     <string name="my_favorite">Избранные</string>
     <string name="my_paid">Приобретено</string>
-    <string name="my_wallet">Кошелек</string>
+    <string name="my_wallet">Кошелёк</string>
     <string name="name_download_count">(%1$d)</string>
     <string name="nav_online_billboard">Чарты</string>
     <string name="nav_online_playlist">Плейлист</string>

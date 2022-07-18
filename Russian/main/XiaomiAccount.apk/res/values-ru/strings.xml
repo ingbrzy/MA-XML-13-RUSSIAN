@@ -539,7 +539,7 @@ ID:%s
     <string name="passport_extra_gdpr_license">Регистрируясь в Xiaomi аккаунт, вы соглашаетесь с тем, что Xiaomi будет собирать, обрабатывать и использовать ваши личные данные, включая данные проверки (например, коды проверки), данные второго пространства (например, информацию об использовании второго пространства, идентификаторы, используемые в первом и втором пространствах) и другие данные, которые определяет наша Политика конфиденциальности. Обратитесь к нашей Политике конфиденциальности, чтобы узнать, как мы собираем и обрабатываем личные данные.</string>
     <string name="passport_failed_to_send_activate_email">Не удалось отправить письмо активации</string>
     <string name="passport_find_password_on_web_msg">Посетите account.xiaomi.com для сброса пароля</string>
-    <string name="passport_first_login_prompt">Xiaomi аккаунт будет создан автоматически при первом использовании номера телефона.</string>
+    <string name="passport_first_login_prompt">Аккаунт Xiaomi будет создан автоматически, если этот номер телефона используется впервые.</string>
     <string name="passport_forget_password"><u>Забыли пароль?</u></string>
     <string name="passport_forget_password_no_underline">Забыли пароль?</string>
     <string name="passport_get_back_pwd">Восстановить пароль</string>

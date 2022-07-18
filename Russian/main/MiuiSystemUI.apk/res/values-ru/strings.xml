@@ -361,7 +361,7 @@
     <string name="accessibility_volume_settings">Настройки звука</string>
     <string name="accessibility_vpn_on">VPN включен.</string>
     <string name="accessibility_waiting_for_fingerprint">Отсканируйте отпечаток пальца</string>
-    <string name="accessibility_wallet_button">Кошелек</string>
+    <string name="accessibility_wallet_button">Кошелёк</string>
     <string name="accessibility_wifi_name">Подключено к %s.</string>
     <string name="accessibility_wifi_off">Wi-Fi выключен.</string>
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление.</string>
@@ -3252,7 +3252,7 @@ d MMMM"</string>
     <string name="wallet_secondary_label_device_locked">Разблокируйте устройство</string>
     <string name="wallet_secondary_label_no_card">Добавьте карту</string>
     <string name="wallet_secondary_label_updating">Обновление</string>
-    <string name="wallet_title">Кошелек</string>
+    <string name="wallet_title">Кошелёк</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Отпустите для просмотра</string>
     <string name="wapi_all_sel_mode">Выберите режим</string>
     <string name="wapi_auto_sel_cert">Автовыбор</string>

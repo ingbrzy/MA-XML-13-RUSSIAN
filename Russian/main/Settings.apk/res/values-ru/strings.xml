@@ -2031,6 +2031,7 @@
     <string name="captions_category_title">Субтитры</string>
     <string name="capture_system_heap_dump_title">Создать системный дамп</string>
     <string name="capturing_system_heap_dump_message">Создание системного дампа…</string>
+    <string name="card_holder_header_title">Кошелёк</string>
     <string name="card_main_hbassistant_title">Красный конверт;Красный пакет;Деньги</string>
     <string name="cards_passes_lower">карты и пропуска</string>
     <string name="cards_passes_sentence">Карты и пропуска</string>
@@ -2507,10 +2508,10 @@
     <string name="current_screen_lock">Текущий способ защиты</string>
     <string name="current_use_default_wallet">Автовыбор</string>
     <string name="current_use_ese">Используется встроенный элемент защиты</string>
-    <string name="current_use_ese_wallet">Используется Mi Кошелек. Это позволяет использовать Mi Pay и транспортную карту NFC.</string>
-    <string name="current_use_hce_wallet">Используется кошелек HCE</string>
+    <string name="current_use_ese_wallet">Используется Mi Кошелёк. Это позволяет использовать Mi Pay и транспортную карту NFC.</string>
+    <string name="current_use_hce_wallet">Используется кошелёк HCE</string>
     <string name="current_use_uicc_se">Используется элемент защиты на SIM карте</string>
-    <string name="current_use_uicc_wallet">Используется кошелек SIM%1$s</string>
+    <string name="current_use_uicc_wallet">Используется кошелёк SIM%1$s</string>
     <string name="current_zone">(текущий)</string>
     <string name="custom_carrier_title">Оператор</string>
     <string name="custom_color">Особая</string>
@@ -3600,8 +3601,8 @@ ID: %s
     <string name="feedback_btn_text">Обратная связь</string>
     <string name="feedback_settings">Обратная связь</string>
     <string name="feedback_settings_new">Обратная связь</string>
-    <string name="felica_wallet">FeliCa Кошелек </string>
-    <string name="felica_wallet_desc">FeliCa Кошелек </string>
+    <string name="felica_wallet">FeliCa Кошелёк </string>
+    <string name="felica_wallet_desc">FeliCa Кошелёк </string>
     <string name="file_privacy_password_role_instruction">Здесь будут храниться ваши скрытые файлы</string>
     <string name="filter">Фильтр</string>
     <string name="filter_all_apps">Все приложения</string>
@@ -3994,6 +3995,7 @@ ID: %s
     <string name="global_locale_change_title">Изменение языка</string>
     <string name="global_stylus_summary">Преобразование рукописного ввода в текст (если поддерживается)</string>
     <string name="global_stylus_title">Рукописный ввод</string>
+    <string name="global_stylus_title_beta" />
     <string name="gmscore_settings_title">Основные сервисы Google</string>
     <string name="go_back_button_label">Назад</string>
     <string name="go_to_sleep">Отключение экрана</string>
@@ -4755,7 +4757,7 @@ ID: %s
     <string name="keywords_voice_access" />
     <string name="keywords_voice_input">распознавание, ввод, речь, произносить, язык, гарнитура, нецензурная речь, слово, аудио, история, bluetooth-гарнитура</string>
     <string name="keywords_vr_listener">vr виртуальная реальность режим вспомогательный сервис</string>
-    <string name="keywords_wallet">кошелек</string>
+    <string name="keywords_wallet">кошелек, кошелёк</string>
     <string name="keywords_wallpaper">фон, тема, сетка, настроить, персонализировать</string>
     <string name="keywords_wifi">wifi;wi-fi;Wi-Fi;WiFi;wlan;WLAN</string>
     <string name="keywords_wifi_calling">wifi, wi-fi, вызов, звонок</string>
@@ -5286,7 +5288,7 @@ ID: %s
     <string name="lockscreen_privacy_controls_setting_toggle">Показывать виджеты управления устройством</string>
     <string name="lockscreen_privacy_controls_summary">Разрешить доступ к виджетам управления устройством на заблокированном экране</string>
     <string name="lockscreen_privacy_not_secure">Сначала необходимо настроить блокировку экрана</string>
-    <string name="lockscreen_privacy_wallet_setting_toggle">Показывать кошелек</string>
+    <string name="lockscreen_privacy_wallet_setting_toggle">Показывать кошелёк</string>
     <string name="lockscreen_privacy_wallet_summary">Разрешить доступ к кошельку на заблокированном экране и в быстрых настройках</string>
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
     <string name="lockscreen_settings_title">Настройки экрана блокировки</string>
@@ -5589,7 +5591,7 @@ ID: %s
     <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
     <string name="menu_use_uss">Использовать USS</string>
     <string name="mi_headset_healthy">Здоровье слуха</string>
-    <string name="mi_pay">Mi Кошелек</string>
+    <string name="mi_pay">Mi Кошелёк</string>
     <string name="mi_pay_indonesia">Аккаунт Mi Pay</string>
     <string name="mi_pay_summary">Транспортная карта/Mi Pay/Эмулятор карты</string>
     <string name="mi_pay_summary_without_nfc">Mi Pay</string>
@@ -5600,8 +5602,8 @@ ID: %s
     <string name="mi_smart_play_entry_title">Mi Smart Play</string>
     <string name="mi_transfer">Mi Mover</string>
     <string name="mi_upi_settings">Аккаунт Mi Pay</string>
-    <string name="mi_wallet">Mi Кошелек</string>
-    <string name="mi_wallet_desc">Mi Кошелек</string>
+    <string name="mi_wallet">Mi Кошелёк</string>
+    <string name="mi_wallet_desc">Mi Кошелёк</string>
     <string name="mic_toggle_title">Доступ к микрофону</string>
     <string name="micloud_service_summary">Синхронизация списка приложений, резервное копирование настроек системы и рабочего стола</string>
     <string name="micloud_service_summary_temp">Синхронизация фото, видео, контактов и прочих данных</string>
@@ -6348,7 +6350,7 @@ ID: %s
     <string name="nfc_repair_summary">Устранение проблем, мешающих использованию NFC</string>
     <string name="nfc_repair_title">Восстановление функций NFC</string>
     <string name="nfc_se_route_title">Расположение элемента безопасности</string>
-    <string name="nfc_se_wallet_title">Кошелек по умолчанию</string>
+    <string name="nfc_se_wallet_title">Кошелёк по умолчанию</string>
     <string name="nfc_secure_settings_title">Безопасное использование NFC</string>
     <string name="nfc_secure_toggle_summary">Разрешить использование NFC только при разблокированном экране</string>
     <string name="nfc_setting_off">Откл.</string>
@@ -7925,9 +7927,9 @@ UT-интерфейс: %5$s"</string>
     <string name="se_route_ese">Встроенный элемент защиты</string>
     <string name="se_route_uicc">Элемент защиты на SIM карте</string>
     <string name="se_wallet_ese">Mi Pay и транспортная карта NFC</string>
-    <string name="se_wallet_hce">Кошелек HCE</string>
-    <string name="se_wallet_uicc">Кошелек SIM%1$s</string>
-    <string name="se_wallet_uicc_jp">"Кошелек SIM %1$s (автовыбор недоступен)"</string>
+    <string name="se_wallet_hce">Кошелёк HCE</string>
+    <string name="se_wallet_uicc">Кошелёк SIM%1$s</string>
+    <string name="se_wallet_uicc_jp">"Кошелёк SIM %1$s (автовыбор недоступен)"</string>
     <string name="search_about_settings">"О телефоне;О планшете;Об устройстве;Модель;Версия Android;Версия MIUI;Процессор;ОЗУ;Оперативная память;Хранилище;Внутренняя память;Память;Прошивка модуля связи;Версия ядра;Номер сборки;Мое устройство;Телефон;Устройство"</string>
     <string name="search_accelerometer_title">Автоповорот экрана;Поворот экрана;Ориентация;Книжная ориентация;Альбомная ориентация</string>
     <string name="search_access_control">Настройки конфиденциальности;Безопасность;Конфиденциальность;Гость;Режим гостя</string>
@@ -8715,8 +8717,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_switch_button">Переключиться</string>
     <string name="sim_switch_channel_id">Переключение между операторами связи</string>
     <string name="sim_vonr_title">SIM %1$s (%2$s)</string>
-    <string name="sim_wallet">SIM-кошелек</string>
-    <string name="sim_wallet_desc">SIM-кошелек</string>
+    <string name="sim_wallet">SIM-кошелёк</string>
+    <string name="sim_wallet_desc">SIM-кошелёк</string>
     <string name="simulate_color_space">Имитация аномалии</string>
     <string name="single_key_use">Управление одной кнопкой</string>
     <string name="single_key_use_summary">Использовать кнопку \"Домой\" для действий, выполняемых другими двумя кнопками</string>
@@ -10455,8 +10457,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wake_suppression_title">Маленькая область</string>
     <string name="wakeup_and_sleep_settings_category_name">Настройки экрана блокировки</string>
     <string name="wakeup_for_keyguard_notification_title">Включать при уведомлениях</string>
-    <string name="wallet_header_title">Кошелек и платежи</string>
-    <string name="wallet_reset">Вы можете удалить свои банковские карты Mi Pay, транспортные карты и карты-ключи только в приложении Mi Кошелек. Открыть Mi Кошелек?</string>
+    <string name="wallet_header_title">Кошелёк и платежи</string>
+    <string name="wallet_reset">Вы можете удалить свои банковские карты Mi Pay, транспортные карты и карты-ключи только в приложении Mi Кошелёк. Открыть Mi Кошелёк?</string>
     <string name="wallet_reset_cancel_btn">Отмена</string>
     <string name="wallet_reset_ok_btn">Открыть</string>
     <string name="wallet_reset_title">Удаление карт</string>

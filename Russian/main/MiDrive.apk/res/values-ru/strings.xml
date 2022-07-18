@@ -373,7 +373,9 @@
     <string name="pause_download">Приостановлено</string>
     <string name="pause_upload">Приостановлено</string>
     <string name="permission_account_desc">Доступ ко всем аккаунтам на устройстве</string>
+    <string name="permission_account_desc_pad">Доступ ко всем аккаунтам на устройстве</string>
     <string name="permission_account_title">Аккаунты</string>
+    <string name="permission_account_title_pad">Аккаунты</string>
     <string name="permission_accpeted">Предоставлено</string>
     <string name="permission_camera_desc">Съемка фото и видео</string>
     <string name="permission_camera_title">Камера</string>
@@ -381,7 +383,9 @@
     <string name="permission_phone_desc">Доступ к номеру телефона и статусу устройства</string>
     <string name="permission_phone_title">Информация об устройстве</string>
     <string name="permission_storage_desc">Доступ к фото и файлам на устройстве</string>
+    <string name="permission_storage_desc_pad">Доступ к фото и файлам на устройстве</string>
     <string name="permission_storage_title">Хранилище</string>
+    <string name="permission_storage_title_pad">Хранилище</string>
     <string name="picker_bottom_btn_text">Загрузить</string>
     <string name="picker_bottom_text_desc">"Загрузить в "</string>
     <string name="picker_permission_failed">Разрешение отсутствует. Функция не будет работать без него.</string>
