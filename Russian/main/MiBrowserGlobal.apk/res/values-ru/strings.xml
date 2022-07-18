@@ -583,6 +583,7 @@
     <string name="continue_reading">Продолжить просмотр</string>
     <string name="copy">Копировать</string>
     <string name="copy_url">Копировать URL</string>
+    <string name="core_functions_of_browser">Быстрый доступ к основным функциям</string>
     <string name="could_not_load_data">Не удалось загрузить данные, обновите и повторите попытку</string>
     <string name="crash_page_button">Повтор</string>
     <string name="crash_page_description">Что-то пошло не так при отображении этой веб-страницы</string>
@@ -837,6 +838,7 @@ ID:%s
     <string name="encrypt_success">Файлы скрыты</string>
     <string name="encrypting">Шифрование…</string>
     <string name="end_user_license">Лицензионное соглашение конечного пользователя</string>
+    <string name="enter_bookmark">Закладки</string>
     <string name="enter_developer_mode">Вход в режим разработчика</string>
     <string name="enter_incongnito_mode">Режим инкогнито</string>
     <string name="enter_infoflow_guide">Слайд вверх для просмотра новостей</string>
@@ -1055,6 +1057,7 @@ ID:%s
     <string name="go_me">Профиль</string>
     <string name="go_supermarket_button">Перейти</string>
     <string name="go_supermarket_title">Больше приложений, высокая скорость и экономия трафика в Mi Apps</string>
+    <string name="go_to_tab">Вкладки</string>
     <string name="gold_medals">Золотые медали</string>
     <string name="google_application_id" />
     <string name="google_bookmarks">Google</string>
@@ -1898,6 +1901,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="per_month">В месяц</string>
     <string name="permission_agree_service">Я принимаю все нижеприведенные положения и условия.</string>
     <string name="permission_alert_window">Чтобы использовать эту функцию, разрешите всплывающие окна.</string>
+    <string name="permission_allow">Разрешить</string>
     <string name="permission_contacts">Контакты</string>
     <string name="permission_deeplink_tip_title">Разрешить этой странице запуск %s?</string>
     <string name="permission_dialog_msg_camera">\"%s\" запрашивает доступ к камере</string>
@@ -1921,9 +1925,11 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="permission_open_location">Сначала разрешите Браузеру использовать геолокацию в Настройках.</string>
     <string name="permission_open_mic">Сначала разрешите Браузеру доступ к микрофону в Настройках.</string>
     <string name="permission_open_storage">Сначала разрешите Браузеру доступ к памяти устройства в Настройках.</string>
+    <string name="permission_request_contacts">Для правильной работы этой функции требуется доступ к списку контактов.</string>
     <string name="permission_service">Условия использования</string>
     <string name="permission_sound_toast_message">Воспроизведение звука…</string>
     <string name="permission_storage">Хранилище</string>
+    <string name="permission_to_open">Настройки</string>
     <string name="permission_unknown">Неизвестная опция</string>
     <string name="permission_use">Разрешения</string>
     <string name="permissions_prompt_message">%s хочет</string>
@@ -2386,6 +2392,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="search_trending_new">Новое</string>
     <string name="search_trending_title">Популярное</string>
     <string name="search_tupian">Изображение</string>
+    <string name="search_using_traceless_mode">Режим инкогнито</string>
+    <string name="search_with_browser">Поиск через Mi Браузер</string>
     <string name="secure_download_in_xiaomi_market">Загрузить из Mi Apps</string>
     <string name="secureaccess">Перейти в безопасный режим</string>
     <string name="secureaccess_cancel">Отмена</string>
@@ -2466,6 +2474,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="short_video_net_dialog_title">Вы используете мобильный интернет. Использование мобильного интернета может привести к дополнительным тратам.</string>
     <string name="short_video_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="short_video_tip">Посмотри! Веселое видео</string>
+    <string name="shortcut_function">Ярлыки</string>
     <string name="shortcuts_boost_speed">Ускорение</string>
     <string name="shortcuts_cleanup_cache">Очистка</string>
     <string name="shortcuts_cleanup_memory">Очистить кэш</string>

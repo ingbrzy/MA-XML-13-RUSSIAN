@@ -462,6 +462,7 @@ ID: %s
     <string name="downloading_pause_apk">Пауза. Возобновите загрузку в шторке уведомлений.</string>
     <string name="due_date">Срок оплаты: %s</string>
     <string name="early_morning">Утро</string>
+    <string name="edit">Изменить</string>
     <string name="edit_button_save">Сохранить</string>
     <string name="edit_hint_birthday">Дата рождения:</string>
     <string name="edit_hint_default_avatar">Фото профиля по умолчанию ></string>
@@ -629,6 +630,7 @@ ID: %s
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gcm_fallback_notification_channel_label">Разное</string>
+    <string name="get_back_pwd">Выполняется сброс пароля</string>
     <string name="get_more_favorite_content_after_login">Войдите для поиска песен и видео</string>
     <string name="get_one_day_vip">Вы получили %d-дневный VIP!</string>
     <string name="get_one_hour_vip">Вы получили %d-часовой VIP!</string>
@@ -791,6 +793,7 @@ ID: %s
     <string name="like">Нравится</string>
     <string name="list_item_play_all_tracks">Воспроизвести все</string>
     <string name="listen_anywhere">Слушайте везде</string>
+    <string name="load_more">Показать еще</string>
     <string name="load_shuffle">Загрузка…</string>
     <string name="loadercontainer_loading">Подождите…</string>
     <string name="loading">Подождите…</string>
@@ -1020,6 +1023,7 @@ ID: %s
     <string name="next_to_play">Следующий</string>
     <string name="nick_name">Псевдоним</string>
     <string name="night">PM</string>
+    <string name="no">Нет</string>
     <string name="no_account">Вход не выполнен</string>
     <string name="no_album_info">Нет информации об альбоме</string>
     <string name="no_artist_info">Нет информации об исполнителе</string>
@@ -1297,6 +1301,7 @@ ID: %s
     <string name="recommend_songs_when_playing_audio_files">Получать рекомендации во время прослушивания музыки</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s трафика для загрузки этого файла?</string>
     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
+    <string name="refresh">Обновить</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="remove">Убрать</string>
@@ -1401,6 +1406,7 @@ ID: %s
     <string name="set_ringtones_failed">Не удалось установить на звонок</string>
     <string name="set_ringtones_successful">Трек \"%s\" установлен на звонок</string>
     <string name="set_success">Изменения сохранены</string>
+    <string name="setting">Настройки</string>
     <string name="setting_feature_setting">Настройки функций</string>
     <string name="settings">Настройки</string>
     <string name="settings_search_key_notification">Уведомления Музыки;Музыка;Уведомления;треки</string>
