@@ -694,6 +694,7 @@
     <string name="search_path_notes">Системные приложения/Заметки</string>
     <string name="search_setting_description">Поиск текста в заметках</string>
     <string name="select_account_prompt">Синхронизация заметок</string>
+    <string name="select_up_limit_toast">Выберите не более %d элементов</string>
     <string name="send">Отправить</string>
     <string name="set_alarm_description">Установить напоминание</string>
     <string name="setting_big_screen_layout_columns">Боковая панель</string>
