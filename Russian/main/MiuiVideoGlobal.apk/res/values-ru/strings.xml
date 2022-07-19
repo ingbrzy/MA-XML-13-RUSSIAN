@@ -298,6 +298,8 @@ Mi Видео готово к обновлению.
 Команда Mi Видео"</string>
     <string name="define_roundedimageview"/>
     <string name="description">Описание</string>
+    <string name="desktop_widget_local_media">Медиафайлы</string>
+    <string name="desktop_widget_new">Новые</string>
     <string name="detail_select_source">Выберите проигрыватель</string>
     <string name="diagnosis_log_send_failed">Ошибка отправки журналов. Повторите попытку.</string>
     <string name="diagnosis_log_sent_format">"Журналы отправлены.
@@ -601,6 +603,7 @@ ID: %s
     <string name="galleryplus_notification_linkvideo_title4">Сотни видео доступны бесплатно в течение определенного времени</string>
     <string name="galleryplus_notification_linkvideo_title5">Транслируйте бесплатно любимые шоу</string>
     <string name="galleryplus_notification_try_now_btn">Попробовать</string>
+    <string name="galleryplus_notification_type_link_video">Локальные видео</string>
     <string name="galleryplus_online_cta">Приложению Mi Видео для нормальной работы необходимо подключение к интернету. Разрешить?</string>
     <string name="galleryplus_online_cta_agree">Разрешить</string>
     <string name="galleryplus_online_cta_disagree">Выход</string>
@@ -718,6 +721,7 @@ ID: %s
     <string name="incentive_exchange">Получить</string>
     <string name="incentive_exchange_code">Код</string>
     <string name="incentive_exchange_code_copy">Копировать</string>
+    <string name="incentive_exchange_code_copy_and_start">Использовать</string>
     <string name="incentive_exchange_details">Сведения</string>
     <string name="incentive_exchange_details_current">Весь заказ</string>
     <string name="incentive_exchange_details_total">Баланс</string>
@@ -743,6 +747,9 @@ ID: %s
     <string name="incentive_task_title_novice">Для новичков</string>
     <string name="incentive_task_to_get">Начать</string>
     <string name="incentive_task_to_login">Войти</string>
+    <string name="incentive_toast_share_success_new">Отправлено</string>
+    <string name="incentive_toast_subscribe_success_new">Подписка оформлена</string>
+    <string name="incentive_ui_tab_earn_credits">Баллы</string>
     <string name="incentive_view_all_prizes">Показать все награды</string>
     <string name="incentive_view_details">Сведения</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
@@ -1176,6 +1183,7 @@ ID: %s
     <string name="notification_recall_desc">Mi Видео может уведомлять о популярных видео и подписках</string>
     <string name="notification_recall_title">Включить уведомления</string>
     <string name="notification_tool">Панель инструментов</string>
+    <string name="notification_type_channel_music">Воспроизведение музыки</string>
     <string name="notify_apk_installed">Загрузка завершена</string>
     <string name="off">[откл.]</string>
     <string name="off_tip_firework_recommend">Вы больше не будете получать персонализированные рекомендации по контенту от Firework.</string>

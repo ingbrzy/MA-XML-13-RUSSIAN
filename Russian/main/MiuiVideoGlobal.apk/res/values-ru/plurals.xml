@@ -103,6 +103,16 @@
         <item quantity="one">Сегодня вы посмотрели %d мин</item>
         <item quantity="few">Сегодня вы посмотрели %d мин</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Вы поделились материалами и заработали %d баллов.</item>
+        <item quantity="one">Вы поделились материалами и заработали %d балл.</item>
+        <item quantity="few">Вы поделились материалами и заработали %d балла.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">За подписку вы заработали %d баллов.</item>
+        <item quantity="one">За подписку вы заработали %d балл.</item>
+        <item quantity="few">За подписку вы заработали %d балла.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">Получите %d баллов!</item>
         <item quantity="one">Получите %d балл!</item>
@@ -204,9 +214,9 @@
         <item quantity="few">%d новых уведомления</item>
      </plurals>
     <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">Отправлено. Вы заработали %d баллов. Получить баллы можно в Центре баллов.</item>
-        <item quantity="one">Отправлено. Вы заработали %d балл. Получить баллы можно в Центре баллов.</item>
-        <item quantity="few">Отправлено. Вы заработали %d балла. Получить баллы можно в Центре баллов.</item>
+        <item quantity="other">Вы поделились материалами и заработали %d баллов. Получить баллы можно в Центре баллов.</item>
+        <item quantity="one">Вы поделились материалами и заработали %d балл. Получить баллы можно в Центре баллов.</item>
+        <item quantity="few">Вы поделились материалами и заработали %d балла. Получить баллы можно в Центре баллов.</item>
     </plurals>
     <plurals name="new_incentive_toast_subscribe_success">
         <item quantity="other">Сохранено в подписках. Вы заработали %d баллов. Получить баллы можно в Центре баллов.</item>

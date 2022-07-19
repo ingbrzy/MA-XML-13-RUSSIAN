@@ -196,7 +196,6 @@
         <item>Естественный</item>
         <item>Стандартный</item>
     </string-array>
-    <array name="config_blockBadgePackages" />
     <array name="config_face_auth_props" />
     <array name="config_showSpnByGIDWhenAirPlane" />
     <string-array name="debug_hw_overdraw_entries">

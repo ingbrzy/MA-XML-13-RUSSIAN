@@ -597,6 +597,7 @@
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_oaid_used">Использовать виртуальный ID</string>
     <string name="allow_oaid_used_desc">MIUI не будет предоставлять виртуальный ID (OAID) установленным приложениям. Некоторые функции, связанные с персонализированными рекомендациями, могут работать неправильно.</string>
+    <string name="allow_ongoing_title">Разрешить постоянные уведомления</string>
     <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать работе с приложениями или искажать их интерфейс.</string>
     <string name="allow_sound_title">Звук</string>
     <string name="allow_vibrate_title">Вибрация</string>

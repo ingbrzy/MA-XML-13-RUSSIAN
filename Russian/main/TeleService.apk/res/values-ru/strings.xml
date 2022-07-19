@@ -1869,6 +1869,8 @@
     <string name="no_vm_number">Не указан номер голосовой почты</string>
     <string name="no_vm_number_msg">На SIM-карте нет номеров голосовой почты.</string>
     <string name="no_voip">Вызовы через SIP не поддерживаются</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">Вызовы недоступны. Cлужба HD Voice не зарегистрирована для SIM-карты %d (China Broadnet).</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">Вызовы недоступны. Cлужба HD Voice не зарегистрирована для SIM-карт China Broadnet.</string>
     <string name="no_wifi_available">Для вызова через SIP, требуется подключение к сети Wi-Fi (его можно настроить в разделе \"Беспроводные сети\").</string>
     <string name="noon">Полдень</string>
     <string name="not_a_valid_port">Номер порта должен быть от %1$d до %2$d.</string>
@@ -2943,6 +2945,7 @@ UT-интерфейс: %5$s"</string>
     <string name="user_setup_dialog_title">Настроить пространство?</string>
     <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
     <string name="user_switch_to_user">Переключиться на %s</string>
+    <string name="username">UserName</string>
     <string name="username_title">Имя пользователя</string>
     <string name="ussdRunning">Выполняется USSD запрос…</string>
     <string name="ut_not_support">UT не поддерживается</string>

@@ -307,8 +307,10 @@
     <array name="config_bcbc_brt_change_node"></array>
     <array name="config_bcbc_brt_change_node_disable_auto_brt"></array>
     <string-array name="config_biometric_sensors"></string-array>
+    <array name="config_blockBadgePackages" />
     <array name="config_blockFloatPackages" />
     <array name="config_blockKeyguardPackages" />
+    <string-array name="config_blockOngoingPackages"></string-array>
     <array name="config_brightnessThresholdsOfPeakRefreshRate" />
     <integer-array name="config_calendarDateVibePattern"></integer-array>
     <string-array name="config_callBarringMMI"></string-array>

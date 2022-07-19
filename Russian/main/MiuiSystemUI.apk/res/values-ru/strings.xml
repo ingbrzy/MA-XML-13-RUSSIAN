@@ -1753,12 +1753,14 @@ dd.MM"</string>
     <string name="miui_notification_menu_fold">Неважные</string>
     <string name="miui_notification_menu_more_setting">Еще</string>
     <string name="miui_notification_menu_msg_fold">Группировать все уведомления от %1$s?</string>
-    <string name="miui_notification_menu_msg_not_allow">Ограничить все уведомления от %1$s?</string>
+    <string name="miui_notification_menu_msg_not_allow">Отключить все уведомления от %1$s?</string>
     <string name="miui_notification_menu_msg_unfold">Отображать все уведомления от %1$s раздельно?</string>
     <string name="miui_notification_menu_setting_success">Готово</string>
     <string name="miui_notification_menu_snooze">Отложить</string>
     <string name="miui_notification_menu_title_not_allow">Ограничение уведомлений</string>
     <string name="miui_notification_menu_unfold">Отметить как важное</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Отключить постоянные уведомления для \"%1$s\"?</string>
+    <string name="miui_notification_slide_menu_ongoing">Отключить постоянные уведомления</string>
     <string name="miui_ringer_count_down">Таймер</string>
     <string name="miui_ringer_standard">Без звука</string>
     <string name="miui_ringer_standard_description">Отключить звук для входящих вызовов и уведомлений</string>
