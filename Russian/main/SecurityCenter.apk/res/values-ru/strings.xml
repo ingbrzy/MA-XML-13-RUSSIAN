@@ -5017,7 +5017,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_item_doc_name">Документы</string>
     <string name="storage_item_other_name">Другое</string>
     <string name="storage_item_picture_name">Изображения</string>
-    <string name="storage_item_system_data">Система</string>
+    <string name="storage_item_system_data">Системные файлы</string>
     <string name="storage_item_system_name">Система</string>
     <string name="storage_item_video_name">Видео</string>
     <string name="storage_menu_mount">Подключить</string>
