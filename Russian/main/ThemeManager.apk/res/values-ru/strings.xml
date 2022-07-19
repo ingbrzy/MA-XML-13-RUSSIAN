@@ -1560,7 +1560,7 @@ mm"</string>
     <string name="voice_input">Голосовой ввод</string>
     <string name="wallpaper_24h">24ч</string>
     <string name="wallpaper_apply">Применить</string>
-    <string name="wallpaper_apply_full">Все</string>
+    <string name="wallpaper_apply_full">Применить везде</string>
     <string name="wallpaper_apply_inner">Внутренний экран</string>
     <string name="wallpaper_apply_large">Внутренний экран</string>
     <string name="wallpaper_apply_outer">Внешний экран</string>
@@ -1574,7 +1574,7 @@ mm"</string>
     <string name="wallpaper_detail_load_page_no_network">Подключитесь к сети и повторите попытку.</string>
     <string name="wallpaper_download_incall_show">Загрузить</string>
     <string name="wallpaper_dynamic">Живые</string>
-    <string name="wallpaper_group_set_loop">Слайд-шоу экрана блокировки с изображениями из одной категории</string>
+    <string name="wallpaper_group_set_loop">Слайд-шоу с похожими изображениями</string>
     <string name="wallpaper_light_mode_image_preview_tip">Предпросмотр светлого режима</string>
     <string name="wallpaper_loop_add_success">Обои успешно добавлены</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Добавить в слайд-шоу рабочего стола</string>
