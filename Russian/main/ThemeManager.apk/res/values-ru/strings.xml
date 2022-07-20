@@ -153,7 +153,7 @@
     <string name="classification_more_understand_you">Выберите любимую категорию</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
-    <string name="clock">Установка часов</string>
+    <string name="clock">Установить Часы</string>
     <string name="close">Закрыть</string>
     <string name="close_custom_permission_warning_text">Без доступа к хранилищу приложение не сможет загружать компоненты тем. Все равно отключить?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">Без доступа к хранилищу приложение не сможет настраивать персонализацию. Все равно отключить?</string>
