@@ -193,6 +193,9 @@
     <string name="antivirus_choose_engine_title">Сигнатуры</string>
     <string name="antivirus_detect_apps_dialog_cancel">Оставить</string>
     <string name="antivirus_detect_apps_dialog_content">%s классифицируется Национальным центром по борьбе с мошенничеством как приложение для финансового мошенничества и представляет угрозу безопасности.</string>
+    <string name="antivirus_detect_apps_dialog_content_text">Это приложение может представлять угрозу безопасности вашей личной информации</string>
+    <string name="antivirus_detect_apps_dialog_message">Если сотрудники службы поддержки, представители власти или люди, которых вы можете знать, просят вас использовать это приложение, <Data>&lt;font color=#F22424>сначала удостоверьтесь в их личности&lt;/font>.</Data></string>
+    <string name="antivirus_detect_apps_dialog_message_reject_permission">Разрешения для этого приложения были ограничены. Изменить их можно здесь: %s.</string>
     <string name="antivirus_detect_apps_dialog_uninstall">Удалить</string>
     <string name="antivirus_detect_apps_noti_message">Приложение представляет угрозу безопасности</string>
     <string name="antivirus_detect_apps_noti_title">Несколько приложений, включая %s, могут представлять угрозу безопасности</string>
@@ -1415,6 +1418,48 @@
     <string name="edit_new_task_name">Имя задачи</string>
     <string name="edit_phone_num">Номер телефона SIM-карты</string>
     <string name="eew_privacy_revoke_title">Отозвать согласие с Политикой конфиденциальности предупреждения о землетрясениях</string>
+    <string name="eletric_card_key_1">Вызовы</string>
+    <string name="eletric_card_key_2">Сообщения</string>
+    <string name="eletric_card_key_3">Приложения</string>
+    <string name="eletric_card_key_4">Веб-серфинг</string>
+    <string name="eletric_card_key_5">Трансляция</string>
+    <string name="eletric_card_one_identification_risk_app">Предупреждать о ненадежных приложениях</string>
+    <string name="eletric_card_one_identification_risk_app_summary">Получать предупреждения и автоматически ограничивать разрешения при обнаружении рисков</string>
+    <string name="eletric_card_one_identification_risk_mms">Проверять входящие сообщения</string>
+    <string name="eletric_card_one_identification_risk_mms_summary">Проверять на наличие рисков входящие сообщения по номеру телефона отправителя, а также прикрепленные URL-адреса</string>
+    <string name="eletric_card_one_identification_risk_screen">Скрывать личную информацию</string>
+    <string name="eletric_card_one_identification_risk_screen_summary">Не показывать уведомления и личные приложения на внешних мониторах во время трансляции</string>
+    <string name="eletric_card_status_bg_content_disable">Откл.</string>
+    <string name="eletric_card_status_bg_content_enable">Вкл.</string>
+    <string name="eletric_card_summary_1">Проверять входящие вызовы на угрозы безопасности</string>
+    <string name="eletric_card_summary_2">Проверять входящие сообщения на наличие рисков</string>
+    <string name="eletric_card_summary_3">Предупреждать о ненадежных приложениях</string>
+    <string name="eletric_card_summary_4">Уведомлять о ненадежных сайтах</string>
+    <string name="eletric_card_summary_5">Скрывать личную информацию</string>
+    <string name="eletric_card_two_identification_risk_app">Предупреждать о рискованных операциях</string>
+    <string name="eletric_card_two_identification_risk_app_summary">Предупреждать о совершении финансовых операций после подозрительных звонков или сообщений</string>
+    <string name="eletric_card_two_identification_risk_mms">Предупреждать о пересылке кодов подтверждения</string>
+    <string name="eletric_card_two_identification_risk_mms_summary">Предупреждать, когда коды подтверждения из сообщений пересылаются в приложения соцсетей</string>
+    <string name="eletric_group_title_one_identification_risk_app">Автоматически ограничивать разрешения</string>
+    <string name="eletric_group_title_one_identification_risk_app_summary">Автоматически ограничивать разрешения при обнаружении рисков в приложениях</string>
+    <string name="eletric_group_title_one_identification_risk_mms">Защищать сообщения</string>
+    <string name="eletric_group_title_one_identification_risk_mms_summary">Уведомлять о возможных рисках в сообщениях с неизвестных номеров</string>
+    <string name="eletric_group_title_one_identification_risk_screen">Скрывать уведомления</string>
+    <string name="eletric_group_title_one_identification_risk_screen_summary">Уведомления не будут отображаться во время трансляций на внешние мониторы</string>
+    <string name="eletric_group_title_two_identification_risk_app">Предупреждать о финансовых рисках</string>
+    <string name="eletric_group_title_two_identification_risk_app_summary">Предупреждать о совершении финансовых операций после подозрительных звонков или сообщений</string>
+    <string name="eletric_group_title_two_identification_risk_mms">Предупреждать о пересылке кодов подтверждения</string>
+    <string name="eletric_group_title_two_identification_risk_mms_summary">Предупреждать, когда коды подтверждения из сообщений пересылаются в приложения соцсетей</string>
+    <string name="eletric_group_title_two_identification_risk_screen">Скрывать личные приложения</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">Трансляция будет приостанавливаться при переключении на личные приложения, такие как Галерея, Сообщения, Alipay или WeChat</string>
+    <string name="eletric_group_two_identification_risk_app">Предупреждать о рискованных финансовых операциях</string>
+    <string name="eletric_group_two_identification_risk_mms">Защищать коды подтверждения</string>
+    <string name="eletric_identification_unfamiliar_numbers">Идентифицировать неизвестные номера</string>
+    <string name="eletric_identification_unfamiliar_numbers_summary">Отображать информацию о неизвестных номерах на основе отзывов пользователей</string>
+    <string name="eletric_key_protect_electric_announcement">Защищать от мошенничества</string>
+    <string name="eletric_risk_call_identification">Защищать вызовы</string>
+    <string name="eletric_risk_call_identification_announcement">Уведомлять о возможных рисках при вызовах с неизвестных номеров</string>
+    <string name="eletric_status_protecting">Вкл.</string>
     <string name="email">Email</string>
     <string name="empty_app">Нет приложений</string>
     <string name="empty_title_auto_start_list">Нет приложений с автозапуском</string>
@@ -2131,13 +2176,16 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
     <string name="gb_performace_guide_disable_desc"><Data>"Переключение в сбалансированный режим в Ускорении игр недоступно, если включен общесистемный производительный режим. Настройки режима можно изменить в приложении &lt;a href=\"#\">Безопасность&lt;/a>."</Data></string>
+    <string name="gb_performace_switch_toast">Включен производительный режим. Устройство может нагреваться и быстрее расходовать заряд.</string>
+    <string name="gb_performace_tips_button">Включить</string>
+    <string name="gb_performace_tips_title">Включите производительный режим для улучшения игрового процесса</string>
     <string name="gb_performance_balance">Сбалансированный</string>
     <string name="gb_performance_balance_tips">"Сбалансированный режим экономит заряд,
 снижая частоту обновления и вероятность перегрева"</string>
     <string name="gb_performance_high">Производительный</string>
     <string name="gb_performance_mode">Игровой режим</string>
-    <string name="gb_performance_tips">"Производительный режим повышает производительность графики,
-но увеличивает разряд батареи и вероятность перегрева"</string>
+    <string name="gb_performance_tips">"Производительный режим повышает скорость графики,
+но увеличивает расход заряда и вероятность перегрева"</string>
     <string name="gb_predownload_dialog_cancel">Отмена</string>
     <string name="gb_predownload_dialog_checked">Больше не показывать</string>
     <string name="gb_predownload_dialog_confirm">Включить</string>
@@ -4403,6 +4451,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="scan_widget_guide_title">Новый виджет</string>
     <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
+    <string name="screen_share_protection_negative_button">Отмена</string>
+    <string name="screen_share_protection_summary">Приложение, которое используется, содержит вашу личную информацию, которая может быть видна другим людям во время трансляции содержимого экрана. Все равно продолжить?</string>
+    <string name="screen_share_protection_title">Внимание</string>
+    <string name="screen_share_protection_warning_icon_title">Защита от мошенничества</string>
+    <string name="screen_share_protection_warning_positive_button">Продолжить</string>
+    <string name="screen_share_warning_button">Понятно</string>
+    <string name="screen_share_warning_summary">Входящие уведомления не будут отображаться на общем экране</string>
+    <string name="screen_share_warning_title">Скрытие уведомлений</string>
     <string name="screenrecord_not_find">Установите последнюю версию Записи экрана и повторите попытку.</string>
     <string name="sd_eject">Извлечь SD-карту</string>
     <string name="sd_eject_summary">Безопасное извлечение SD-карты</string>
@@ -5165,6 +5221,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="system_anti_fraud_dialog_message">Защита от мошенничества</string>
     <string name="system_anti_fraud_dialog_title">Предупреждение о мошенничестве</string>
     <string name="system_anti_fraud_dialog_title2">Предупреждение о мошенничестве</string>
+    <string name="system_anti_fraud_stayaway_from_risk">Защитите себя от цифрового мошенничества</string>
     <string name="system_app">Системные приложения</string>
     <string name="system_app_permission_instruction">Этому приложению необходимы определенные разрешения для обеспечения основных системных сервисов. Управление разрешениями для этого приложения ограничено, так как изменение разрешений приведет к сбоям в работе системы.</string>
     <string name="system_application">Системное приложение</string>

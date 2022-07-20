@@ -153,6 +153,7 @@
     <string name="classification_more_understand_you">Выберите любимую категорию</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="clock">Установка часов</string>
     <string name="close">Закрыть</string>
     <string name="close_custom_permission_warning_text">Без доступа к хранилищу приложение не сможет загружать компоненты тем. Все равно отключить?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">Без доступа к хранилищу приложение не сможет настраивать персонализацию. Все равно отключить?</string>
@@ -483,6 +484,7 @@
     <string name="incompatible_dialog_message">Эта тема несовместима с версией MIUI, установленной на вашем устройстве. Если Вы примените эту тему, компоненты MIUI могут работать неправильно.</string>
     <string name="incompatible_dialog_ok">ОК</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
+    <string name="install_clock">Часы не установлены. Загрузить сейчас?</string>
     <string name="install_failed">Не удалось установить</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>

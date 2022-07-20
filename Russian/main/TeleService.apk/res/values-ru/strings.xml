@@ -1301,6 +1301,7 @@
     <string name="help_feedback_label">Обратная связь</string>
     <string name="help_label">Справка/отзыв</string>
     <string name="help_url_imsi_protection"/>
+    <string name="hide_stk_name">Инструменты USIM</string>
     <string name="home">Настройки</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Запрос поступил от приложения \"%1$s\". Использовать этот способ ввода?</string>

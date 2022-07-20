@@ -136,6 +136,7 @@ ID вашего аккаунта: %s"</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_apk_update">Проверка обновлений</string>
+    <string name="child_account_system_ad_disable_hint">Эта функция недоступна для детских аккаунтов</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="cloud_description_closed">Занято | Синхронизация отключена</string>
@@ -242,6 +243,7 @@ ID:%s
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Войти через аккаунт Facebook</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Xiaomi аккаунтом</string>
+    <string name="family_service">Семейные сервисы</string>
     <string name="family_share">Семейный доступ</string>
     <string name="find_device">Поиск устройства</string>
     <string name="find_device_access_denied">Не удалось получить статус, доступ ограничен</string>
