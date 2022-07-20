@@ -1459,7 +1459,7 @@
     <string name="eletric_key_protect_electric_announcement">Защита от мошенничества</string>
     <string name="eletric_risk_call_identification">Защита вызовов</string>
     <string name="eletric_risk_call_identification_announcement">Уведомление о возможных рисках при вызовах с неизвестных номеров</string>
-    <string name="eletric_status_protecting">Вкл.</string>
+    <string name="eletric_status_protecting">Включено</string>
     <string name="email">Email</string>
     <string name="empty_app">Нет приложений</string>
     <string name="empty_title_auto_start_list">Нет приложений с автозапуском</string>
