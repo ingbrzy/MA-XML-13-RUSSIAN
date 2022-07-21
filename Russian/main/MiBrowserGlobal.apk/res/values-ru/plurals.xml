@@ -179,9 +179,9 @@
         <item quantity="many">Защищено %d раз</item>
     </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">Загружено %d элементов</item>
-        <item quantity="one">Загружен %d элемент</item>
-        <item quantity="few">Загружено %d элемента</item>
+        <item quantity="other">Загружено %1$s элементов</item>
+        <item quantity="one">Загружен %1$s элемент</item>
+        <item quantity="few">Загружено %1$s элемента</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Только что</item>
