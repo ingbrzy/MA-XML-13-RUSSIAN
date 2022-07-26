@@ -3489,10 +3489,10 @@ d MMMM"</string>
     <string name="zen_mode_forever">До отключения</string>
     <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Включите режим \"Не беспокоить\"</string>
-    <string name="zen_mode_warnings_all_time_content">Уведомления будут отключены</string>
+    <string name="zen_mode_warnings_all_time_content">Звук и вибрация отключены</string>
     <string name="zen_mode_warnings_keyguard_content">Уведомления и вызовы будут отключены, когда устройство заблокировано</string>
     <string name="zen_mode_warnings_quit_immediately">Отключить</string>
-    <string name="zen_mode_warnings_title">Включен режим \"Не беспокоить\"</string>
+    <string name="zen_mode_warnings_title">Режим \"Не беспокоить\"</string>
     <string name="zen_priority_customize_button">Настроить</string>
     <string name="zen_priority_introduction">Вас не будут отвлекать звуки и вибрация, за исключением сигналов будильника, напоминаний, уведомлений о мероприятиях и звонков от помеченных контактов. Вы по-прежнему будете слышать включенную вами музыку, видео и игры.</string>
     <string name="zen_silence_introduction">В этом режиме будут отключены ВСЕ звуки и вибрация, в том числе для будильника, музыки, видео и игр.</string>
