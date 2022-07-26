@@ -280,14 +280,62 @@
         <item quantity="other">Выбрано: %s</item>
         <item quantity="one">Выбрано: %s</item>
     </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
     <plurals name="pa_express_settings_title_2">
         <item quantity="other">Добавлено %d номеров телефона</item>
         <item quantity="one">Добавлен %d номер телефона</item>
         <item quantity="few">Добавлено %d номера телефона</item>
     </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">Оставлено %d посылок</item>
+        <item quantity="one">Оставлена %d посылка</item>
+        <item quantity="few">Оставлено %d посылки</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%d посылок ожидают получения</item>
+        <item quantity="one">%d посылка ожидает получения</item>
+        <item quantity="few">%d посылки ожидают получения</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d посылок отменено</item>
+        <item quantity="one">%d посылка отменена</item>
+        <item quantity="few">%d посылки отменены</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">%d посылок отправлено на доставку</item>
+        <item quantity="one">%d посылка отправлена на доставку</item>
+        <item quantity="few">%d посылки отправлено на доставку</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">Проблемы с %d посылками</item>
+        <item quantity="one">Проблема с %d посылкой</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%d посылок в пути</item>
+        <item quantity="one">%d посылка в пути</item>
+        <item quantity="few">%d посылки в пути</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">Не удалось доставить %d посылок</item>
+        <item quantity="one">Не удалось доставить %d посылку</item>
+        <item quantity="few">Не удалось доставить %d посылки</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">Доставлено %d посылок</item>
+        <item quantity="one">Доставлена %d посылка</item>
+        <item quantity="few">Доставлены %d посылки</item>
+    </plurals>
     <plurals name="pa_picker_app_list_widget_count">
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">Удалить %d выбранных элементов?</item>
+        <item quantity="one">Удалить %d выбранный элемент?</item>
+        <item quantity="few">Удалить %d выбранных элемента?</item>
     </plurals>
     <plurals name="pa_stock_display_list_label">
         <item quantity="other">%1$d компаний</item>
