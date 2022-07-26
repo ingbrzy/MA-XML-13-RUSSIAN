@@ -437,6 +437,7 @@
     <string name="force_resizable_activities_summary">Разрешить изменение размера окон в многооконном режиме (независимо от значений в манифесте)</string>
     <string name="force_rtl_layout_all_locales">Отразить интерфейс</string>
     <string name="force_rtl_layout_all_locales_summary">Принудительно расположить элементы интерфейса справа налево во всех локалях</string>
+    <string name="fraud_toast_message">Управление переадресацией вызовов доступно в Настройках</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>

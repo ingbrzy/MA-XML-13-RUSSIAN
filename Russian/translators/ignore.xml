@@ -4894,6 +4894,8 @@
     <string name="vector_large_crossA"> </string>
     <string name="vector_large_crossB"> </string>
     <string name="velocity_tracker_impl">platform</string>
+    <string name="verify_allow">@string/app_behavior_allowed</string>
+    <string name="verify_denied">@string/app_behavior_denied</string>
     <string name="verify_sms_cancel">@string/cancel_button</string>
     <string name="verify_wlan_allow">@string/app_behavior_allowed</string>
     <string name="verify_wlan_denied">@string/app_behavior_denied</string>

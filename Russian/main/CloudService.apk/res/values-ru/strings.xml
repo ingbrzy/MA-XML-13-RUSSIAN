@@ -482,6 +482,7 @@
     <string name="micloud_setting_sms_summary_for_google_csp">Текстовые сообщения</string>
     <string name="micloud_setting_wifi_summary">Настройки Wi-Fi</string>
     <string name="micloud_setting_wifi_summary_china">Настройки Wi-Fi</string>
+    <string name="micloud_share_cloud_storage_entrance_title">Совместное использование облачного хранилища с семейной группой</string>
     <string name="micloud_space_applist_detail">Управляйте приложениями на рабочем столе</string>
     <string name="micloud_space_applist_title">Приложения</string>
     <string name="micloud_space_duokan_detail">Загружайте и читайте книги с помощью приложения Duokan.</string>

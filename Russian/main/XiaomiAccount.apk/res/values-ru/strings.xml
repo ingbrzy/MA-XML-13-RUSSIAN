@@ -69,6 +69,7 @@
 ID вашего аккаунта: %s"</string>
     <string name="account_token_expired_title">Ошибка аутентификации</string>
     <string name="account_user_avatar">Фото профиля</string>
+    <string name="account_user_avatar_activity_not_found">Не удалось открыть Галерею</string>
     <string name="account_user_avatar_from_album">Выбрать фото</string>
     <string name="account_user_avatar_from_camera">Сделать фото</string>
     <string name="account_user_base_info">Личная информация</string>

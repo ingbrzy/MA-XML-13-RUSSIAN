@@ -6,6 +6,12 @@
     <string name="HIPS_Perm_CallLog_Desc">Создание и удаление записей в журнале вызовов</string>
     <string name="HIPS_Perm_Call_Desc">Непосредственное осуществление вызовов</string>
     <string name="HIPS_Perm_Contact_Desc">Изменение и удаление контактов</string>
+    <string name="HIPS_Perm_External_READ_FILES">Доступ к документам и файлам</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Доступ к документам и файлам на устройстве</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Доступ к аудиофайлам</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Доступ к аудиофайлам на устройстве</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Доступ к фото и видео</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Доступ к фото и видео на устройстве</string>
     <string name="HIPS_Perm_External_Storage">Хранилище</string>
     <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам в хранилище</string>
     <string name="HIPS_Perm_External_Storage_Group">Управление доступом</string>
@@ -943,6 +949,7 @@
     <string name="battery_temperature_title">Температура</string>
     <string name="beauty_fc_assistant">Помощник фронтальной камеры</string>
     <string name="beauty_fc_assistant_summary">Дополнительные функции для фронтальной камеры</string>
+    <string name="beauty_fc_assistant_summary_common">Дополнительные функции для фронтальной камеры</string>
     <string name="beauty_fc_assistant_summary_new">Показывать настройки для улучшения и рассеянного света при использовании фронтальной камеры</string>
     <string name="beauty_fc_auto_brightness">Авторегулировка яркости рассеянного света</string>
     <string name="beauty_fc_fill_lamp">Рассеянный свет</string>
@@ -1116,6 +1123,8 @@
     <string name="card_uninstall_button_text">Управление</string>
     <string name="card_uninstall_summary">Удалите редко используемые приложения для освобождения места на устройстве</string>
     <string name="card_uninstall_title_1">Удаление редко используемых приложений</string>
+    <string name="category_no_scoped">Другие приложения</string>
+    <string name="category_scoped">Совместимые приложения</string>
     <string name="cd_back">Назад</string>
     <string name="cellular_data_auto_check">Проверять автоматически</string>
     <string name="cellular_package_daily_input">Ввод данных</string>
@@ -1472,6 +1481,7 @@
     <string name="empty_title_root_apps">Нет приложений с ROOT-доступом</string>
     <string name="enable_extreme_power_save_mode">Экстремальная экономия заряда</string>
     <string name="enable_network">Необходимо подключение к сети</string>
+    <string name="enable_notification_title">Разрешить %1$s уведомления?</string>
     <string name="enter">Войти</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
@@ -2193,6 +2203,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_predownload_dialog_message_china"><Data>"Включите автозагрузку обновлений игр при подключении к Wi-Fi и выключенном экране. Таким образом, вам будут доступны новые версии игр сразу после их выхода.&lt;br>&lt;br>Перед использованием этой функции необходимо принять &lt;a href=\"%1$s\">Заявление об обновлениях в фоновом режиме&lt;/a>."</Data></string>
     <string name="gb_predownload_dialog_title">Доступны обновления в фоновом режиме</string>
     <string name="gb_predownload_message">Обновляйте King of Glory, Game for Peace и другие игры в фоновом режиме, когда устройство не используется</string>
+    <string name="gb_predownload_message_new">Включите автообновление совместимых игр в фоновом режиме, когда устройство не используется</string>
     <string name="gb_predownload_noti_message">%2$1.2f ГБ обновления уже загружено. Оно станет доступно, как только выйдет новая версия.</string>
     <string name="gb_predownload_noti_title">Обновление %s завершено</string>
     <string name="gb_predownload_title">Обновления в фоновом режиме</string>
@@ -3283,7 +3294,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="other">Прочие настройки</string>
     <string name="other_exception_summary">Отсутствует подключение к интернету</string>
     <string name="other_exception_title">Проверка наличия других проблем</string>
-    <string name="other_milink_connect">"Невозможно начать трансляцию. Идет другая трансляция."</string>
+    <string name="other_milink_connect">Невозможно начать трансляцию. Идет другая трансляция.</string>
+    <string name="over_package_reminder_type">При исчерпании лимита трафика</string>
     <string name="package_change_notification_summary">Нажмите для просмотра.</string>
     <string name="package_change_notification_title">Автоматическая регулировка лимита</string>
     <string name="package_setted_error_notification_summary">Нажмите для просмотра.</string>
@@ -3432,6 +3444,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_get_accounts">Это разрешение позволяет приложениям получать доступ к списку аккаунтов, хранящихся на вашем устройстве. Этот список может содержать все ваши личные аккаунты, созданные установленными приложениями, а также аккаунты соц. сетей и средств связи.</string>
     <string name="permission_instruction_install_shortcuts">Это разрешение позволяет приложениям создавать ярлыки на рабочем столе.</string>
     <string name="permission_instruction_install_unknown_source">Это разрешение позволяет приложениям устанавливать другие приложения на ваше устройство. Вредоносные программы используют это разрешение для установки приложений без вашего подтверждения.</string>
+    <string name="permission_instruction_media_audio">Это разрешение позволяет приложениям получать доступ к аудиофайлам на устройстве. В них может содержаться личная информация.</string>
+    <string name="permission_instruction_media_files">Это разрешение позволяет приложениям получать доступ к документам и файлам на устройстве. В них может содержаться личная информация.</string>
     <string name="permission_instruction_modify_audio_settings">Это разрешение позволяет приложениям изменять настройки звука (например, регулировать громкость без вашего подтверждения). Возможно, вы не сможете регулировать громкость в некоторых приложениях, если не дадите им это разрешение.</string>
     <string name="permission_instruction_nfc">Это разрешение позволяет приложениям взаимодействовать с картами и устройствами NFC.</string>
     <string name="permission_instruction_notification_adjustment">Это разрешение позволяет приложениям предоставлять более персонализированные и разнообразные адаптивные уведомления.</string>
@@ -3443,6 +3457,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_read_calllog">Это разрешение позволяет приложениям получать доступ к журналу вызовов, который может содержать подробную информацию о входящих и исходящих вызовах. Это разрешение также позволяет приложениям сохранять записи журнала вызовов. Вредоносные приложения могут использовать это разрешение, чтобы делиться вашим журналом вызовов с третьими лицами или использовать для мошенничества.</string>
     <string name="permission_instruction_read_clipboard">Это разрешение позволяет приложениям читать любой контент, который вы копируете, который может включать личную информацию (например, данные счета, номера банковских карт и пароли).</string>
     <string name="permission_instruction_read_contacts">Это разрешение позволяет приложениям получать доступ к информации о контактах, хранящейся на устройстве. Эта информация может содержать частоту вашего общения с определенными контактами посредством звонков, электронной почты и других методов. Это разрешение также позволяет приложениям сохранять контакты. Вредоносные программы могут использовать это разрешение для обмена контактами без вашего согласия.</string>
+    <string name="permission_instruction_read_media_pic">Это разрешение позволяет приложениям получать доступ к фото и видео на устройстве. В них может содержаться личная информация.</string>
     <string name="permission_instruction_read_notify_sms">Это разрешение позволяет приложениям читать текстовые сообщения с уведомлениями, хранящиеся на устройстве или на SIM-карте.</string>
     <string name="permission_instruction_read_phone_state">Это разрешение позволяет приложениям получать доступ к вашему номеру телефона, IMEI, IMSI и другим идентификаторам устройства. Приложения обычно используют это разрешение для определения перенаправления вызовов. Если используется виртуальный идентификатор устройства, приложения не смогут получить доступ к фактическим идентификаторам устройства.</string>
     <string name="permission_instruction_read_sms">Это разрешение позволяет приложениям читать все SMS и MMS, хранящиеся на вашем устройстве или SIM-карте. Такие сообщения могут содержать пароли, реквизиты банковского счета и другую личную информацию.</string>
@@ -3451,6 +3466,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_instruction_record_audio">Это разрешение позволяет приложениям использовать микрофон для записи звука. Помните, что это разрешение позволяет приложениям записывать все, что угодно, включая ваши разговоры с другими. Лучше всего разрешить приложениям использовать это разрешение только тогда, когда вы используете приложения.</string>
     <string name="permission_instruction_running_background">Это разрешение позволяет приложениям работать в фоновом режиме. При этом приложения могут собирать данные и предоставлять услуги. Помните, что такие действия увеличивают энергопотребление.</string>
     <string name="permission_instruction_running_exceed_data">Это разрешение позволяет приложениям игнорировать ограничение на использование мобильного интернета.</string>
+    <string name="permission_instruction_scoped">Новый механизм защиты хранилища позволяет лучше контролировать использование прав доступа к хранилищу совместимыми приложениями</string>
     <string name="permission_instruction_send_mms">Это разрешение позволяет приложениям отправлять мультимедийные сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
     <string name="permission_instruction_send_payment_sms">Это разрешение позволяет приложениям отправлять платные текстовые сообщения.</string>
     <string name="permission_instruction_send_sms">Это разрешение позволяет приложениям отправлять текстовые сообщения, за что может взиматься дополнительная плата. Вредоносные программы могут использовать это разрешение для отправки платных сообщений без вашего согласия.</string>
@@ -4336,6 +4352,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="random_expression">Быстрый захват</string>
     <string name="reach_daily_limit_value_body">Ограничьте использование интернета.</string>
     <string name="reach_daily_limit_value_title">Достигнут лимит трафика</string>
+    <string name="reach_warning_reminder_type">При достижении лимита трафика</string>
     <string name="read_all_sms">Прочитать все</string>
     <string name="read_and_write_clipboard">Буфер обмена</string>
     <string name="read_clipboard_ai_action_desc">Уведомлять каждый раз, когда доступ разрешен или ограничен</string>
@@ -4358,6 +4375,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="reject_usb_install">Установка следующих приложений через USB отменена</string>
     <string name="release_meminfo">Освобождено %d МБ</string>
     <string name="release_memory">Очистить память</string>
+    <string name="reminder_click_to_close_tips">Предупреждения о трафике можно включить или выключить в Безопасность > Трафик > Настройки трафика</string>
     <string name="reminder_once_month">Раз в месяц</string>
     <string name="reminder_tips">Внимание</string>
     <string name="reminder_type">Тип предупреждения</string>
@@ -5045,6 +5063,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_clear_cache_large">Очистить %s</string>
     <string name="storage_clear_more_tools">Доп. инструменты</string>
     <string name="storage_clear_video">Очистить кеш видео</string>
+    <string name="storage_compact_warning">Настройка нескольких разрешений</string>
+    <string name="storage_compact_warning_desc">Это приложение не поддерживает настройку разрешений по отдельности для доступа к фото и видео, аудиофайлам, документам и файлам</string>
     <string name="storage_deepclean_entry">Глубокая очистка</string>
     <string name="storage_dialog_unmountable">"^1 не работает. 
 

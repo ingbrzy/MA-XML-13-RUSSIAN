@@ -537,6 +537,7 @@
     <string name="midnight">Ночь</string>
     <string name="minus_one_screen">Лента виджетов</string>
     <string name="miui_screen_config_title">Настройки рабочего стола</string>
+    <string name="miui_widget_menu_replace_text">Переключить</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>

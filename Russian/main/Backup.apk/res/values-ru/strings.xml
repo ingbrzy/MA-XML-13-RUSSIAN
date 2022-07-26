@@ -81,6 +81,8 @@
     <string name="backup_hint_pad">Не выключайте устройство</string>
     <string name="backup_is_running">Резервное копирование устройства</string>
     <string name="backup_new">Новый</string>
+    <string name="backup_notice_content">Резервные копии не будут зашифрованы и могут быть доступны сторонним приложениям для изменения. Могут возникнуть и другие риски безопасности. Убедитесь, что резервные копии сохранены в хорошо защищенном месте.</string>
+    <string name="backup_notice_title">Внимание</string>
     <string name="backup_notification_title">Идет резервное копирование…</string>
     <string name="backup_progress">Резервное копирование…</string>
     <string name="backup_report">Подробности</string>
