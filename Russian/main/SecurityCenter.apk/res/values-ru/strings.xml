@@ -942,8 +942,9 @@
     <string name="battery_status_unknown">Неизвестная ошибка</string>
     <string name="battery_temperature_title">Температура</string>
     <string name="beauty_fc_assistant">Помощник фронтальной камеры</string>
-    <string name="beauty_fc_assistant_summary">Использовать рассеянный свет и улучшение для фронтальной камеры</string>
+    <string name="beauty_fc_assistant_summary">Дополнительные функции для фронтальной камеры</string>
     <string name="beauty_fc_assistant_summary_new">Показывать настройки для улучшения и рассеянного света при использовании фронтальной камеры</string>
+    <string name="beauty_fc_auto_brightness">Авторегулировка яркости рассеянного света</string>
     <string name="beauty_fc_fill_lamp">Рассеянный свет</string>
     <string name="beauty_fc_fill_lamp_new">Фронтальный рассеянный свет</string>
     <string name="beauty_fc_light">Яркость рассеянного света</string>
@@ -981,7 +982,7 @@
     <string name="bill_remind">Предупреждать о балансе</string>
     <string name="bill_reminder_summary">Напоминать о пополнении, когда баланс ниже %1s</string>
     <string name="bill_traffic_reminder_instruction">Внимание</string>
-    <string name="bill_traffic_reminder_instruction_text">Фактические детали тарифных планов, предоставляемых операторами мобильной связи, могут отличаться, при выставлении счетов могут возникать задержки. Представленная здесь информация предназначена только для справки.</string>
+    <string name="bill_traffic_reminder_instruction_text">Методы выставления счетов и стандарты расчета данных у разных операторов связи могут отличаться. Возможны задержки в выставлении счетов. Представленная здесь информация предназначена только для справки.</string>
     <string name="bind_xiaomi_account_cancel">Отмена</string>
     <string name="bind_xiaomi_account_confirm">Привязать</string>
     <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Xiaomi аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. Аккаунт будет автоматически отвязан после выхода из него.</string>
@@ -2971,7 +2972,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="na_main_card_ad_subtitle">Много трафика, бесплатные звонки, низкие тарифы</string>
     <string name="na_main_card_ad_text">Найдите подходящий вам план</string>
-    <string name="na_main_card_ad_title">Продвижение карты Mi Fan</string>
+    <string name="na_main_card_ad_title">Продвижение карты Xiaomi Fan</string>
     <string name="na_main_card_title_sim">"Карта "</string>
     <string name="na_open_at_once">Включить</string>
     <string name="na_query_and_correction">Проверка и настройка баланса</string>
