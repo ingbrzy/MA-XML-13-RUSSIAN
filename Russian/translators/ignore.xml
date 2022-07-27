@@ -845,6 +845,7 @@
     <string name="back_vayu">4:POCO X3 PRO</string>
     <string name="back_venus">3:SHOT ON MI 11</string>
     <string name="back_vili_global">3:XIAOMI 11T PRO</string>
+    <string name="back_vili_india">3:XIAOMI 11T PRO</string>
     <string name="back_violet">2:REDMI NOTE 7 PRO:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_willow">4:REDMI NOTE 8T:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>
@@ -3830,6 +3831,7 @@
     <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
     <string name="preference_key_information_setting_close">key_information_setting_close</string>
     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
+    <string name="preference_key_manual_item_create_icon">key_manual_item_create_icon</string>
     <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
     <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
     <string name="preference_key_module_antipam">module_antipam</string>

@@ -34,6 +34,8 @@
     <string name="app_notification_info">Запись экрана работает в фоновом режиме</string>
     <string name="app_notification_record_complete">"Запись экрана сохранена в Галерее.
 Нажмите для просмотра."</string>
+    <string name="app_notification_record_saved">"Запись сохранена.
+Нажмите для просмотра."</string>
     <string name="app_notification_title">Запись экрана</string>
     <string name="auto_stop_title">Видео сохранено</string>
     <string name="battery_not_allowed" formatted="false">Запись невозможна при заряде батареи менее 3%. Заряд батареи должен быть не менее 20%.</string>

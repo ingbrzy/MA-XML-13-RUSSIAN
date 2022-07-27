@@ -33,6 +33,7 @@
     <string name="actionbar_button_up_description">Назад</string>
     <string name="add_custom_image">Свое изображение</string>
     <string name="add_from_album">Добавить</string>
+    <string name="add_from_local">Выбор изображения</string>
     <string name="afternoon">PM</string>
     <string name="align_center_horizontally">По горизонтали и центру</string>
     <string name="align_center_vertically">По вертикали и центру</string>

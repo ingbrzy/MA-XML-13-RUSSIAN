@@ -155,6 +155,9 @@
     <string name="add_miservice_dialog_title">Xiaomi Service Framework</string>
     <string name="add_to_whitelist_button">Исключения</string>
     <string name="add_whitelist">Исключения</string>
+    <string name="added_game_notification_summary">Начать играть</string>
+    <string name="added_game_notification_title">%s добавлено в Ускорение игр</string>
+    <string name="added_game_start_game">Играть</string>
     <string name="address">Адрес</string>
     <string name="address_choose_hint">%1$s, %2$s и %3$d других</string>
     <string name="adjust_sms_cmd"><u>Изменить шаблон калибровки</u></string>
@@ -1036,6 +1039,8 @@
     <string name="btn_text_stop">Остановить</string>
     <string name="bubble_app_empty_page">Не удалось найти на устройстве приложения, поддерживающие \"пузыри\" диалога</string>
     <string name="bubble_app_manage">Управление \"пузырями\"</string>
+    <string name="bubble_mode_barrage_switch_tips">Включите для свернутых приложений отображение \"пузырей\" диалога в виде комментариев на экране</string>
+    <string name="bubble_mode_barrage_tips">\"Пузыри\" диалога для свернутых приложений будут отображаться в виде комментариев на экране</string>
     <string name="bubble_notification">\"Пузыри\" диалога</string>
     <string name="bubble_notification_switch">Показывать \"пузыри\"</string>
     <string name="bubble_notification_switch_desc">Когда мессенджер открыт в плавающем окне и скрыт у края экрана, входящие сообщения будут отображаться в виде \"пузырей\"</string>
@@ -1318,9 +1323,16 @@
     <string name="diagnostic_attention_dialog_message">Идет диагностика %1$s. Дождитесь завершения и повторите попытку.</string>
     <string name="dialog_app_roaming_message">%1$s не может использовать мобильный интернет в роуминге. Только приложения из списка исключений могут использовать мобильный интернет.</string>
     <string name="dialog_app_roaming_title">%1$s без доступа в интернет</string>
+    <string name="dialog_btn_delete_icon">Удалить</string>
+    <string name="dialog_btn_no_create_icon">Отмена</string>
+    <string name="dialog_btn_yes_create_icon">Добавить</string>
     <string name="dialog_change_package_type_summary">Изменение типа тарифа приведет к сбросу всех настроек передачи данных (например, лимитов трафика) до их значений по умолчанию. Изменить тип тарифа?</string>
     <string name="dialog_change_package_type_title">Изменение типа тарифа</string>
     <string name="dialog_msg_auto_start_declare">Некоторые приложения могут некорректно сообщать, что система не разрешила их запуск. Проверьте разрешения, выданные отдельным приложениям, в разделе Настройки &gt; Приложения.</string>
+    <string name="dialog_msg_create_icon_content">Добавить ярлык на рабочий стол?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">Больше не показывать</string>
+    <string name="dialog_msg_delete_icon_content">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
+    <string name="dialog_msg_delete_icon_title">Удалить ярлык с рабочего стола?</string>
     <string name="dialog_msg_stop_virus_scan">Остановить проверку?</string>
     <string name="dialog_no_longer_alert">Больше не показывать</string>
     <string name="dialog_remobe_luckymoney_cancle">Отмена</string>
@@ -2078,6 +2090,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент убийства</string>
     <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$s сек.)</string>
     <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
+    <string name="gb_beauty_cold_light">Холодный</string>
+    <string name="gb_beauty_face">Улучшение</string>
+    <string name="gb_beauty_light">Рассеянный свет</string>
+    <string name="gb_beauty_nature_light">Натуральный</string>
+    <string name="gb_beauty_warm_light">Теплый</string>
     <string name="gb_collimator_color">Цвет</string>
     <string name="gb_collimator_size">Размер</string>
     <string name="gb_collimator_style">Тип</string>
@@ -2719,6 +2736,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="manual_input_free_traffic">Расход льготного трафика</string>
     <string name="manual_input_traffic">Израсходованный трафик</string>
+    <string name="manual_item_create_icon_title">Ярлык на рабочем столе</string>
     <string name="manual_item_white_list_summary">Приложения из списка исключений не будут оптимизированы</string>
     <string name="manual_item_white_list_title">Исключения</string>
     <string name="mark_agent">Агентства</string>
@@ -3552,6 +3570,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_battery_detail">Прочая информация</string>
     <string name="power_center_battery_duration">Осталось</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
+    <string name="power_center_battery_duration_screen_on">Оставшееся экранное время</string>
     <string name="power_center_battery_hardware">Устройство: %s</string>
     <string name="power_center_battery_health_poor_tip">Похоже, батарея не в порядке. Проверьте её в авторизованном сервисном центре</string>
     <string name="power_center_battery_health_summary">Полностью зарядите и разрядите устройство %1$d-%2$d раз, чтобы повысить точность статистики состояния батареи</string>
@@ -3572,6 +3591,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_consume_fast">Быстрый разряд</string>
     <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить экономию заряда?</string>
     <string name="power_center_dialog_msg_title">Включите, чтобы увеличить время работы на %1$s. Для экономии заряда будут выполнены следующие действия:</string>
+    <string name="power_center_dialog_msg_title_screen_on">Вы получите %1$ экранного времени, если включите эту функцию. Следующие действия сэкономят заряд:</string>
     <string name="power_center_dialog_msg_top">Когда включена экономия заряда, MIUI выполнит следующие действия:</string>
     <string name="power_center_hints_scan_danger_result">Найдены объекты для оптимизации</string>
     <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
@@ -3684,6 +3704,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_idle">Режим ожидания</string>
     <string name="power_main_battery_last_day_hour">Заряда хватит на %1$s д. %2$s ч.</string>
     <string name="power_main_battery_last_hour_minute">Заряда хватит на %1$s ч. %2$s мин.</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">Осталось %1$s %2$s экранного времени</string>
+    <string name="power_main_open_last_hour_minute_screen_on">Включите, чтобы добавить %1$s %2$s экранного времени</string>
     <string name="power_mode_airplane_mode">Режим полета</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Через %1$d мин.</string>
     <string name="power_mode_auto_clean_memory">Очистка процессов</string>

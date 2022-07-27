@@ -111,6 +111,8 @@
     <string name="cancel_moving_dialog_message">Остановить импорт?</string>
     <string name="cancel_moving_dialog_title">Остановка импорта</string>
     <string name="cancel_restore">Отменить</string>
+    <string name="category_contacts">Контакты</string>
+    <string name="category_message_contacts">Сообщения и контакты</string>
     <string name="check_privacy_policy">Политика конфиденциальности</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_soft_ap_to_link">Выберите точку доступа для подключения</string>
@@ -562,6 +564,8 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="permission_read_storage_global">Доступ к хранилищу</string>
     <string name="permission_read_write_storage">Для возможности резервного копирования, разрешите этой функции доступ к хранилищу.</string>
     <string name="permission_read_write_sys_app">Для возможности резервного копирования и восстановления SMS, контактов и журнала вызовов, разрешите этой функции доступ к этим элементам.</string>
+    <string name="permission_read_write_sys_app1">Разрешите этой функции доступ к сообщениям и контактам для создания резервных копий и восстановления из них</string>
+    <string name="permission_read_write_sys_app2">Разрешите этой функции доступ к контактам для создания резервных копий и восстановления из них</string>
     <string name="permission_related">Разрешения</string>
     <string name="permission_restore_calendar">Для восстановления мероприятий календаря</string>
     <string name="permission_restore_calendar_desc">Для возможности восстановления мероприятий календаря, разрешите этому приложению их редактирование.</string>

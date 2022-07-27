@@ -752,6 +752,14 @@
         <item quantity="other">Устройство будет выключено через %d сек.</item>
         <item quantity="one">Устройство будет выключено через %d сек.</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">раз</item>
         <item quantity="one">раз</item>
@@ -846,6 +854,14 @@
         <item quantity="other">Осталось %s минут</item>
         <item quantity="one">Осталась %s минута</item>
         <item quantity="few">Осталось %s минуты</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Осталось %s мин. экранного времени</item>
+        <item quantity="one">Осталось %s мин. экранного времени</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Включите, чтобы добавить %s мин. экранного времени</item>
+        <item quantity="one">Включите, чтобы добавить %s мин. экранного времени</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Понятно (%d сек.)</item>

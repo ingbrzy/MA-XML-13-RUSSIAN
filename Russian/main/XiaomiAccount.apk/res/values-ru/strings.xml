@@ -142,6 +142,14 @@ ID вашего аккаунта: %s"</string>
     <string name="close">Закрыть</string>
     <string name="cloud_description_closed">Занято | Синхронизация отключена</string>
     <string name="cloud_description_normal">Занято</string>
+    <string name="cloud_member">Подписка</string>
+    <string name="cloud_member_status_expired">Истекла</string>
+    <string name="cloud_member_status_expired_soon">Истекает</string>
+    <string name="cloud_member_status_non_vip">Обновить</string>
+    <string name="cloud_member_vipname_free">Бесплатно</string>
+    <string name="cloud_member_vipname_mega">Мега</string>
+    <string name="cloud_member_vipname_premium">Премиум</string>
+    <string name="cloud_member_vipname_ultra">Ультра</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="cloud_service_status_backup_not_open">Резервное копирование отключено</string>
     <string name="cloud_service_status_cloud_not_open">Откл.</string>

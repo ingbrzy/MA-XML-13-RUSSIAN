@@ -141,6 +141,7 @@
     <string name="dlg_hide_message">Скрытие…</string>
     <string name="dlg_info_creating_message">Создание изображения…</string>
     <string name="dlg_info_save_to_gallery_message">Сохранение изображения в Галерее…</string>
+    <string name="dlg_info_save_to_local_message">Сохранение…</string>
     <string name="dlg_message_password_reset">Пароль скрытых заметок будет заменен на пароль конфиденциальности, который защищает приватные заметки, сообщения и фото</string>
     <string name="dlg_message_set_password">Пароль конфиденциальности защищает приватные заметки, сообщения и фото</string>
     <string name="dlg_message_use_privacy_password">Используйте пароль конфиденциальности. Он защищает приватные заметки, сообщения и фото.</string>
@@ -597,6 +598,8 @@
     <string name="permission_phone_state_desc">Для остановки записи голосовых заметок во время вызовов</string>
     <string name="permission_read_contact_desc">Связывание заметок, созданных во время вызовов, с контактами</string>
     <string name="permission_storage_desc">Для сохранения заметок в виде изображений</string>
+    <string name="permission_storage_desc_new_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
+    <string name="permission_storage_desc_pad_new_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_storage_desc_pad_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_storage_desc_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI сохранит ваши голосовые записи и ID устройства для транскрибирования и создания голосовых заметок. Узнайте больше о Mi AI в &lt;a href=\"%1$s\"&gt;Политике конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
@@ -686,6 +689,9 @@
     <string name="save_to_gallery_failure_message">Ошибка сохранения</string>
     <string name="save_to_gallery_icon_name">Сохранить в Галерее</string>
     <string name="save_to_gallery_success_message">Сохранено</string>
+    <string name="save_to_local_failure_message">Не удалось сохранить</string>
+    <string name="save_to_local_icon_name">Сохранить</string>
+    <string name="save_to_local_success_message">Сохранено</string>
     <string name="search">Заметки</string>
     <string name="search_hint">Поиск заметок</string>
     <string name="search_keyword_notes">Заметки;Памятка</string>
