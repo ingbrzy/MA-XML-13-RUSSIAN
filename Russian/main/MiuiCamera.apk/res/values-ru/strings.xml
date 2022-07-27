@@ -58,7 +58,7 @@
     <string name="accessibility_camera_record_stop">Запись видео остановлена</string>
     <string name="accessibility_camera_shutter_finish">Фото сделано</string>
     <string name="accessibility_camera_switch_capture_recording">Переключение между режимами фото и видео</string>
-    <string name="accessibility_camera_ultra_wide_bokeh_off">Полнокадровый режим включен</string>
+    <string name="accessibility_camera_ultra_wide_bokeh_off">Полнокадровый режим включён</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Полнокадровый режим выключен</string>
     <string name="accessibility_camera_video_960fps_120">%dFPS</string>
     <string name="accessibility_camera_video_960fps_240">%dFPS</string>
@@ -95,7 +95,7 @@
     <string name="accessibility_filter_close_panel">Отключить фильтры</string>
     <string name="accessibility_filter_open_panel">Включить фильтры</string>
     <string name="accessibility_filter_pad_close">Меню фильтров скрыто</string>
-    <string name="accessibility_flash_auto">Режим автовспышки включен</string>
+    <string name="accessibility_flash_auto">Режим автовспышки включён</string>
     <string name="accessibility_flash_back_soft_light">Мягкая вспышка включена</string>
     <string name="accessibility_flash_off">Вспышка отключена</string>
     <string name="accessibility_flash_on">Вспышка включена</string>
@@ -114,11 +114,11 @@
     <string name="accessibility_foucs_peak">Пиковое значение</string>
     <string name="accessibility_front_preview_status">Предпросмотр фронтальной камеры</string>
     <string name="accessibility_hdr">Режим HDR</string>
-    <string name="accessibility_hdr_auto">HDR Авто включен</string>
-    <string name="accessibility_hdr_live">HDR Live включен</string>
-    <string name="accessibility_hdr_normal">HDR Pro включен</string>
+    <string name="accessibility_hdr_auto">HDR Авто включён</string>
+    <string name="accessibility_hdr_live">HDR Live включён</string>
+    <string name="accessibility_hdr_normal">HDR Pro включён</string>
     <string name="accessibility_hdr_off">HDR отключен</string>
-    <string name="accessibility_hdr_on">HDR включен</string>
+    <string name="accessibility_hdr_on">HDR включён</string>
     <string name="accessibility_horizontal_shutter_off">Съемка в ландшафтном режиме отключена</string>
     <string name="accessibility_horizontal_shutter_on">Съемка в ландшафтном режиме</string>
     <string name="accessibility_intent_done_apply">Готово</string>
@@ -137,7 +137,7 @@
     <string name="accessibility_manually_custom_panel_on">Панель настройки</string>
     <string name="accessibility_mimoji_background_panel_on">Панель фонов</string>
     <string name="accessibility_mimoji_gif_off">Режим GIF отключен</string>
-    <string name="accessibility_mimoji_gif_on">Режим GIF включен</string>
+    <string name="accessibility_mimoji_gif_on">Режим GIF включён</string>
     <string name="accessibility_mimoji_image_panel_on">Панель аватаров</string>
     <string name="accessibility_mimoji_timbre_panel_on">Панель озвучивания</string>
     <string name="accessibility_mimovie_off">Кадрирование отключено</string>
@@ -193,10 +193,10 @@
     <string name="accessibility_shutter_saving_button">Сохранение</string>
     <string name="accessibility_stereo_button">Настройка фокуса</string>
     <string name="accessibility_super_eis_off">EIS отключен</string>
-    <string name="accessibility_super_eis_on">EIS включен</string>
-    <string name="accessibility_super_eis_pr_on">EIS PRO включен</string>
+    <string name="accessibility_super_eis_on">EIS включён</string>
+    <string name="accessibility_super_eis_pr_on">EIS PRO включён</string>
     <string name="accessibility_super_macro_off">Супермакро отключен</string>
-    <string name="accessibility_super_macro_on">Супермакро включен</string>
+    <string name="accessibility_super_macro_on">Супермакро включён</string>
     <string name="accessibility_super_moon_silhouette_panel_on">Панель редактирования</string>
     <string name="accessibility_tilt_shift_circle_button">Шифт-объектив. Круг.</string>
     <string name="accessibility_tilt_shift_parallel_button">Шифт-объектив. Параллель.</string>
@@ -211,9 +211,9 @@
     <string name="accessibility_ultra_pixel_photography_48mp_off">48MP откл.</string>
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP вкл.</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ультра HD отключен</string>
-    <string name="accessibility_ultra_pixel_photography_on">%s Ультра HD включен</string>
+    <string name="accessibility_ultra_pixel_photography_on">%s Ультра HD включён</string>
     <string name="accessibility_ultra_wide_off">Ультраширокоугольный режим отключен</string>
-    <string name="accessibility_ultra_wide_on">Ультраширокоугольный режим включен</string>
+    <string name="accessibility_ultra_wide_on">Ультраширокоугольный режим включён</string>
     <string name="accessibility_video_btn_play">Воспроизведение видео</string>
     <string name="accessibility_video_capture_button">Кнопка для фотографирования во время съемки видео</string>
     <string name="accessibility_video_pause_button">Запись видео приостановлена</string>
@@ -318,7 +318,7 @@
     <string name="ai_victoria_harbor">Бухта Виктория</string>
     <string name="ai_watermark_title">AI Водяной знак</string>
     <string name="ai_watermark_toast_off">AI Водяной знак отключен</string>
-    <string name="ai_watermark_toast_on">AI Водяной знак включен</string>
+    <string name="ai_watermark_toast_on">AI Водяной знак включён</string>
     <string name="ai_west_lake">Западное озеро</string>
     <string name="ai_wuhan">Ухань</string>
     <string name="ai_zhang_jia_jie">Чжанцзяцзе</string>
@@ -357,7 +357,7 @@
     <string name="autozoom_landscape_hint">Снимайте в ландшафтном режиме для лучшего эффекта</string>
     <string name="auxiliary_close_status">Отключить дополнительные эффекты</string>
     <string name="auxiliary_exposure_feedback_status">Проверка экспозиции включена</string>
-    <string name="auxiliary_focus_peak_status">Пик фокуса включен.</string>
+    <string name="auxiliary_focus_peak_status">Пик фокуса включён.</string>
     <string name="back_bokeh_use_hint">Держитесь от объекта съемки в пределах 1.5 метров</string>
     <string name="background">Фон</string>
     <string name="beauty_body">Фигура</string>
@@ -1613,7 +1613,7 @@
     <string name="pref_camera_picturesize_entry_standard">Стандартный 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Формат кадра</string>
     <string name="pref_camera_portrait_mode_entry_off">Режим \"Портрет\" отключен</string>
-    <string name="pref_camera_portrait_mode_entry_on">Режим \"Портрет\" включен</string>
+    <string name="pref_camera_portrait_mode_entry_on">Режим \"Портрет\" включён</string>
     <string name="pref_camera_portrait_mode_title">Портрет</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Улучшение в режиме \"Портрет\"</string>
     <string name="pref_camera_predictive_shutter_description">Режим \"Отслеживание движения\" позволяет уменьшить размытость движущихся объектов</string>
@@ -2162,7 +2162,7 @@
     <string name="ultra_pixel_photography_48mp_close_tip">48MP откл.</string>
     <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключен</string>
-    <string name="ultra_pixel_photography_open_tip">%s Ультра HD включен</string>
+    <string name="ultra_pixel_photography_open_tip">%s Ультра HD включён</string>
     <string name="ultra_pixel_portrait_hint">HD портрет</string>
     <string name="ultra_pixel_zoom_no_support_tip">Увеличение не работает в режиме %s Ультра HD</string>
     <string name="ultra_tele_use_hint_text_body">"Используйте 50-кратный зум для захвата удаленных объектов

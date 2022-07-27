@@ -65,9 +65,9 @@
     <string name="bluetooth_close">Bluetooth отключен этим приложением</string>
     <string name="bluetooth_disable_notification_content">Bluetooth отключен %s</string>
     <string name="bluetooth_disable_notification_title">Bluetooth отключен</string>
-    <string name="bluetooth_enable_notification_content">Bluetooth включен %s</string>
-    <string name="bluetooth_enable_notification_title">Bluetooth включен</string>
-    <string name="bluetooth_open">Bluetooth включен этим приложением</string>
+    <string name="bluetooth_enable_notification_content">Bluetooth включён %s</string>
+    <string name="bluetooth_enable_notification_title">Bluetooth включён</string>
+    <string name="bluetooth_open">Bluetooth включён этим приложением</string>
     <string name="bottle">Бутылка</string>
     <string name="bottom_bar_smallwindow_text">Отпустите, чтобы добавить</string>
     <string name="breeze">Бриз</string>
@@ -118,7 +118,7 @@
     <string name="dark_mode_suggest_message">Тёмный режим может автоматически включаться на закате и выключаться на рассвете. Включить эту функцию?</string>
     <string name="dark_mode_suggest_title">Автовключение режима</string>
     <string name="dark_mode_suggest_toast">Тёмный режим будет автоматически включаться на закате и выключаться на рассвете</string>
-    <string name="data_usage_context">Если Wi-Fi не включен, устройство подключится к мобильной сети, что может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
+    <string name="data_usage_context">Если Wi-Fi не включён, устройство подключится к мобильной сети, что может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
     <string name="daydream">Грезы</string>
     <string name="default_device_name">Неизвестное устройство</string>
     <string name="default_name">По умолчанию</string>
@@ -151,9 +151,9 @@
     <string name="enable_livetalk_summary">Экономьте 70% на исходящих вызовах</string>
     <string name="enable_livetalk_title">Включить пакет пополнения баланса</string>
     <string name="enable_midrop">Включить</string>
-    <string name="enable_nfc">Зарядка прекращена. NFC снова включен.</string>
+    <string name="enable_nfc">Зарядка прекращена. NFC снова включён.</string>
     <string name="enable_nfc_haptic_reverse">Обратная зарядка прекращена. NFC и вибрация снова включены.</string>
-    <string name="enable_nfc_reverse">Обратная зарядка прекращена. NFC снова включен.</string>
+    <string name="enable_nfc_reverse">Обратная зарядка прекращена. NFC снова включён.</string>
     <string name="expect">Ожидание</string>
     <string name="fadein">Нарастание</string>
     <string name="fadeout">Затухание</string>
@@ -432,7 +432,7 @@
     <string name="screen_on_proximity_sensor_summary">Не закрывайте область динамика</string>
     <string name="screen_on_proximity_sensor_summary_for_kddi">Не закрывайте датчик внешней освещенности</string>
     <string name="screen_on_proximity_sensor_title">Режим \"В кармане\"</string>
-    <string name="screen_paper_mode_enter_toast">Включен режим чтения. Для его отключения перейдите в Настройки &gt; Экран &gt; Режим чтения.</string>
+    <string name="screen_paper_mode_enter_toast">Включён режим чтения. Для его отключения перейдите в Настройки &gt; Экран &gt; Режим чтения.</string>
     <string name="screen_rotation_freeze_message">Ориентация экрана зафиксирована в альбомном режиме</string>
     <string name="screenshot_gesture_detect_alert_button">OK</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Больше не показывать</string>
@@ -526,8 +526,8 @@
     <string name="switching_tv">Переключение…</string>
     <string name="swoosh">Свист</string>
     <string name="takeback_camera_front_failed">Не удалось закрыть фронтальную камеру. Повторите попытку.</string>
-    <string name="talk_back_conflict_with_handy_mode">Режим управления одной рукой недоступен, когда включен TalkBack</string>
-    <string name="talk_back_water_mark_string1">TalkBack включен</string>
+    <string name="talk_back_conflict_with_handy_mode">Режим управления одной рукой недоступен, когда включён TalkBack</string>
+    <string name="talk_back_water_mark_string1">TalkBack включён</string>
     <string name="talk_back_water_mark_string2">Для отключения зажмите \"Громкость+\" и \"Громкость-\" на 3 секунды</string>
     <string name="throwing_print">Печать</string>
     <string name="throwing_screen">Трансляция</string>

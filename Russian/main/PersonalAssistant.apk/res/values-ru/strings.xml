@@ -584,7 +584,7 @@
     <string name="bluetooth_item_double_battery_level_left_invalid">Л: нет данных</string>
     <string name="bluetooth_item_double_battery_level_right">П: %d%%</string>
     <string name="bluetooth_item_double_battery_level_right_invalid">П: нет данных</string>
-    <string name="bluetooth_open_ok">Bluetooth включен</string>
+    <string name="bluetooth_open_ok">Bluetooth включён</string>
     <string name="bluetooth_setting_brief">Уровень заряда подключенных устройств</string>
     <string name="book_add">Добавить бронирование</string>
     <string name="book_add_date_diff">Дата выезда должна быть позже даты заезда.</string>
@@ -2335,7 +2335,7 @@ ID:%s
     <string name="setting_fav_remove_neg">Отмена</string>
     <string name="setting_fav_remove_posi">Ограничить</string>
     <string name="setting_fav_remove_title">Ограничение</string>
-    <string name="setting_fav_remove_toast_disable">Доступ к избранному включен</string>
+    <string name="setting_fav_remove_toast_disable">Доступ к избранному включён</string>
     <string name="setting_fav_remove_toast_enable">Доступ к избранному выключен</string>
     <string name="setting_football_brief">Вся информация о ваших любимых командах</string>
     <string name="setting_football_brief_detail">Просматривайте информацию, изучайте результаты и следите за футбольными командами</string>

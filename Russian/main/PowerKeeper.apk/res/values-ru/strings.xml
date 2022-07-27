@@ -300,7 +300,7 @@
     <string name="scenario_policies_title">Сценарии экономии</string>
     <string name="scenario_policies_warmcontrol">Контроль температуры</string>
     <string name="screen_off_current">Экран выключен</string>
-    <string name="screen_on_current">Экран включен</string>
+    <string name="screen_on_current">Экран включён</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_result_text">Приложения не найдены</string>

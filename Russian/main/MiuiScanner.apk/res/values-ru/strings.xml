@@ -258,7 +258,7 @@
     <string name="filename_cannot_beempty">Имя файла не может быть пустым</string>
     <string name="flash_close">отключить</string>
     <string name="flash_open">включить</string>
-    <string name="flight_mode_connecting_to_wifi">Включите Wi-Fi вручную, когда включен Режим полета</string>
+    <string name="flight_mode_connecting_to_wifi">Включите Wi-Fi вручную, когда включён Режим полета</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -348,7 +348,7 @@
     <string name="label_choose_picture">Выбор изображения</string>
     <string name="label_flash_light">Вспышка</string>
     <string name="label_flash_light_off">Фонарик отключен</string>
-    <string name="label_flash_light_on">Фонарик включен</string>
+    <string name="label_flash_light_on">Фонарик включён</string>
     <string name="language_entry_chinese_cn">Китайский (упрощенный)</string>
     <string name="language_entry_english">Английский</string>
     <string name="language_entry_french">Французский</string>
@@ -519,7 +519,7 @@
     <string name="offline_translation">Офлайн-перевод</string>
     <string name="once">Только один раз</string>
     <string name="online_ocr_recognition">OCR распознавание онлайн</string>
-    <string name="online_ocr_recognition_str">Онлайн-перевод уже включен</string>
+    <string name="online_ocr_recognition_str">Онлайн-перевод уже включён</string>
     <string name="online_translation">Онлайн-перевод</string>
     <string name="open_file_error">Не удалось открыть файл</string>
     <string name="open_url">Перейти</string>

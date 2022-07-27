@@ -285,7 +285,7 @@
     <string name="confignet_cancel">Отмена</string>
     <string name="confignet_download_title">Установите Mi Фитнес, чтобы продолжить</string>
     <string name="confirm">ОК</string>
-    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
+    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
     <string name="connected_via_app">Подключено через %1$s</string>
@@ -539,7 +539,7 @@
     <string name="instructions">Нажмите кнопку для выполнения</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="keep_screen_on">Не выключать экран</string>
-    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
+    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keywords_alarms_and_reminders">расписание, будильник, напоминание, часы</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
     <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
@@ -1129,7 +1129,7 @@
     <string name="wifi_display_certification">Параметры сертификации</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
     <string name="wifi_enhanced_mac_randomization">Непостоянная рандомизация MAC-адреса</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети с доступной рандомизацией MAC-адреса.</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включён, MAC-адрес устройства будет меняться при каждом подключении к сети с доступной рандомизацией MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>
     <string name="wifi_hotspot_switch_off_text">Откл.</string>

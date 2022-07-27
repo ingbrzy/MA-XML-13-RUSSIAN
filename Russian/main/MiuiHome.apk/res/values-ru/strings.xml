@@ -430,7 +430,7 @@
     <string name="guide_tips_editing_mode">Удерживайте виджет для его перемещения</string>
     <string name="hide_apps_title">Скрытие приложений</string>
     <string name="home_gesture_content_center">Контент-центр</string>
-    <string name="home_gesture_global_search">Включен</string>
+    <string name="home_gesture_global_search">Включён</string>
     <string name="home_gesture_no_action">Отключен</string>
     <string name="home_gesture_notification_bar">Уведомления</string>
     <string name="home_pull_down_action">Свайп вниз на рабочем столе</string>

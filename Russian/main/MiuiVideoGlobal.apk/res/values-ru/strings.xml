@@ -610,7 +610,7 @@ ID: %s
     <string name="galleryplus_online_cta_title">Условия и положения</string>
     <string name="galleryplus_online_video_loading">Подождите…</string>
     <string name="galleryplus_orientation_lock">Автоповорот выключен</string>
-    <string name="galleryplus_orientation_unlock">Автоповорот включен</string>
+    <string name="galleryplus_orientation_unlock">Автоповорот включён</string>
     <string name="galleryplus_permission_content">Предоставьте приложению Mi Видео необходимые разрешения, чтобы использовать эту функцию.</string>
     <string name="galleryplus_permission_content2">"Чтобы использовать эту функцию, предоставьте приложению следующие разрешения:
 

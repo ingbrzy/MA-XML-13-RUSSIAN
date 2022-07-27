@@ -168,7 +168,7 @@
     <string name="accessibility_service_screen_control_title">Просмотр и управление экраном</string>
     <string name="accessibility_service_warning_description">Полный контроль над устройством для реализации специальных возможностей.</string>
     <string name="accessibility_shortcut_disabling_service">Сервис %1$s отключен</string>
-    <string name="accessibility_shortcut_enabling_service">Сервис %1$s включен</string>
+    <string name="accessibility_shortcut_enabling_service">Сервис %1$s включён</string>
     <string name="accessibility_shortcut_menu_item_status_off">ОТКЛ.</string>
     <string name="accessibility_shortcut_menu_item_status_on">ВКЛ.</string>
     <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
@@ -282,7 +282,7 @@
     <string name="app_suspended_title">Приложение недоступно</string>
     <string name="app_suspended_unsuspend_message">Возобновить работу приложения</string>
     <string name="app_upgrading_toast">Обновление приложения \"%1$s\"…</string>
-    <string name="as_app_forced_to_restricted_bucket">Для приложения %1$s включен режим ограничения</string>
+    <string name="as_app_forced_to_restricted_bucket">Для приложения %1$s включён режим ограничения</string>
     <string name="autofill">Автозаполнение</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
@@ -522,7 +522,7 @@
     <string name="dump_heap_text">Процесс \"%1$s\" превысил объем памяти (%2$s). Можно отправить созданный дамп кучи разработчику. Обратите внимание, файл может содержать личные данные, доступные приложению.</string>
     <string name="dump_heap_title">Отправить дамп кучи?</string>
     <string name="dynamic_mode_notification_channel_name">Уведомление об экономии заряда</string>
-    <string name="dynamic_mode_notification_summary">Чтобы увеличить время работы от батареи, был включен режим экономии заряда.</string>
+    <string name="dynamic_mode_notification_summary">Чтобы увеличить время работы от батареи, был включён режим экономии заряда.</string>
     <string name="dynamic_mode_notification_title">Батарея может разрядиться раньше обычного</string>
     <string name="editTextMenuTitle">Операции с текстом</string>
     <string name="edit_accessibility_shortcut_menu_button">Редактировать ярлыки</string>
@@ -1627,7 +1627,7 @@
   </string>
     <string name="personal_apps_suspended_turn_profile_on">Включить</string>
     <string name="personal_apps_suspension_soon_text">Личные приложения на %1$s будут заблокированы на %2$s. Отключение рабочего профиля более %3$d д. не разрешено вашим ИТ-администратором.</string>
-    <string name="personal_apps_suspension_text">Личные приложения будут заблокированы до тех пор, пока не будет включен рабочий профиль.</string>
+    <string name="personal_apps_suspension_text">Личные приложения будут заблокированы до тех пор, пока не будет включён рабочий профиль.</string>
     <string name="personal_apps_suspension_title">Включить рабочий профиль</string>
     <string name="petabyteShort">" ПБ"</string>
     <string name="phoneTypeAssistant">Секретарь</string>
@@ -1768,10 +1768,10 @@
     <string name="ringtone_picker_title_notification">Мелодии уведомлений</string>
     <string name="ringtone_silent">Без звука</string>
     <string name="ringtone_unknown">Неизвестно</string>
-    <string name="roamingText0">Индикатор роуминга включен</string>
+    <string name="roamingText0">Индикатор роуминга включён</string>
     <string name="roamingText1">Индикатор роуминга отключен</string>
     <string name="roamingText10">Роуминг – частичная функциональность службы</string>
-    <string name="roamingText11">Баннер роуминга включен</string>
+    <string name="roamingText11">Баннер роуминга включён</string>
     <string name="roamingText12">Баннер роуминга выключен</string>
     <string name="roamingText2">Индикатор роуминга мигает</string>
     <string name="roamingText3">За пределами домашней сети</string>
@@ -1864,7 +1864,7 @@
     <string name="shutdown_confirm_question">Завершить работу?</string>
     <string name="shutdown_progress">Выключение…</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
-    <string name="silent_mode_ring">Звонок включен</string>
+    <string name="silent_mode_ring">Звонок включён</string>
     <string name="silent_mode_silent">Звонок отключен</string>
     <string name="silent_mode_vibrate">Вибросигнал</string>
     <string name="sim_added_message">Перезагрузите устройство для доступа к мобильной сети.</string>
@@ -1933,7 +1933,7 @@
     <string name="taking_remote_bugreport_notification_title">Подготовка отчёта об ошибке</string>
     <string name="terabyteShort">" TБ"</string>
     <string name="test_harness_mode_notification_message">Для отключения тестового режима выполните сброс к заводским настройкам.</string>
-    <string name="test_harness_mode_notification_title">Включен тестовый режим</string>
+    <string name="test_harness_mode_notification_title">Включён тестовый режим</string>
     <string name="tethered_notification_message">Нажмите для настройки.</string>
     <string name="tethered_notification_multi_device_message">Подключенные устройства: %1$s</string>
     <string name="tethered_notification_no_device_message">Нет подключенных устройств</string>
@@ -2136,7 +2136,7 @@
     <string name="wifi_no_internet_detailed">Нажмите, чтобы показать варианты.</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки.</string>
-    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
+    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включён</string>
     <string name="wifi_p2p_enter_pin_message">Введите PIN-код:</string>
     <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct.</string>
     <string name="wifi_p2p_frequency_conflict_message">При подключении к устройству %1$s телефон будет временно отключаться от сети Wi-Fi</string>
@@ -2154,7 +2154,7 @@
     <string name="wifi_suggestion_content">Предложение от %s</string>
     <string name="wifi_suggestion_title">Подключиться к сети Wi-Fi?</string>
     <string name="wifi_wakeup_enabled_content">Доступна сохраненная сеть %1$s.</string>
-    <string name="wifi_wakeup_enabled_title">Wi-Fi включен автоматически</string>
+    <string name="wifi_wakeup_enabled_title">Wi-Fi включён автоматически</string>
     <string name="wifi_wakeup_onboarding_action_disable">Не включать снова</string>
     <string name="wifi_wakeup_onboarding_subtext">Когда будет доступна сохраненная сеть с хорошим сигналом</string>
     <string name="wifi_wakeup_onboarding_title">Wi-Fi включится автоматически</string>

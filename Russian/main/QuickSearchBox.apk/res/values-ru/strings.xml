@@ -176,7 +176,7 @@
     <string name="debug_http_request_viewer">Показывать сетевые запросы</string>
     <string name="debug_http_request_viewer_back">Назад</string>
     <string name="debug_http_response_data">Данные ответа</string>
-    <string name="debug_mode_toast">Включен режим разработчика. Вы можете отключить эту функцию в Настройках.</string>
+    <string name="debug_mode_toast">Включён режим разработчика. Вы можете отключить эту функцию в Настройках.</string>
     <string name="debug_server_preview_mode">Предпросмотр на стороне сервера</string>
     <string name="debug_web_preview_mode">Предпросмотр</string>
     <string name="default_download_path_dialog_title">Восстановить папку по умолчанию?</string>

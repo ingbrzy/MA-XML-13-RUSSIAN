@@ -1345,7 +1345,7 @@
     <string name="permission_tip">Ошибка конфигурации. Разрешите звонки и текстовые сообщения при настройке конфигурации.</string>
     <string name="permission_write_contacts_subtitle">Для отображения и изменения адресов электронной почты контактов</string>
     <string name="permission_write_external_storage_title">Доступ к фото и файлам на устройстве</string>
-    <string name="personal_data_collection_summary">Когда переключатель включен, это означает ваше согласие на сбор личных данных. Вы можете в любой момент отключить его, чтобы отозвать авторизацию и удалить свои данные с наших серверов.</string>
+    <string name="personal_data_collection_summary">Когда переключатель включён, это означает ваше согласие на сбор личных данных. Вы можете в любой момент отключить его, чтобы отозвать авторизацию и удалить свои данные с наших серверов.</string>
     <string name="personal_data_collection_title">Сбор личных данных</string>
     <string name="phone">телефоном</string>
     <string name="photo_load_failed">Не удалось загрузить изображение</string>

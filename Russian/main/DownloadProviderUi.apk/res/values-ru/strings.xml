@@ -44,7 +44,7 @@
     <string name="ad_title">Люди также скачивают их с %1$s </string>
     <string name="ad_title_other">С этим изображением люди также скачивают</string>
     <string name="add_flow_fail_haveget_msg">Пробный период истёк.</string>
-    <string name="add_flow_fail_vip_msg">Xunlei ускоритель загрузки включен</string>
+    <string name="add_flow_fail_vip_msg">Xunlei ускоритель загрузки включён</string>
     <string name="add_flow_success_msg">%s добавлено в этом месяце</string>
     <string name="afternoon">После полудня</string>
     <string name="all_downloads">Все загрузки</string>

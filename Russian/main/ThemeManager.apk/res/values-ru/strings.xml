@@ -506,7 +506,7 @@
     <string name="local_mode_close">Отключить офлайн-режим?</string>
     <string name="local_mode_close_desc">Отключите офлайн-режим, если хотите использовать онлайн-сервисы. Отключить?</string>
     <string name="local_mode_desc">В офлайн-режиме используется только локальный контент, онлайн-сервисы недоступны.</string>
-    <string name="local_mode_hint">"Включен офлайн-режим.
+    <string name="local_mode_hint">"Включён офлайн-режим.
 Нажмите, чтобы отключить."</string>
     <string name="local_mode_open">Офлайн-режим</string>
     <string name="local_photos">Фото на устройстве</string>

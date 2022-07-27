@@ -800,7 +800,7 @@
     <string name="error_no_cta_permission_msg">Доступ к сети ограничен.</string>
     <string name="error_no_cta_permission_tip">Доступ к сети ограничен</string>
     <string name="error_no_network_action">Настройки сети</string>
-    <string name="error_no_network_msg">Убедитесь, что ваше устройство подключено к Wi-Fi или включен мобильный интернет.</string>
+    <string name="error_no_network_msg">Убедитесь, что ваше устройство подключено к Wi-Fi или включён мобильный интернет.</string>
     <string name="error_no_network_tip">Не удалось подключиться к сети</string>
     <string name="error_no_wifi_action">Продолжить</string>
     <string name="error_no_wifi_msg">Отсутствует подключение к Wi-Fi. Использование мобильного интернета может вызвать дополнительные затраты.</string>
@@ -1439,7 +1439,7 @@
     <string name="magic_video_make">Начать</string>
     <string name="magic_video_soundtrack">Саундтрек</string>
     <string name="magic_video_soundtrack_is_turned_off">Оригинальный звук отключен</string>
-    <string name="magic_video_soundtrack_is_turned_on">Оригинальный звук включен</string>
+    <string name="magic_video_soundtrack_is_turned_on">Оригинальный звук включён</string>
     <string name="magic_width">Ширина</string>
     <string name="magic_zidiyi">Пользовательский</string>
     <string name="main_discard_confirm_message">У вас есть несохраненные изменения</string>
@@ -1844,7 +1844,7 @@
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orientation_lock_tip">Автоповорот выключен</string>
-    <string name="orientation_unlock_tip">Автоповорот включен</string>
+    <string name="orientation_unlock_tip">Автоповорот включён</string>
     <string name="origin_gif_name">оригинал</string>
     <string name="origin_image_name">оригинал</string>
     <string name="origin_video_name">видео</string>
@@ -2910,7 +2910,7 @@
     <string name="toast_invalid_char">Имя файла не может содержать \"%s\"</string>
     <string name="toast_invalid_prefix">Имя файла не может начинаться с \".\" или \"_\"</string>
     <string name="toast_orientation_locked">Автоповорот выключен</string>
-    <string name="toast_orientation_unlock">Автоповорот включен</string>
+    <string name="toast_orientation_unlock">Автоповорот включён</string>
     <string name="toast_rename_exit">Файл уже существует</string>
     <string name="today">Сегодня</string>
     <string name="today_of_year">В этот день</string>

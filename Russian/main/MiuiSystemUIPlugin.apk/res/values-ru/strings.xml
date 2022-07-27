@@ -161,7 +161,7 @@
     <string name="icon_content_description">Иконка диалога</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="kddi_miui_toast_zen_standard_to_off">Режим \"Без звука\" отключен. Звуки рингтонов и уведомлений включены.</string>
-    <string name="kddi_miui_toast_zen_to_standard">Включен режим \"Без звука\". Звуки рингтонов и уведомлений отключены.</string>
+    <string name="kddi_miui_toast_zen_to_standard">Включён режим \"Без звука\". Звуки рингтонов и уведомлений отключены.</string>
     <string name="loading">Неизвестно</string>
     <string name="material_slider_range_end">Конец диапазона,</string>
     <string name="material_slider_range_start">Начало диапазона,</string>
@@ -198,14 +198,14 @@
     <string name="miui_ringer_total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
     <string name="miui_screen_rotation_freeze_message">Ориентация экрана зафиксирована в альбомном режиме</string>
     <string name="miui_toast_zen_dnd_to_off"> Режим \"Не беспокоить\" отключен. Звук и вибрация включены.</string>
-    <string name="miui_toast_zen_dnd_to_off_T">Звук уведомлений включен</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Звук уведомлений включён</string>
     <string name="miui_toast_zen_standard_to_off">Режим \"Без звука\" отключен</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Режим \"Без звука\" отключен. Звуки рингтонов, уведомлений и мультимедиа включены.</string>
-    <string name="miui_toast_zen_to_dnd">Включен режим \"Не беспокоить\". Звук и вибрация отключены.</string>
+    <string name="miui_toast_zen_to_dnd">Включён режим \"Не беспокоить\". Звук и вибрация отключены.</string>
     <string name="miui_toast_zen_to_dnd_T">Звук уведомлений отключен</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Звуки рингтонов и уведомлений будут отключены при блокировке устройства</string>
-    <string name="miui_toast_zen_to_standard">Включен режим \"Без звука\"</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">Включен режим \"Без звука\". Звуки рингтонов, уведомлений и мультимедиа отключены.</string>
+    <string name="miui_toast_zen_to_standard">Включён режим \"Без звука\"</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Включён режим \"Без звука\". Звуки рингтонов, уведомлений и мультимедиа отключены.</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
@@ -335,7 +335,7 @@
     <string name="quick_settings_bluetooth_detail_empty_text">Нет подключенных устройств</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет (WCDMA/LTE) будет отключен. Если Wi-Fi отключен, вы не сможете использовать приложения, которым требуется передача данных. Отправка и получение мультимедийных сообщений будут ограничены.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включен мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включён мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отмена</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ОК</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Отключить</string>

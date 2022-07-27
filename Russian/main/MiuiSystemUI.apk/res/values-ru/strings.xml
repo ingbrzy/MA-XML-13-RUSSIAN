@@ -90,7 +90,7 @@
     <string name="accessibility_casting_turned_off">Трансляция прекращена.</string>
     <string name="accessibility_cell_data">Мобильный интернет</string>
     <string name="accessibility_cell_data_off">Мобильный интернет отключен</string>
-    <string name="accessibility_cell_data_on">Мобильный интернет включен</string>
+    <string name="accessibility_cell_data_on">Мобильный интернет включён</string>
     <string name="accessibility_clear_all">Удалить все уведомления.</string>
     <string name="accessibility_compatibility_zoom_button">Кнопка масштабирования (режим совместимости).</string>
     <string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране.</string>
@@ -173,7 +173,7 @@
 
 "<annotation id="link">Настройки</annotation></string>
     <string name="accessibility_gps_acquiring">Установление связи с GPS.</string>
-    <string name="accessibility_gps_enabled">GPS включен.</string>
+    <string name="accessibility_gps_enabled">GPS включён.</string>
     <string name="accessibility_home">Домой</string>
     <string name="accessibility_ime_switch_button">Переключение способа ввода.</string>
     <string name="accessibility_key">Пользовательская кнопка навигации</string>
@@ -241,21 +241,21 @@
     <string name="accessibility_qs_edit_tile_start_add">Добавить кнопку</string>
     <string name="accessibility_qs_edit_tile_start_move">Переместить кнопку</string>
     <string name="accessibility_quick_settings_airplane_changed_off">Режим полета отключен.</string>
-    <string name="accessibility_quick_settings_airplane_changed_on">Режим полета включен.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Режим полета включён.</string>
     <string name="accessibility_quick_settings_airplane_off">Режим полета отключен.</string>
-    <string name="accessibility_quick_settings_airplane_on">Режим полета включен.</string>
+    <string name="accessibility_quick_settings_airplane_on">Режим полета включён.</string>
     <string name="accessibility_quick_settings_alarm">Будильник установлен на %s.</string>
-    <string name="accessibility_quick_settings_alarm_on">Будильник включен.</string>
+    <string name="accessibility_quick_settings_alarm_on">Будильник включён.</string>
     <string name="accessibility_quick_settings_alarm_set">Будильник установлен.</string>
     <string name="accessibility_quick_settings_battery">Батарея %s.</string>
     <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
     <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth отключен.</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth включен.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth включён.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">Соединение Bluetooth установлено.</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">Соединение Bluetooth устанавливается.</string>
     <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Заряд батареи устройства Bluetooth в процентах: %d.</string>
     <string name="accessibility_quick_settings_bluetooth_off">Bluetooth отключен.</string>
-    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth включен.</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth включён.</string>
     <string name="accessibility_quick_settings_choose_user_action">Выбор пользователя</string>
     <string name="accessibility_quick_settings_close">Закрыть панель.</string>
     <string name="accessibility_quick_settings_collapse">Свернуть быстрые настройки.</string>
@@ -265,18 +265,18 @@
     <string name="accessibility_quick_settings_data_saver_changed_on">Экономия трафика включена.</string>
     <string name="accessibility_quick_settings_detail">Быстрые настройки, %s.</string>
     <string name="accessibility_quick_settings_dnd">Не беспокоить.</string>
-    <string name="accessibility_quick_settings_dnd_alarms_on">Режим \"Не беспокоить\" включен, только будильники.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Режим \"Не беспокоить\" включён, только будильники.</string>
     <string name="accessibility_quick_settings_dnd_changed_off">Режим \"Не беспокоить\" отключен.</string>
-    <string name="accessibility_quick_settings_dnd_changed_on">Режим \"Не беспокоить\" включен.</string>
-    <string name="accessibility_quick_settings_dnd_none_on">Режим \"Не беспокоить\" включен, полная тишина.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">Режим \"Не беспокоить\" включён.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">Режим \"Не беспокоить\" включён, полная тишина.</string>
     <string name="accessibility_quick_settings_dnd_off">Режим \"Не беспокоить\" отключен.</string>
-    <string name="accessibility_quick_settings_dnd_priority_on">Режим \"Не беспокоить\" включен, только важные уведомления.</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">Режим \"Не беспокоить\" включён, только важные уведомления.</string>
     <string name="accessibility_quick_settings_edit">Изменить порядок настроек.</string>
     <string name="accessibility_quick_settings_expand">Развернуть быстрые настройки.</string>
     <string name="accessibility_quick_settings_flashlight_changed_off">Фонарик отключен.</string>
-    <string name="accessibility_quick_settings_flashlight_changed_on">Фонарик включен.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Фонарик включён.</string>
     <string name="accessibility_quick_settings_flashlight_off">Фонарик отключен.</string>
-    <string name="accessibility_quick_settings_flashlight_on">Фонарик включен.</string>
+    <string name="accessibility_quick_settings_flashlight_on">Фонарик включён.</string>
     <string name="accessibility_quick_settings_flashlight_unavailable">Фонарик недоступен.</string>
     <string name="accessibility_quick_settings_hotspot_changed_off">Мобильная точка доступа отключена.</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Мобильная точка доступа включена.</string>
@@ -296,16 +296,16 @@
     <string name="accessibility_quick_settings_rotation">Автоповорот экрана</string>
     <string name="accessibility_quick_settings_rotation_value">%s ориентация</string>
     <string name="accessibility_quick_settings_sensor_privacy_changed_off">Сканер отключен.</string>
-    <string name="accessibility_quick_settings_sensor_privacy_changed_on">Сканер включен.</string>
+    <string name="accessibility_quick_settings_sensor_privacy_changed_on">Сканер включён.</string>
     <string name="accessibility_quick_settings_settings">Открыть настройки.</string>
     <string name="accessibility_quick_settings_user">Выполнен вход под именем %s</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi отключен.</string>
-    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi включен.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi включён.</string>
     <string name="accessibility_quick_settings_work_mode_changed_off">Рабочий режим приостановлен.</string>
-    <string name="accessibility_quick_settings_work_mode_changed_on">Рабочий режим включен.</string>
+    <string name="accessibility_quick_settings_work_mode_changed_on">Рабочий режим включён.</string>
     <string name="accessibility_quick_settings_work_mode_off">Рабочий режим отключен.</string>
-    <string name="accessibility_quick_settings_work_mode_on">Рабочий режим включен.</string>
+    <string name="accessibility_quick_settings_work_mode_on">Рабочий режим включён.</string>
     <string name="accessibility_recent">Обзор</string>
     <string name="accessibility_recent_task_exit">Недавние закрыты</string>
     <string name="accessibility_recent_task_locked">Закреплено, сдвиньте вниз для открепления.</string>
@@ -324,7 +324,7 @@
     <string name="accessibility_ringer_vibrate">Вибровызов.</string>
     <string name="accessibility_rotate_button">Повернуть экран</string>
     <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически.</string>
-    <string name="accessibility_rotation_lock_off_changed">Автоповорот экрана включен.</string>
+    <string name="accessibility_rotation_lock_off_changed">Автоповорот экрана включён.</string>
     <string name="accessibility_rotation_lock_on_landscape">Выбрана только альбомная ориентация экрана.</string>
     <string name="accessibility_rotation_lock_on_landscape_changed">Экран зафиксирован в горизонтальном положении.</string>
     <string name="accessibility_rotation_lock_on_portrait">Выбрана только книжная ориентация экрана.</string>
@@ -349,7 +349,7 @@
     <string name="accessibility_status_bar_slave_wifi_three_bars">Вспомогательный Wi-Fi три деления.</string>
     <string name="accessibility_status_bar_slave_wifi_two_bars">Вспомогательный Wi-Fi два деления.</string>
     <string name="accessibility_three_bars">Три деления.</string>
-    <string name="accessibility_tty_enabled">Телетайп включен.</string>
+    <string name="accessibility_tty_enabled">Телетайп включён.</string>
     <string name="accessibility_two_bars">Два деления.</string>
     <string name="accessibility_udfps_disabled_button">Сканер отпечатков отключен</string>
     <string name="accessibility_unlock_button">Разблокировать</string>
@@ -359,7 +359,7 @@
     <string name="accessibility_volume_collapse">Свернуть</string>
     <string name="accessibility_volume_expand">Развернуть</string>
     <string name="accessibility_volume_settings">Настройки звука</string>
-    <string name="accessibility_vpn_on">VPN включен.</string>
+    <string name="accessibility_vpn_on">VPN включён.</string>
     <string name="accessibility_waiting_for_fingerprint">Отсканируйте отпечаток пальца</string>
     <string name="accessibility_wallet_button">Кошелёк</string>
     <string name="accessibility_wifi_name">Подключено к %s.</string>
@@ -779,7 +779,7 @@
     <string name="config_rat_unknown" />
     <string name="config_screenshotEditor" />
     <string name="confirm">ОК</string>
-    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
+    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
     <string name="confirm_pin_msg">Повторите PIN-код</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
@@ -959,7 +959,7 @@
     <string name="dlg_error_title">USB операция не удалась</string>
     <string name="dlg_ok">OK</string>
     <string name="dnd_is_off">Режим \"Не беспокоить\" отключен</string>
-    <string name="dnd_notification_warnings_title">Включен режим \"Не беспокоить\". Звук и вибрация отключены.</string>
+    <string name="dnd_notification_warnings_title">Включён режим \"Не беспокоить\". Звук и вибрация отключены.</string>
     <string name="dnd_suppressing_shade_text">Уведомления приостановлены режимом \"Не беспокоить\"</string>
     <string name="do_disclosure_generic">Это устройство принадлежит вашей организации</string>
     <string name="do_disclosure_with_name">Это устройство принадлежит %s</string>
@@ -1051,7 +1051,7 @@
     <string name="face_data_input_msg">Разместите лицо внутри рамки</string>
     <string name="face_data_input_ok">Готово</string>
     <string name="face_data_input_ok_msg">Для разблокировки по лицу включите экран.</string>
-    <string name="face_data_input_ok_msg_angle">"Разблокируйте устройство по лицу, когда экран включен.
+    <string name="face_data_input_ok_msg_angle">"Разблокируйте устройство по лицу, когда экран включён.
 (Запишите данные лица под всеми требуемыми углами.)"</string>
     <string name="face_data_input_ok_title">Данные успешно добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
@@ -1379,7 +1379,7 @@
     <string name="invalid_sim_puk_hint">PUK должен содержать не менее 8 цифр</string>
     <string name="item_view_role_description">Вкладка</string>
     <string name="keep_screen_on">Не выключать экран</string>
-    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
+    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keyboard_key_back">Назад</string>
     <string name="keyboard_key_backspace">Backspace</string>
     <string name="keyboard_key_button_template">Кнопка %1$s</string>
@@ -1782,10 +1782,10 @@ dd.MM"</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Звуки рингтонов, уведомлений и мультимедиа включены</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Режим \"Без звука\" отключен. Звуки уведомлений и мультимедиа, вибрация включены.</string>
     <string name="miui_toast_zen_to_dnd">Звук и вибрация отключены</string>
-    <string name="miui_toast_zen_to_dnd_version_R">Включен режим \"Не беспокоить\". Звук и вибрация отключены.</string>
+    <string name="miui_toast_zen_to_dnd_version_R">Включён режим \"Не беспокоить\". Звук и вибрация отключены.</string>
     <string name="miui_toast_zen_to_standard">Звуки рингтонов и уведомлений отключены</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Звук отключен</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Включен режим \"Без звука\". Звук и вибрация отключены.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Включён режим \"Без звука\". Звук и вибрация отключены.</string>
     <string name="miui_unimportant_notifications">Неважные уведомления</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
@@ -2336,9 +2336,9 @@ mm"</string>
     <string name="qs_customize_remove">Удалить</string>
     <string name="qs_customize_title">Сортировка</string>
     <string name="qs_dnd_keep">Оставить</string>
-    <string name="qs_dnd_prompt_app">Режим \"Не беспокоить\" был включен приложением (%s).</string>
-    <string name="qs_dnd_prompt_auto_rule">Режим \"Не беспокоить\" был включен специальным правилом (%s).</string>
-    <string name="qs_dnd_prompt_auto_rule_app">Режим \"Не беспокоить\" был включен специальным правилом или приложением.</string>
+    <string name="qs_dnd_prompt_app">Режим \"Не беспокоить\" был включён приложением (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule">Режим \"Не беспокоить\" был включён специальным правилом (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule_app">Режим \"Не беспокоить\" был включён специальным правилом или приложением.</string>
     <string name="qs_dnd_replace">Заменить</string>
     <string name="qs_dnd_until">До %s</string>
     <string name="qs_edit">Сортировка</string>
@@ -2384,7 +2384,7 @@ mm"</string>
     <string name="quick_settings_cellular_detail_data_used">%s использовано</string>
     <string name="quick_settings_cellular_detail_data_warning">%s предупреждение</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет (WCDMA/LTE) будет отключен. Если Wi-Fi отключен, вы не сможете использовать приложения, которым требуется передача данных. Отправка и получение мультимедийных сообщений будут ограничены.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включен мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включён мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отмена</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ОК</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Отключить</string>
@@ -2455,7 +2455,7 @@ mm"</string>
     <string name="quick_settings_networks_unavailable">Сети недоступны</string>
     <string name="quick_settings_nfc_label">NFC</string>
     <string name="quick_settings_nfc_off">NFC отключен</string>
-    <string name="quick_settings_nfc_on">NFC включен</string>
+    <string name="quick_settings_nfc_on">NFC включён</string>
     <string name="quick_settings_night_display_label">Ночной режим</string>
     <string name="quick_settings_night_secondary_label_on_at">С %s</string>
     <string name="quick_settings_night_secondary_label_on_at_sunset">На закате</string>
@@ -3015,7 +3015,7 @@ d MMMM"</string>
     <string name="torch_activity_name">Фонарик</string>
     <string name="torch_closed">Фонарик выключен</string>
     <string name="torch_high_temperature_warning">Устройство перегрелось. Фонарик недоступен.</string>
-    <string name="torch_opened">Фонарик включен</string>
+    <string name="torch_opened">Фонарик включён</string>
     <string name="touch_filtered_warning">Настройки не могут проверить ваш ответ, потому что приложение скрывает запрос на разрешение.</string>
     <string name="track_frame_time">Профилировать HWUI-отрисовку</string>
     <string name="traffic_unit_byte">" Б"</string>
@@ -3063,7 +3063,7 @@ d MMMM"</string>
     <string name="tuner_app">Приложение %1$s</string>
     <string name="tuner_circle">Круг</string>
     <string name="tuner_doze">Активный экран</string>
-    <string name="tuner_doze_always_on">Всегда включен</string>
+    <string name="tuner_doze_always_on">Всегда включён</string>
     <string name="tuner_full_importance_settings">Расширенное управление уведомлениями</string>
     <string name="tuner_full_importance_settings_off">Откл</string>
     <string name="tuner_full_importance_settings_on">Вкл</string>
@@ -3133,7 +3133,7 @@ d MMMM"</string>
     <string name="usb_notification_mtp_ticker_text">USB подключен (файлы)</string>
     <string name="usb_notification_ptp_info">Доступ к фото с компьютера</string>
     <string name="usb_notification_ptp_ticker_text">USB подключен (фото)</string>
-    <string name="usb_port_enabled">USB-порт включен для обнаружения зарядных устройств и аксессуаров</string>
+    <string name="usb_port_enabled">USB-порт включён для обнаружения зарядных устройств и аксессуаров</string>
     <string name="usb_port_overheated_dialog_content">Порт зарядки перегрет. Отключите зарядное устройство от устройства и проверьте чистоту порта зарядки. Обратитесь в службу поддержки, если у вас есть вопросы.</string>
     <string name="usb_port_overheated_notification_content">Отключите зарядное устройство от устройства и проверьте чистоту порта зарядки.</string>
     <string name="usb_port_overheated_title">Порт зарядки перегрет. Отключите зарядное устройство.</string>
@@ -3211,7 +3211,7 @@ d MMMM"</string>
     <string name="volume_and_do_not_disturb">Не беспокоить</string>
     <string name="volume_dialog_accessibility_dismissed_message">Регуляторы громкости скрыты</string>
     <string name="volume_dialog_accessibility_shown_message">Показаны регуляторы громкости: %s. Проведите вверх, чтобы скрыть.</string>
-    <string name="volume_dialog_ringer_guidance_ring">Включен звук для вызовов и уведомлений (%1$s)</string>
+    <string name="volume_dialog_ringer_guidance_ring">Включён звук для вызовов и уведомлений (%1$s)</string>
     <string name="volume_dialog_title">Регулятор громкости %s</string>
     <string name="volume_dnd_silent">Кнопки регулировки громкости</string>
     <string name="volume_odi_captions_content_description">Наложение субтитров</string>
@@ -3220,9 +3220,9 @@ d MMMM"</string>
     <string name="volume_odi_captions_tip">Автоматически отображать субтитры</string>
     <string name="volume_ringer_change">Нажмите, чтобы изменить режим звонка</string>
     <string name="volume_ringer_hint_mute">Звук отключен</string>
-    <string name="volume_ringer_hint_unmute">Звук включен</string>
+    <string name="volume_ringer_hint_unmute">Звук включён</string>
     <string name="volume_ringer_hint_vibrate">Вибрация</string>
-    <string name="volume_ringer_status_normal">Звук включен</string>
+    <string name="volume_ringer_status_normal">Звук включён</string>
     <string name="volume_ringer_status_silent">Без звука</string>
     <string name="volume_ringer_status_vibrate">Вибрация</string>
     <string name="volume_stream_content_description_mute">%1$s. Нажмите, чтобы отключить звук. Специальные возможности могут прекратить работу.</string>
@@ -3320,7 +3320,7 @@ d MMMM"</string>
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
     <string name="wifi_enhanced_mac_randomization">Непостоянная рандомизация MAC-адреса Wi-Fi</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети, в которой доступна рандомизация MAC-адреса.</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включён, MAC-адрес устройства будет меняться при каждом подключении к сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_hotspot_switch_off_text">Откл.</string>

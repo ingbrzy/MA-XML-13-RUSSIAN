@@ -105,7 +105,7 @@
     <string name="action_menu_text_video_download">Загрузка видео</string>
     <string name="action_menu_text_web_mode">Версия для ПК</string>
     <string name="action_menu_toast_incognito_off">Режим инкогнито выключен</string>
-    <string name="action_menu_toast_incognito_on">Режим инкогнито включен</string>
+    <string name="action_menu_toast_incognito_on">Режим инкогнито включён</string>
     <string name="action_menu_toolbox">Инструменты</string>
     <string name="action_menu_useful_page">Добавить ярлык</string>
     <string name="action_menu_useful_page_added">Ярлык добавлен</string>
@@ -624,7 +624,7 @@
     <string name="debug_feed_title">Тест ленты</string>
     <string name="debug_jump_title">Переход на страницу</string>
     <string name="debug_mediation_title">Общий тест sdk</string>
-    <string name="debug_mode_toast">Включен режим отладки</string>
+    <string name="debug_mode_toast">Включён режим отладки</string>
     <string name="debug_youtube_file">Отладка файла YouTube</string>
     <string name="debug_youtube_in_release">Отладка youtube в релизе</string>
     <string name="deeplink_intrercept_hint">Нажмите всплывающее окно, чтобы открыть приложение</string>

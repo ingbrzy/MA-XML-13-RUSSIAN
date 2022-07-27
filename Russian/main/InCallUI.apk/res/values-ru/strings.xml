@@ -44,7 +44,7 @@
     <string name="bluetooth_permission_grant_immediately">Разрешить</string>
     <string name="bluetooth_permission_later">Не сейчас</string>
     <string name="bluetooth_permission_title">Требуются разрешения</string>
-    <string name="callFailed_cb_enabled">Включен запрет вызовов</string>
+    <string name="callFailed_cb_enabled">Включён запрет вызовов</string>
     <string name="callFailed_congestion">Сеть перегружена</string>
     <string name="callFailed_dialToDial">DIAL запрос преобразован в DIAL запрос с другим номером телефона.</string>
     <string name="callFailed_dialToSs">DIAL запрос преобразован в SS запрос.</string>

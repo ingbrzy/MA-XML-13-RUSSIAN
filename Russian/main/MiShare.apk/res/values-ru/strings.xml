@@ -87,7 +87,7 @@
     <string name="eras_bc">до н. э.</string>
     <string name="error_ap_in_use">Передача файлов при включенной точке доступа недоступна</string>
     <string name="error_ap_or_screen_already_hosting">Передача файлов во время трансляции или при включенной точке доступа недоступна</string>
-    <string name="error_ble_connect_failure">Принимающее устройство не может подключиться к Bluetooth. Убедитесь, что его экран включен.</string>
+    <string name="error_ble_connect_failure">Принимающее устройство не может подключиться к Bluetooth. Убедитесь, что его экран включён.</string>
     <string name="error_ble_connect_timeout">Не удалось подключиться к Bluetooth. Повторно подключитесь к Bluetooth на обоих устройствах и повторите попытку.</string>
     <string name="error_device_lost">Похоже, другое устройство вне досягаемости. Повторите попытку позже.</string>
     <string name="error_has_occurred">Произошла ошибка</string>

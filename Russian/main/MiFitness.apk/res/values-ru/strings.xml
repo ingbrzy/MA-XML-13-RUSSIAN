@@ -3695,7 +3695,7 @@ ID:%s
     <string name="sleep_detector_content">Mi Фитнес отслеживает данные сна в фоновом режиме</string>
     <string name="sleep_service">Служба контроля сна</string>
     <string name="sleep_service_background_running">Служба контроля сна работает в фоновом режиме</string>
-    <string name="sleep_snore_detection_running_state_description">Включен микрофон. Он продолжит работать в фоновом режиме.</string>
+    <string name="sleep_snore_detection_running_state_description">Включён микрофон. Он продолжит работать в фоновом режиме.</string>
     <string name="sms_code_wrong">Неверный проверочный код</string>
     <string name="sms_expire">Срок действия кода истёк</string>
     <string name="sms_send_success">Отправлено</string>

@@ -2016,11 +2016,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_func_antimsg_close">Всплывающие уведомления разрешены</string>
     <string name="gamebox_func_antimsg_open">Всплывающие уведомления запрещены</string>
     <string name="gamebox_func_immersion_close">Режим погружения отключен</string>
-    <string name="gamebox_func_immersion_open">Режим погружения включен</string>
+    <string name="gamebox_func_immersion_open">Режим погружения включён</string>
     <string name="gamebox_func_switch_simcard">Переключение на SIM-карту %1$d для данных</string>
     <string name="gamebox_func_switch_simcard_immersion">"Невозможно переключить SIM-карты в режиме погружения"</string>
     <string name="gamebox_func_wlan_close">Wi-Fi отключен</string>
-    <string name="gamebox_func_wlan_open">Wi-Fi включен</string>
+    <string name="gamebox_func_wlan_open">Wi-Fi включён</string>
     <string name="gamebox_hangup">Выключение экрана</string>
     <string name="gamebox_hangup_tips_content">Эта функция позволяет выключить экран, сохранив игру в фоновом режиме. Отключается автоматически после разблокировки устройства.</string>
     <string name="gamebox_hangup_tips_title">Выключение экрана</string>
@@ -2203,8 +2203,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_ngtb_gpu">GPU</string>
     <string name="gb_not_support_on_device">Это приложение не может быть использовано на внешнем экране</string>
     <string name="gb_operat_frequently">Не так быстро!</string>
-    <string name="gb_performace_guide_disable_desc"><Data>"Переключение в сбалансированный режим в Ускорении игр недоступно, если включен общесистемный производительный режим. Настройки режима можно изменить в приложении &lt;a href=\"#\">Безопасность&lt;/a>."</Data></string>
-    <string name="gb_performace_switch_toast">Включен производительный режим. Устройство может нагреваться и быстрее расходовать заряд.</string>
+    <string name="gb_performace_guide_disable_desc"><Data>"Переключение в сбалансированный режим в Ускорении игр недоступно, если включён общесистемный производительный режим. Настройки режима можно изменить в приложении &lt;a href=\"#\">Безопасность&lt;/a>."</Data></string>
+    <string name="gb_performace_switch_toast">Включён производительный режим. Устройство может нагреваться и быстрее расходовать заряд.</string>
     <string name="gb_performace_tips_button">Включить</string>
     <string name="gb_performace_tips_title">Включите производительный режим для улучшения игрового процесса</string>
     <string name="gb_performance_balance">Сбалансированный</string>
@@ -2286,7 +2286,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_turbo_voice_subtitle">Изменение голоса</string>
     <string name="gb_turbo_wonder_subtitle">Запись ключевых моментов</string>
     <string name="gb_voice_change_audition_tip">Демо</string>
-    <string name="gb_voice_change_settinged">Синтезатор голоса включен</string>
+    <string name="gb_voice_change_settinged">Синтезатор голоса включён</string>
     <string name="gb_voice_changer_cartoon">Мультик</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Продлите подписку для обратной связи в реальном времени</string>
     <string name="gb_voice_changer_dlg_button_agree">Разрешить</string>
@@ -2316,7 +2316,7 @@ Xiaomi не обещает и не гарантирует точность, до
 версию Синтезатора голоса!"</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Попробуйте Синтезатор голоса!
 Переключайтесь между разными персонажами и спецэффектами".</string>
-    <string name="gb_voice_changer_toast_window_open">Включен эффект \"%s\"</string>
+    <string name="gb_voice_changer_toast_window_open">Включён эффект \"%s\"</string>
     <string name="gb_voice_changer_toast_window_vip_expire">Подписка истекает. Продлите подписку, чтобы получить преимущества!</string>
     <string name="gb_voice_changer_trial_gender_dialog">Загружена пробная версия! Выберите пол для соответствующих эффектов и рекомендаций.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Пробная версия</string>
@@ -3115,7 +3115,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="note_call_none">Нет вызовов</string>
     <string name="note_list_none">Список пуст</string>
     <string name="note_sms_none">Нет сообщений</string>
-    <string name="noti_back_diving_mode_title">Включен режим погружения. Нажмите для отключения.</string>
+    <string name="noti_back_diving_mode_title">Включён режим погружения. Нажмите для отключения.</string>
     <string name="notification_abnormal_check_button">Просмотр</string>
     <string name="notification_abnormal_check_now_button">Просмотр</string>
     <string name="notification_abnormal_consume_app_title">Приложение %s разряжает батарею</string>
@@ -4072,7 +4072,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="preferred_app_entries_messaging">SMS</string>
     <string name="preferred_app_entries_music">Музыка</string>
     <string name="pricacy_permission_use_total">Конфиденциальные действия</string>
-    <string name="priority_statistics_fixed_traffic">Если в пакет включен фиксированный ежемесячный трафик, он будет учитываться в приоритетном порядке</string>
+    <string name="priority_statistics_fixed_traffic">Если в пакет включён фиксированный ежемесячный трафик, он будет учитываться в приоритетном порядке</string>
     <string name="priority_storage_app_settings">Данные приложения %1$s</string>
     <string name="priority_storage_settings_summary">При отсутствии SD-карты данные будут автоматически сохраняться во внутреннюю память</string>
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
@@ -4171,7 +4171,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_input_mode_version_supported">Обновите клавиатуру для возможности использовать эту функцию</string>
     <string name="privacy_input_model_guide_choose">Загрузить голосовой ввод офлайн</string>
     <string name="privacy_input_model_guide_text">Защита конфиденциальности при вводе. Когда функция включена, некоторые сетевые функции (например, параметры персонализации, эмодзи, интеллектуальный набор текста) будут недоступны.</string>
-    <string name="privacy_input_model_tips">Безопасный ввод включен. Клавиатуре не доступно отображение всплывающих окон и получение доступа к контактам, местоположению и журналу вызовов.</string>
+    <string name="privacy_input_model_tips">Безопасный ввод включён. Клавиатуре не доступно отображение всплывающих окон и получение доступа к контактам, местоположению и журналу вызовов.</string>
     <string name="privacy_lab_empty">Нет функций</string>
     <string name="privacy_location_info_summary">Управление использованием геолокации</string>
     <string name="privacy_location_info_title">Геолокация</string>
@@ -4180,7 +4180,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_look_privacy">Политика конфиденциальности</string>
     <string name="privacy_manage_title">Управление</string>
     <string name="privacy_mask_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это не позволит приложениям отслеживать ваши действия и предпочтения и защитит конфиденциальность.</string>
-    <string name="privacy_mask_title">Виртуальный ID включен</string>
+    <string name="privacy_mask_title">Виртуальный ID включён</string>
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
     <string name="privacy_more_info_title">Узнайте больше о функциях защиты конфиденциальности</string>
     <string name="privacy_notification_subtitle">Нажмите для управления разрешениями</string>
@@ -4472,7 +4472,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="safe_result_item_info_sms_url">Защищено от вредоносных ссылок в SMS</string>
     <string name="safe_result_item_info_system_antivirus">Защищено от фишинговых вирусов</string>
     <string name="safe_result_item_info_system_root">ROOT-доступ не разрешен</string>
-    <string name="safe_result_item_info_system_scan">Мониторинг платежей включен</string>
+    <string name="safe_result_item_info_system_scan">Мониторинг платежей включён</string>
     <string name="safe_result_item_info_system_version">Обновление MIUI не требуется</string>
     <string name="safepay_alert_dialog_button_continue">Продолжить</string>
     <string name="safepay_alert_dialog_button_fix">Исправить</string>
@@ -4607,8 +4607,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_car_absent__tip">Введите пароль разблокировки для отключения \"Режима пропажи\"</string>
     <string name="sim_car_absent_intercept_action">Введите пароль разблокировки (%d)</string>
     <string name="sim_car_absent_intercept_action_last">Введите пароль разблокировки</string>
-    <string name="sim_car_absent_intercept_item_summary">Поиск устройства включен. Для выключения устройства или извлечения SIM-карты требуется ввод пароля разблокировки.</string>
-    <string name="sim_car_absent_intercept_item_summary_last">Поиск устройства включен. Для выключения устройства или извлечения SIM-карты требуется ввод пароля разблокировки. Активирован \"Режим пропажи\".</string>
+    <string name="sim_car_absent_intercept_item_summary">Поиск устройства включён. Для выключения устройства или извлечения SIM-карты требуется ввод пароля разблокировки.</string>
+    <string name="sim_car_absent_intercept_item_summary_last">Поиск устройства включён. Для выключения устройства или извлечения SIM-карты требуется ввод пароля разблокировки. Активирован \"Режим пропажи\".</string>
     <string name="sim_car_absent_intercept_item_title">Задействованы механизмы защиты</string>
     <string name="sim_car_absent_intercept_summary">SIM-карта извлечена. Введите пароль разблокировки, чтобы использовать это устройство.</string>
     <string name="sim_car_absent_intercept_title">Введите пароль разблокировки</string>
@@ -5184,7 +5184,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="summary_data_flow">Контроль мобильного трафика для уменьшения дополнительных затрат</string>
     <string name="summary_default_app">%s не используется как системное приложение по умолчанию</string>
     <string name="summary_dev">Избегайте вирусов и защищайте личные данные</string>
-    <string name="summary_do_not_disturb">Включен режим \"Не беспокоить\".</string>
+    <string name="summary_do_not_disturb">Включён режим \"Не беспокоить\".</string>
     <string name="summary_eye_shield">Отключите режим чтения для возврата к настройкам по умолчанию.</string>
     <string name="summary_find_device">Находите и блокируйте устройство откуда угодно</string>
     <string name="summary_first_aid_kit">Исправление проблем на вашем устройстве</string>
@@ -5550,9 +5550,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_consume_power_rank">Использование батареи</string>
     <string name="title_dark_mode">Некоторые элементы отображаются неправильно</string>
     <string name="title_data_flow">Управление трафиком</string>
-    <string name="title_data_flow_monitor">Монитор трафика включен</string>
+    <string name="title_data_flow_monitor">Монитор трафика включён</string>
     <string name="title_dev_model_off">Режим разработчика отключен</string>
-    <string name="title_dev_no">Режим разработчика включен</string>
+    <string name="title_dev_no">Режим разработчика включён</string>
     <string name="title_dev_yes">Режим разработчика отключен</string>
     <string name="title_device_not_root">ROOT-доступ запрещен</string>
     <string name="title_do_not_disturb">Не слышите звонков?</string>
@@ -5569,14 +5569,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_garbage_less">Размер кэша приложений в норме</string>
     <string name="title_garbage_lib">Обновить базы очистки</string>
     <string name="title_install_virus_no">Монитор установки отключен</string>
-    <string name="title_install_virus_yes">Монитор установки включен</string>
+    <string name="title_install_virus_yes">Монитор установки включён</string>
     <string name="title_like">Нравится</string>
     <string name="title_limit_traffic_per_day">Суточный лимит</string>
     <string name="title_mifi_insurance">Расширенная гарантия</string>
     <string name="title_miui_update">Доступно обновление</string>
     <string name="title_miui_update_latest">Обновление MIUI не требуется</string>
     <string name="title_mms_no">Антиспам отключен</string>
-    <string name="title_mms_yes">Антиспам включен</string>
+    <string name="title_mms_yes">Антиспам включён</string>
     <string name="title_more_setting">Дополнительные настройки</string>
     <string name="title_network_switch">Сетевое подключение</string>
     <string name="title_of_app_manage">Приложения</string>
@@ -5635,7 +5635,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_xiaomi_roaming">Mi роуминг</string>
     <string name="toast_add_virus_white_list_no_need_repeat">Уже добавлено в исключения</string>
     <string name="toast_auto_traffic_correct">Трафик корректируется автоматически</string>
-    <string name="toast_cleaner_cloudscan">Сервис очистки онлайн включен</string>
+    <string name="toast_cleaner_cloudscan">Сервис очистки онлайн включён</string>
     <string name="toast_dark_mode_fixed">Успешно исправлено. Закройте страницу для применения изменений.</string>
     <string name="toast_flow_notification">Уведомления о трафике включены</string>
     <string name="toast_garbage_lib">Автообновление базы очистки включено</string>
@@ -5650,7 +5650,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="toast_root_apply_accept">Приложению \"%s\" предоставлен ROOT-доступ</string>
     <string name="toast_root_apply_reject">Приложению \"%s\" запрещен ROOT-доступ</string>
     <string name="toast_set_success">Настройка завершена</string>
-    <string name="toast_show_notification">Виджет в шторке уведомлений включен</string>
+    <string name="toast_show_notification">Виджет в шторке уведомлений включён</string>
     <string name="toast_update_fail">Ошибка обновления</string>
     <string name="toast_update_nonetwork">Ошибка подключения к сети</string>
     <string name="toast_update_notneed">Обновление не требуется</string>

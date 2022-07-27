@@ -164,7 +164,7 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Отключено</item>
-        <item>Включен фильтр</item>
+        <item>Включён фильтр</item>
         <item>Включено</item>
     </string-array>
     <string-array name="color_mode_descriptions">

@@ -485,7 +485,7 @@ ID:%s
     <string name="mibi_review_model_mibi_introduction">"MiCoin - это объединенная касса для виртуальных предприятий группы Xiaomi. Она поддерживает такие способы оплаты, как Alipay, WeChat и Mi Wallet. Она также предоставляет предоплаченные карты и маркетинговые продукты, такие как Mi Coin Card и MiCoin Gift Vouchers.
 
 Сервисы предоставляются："</string>
-    <string name="mibi_review_model_tips">Включен режим \"Только просмотр\", нажмите кнопку, чтобы воспользоваться сервисом Micoin.</string>
+    <string name="mibi_review_model_tips">Включён режим \"Только просмотр\", нажмите кнопку, чтобы воспользоваться сервисом Micoin.</string>
     <string name="mibi_review_model_title">Режим "только просмотр"</string>
     <string name="mibi_review_model_use_tips">Попробуйте сервис Micoin</string>
     <string name="mibi_revoke_agreement_failed_msg">Не удалось отозвать согласие, попробуйте позже</string>

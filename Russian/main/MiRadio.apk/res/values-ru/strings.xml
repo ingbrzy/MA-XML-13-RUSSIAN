@@ -1101,7 +1101,7 @@ ID:%s
     <string name="show_more">Показать больше %s</string>
     <string name="shuffle_music">Случайный порядок</string>
     <string name="shuffle_off_notif">Случайный порядок отключен.</string>
-    <string name="shuffle_on_notif">Случайный порядок включен.</string>
+    <string name="shuffle_on_notif">Случайный порядок включён.</string>
     <string name="shut_down_sleep_mode">Выключить</string>
     <string name="sign_in">Войти</string>
     <string name="sign_in_progress">Вход…</string>

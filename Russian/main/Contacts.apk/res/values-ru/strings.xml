@@ -169,7 +169,7 @@
     <string name="bh_express_name">Служба доставки</string>
     <string name="bh_express_number">Номер заказа</string>
     <string name="bh_fetch_balance">Проверить баланс</string>
-    <string name="bh_flight_mode_on"><Data>&lt;font color =#FF6666>Режим полета включен&lt;/font></Data></string>
+    <string name="bh_flight_mode_on"><Data>&lt;font color =#FF6666>Режим полета включён&lt;/font></Data></string>
     <string name="bh_flow_exceed">Превышен предел</string>
     <string name="bh_flow_order">Мобильный интернет</string>
     <string name="bh_flow_service">Мобильный интернет</string>

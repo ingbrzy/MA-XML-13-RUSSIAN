@@ -48,7 +48,7 @@
     <string name="bluetooth_a2dp_sink_queue_name">Сейчас играет</string>
     <string name="bluetooth_advanced_feat_description">Расширенная функция просмотра Bluetooth</string>
     <string name="bluetooth_broadcast_status">Идет трансляция</string>
-    <string name="bluetooth_connected">Звук через Bluetooth включен</string>
+    <string name="bluetooth_connected">Звук через Bluetooth включён</string>
     <string name="bluetooth_disconnected">Звук через Bluetooth отключен</string>
     <string name="bluetooth_map_remote_advance_feature_support">Доступны расширенные функции доступа к сообщениям</string>
     <string name="bluetooth_map_remote_message_access_feature_downgrade">Понизить функции удаленного доступа к сообщениям</string>

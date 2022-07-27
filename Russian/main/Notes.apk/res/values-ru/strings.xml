@@ -158,7 +158,7 @@
     <string name="dlg_update_title">Доступно обновление</string>
     <string name="dlg_update_update_now">Обновить</string>
     <string name="done">Готово</string>
-    <string name="doodle_action_enter_immersion_mode">Включен режим погружения</string>
+    <string name="doodle_action_enter_immersion_mode">Включён режим погружения</string>
     <string name="doodle_action_exit_immersion_mode">Выход из режима погружения</string>
     <string name="doodle_action_hide_tool_panel">Скрыть инструменты</string>
     <string name="doodle_action_show_tool_panel">Показать инструменты</string>

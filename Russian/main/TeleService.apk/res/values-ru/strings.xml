@@ -462,7 +462,7 @@
     <string name="callFailed_bearer_service_not_implemented">Услуги переноса данных не реализованы</string>
     <string name="callFailed_call_rejected">Вызов отклонен</string>
     <string name="callFailed_calling_disabled">Невозможно выполнить вызов, так как вызовы запрещены системным свойством ro.telephony.disable-call.</string>
-    <string name="callFailed_cb_enabled">Включен запрет вызовов</string>
+    <string name="callFailed_cb_enabled">Включён запрет вызовов</string>
     <string name="callFailed_cdma_activation">В вашем телефоне уже настроен роуминг и активирована SIM-карта.</string>
     <string name="callFailed_cdma_call_limit">Слишком много активных вызовов. Чтобы выполнить новый вызов, завершите или объедините существующие.</string>
     <string name="callFailed_channel_unacceptable">Недопустимый канал</string>
@@ -542,7 +542,7 @@
     <string name="callFailed_unobtainable_number">Неверный номер</string>
     <string name="callFailed_userBusy">Линия занята</string>
     <string name="callFailed_user_not_member_of_CUG">Пользователь не участник CUG</string>
-    <string name="callFailed_video_call_tty_enabled">Когда телетайп включен, видеозвонки недоступны.</string>
+    <string name="callFailed_video_call_tty_enabled">Когда телетайп включён, видеозвонки недоступны.</string>
     <string name="callFailed_wfc_service_not_available_in_this_location">Wi-Fi вызовы недоступны</string>
     <string name="callFailed_wifi_lost">Подключение к Wi-Fi потеряно. Вызов завершен.</string>
     <string name="callUnanswered_forwarded">Вызов пропущен и переадресован</string>
@@ -765,7 +765,7 @@
     <string name="clh_callFailed_number_changed_txt">Номер изменен</string>
     <string name="clh_callFailed_only_restricted_digital_information_bearer_capability_is_available_txt">Ограниченная возможность передачи цифровой информации</string>
     <string name="clh_callFailed_operator_determined_barring_txt">Запрет оператора</string>
-    <string name="clh_callFailed_powerOff_txt">Включен режим полета.</string>
+    <string name="clh_callFailed_powerOff_txt">Включён режим полета.</string>
     <string name="clh_callFailed_pre_emption_txt">Упреждение</string>
     <string name="clh_callFailed_protocol_Error_unspecified_txt">Ошибка протокола, неуказанная</string>
     <string name="clh_callFailed_quality_of_service_unavailable_txt">Качество обслуживания недоступно</string>
@@ -812,7 +812,7 @@
     <string name="config_world_mode"/>
     <string name="confirmPin2Label">Подтвердите новый PIN2</string>
     <string name="confirmPinLabel">Подтвердите новый PIN</string>
-    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включен этот параметр.</string>
+    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="confirm_password_label">Подтвердите пароль</string>
     <string name="confirm_pin2_label">Подтвердите новый PIN2</string>
@@ -1112,7 +1112,7 @@
     <string name="enable_in_progress">Подождите…</string>
     <string name="enable_opengl_traces_title">Вкл. трассировку OpenGL</string>
     <string name="enable_pin">Запрос PIN SIM-карты</string>
-    <string name="enable_pin_ok">Запрос PIN SIM-карты включен</string>
+    <string name="enable_pin_ok">Запрос PIN SIM-карты включён</string>
     <string name="enable_proximity_summary">Отключать экран при поднесении устройства к уху во время разговора</string>
     <string name="enable_proximity_title">Датчик приближения</string>
     <string name="enable_sim_pin">Включить запрос PIN SIM-карты</string>
@@ -1399,7 +1399,7 @@
     <string name="kddi_sim_lock_status_update_fail">Ошибка обновления</string>
     <string name="kddi_sim_lock_status_update_success">Успешно обновлено</string>
     <string name="keep_screen_on">Не выключать экран</string>
-    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
+    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keywords_alarms_and_reminders">расписание, будильник, напоминание, часы</string>
     <string name="keywords_carrier_settings_euicc">оператор, esim, sim, euicc</string>
     <string name="kr_emergency_111">Национальная безопасность (111)</string>
@@ -1500,7 +1500,7 @@
     <string name="local_disable">Местные новости отключены</string>
     <string name="local_enable">Местные новости включены</string>
     <string name="local_weather_disable">Местный прогноз погоды отключен</string>
-    <string name="local_weather_enable">Местный прогноз погоды включен</string>
+    <string name="local_weather_enable">Местный прогноз погоды включён</string>
     <string name="location">Местоположение</string>
     <string name="lodgings_disable">Аренда отключена</string>
     <string name="lodgings_enable">Аренда включена</string>
@@ -1634,7 +1634,7 @@
     <string name="mobile_data_settings_title">Мобильный интернет</string>
     <string name="mobile_data_status_no_plan_subtext">Лимит трафика исчерпан</string>
     <string name="mobile_data_status_roaming_turned_off_subtext">Интернет в роуминге отключен</string>
-    <string name="mobile_data_status_roaming_turned_on_subtext">Интернет в роуминге включен</string>
+    <string name="mobile_data_status_roaming_turned_on_subtext">Интернет в роуминге включён</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Вы в роуминге, тарифный план активен</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Вы в роуминге, требуется тарифный план</string>
     <string name="mobile_geo_location_config_summary">Отмечать места с аномалиями сетевого сигнала для улучшения качества связи</string>
@@ -1933,8 +1933,8 @@
     <string name="onscreenVideoCallText">Видеовызов</string>
     <string name="opconfig_info">Сведения OpConfig</string>
     <string name="open_miui">Включить</string>
-    <string name="opened_dual_4g_confirm_prompt">Ваша SIM-карта поддерживает только 4G. Режим Dual 4G включен автоматически.</string>
-    <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s поддерживает только 4G. Для нормальной работы вашей SIM-карты был включен режим Dual 4G.</string>
+    <string name="opened_dual_4g_confirm_prompt">Ваша SIM-карта поддерживает только 4G. Режим Dual 4G включён автоматически.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s поддерживает только 4G. Для нормальной работы вашей SIM-карты был включён режим Dual 4G.</string>
     <string name="operator">Оператор</string>
     <string name="optimization_settings_category">Оптимизация</string>
     <string name="optional_summary">&lt;Необязательно&gt;</string>
@@ -2405,7 +2405,7 @@ UT-интерфейс: %5$s"</string>
     <string name="retail_demo_reset_next">Далее</string>
     <string name="retail_demo_reset_title">Требуется пароль</string>
     <string name="retail_directory_disable">Торговый каталог отключен</string>
-    <string name="retail_directory_enable">Торговый каталог включен</string>
+    <string name="retail_directory_enable">Торговый каталог включён</string>
     <string name="retry_btn">Повторить</string>
     <string name="reverting_settings">Возврат к предыдущим настройкам…</string>
     <string name="ringtone_silent">Нет</string>
@@ -2422,7 +2422,7 @@ UT-интерфейс: %5$s"</string>
     <string name="roaming_enabled_message">Может взиматься плата за роуминг. Нажмите, чтобы изменить.</string>
     <string name="roaming_notification_content">Вы можете автоматически добавлять коды стран для удобства набора номеров.</string>
     <string name="roaming_notification_title">Активирован роуминг</string>
-    <string name="roaming_on_notification_title">Включен роуминг данных</string>
+    <string name="roaming_on_notification_title">Включён роуминг данных</string>
     <string name="roaming_reenable_message">Передача данных прекращена. Телефон находится за пределами домашней сети.</string>
     <string name="roaming_user_package_summary_kr">Приобретите, отмените и отредактируйте свой пакет роуминга. Использование этого меню во время роуминга бесплатное.</string>
     <string name="roaming_user_package_title_kr">Использовать пакет роуминга</string>
@@ -2704,9 +2704,9 @@ UT-интерфейс: %5$s"</string>
     <string name="supp_service_notification_call_forwarded">Переадресация вызова.</string>
     <string name="supp_service_notification_call_waiting">Ожидание вызова.</string>
     <string name="supp_service_outgoing_calls_barred">Исходящий вызов запрещен.</string>
-    <string name="supp_service_over_ut_precautions">Чтобы использовать %s, убедитесь, что мобильный интернет включен. Вы можете изменить это в настройках мобильной сети.</string>
+    <string name="supp_service_over_ut_precautions">Чтобы использовать %s, убедитесь, что мобильный интернет включён. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="supp_service_over_ut_precautions_dialog_dismiss">Отмена</string>
-    <string name="supp_service_over_ut_precautions_dual_sim">Чтобы использовать %1$s, убедитесь, что мобильный интернет включен для SIM-карты %2$d. Вы можете изменить это в настройках мобильной сети.</string>
+    <string name="supp_service_over_ut_precautions_dual_sim">Чтобы использовать %1$s, убедитесь, что мобильный интернет включён для SIM-карты %2$d. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="supp_service_over_ut_precautions_roaming">Чтобы использовать %s, убедитесь, что включены мобильный интернет и роуминг данных. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">Чтобы использовать %1$s, убедитесь, что для SIM-карты %2$d включены мобильный интернет и роуминг данных. Вы можете изменить это в настройках мобильной сети.</string>
     <string name="support_forbidden_fakecell">Предупреждение: ограничение подключения к поддельным базовым станциям может снизить сигнал в областях с плохим покрытием</string>
@@ -3117,7 +3117,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_display_certification">Серт. беспроводн. мониторов</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
     <string name="wifi_enhanced_mac_randomization">Непостоянная рандомизация MAC-адреса Wi-Fi</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к сети, в которой доступна рандомизация MAC-адреса.</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включён, MAC-адрес устройства будет меняться при каждом подключении к сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>
     <string name="wifi_hotspot_switch_off_text">Откл.</string>

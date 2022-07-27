@@ -62,7 +62,7 @@
     <string name="wifi_suggestion_imsi_privacy_title">Подключиться к сети Wi-Fi %s?</string>
     <string name="wifi_suggestion_title">Подключиться к сети Wi-Fi?</string>
     <string name="wifi_wakeup_enabled_content">Доступна сохраненная сеть %1$s.</string>
-    <string name="wifi_wakeup_enabled_title">Wi-Fi включен автоматически</string>
+    <string name="wifi_wakeup_enabled_title">Wi-Fi включён автоматически</string>
     <string name="wifi_wakeup_onboarding_action_disable">Не включать снова</string>
     <string name="wifi_wakeup_onboarding_subtext">Когда будет доступна сохраненная сеть с хорошим сигналом</string>
     <string name="wifi_wakeup_onboarding_title">Wi-Fi включится автоматически</string>

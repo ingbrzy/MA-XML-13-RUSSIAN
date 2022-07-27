@@ -399,7 +399,7 @@
     <string name="not_set_temporarily">Нет, спасибо</string>
     <string name="not_update">Не сейчас</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
-    <string name="open_keep_screen">Экран будет включен постоянно</string>
+    <string name="open_keep_screen">Экран будет включён постоянно</string>
     <string name="open_sleep_record">Включить</string>
     <string name="other_category_title">Другое</string>
     <string name="other_settings">Другое</string>
@@ -469,7 +469,7 @@
     <string name="show_life_post_desc">Если вы отключите эту функцию, утренние отчёты показываться не будут</string>
     <string name="show_life_post_lable">Показывать утренний отчёт</string>
     <string name="shut_down_alarm_no_news">После отключения будильника утренние новости будут недоступны.</string>
-    <string name="shut_down_keep_screen">Экран не будет включен постоянно</string>
+    <string name="shut_down_keep_screen">Экран не будет включён постоянно</string>
     <string name="shutdown_alarm_alert_enable_summary">Сигналы отключения сработают как минимум через 10 минут после выключения устройства</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Включите, чтобы установленные будильники срабатывали при выключении устройства. Будут срабатывать только будильники, установленные не менее чем на %d минут после выключения устройства.</string>
     <string name="shutdown_alarm_alert_title">Сигналы отключения</string>

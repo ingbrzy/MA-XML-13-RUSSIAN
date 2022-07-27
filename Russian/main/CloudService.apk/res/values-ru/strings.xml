@@ -123,7 +123,7 @@
     <string name="dialog_title_prompt">Внимание</string>
     <string name="do_not_merge">Отмена</string>
     <string name="early_morning">Утро</string>
-    <string name="enable_find_device_success">Поиск устройства включен</string>
+    <string name="enable_find_device_success">Поиск устройства включён</string>
     <string name="enable_micloud">Регистрация или вход</string>
     <string name="enable_sync_setting_title">Настройка облачных сервисов…</string>
     <string name="eras_ad">н. э.</string>
@@ -361,7 +361,7 @@
     <string name="micloud_find_device_guide_title">Выполните вход в Xiaomi аккаунт на &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; для поиска и блокировки устройства, удаленного стирания данных. Подробности &lt;a href="micloud://com.miui.cloudservice/helpcenter?type=finddevice">здесь&lt;/a>.</string>
     <string name="micloud_find_device_inter_sms_alert_with_charge_hint">"Для активации сервиса будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>.&lt;br/> В случае замены SIM-карты, также будет автоматически отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font> для повторной активации.&lt;br/>Все сборы за SMS, связанные с вышеупомянутыми действиями, будут взиматься вашим оператором связи. Xiaomi не взимает плату за эти сообщения."</string>
     <string name="micloud_find_device_open_fail">Не удалось включить Поиск устройства</string>
-    <string name="micloud_find_device_opened">Поиск устройства включен</string>
+    <string name="micloud_find_device_opened">Поиск устройства включён</string>
     <string name="micloud_find_device_opened_content">Найдите свое устройство на %s</string>
     <string name="micloud_find_device_verify_button">Включить Поиск устройства</string>
     <string name="micloud_find_device_verify_close">Отключить Поиск устройства</string>
