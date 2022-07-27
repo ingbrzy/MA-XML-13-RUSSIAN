@@ -329,7 +329,7 @@
     <string name="common_known">Понятно</string>
     <string name="common_load_fail">Сбой загрузки</string>
     <string name="common_month">Месяц</string>
-    <string name="common_more">Еще</string>
+    <string name="common_more">Ещё</string>
     <string name="common_no_more">На данный момент это всё</string>
     <string name="common_not_installed">Не загружено</string>
     <string name="common_not_support">Не поддерживается</string>
@@ -676,7 +676,7 @@
     <string name="device_mi_watch">Часы</string>
     <string name="device_mi_wearable">Xiaomi Wear</string>
     <string name="device_mobile_web">Мобильные данные</string>
-    <string name="device_more_setting">Еще</string>
+    <string name="device_more_setting">Ещё</string>
     <string name="device_night_model">Ночной режим</string>
     <string name="device_notification">Уведомления приложений</string>
     <string name="device_notification_setting">Уведомления и вызовы</string>
@@ -1447,7 +1447,7 @@ ID:%s
     <string name="feedback_common_allow">Разрешить</string>
     <string name="feedback_common_hint_network_unavailable">Проверьте настройки сети и повторите попытку.</string>
     <string name="feedback_common_loading_cancel">Отмена</string>
-    <string name="feedback_common_more">Еще</string>
+    <string name="feedback_common_more">Ещё</string>
     <string name="feedback_common_reject">Запретить</string>
     <string name="feedback_common_waiting">Подождите…</string>
     <string name="feedback_confirm_upload">Отправить</string>
@@ -2576,7 +2576,7 @@ ID:%s
     <string name="heartrate_report_regular_normal_desc">Текущий пульс является нормальным. Ваше сердце хорошо справляется со стрессом, а тело сопротивляется внешнему давлению. Однако не стоит забывать, что изменения частоты сердечных сокращений могут быть признаком болезни сердца. Всегда следите за своим сердечным ритмом, особенно во время тренировок.</string>
     <string name="heartrate_report_regular_slow_desc">Текущий пульс слишком низкий. Около 15% людей могут испытывать физиологическую брадикардию, которая представляет собой медленный синусовый ритм ниже 60 ударов в минуту. Если это состояние не вызывает головокружения, потери сознания или обморока, то вам, скорее всего, не требуется медицинская помощь. Однако, если вы испытываете тяжесть в груди или другие симптомы, своевременно обратитесь к врачу.</string>
     <string name="heartrate_report_resting_fast_desc">Ваш пульс в состоянии покоя выше нормы, что может быть признаком тахикардии. Диета с низким содержанием соли и масла, снижение веса, отказ от курения и алкоголя, забота о психическом здоровье и физическая активность могут помочь вам замедлить частоту сердечных сокращений в состоянии покоя.</string>
-    <string name="heartrate_report_resting_normal_desc">Ваш пульс в состоянии покоя является нормальным. Частота сердечных сокращений в состоянии покоя — это количество ударов сердца в минуту, когда вы находитесь в состоянии покоя. Лучшее время для измерения частоты сердечных сокращений в состоянии покоя — это время сразу после пробуждения, когда вы еще находитесь в постели и не занимаетесь физической деятельностью. Глубоко вдохните, прежде чем измерять частоту пульса в состоянии покоя, чтобы полностью расслабить свое тело.</string>
+    <string name="heartrate_report_resting_normal_desc">Ваш пульс в состоянии покоя является нормальным. Частота сердечных сокращений в состоянии покоя — это количество ударов сердца в минуту, когда вы находитесь в состоянии покоя. Лучшее время для измерения частоты сердечных сокращений в состоянии покоя — это время сразу после пробуждения, когда вы ещё находитесь в постели и не занимаетесь физической деятельностью. Глубоко вдохните, прежде чем измерять частоту пульса в состоянии покоя, чтобы полностью расслабить свое тело.</string>
     <string name="heartrate_report_resting_slow_desc">Текущий пульс ниже нормы, что может быть признаком брадикардии. Длительные периоды замедленного сердцебиения могут вызвать ишемию и гипоксию, а также другие сердечно-сосудистые и цереброваскулярные нарушения. Частота сердечных сокращений в состоянии покоя тесно связана с вашей диетой, активностью, уровнем стресса, распорядком сна и общим физическим состоянием. Ведите здоровый образ жизни и уделяйте внимание своему телу, чтобы избежать проблем со здоровьем. Если вы испытываете стеснение в груди, головокружение, потерю сознания или обмороки, своевременно обратитесь к врачу.</string>
     <string name="heartrate_resting_heart_rate">Пульс в покое</string>
     <string name="heartrate_resting_heart_rate_desc">Пульс в состоянии покоя — это количество ударов сердца в минуту, когда вы находитесь в состоянии покоя. Как правило, частота сердечных сокращений в покое колеблется от 55 до 80 ударов в минуту. Однако она также может зависеть от возраста, пола и других факторов.</string>
@@ -2831,7 +2831,7 @@ ID:%s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выберите объекты</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтвердить</string>
     <string name="miuix_appcompat_delete_description">Удалить</string>
@@ -2891,7 +2891,7 @@ ID:%s
     <string name="month_september">Сентябрь</string>
     <string name="month_september_short">Сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="motion_channel_desc_background">Для предоставления служб в фоновом режиме</string>
     <string name="motion_recognition_name">Напоминания о тренировках</string>
@@ -3093,7 +3093,7 @@ ID:%s
     <string name="nfc_common_hint_no_data">Попробуйте позже</string>
     <string name="nfc_common_hint_server_unavailable">Ошибка сервера. Повторите попытку позже.</string>
     <string name="nfc_common_known">Понятно</string>
-    <string name="nfc_common_more_setting">Еще</string>
+    <string name="nfc_common_more_setting">Ещё</string>
     <string name="nfc_common_not_support_version">Текущая версия не поддерживается</string>
     <string name="nfc_common_notification">Уведомления</string>
     <string name="nfc_common_null">Нет</string>
@@ -3289,7 +3289,7 @@ ID:%s
     <string name="nfc_retrun_card_loading">Не покидайте эту страницу до завершения процесса.</string>
     <string name="nfc_retrun_card_msg">Вы можете вернуть оставшуюся сумму и плату за обслуживание.</string>
     <string name="nfc_retrun_card_only_service_fee">Возврат</string>
-    <string name="nfc_retrun_card_only_service_msg">Вы все еще можете использовать эту карту после возврата платы за обслуживание.</string>
+    <string name="nfc_retrun_card_only_service_msg">Вы все ещё можете использовать эту карту после возврата платы за обслуживание.</string>
     <string name="nfc_retrun_card_reason_title">Причина возврата</string>
     <string name="nfc_retrun_card_service">Удаление карты</string>
     <string name="nfc_retrun_card_token">Номер подтверждения</string>
@@ -4022,7 +4022,7 @@ ID:%s
     <string name="time_update_time_before">%1$s назад</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
-    <string name="total_apply_num_exceed_limit">Нет места, чтобы открыть еще одну карту</string>
+    <string name="total_apply_num_exceed_limit">Нет места, чтобы открыть ещё одну карту</string>
     <string name="trail_add">Добавить</string>
     <string name="trail_add_detail">%1$s</string>
     <string name="trail_add_more">Добавить сведения</string>
@@ -4288,7 +4288,7 @@ ID:%s
     <string name="trail_sport_running_distance">Расстояние</string>
     <string name="trail_sport_sao2">Уровень кислорода в крови</string>
     <string name="trail_sport_scroll_top_desc">Проведите вверх для просмотра</string>
-    <string name="trail_sport_segment_btn_txt">Показать еще</string>
+    <string name="trail_sport_segment_btn_txt">Показать ещё</string>
     <string name="trail_sport_segment_detail_desc">Менее 1 км | %1$s</string>
     <string name="trail_sport_segment_swim_detail_desc">Менее 100 м | %1$s</string>
     <string name="trail_sport_setting">Тренировки</string>
@@ -4545,7 +4545,7 @@ ID:%s
     <string name="userinfo_lack_permisson">Чтобы продолжить, предоставьте Mi Фитнес все необходимые разрешения.</string>
     <string name="userinfo_lock_screen_show">Показывать, когда заблокировано</string>
     <string name="userinfo_lock_screen_show_description">Когда экран заблокирован, вашу медкарту можно посмотреть, нажав \"Экстренная помощь\", а затем \"Медкарта\".</string>
-    <string name="userinfo_lock_screen_show_not_on_guide">Чтобы ваша медицинская карта была доступна на экране блокировки, нажмите Еще, выберите Изменить и включите параметр Показывать, когда заблокировано.</string>
+    <string name="userinfo_lock_screen_show_not_on_guide">Чтобы ваша медицинская карта была доступна на экране блокировки, нажмите Ещё, выберите Изменить и включите параметр Показывать, когда заблокировано.</string>
     <string name="userinfo_lock_screen_show_solve_title">Просмотр медкарты на экране блокировки</string>
     <string name="userinfo_lock_show_solve_description">Для отображения медкарты на экране блокировки разрешите этому приложению отображение на экране блокировки.</string>
     <string name="userinfo_lock_show_solve_go">Настройки</string>

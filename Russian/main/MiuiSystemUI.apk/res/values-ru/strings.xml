@@ -33,7 +33,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_slice_error">Не удалось подключиться</string>
-    <string name="abc_slice_more">Еще</string>
+    <string name="abc_slice_more">Ещё</string>
     <string name="abc_slice_more_content">+ %1$d</string>
     <string name="abc_slice_permission_allow">Разрешить</string>
     <string name="abc_slice_permission_checkbox">Разрешить %1$s показывать фрагменты из любого приложения</string>
@@ -41,7 +41,7 @@
     <string name="abc_slice_permission_text_1">- может читать информацию из %1$s</string>
     <string name="abc_slice_permission_text_2">- может выполнять действия в %1$s</string>
     <string name="abc_slice_permission_title">Разрешить %1$s показывать фрагменты %2$s?</string>
-    <string name="abc_slice_show_more">Показать еще</string>
+    <string name="abc_slice_show_more">Показать ещё</string>
     <string name="abc_slice_updated">Обновлено %1$s</string>
     <string name="abc_slices_permission_request">%1$s показать фрагменты %2$s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
@@ -516,14 +516,14 @@
     <string name="battery_state_unknown_notification_title">Неизвестное состояние батареи</string>
     <string name="biometric_dialog_authenticated">Распознано</string>
     <string name="biometric_dialog_confirm">Подтвердить</string>
-    <string name="biometric_dialog_credential_attempts_before_wipe">Попробуйте еще раз. Попытка %1$d из %2$d.</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">Попробуйте ещё раз. Попытка %1$d из %2$d.</string>
     <string name="biometric_dialog_credential_too_many_attempts">"Слишком много неверных попыток.
-Попробуйте еще раз через %d сек."</string>
+Попробуйте ещё раз через %d сек."</string>
     <string name="biometric_dialog_empty_space_description">Нажмите для отмены</string>
     <string name="biometric_dialog_face_icon_description_authenticated">Лицо распознано</string>
     <string name="biometric_dialog_face_icon_description_authenticating">Сканирование лица</string>
     <string name="biometric_dialog_face_icon_description_confirmed">Подтверждено</string>
-    <string name="biometric_dialog_face_icon_description_idle">Попробуйте еще раз</string>
+    <string name="biometric_dialog_face_icon_description_idle">Попробуйте ещё раз</string>
     <string name="biometric_dialog_failed_attempts_now_wiping_device">Слишком много неверных попыток. Данные на устройстве будут удалены.</string>
     <string name="biometric_dialog_failed_attempts_now_wiping_profile">Слишком много неверных попыток. Этот рабочий профиль и его данные будут удалены.</string>
     <string name="biometric_dialog_failed_attempts_now_wiping_user">Слишком много неверных попыток. Этот пользователь будет удален.</string>
@@ -800,7 +800,7 @@
     <string name="controls_error_failed">Ошибка. Повторите попытку.</string>
     <string name="controls_error_generic">Не удалось получить статус</string>
     <string name="controls_error_removed">Не найдено</string>
-    <string name="controls_error_removed_message">Не удалось получить доступ к %1$s. Проверьте настройки приложения %2$s, и что элемент управления все еще доступен.</string>
+    <string name="controls_error_removed_message">Не удалось получить доступ к %1$s. Проверьте настройки приложения %2$s, и что элемент управления все ещё доступен.</string>
     <string name="controls_error_removed_title">Управление недоступно</string>
     <string name="controls_error_retryable">Ошибка. Повтор…</string>
     <string name="controls_error_timeout">Неактивно. Проверьте приложение.</string>
@@ -1128,7 +1128,7 @@
     <string name="feedback_prompt">Оставить отзыв до разработчиков?</string>
     <string name="feedback_response">Спасибо за отзыв!</string>
     <string name="feedback_silenced">Уровень важности этого уведомления был автоматически &lt;b>понижен до \"Без звука\"&lt;/b>.</string>
-    <string name="finger_error_single_mode">Сканер отпечатков недоступен в режиме управления одной рукой. Выйдите из режима и попробуйте еще раз.</string>
+    <string name="finger_error_single_mode">Сканер отпечатков недоступен в режиме управления одной рукой. Выйдите из режима и попробуйте ещё раз.</string>
     <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
     <string name="fingerprint_again_identified_msg">Разблокировка отпечатком снова активна. Используйте отпечаток или введите пароль.</string>
@@ -1751,7 +1751,7 @@ dd.MM"</string>
     <string name="miui_notification_menu_allow">Разрешить</string>
     <string name="miui_notification_menu_feedback_success">Спасибо за отзыв!</string>
     <string name="miui_notification_menu_fold">Неважные</string>
-    <string name="miui_notification_menu_more_setting">Еще</string>
+    <string name="miui_notification_menu_more_setting">Ещё</string>
     <string name="miui_notification_menu_msg_fold">Группировать все уведомления от %1$s?</string>
     <string name="miui_notification_menu_msg_not_allow">Отключить все уведомления от %1$s?</string>
     <string name="miui_notification_menu_msg_unfold">Отображать все уведомления от %1$s раздельно?</string>
@@ -1796,7 +1796,7 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -1926,7 +1926,7 @@ mm"</string>
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mount_storage">Подключить</string>
     <string name="mr_button_content_description">Трансляция</string>
@@ -2136,7 +2136,7 @@ mm"</string>
     <string name="notification_silence_title">Без звука</string>
     <string name="notification_storage_float">Внешний накопитель</string>
     <string name="notification_summary_message_format">%1$s: %2$s</string>
-    <string name="notification_tap_again">Нажмите еще раз для открытия</string>
+    <string name="notification_tap_again">Нажмите ещё раз для открытия</string>
     <string name="notification_template_text">" отправил уведомление. Нажмите для просмотра."</string>
     <string name="notification_unblockable_desc">Эти уведомления не могут быть изменены</string>
     <string name="notification_vpn_connected">VPN подключен</string>
@@ -2678,7 +2678,7 @@ mm"</string>
     <string name="search_hint">Поиск сайтов, приложений, контактов и видео…</string>
     <string name="search_menu">Настройки поиска</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="see_more_title">Еще</string>
+    <string name="see_more_title">Ещё</string>
     <string name="select_application">Выберите приложение</string>
     <string name="select_conversation_text">Нажмите на диалог, чтобы добавить его на рабочий стол</string>
     <string name="select_conversation_title">Виджеты диалогов</string>
@@ -2930,7 +2930,7 @@ d MMMM"</string>
     <string name="switch_system_user">Вернуться к Первому пространству</string>
     <string name="system_ui_aod_date_pattern">eeedMMM</string>
     <string name="system_ui_tuner">Настройка системного UI</string>
-    <string name="tap_again">Нажмите еще раз</string>
+    <string name="tap_again">Нажмите ещё раз</string>
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
     <string name="tap_to_sign_up">Нажмите для регистрации</string>
     <string name="task_access_locked_app_msg">Включена защита приложений</string>

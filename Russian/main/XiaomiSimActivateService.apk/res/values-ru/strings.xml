@@ -93,8 +93,8 @@
     <string name="activate_popup_desc_failed_server">Проверьте подключение и повторите попытку.</string>
     <string name="activate_popup_desc_failed_server_msg">Ошибка сервера. Проверьте настройки сети и повторите попытку.</string>
     <string name="activate_popup_desc_find_device_postfix">После замены SIM-карты может быть отправлено SMS для активации.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Для активации %3$s введите номер телефона SIM-карты %2$d. Если вы замените эту SIM-карту, будет отправлено еще одно SMS для активации.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Для активации %2$s введите номер телефона. Если вы замените эту SIM-карту, будет отправлено еще одно SMS для активации.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Для активации %3$s введите номер телефона SIM-карты %2$d. Если вы замените эту SIM-карту, будет отправлено ещё одно SMS для активации.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Для активации %2$s введите номер телефона. Если вы замените эту SIM-карту, будет отправлено ещё одно SMS для активации.</string>
     <string name="activate_popup_desc_intl_sim_card">Для активации %s будет отправлено международное SMS. Оплата согласно тарифу вашего оператора.</string>
     <string name="activate_popup_desc_intl_sim_card_msg">Для активации сервиса \"%2$s\" будет отправлено %1$d междунар. SMS. Ваш оператор связи может взимать плату за сообщения.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Для активации сервиса \"%2$s\" будет отправлено &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>междунар. SMS&lt;/b>&lt;/font>. Оплата согласно тарифу вашего оператора.</string>
@@ -189,7 +189,7 @@
     <string name="error_checking_client">Во время активации произошла ошибка</string>
     <string name="error_checking_client_tip">Не удалось проверить среду активации. Нажмите, чтобы повторить попытку.</string>
     <string name="error_network_io">Произошла ошибка сети</string>
-    <string name="error_network_io_tip">Проверьте настройки сети и попробуйте еще раз</string>
+    <string name="error_network_io_tip">Проверьте настройки сети и попробуйте ещё раз</string>
     <string name="error_no_get_send_sms_permission">Разрешите SIM %d отправку SMS</string>
     <string name="error_no_get_send_sms_permission_one_sim">Разрешите отправку SMS</string>
     <string name="error_no_send_sms_permission">Разрешите сервису активации Xiaomi SIM отправку SMS</string>
@@ -228,7 +228,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -288,7 +288,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>

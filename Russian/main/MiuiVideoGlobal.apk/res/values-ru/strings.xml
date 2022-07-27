@@ -74,7 +74,7 @@
     <string name="ad_buy">Покупка</string>
     <string name="ad_download">Загрузка</string>
     <string name="ad_join">Присоединиться</string>
-    <string name="ad_more">Еще</string>
+    <string name="ad_more">Ещё</string>
     <string name="add_local_shortcut_add">Добавить</string>
     <string name="add_local_shortcut_des">Добавьте ярлык \"Мое видео\" на рабочий стол для просмотра видео одним касанием</string>
     <string name="add_search_channel_link">URL-адрес</string>
@@ -452,7 +452,7 @@ ID: %s
     <string name="exo_track_unknown">Неизвестный трек</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="explore">Ознакомиться</string>
-    <string name="explore_on_mi_video">Еще больше в Mi Видео</string>
+    <string name="explore_on_mi_video">Ещё больше в Mi Видео</string>
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="facebook_application_id"/>
     <string name="failed_dup_secure_phone_number">Этот номер телефона используется другим Xiaomi аккаунтом</string>
@@ -629,7 +629,7 @@ ID: %s
     <string name="galleryplus_permission_title">Внимание</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Восстановлена скорость воспроизведения по умолчанию</string>
-    <string name="galleryplus_save_cancel_toast">Нажмите \"Назад\" еще раз для отмены сохранения видео</string>
+    <string name="galleryplus_save_cancel_toast">Нажмите \"Назад\" ещё раз для отмены сохранения видео</string>
     <string name="galleryplus_save_fail">Не удалось сохранить</string>
     <string name="galleryplus_save_success">Успешно сохранено</string>
     <string name="galleryplus_screenshot_8k">Скриншот 8K</string>
@@ -710,7 +710,7 @@ ID: %s
     <string name="incentive_details">Подробности</string>
     <string name="incentive_dialog_cancel_not_interested">Отмена</string>
     <string name="incentive_dialog_continue_to_watch">Продолжить</string>
-    <string name="incentive_dialog_default_message">Посмотрите еще %1$s, чтобы получить %2$s!</string>
+    <string name="incentive_dialog_default_message">Посмотрите ещё %1$s, чтобы получить %2$s!</string>
     <string name="incentive_dialog_default_title">Продолжить просмотр?</string>
     <string name="incentive_dialog_exit">Выход</string>
     <string name="incentive_dialog_negative_give_up">Нет, спасибо</string>
@@ -762,7 +762,7 @@ ID: %s
     <string name="issue">Проблема</string>
     <string name="item_card_all_replies">Все ответы</string>
     <string name="item_card_continue_play">Автовоспроизведение</string>
-    <string name="item_card_more_trailers">Еще</string>
+    <string name="item_card_more_trailers">Ещё</string>
     <string name="item_card_open_in">"Открыть в "</string>
     <string name="item_card_related">Похожие</string>
     <string name="item_download_only_wify">Загрузка только по Wi-Fi</string>
@@ -792,7 +792,7 @@ ID: %s
     <string name="loading">Подождите…</string>
     <string name="local_diversion_all_local_videos">Видео на устройстве</string>
     <string name="local_diversion_close_recommend">Закрыть</string>
-    <string name="local_diversion_download_more_video">Еще</string>
+    <string name="local_diversion_download_more_video">Ещё</string>
     <string name="local_diversion_manage_local_video">Управление файлами</string>
     <string name="local_diversion_open_mivideo">"Посмотреть в Mi Видео
 "</string>
@@ -977,7 +977,7 @@ ID: %s
     <string name="lv_volume">Громкость</string>
     <string name="manage">Управление</string>
     <string name="mangotv_feature_list_title3">Добавлена серия %s</string>
-    <string name="mangotv_feature_more">Еще</string>
+    <string name="mangotv_feature_more">Ещё</string>
     <string name="mangotv_feature_title1">Серии</string>
     <string name="mangotv_feature_title2">Серии</string>
     <string name="material_clock_display_divider">:</string>
@@ -1005,7 +1005,7 @@ ID: %s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -1082,7 +1082,7 @@ ID: %s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mr_button_content_description">Трансляция</string>
     <string name="mr_cast_button_connected">Трансляция. Подключено</string>
@@ -1224,7 +1224,7 @@ ID: %s
     <string name="ovp_detail_download">Загрузить</string>
     <string name="ovp_detail_has_empty_cp">Видео сейчас недоступно.</string>
     <string name="ovp_detail_more_episode">ЕЩЕ</string>
-    <string name="ovp_detail_more_summary">Еще</string>
+    <string name="ovp_detail_more_summary">Ещё</string>
     <string name="ovp_detail_require_pay">В аренду</string>
     <string name="ovp_detail_require_subscription">Требуется подписка</string>
     <string name="ovp_detail_score">"Оценка: "</string>
@@ -1440,7 +1440,7 @@ ID: %s
     <string name="playlist_offline">Этот плейлист больше не доступен.</string>
     <string name="playlist_remove">Удалить</string>
     <string name="playlist_title">Плейлист</string>
-    <string name="playlist_view_more">Еще</string>
+    <string name="playlist_view_more">Ещё</string>
     <string name="plus_add_shortcut">Создать ярлык на рабочем столе</string>
     <string name="plus_change_poster">Изменить обложку альбома</string>
     <string name="plus_continue_watching">Продолжить просмотр</string>
@@ -1653,7 +1653,7 @@ ID: %s
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
     <string name="save">СОХРАНИТЬ</string>
-    <string name="save_cancel_toast">Нажмите \"Назад\" еще раз для отмены сохранения</string>
+    <string name="save_cancel_toast">Нажмите \"Назад\" ещё раз для отмены сохранения</string>
     <string name="screenrecord_cancel">Проблемы совместимости</string>
     <string name="screenrecord_nosupport_record">Запись экрана пока не поддерживается на этом устройстве.</string>
     <string name="screenshot_8k">8K скриншоты</string>
@@ -1740,9 +1740,9 @@ ID: %s
     <string name="srl_footer_finish">Успешная загрузка</string>
     <string name="srl_footer_loading">Загрузка…</string>
     <string name="srl_footer_nothing">Больше нет данных</string>
-    <string name="srl_footer_pulling">Потяните вниз, чтобы загрузить еще</string>
+    <string name="srl_footer_pulling">Потяните вниз, чтобы загрузить ещё</string>
     <string name="srl_footer_refreshing">Идет обновление…</string>
-    <string name="srl_footer_release">Отпустите, чтобы загрузить еще</string>
+    <string name="srl_footer_release">Отпустите, чтобы загрузить ещё</string>
     <string name="srl_header_failed">Ошибка обновления</string>
     <string name="srl_header_finish">Успешное обновление</string>
     <string name="srl_header_loading">Идет загрузка…</string>
@@ -1788,7 +1788,7 @@ ID: %s
     <string name="t_check_hide_file">Выберите объекты для скрытия</string>
     <string name="t_check_unhide_file">Выберите объекты для отображения</string>
     <string name="t_downloading">Загрузка:</string>
-    <string name="t_exit_app">Нажмите еще раз для выхода.</string>
+    <string name="t_exit_app">Нажмите ещё раз для выхода.</string>
     <string name="t_lv_check_delete_history">Выберите объекты для удаления</string>
     <string name="t_lv_check_hide_file">Выберите видео для скрытия</string>
     <string name="t_lv_check_unhide_file">Выберите видео для показа</string>
@@ -1916,7 +1916,7 @@ ID: %s
     <string name="toast_incentive_claim_fail_11">Не удалось получить баллы. Подождите немного и повторите попытку.</string>
     <string name="toast_incentive_claim_out_of_limit_2004">Сегодня вы не можете заработать больше баллов. Свяжитесь с нами, если у вас остались какие-либо вопросы.</string>
     <string name="toast_incentive_redeem_fail_not_enough_points_2003">Недостаточно баллов</string>
-    <string name="toast_incentive_redeem_fail_out_of_limit_2004">Сегодня вы не можете получить эту награду еще раз</string>
+    <string name="toast_incentive_redeem_fail_out_of_limit_2004">Сегодня вы не можете получить эту награду ещё раз</string>
     <string name="toast_incentive_redeem_fail_prize_expired_2005">Эта награда недоступна</string>
     <string name="toast_incentive_redeem_fail_prize_expired_error">Не удалось получить. Подождите немного и повторите попытку.</string>
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">В настоящее время эта награда недоступна. Повторите попытку позже.</string>
@@ -1972,7 +1972,7 @@ ID: %s
     <string name="v_input_password">Введите пароль</string>
     <string name="v_login">Войти</string>
     <string name="v_menu_hide">Скрыть</string>
-    <string name="v_more">Еще</string>
+    <string name="v_more">Ещё</string>
     <string name="v_network_failed">Произошла ошибка сети.</string>
     <string name="v_next">Далее</string>
     <string name="v_ok">OK</string>

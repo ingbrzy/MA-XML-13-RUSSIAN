@@ -651,7 +651,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -712,7 +712,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="msg_cleanup_db_update_checking">Проверка обновлений…</string>
     <string name="msg_cleanup_db_update_time_unknown">Последнее обновление: неизвестно</string>
@@ -924,7 +924,7 @@
     <string name="search_history">История поиска</string>
     <string name="search_menu_title">Поиск</string>
     <string name="security_center_slogan">Безопасность. Всегда на защите.</string>
-    <string name="see_more">Еще</string>
+    <string name="see_more">Ещё</string>
     <string name="select_all">Выбрать все</string>
     <string name="send">Отправить</string>
     <string name="set_immediately">Настроить</string>

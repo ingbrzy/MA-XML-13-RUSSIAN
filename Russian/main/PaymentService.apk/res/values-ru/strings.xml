@@ -162,7 +162,7 @@ ID:%s
     <string name="mibi_btn_exit">Выход</string>
     <string name="mibi_btn_finish">готово</string>
     <string name="mibi_btn_mili_center_recharge">Пополнить счёт</string>
-    <string name="mibi_btn_net_connection_retry">Попробовать еще</string>
+    <string name="mibi_btn_net_connection_retry">Попробовать ещё</string>
     <string name="mibi_btn_next">Далее</string>
     <string name="mibi_btn_prev">Назад</string>
     <string name="mibi_btn_query">Запрос</string>
@@ -182,12 +182,12 @@ ID:%s
     <string name="mibi_button_next">Далее</string>
     <string name="mibi_button_pay">Подтвердить</string>
     <string name="mibi_button_reget">Отправить</string>
-    <string name="mibi_button_retry">Попробовать еще</string>
+    <string name="mibi_button_retry">Попробовать ещё</string>
     <string name="mibi_camera_open_failed">Не удалось открыть камеру</string>
     <string name="mibi_cancel">Отмена</string>
     <string name="mibi_change_security_lock">Другие варианты блокировки</string>
     <string name="mibi_check_giftcard">Посмотреть все купоны</string>
-    <string name="mibi_click_retry">%1$s, нажмите, чтобы попробовать еще</string>
+    <string name="mibi_click_retry">%1$s, нажмите, чтобы попробовать ещё</string>
     <string name="mibi_cta_agreement_checkbox_description">Прочтите и примите %1$s и %2$s</string>
     <string name="mibi_cta_agreement_tips">Примите условия использования</string>
     <string name="mibi_cta_description">"Добро пожаловать в Mi Coin, это приложение предоставляет такие функции, как пополнение Mi Coin и просмотр подарочных сертификатов. Мы будем обрабатывать вашу соответствующую информацию в соответствии с требованиями законов и правил:
@@ -434,10 +434,10 @@ ID:%s
     <string name="mibi_progress_success_recharge_summary">Баланс аккаунта: %1$s Mi Coins.</string>
     <string name="mibi_progress_success_recharge_title">Пополнение %1$s Mi Coins завершено</string>
     <string name="mibi_progress_voucher_creating">Пополнение карты Mi Coin…</string>
-    <string name="mibi_progress_warning_check_with_contact">Платеж еще не пришел на ваш счет.
-Мы проверим еще раз в течение двух рабочих дней.
+    <string name="mibi_progress_warning_check_with_contact">Платеж ещё не пришел на ваш счет.
+Мы проверим ещё раз в течение двух рабочих дней.
 Центр обслуживания клиентов: 400-100-3399</string>
-    <string name="mibi_progress_warning_waiting">Платеж еще не пришел на ваш счет.</string>
+    <string name="mibi_progress_warning_waiting">Платеж ещё не пришел на ваш счет.</string>
     <string name="mibi_prompt_info_button_hint">Внимание(%d)</string>
     <string name="mibi_prompt_info_button_text">ОК</string>
     <string name="mibi_prompt_info_for_first_use">Mi Coin нельзя использовать для покупки оборудования на Mi.com</string>
@@ -452,12 +452,12 @@ ID:%s
     <string name="mibi_push_unset_alias_success">Сброс псевдонима \"%1$s\" завершен.</string>
     <string name="mibi_recharge_amount_list_mibi_unit">Mi</string>
     <string name="mibi_recharge_grid_error_denomination">Сумма должна быть между %1$s и %2$s Mi Coins</string>
-    <string name="mibi_recharge_grid_item_more">Еще</string>
+    <string name="mibi_recharge_grid_item_more">Ещё</string>
     <string name="mibi_recharge_grid_mibi_picker_hint">Выберите сумму (1 Mi Coin = 1 RMB)</string>
     <string name="mibi_recharge_grid_money_picker_hint">Выберите сумму</string>
     <string name="mibi_recharge_input_amount_hint">Введите сумму</string>
     <string name="mibi_recharge_label">Пополнение</string>
-    <string name="mibi_recharge_more_channels_title">Еще</string>
+    <string name="mibi_recharge_more_channels_title">Ещё</string>
     <string name="mibi_recharge_novalid_method">Нет возможного способа пополнения.</string>
     <string name="mibi_recharge_other">Посмотреть другие способы</string>
     <string name="mibi_recharge_other_amount">Другая сумма</string>
@@ -546,7 +546,7 @@ ID:%s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -606,7 +606,7 @@ ID:%s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="nick_name">Имя пользователя</string>
@@ -627,7 +627,7 @@ ID:%s
     <string name="passport_account_set_password">Задать пароль</string>
     <string name="passport_account_set_password_prompt">Установите пароль для своей учетной записи.</string>
     <string name="passport_account_set_password_title">Задайте пароль</string>
-    <string name="passport_activate_token_expired">Код подтверждения истёк. Попробуйте еще раз.</string>
+    <string name="passport_activate_token_expired">Код подтверждения истёк. Попробуйте ещё раз.</string>
     <string name="passport_active_email_visit">Проверьте вашу почту %s</string>
     <string name="passport_activing_account">Активация…</string>
     <string name="passport_adding_account">Добавление аккаунта…</string>
@@ -676,7 +676,7 @@ ID:%s
     <string name="passport_error_invalid_phone_num">Неверный номер телефона</string>
     <string name="passport_error_login">Ошибка авторизации</string>
     <string name="passport_error_network">Не удается подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы еще не установили пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_no_password_user">Вы ещё не установили пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone_error">Неверный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>
     <string name="passport_error_sim_not_ready">SIM-карта не найдена</string>
@@ -768,7 +768,7 @@ ID:%s
     <string name="passport_registered_phone_user_ID">ID пользователя: %s</string>
     <string name="passport_registered_phone_user_name">Имя пользователя: %s</string>
     <string name="passport_reject_recycle_account">Нет</string>
-    <string name="passport_reload_ph_ticket">Отправь еще раз</string>
+    <string name="passport_reload_ph_ticket">Отправь ещё раз</string>
     <string name="passport_relogin">Войти повторно</string>
     <string name="passport_relogin_notice">Необходимо повторно выполнить вход</string>
     <string name="passport_remove_confirm">Удалить</string>
@@ -862,7 +862,7 @@ ID:%s
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем с подтверждением. Убедитесь, что письмо с подтверждением не находится в папке «Спам» вашего почтового ящика.</string>
     <string name="resend_email_reach_limit_title">Слишком много попыток</string>
     <string name="resend_email_success">Успешно отправлено</string>
-    <string name="restart_action">Начать еще раз</string>
+    <string name="restart_action">Начать ещё раз</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Начать все равно?</string>
     <string name="restart_phone_bind_title">Изменить телефон восстановления</string>
     <string name="same_new_and_old_pwd">Не может быть таким же, как текущий пароль</string>
@@ -910,7 +910,7 @@ ID:%s
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="temporary_not_available">Эта функция еще не доступна</string>
+    <string name="temporary_not_available">Эта функция ещё не доступна</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -975,7 +975,7 @@ ID:%s
     <string name="v_code_title">Введите код подтверждения</string>
     <string name="web_sso_login_fail">Вам нужно войти снова</string>
     <string name="web_sso_login_message">Вход…</string>
-    <string name="webview_reload">Попробовать еще раз</string>
+    <string name="webview_reload">Попробовать ещё раз</string>
     <string name="wechat_application_id"/>
     <string name="wechat_scope"/>
     <string name="wechat_state"/>

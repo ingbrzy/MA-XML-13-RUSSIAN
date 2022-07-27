@@ -245,7 +245,7 @@
     <string name="feedback_report_privacy_msg">Отчёт будет содержать ваше местоположение</string>
     <string name="feedback_result_fail_no_choice">Выберите текущие погодные условия</string>
     <string name="feedback_result_fail_no_reason">Спасибо за ваш отзыв!</string>
-    <string name="feedback_result_fail_same_type">Похоже, ваш отчёт не отличается от текущей погоды. Попробуйте еще раз.</string>
+    <string name="feedback_result_fail_same_type">Похоже, ваш отчёт не отличается от текущей погоды. Попробуйте ещё раз.</string>
     <string name="feedback_result_success">Успешно отправлено, спасибо за ваш отчёт</string>
     <string name="feedback_sandy">Пыль</string>
     <string name="feedback_sunny">Ясно</string>
@@ -327,7 +327,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -387,9 +387,9 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_details">Подробнее</string>
-    <string name="more_expanded">Еще</string>
+    <string name="more_expanded">Ещё</string>
     <string name="morning">Утро</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="network_unavailable">Не удалось подключиться к сети</string>

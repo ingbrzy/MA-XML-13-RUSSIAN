@@ -127,7 +127,7 @@
     <string name="et_search_turnto">На листе:</string>
     <string name="et_sort_ascend">По возрастанию</string>
     <string name="et_sort_descend">По убыванию</string>
-    <string name="et_sort_empty">Не удается отсортировать содержимое, выберите область еще раз.</string>
+    <string name="et_sort_empty">Не удается отсортировать содержимое, выберите область ещё раз.</string>
     <string name="et_sort_title_tips">Заголовки данных должны быть отсортированы.</string>
     <string name="et_sorter_expand_selection">Рядом с выделенной областью обнаружены данные. Какие данные отсортировать?</string>
     <string name="et_sorter_expand_selection_cancel">Выделенная область</string>
@@ -343,7 +343,7 @@
     <string name="reader_writer_accept_revision">принять изменения</string>
     <string name="reader_writer_delete_comment">удалить комментарий</string>
     <string name="reader_writer_hide">скрыть</string>
-    <string name="reader_writer_more">еще</string>
+    <string name="reader_writer_more">ещё</string>
     <string name="reader_writer_page_num">страница %1$s</string>
     <string name="reader_writer_paste_options">параметры вставки</string>
     <string name="reader_writer_reject_revision">отклонить изменения</string>

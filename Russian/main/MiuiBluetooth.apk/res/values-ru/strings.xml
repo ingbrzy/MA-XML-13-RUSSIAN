@@ -123,7 +123,7 @@
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="ble_device_address">MAC адрес устройства Bluetooth Smart</string>
     <string name="ble_device_profile">Профили устройства Bluetooth</string>
-    <string name="ble_device_profile_header_title">Еще</string>
+    <string name="ble_device_profile_header_title">Ещё</string>
     <string name="ble_device_profile_summary">Управление устройством</string>
     <string name="ble_device_profile_title">Устройство Bluetooth Smart</string>
     <string name="ble_device_rename">Переименовать</string>
@@ -532,7 +532,7 @@
     <string name="installer_error_invalid_request">Недопустимый запрос на установку</string>
     <string name="installer_error_module_unavailable">Запрашиваемый модуль недоступен</string>
     <string name="installer_error_network_error">Проверьте состояние сети устройства!</string>
-    <string name="installer_error_service_died">Сервис недоступен, попробуйте еще раз.</string>
+    <string name="installer_error_service_died">Сервис недоступен, попробуйте ещё раз.</string>
     <string name="installer_installed">Установлено</string>
     <string name="installer_installing">Установка…</string>
     <string name="installer_pending">Ожидание…</string>
@@ -622,7 +622,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -687,7 +687,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mr_button_content_description">Трансляция</string>
     <string name="mr_cast_button_connected">Трансляция. Подключено</string>

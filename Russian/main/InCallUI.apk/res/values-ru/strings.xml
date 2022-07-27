@@ -217,7 +217,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="inCallLabel">Телефон</string>
-    <string name="incall_bubble_hangup_click_hint">Нажмите еще раз, чтобы вернуться к вызову</string>
+    <string name="incall_bubble_hangup_click_hint">Нажмите ещё раз, чтобы вернуться к вызову</string>
     <string name="incall_call_type_label_sip">SIP вызов</string>
     <string name="incall_error_supp_service_conference">Не удалось создать конференц-вызов.</string>
     <string name="incall_error_supp_service_hangup">Не удалось завершить вызов.</string>
@@ -244,7 +244,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -304,7 +304,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="msim_select_default_last">Последняя использованная</string>
     <string name="msim_select_default_time_left">(%d сек.)</string>

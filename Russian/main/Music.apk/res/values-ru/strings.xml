@@ -174,7 +174,7 @@
     <string name="avoid_to_use_traffic_summary">Загружать онлайн музыку только по сети Wi-Fi</string>
     <string name="avoid_to_use_traffic_title">Предупреждать при использовании мобильного интернета</string>
     <string name="back">Выход</string>
-    <string name="back_confirm">Нажмите еще раз для выхода</string>
+    <string name="back_confirm">Нажмите ещё раз для выхода</string>
     <string name="banner_op">Mi Музыка</string>
     <string name="best_experience">Лучшие впечатления</string>
     <string name="bind_sign_in_title">Добавьте Mi аккаунт</string>
@@ -376,7 +376,7 @@ ID: %s
     <string name="dialog_title_delete_tracks">Удалить</string>
     <string name="dialog_title_name_playlist">Имя плейлиста</string>
     <string name="dialog_title_not_available">Ошибка загрузки</string>
-    <string name="dialog_title_queued_body">Файл еще не доступен</string>
+    <string name="dialog_title_queued_body">Файл ещё не доступен</string>
     <string name="dialog_title_remove_tracks">Убрать</string>
     <string name="disallow_add_to_fm">Нельзя добавить в Радио</string>
     <string name="discover_more_music">Откройте для себя новую музыку</string>
@@ -662,7 +662,7 @@ ID: %s
     <string name="home_tab_home">Домашняя страница</string>
     <string name="home_tab_joox">JOOX музыка</string>
     <string name="home_tab_local">Моя музыка</string>
-    <string name="home_tab_more_music">Еще</string>
+    <string name="home_tab_more_music">Ещё</string>
     <string name="home_tab_online">Онлайн музыка</string>
     <string name="home_tab_recommend">Онлайн</string>
     <string name="home_tab_search">Поиск</string>
@@ -772,7 +772,7 @@ ID: %s
     <string name="joox_privacy_tips_title">Политика конфиденциальности JOOX</string>
     <string name="joox_recommend_artist_title">Рекомендуемые исполнители</string>
     <string name="joox_recommend_playlist_title">Рекомендуемые плейлисты</string>
-    <string name="joox_search_result_more">Еще</string>
+    <string name="joox_search_result_more">Ещё</string>
     <string name="joox_search_subtitle_prefix_album">альбом</string>
     <string name="joox_search_subtitle_prefix_artist">исполнитель</string>
     <string name="joox_search_subtitle_prefix_playlist">плейлист</string>
@@ -793,7 +793,7 @@ ID: %s
     <string name="like">Нравится</string>
     <string name="list_item_play_all_tracks">Воспроизвести все</string>
     <string name="listen_anywhere">Слушайте везде</string>
-    <string name="load_more">Показать еще</string>
+    <string name="load_more">Показать ещё</string>
     <string name="load_shuffle">Загрузка…</string>
     <string name="loadercontainer_loading">Подождите…</string>
     <string name="loading">Подождите…</string>
@@ -870,14 +870,14 @@ ID: %s
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
     <string name="miuishare_publish">Отправить</string>
     <string name="miuishare_share_editor_title">Поделиться</string>
-    <string name="miuishare_title_more">Еще</string>
+    <string name="miuishare_title_more">Ещё</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuix_access_state_desc">Выбрано</string>
     <string name="miuix_alphabet_indexer_name">Алфавитная линейка</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -957,13 +957,13 @@ ID: %s
     <string name="moperission_warn_default">Отсутствуют разрешения</string>
     <string name="mopermission_system_default">Доступ к системным настройкам</string>
     <string name="mopermission_window_default">Открытие плавающего окна</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_add_song_list">Добавить треки в очередь</string>
     <string name="more_milink_and_bluetooth">Mi Link и Bluetooth</string>
     <string name="more_settings">Расширенные настройки</string>
     <string name="more_settings_summary">Таймер сна, фильтрация файлов и многое другое</string>
     <string name="more_share">Отправить</string>
-    <string name="more_splendid_contents">Еще</string>
+    <string name="more_splendid_contents">Ещё</string>
     <string name="morning">AM</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удаление %1$s</string>
@@ -1143,7 +1143,7 @@ ID: %s
     <string name="passport_error_empty_voice_code">Введите код с картинки</string>
     <string name="passport_error_illegal_pwd">Неверный пароль</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone_error">Неверный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>
     <string name="passport_error_unknown">Ошибка авторизации</string>
@@ -1373,7 +1373,7 @@ ID: %s
     <string name="search_in_youtube">Поиск на YouTube</string>
     <string name="search_instant_online_music">Онлайн</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="search_more">Еще</string>
+    <string name="search_more">Ещё</string>
     <string name="search_result_local_songs">Локальные</string>
     <string name="search_result_online_songs">Онлайн</string>
     <string name="search_songs">Поиск треков</string>
@@ -1424,7 +1424,7 @@ ID: %s
     <string name="share_text_list">"Плейлист Mi Music: "</string>
     <string name="share_text_song">"Трек Mi Music: "</string>
     <string name="show_float_first_hint">Свернуть</string>
-    <string name="show_more">Показать еще %s</string>
+    <string name="show_more">Показать ещё %s</string>
     <string name="shuffle_music">В случайном порядке</string>
     <string name="shuffle_off_notif">Перемешивание отключено.</string>
     <string name="shuffle_on_notif">Перемешивание включено.</string>

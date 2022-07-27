@@ -95,7 +95,7 @@
     <string name="category_files">Файлы</string>
     <string name="category_installed_app">Приложения</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_more">Еще</string>
+    <string name="category_more">Ещё</string>
     <string name="category_music">Музыка</string>
     <string name="category_other">Другие</string>
     <string name="category_photo">Фото</string>
@@ -365,9 +365,9 @@
     <string name="launcher_icon_add_description">Добавить ярлык на рабочий стол</string>
     <string name="launcher_icon_remove_description_content">Приложение \"Проводник\" является системным, удалить его нельзя. После удаления ярлыка с рабочего стола, управление файлами на устройстве будет недоступно.</string>
     <string name="launcher_icon_remove_description_title">Удалить \"Проводник\" с рабочего стола?</string>
-    <string name="least_quick_category_hint">Можно добавить еще %d</string>
+    <string name="least_quick_category_hint">Можно добавить ещё %d</string>
     <string name="list_mode">Список</string>
-    <string name="load_more">Показать еще</string>
+    <string name="load_more">Показать ещё</string>
     <string name="load_more_fail">Ошибка загрузки</string>
     <string name="loading">Подождите…</string>
     <string name="local_image">Фото</string>
@@ -437,7 +437,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -498,7 +498,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="most_quick_category_hint">Можно добавить не более %d</string>
     <string name="move_failed">Ошибка перемещения</string>
@@ -696,7 +696,7 @@
     <string name="saturday_shortest">Сб</string>
     <string name="save_file_to_mishare">Сохранено в папке Mi Share</string>
     <string name="search_app">Приложения и папки</string>
-    <string name="search_app_more">Еще</string>
+    <string name="search_app_more">Ещё</string>
     <string name="search_category">Категории поиска</string>
     <string name="search_category_folder">Папки</string>
     <string name="search_description">Поиск среди всех файлов на устройстве</string>
@@ -711,9 +711,9 @@
     <string name="search_hint">Введите имя файла</string>
     <string name="search_keyword">Метки</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="search_more_category">Еще</string>
+    <string name="search_more_category">Ещё</string>
     <string name="search_result">Результаты</string>
-    <string name="search_result_more">Еще</string>
+    <string name="search_result_more">Ещё</string>
     <string name="search_title">Поиск</string>
     <string name="search_title_hint">Поиск</string>
     <string name="select_dest_folder">Выберите папку</string>
@@ -727,7 +727,7 @@
     <string name="server_control_settings">Настройки</string>
     <string name="set_pattern">Обновите пароль</string>
     <string name="set_pattern_btn">Задать</string>
-    <string name="set_pattern_msg">Задайте пароль еще раз. Пароль конфиденциальности также защищает фотографии, сообщения и заметки.</string>
+    <string name="set_pattern_msg">Задайте пароль ещё раз. Пароль конфиденциальности также защищает фотографии, сообщения и заметки.</string>
     <string name="size_lv1">Меньше %d КБ</string>
     <string name="size_lv2" formatted="false">%1d КБ - %2d МБ</string>
     <string name="size_lv3" formatted="false">%1d МБ - %2d МБ</string>
@@ -786,12 +786,12 @@
     <string name="sunday_shortest">Вс</string>
     <string name="switch_doc_type">Выберите формат</string>
     <string name="sys_size_enable">" доступно"</string>
-    <string name="tab_app">Еще</string>
+    <string name="tab_app">Ещё</string>
     <string name="tab_category">Категории</string>
     <string name="tab_common_app">Приложения и папки</string>
     <string name="tab_explore">Новое</string>
     <string name="tab_local">ЛОКАЛЬНЫЕ</string>
-    <string name="tab_more">Еще</string>
+    <string name="tab_more">Ещё</string>
     <string name="tab_source">Приложения</string>
     <string name="terabyteShort">" ТБ"</string>
     <string name="text_select_all">Выбрать все</string>

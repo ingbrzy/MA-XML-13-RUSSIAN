@@ -280,7 +280,7 @@
     <string name="default_folder_title_meitu">Meitu приложения</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Другие</string>
-    <string name="default_folder_title_recommend">Еще</string>
+    <string name="default_folder_title_recommend">Ещё</string>
     <string name="default_folder_title_security">Система</string>
     <string name="default_folder_title_services">Сервисы</string>
     <string name="default_folder_title_telcel">Telcel</string>
@@ -521,7 +521,7 @@
     <string name="menu_item_add_item">Отправить на рабочий стол</string>
     <string name="menu_launcher_setting">Настройки рабочего стола</string>
     <string name="menu_lock">Защитить от изменений</string>
-    <string name="menu_more">Еще</string>
+    <string name="menu_more">Ещё</string>
     <string name="menu_new_display_open">Открыть в новом окне</string>
     <string name="menu_no_word">Скрыть названия ярлыков</string>
     <string name="menu_pc_open">Открыть на ПК</string>
@@ -543,7 +543,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -603,7 +603,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -748,7 +748,7 @@
     <string name="photo_adjust">Просмотр</string>
     <string name="photo_confirm">OK</string>
     <string name="photo_load_failed">Не удалось загрузить фото</string>
-    <string name="please_slide_agian">Проведите еще раз</string>
+    <string name="please_slide_agian">Проведите ещё раз</string>
     <string name="popular_search">Популярное</string>
     <string name="pref_cell_layout_size">Сетка рабочего стола</string>
     <string name="pref_enable_drawing_cache_summary">Выключите, чтобы освободить память. Возможно притормаживание системы.</string>

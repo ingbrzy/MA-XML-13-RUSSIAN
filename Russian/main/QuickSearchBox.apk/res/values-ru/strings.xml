@@ -314,7 +314,7 @@
     <string name="miui_autologin_bar_error">Ошибка авторизации</string>
     <string name="miui_autologin_bar_title">Войдите в Xiaomi аккаунт</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
-    <string name="miuishare_title_more">Еще</string>
+    <string name="miuishare_title_more">Ещё</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
@@ -367,8 +367,8 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
-    <string name="more_tabs">Еще</string>
+    <string name="more">Ещё</string>
+    <string name="more_tabs">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="network_unavailable">Не удалось подключиться к сети</string>
@@ -415,7 +415,7 @@
     <string name="reader_history_default_subtitle">Недавно просмотренные</string>
     <string name="reader_history_read_continue">Далее</string>
     <string name="reader_history_title">Книги</string>
-    <string name="reader_history_view_more">Показать еще</string>
+    <string name="reader_history_view_more">Показать ещё</string>
     <string name="recent_app_enable_cancel">Не сейчас</string>
     <string name="recent_app_enable_description">Включите эту функцию для отображения часто используемых приложений.</string>
     <string name="recent_app_enable_ok">Включить</string>
@@ -509,7 +509,7 @@
     <string name="settings_source_label">Настройки</string>
     <string name="settings_speech_title">Голосовой поиск</string>
     <string name="share_page_text">Посмотрите, чем я поделился(-ась): %1$s %2$s</string>
-    <string name="show_more">Еще</string>
+    <string name="show_more">Ещё</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -643,7 +643,7 @@
     <string name="view_all">Все</string>
     <string name="view_history_clear_all_description">Удалить историю просмотров</string>
     <string name="view_history_clear_single_description">Удалить объект из истории просмотров</string>
-    <string name="view_more">Еще</string>
+    <string name="view_more">Ещё</string>
     <string name="voice_description">Голос</string>
     <string name="voice_search_hint_title">Попробуйте сказать:</string>
     <string name="web_copy_link">Копировать URL</string>

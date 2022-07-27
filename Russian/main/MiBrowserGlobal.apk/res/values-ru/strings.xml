@@ -145,7 +145,7 @@
     <string name="ad_exit_dialog_open_btn_name">Открыть</string>
     <string name="ad_exit_dialog_title_name">Открытие нового приложения</string>
     <string name="ad_go_download">Загрузить</string>
-    <string name="ad_go_see">Еще</string>
+    <string name="ad_go_see">Ещё</string>
     <string name="ad_loading_tips_text">Загрузка…</string>
     <string name="ad_look_detail">Сведения</string>
     <string name="ad_mark">Реклама</string>
@@ -319,7 +319,7 @@
     <string name="branch_setting">Настройки</string>
     <string name="branch_short_message">Сообщения</string>
     <string name="branch_shortcuts">Ярлыки</string>
-    <string name="branch_show_more">Еще</string>
+    <string name="branch_show_more">Ещё</string>
     <string name="branch_terms_condition">Условия использования</string>
     <string name="browser">Браузер</string>
     <string name="browserFrameFileErrorLabel">Ошибка файла</string>
@@ -385,7 +385,7 @@
     <string name="channel_layout">Макет канала</string>
     <string name="channel_manager">Управление каналами</string>
     <string name="channel_more_description">Нажмите, чтобы добавить канал</string>
-    <string name="channel_more_title">Еще</string>
+    <string name="channel_more_title">Ещё</string>
     <string name="channel_name">Загрузки</string>
     <string name="channel_network_error">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="channel_no_data">На данный момент это все</string>
@@ -686,7 +686,7 @@ ID:%s
     <string name="dialog_recovery_tabs_tip">"Восстановить вкладки?   "</string>
     <string name="dialog_scroll_up_to_more_site">Прокрутите вверх, чтобы увидеть больше</string>
     <string name="dialog_title_not_available">Ошибка загрузки</string>
-    <string name="dialog_title_queued_body">Файл еще не доступен</string>
+    <string name="dialog_title_queued_body">Файл ещё не доступен</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Подождите…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Отпустите, чтобы обновить</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Повтор</string>
@@ -746,7 +746,7 @@ ID:%s
     <string name="download_dialog_queued_body">Этот файл находится в очереди загрузок.</string>
     <string name="download_dialog_title_audio">Аудио</string>
     <string name="download_dialog_title_not_available">Ошибка загрузки</string>
-    <string name="download_dialog_title_queued_body">Файл еще не доступен</string>
+    <string name="download_dialog_title_queued_body">Файл ещё не доступен</string>
     <string name="download_dialog_title_save_apk">Загрузка приложения</string>
     <string name="download_dialog_title_video">Видео</string>
     <string name="download_error_io">Ошибка загрузки</string>
@@ -864,7 +864,7 @@ ID:%s
     <string name="evening">После полудня</string>
     <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Xiaomi аккаунтом.</string>
     <string name="exit">Выход</string>
-    <string name="exit_browser_confirmation">Нажмите еще раз, чтобы вернуться на рабочий стол</string>
+    <string name="exit_browser_confirmation">Нажмите ещё раз, чтобы вернуться на рабочий стол</string>
     <string name="exit_browser_warning">Выйти из браузера сейчас?</string>
     <string name="exit_clear_dialog_always">Запомнить выбор</string>
     <string name="exit_clear_dialog_btn_cancel">Выход</string>
@@ -999,7 +999,7 @@ ID:%s
     <string name="folder_name_empty">Введите имя папки</string>
     <string name="folder_name_illegal">Недопустимое имя папки.</string>
     <string name="follow_account_title">Аккаунты</string>
-    <string name="follow_detail_page_empty_tip">Этот пользователь еще ничего не публиковал.</string>
+    <string name="follow_detail_page_empty_tip">Этот пользователь ещё ничего не публиковал.</string>
     <string name="follow_hashtag_title">Хештеги</string>
     <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="force_quick_search_title">Поиск</string>
@@ -1012,7 +1012,7 @@ ID:%s
     <string name="gaid">GAID (нажмите для экспорта)</string>
     <string name="game_center_recommend_play">Играть</string>
     <string name="game_center_recommend_title">Рекомендуемое</string>
-    <string name="game_exit_when_press_back_again">Нажмите еще раз, чтобы выйти</string>
+    <string name="game_exit_when_press_back_again">Нажмите ещё раз, чтобы выйти</string>
     <string name="game_loading_stage_loadPackage_download_plugin_fail">Не удалось загрузить плагин</string>
     <string name="game_loading_stage_loadPackage_download_plugin_installing">Загрузка плагина…</string>
     <string name="game_loading_stage_loadPackage_download_plugin_start">Запрос плагина…</string>
@@ -1102,7 +1102,7 @@ ID:%s
     <string name="hashtag_dialog_cancel">Отмена</string>
     <string name="hashtag_dialog_confirm">Отписаться</string>
     <string name="hashtag_dialog_confirm_unfollow">Отписаться от %s?</string>
-    <string name="hashtag_explore_more">Еще</string>
+    <string name="hashtag_explore_more">Ещё</string>
     <string name="hashtag_follow_null">Вы ни на кого не подписаны</string>
     <string name="hashtag_follow_null_and_explore">Вы ни на кого не подписаны. Смотрите видео и подписывайтесь на любимые аккаунты.</string>
     <string name="hashtag_no_more_item">На данный момент это все</string>
@@ -1219,12 +1219,12 @@ ID:%s
     <string name="list_menu_rename_result_repeat">Файл с таким именем уже существует</string>
     <string name="load_end">Больше ничего нет</string>
     <string name="load_error_tip">Ошибка загрузки, нажмите для повтора</string>
-    <string name="load_failed">Не удалось загрузить информацию. Попробуйте еще раз.</string>
-    <string name="load_more">Показать еще</string>
+    <string name="load_failed">Не удалось загрузить информацию. Попробуйте ещё раз.</string>
+    <string name="load_more">Показать ещё</string>
     <string name="load_more_footer_status_msg_error_load">Не удалось загрузить. Повторите попытку.</string>
     <string name="load_more_footer_status_msg_error_no_network">Не удалось подключиться к сети</string>
     <string name="load_more_footer_status_msg_full">Больше ничего нет</string>
-    <string name="load_more_footer_status_msg_idle">Нажмите, чтобы загрузить еще</string>
+    <string name="load_more_footer_status_msg_idle">Нажмите, чтобы загрузить ещё</string>
     <string name="load_more_footer_status_msg_loading">Подождите…</string>
     <string name="load_sever_data_error">Сервер недоступен. Повторите попытку позже.</string>
     <string name="loading">Загрузка…</string>
@@ -1312,7 +1312,7 @@ ID:%s
     <string name="miuishare_publish">Отправить</string>
     <string name="miuishare_share_done">Отправлено</string>
     <string name="miuishare_share_editor_title">Поделиться</string>
-    <string name="miuishare_title_more">Еще</string>
+    <string name="miuishare_title_more">Ещё</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
@@ -1321,7 +1321,7 @@ ID:%s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -1386,7 +1386,7 @@ ID:%s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_description">Меню</string>
     <string name="more_info">Подробности</string>
     <string name="more_option">Дополнительно</string>
@@ -1451,7 +1451,7 @@ ID:%s
     <string name="mw_color_picker_button_cyan">Светло-голубой</string>
     <string name="mw_color_picker_button_green">Зелёный</string>
     <string name="mw_color_picker_button_magenta">Пурпурный</string>
-    <string name="mw_color_picker_button_more">Еще</string>
+    <string name="mw_color_picker_button_more">Ещё</string>
     <string name="mw_color_picker_button_red">Красный</string>
     <string name="mw_color_picker_button_set">Установить</string>
     <string name="mw_color_picker_button_white">Белый</string>
@@ -1696,7 +1696,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="nf_content_promo_label">ПРОМО</string>
     <string name="nf_detail_collection">В избранное</string>
     <string name="nf_dislike">Не интересует</string>
-    <string name="nf_feed_list_exit_toast">Нажмите еще раз, чтобы закрыть Ленту</string>
+    <string name="nf_feed_list_exit_toast">Нажмите ещё раз, чтобы закрыть Ленту</string>
     <string name="nf_feed_list_refresh_guide">Нажмите для загрузки новых объектов</string>
     <string name="nf_feedback">Отчёт</string>
     <string name="nf_feedback_dislike">Не нравится</string>
@@ -1721,7 +1721,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="no_connection">Сбой подключения к сети</string>
     <string name="no_content">Контент ещё не появился</string>
     <string name="no_file">Пусто</string>
-    <string name="no_follow_description">Вы еще ни на кого не подписаны. Смотрите новости, чтобы найти авторов и СМИ, которые вам нравятся.</string>
+    <string name="no_follow_description">Вы ещё ни на кого не подписаны. Смотрите новости, чтобы найти авторов и СМИ, которые вам нравятся.</string>
     <string name="no_items">Больше нет объектов</string>
     <string name="no_memory_space">недостаточно места</string>
     <string name="no_more_games">Больше нет игр</string>
@@ -2170,7 +2170,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="privacy_authorize_revoking">Отзыв разрешения…</string>
     <string name="privacy_authorize_summary">Используйте переключатель для предоставления или отзыва разрешения.</string>
     <string name="privacy_authorize_title">Предоставление разрешения</string>
-    <string name="privacy_btn_more">Еще</string>
+    <string name="privacy_btn_more">Ещё</string>
     <string name="privacy_dialog_next">Далее</string>
     <string name="privacy_dialog_revoke">Отозвать</string>
     <string name="privacy_dialog_text">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Wonderfic. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация (включая, помимо прочего, информацию об учетной записи, информацию о платежах и записи о покупках) будет удалена в течение определенного периода времени, как того требует действующее законодательство. <b>После отзыва согласия вы не сможете получить доступ к книгам, которые вы приобрели, а баланс вашего аккаунта будет очищен.</b> Поскольку Wonderfic необходимо собирать личную информацию, необходимую для предоставления вам своих услуг, отзыв согласия с Политикой конфиденциальности будет считаться отказом от использования сервиса.</string>
@@ -2522,7 +2522,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="small_video_boba_tab">Транслировать</string>
     <string name="small_video_comment">Все комментарии</string>
     <string name="small_video_comment_input_hint">Введите комментарий</string>
-    <string name="small_video_footer_status_msg_idle">Нажмите, чтобы загрузить еще</string>
+    <string name="small_video_footer_status_msg_idle">Нажмите, чтобы загрузить ещё</string>
     <string name="small_video_load_failed">Ошибка загрузки</string>
     <string name="small_video_loading">Загрузка…</string>
     <string name="small_video_main_tab">Рекомендуемые</string>
@@ -2580,9 +2580,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="srl_footer_finish">Успешно загружено</string>
     <string name="srl_footer_loading">Загрузка…</string>
     <string name="srl_footer_nothing">Нет больше данных</string>
-    <string name="srl_footer_pulling">Потяните, чтобы загрузить еще</string>
+    <string name="srl_footer_pulling">Потяните, чтобы загрузить ещё</string>
     <string name="srl_footer_refreshing">Ожидание обновления…</string>
-    <string name="srl_footer_release">Релиз, чтобы загрузить еще</string>
+    <string name="srl_footer_release">Релиз, чтобы загрузить ещё</string>
     <string name="srl_header_failed">Не удалось обновить</string>
     <string name="srl_header_finish">Успешно обновлено</string>
     <string name="srl_header_loading">Ожидание загрузки…</string>
@@ -2598,13 +2598,13 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
     <string name="ssl_continue">Продолжить</string>
-    <string name="ssl_date_error_warnings_header">Сертификат этого сайта истёк или еще не действителен. Рекомендуется покинуть эту страницу.</string>
+    <string name="ssl_date_error_warnings_header">Сертификат этого сайта истёк или ещё не действителен. Рекомендуется покинуть эту страницу.</string>
     <string name="ssl_date_invalid">Этот сертификат имеет недействительную дату.</string>
     <string name="ssl_expired">Срок действия этого сертификата истёк.</string>
     <string name="ssl_go_back">Назад</string>
     <string name="ssl_invalid">Этот сертификат недействителен.</string>
     <string name="ssl_mismatch">Имя сайта не совпадает с именем в сертификате.</string>
-    <string name="ssl_not_yet_valid">Этот сертификат еще не действителен.</string>
+    <string name="ssl_not_yet_valid">Этот сертификат ещё не действителен.</string>
     <string name="ssl_unknown">Неизвестная ошибка сертификата.</string>
     <string name="ssl_untrusted">Этот сертификат не от доверенного центра сертификации.</string>
     <string name="ssl_warnings_header">Проблема с сертификатом безопасности для этого сайта.</string>
@@ -2780,7 +2780,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="title_recent">Недавние</string>
     <string name="title_select_volume">Выберите папку</string>
     <string name="title_use_sandbox_domain">Использовать домен песочницы</string>
-    <string name="toast_exit_browser">Нажмите еще раз для выхода</string>
+    <string name="toast_exit_browser">Нажмите ещё раз для выхода</string>
     <string name="toast_feedback">Вы увидите меньше содержимого такого рода.</string>
     <string name="toast_not_support">Эта функция пока не поддерживается</string>
     <string name="today">Сегодня</string>
@@ -2800,14 +2800,14 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="translate_into">Перевести на</string>
     <string name="translate_page">Перевести страницу</string>
     <string name="translation_copy">Копировать</string>
-    <string name="translation_more">Посмотреть еще</string>
+    <string name="translation_more">Посмотреть ещё</string>
     <string name="translation_other">Другие языки</string>
     <string name="translation_query_error">Не удалось перевести</string>
     <string name="translation_query_error_network">Не удалось получить информацию. Подключитесь к сети и попробуйте снова.</string>
     <string name="translation_result_copy">Скопировано в буфер обмена</string>
     <string name="translation_result_empty">Ошибка перевода. Повторите попытку.</string>
     <string name="translation_to">Перевести на</string>
-    <string name="trending_apps_more">Еще</string>
+    <string name="trending_apps_more">Ещё</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
@@ -2939,7 +2939,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_subtitle_prefix2">"Просмотренные "</string>
     <string name="video_title_prefix_message">"Офлайн: "</string>
     <string name="video_unknown_duration">Неизвестная длительность</string>
-    <string name="video_view_more">Еще</string>
+    <string name="video_view_more">Ещё</string>
     <string name="view_certificate">Просмотр сертификата</string>
     <string name="view_document_downloaded_files">Просмотр загруженных файлов</string>
     <string name="vo_ad_detail">%s · реклама</string>
@@ -2962,10 +2962,10 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vo_feedback_sub_shield">, и т.п.</string>
     <string name="vo_info_flow_load_error_content">Повторить попытку</string>
     <string name="vo_info_flow_load_error_title">Не удалось загрузить. Проверьте настройки сети и повторите попытку.</string>
-    <string name="vo_info_flow_load_more_content">Загрузить еще</string>
+    <string name="vo_info_flow_load_more_content">Загрузить ещё</string>
     <string name="vo_info_flow_load_more_error">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="vo_info_flow_load_more_full">Больше ничего нет. Посмотрите другие каналы.</string>
-    <string name="vo_info_flow_load_more_idle">Загрузить еще</string>
+    <string name="vo_info_flow_load_more_idle">Загрузить ещё</string>
     <string name="vo_info_flow_load_more_loading">Подождите…</string>
     <string name="vo_info_flow_load_more_title">Попробуйте загрузить вручную</string>
     <string name="vo_info_flow_refresh_empty">Нет обновлений. Посмотрите другие каналы.</string>
@@ -3065,7 +3065,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_intercept_track_record_delete_hint">Отмена</string>
     <string name="web_intercept_track_record_empty_hint">Нет веб-сайтов</string>
     <string name="web_permission_domain_manage_page_title">Веб-сайты</string>
-    <string name="web_permission_empty_item_desc">Вы еще не добавляли пользовательские настройки.</string>
+    <string name="web_permission_empty_item_desc">Вы ещё не добавляли пользовательские настройки.</string>
     <string name="web_permission_intercept_guide_page_ad_desc">Слишком много рекламы? Заблокируйте ее, чтобы очистить веб-страницы от всего лишнего.</string>
     <string name="web_permission_intercept_guide_page_download_desc">Запретить автоматические загрузки.</string>
     <string name="web_permission_intercept_guide_page_permission_desc">Узнайте, какие действия веб-сайты выполняют втайне от вас, и контролируйте разрешенные действия.</string>
@@ -3128,7 +3128,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_video_download">Скачать</string>
     <string name="web_video_download_no_access">Для загрузки объектов необходимы разрешения</string>
     <string name="web_video_enable_long_click_toast">Воспроизведение на скорости %dX</string>
-    <string name="web_video_list_more">Еще</string>
+    <string name="web_video_list_more">Ещё</string>
     <string name="web_video_list_playing">Воспроизведение</string>
     <string name="web_video_list_replay">Повтор</string>
     <string name="web_video_list_title">На устройстве</string>

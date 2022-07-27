@@ -165,7 +165,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -225,7 +225,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="night">Вечер</string>
     <string name="no_transfers">Нет данных</string>
@@ -312,7 +312,7 @@
     <string name="status_no_sd_card_default">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
     <string name="status_no_sd_card_nosdcard">Отсутствует USB-накопитель.</string>
     <string name="status_not_accept">Контент не поддерживается.</string>
-    <string name="status_pending">Передача файла еще не началась.</string>
+    <string name="status_pending">Передача файла ещё не началась.</string>
     <string name="status_protocol_error">Невозможно правильно обработать запрос.</string>
     <string name="status_running">Выполняется передача файла.</string>
     <string name="status_success">Передача файла успешно завершена.</string>

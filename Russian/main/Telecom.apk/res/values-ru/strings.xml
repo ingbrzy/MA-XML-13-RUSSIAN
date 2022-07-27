@@ -383,7 +383,7 @@
     <string name="disabled_by_admin">Отключено администратором</string>
     <string name="disabled_by_admin_summary_text">Контролируется администратором</string>
     <string name="do_not_show_again">Больше не показывать</string>
-    <string name="duplicate_video_call_not_allowed">Не удается совершить еще один вызов</string>
+    <string name="duplicate_video_call_not_allowed">Не удается совершить ещё один вызов</string>
     <string name="early_morning">Утро</string>
     <string name="enable_account_preference_title">Аккаунты для вызовов</string>
     <string name="enable_adb">Отладка по USB</string>
@@ -512,7 +512,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -577,7 +577,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mr_button_content_description">Трансляция</string>
     <string name="mr_cast_button_connected">Трансляция. Подключено</string>

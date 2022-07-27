@@ -104,7 +104,7 @@
     <string name="agreement_required_tip">(Обязательное)</string>
     <string name="agreement_summary">Юридическая документация</string>
     <string name="ai_album_open_switch_button_title">Начать анализ фото</string>
-    <string name="ai_album_requesting_title">Алгоритм ИИ всё еще обрабатывает ваши фото. Вернитесь позже.</string>
+    <string name="ai_album_requesting_title">Алгоритм ИИ всё ещё обрабатывает ваши фото. Вернитесь позже.</string>
     <string name="ai_album_setting_key_word">Поиск фото</string>
     <string name="ai_album_setting_sub_title">Разрешить алгоритмам ИИ определять людей, места и объекты на ваших фото, чтобы вы могли быстрее их находить</string>
     <string name="ai_album_setting_title">Определять объекты на фото</string>
@@ -586,7 +586,7 @@
     <string name="confirm_download_video_title">Загрузка видео</string>
     <string name="confirm_face">Совпадение</string>
     <string name="confirm_hidden_recommend_group">OK</string>
-    <string name="confirm_hidden_recommend_group_message">При отключении рекомендаций вы сможете продолжить использование опции \"Еще похожие люди\"</string>
+    <string name="confirm_hidden_recommend_group_message">При отключении рекомендаций вы сможете продолжить использование опции \"Ещё похожие люди\"</string>
     <string name="confirm_hidden_recommend_group_title">Не показывать рекомендации</string>
     <string name="confirm_hide_selected_albums">Скрыть выбранные альбомы? Просмотр и управление скрытыми альбомами доступны в настройках.</string>
     <string name="confirm_merge_face_albums">
@@ -664,7 +664,7 @@
     <string name="deny">Отклонить</string>
     <string name="detail_title">Подробности</string>
     <string name="device_list_all">Все устройства</string>
-    <string name="device_list_more">Еще</string>
+    <string name="device_list_more">Ещё</string>
     <string name="device_offline">Другое устройство находится в автономном режиме. Начните сначала.</string>
     <string name="device_status_failed">Не удалось отправить</string>
     <string name="device_status_sending">Отправка…</string>
@@ -681,7 +681,7 @@
     <string name="disable_auto_upload_title">Отключение синхронизации</string>
     <string name="do_not_remind_me">Больше не показывать</string>
     <string name="doc_photo_enter"/>
-    <string name="document_provider_guide_step_1">%d. Нажмите кнопку \"Еще\".</string>
+    <string name="document_provider_guide_step_1">%d. Нажмите кнопку \"Ещё\".</string>
     <string name="document_provider_guide_step_2">%d. Нажмите \"Показать внутреннюю память\".</string>
     <string name="document_provider_guide_step_3">%d. Нажмите кнопку бокового меню.</string>
     <string name="document_provider_guide_step_4">%d. Выберите \"SD-карта\".</string>
@@ -691,8 +691,8 @@
     <string name="doodle_paint_select_light_talkback">Тонкая</string>
     <string name="doodle_paint_select_medium_talkback">Средняя</string>
     <string name="doodle_paint_select_talkback">Ширина штриха</string>
-    <string name="double_tap_for_hr_preview_108m">Нажмите дважды еще раз для предпросмотра 108MP</string>
-    <string name="double_tap_for_hr_preview_200m">Нажмите дважды еще раз для предпросмотра 200MP</string>
+    <string name="double_tap_for_hr_preview_108m">Нажмите дважды ещё раз для предпросмотра 108MP</string>
+    <string name="double_tap_for_hr_preview_200m">Нажмите дважды ещё раз для предпросмотра 200MP</string>
     <string name="double_tap_to_higher_definition">Нажмите дважды для просмотра в HD</string>
     <string name="download_canceled">Загрузка отменена</string>
     <string name="download_delete_error_desc">Невозможно восстановить этот файл, поскольку он удален с этого устройства и из облака. Удалить отсутствующий файл?</string>
@@ -1075,7 +1075,7 @@
     <string name="filter_sky_dynamic_saving">Создание видео</string>
     <string name="filter_sky_dynamic_shuyu">Дождь</string>
     <string name="filter_sky_dynamic_snow">Снег</string>
-    <string name="filter_sky_dynamic_stop_saving">Нажмите еще раз для отмены</string>
+    <string name="filter_sky_dynamic_stop_saving">Нажмите ещё раз для отмены</string>
     <string name="filter_sky_dynamic_text_yanhua">Текст</string>
     <string name="filter_sky_dynamic_text_yanhua_hint">Введите от %1$d до %1$d символов</string>
     <string name="filter_sky_dynamic_unavailable">Не удалось применить фильтр к изображениям</string>
@@ -1183,7 +1183,7 @@
     <string name="grant_permission_write_clipboard">Для возможности копирования содержимого, разрешите приложению запись в буфер обмена</string>
     <string name="group_header_title_immutable_album">Организация фото</string>
     <string name="group_header_title_media_group">Типы медиа</string>
-    <string name="group_header_title_third_album">Еще</string>
+    <string name="group_header_title_third_album">Ещё</string>
     <string name="group_header_title_user_create_album">Мои альбомы</string>
     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
     <string name="have_known">Понятно</string>
@@ -1427,12 +1427,12 @@
     <string name="magic_special_guide_title">Портретные видео</string>
     <string name="magic_specifications">Формат</string>
     <string name="magic_splitting_portrait_frames">Разбиение на кадры…</string>
-    <string name="magic_stop_saving">Нажмите еще раз для отмены</string>
+    <string name="magic_stop_saving">Нажмите ещё раз для отмены</string>
     <string name="magic_stroke">Контур</string>
     <string name="magic_typesetting_n">Макет</string>
     <string name="magic_value_exceed">Введенное значение превышает лимит</string>
     <string name="magic_video_cut_frame">Обработка…</string>
-    <string name="magic_video_cut_frame_back">Нажмите еще раз для отмены</string>
+    <string name="magic_video_cut_frame_back">Нажмите ещё раз для отмены</string>
     <string name="magic_video_cut_max">Выберите не более %1$d сек.</string>
     <string name="magic_video_cut_min">Выберите не менее %1$d сек.</string>
     <string name="magic_video_long_press">Нажмите и удерживайте, чтобы добавить</string>
@@ -1538,7 +1538,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -1608,10 +1608,10 @@
     <string name="monthly_pets_title">Пушистые друзья</string>
     <string name="monthly_sports_title">Полны энергии</string>
     <string name="monthly_travel_title">Поездки в %1$s</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_album_hint">, и т.д.</string>
-    <string name="more_album_tip">Еще</string>
-    <string name="more_face">Еще похожие люди</string>
+    <string name="more_album_tip">Ещё</string>
+    <string name="more_face">Ещё похожие люди</string>
     <string name="more_face_album_name">Другие лица</string>
     <string name="morning">Утро</string>
     <string name="mosaic_item_talkback_effect1">Решетка</string>
@@ -1673,7 +1673,7 @@
     <string name="movie_return">Назад</string>
     <string name="movie_save">Сохранить</string>
     <string name="movie_save_failed">Ошибка сохранения</string>
-    <string name="movie_save_stop_tips">Нажмите еще раз для отмены сохранения</string>
+    <string name="movie_save_stop_tips">Нажмите ещё раз для отмены сохранения</string>
     <string name="movie_save_successfully">Сохранено в альбом Творчество</string>
     <string name="movie_saving">Создание клипа…</string>
     <string name="movie_tab_edit">Редактор</string>
@@ -2408,7 +2408,7 @@
     <string name="search_title_app_screenshot">Скриншоты</string>
     <string name="search_title_history">История поиска</string>
     <string name="search_title_location">Места</string>
-    <string name="search_title_more">Еще</string>
+    <string name="search_title_more">Ещё</string>
     <string name="search_title_others">Все результаты</string>
     <string name="search_title_people">Лица</string>
     <string name="search_title_photo_name">Имя файла</string>
@@ -2645,7 +2645,7 @@
     <string name="storage_no_space">Недостаточно места</string>
     <string name="story_action_remove">Удалить</string>
     <string name="story_action_share">Отправить</string>
-    <string name="story_back_stop_download">Нажмите еще раз для остановки загрузки</string>
+    <string name="story_back_stop_download">Нажмите ещё раз для остановки загрузки</string>
     <string name="story_cancel_download">Отмена</string>
     <string name="story_download">Загрузить</string>
     <string name="story_download_failed_for_notwork">Ошибка загрузки. Подключитесь к сети и повторите попытку.</string>
@@ -2916,7 +2916,7 @@
     <string name="today_of_year">В этот день</string>
     <string name="today_of_year_empty_tip">Ничего нет</string>
     <string name="today_of_year_function_closed_btn_tip">Включить</string>
-    <string name="today_of_year_function_closed_tip">Вы еще не включили \"В этот день\"</string>
+    <string name="today_of_year_function_closed_tip">Вы ещё не включили \"В этот день\"</string>
     <string name="today_of_year_location_num">Места</string>
     <string name="today_of_year_photo_num">Фотографии</string>
     <string name="tomorrow">Завтра</string>
@@ -2993,7 +2993,7 @@
     <string name="video_compress_not_with_8k">Сжатие %dK видео не поддерживается</string>
     <string name="video_compress_not_with_format">Сжатие видео этого формата не поддерживается </string>
     <string name="video_compress_not_with_low_quality">Установлено минимальное разрешение</string>
-    <string name="video_compress_save_stop_tips">Нажмите еще раз, чтобы отменить сжатие</string>
+    <string name="video_compress_save_stop_tips">Нажмите ещё раз, чтобы отменить сжатие</string>
     <string name="video_compress_size">≈%s после сжатия</string>
     <string name="video_edit_file_not_exits_tip">Сначала загрузите видео</string>
     <string name="video_editor_abandon_changes_tip_message">Отменить все изменения?</string>
@@ -3053,7 +3053,7 @@
     <string name="video_editor_loading_plugin">Загрузка…</string>
     <string name="video_editor_loading_warning_msg">Из-за ошибки кодирования некоторые функции и предварительный просмотр могут быть недоступны во время процесса редактирования. Это не повлияет на окончательный видеофайл.</string>
     <string name="video_editor_loading_warning_title">Ошибка кодирования</string>
-    <string name="video_editor_more">Еще</string>
+    <string name="video_editor_more">Ещё</string>
     <string name="video_editor_not_support_8k_tips">Редактирование %dK видео не поддерживается</string>
     <string name="video_editor_not_support_tips">Этот тип видео не поддерживается</string>
     <string name="video_editor_ok">ОК</string>
@@ -3239,7 +3239,7 @@
     <string name="vlog_float_view_change_audio">Звуковая дорожка</string>
     <string name="vlog_float_view_original_ratio">Исходное</string>
     <string name="vlog_float_view_ratio">Соотношение сторон</string>
-    <string name="vlog_improt_encode_video_error">Ошибка кодирования. Попробуйте еще раз.</string>
+    <string name="vlog_improt_encode_video_error">Ошибка кодирования. Попробуйте ещё раз.</string>
     <string name="vlog_load_data_fail">Не удалось загрузить данные</string>
     <string name="vlog_mi_clip">Видеоредактор</string>
     <string name="vlog_mi_clip_cn">Видеоредактор</string>
@@ -3261,7 +3261,7 @@
     <string name="vlog_reverse_dialog_msg">Обратное воспроизведение…</string>
     <string name="vlog_reverse_fail">Ошибка воспроизведения</string>
     <string name="vlog_save_failed">Не удалось сохранить видео</string>
-    <string name="vlog_save_stop_tips">Нажмите еще раз для отмены</string>
+    <string name="vlog_save_stop_tips">Нажмите ещё раз для отмены</string>
     <string name="vlog_saving">Экспорт видео…</string>
     <string name="vlog_speed_double">2.0X</string>
     <string name="vlog_speed_half">0.5X</string>

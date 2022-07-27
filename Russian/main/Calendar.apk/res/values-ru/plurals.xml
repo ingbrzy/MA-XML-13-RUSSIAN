@@ -232,14 +232,14 @@
         <item quantity="few">" дня"</item>
     </plurals>
     <plurals name="other_all_day_events">
-        <item quantity="other">Еще %d мероприятий</item>
-        <item quantity="one">Еще %d мероприятие</item>
-        <item quantity="few">Еще %d мероприятия</item>
+        <item quantity="other">Ещё %d мероприятий</item>
+        <item quantity="one">Ещё %d мероприятие</item>
+        <item quantity="few">Ещё %d мероприятия</item>
     </plurals>
     <plurals name="other_num_events">
-        <item quantity="other">Еще %d мероприятий</item>
-        <item quantity="one">Еще %d мероприятие</item>
-        <item quantity="few">Еще %d мероприятия</item>
+        <item quantity="other">Ещё %d мероприятий</item>
+        <item quantity="one">Ещё %d мероприятие</item>
+        <item quantity="few">Ещё %d мероприятия</item>
     </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" дней"</item>

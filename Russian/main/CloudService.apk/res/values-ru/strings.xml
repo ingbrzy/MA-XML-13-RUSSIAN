@@ -555,7 +555,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -615,7 +615,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mx_dspt">Mi сообщения</string>
     <string name="mx_dspt_provision">"Mi сообщения позволяют вам бесплатно отправлять сообщения другим пользователям MIUI при подключении к Wi-Fi.
@@ -839,7 +839,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="share_miliao_not_installed">Mi Talk не установлен.</string>
     <string name="share_sdk_btn_already_shared_text">Приглашение доставлено</string>
     <string name="share_sdk_btn_quit_share_text">Прекратить передачу</string>
-    <string name="share_sdk_btn_resend_share_text">Отправь еще раз</string>
+    <string name="share_sdk_btn_resend_share_text">Отправь ещё раз</string>
     <string name="share_sdk_btn_send_share_text">Отправить приглашение</string>
     <string name="share_sdk_btn_stop_share_confirm_text">Прекратить передачу?</string>
     <string name="share_sdk_btn_stop_share_text">Прекратить передачу</string>
@@ -873,7 +873,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="share_sdk_error_user_not_support">Не получается пригласить людей из этого региона</string>
     <string name="share_sdk_expire_time">Срок действия приглашения: %1$s</string>
     <string name="share_sdk_family_member_title">Члены семьи</string>
-    <string name="share_sdk_invitation_not_accepted_now">Приглашение еще не принято</string>
+    <string name="share_sdk_invitation_not_accepted_now">Приглашение ещё не принято</string>
     <string name="share_sdk_invite_by_qr_code_title">QR-код приглашения</string>
     <string name="share_sdk_invite_family_list_error">Нет членов семьи для приглашения</string>
     <string name="share_sdk_invite_share_member_title">Члены семьи</string>
@@ -922,8 +922,8 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="sina_share_fail_content_repeat">Вы уже поделились этим.</string>
     <string name="sina_share_pendding">Отправка…</string>
     <string name="sina_share_success">Отправлено</string>
-    <string name="sina_token_expired_warning">Срок действия учетной записи Weibo истёк, добавьте учетную запись еще раз.</string>
-    <string name="sina_token_invalid_warning">Учетная запись Weibo недействительна, добавьте учетную запись еще раз.</string>
+    <string name="sina_token_expired_warning">Срок действия учетной записи Weibo истёк, добавьте учетную запись ещё раз.</string>
+    <string name="sina_token_invalid_warning">Учетная запись Weibo недействительна, добавьте учетную запись ещё раз.</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -956,7 +956,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="special_func_title">Специальные функции</string>
     <string name="starred_contact">Избранные</string>
     <string name="storage_manage_cloud_data_title">Просмотр в облаке</string>
-    <string name="storage_manage_expansion">Еще</string>
+    <string name="storage_manage_expansion">Ещё</string>
     <string name="storage_manage_full_summary">Облачное хранилище переполнено. Обновите план.</string>
     <string name="storage_manage_list_title">Облачные данные</string>
     <string name="storage_manage_list_title_action">Подробнее</string>

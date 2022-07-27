@@ -141,14 +141,14 @@
     <string name="auth_activity_title">Аккаунт Xunlei</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
     <string name="author_other_albums">Другие альбомы автора</string>
-    <string name="author_other_albums_empty">Автор еще не загрузил ни одного другого альбома</string>
+    <string name="author_other_albums_empty">Автор ещё не загрузил ни одного другого альбома</string>
     <string name="auto_enter_nowplaying_setting_title">Автоматически показывать развернутый плейер</string>
     <string name="auto_payment">Автопродление подписки</string>
     <string name="auto_payment_date">Следующий платеж: %s</string>
     <string name="auto_restart_under_wifi">Файл будет загружен при подключении к Wi-Fi</string>
     <string name="auto_upgrade">Обновлять автоматически</string>
     <string name="available_playlist_name_format">Новый плейлист %d</string>
-    <string name="back_confirm">Нажмите еще раз, чтобы перевести приложение в фоновый режим</string>
+    <string name="back_confirm">Нажмите ещё раз, чтобы перевести приложение в фоновый режим</string>
     <string name="backup_complete">Все песни загружены в Xiaomi Cloud</string>
     <string name="backup_empty_button">Песни не выбраны</string>
     <string name="backup_immediate">Резервное копирование</string>
@@ -234,7 +234,7 @@
     <string name="copy">Копировать</string>
     <string name="cp_frequency_error">слишком часто</string>
     <string name="cp_other_error">Этот элемент в настоящее время недоступен из-за проблем с авторскими правами. Следите за обновлениями!</string>
-    <string name="create_order_fail">Не удалось создать заказ, попробуйте еще раз.</string>
+    <string name="create_order_fail">Не удалось создать заказ, попробуйте ещё раз.</string>
     <string name="create_playlist">Создать плейлист</string>
     <string name="create_playlist_failure">Ошибка создания плейлиста</string>
     <string name="current_version">Текущая версия</string>
@@ -292,7 +292,7 @@ ID:%s
     <string name="dialog_title_delete_tracks">Удалить</string>
     <string name="dialog_title_name_playlist">Название плейлиста</string>
     <string name="dialog_title_not_available">"Ошибка загрузки"</string>
-    <string name="dialog_title_queued_body">Файл еще не доступен</string>
+    <string name="dialog_title_queued_body">Файл ещё не доступен</string>
     <string name="dialog_title_remove_tracks">Удалить</string>
     <string name="disable_auto_payment_fail">"Ошибка отключения"</string>
     <string name="disable_auto_payment_fail_message">"Не удалось отключить автопродление платежа"</string>
@@ -335,7 +335,7 @@ ID:%s
     <string name="download_list_get_hightspeed_flow_sucess_tail">Наслаждайтесь более быстрой загрузкой с помощью Xunlei</string>
     <string name="download_manage">Загрузки</string>
     <string name="download_manage_item_complete">ЗАВЕРШЕНО</string>
-    <string name="download_more">Еще</string>
+    <string name="download_more">Ещё</string>
     <string name="download_no_application_title">Не удалось открыть файл</string>
     <string name="download_paused">Загрузка приостановлена</string>
     <string name="download_paused_in_power_save_mode">Downloads are paused when Battery saver is on</string>
@@ -640,7 +640,7 @@ ID:%s
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
     <string name="miuishare_publish">Отправить</string>
     <string name="miuishare_share_editor_title">Поделиться</string>
-    <string name="miuishare_title_more">Еще</string>
+    <string name="miuishare_title_more">Ещё</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
@@ -698,7 +698,7 @@ ID:%s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_add_song_list">Добавить в плейлист</string>
     <string name="more_milink_bluetooth">Mi Link и Bluetooth</string>
     <string name="more_settings">Дополнительные настройки</string>
@@ -843,7 +843,7 @@ ID:%s
     <string name="passport_error_empty_voice_code">Введите код с картинки</string>
     <string name="passport_error_illegal_pwd">Неверный пароль</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone_error">Некорректный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>
     <string name="passport_error_unknown">Ошибка авторизации</string>
@@ -1038,7 +1038,7 @@ ID:%s
     <string name="search_hint">Поиск радиостанций и программ</string>
     <string name="search_hint_not_support_online">Поиск исполнителей, треков и альбомов</string>
     <string name="search_history_clear_all">Очистить</string>
-    <string name="search_history_more">Еще</string>
+    <string name="search_history_more">Ещё</string>
     <string name="search_history_shrink">Скрыть</string>
     <string name="search_instant_online_music">Онлайн</string>
     <string name="search_localsearch_hint">Поиск треков на этом устройстве</string>
@@ -1210,8 +1210,8 @@ ID:%s
     <string name="talkback_mode_repeat_current">Повтор</string>
     <string name="talkback_mode_repeat_none">Последовательно</string>
     <string name="talkback_mode_repeat_shuffle">Случайный порядок</string>
-    <string name="talkback_more">Еще</string>
-    <string name="talkback_more_function">Еще</string>
+    <string name="talkback_more">Ещё</string>
+    <string name="talkback_more_function">Ещё</string>
     <string name="talkback_new_playlist">Создать плейлист</string>
     <string name="talkback_next">Следующая песня</string>
     <string name="talkback_next_broadcast">Предыдущий канал</string>
@@ -1239,7 +1239,7 @@ ID:%s
     <string name="talkback_unlike">Снять отметку</string>
     <string name="talkback_view_type">Просмотр по</string>
     <string name="task_already_exist">Задание уже существует</string>
-    <string name="temporary_not_available">Эта функция еще недоступна</string>
+    <string name="temporary_not_available">Эта функция ещё недоступна</string>
     <string name="text_separator">|</string>
     <string name="thanks_for_feedback">Спасибо за отзыв!</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>

@@ -145,7 +145,7 @@
     <string name="high_risk_perms">Небезопасные разрешения</string>
     <string name="increment_install_downloading">Загрузка %1$s</string>
     <string name="increment_install_network_error_cancel">Отмена</string>
-    <string name="increment_install_network_error_msg">Ошибка сети. Вы все еще можете продолжить установку непроверенного приложения. Продолжить?</string>
+    <string name="increment_install_network_error_msg">Ошибка сети. Вы все ещё можете продолжить установку непроверенного приложения. Продолжить?</string>
     <string name="increment_install_network_error_ok">Продолжить</string>
     <string name="increment_install_network_error_title">Ошибка сети</string>
     <string name="increment_install_pathing">Проверка пакета…</string>
@@ -238,13 +238,13 @@
     <string name="miui_failed_invalid_apk">Ошибка установки APK</string>
     <string name="miui_failed_invalid_uri">Неверный путь установки</string>
     <string name="miui_failed_miui_system_incompatible">Установочный APK не совместим с MIUI</string>
-    <string name="miui_failed_newer_sdk">Версия SDK еще не поддерживается</string>
+    <string name="miui_failed_newer_sdk">Версия SDK ещё не поддерживается</string>
     <string name="miui_failed_older_sdk">Версия SDK устарела</string>
     <string name="miui_failed_other">Другое</string>
     <string name="miui_failed_parse">Не удалось разобрать установочный APK</string>
     <string name="miui_failed_permission_model_downgrade">Не удалось понизить разрешения</string>
     <string name="miui_failed_solution_1">Удалите приложение и установите его снова</string>
-    <string name="miui_failed_solution_2">Установочный APK поврежден. Загрузите его еще раз.</string>
+    <string name="miui_failed_solution_2">Установочный APK поврежден. Загрузите его ещё раз.</string>
     <string name="miui_failed_solution_3">Сохраните установочный APK в другом месте</string>
     <string name="miui_failed_solution_4">Освободите место с помощью приложения Безопасность и повторите попытку.</string>
     <string name="miui_failed_solution_5">Используйте совместимый установочный APK</string>
@@ -298,7 +298,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -360,7 +360,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="never_ask_again">Больше не спрашивать</string>
     <string name="newPerms">Новые</string>

@@ -145,7 +145,7 @@
     <string name="accessibility_mode">Режим доступности</string>
     <string name="accessibility_mode_dismiss_button">Отключить кнопку выбора режима</string>
     <string name="accessibility_module_picker_finish">Переключение на %s</string>
-    <string name="accessibility_more">Еще</string>
+    <string name="accessibility_more">Ещё</string>
     <string name="accessibility_multi_cam_reselect_button">Выберите камеры снова</string>
     <string name="accessibility_open">Включено</string>
     <string name="accessibility_pano_moving_left">Переместите устройство влево</string>
@@ -1071,7 +1071,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -1168,9 +1168,9 @@
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
     <string name="moon">Луна</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_mode_style">Расположение дополнительных режимов</string>
-    <string name="more_mode_style_popup">Панель \"Еще\"</string>
+    <string name="more_mode_style_popup">Панель \"Ещё\"</string>
     <string name="more_mode_style_tab">Вкладка \"Ещё\"</string>
     <string name="morning">Утро</string>
     <string name="multi_window_mode_not_supported">Камера не может работать в многооконном режиме</string>
@@ -1492,7 +1492,7 @@
     <string name="pref_camera_flashmode_entry_screen_halo">Кольцевая лампа</string>
     <string name="pref_camera_flashmode_entry_torch">Фонарик</string>
     <string name="pref_camera_flashmode_title">Вспышка</string>
-    <string name="pref_camera_focus_shoot_summary">Коснитесь экрана для фокусировки, затем еще раз, чтобы сделать снимок</string>
+    <string name="pref_camera_focus_shoot_summary">Коснитесь экрана для фокусировки, затем ещё раз, чтобы сделать снимок</string>
     <string name="pref_camera_focus_shoot_title">Фокус и снимок</string>
     <string name="pref_camera_focusmode_entry_auto">АВТО</string>
     <string name="pref_camera_focusmode_entry_auto_abbr">АВТО</string>
@@ -1935,7 +1935,7 @@
     <string name="prep_video_ai_audio_single_mutex_tip">Запись фронтального звука недоступна</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Аудиозум не работает с внутриушным монитором и внешним микрофоном</string>
     <string name="preparing_sd">Подготовка SD-карты…</string>
-    <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
+    <string name="preview_back_pressed_hint">Нажмите ещё раз, чтобы вернуться к предпросмотру</string>
     <string name="pro_color_mode">Продвинутый цветовой режим</string>
     <string name="process_tips_1">Не складывайте устройство, пока идет сохранение видео</string>
     <string name="process_tips_2">Не разворачивайте устройство, пока идет сохранение видео</string>
@@ -1945,7 +1945,7 @@
     <string name="recommend_portrait">Попробуйте портретный режим</string>
     <string name="recommend_soft_light_tip">Используйте вспышку</string>
     <string name="recommend_super_night">Попробуйте ночной режим</string>
-    <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
+    <string name="record_back_pressed_hint">Нажмите ещё раз для остановки записи</string>
     <string name="remote_device_type_phone">Xiaomi</string>
     <string name="remote_online_connecting">Выберите устройство</string>
     <string name="remote_online_disconnect_confirmation">Отменить подключение к %1$s?</string>
@@ -2141,7 +2141,7 @@
     <string name="timer_burst_param_interval">Интервал</string>
     <string name="timer_burst_param_total_count">Количество снимков</string>
     <string name="timer_burst_setting_total_count">Всего: %1$s</string>
-    <string name="timerburst_pressed_hint">Нажмите еще раз для остановки</string>
+    <string name="timerburst_pressed_hint">Нажмите ещё раз для остановки</string>
     <string name="title_snap_double_confirm">Повторное подтверждение</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съемка недоступна при включенном звуковом управлении</string>
     <string name="toast_saving">Сохранение фотографий…</string>

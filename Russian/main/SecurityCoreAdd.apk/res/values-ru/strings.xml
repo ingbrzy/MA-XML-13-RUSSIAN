@@ -290,7 +290,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -350,8 +350,8 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
-    <string name="more_settings">Еще</string>
+    <string name="more">Ещё</string>
+    <string name="more_settings">Ещё</string>
     <string name="morning">Утро</string>
     <string name="msg_switch_file">Удалить эти файлы из первого пространства после перемещения?</string>
     <string name="msg_switch_file_second">Удалить эти файлы из второго пространства после перемещения?</string>
@@ -422,7 +422,7 @@
     <string name="restore_show_toast">Приватные сообщения не отображаются</string>
     <string name="retain_src_file">Оставить файлы</string>
     <string name="retain_src_photo">Оставить фото</string>
-    <string name="same_qr_code_create_space">Создать еще одно</string>
+    <string name="same_qr_code_create_space">Создать ещё одно</string>
     <string name="same_qr_code_des">Такое рабочее пространство уже существует. Для перехода вы можете использовать ярлыки на рабочем столе и в шторке уведомлений. Перейти в него?</string>
     <string name="same_qr_code_enter_space">Перейти в рабочее пространство</string>
     <string name="same_qr_code_title">%s уже существует</string>
@@ -558,7 +558,7 @@
     <string name="start_new_fingerprint">Добавить новый отпечаток пальца</string>
     <string name="start_new_fingerprint_tips">"Используйте отпечаток второго пространства
 для входа в него с экрана блокировки"</string>
-    <string name="start_setting_guide_desc_title">Осталось еще несколько настроек</string>
+    <string name="start_setting_guide_desc_title">Осталось ещё несколько настроек</string>
     <string name="stop_xspace_alert_content">Удалить все клоны приложений с учетными записями и данными? Устройство будет перезагружено для применения изменений.</string>
     <string name="stop_xspace_alert_title">Удаление аккаунтов клонов</string>
     <string name="summary_switch_apps_settings">Выберите приложения, используемые в текущем пространстве</string>

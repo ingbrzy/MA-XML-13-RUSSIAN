@@ -819,9 +819,9 @@
         <item quantity="few">%d расписания могут включаться автоматически</item>
     </plurals>
     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
-        <item quantity="other">еще %d контактов</item>
-        <item quantity="one">еще 1 контакт</item>
-        <item quantity="few">еще %d контакта</item>
+        <item quantity="other">ещё %d контактов</item>
+        <item quantity="one">ещё 1 контакт</item>
+        <item quantity="few">ещё %d контакта</item>
     </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Изменение сигнала только в течение %1$d часов до %2$s</item>

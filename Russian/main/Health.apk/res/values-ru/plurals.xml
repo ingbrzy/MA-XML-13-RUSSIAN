@@ -222,16 +222,16 @@
         <item quantity="few">Текущие настройки не гарантируют вам %1$d часа сна в день. Вам нужно больше.</item>
     </plurals>
     <plurals name="sport_tts_goal_consume">	
-        <item quantity="other">Осталось сжечь еще %s ккал до достижения цели</item>
-        <item quantity="one">Осталось сжечь еще %s ккал до достижения цели</item>
+        <item quantity="other">Осталось сжечь ещё %s ккал до достижения цели</item>
+        <item quantity="one">Осталось сжечь ещё %s ккал до достижения цели</item>
     </plurals>
     <plurals name="sport_tts_goal_distance">
-        <item quantity="other">Осталось еще %s км до достижения цели</item>
-        <item quantity="one">Остался еще %s км до достижения цели</item>
+        <item quantity="other">Осталось ещё %s км до достижения цели</item>
+        <item quantity="one">Остался ещё %s км до достижения цели</item>
     </plurals>
     <plurals name="sport_tts_goal_time">
-        <item quantity="other">Осталось еще %s мин. до достижения цели</item>
-        <item quantity="one">Осталась еще %s мин. до достижения цели</item>
+        <item quantity="other">Осталось ещё %s мин. до достижения цели</item>
+        <item quantity="one">Осталась ещё %s мин. до достижения цели</item>
     </plurals>
     <plurals name="sport_tts_riding_distance">
         <item quantity="other">Вы проехали %s км</item>

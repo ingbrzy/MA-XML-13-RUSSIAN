@@ -181,7 +181,7 @@ ID: %s
     <string name="err_type_camera">Камера</string>
     <string name="err_type_hardware">Устройство</string>
     <string name="err_type_hardware_summary">Кнопки, зарядка, сенсоры и т.д.</string>
-    <string name="err_type_more">Еще</string>
+    <string name="err_type_more">Ещё</string>
     <string name="err_type_nonsystemapp">Приложения</string>
     <string name="err_type_power_consuming">Аккумулятор</string>
     <string name="err_type_reboot">Перезагрузка</string>
@@ -472,7 +472,7 @@ ID: %s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -509,9 +509,9 @@ ID: %s
     <string name="module_finance">Финансы и Mi Wallet</string>
     <string name="module_google_apps">Приложения Google</string>
     <string name="module_item_less">Скрыть</string>
-    <string name="module_item_more">Еще</string>
+    <string name="module_item_more">Ещё</string>
     <string name="module_medias">Медиа</string>
-    <string name="module_more">Еще</string>
+    <string name="module_more">Ещё</string>
     <string name="module_network">Сеть</string>
     <string name="module_search">Поиск</string>
     <string name="module_security">Безопасность и Mi Cloud</string>
@@ -557,7 +557,7 @@ ID: %s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="multi_graph_more">Всего объектов: %d</string>
@@ -591,7 +591,7 @@ ID: %s
     <string name="not_set">Не задано</string>
     <string name="nothing">--</string>
     <string name="ok">ОК</string>
-    <string name="open_feedback_main">Еще</string>
+    <string name="open_feedback_main">Ещё</string>
     <string name="open_settings">Настройки</string>
     <string name="packaging_dialog_content">Создание отчёта…</string>
     <string name="passport_access_denied">Доступ запрещен</string>
@@ -638,7 +638,7 @@ ID: %s
     <string name="passport_error_illegal_pwd">Неверный пароль</string>
     <string name="passport_error_length_limit">Текст слишком длинный</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone">Неверный номер телефона</string>
     <string name="passport_error_phone_error">Неверный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>

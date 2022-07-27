@@ -254,10 +254,10 @@
     <string name="life_post_setting_wake_up_list_title">История пробуждений</string>
     <string name="life_post_wake_up_acumu_day_title">Число дней</string>
     <string name="life_post_wake_up_item_acumu_day_title">Число дней</string>
-    <string name="life_post_wake_up_item_percentage_title">Еще спят</string>
+    <string name="life_post_wake_up_item_percentage_title">Ещё спят</string>
     <string name="life_post_wake_up_item_time_title">Пробуждение</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
-    <string name="life_post_wake_up_percentage_title">Еще спят</string>
+    <string name="life_post_wake_up_percentage_title">Ещё спят</string>
     <string name="life_post_wake_up_time_title">Пробуждение</string>
     <string name="life_post_weather_invalid">Нажмите для получения информации о погоде</string>
     <string name="life_post_weather_no_network">Требуется подключение к сети для обновления информации о погоде</string>
@@ -277,7 +277,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -379,7 +379,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_alert_setting">Настройки будильника</string>
     <string name="more_setting">Дополнительные настройки</string>
     <string name="more_settings">Настройки</string>
@@ -437,7 +437,7 @@
     <string name="ringtone_digital_timer">Таймер</string>
     <string name="ringtone_dream">Грезы</string>
     <string name="ringtone_firefly">Светлячки</string>
-    <string name="ringtone_more">Еще</string>
+    <string name="ringtone_more">Ещё</string>
     <string name="ringtone_other">Другое</string>
     <string name="ringtone_weather">Погода</string>
     <string name="ringtone_week">Природа</string>

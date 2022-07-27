@@ -600,7 +600,7 @@
     <string name="face_acquired_obscured">Уберите все, что скрывает ваше лицо.</string>
     <string name="face_acquired_pan_too_extreme">Измените немного положение головы.</string>
     <string name="face_acquired_poor_gaze">Смотрите прямо.</string>
-    <string name="face_acquired_recalibrate">Пожалуйста, добавьте данные лица еще раз.</string>
+    <string name="face_acquired_recalibrate">Пожалуйста, добавьте данные лица ещё раз.</string>
     <string name="face_acquired_roll_too_extreme">Измените немного положение головы.</string>
     <string name="face_acquired_sensor_dirty">Очистите сенсор в верхней части экрана.</string>
     <string name="face_acquired_tilt_too_extreme">Измените немного положение головы.</string>
@@ -636,7 +636,7 @@
     <string name="face_name_template">Данные лица %d</string>
     <string name="face_or_screen_lock_app_setting_name">Использовать разблокировку по лицу или другой способ разблокировки</string>
     <string name="face_or_screen_lock_dialog_default_subtitle">Чтобы продолжить, используйте разблокировку по лицу или другой способ разблокировки</string>
-    <string name="face_recalibrate_notification_content">Для улучшения распознавания добавьте данные лица еще раз</string>
+    <string name="face_recalibrate_notification_content">Для улучшения распознавания добавьте данные лица ещё раз</string>
     <string name="face_recalibrate_notification_name">Распознавание по лицу</string>
     <string name="face_recalibrate_notification_title">Подтверждение данных лица</string>
     <string name="face_setup_notification_content">Разблокируйте устройство, взглянув на него</string>
@@ -1275,7 +1275,7 @@
     <string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s.</string>
     <string name="ok">ОК</string>
     <string name="old_app_action">Вернуться к приложению %1$s</string>
-    <string name="older">Еще раньше</string>
+    <string name="older">Ещё раньше</string>
     <string name="oneMonthDurationPast">1 месяц назад</string>
     <string name="one_handed_mode_feature_name">Управление одной рукой</string>
     <string name="open_permission_deny">У вас нет доступа к этой странице.</string>

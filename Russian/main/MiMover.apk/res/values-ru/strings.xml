@@ -121,7 +121,7 @@
 Посетите https://appleid.apple.com/#!&amp;page=signin для отключения"</string>
     <string name="close_twice_auth_step_1">1. Откройте любой веб-браузер на любом компьютере и перейдите на appleid.apple.com.</string>
     <string name="close_twice_auth_step_2">2. Войдите в Apple ID, для которого вы хотите отключить двухфакторную аутентификацию, перейдите в раздел "\Безопасность"\ в настройках учетной записи и выберите "\Изменить"\.</string>
-    <string name="close_twice_auth_step_3">3. Нажмите \"Отключить двухфакторную аутентификацию\". Нажмите еще раз, чтобы подтвердить.</string>
+    <string name="close_twice_auth_step_3">3. Нажмите \"Отключить двухфакторную аутентификацию\". Нажмите ещё раз, чтобы подтвердить.</string>
     <string name="close_twice_auth_steps">Выполните следующие действия, чтобы отключить двухфакторную аутентификацию для Apple ID:</string>
     <string name="close_twice_auth_tutor">Отключить двухфакторную аутентификацию Apple ID</string>
     <string name="close_vpn_summary">Похоже, ваше устройство сейчас подключено к VPN. Отключите VPN, чтобы иметь возможность подключаться к другим устройствам.</string>
@@ -246,7 +246,7 @@
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
-    <string name="get_known_tip">Попробуйте еще раз</string>
+    <string name="get_known_tip">Попробуйте ещё раз</string>
     <string name="group_info_scanning">Подсчёт…</string>
     <string name="guest_connect_dialog_ensure_text">Подключиться</string>
     <string name="guest_connect_dialog_fail_message">Не удалось подключиться. Повторите попытку.</string>
@@ -393,7 +393,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -455,7 +455,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">AM</string>
     <string name="msg_permission_desc">Для передачи сообщений на другие устройства</string>
     <string name="name">Имя</string>
@@ -768,7 +768,7 @@
     <string name="task_backup_cancel_progress">Отмена…</string>
     <string name="task_canceled_all_local">Отменено</string>
     <string name="task_pending">Ожидание…</string>
-    <string name="text_timeout_retry">Не удалось подключиться. Попробуйте еще раз.</string>
+    <string name="text_timeout_retry">Не удалось подключиться. Попробуйте ещё раз.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>
@@ -896,7 +896,7 @@
     <string name="transfer_title_new_restoring">Восстановление…</string>
     <string name="transfer_title_old_finish">Успешно отправлено</string>
     <string name="transfer_title_old_sending">Отправление…</string>
-    <string name="try_again">Попробовать еще раз</string>
+    <string name="try_again">Попробовать ещё раз</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>

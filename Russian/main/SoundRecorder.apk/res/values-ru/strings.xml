@@ -205,7 +205,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -268,7 +268,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -444,7 +444,7 @@
     <string name="recognize_choose_dialog_title">Выберите метод транскрибирования</string>
     <string name="recognize_extra_price_desp">(Эксклюзивное предложение для Mi пользователей)</string>
     <string name="record">Запись</string>
-    <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
+    <string name="record_back_pressed_hint">Нажмите ещё раз для остановки записи</string>
     <string name="record_download">Загрузка из Xiaomi Cloud</string>
     <string name="record_download_complete">Загружено</string>
     <string name="record_download_msg">Записи можно воспроизводить только после окончания их загрузки.</string>

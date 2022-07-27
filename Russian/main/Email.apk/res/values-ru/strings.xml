@@ -304,7 +304,7 @@
     <string name="auto_advance_label">Действие после удаления</string>
     <string name="auto_advance_summary">Выбрать действие после удаления сообщения</string>
     <string name="auto_login_fail">Не удалось войти</string>
-    <string name="auto_login_fail_to_retry">Не удалось войти, попробуйте еще раз.</string>
+    <string name="auto_login_fail_to_retry">Не удалось войти, попробуйте ещё раз.</string>
     <string name="auto_mail_enable_txt">Начать настройку</string>
     <string name="auto_mail_title_note">Выберите функцию \"Автоматическая настройка 139 Mailbox\"</string>
     <string name="auto_mail_window_description">Быстрая настройка авторизации 139 Mailbox</string>
@@ -557,7 +557,7 @@
     <string name="downlaod_nonWifi_confirm_message">При загрузке без использования Wi-Fi, может потребоваться значительный объем мобильного трафика. Все равно загрузить?</string>
     <string name="downlaod_nonWifi_confirm_title">Загрузка вложения</string>
     <string name="download_again">Повторить загрузку</string>
-    <string name="download_before_sharing">" еще не загружено."</string>
+    <string name="download_before_sharing">" ещё не загружено."</string>
     <string name="download_before_sharing2">Некоторые из выбранных элементов не загружены. Загрузите их .</string>
     <string name="download_cancel_confirm_message">Загрузка будет остановлена</string>
     <string name="download_cancel_confirm_title">Загрузить вложение?</string>
@@ -792,7 +792,7 @@
     <string name="gmail_acceleration">Использовать прокси для доступа к Gmail</string>
     <string name="gmail_invalid_tip_cancel">Отмена</string>
     <string name="gmail_invalid_tip_confirm">Вход</string>
-    <string name="gmail_invalid_tip_message">Условия использования Google изменились. Войдите в Gmail еще раз.</string>
+    <string name="gmail_invalid_tip_message">Условия использования Google изменились. Войдите в Gmail ещё раз.</string>
     <string name="gmail_invalid_tip_title">Вход в Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Использовать прокси для доступа к аккаунту Gmail?</string>
     <string name="gmail_login_failed_non_proxy_title">Не удалось получить доступ к серверу Gmail</string>
@@ -859,7 +859,7 @@
     <string name="kilobytes">%s КБ</string>
     <string name="list_empty_to_fresh">Пока нет писем</string>
     <string name="load_from_remote">Поиск на сервере</string>
-    <string name="load_more">Загрузить еще</string>
+    <string name="load_more">Загрузить ещё</string>
     <string name="loading_conversation">Загрузка…</string>
     <string name="loading_conversations">Загрузка…</string>
     <string name="loading_from_remote">Загрузка…</string>
@@ -1053,7 +1053,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -1119,8 +1119,8 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
-    <string name="more_context">Еще</string>
+    <string name="more">Ещё</string>
+    <string name="more_context">Ещё</string>
     <string name="morning">Утро</string>
     <string name="move_to_selection_dialog_title">Переместить в другую папку</string>
     <string name="ms_graph">Новый протокол Microsoft</string>
@@ -1404,7 +1404,7 @@
     <string name="progress">Прогресс:</string>
     <string name="prompt_title">Запрос</string>
     <string name="protocol_setting_toast">Нажмите на правый верхний угол для перехода к настройкам</string>
-    <string name="pull_load_more">Потяните вниз, чтобы загрузить еще</string>
+    <string name="pull_load_more">Потяните вниз, чтобы загрузить ещё</string>
     <string name="pull_to_refresh">Потяните вниз для обновления</string>
     <string name="push">Push-уведомления</string>
     <string name="push_wps_better_confirm_download">Загрузить</string>
@@ -1462,7 +1462,7 @@
     <string name="quick_3">Я отвечу позже</string>
     <string name="quick_4">Давайте обсудим это при встрече.</string>
     <string name="quick_reply_dialog_title">Выберите ответ</string>
-    <string name="quick_reply_expend">Еще</string>
+    <string name="quick_reply_expend">Ещё</string>
     <string name="quick_reply_hint_bcc">(в скрытую копию)</string>
     <string name="quick_reply_hint_cc">(в копию)</string>
     <string name="quick_reply_hint_reply_only_from">Быстрый ответ (только отправитель)</string>
@@ -1568,7 +1568,7 @@
     <string name="security_notification_content_unsupported_title">Политика безопасности не принята</string>
     <string name="security_notification_content_update_title">Требуется обновление системы безопасности</string>
     <string name="security_unsupported_ticker_fmt">Аккаунт \"%s\" не может быть синхронизирован из-за требований системы безопасности.</string>
-    <string name="see_more_content">Еще</string>
+    <string name="see_more_content">Ещё</string>
     <string name="select_attachment_type">Выберите файл вложения</string>
     <string name="select_no_file">Вложения для отправки не выбраны</string>
     <string name="select_path">Выберите путь</string>
@@ -1830,8 +1830,8 @@
     <string name="turn_auto_sync_on_dialog_title">Включить автоматическую синхронизацию?</string>
     <string name="unbind_dialog_text">"Ваши электронные письма больше не будут анализироваться.
 Удалить аккаунт?"</string>
-    <string name="under_16_content">Подтвердите, что вам еще нет 16 лет</string>
-    <string name="under_sixteen">Мне еще нет 16 лет</string>
+    <string name="under_16_content">Подтвердите, что вам ещё нет 16 лет</string>
+    <string name="under_sixteen">Мне ещё нет 16 лет</string>
     <string name="undo">Отмена</string>
     <string name="unknow">Неизвестно</string>
     <string name="unread_string">диалог не прочитан</string>

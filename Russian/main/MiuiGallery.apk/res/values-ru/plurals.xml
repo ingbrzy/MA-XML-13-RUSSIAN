@@ -391,9 +391,9 @@
         <item quantity="one">Выбранного фото (%d МБ) нет на устройстве. Загрузить через мобильный интернет?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">%d файлов еще не загружено. Отменить загрузку?</item>
-        <item quantity="one">%d файл еще не загружен. Отменить загрузку?</item>
-        <item quantity="few">%d файла еще не загружено. Отменить загрузку?</item>
+        <item quantity="other">%d файлов ещё не загружено. Отменить загрузку?</item>
+        <item quantity="one">%d файл ещё не загружен. Отменить загрузку?</item>
+        <item quantity="few">%d файла ещё не загружено. Отменить загрузку?</item>
     </plurals>
     <plurals name="picker_file_will_download">
         <item quantity="other">Загрузка %d оставшихся файлов</item>
@@ -409,9 +409,9 @@
         <item quantity="few">Не удалось загрузить %1$d файла (%2$d МБ), подключитесь к сети и повторите попытку</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">%1$d файлов (%2$d МБ) еще не загружено. Использовать мобильный интернет?</item>
-        <item quantity="one">%1$d файл (%2$d МБ) еще не загружен. Использовать мобильный интернет?</item>
-        <item quantity="few">%1$d файла (%2$d МБ) еще не загружено. Использовать мобильный интернет?</item>
+        <item quantity="other">%1$d файлов (%2$d МБ) ещё не загружено. Использовать мобильный интернет?</item>
+        <item quantity="one">%1$d файл (%2$d МБ) ещё не загружен. Использовать мобильный интернет?</item>
+        <item quantity="few">%1$d файла (%2$d МБ) ещё не загружено. Использовать мобильный интернет?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">Не удалось загрузить %1$d фото, повторить?</item>

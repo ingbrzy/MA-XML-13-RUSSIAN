@@ -65,7 +65,7 @@ d.M"</string>
     <string name="contentDescripton_horizontal_center">Горизонтальная разметка. Выравнивание по центру.</string>
     <string name="contentDescripton_horizontal_left">Горизонтальная разметка. Выравнивание по левому краю.</string>
     <string name="contentDescripton_horizontal_right">Горизонтальная разметка. Выравнивание по правому краю.</string>
-    <string name="contentDescripton_increase">Еще</string>
+    <string name="contentDescripton_increase">Ещё</string>
     <string name="contentDescripton_reduce">Меньше</string>
     <string name="contentDescripton_vertical_center">Вертикальная разметка. Выравнивание по центру.</string>
     <string name="contentDescripton_vertical_left">Вертикальная разметка. Выравнивание по левому краю.</string>
@@ -129,7 +129,7 @@ d.M"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -187,7 +187,7 @@ d.M"</string>
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>

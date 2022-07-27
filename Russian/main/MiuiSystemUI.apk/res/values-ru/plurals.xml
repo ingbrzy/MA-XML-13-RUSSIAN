@@ -210,14 +210,14 @@
         <item quantity="few">%d новых уведомления</item>
     </plurals>
     <plurals name="notification_channels_list_desc_2_and_others">
-        <item quantity="other">%1$s, %2$s и еще %3$d</item>
-        <item quantity="one">%1$s, %2$s и еще %3$d</item>
-        <item quantity="few">%1$s, %2$s и еще %3$d</item>
+        <item quantity="other">%1$s, %2$s и ещё %3$d</item>
+        <item quantity="one">%1$s, %2$s и ещё %3$d</item>
+        <item quantity="few">%1$s, %2$s и ещё %3$d</item>
     </plurals>
     <plurals name="notification_group_overflow_description">
-        <item quantity="other">Еще %s уведомлений внутри.</item>
-        <item quantity="one">Еще %s уведомление внутри.</item>
-        <item quantity="few">Еще %s уведомления внутри.</item>
+        <item quantity="other">Ещё %s уведомлений внутри.</item>
+        <item quantity="one">Ещё %s уведомление внутри.</item>
+        <item quantity="few">Ещё %s уведомления внутри.</item>
     </plurals>
     <plurals name="notification_num_channels">
         <item quantity="other">%d категорий уведомлений</item>
@@ -270,8 +270,8 @@
         <item quantity="few">Показано %d экрана</item>
     </plurals>
     <plurals name="user_limit_reached_message">
-        <item quantity="other">Можно добавить еще %d пользователей.</item>
-        <item quantity="one">Можно добавить еще 1 пользователя.</item>
+        <item quantity="other">Можно добавить ещё %d пользователей.</item>
+        <item quantity="one">Можно добавить ещё 1 пользователя.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясно</item>

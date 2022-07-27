@@ -157,7 +157,7 @@
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
     <string name="error_open_file_failed_no_app_found">Не удалось найти приложение для открытия этого файла</string>
     <string name="error_ppt_to_pdf_algorithm">Не удалось обработать изображение. Вместо этого используется исходный файл.</string>
-    <string name="error_ptp_ai_recommend_pdf_save_fail">Не удалось сохранить. Попробуйте еще раз.</string>
+    <string name="error_ptp_ai_recommend_pdf_save_fail">Не удалось сохранить. Попробуйте ещё раз.</string>
     <string name="evening">После полудня</string>
     <string name="exception_cloud_storage_is_full">Облачное хранилище заполнено</string>
     <string name="exception_copy_file_exist">Скопированный файл уже находится в папке назначения</string>
@@ -255,7 +255,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -316,7 +316,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="move_file_success">Успешно перемещено</string>
     <string name="music_format_not_support">Невозможно просмотреть этот файл</string>
@@ -491,7 +491,7 @@
     <string name="stay_tuned_sub_desc">В настоящее время этот сервис доступен только в Китае</string>
     <string name="storage_internal">Хранилище</string>
     <string name="storage_manage_list_title">Xiaomi Cloud</string>
-    <string name="storage_manage_list_title_action">Еще</string>
+    <string name="storage_manage_list_title_action">Ещё</string>
     <string name="storage_manage_renewal">Продлить</string>
     <string name="storage_manage_title">Смена плана облачного хранилища</string>
     <string name="storage_manage_upgrade">Обновить</string>

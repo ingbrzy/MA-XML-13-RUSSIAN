@@ -260,7 +260,7 @@ ID:%s
     <string name="doing_query_account">Проверка информации об аккаунте…</string>
     <string name="doing_register">Создание аккаунта…</string>
     <string name="dot_and_space">• </string>
-    <string name="double_click_to_exit_activity">Нажмите еще раз для выхода</string>
+    <string name="double_click_to_exit_activity">Нажмите ещё раз для выхода</string>
     <string name="early_morning">Утро</string>
     <string name="edit_wallpaper">Управление обоями</string>
     <string name="enable_toast_ar">Переключение на Истории</string>
@@ -374,7 +374,7 @@ ID:%s
     <string name="lks_loop_icon_dlg_title">Слайд-шоу экрана блокировки</string>
     <string name="lks_loop_icon_open_dlg">Слайд-шоу экрана блокировки включено, новые изображения и истории будут ежедневно показываться на экране блокировки</string>
     <string name="lks_loop_icon_open_ok">Понятно</string>
-    <string name="lks_more">Еще</string>
+    <string name="lks_more">Ещё</string>
     <string name="lks_more_pics_coming_toast">Новые изображения будут позже</string>
     <string name="lks_new_user_help_anime">Проведите вверх, чтобы увидеть больше</string>
     <string name="lks_no_network">Не удалось подключиться к сети</string>
@@ -473,7 +473,7 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -541,7 +541,7 @@ mm"</string>
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_article">Больше историй</string>
     <string name="morning">Утро</string>
     <string name="morning_bookmark_tab">Приветствия</string>
@@ -640,7 +640,7 @@ mm"</string>
     <string name="passport_error_empty_voice_code">Введите код с картинки</string>
     <string name="passport_error_illegal_pwd">Неверный пароль</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone_error">Некорректный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>
     <string name="passport_error_unknown">Ошибка авторизации</string>
@@ -806,8 +806,8 @@ mm"</string>
     <string name="search_str">Популярные</string>
     <string name="see_all">Посмотреть все</string>
     <string name="see_detail">Посмотреть</string>
-    <string name="see_more">Посмотреть еще</string>
-    <string name="see_more_content">Посмотреть еще</string>
+    <string name="see_more">Посмотреть ещё</string>
+    <string name="see_more_content">Посмотреть ещё</string>
     <string name="select_package">Выберите версию</string>
     <string name="select_photo_album">Выберите альбом</string>
     <string name="select_picture">Выбор изображений</string>
@@ -974,7 +974,7 @@ mm"</string>
     <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="tab_user_title_bar_text">Настройки</string>
     <string name="tb_collapse_desc">Скрыть меню \"Поделиться\"</string>
-    <string name="temporary_not_available">Эта функция еще недоступна</string>
+    <string name="temporary_not_available">Эта функция ещё недоступна</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

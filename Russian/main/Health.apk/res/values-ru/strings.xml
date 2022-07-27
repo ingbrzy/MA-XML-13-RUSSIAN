@@ -203,7 +203,7 @@
     <string name="camera_permission_title">Доступ к камере</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_edit">Отмена</string>
-    <string name="cancel_mark_end">Менструация еще не закончилась</string>
+    <string name="cancel_mark_end">Менструация ещё не закончилась</string>
     <string name="cancel_mark_start">Удалить запись</string>
     <string name="card_on_using">Добавлено</string>
     <string name="centimeter_format">%1$d см</string>
@@ -457,7 +457,7 @@ ID:%s
     <string name="enter_mi_health">Открыть приложение Здоровье</string>
     <string name="environment_detection_again">Повтор</string>
     <string name="environment_detection_fail">Слишком шумно</string>
-    <string name="environment_detection_fail_hint">Попробуйте еще раз в тихом месте</string>
+    <string name="environment_detection_fail_hint">Попробуйте ещё раз в тихом месте</string>
     <string name="environment_detection_hint_one">Избегайте шумных мест для более точного подсчета</string>
     <string name="environment_detection_hint_two">Тренировка будет приостановлена или возобновлена автоматически в зависимости от звуков</string>
     <string name="environment_detection_ing">Проверка окружения…</string>
@@ -529,7 +529,7 @@ ID:%s
     <string name="exercise_walk_description">Согласно диетическим рекомендациям для жителей Китая, активная физическая активность должна длиться не менее 40 минут в день, что эквивалентно ходьбе 6000 шагов. Здесь будут суммироваться все ваши шаги (ходьба, бег, подъем по лестнице).</string>
     <string name="exit_running_tips_cancel">Да</string>
     <string name="exit_running_tips_confirm">Нет</string>
-    <string name="exit_running_tips_desc">Похоже, вы еще не начали тренировку. Завершить?</string>
+    <string name="exit_running_tips_desc">Похоже, вы ещё не начали тренировку. Завершить?</string>
     <string name="exit_running_tips_title">Завершение тренировки</string>
     <string name="expand_all">Показать все</string>
     <string name="expand_button_title">Дополнительно</string>
@@ -777,7 +777,7 @@ ID:%s
     <string name="late">Поздно</string>
     <string name="light_sleep">Легкий сон</string>
     <string name="light_sleep_duration">Длительность легкого сна</string>
-    <string name="light_sleep_duration_description">Когда люди спят, периодически происходят быстрые движения глаз. Сон можно разделить на сон с быстрым движением глаз (REM) и сон без быстрого движения глаз (NREM). Легкий сон происходит во время периодов NREM-сна, что составляет около 50-60%% от общей продолжительности сна. Во время легкого сна сознание постепенно снижается, и мозг относительно статичен, но его все еще можно легко разбудить.</string>
+    <string name="light_sleep_duration_description">Когда люди спят, периодически происходят быстрые движения глаз. Сон можно разделить на сон с быстрым движением глаз (REM) и сон без быстрого движения глаз (NREM). Легкий сон происходит во время периодов NREM-сна, что составляет около 50-60%% от общей продолжительности сна. Во время легкого сна сознание постепенно снижается, и мозг относительно статичен, но его все ещё можно легко разбудить.</string>
     <string name="light_sleep_time_decrease_description">Ваш легкий сон слишком короткий</string>
     <string name="light_sleep_time_increase_description">Ваш легкий сон слишком длинный</string>
     <string name="light_sleep_time_normal_description">У вас достаточная длительность легкого сна</string>
@@ -797,7 +797,7 @@ ID:%s
     <string name="location_service_dialog_title">Геолокация отключена</string>
     <string name="location_service_ntfc_content">Xiaomi Health</string>
     <string name="location_service_ntfc_title">Поиск GPS…</string>
-    <string name="lock_not_support_description">Для включения доступа к мед. паспорту экстренней помощи на экране блокировки, нажмите \"Еще\" > \"Изменить\" и включите \"Доступ на экране блокировки\"</string>
+    <string name="lock_not_support_description">Для включения доступа к мед. паспорту экстренней помощи на экране блокировки, нажмите \"Ещё\" > \"Изменить\" и включите \"Доступ на экране блокировки\"</string>
     <string name="lock_show_dialog_content">"Доступ к вашему мед. паспорту будет возможен без разблокировки устройства.
 Если вы не хотите чтобы мед. паспорт был доступен, отключите эту функцию."</string>
     <string name="lock_show_dialog_title">Внимание</string>
@@ -843,7 +843,7 @@ ID:%s
     <string name="mcv2_next_button_desc">Следующий</string>
     <string name="mcv2_non_music_title_unknown_text">Название неизвестно</string>
     <string name="mcv2_overflow_left_button_desc">Предыд. кнопки</string>
-    <string name="mcv2_overflow_right_button_desc">Еще</string>
+    <string name="mcv2_overflow_right_button_desc">Ещё</string>
     <string name="mcv2_pause_button_desc">Пауза</string>
     <string name="mcv2_play_button_desc">Воспроизведение</string>
     <string name="mcv2_playback_error_text">Не удалось воспроизвести</string>
@@ -931,7 +931,7 @@ ID:%s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -1007,7 +1007,7 @@ ID:%s
     <string name="month_september_shortest">Сен</string>
     <string name="more">Много</string>
     <string name="more_card">Доступные</string>
-    <string name="more_questions">Еще</string>
+    <string name="more_questions">Ещё</string>
     <string name="morning">"AM "</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -1339,7 +1339,7 @@ ID:%s
     <string name="sleep_detection_question_two_title">Нужно ли подключение к интернету для анализа циклов сна?</string>
     <string name="sleep_detector_content">Приложение Здоровье отслеживает статистку вашего сна в фоновом режиме</string>
     <string name="sleep_detector_title">Анализ сна</string>
-    <string name="sleep_detector_unopened">Вы еще не начали отслеживание</string>
+    <string name="sleep_detector_unopened">Вы ещё не начали отслеживание</string>
     <string name="sleep_duration">Длительность сна</string>
     <string name="sleep_duration_description">Продолжительность сна - это время, когда вы ложитесь спать и встаете. Периоды, когда вы просыпаетесь, а затем снова ложитесь спать ночью, вычитаются.</string>
     <string name="sleep_duration_enough_description">Вы выспались.</string>
@@ -1898,7 +1898,7 @@ ID:%s
     <string name="update_notify_dialog_msg2">Доступно обновление: %1$s. Обновить?</string>
     <string name="update_notify_dialog_title">Доступно обновление</string>
     <string name="update_notify_no_update_log">Ничего нет</string>
-    <string name="upgrade_suggestion">Обновите приложение Здоровье до последней версии и попробуйте еще раз.</string>
+    <string name="upgrade_suggestion">Обновите приложение Здоровье до последней версии и попробуйте ещё раз.</string>
     <string name="user_age_unit">л.</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="user_birthday_display_format">dd.MM.yyyy</string>

@@ -30,8 +30,8 @@
         <item quantity="one">1 мин. назад</item>
     </plurals>
     <plurals name="additional_permissions_more">
-        <item quantity="other">Еще %1$d</item>
-        <item quantity="one">Еще %1$d</item>
+        <item quantity="other">Ещё %1$d</item>
+        <item quantity="one">Ещё %1$d</item>
     </plurals>
     <plurals name="app_info_permission_count">
         <item quantity="other">%1$s разрешений</item>

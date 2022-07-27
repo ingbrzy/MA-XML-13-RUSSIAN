@@ -6,7 +6,7 @@
     <string name="action_mode_select_all">Выбрать все</string>
     <string name="action_mode_title_empty">Выберите объекты</string>
     <string name="actionbar_button_up_description">Назад</string>
-    <string name="actionbar_immersion_button_more_description">Еще</string>
+    <string name="actionbar_immersion_button_more_description">Ещё</string>
     <string name="activate">Активировать</string>
     <string name="activate_fail_notification_title">Повторная активация</string>
     <string name="activating">Активация…</string>
@@ -490,7 +490,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">AM</string>
     <string name="name">Имя</string>
     <string name="nickname">Псевдоним</string>

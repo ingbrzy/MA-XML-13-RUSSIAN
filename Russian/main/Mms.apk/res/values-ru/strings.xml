@@ -358,7 +358,7 @@
     <string name="found_old_messages_title">Загрузить сообщения с других SIM карт?</string>
     <string name="found_wild_messages_guide_cloud_desc">Для синхронизации сообщений с Xiaomi Cloud войдите в свой Xiaomi аккаунт и включите синхронизацию.</string>
     <string name="found_wild_messages_guide_settings_desc">Синхронизируйте сообщения с Xiaomi Cloud в настройках.</string>
-    <string name="found_wild_messages_guide_sync_not_started">Синхронизация еще не началась</string>
+    <string name="found_wild_messages_guide_sync_not_started">Синхронизация ещё не началась</string>
     <string name="found_wild_messages_title">Синхронизация с Xiaomi Cloud</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -443,7 +443,7 @@
     <string name="menu_lock">Добавить в избранные</string>
     <string name="menu_make_call">Вызов</string>
     <string name="menu_mark">Отметить</string>
-    <string name="menu_more">Еще</string>
+    <string name="menu_more">Ещё</string>
     <string name="menu_multi_select">Выбрать</string>
     <string name="menu_new_contact">Новый контакт</string>
     <string name="menu_new_manual">Ввести номер телефона</string>
@@ -497,7 +497,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -577,7 +577,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="move_down">Переместить вниз</string>
     <string name="move_up">Переместить вверх</string>
@@ -1116,7 +1116,7 @@
     <string name="search_menu_title">Поиск</string>
     <string name="search_path_mms">Настройки/Системные приложения/Сообщения</string>
     <string name="search_setting_description">Текст в сообщениях</string>
-    <string name="search_show_more_results">Показать еще</string>
+    <string name="search_show_more_results">Показать ещё</string>
     <string name="search_title_mms">Сообщения</string>
     <string name="second_mms_introduction">Перейдите во второе пространство</string>
     <string name="second_mms_switch">Перейти</string>

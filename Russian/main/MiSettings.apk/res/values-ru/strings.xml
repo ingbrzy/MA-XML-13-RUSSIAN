@@ -359,7 +359,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -432,9 +432,9 @@
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
     <string name="moose">Лось</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_ringtone">Все мелодии</string>
-    <string name="more_ringtones">Еще</string>
+    <string name="more_ringtones">Ещё</string>
     <string name="more_settings">Настройки</string>
     <string name="morning">Утро</string>
     <string name="most_unlock_week_day">"Чаще всего: "</string>
@@ -787,7 +787,7 @@
     <string name="usage_permission_title">Внимание</string>
     <string name="usage_reach_device_limit">Время вышло! Вы достигли лимита.</string>
     <string name="usage_reach_device_limit_warning_text">Достигнут лимит времени экрана на сегодня</string>
-    <string name="usage_refresh">Попробуйте еще раз</string>
+    <string name="usage_refresh">Попробуйте ещё раз</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
     <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Произошла неизвестная ошибка</string>
@@ -871,7 +871,7 @@
     <string name="usage_state_show_app">Приложения</string>
     <string name="usage_state_show_category">Категории</string>
     <string name="usage_state_show_detail">Подробная статистика</string>
-    <string name="usage_state_show_more">Еще</string>
+    <string name="usage_state_show_more">Ещё</string>
     <string name="usage_state_statistic_data">Статистика</string>
     <string name="usage_state_sunday">Вск</string>
     <string name="usage_state_thursday">Чт</string>

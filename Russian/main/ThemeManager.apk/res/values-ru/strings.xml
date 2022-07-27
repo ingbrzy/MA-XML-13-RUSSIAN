@@ -178,7 +178,7 @@
     <string name="component_title_settings_video_wallpaper">Живые обои</string>
     <string name="component_title_video_wallpaper">Живые обои</string>
     <string name="component_title_wallpaper">Обои</string>
-    <string name="concentration_old_period">Еще</string>
+    <string name="concentration_old_period">Ещё</string>
     <string name="configure_success_not_enable_aod">Включите Активный экран, чтобы применить тему</string>
     <string name="copy">Копировать</string>
     <string name="count_down_tip">Осталось %d сек.</string>
@@ -227,8 +227,8 @@
     <string name="de_mix_mode_superwallpaper">Суперобои</string>
     <string name="de_mix_mode_superwallpaper_with_aod_desc">Активный экран, экран блокировки и рабочий стол</string>
     <string name="de_mix_mode_superwallpaper_without_aod_desc">Экран блокировки и рабочий стол</string>
-    <string name="de_more_info">Еще</string>
-    <string name="de_more_resource">Сделайте свайп, чтобы загрузить еще</string>
+    <string name="de_more_info">Ещё</string>
+    <string name="de_more_resource">Сделайте свайп, чтобы загрузить ещё</string>
     <string name="de_no_more_recommendations">Больше ничего нет</string>
     <string name="de_order">%1$d</string>
     <string name="de_preview">Предпросмотр</string>
@@ -474,7 +474,7 @@
 перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля</string>
     <string name="incall_show_apply_success_without_ringtone">Применено. Это видео без звука, будет использоваться установленный рингтон.
 Для выключения перейдите в Настройки &gt; Звук и вибрация &gt; Видео профиля.</string>
-    <string name="incall_show_find_more">Найти еще</string>
+    <string name="incall_show_find_more">Найти ещё</string>
     <string name="incall_show_not_set">Не задано</string>
     <string name="incall_show_remove">" "</string>
     <string name="incall_show_remove_dialog_message">Вы уже установили видео профиля для исходящих вызовов. Хотите удалить?</string>
@@ -584,7 +584,7 @@ mm"</string>
     <string name="miuishare_share_fail">Не удалось поделиться</string>
     <string name="miuishare_sys_title_share">Дополнительно</string>
     <string name="miuishare_timeline_title">Найдите следующие обои</string>
-    <string name="miuishare_title_more">Еще</string>
+    <string name="miuishare_title_more">Ещё</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
@@ -593,7 +593,7 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -668,10 +668,10 @@ mm"</string>
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
-    <string name="more_icon_style">Еще</string>
+    <string name="more">Ещё</string>
+    <string name="more_icon_style">Ещё</string>
     <string name="more_sub_comment">Посмотреть все ответы (%1$d)&gt;</string>
-    <string name="more_system_wallpaper">Еще</string>
+    <string name="more_system_wallpaper">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -963,7 +963,7 @@ mm"</string>
     <string name="resource_comment_current_version">Текущая версия</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_detainment_fail">Отменить</string>
-    <string name="resource_comment_detainment_msg">Вы еще не отправили отзыв. Отменить изменения?</string>
+    <string name="resource_comment_detainment_msg">Вы ещё не отправили отзыв. Отменить изменения?</string>
     <string name="resource_comment_detainment_success">Остаться</string>
     <string name="resource_comment_edit_comment">Добавить отзыв</string>
     <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
@@ -1110,7 +1110,7 @@ mm"</string>
     <string name="resource_search_color_hint_yellow">Жёлтый</string>
     <string name="resource_search_history">История поиска</string>
     <string name="resource_search_list_empty">Ничего не найдено</string>
-    <string name="resource_see_more">Показать еще</string>
+    <string name="resource_see_more">Показать ещё</string>
     <string name="resource_select">Выбрать</string>
     <string name="resource_select_alarm_audio_confirm">Использовать этот звук уведомления?</string>
     <string name="resource_select_audio_confirm_picker">Использовать выбранный вариант?</string>
@@ -1629,12 +1629,12 @@ mm"</string>
     <string name="wallpaper_setting_online_wallpaper_none_title">Поиск обоев</string>
     <string name="wallpaper_setting_online_wallpaper_title">Онлайн обои</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">Суперобои</string>
-    <string name="wallpaper_setting_super_wallpaper_more_button_text">Еще</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Ещё</string>
     <string name="wallpaper_setting_title">Обои</string>
     <string name="wallpaper_settings">Обои</string>
     <string name="wallpaper_settings_loading_text">Загрузка…</string>
     <string name="wallpaper_settings_no_history">История пуста</string>
-    <string name="wallpaper_settings_pad_more_page_title">Еще</string>
+    <string name="wallpaper_settings_pad_more_page_title">Ещё</string>
     <string name="wallpaper_settings_page_title">Обои</string>
     <string name="wallpaper_share_alert">Произошла ошибка. Повторите попытку позже.</string>
     <string name="wallpaper_static">Статические</string>

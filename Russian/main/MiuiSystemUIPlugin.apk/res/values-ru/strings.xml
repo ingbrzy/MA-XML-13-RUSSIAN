@@ -179,7 +179,7 @@
     <string name="miplay_detail_header_no_song">Ничего нет</string>
     <string name="miplay_device_full_name">%2$s из %1$s</string>
     <string name="miplay_headset_lc3_hint">Отключите LC3, чтобы переключить аудиовыход на это устройство</string>
-    <string name="miplay_service_timeout_toast">Таймаут соединения. Попробуйте еще раз.</string>
+    <string name="miplay_service_timeout_toast">Таймаут соединения. Попробуйте ещё раз.</string>
     <string name="miplay_song_title_empty">Ничего нет</string>
     <string name="miui_dnd_count_down">Таймер</string>
     <string name="miui_dnd_count_down_time">"Таймер
@@ -211,7 +211,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -271,7 +271,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="msim_set_sub_not_supported_phone_in_call">Недоступно во время вызова</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>

@@ -153,7 +153,7 @@ ID: %s
     <string name="dialog_speed_title">Предупреждение о трафике</string>
     <string name="dialog_title_disabled_net">Доступ в интернет</string>
     <string name="dialog_title_not_available">Ошибка загрузки</string>
-    <string name="dialog_title_queued_body">Файл еще не доступен</string>
+    <string name="dialog_title_queued_body">Файл ещё не доступен</string>
     <string name="dialog_title_recommend">Отключить рекомендации?</string>
     <string name="dialog_user_know_button1">Выход</string>
     <string name="dialog_user_know_button2">Принимаю</string>
@@ -229,7 +229,7 @@ ID: %s
     <string name="experience_xunlei_account_speed">Участники Xunlei могут наслаждаться загрузкой со скоростью молнии.</string>
     <string name="expire_notification_msg">Членство в Xunlei скоро истекает.</string>
     <string name="expire_today_notification_msg">Членство в Xunlei истекает сегодня.</string>
-    <string name="extend">Еще</string>
+    <string name="extend">Ещё</string>
     <string name="extra_ad_title">Вам также может понравиться</string>
     <string name="extract_file">Распаковка файла…</string>
     <string name="fastest_speed">Максимальная скорость</string>
@@ -304,7 +304,7 @@ ID: %s
     <string name="menu_all_task_pause">Остановить все</string>
     <string name="menu_all_task_start">Запустить все</string>
     <string name="menu_back">Вернуться к членству в Xunlei</string>
-    <string name="menu_des_more">Еще</string>
+    <string name="menu_des_more">Ещё</string>
     <string name="menu_des_vip">Членство Xunlei</string>
     <string name="menu_enter_edit_mode">Редактор</string>
     <string name="menu_preferences">Параметры загрузок</string>
@@ -322,7 +322,7 @@ ID: %s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -382,7 +382,7 @@ ID: %s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="net_error">Подключитесь к сети и повторите попытку</string>
@@ -467,7 +467,7 @@ ID: %s
     <string name="rank_guide_confirm">Проверьте это</string>
     <string name="rank_guide_content">Рейтинги обновляются ежедневно, чтобы показать самые популярные приложения</string>
     <string name="rank_guide_title">Приложения, которые устанавливают другие люди</string>
-    <string name="rebind_btn">Добавить еще раз</string>
+    <string name="rebind_btn">Добавить ещё раз</string>
     <string name="recommend_downloading">Загрузка…</string>
     <string name="recommend_failed">Ошибка</string>
     <string name="recommend_install">Установить</string>
@@ -513,7 +513,7 @@ ID: %s
     <string name="search_history_year">dd.MM.yyyy</string>
     <string name="search_history_yesterday">Вчера</string>
     <string name="search_home_download_popup">Перейти в загрузки</string>
-    <string name="search_home_vif_show_more">Еще</string>
+    <string name="search_home_vif_show_more">Ещё</string>
     <string name="search_hot_anime">Мульты</string>
     <string name="search_hot_movie">Фильмы</string>
     <string name="search_hot_recommend">Рекомендуемые</string>
@@ -537,7 +537,7 @@ ID: %s
     <string name="search_vif_empty">Нет рекомендаций</string>
     <string name="search_vif_score_text">Рейтинг: %1$s</string>
     <string name="search_website">Веб-сайты</string>
-    <string name="search_website_more">Еще</string>
+    <string name="search_website_more">Ещё</string>
     <string name="search_xl_account">Ускорение Xunlei</string>
     <string name="search_xl_account_desc">Увеличение скорости загрузки</string>
     <string name="search_xl_account_key_words">Ускорение Xunlei;ускорение;увеличение скорости;скорость загрузки;ускорить загрузку</string>
@@ -724,7 +724,7 @@ ID: %s
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="tip_download_icon_restore">Добавить ярлык для Загрузок на рабочий стол</string>
-    <string name="tip_download_icon_retry">Не удалось добавить ярлык. Попробуйте еще раз.</string>
+    <string name="tip_download_icon_retry">Не удалось добавить ярлык. Попробуйте ещё раз.</string>
     <string name="title_homepage_infoflow">Недавние обновления</string>
     <string name="title_tips">Внимание</string>
     <string name="title_unbind_xunlei">Удаление аккаунта Xunlei</string>
@@ -774,7 +774,7 @@ ID: %s
     <string name="xl_annual_vip_open">Годовая подписка (%1$s Mi Credits или %2$s ежемесячно)</string>
     <string name="xl_annual_vip_renew">Продление подписки на год (%1$s Mi Credits или %2$s ежемесячно)</string>
     <string name="xl_bind_account">Добавить существующий аккаунт Xunlei</string>
-    <string name="xl_extend">Еще</string>
+    <string name="xl_extend">Ещё</string>
     <string name="xl_highway_autoopen">Высокоскоростной канал</string>
     <string name="xl_highway_autoopen_info">Автовключение высокоскоростного канала</string>
     <string name="xl_highway_title">"Высокоскоростной канал: "</string>

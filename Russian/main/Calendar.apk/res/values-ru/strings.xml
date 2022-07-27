@@ -142,7 +142,7 @@
     <string name="can_not_modify_allday_event">Нельзя изменить однодневное мероприятие</string>
     <string name="can_not_modify_event">Нельзя изменить мероприятие</string>
     <string name="can_not_modify_repeating_acrossing_days_event">Нельзя изменить многодневное мероприятие</string>
-    <string name="cancel_mark_end">Менструация еще не закончилась</string>
+    <string name="cancel_mark_end">Менструация ещё не закончилась</string>
     <string name="cancel_mark_start">Удалить запись</string>
     <string name="cancel_reminder">Отменить напоминание</string>
     <string name="cancel_reminder_later">Отмена</string>
@@ -155,7 +155,7 @@
     <string name="card_detail_hint">После подписки содержимое будет отображаться на главной странице и обновляться ежедневно</string>
     <string name="card_detail_title">Подробности</string>
     <string name="card_manager_no_data">Подписок нет</string>
-    <string name="card_title_change">Еще</string>
+    <string name="card_title_change">Ещё</string>
     <string name="cards_language_hint">Некоторые карточки могут быть недоступны на выбранном языке</string>
     <string name="certificate_notification_connection_security">Безопасность подключения</string>
     <string name="certificate_notification_user_interaction">Пожалуйста, проверьте сертификат</string>
@@ -445,7 +445,7 @@
     <string name="global_football_no_match">Сегодня футбольных матчей нет</string>
     <string name="global_joke_collapse_text">Скрыть</string>
     <string name="global_joke_copy_toast_message">Текст успешно скопирован</string>
-    <string name="global_joke_expand_text">Показать еще</string>
+    <string name="global_joke_expand_text">Показать ещё</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greeting_card_reminder_info_text">Получение ежедневных уведомлений о приветствиях и статусах</string>
     <string name="greeting_success_subtext">Уведомления включены</string>
@@ -508,7 +508,7 @@
     <string name="ics_file_not_found">Нет файлов календаря для импорта</string>
     <string name="ics_import_from_local_file">Импорт файлов календаря</string>
     <string name="ics_import_from_url">Подписка по ссылке</string>
-    <string name="image_processing">Изображение еще не готово</string>
+    <string name="image_processing">Изображение ещё не готово</string>
     <string name="import_action">Импорт</string>
     <string name="import_birthday">Импорт дней рождения</string>
     <string name="import_help">Помощь</string>
@@ -665,7 +665,7 @@
     <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">Отправлено</string>
     <string name="miuishare_share_editor_title">Поделиться</string>
-    <string name="miuishare_title_more">Еще</string>
+    <string name="miuishare_title_more">Ещё</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_wechat_title">WeChat</string>
@@ -675,7 +675,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -773,10 +773,10 @@
     <string name="monthly">Ежемесячно</string>
     <string name="monthly_on_day">Ежемесячно (в эту же дату)</string>
     <string name="monthly_on_day_count">Ежемесячно (%1$s)</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_details">Подробнее</string>
     <string name="more_events">+%d</string>
-    <string name="more_match">Еще</string>
+    <string name="more_match">Ещё</string>
     <string name="more_string">ещё %1$s</string>
     <string name="morning">AM</string>
     <string name="movie_card_read_more">Подробнее</string>
@@ -1220,7 +1220,7 @@
     <string name="sunday_shortest">Вс</string>
     <string name="sunrise">Восход %1$s</string>
     <string name="sunset">Закат %1$s</string>
-    <string name="swipe_up_guide_hint_text">Еще</string>
+    <string name="swipe_up_guide_hint_text">Ещё</string>
     <string name="switch_orientation_desc">Ориентация экрана</string>
     <string name="tab_title_agenda">Расписание</string>
     <string name="tab_title_day">День</string>
@@ -1327,7 +1327,7 @@
     <string name="title_no_record_menstruation">Нет данных о менструальном цикле</string>
     <string name="title_p_tracker">Менструация</string>
     <string name="title_start_use_menstruation_assistant">Записывайте информацию о менструальном цикле</string>
-    <string name="toast_block_by_other_work">Дождитесь завершения текущей задачи и попробуйте еще раз</string>
+    <string name="toast_block_by_other_work">Дождитесь завершения текущей задачи и попробуйте ещё раз</string>
     <string name="toast_cannot_access_server">Нет доступа к серверу</string>
     <string name="toast_create_account_failed">Не удалось создать аккаунт</string>
     <string name="toast_failed_get_server_config">Не удалось получить информацию об аккаунте</string>
@@ -1457,7 +1457,7 @@
     <string name="widget_no_events">Нет мероприятий</string>
     <string name="widget_normal_agenda_tip_empty">Нет мероприятий</string>
     <string name="widget_normal_agenda_today_done">Все мероприятия завершены</string>
-    <string name="widget_normal_more_event">Еще</string>
+    <string name="widget_normal_more_event">Ещё</string>
     <string name="widget_normal_new_event">Добавить</string>
     <string name="widget_normal_weekN">%d неделя</string>
     <string name="widget_select_style">Выберите стиль</string>

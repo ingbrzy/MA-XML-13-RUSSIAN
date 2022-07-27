@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="app_name">Cit_QR</string>
     <string name="close">Закрыть</string>
-    <string name="close_hit_again">Нажмите еще раз для выхода</string>
+    <string name="close_hit_again">Нажмите ещё раз для выхода</string>
     <string name="important_ration_info">Важная информация</string>
     <string name="no_important_ration_info">Отладочная информация</string>
     <string name="qr_load">Загрузка… подождите…</string>

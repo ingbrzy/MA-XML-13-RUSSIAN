@@ -93,9 +93,9 @@
         <item quantity="few">%1$d иконки</item>
     </plurals>
     <plurals name="de_more_comment">
-        <item quantity="other">Еще %1$d комментариев</item>
-        <item quantity="one">Еще %1$d комментарий</item>
-        <item quantity="few">Еще %1$d комментария</item>
+        <item quantity="other">Ещё %1$d комментариев</item>
+        <item quantity="one">Ещё %1$d комментарий</item>
+        <item quantity="few">Ещё %1$d комментария</item>
     </plurals>
     <plurals name="detail_reward_few_times">
         <item quantity="other">%s наград</item>

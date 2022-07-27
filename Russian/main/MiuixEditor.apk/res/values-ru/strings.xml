@@ -15,7 +15,7 @@
     <string name="query">Запрос</string>
     <string name="select">Выбрать</string>
     <string name="translate">Перевести</string>
-    <string name="translation_more">Еще</string>
+    <string name="translation_more">Ещё</string>
     <string name="translation_query_error">Ничего не найдено</string>
     <string name="translation_query_error_network">Не удалось получить информацию. Проверьте подключение к сети и повторите попытку.</string>
 </resources>

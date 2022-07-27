@@ -153,9 +153,9 @@
        <item quantity="few">Выбрано %d объекта</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камней, чтобы принять участие в розыгрыше.</item>
-        <item quantity="one">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камень, чтобы принять участие в розыгрыше.</item>
-        <item quantity="few">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камня, чтобы принять участие в розыгрыше.</item>
+        <item quantity="other">Соберите ещё &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камней, чтобы принять участие в розыгрыше.</item>
+        <item quantity="one">Соберите ещё &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камень, чтобы принять участие в розыгрыше.</item>
+        <item quantity="few">Соберите ещё &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драг. камня, чтобы принять участие в розыгрыше.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d новых уведомлений</item>
@@ -267,7 +267,7 @@
         <item quantity="many">%1$s просмотров</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
-        <item quantity="other">Получите еще %1$d подписчиков для повышения статуса​</item>
-        <item quantity="one">Получите еще %1$d подписчика для повышения статуса</item>
+        <item quantity="other">Получите ещё %1$d подписчиков для повышения статуса​</item>
+        <item quantity="one">Получите ещё %1$d подписчика для повышения статуса</item>
     </plurals>
 </resources>

@@ -100,7 +100,7 @@
     <string name="alipay_msp_bl_verify_error">Не удалось проверить смарт-устройство, пожалуйста, используйте платежный пароль для оплаты</string>
     <string name="alipay_net_error">Нет соединения с сервером, повторить попытку?</string>
     <string name="alipay_processing">Загрузка</string>
-    <string name="alipay_redo">Попробовать еще раз</string>
+    <string name="alipay_redo">Попробовать ещё раз</string>
     <string name="alipay_scan">Сканер</string>
     <string name="alipay_sdk_minute_refresh">Обновлять каждую минуту</string>
     <string name="alipay_sdk_open_alipay">Открыть Alipay</string>
@@ -174,7 +174,7 @@
     <string name="app_commute_location_close">Использование геолокации</string>
     <string name="app_commute_location_open">Разрешить</string>
     <string name="app_commute_location_open_tip">Разрешите Ленте виджетов использовать геолокацию для просмотра и построения маршрутов.</string>
-    <string name="app_commute_more_lines">Еще</string>
+    <string name="app_commute_more_lines">Ещё</string>
     <string name="app_commute_no_data">Не удалось построить маршрут</string>
     <string name="app_commute_no_data_tip">Попробуйте изменить точку старта или пункт назначения.</string>
     <string name="app_commute_real_time_arriving">Прибытие</string>
@@ -231,7 +231,7 @@
     <string name="app_express_content_title_2">Ваши посылки</string>
     <string name="app_express_detail_list_empty_text">"Информация здесь может появиться с задержкой.
 Вы также можете отслеживать экспресс доставку на официальных сайтах служб доставки."</string>
-    <string name="app_express_detail_more">Еще</string>
+    <string name="app_express_detail_more">Ещё</string>
     <string name="app_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого её статус больше не будет обновляться.</string>
     <string name="app_express_empty_extra">Проверить</string>
     <string name="app_express_empty_title">Нет информации о доставке</string>
@@ -246,7 +246,7 @@
     <string name="app_express_phone_binding_input_verifacation_code">Введите код</string>
     <string name="app_express_phone_binding_next_step">Далее</string>
     <string name="app_express_phone_binding_number">Телефонный номер</string>
-    <string name="app_express_phone_binding_retry">Отправить еще раз</string>
+    <string name="app_express_phone_binding_retry">Отправить ещё раз</string>
     <string name="app_express_phone_binding_send_ok">Код отправлен на %s</string>
     <string name="app_express_phone_binding_send_verifacation_code">Отправить код</string>
     <string name="app_express_phone_binding_title">Добавить номер телефона</string>
@@ -272,7 +272,7 @@
     <string name="app_express_settings_recommend_item_2">Заявление о конфиденциальности</string>
     <string name="app_express_settings_recommend_title">Узнать больше</string>
     <string name="app_express_settings_subtitle">Добавьте номера телефонов для отслеживания посылок с экспресс-доставкой</string>
-    <string name="app_express_settings_title_1">Вы еще не добавили ни одного номера телефона.</string>
+    <string name="app_express_settings_title_1">Вы ещё не добавили ни одного номера телефона.</string>
     <string name="app_express_shunfeng_verify_dialog_message">Для обеспечения конфиденциальности и безопасности клиентов SF Express, необходимо ввести последние четыре цифры номера телефона получателя/отправителя.</string>
     <string name="app_express_shunfeng_verify_dialog_ok">Отправить</string>
     <string name="app_express_shunfeng_verify_dialog_title">Завершение проверки</string>
@@ -321,7 +321,7 @@
     <string name="app_olympic_card_title_info">Эти данные предоставляются третьей стороной и могут обновляться с задержкой.</string>
     <string name="app_olympic_gold_medal_country_region">Страна</string>
     <string name="app_olympic_gold_medal_total">Всего</string>
-    <string name="app_pa_more">Еще</string>
+    <string name="app_pa_more">Ещё</string>
     <string name="app_pa_search">Поиск</string>
     <string name="app_pa_setting_about_title">О приложении</string>
     <string name="app_pa_setting_bugreport">Обратная связь</string>
@@ -447,7 +447,7 @@
     <string name="app_shopping_search_hint">Искать продукты</string>
     <string name="app_sleep">Сон</string>
     <string name="app_sleep_awake">Подъем</string>
-    <string name="app_sleep_continue">Поспать еще?</string>
+    <string name="app_sleep_continue">Поспать ещё?</string>
     <string name="app_sleep_deep">Глубокий</string>
     <string name="app_sleep_enough">Достаточно</string>
     <string name="app_sleep_light">Лёгкий</string>
@@ -603,13 +603,13 @@
     <string name="book_dep_city">Отправление</string>
     <string name="book_his">История бронирования</string>
     <string name="book_input_lack">Сначала заполните все обязательные поля</string>
-    <string name="book_save_fail">Не удалось добавить бронирование. Попробуйте еще раз.</string>
+    <string name="book_save_fail">Не удалось добавить бронирование. Попробуйте ещё раз.</string>
     <string name="book_save_sucess">Успешно добавлено бронирование</string>
     <string name="book_store">Посмотреть бронирования</string>
     <string name="book_tomorow">Завтра</string>
     <string name="book_update">Доступно обновление</string>
     <string name="btn_back">Назад</string>
-    <string name="btn_more">Еще</string>
+    <string name="btn_more">Ещё</string>
     <string name="bus_code">Городской транспорт</string>
     <string name="calc_convert">Конвертер</string>
     <string name="calc_currency">Валюта</string>
@@ -834,7 +834,7 @@ ID:%s
     <string name="edit_delete_dialog_message">Удалить эту запись?</string>
     <string name="edit_record_label">Сведения</string>
     <string name="empty_card_btn">Открыть приложение</string>
-    <string name="empty_card_tip">Похоже, вы еще не вошли в систему или не настроили эту карту.</string>
+    <string name="empty_card_tip">Похоже, вы ещё не вошли в систему или не настроили эту карту.</string>
     <string name="empty_card_title">Нет данных</string>
     <string name="empty_duokan_card_btn">Посмотреть книги</string>
     <string name="empty_duokan_card_tip">Похоже, вы сейчас ничего не читаете</string>
@@ -996,7 +996,7 @@ ID:%s
     <string name="express_setting_authorized_number_add">Добавить</string>
     <string name="express_setting_authorized_number_delete">Удалить</string>
     <string name="express_setting_authorized_number_description">Используя эту функцию, вы соглашаетесь, что мы предоставим ваш номер телефона соответствующим поставщикам услуг. Ваш номер телефона будет использоваться только для запроса и отображения информации о заказе экспресс-доставки.</string>
-    <string name="express_setting_authorized_number_empty">Вы еще не подтвердили свой номер телефона.</string>
+    <string name="express_setting_authorized_number_empty">Вы ещё не подтвердили свой номер телефона.</string>
     <string name="express_setting_authorized_number_limit">Можно добавить до 4 телефонных номеров.</string>
     <string name="express_setting_brief">Отслеживание экспресс-доставки</string>
     <string name="express_setting_brief_detail">Отслеживайте все свои посылки, используя свой номер телефона и информацию о заказе.</string>
@@ -1127,7 +1127,7 @@ ID:%s
     <string name="flybird_fp_retry_tips">Совершено максимальное число попыток определения Touch ID, выйти</string>
     <string name="flybird_fp_tips">Пожалуйста, проверьте Touch ID</string>
     <string name="flybird_fp_unavailable">Touch Pay временно недоступен, повторите попытку позже</string>
-    <string name="flybird_fp_val_failed">Данные Touch ID не подтверждены, попробуйте еще раз</string>
+    <string name="flybird_fp_val_failed">Данные Touch ID не подтверждены, попробуйте ещё раз</string>
     <string name="flybird_fp_val_ok">Данные Touch ID подтверждены, идет передача…</string>
     <string name="flybird_fp_validate_too_often">Проверка Touch ID</string>
     <string name="flybird_fp_validating">Проверка Touch ID…</string>
@@ -1187,7 +1187,7 @@ ID:%s
     <string name="function_keyguard_dialog_cancel">Отмена</string>
     <string name="function_keyguard_dialog_confirm">Установить</string>
     <string name="function_keyguard_dialog_content">Установите пароль экрана блокировки, чтобы защитить ваши платежи.</string>
-    <string name="function_keyguard_dialog_title">Эта функция еще не поддерживается</string>
+    <string name="function_keyguard_dialog_title">Эта функция ещё не поддерживается</string>
     <string name="function_mistore_cart">Корзина</string>
     <string name="function_mistore_favorite">Избранное</string>
     <string name="function_music_recognize">Распознавание треков</string>
@@ -1295,7 +1295,7 @@ ID:%s
     <string name="login_dialog_positive">Войти и включить</string>
     <string name="login_dialog_title">Включение синхронизации</string>
     <string name="login_ok">Войти</string>
-    <string name="look_more">Еще</string>
+    <string name="look_more">Ещё</string>
     <string name="main_add">Добавить</string>
     <string name="main_mark">Важное</string>
     <string name="main_mark_cancel">Удалить отметку</string>
@@ -1308,7 +1308,7 @@ ID:%s
     <string name="map_home_didi">Домой</string>
     <string name="map_home_way">Дорога домой</string>
     <string name="map_install_tip">Установите карты Gaode или Baidu, чтобы использовать эту функцию</string>
-    <string name="map_loading_desc">Не удалось загрузить информацию, попробуйте еще раз.</string>
+    <string name="map_loading_desc">Не удалось загрузить информацию, попробуйте ещё раз.</string>
     <string name="map_office_didi">На работу</string>
     <string name="map_office_way">Путь в офис</string>
     <string name="map_subway_card">Транспортная карта</string>
@@ -1451,7 +1451,7 @@ ID:%s
     <string name="miot_device_mijia_uninstall_title">Не установлено</string>
     <string name="miot_device_network_error">Нет соединения</string>
     <string name="miot_device_opening">Устройство включено</string>
-    <string name="miot_more_device">Еще</string>
+    <string name="miot_more_device">Ещё</string>
     <string name="miot_nearby_device">Подключенные устройства поблизости</string>
     <string name="miot_not_warn">Игнорировать предупреждение</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Xiaomi аккаунт</string>
@@ -1467,7 +1467,7 @@ ID:%s
     <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">Отправлено</string>
     <string name="miuishare_share_editor_title">Поделиться</string>
-    <string name="miuishare_title_more">Еще</string>
+    <string name="miuishare_title_more">Ещё</string>
     <string name="miuishare_title_share">Поделиться</string>
     <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
     <string name="miuishare_wechat_title">WeChat</string>
@@ -1477,7 +1477,7 @@ ID:%s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -1551,7 +1551,7 @@ ID:%s
     <string name="month_statement_category_detail_title">Выписка</string>
     <string name="monthly_report_entry_text">Ежемесячный отчёт</string>
     <string name="monthly_report_lable">Ежемесячный отчёт</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_express_numbers">Дополнительные номера курьеров</string>
     <string name="morning">Утро</string>
     <string name="mru_setting_brief">Быстрые приложения и ярлыки, которые появляются после свайпа вниз</string>
@@ -1707,13 +1707,13 @@ ID:%s
     <string name="pa_express_content_title_2">Экспресс-доставка</string>
     <string name="pa_express_detail_list_empty_text">"Информация может появляться здесь с задержкой.
 Вы также можете отслеживать экспресс-доставку на официальных сайтах курьерских служб."</string>
-    <string name="pa_express_detail_more">Еще</string>
+    <string name="pa_express_detail_more">Ещё</string>
     <string name="pa_express_detail_order_number_prefix">Номер отслеживания: %s</string>
     <string name="pa_express_dialog_sign_message">Отметить эту посылку как доставленную? После этого её статус больше не будет обновляться.</string>
     <string name="pa_express_empty_extra">Отслеживание</string>
     <string name="pa_express_empty_title">Нет информации</string>
     <string name="pa_express_i_known">ОК</string>
-    <string name="pa_express_input_again">Введите еще раз</string>
+    <string name="pa_express_input_again">Введите ещё раз</string>
     <string name="pa_express_inqiury_select_logistics">Выберите курьерскую службу</string>
     <string name="pa_express_inquiry">Проверить заказ</string>
     <string name="pa_express_inquiry_frequently_used_logistics">Популярные</string>
@@ -1742,7 +1742,7 @@ ID:%s
     <string name="pa_express_provider_miguo">Mi Express</string>
     <string name="pa_express_provider_mimall">Mi Store</string>
     <string name="pa_express_provider_shunfeng">SF Express</string>
-    <string name="pa_express_query_fail_content_input_again">Не удалось найти информацию об экспресс-доставке. Проверьте номер отслеживания и попробуйте еще раз.</string>
+    <string name="pa_express_query_fail_content_input_again">Не удалось найти информацию об экспресс-доставке. Проверьте номер отслеживания и попробуйте ещё раз.</string>
     <string name="pa_express_query_fail_content_manual_select">Не удалось найти информацию об экспресс-доставке. Попробуйте выбрать компанию доставки вручную.</string>
     <string name="pa_express_query_fail_title">Нет информации</string>
     <string name="pa_express_query_history">История заказов</string>
@@ -1777,7 +1777,7 @@ ID:%s
     <string name="pa_express_settings_recommend_item_2">Заявление о конфиденциальности</string>
     <string name="pa_express_settings_recommend_title">Подробнее</string>
     <string name="pa_express_settings_subtitle">Добавьте номера телефонов для отслеживания посылок экспресс-доставки</string>
-    <string name="pa_express_settings_title_1">Номера телефонов еще не добавлены</string>
+    <string name="pa_express_settings_title_1">Номера телефонов ещё не добавлены</string>
     <string name="pa_express_shunfeng_verify_dialog_message">Чтобы обеспечить конфиденциальность и безопасность пользователей SF Express, введите последние четыре цифры номера телефона получателя/отправителя.</string>
     <string name="pa_express_shunfeng_verify_dialog_ok">ОК</string>
     <string name="pa_express_shunfeng_verify_dialog_title">Проверка</string>
@@ -1846,7 +1846,7 @@ ID:%s
     <string name="pa_login_dialog_negative">Отмена</string>
     <string name="pa_login_dialog_positive">Войти</string>
     <string name="pa_login_ok">Вход</string>
-    <string name="pa_more">Еще</string>
+    <string name="pa_more">Ещё</string>
     <string name="pa_net_unavailable">Не удалось подключиться к сети</string>
     <string name="pa_notification_chanel_name_widget_offline">Облачные уведомления</string>
     <string name="pa_notification_chanel_name_widget_offline_des">Уведомления о действиях в облаке</string>
@@ -1913,7 +1913,7 @@ ID:%s
     <string name="pa_picker_list_app_footer_classic_widget">Виджеты Android</string>
     <string name="pa_picker_list_app_title">Приложения с виджетами</string>
     <string name="pa_picker_list_app_widget_count">%s</string>
-    <string name="pa_picker_list_load_complete">Нажмите, чтобы загрузить еще</string>
+    <string name="pa_picker_list_load_complete">Нажмите, чтобы загрузить ещё</string>
     <string name="pa_picker_list_load_end">Больше ничего нет</string>
     <string name="pa_picker_list_load_failed">Не удалось загрузить. Нажмите, чтобы повторить попытку.</string>
     <string name="pa_picker_list_loading">Подождите…</string>
@@ -2401,7 +2401,7 @@ ID:%s
     <string name="shortcut">Ярлыки</string>
     <string name="shortcuts_download_dialog_text_install">Установка</string>
     <string name="shortcuts_download_dialog_text_install_tip">Чтобы использовать \"%2$s\", установите %1$s.</string>
-    <string name="show_more">Еще</string>
+    <string name="show_more">Ещё</string>
     <string name="sms_address">Адрес</string>
     <string name="sms_airline">Авиакомпания</string>
     <string name="sms_button_add_calendar">Добавить в календарь</string>
@@ -2625,7 +2625,7 @@ ID:%s
     <string name="widget_fav_setting_brief">Избранное из разных приложений</string>
     <string name="widget_fav_setting_brief_detail">Просмотр всего избранного в одном месте.</string>
     <string name="widget_loading">Подождите…</string>
-    <string name="widget_more">Еще</string>
+    <string name="widget_more">Ещё</string>
     <string name="widget_no_data">Ничего нет</string>
     <string name="widget_title">Недавно добавленные</string>
     <string name="wx_aa">Батарея</string>

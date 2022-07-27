@@ -2891,7 +2891,7 @@
     <string name="device_internal_memory">Хранилище</string>
     <string name="device_mall_card_title">Проверка привилегий</string>
     <string name="device_memory">ОЗУ</string>
-    <string name="device_miui_more">Показать еще</string>
+    <string name="device_miui_more">Показать ещё</string>
     <string name="device_miui_version">Версия MIUI</string>
     <string name="device_miui_version_for_POCO">Версия MIUI (для POCO)</string>
     <string name="device_miui_version_parameters">Версия MIUI</string>
@@ -3242,7 +3242,7 @@ ID: %s
     <string name="edge_mode_notification_summary">Нажмите для просмотра.</string>
     <string name="edge_mode_notification_title">Управление по краю</string>
     <string name="edge_mode_photo">Фото</string>
-    <string name="edge_mode_photo_summary">При включенной камере нажмите на край экрана для фокусировки, затем нажмите еще раз для снятия фото.</string>
+    <string name="edge_mode_photo_summary">При включенной камере нажмите на край экрана для фокусировки, затем нажмите ещё раз для снятия фото.</string>
     <string name="edge_mode_screenshot">Скриншот</string>
     <string name="edge_mode_screenshot_summary">Нажмите дважды на края для снятия скриншота</string>
     <string name="edge_mode_state_summary">Область на краях экрана не будет реагировать на касания</string>
@@ -3657,7 +3657,7 @@ ID: %s
     <string name="fingerprint_delete_title">Удалить \"%1$s\"?</string>
     <string name="fingerprint_double_tap">Двойное касание сканера отпечатков</string>
     <string name="fingerprint_enable_keyguard_toggle_title">Блокировка экрана</string>
-    <string name="fingerprint_enroll_button_add">Добавить еще</string>
+    <string name="fingerprint_enroll_button_add">Добавить ещё</string>
     <string name="fingerprint_enroll_button_next">Далее</string>
     <string name="fingerprint_face_password_unlock">Пароли и защита</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Биометрия (настройте защиту устройства)</string>
@@ -5009,7 +5009,7 @@ ID: %s
     <string name="lock_after_timeout">Автоблокировка</string>
     <string name="lock_after_timeout_summary">Через %1$s после отключения экрана</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s после перехода в спящий режим, если экран не поддерживается в разблокированном состоянии службой %2$s</string>
-    <string name="lock_failed_attempts_before_wipe">Попробуйте еще раз. Попытка %1$d из %2$d.</string>
+    <string name="lock_failed_attempts_before_wipe">Попробуйте ещё раз. Попытка %1$d из %2$d.</string>
     <string name="lock_failed_attempts_now_wiping_device">Слишком много неудачных попыток. Все данные на устройстве будут удалены.</string>
     <string name="lock_failed_attempts_now_wiping_dialog_dismiss">Закрыть</string>
     <string name="lock_failed_attempts_now_wiping_profile">Слишком много неудачных попыток. Этот рабочий профиль и его данные будут удалены.</string>
@@ -5901,7 +5901,7 @@ ID: %s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -6038,7 +6038,7 @@ ID: %s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_account_settings_title">Другие аккаунты</string>
     <string name="more_dangerous_option_hint">Включена функция с высоким риском \"%1$s\". Нажмите для изменения настроек.</string>
     <string name="more_dark_mode_settings">Дополнительные параметры</string>
@@ -6093,7 +6093,7 @@ ID: %s
     <string name="msd_install_download_zhushou">Mi Phone Manager загружен</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Далее</string>
-    <string name="msd_install_retry">Если ваш ПК все еще не обнаруживает устройство, попробуйте сделать следующее:</string>
+    <string name="msd_install_retry">Если ваш ПК все ещё не обнаруживает устройство, попробуйте сделать следующее:</string>
     <string name="msd_install_retry_connect">Подключите USB-кабель заново.</string>
     <string name="msd_install_retry_reinstall">Переустановите драйвера.</string>
     <string name="msd_install_retry_reinstall_mac">Предварительно установите Android File Transfer, затем запустите программу.</string>
@@ -6314,7 +6314,7 @@ ID: %s
     <string name="nfc_image_preference_text_click">Проверьте, где находится область антенны NFC на этом устройстве</string>
     <string name="nfc_image_preference_text_noclick">Поместите устройство рядом с бесконтактным терминалом, чтобы использовать Mi Pay, транспортные карты, ключ-карты или другие функции NFC</string>
     <string name="nfc_main_switch_title">Использовать NFC</string>
-    <string name="nfc_more_title">Еще…</string>
+    <string name="nfc_more_title">Ещё…</string>
     <string name="nfc_payment_btn_text_set_deault">Установить по умолчанию</string>
     <string name="nfc_payment_btn_text_update">Обновить</string>
     <string name="nfc_payment_default">Оплата по умолчанию</string>
@@ -6343,7 +6343,7 @@ ID: %s
 %d. Не удается добавить или пополнить карту NFC.
 %d. Карта NFC не работает.
 %d. Не работают другие функции NFC."</string>
-    <string name="nfc_repair_fail_desc">Произошла ошибка, препятствующая восстановлению функций NFC. Попробуйте еще раз.</string>
+    <string name="nfc_repair_fail_desc">Произошла ошибка, препятствующая восстановлению функций NFC. Попробуйте ещё раз.</string>
     <string name="nfc_repair_fail_title">Ошибка восстановления</string>
     <string name="nfc_repair_ongoing">Восстановление… Не покидайте эту страницу.</string>
     <string name="nfc_repair_pass_desc">Перезагрузите устройство для применения изменений</string>
@@ -7498,7 +7498,7 @@ UT-интерфейс: %5$s"</string>
     <string name="request_manage_credentials_allow">Разрешить</string>
     <string name="request_manage_credentials_description">Эти сертификаты передают приложениям и URL-адресам, перечисленным ниже, уникальный идентификатор устройства для проверки</string>
     <string name="request_manage_credentials_dont_allow">Запретить</string>
-    <string name="request_manage_credentials_more">Показать еще</string>
+    <string name="request_manage_credentials_more">Показать ещё</string>
     <string name="request_manage_credentials_title">Разрешить приложению "<b>"^1"</b>" устанавливать сертификаты на этом устройстве?</string>
     <string name="requires_modern_control_center">Работает с новой версией центра управления</string>
     <string name="reset_aaid">Сброс идентификатора</string>
@@ -8246,7 +8246,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Разблокируйте устройство и используйте распознавание по лицу для подтверждения платежей.
 
 Примечание: Вы не можете использовать распознавание по лицу для разблокировки. Для дополнительной информации обратитесь к администратору организации."</string>
-    <string name="security_settings_face_enroll_introduction_more">Еще</string>
+    <string name="security_settings_face_enroll_introduction_more">Ещё</string>
     <string name="security_settings_face_enroll_introduction_no_thanks">Нет, спасибо</string>
     <string name="security_settings_face_enroll_introduction_title">Разблокировка по лицу</string>
     <string name="security_settings_face_enroll_introduction_title_unlock_disabled">Используйте разблокировку по лицу</string>
@@ -8384,13 +8384,13 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_udfps_enroll_repeat_message">Каждый раз, когда значок отпечатка перемещается, нажимайте на него и удерживайте. Это поможет полностью отсканировать отпечаток.</string>
     <string name="security_settings_udfps_enroll_repeat_title_touch_icon">Использование значка отпечатка</string>
     <string name="security_settings_udfps_enroll_start_message">Нажмите пальцем на сканер и удерживайте до вибрации</string>
-    <string name="security_settings_udfps_enroll_title_one_more_time">Еще раз</string>
+    <string name="security_settings_udfps_enroll_title_one_more_time">Ещё раз</string>
     <string name="security_status">Состояние защиты</string>
     <string name="security_status_title">Статус безопасности</string>
     <string name="security_update">Обновление безопасности</string>
     <string name="see_all_apps_title">Все приложения (%1$d)</string>
     <string name="see_less">Скрыть</string>
-    <string name="see_more">Еще</string>
+    <string name="see_more">Ещё</string>
     <string name="seek_bar_info">Размер</string>
     <string name="seekbar_text">Ползунок</string>
     <string name="select_all">Выбрать все</string>
@@ -8441,7 +8441,7 @@ UT-интерфейс: %5$s"</string>
     <string name="set_jeejen_prompt_title">Установить по умолчанию?</string>
     <string name="set_screen_paper_mode">Режим чтения</string>
     <string name="set_shoulder_key_shortcut_checkbox_message">Больше не показывать</string>
-    <string name="set_shoulder_key_shortcut_message">Вы еще не назначили ярлыки для навесных триггеров. Настроить?</string>
+    <string name="set_shoulder_key_shortcut_message">Вы ещё не назначили ярлыки для навесных триггеров. Настроить?</string>
     <string name="set_shoulder_key_shortcut_negative_button">Нет</string>
     <string name="set_shoulder_key_shortcut_positive_button">Да</string>
     <string name="set_shoulder_key_shortcut_title">Настройка навесных триггеров</string>
@@ -8935,7 +8935,7 @@ UT-интерфейс: %5$s"</string>
     <string name="speaker">Динамик</string>
     <string name="speaker_clean">Очистка динамика</string>
     <string name="special_access">Специальные разрешения</string>
-    <string name="special_access_more">Еще</string>
+    <string name="special_access_more">Ещё</string>
     <string name="special_preview">Демонстрация</string>
     <string name="speed_label_fast">Быстрая</string>
     <string name="speed_label_medium">Средняя</string>
@@ -9220,7 +9220,7 @@ UT-интерфейс: %5$s"</string>
 В перемещенных приложениях могут происходить сбои, а обмен данными может занимать много времени. 
 
 Используйте более быстрое устройство (^1)."</string>
-    <string name="storage_wizard_slow_v2_body">"Вы все еще можете использовать ^1, но оно может работать медленно. 
+    <string name="storage_wizard_slow_v2_body">"Вы все ещё можете использовать ^1, но оно может работать медленно. 
 
 Приложения, сохраненные на ^2 могут работать некорректно, перенос контента может занять много времени. 
 
@@ -9376,7 +9376,7 @@ UT-интерфейс: %5$s"</string>
     <string name="subscreen_title">Задний экран</string>
     <string name="subscription_available">Доступна</string>
     <string name="sud_back_button_label">Назад</string>
-    <string name="sud_more_button_label">Еще</string>
+    <string name="sud_more_button_label">Ещё</string>
     <string name="sud_next_button_label">Далее</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Совместимы с полноэкранным режимом</string>
     <string name="suggested_fingerprint_lock_settings_summary" />
@@ -9389,7 +9389,7 @@ UT-интерфейс: %5$s"</string>
     <string name="suggestion_button_text">ОК</string>
     <string name="suggestion_for_phone_recycled">Добавить другой номер</string>
     <string name="suggestion_remove">Убрать</string>
-    <string name="suggestions_more_title">Еще +%1$d</string>
+    <string name="suggestions_more_title">Ещё +%1$d</string>
     <string name="suggestions_summary">+%1$d</string>
     <string name="suggestions_title">Рекомендации</string>
     <string name="suggestions_title_v2">Рекомендации</string>
@@ -9421,7 +9421,7 @@ UT-интерфейс: %5$s"</string>
     <string name="swipe_direction_title">Действия жестов</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Использовать новый жест для перехода между приложениями</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Кнопка \"Домой\" (новая функция)</string>
-    <string name="swipe_up_to_switch_apps_summary">Для перехода между приложениями, проведите вверх по кнопке \"Домой\". Для просмотра всех приложений, проведите вверх еще раз. Для возврата нажмите кнопку \"Назад\".</string>
+    <string name="swipe_up_to_switch_apps_summary">Для перехода между приложениями, проведите вверх по кнопке \"Домой\". Для просмотра всех приложений, проведите вверх ещё раз. Для возврата нажмите кнопку \"Назад\".</string>
     <string name="swipe_up_to_switch_apps_title">Навигация</string>
     <string name="switchNetworkToast">За подключение к мобильным сетям может взиматься дополнительная плата.</string>
     <string name="switch_access_service_on">Переключение доступа</string>
@@ -11383,7 +11383,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_always">Всегда</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">"Эти настройки сейчас изменить нельзя. Приложение %1$s включило режим \"Не беспокоить\" со своими правилами."</string>
-    <string name="zen_mode_apps_bypassing_list_count">Еще %d</string>
+    <string name="zen_mode_apps_bypassing_list_count">Ещё %d</string>
     <string name="zen_mode_auto_rule">Расписание режима \"Не беспокоить\"</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Расписание</string>
     <string name="zen_mode_automation_settings_page_title">Расписания</string>
@@ -11513,7 +11513,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_option_miui_vibrate">Режим \"Не беспокоить\"</string>
     <string name="zen_mode_option_no_interruptions">Полная тишина</string>
     <string name="zen_mode_other_options">другие параметры</string>
-    <string name="zen_mode_other_sounds_list_count">Еще %d</string>
+    <string name="zen_mode_other_sounds_list_count">Ещё %d</string>
     <string name="zen_mode_other_sounds_none">Ничто не может прерывать режим</string>
     <string name="zen_mode_other_sounds_summary">{count,plural,offset:2 =0{Все звуки запрещены}=1{Разрешены звуки: {sound_category_1}}=2{Разрешены звуки: {sound_category_1} и {sound_category_2}}=3{Разрешены звуки: {sound_category_1}, {sound_category_2} и {sound_category_3}}one{Разрешены звуки: {sound_category_1}, {sound_category_2} и ещё #}few{Разрешены звуки: {sound_category_1}, {sound_category_2} и ещё #}many{Разрешены звуки: {sound_category_1}, {sound_category_2} и ещё #}other{Разрешены звуки: {sound_category_1}, {sound_category_2} и ещё #}}</string>
     <string name="zen_mode_people_all">Режим \"Не беспокоить\" не действует для вызовов и сообщений от всех</string>

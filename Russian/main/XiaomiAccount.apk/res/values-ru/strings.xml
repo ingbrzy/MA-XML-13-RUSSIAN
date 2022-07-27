@@ -350,7 +350,7 @@ ID:%s
     <string name="login_notification_button_text">Вход</string>
     <string name="login_notification_desc">Облачные сервисы, семейное хранилище и другое</string>
     <string name="login_notification_title">Вход в Xiaomi аккаунт</string>
-    <string name="login_with_other">Еще</string>
+    <string name="login_with_other">Ещё</string>
     <string name="logout_account">Выйти из аккаунта</string>
     <string name="logout_failed">Не удалось выйти из аккаунта</string>
     <string name="mi_account_identity_title">Подтвердите вашу личность</string>
@@ -373,7 +373,7 @@ ID:%s
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -433,7 +433,7 @@ ID:%s
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="multi_user_not_show_sync_activity_message_1">Похоже, вы используете Xiaomi аккаунт из первого пространства.</string>
@@ -537,7 +537,7 @@ ID:%s
     <string name="passport_error_invalid_phone_num">Неверный номер телефона</string>
     <string name="passport_error_login">Ошибка авторизации</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone_error">Неверный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>
     <string name="passport_error_sim_not_ready">SIM карта не найдена</string>

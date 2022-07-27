@@ -455,7 +455,7 @@
     <string name="callFailed_NetworkCongested">Сеть перегружена. Обратитесь за помощью к своему оператору мобильной связи.</string>
     <string name="callFailed_QOS_unavailable">QoS недоступно</string>
     <string name="callFailed_access_information_discarded">Отказ в доступе к информации</string>
-    <string name="callFailed_already_dialing">Невозможно выполнить вызов, так как еще не завершен другой исходящий вызов.</string>
+    <string name="callFailed_already_dialing">Невозможно выполнить вызов, так как ещё не завершен другой исходящий вызов.</string>
     <string name="callFailed_already_ringing">Невозможно выполнить вызов, так как есть неотвеченный входящий вызов. Примите или отклоните его.</string>
     <string name="callFailed_bearer_capability_not_authorized">Услуги переноса данных не авторизованы </string>
     <string name="callFailed_bearer_capability_unavailable">Услуги переноса данных в настоящее время недоступны</string>
@@ -1045,16 +1045,16 @@
     <string name="ecm_exit_dialog">Режим экстренного вызова</string>
     <string name="edit_fdn_contact">Изменение номера</string>
     <string name="emergencyDialerIconLabel">Экстренная помощь</string>
-    <string name="emergency_action_launch_hint">Нажмите еще раз для запуска</string>
+    <string name="emergency_action_launch_hint">Нажмите ещё раз для запуска</string>
     <string name="emergency_broadcast_disable">Экстренные оповещения отключены</string>
     <string name="emergency_broadcast_enable">Экстренные оповещения включены</string>
     <string name="emergency_call_area_code_edit_dialog_button">Вызов</string>
     <string name="emergency_call_area_code_edit_dialog_hint">Введите код региона</string>
-    <string name="emergency_call_shortcut_hint">Нажмите еще раз для вызова %s.</string>
+    <string name="emergency_call_shortcut_hint">Нажмите ещё раз для вызова %s.</string>
     <string name="emergency_enable_radio_dialog_message">Включение радиомодуля…</string>
     <string name="emergency_enable_radio_dialog_retry">Сеть недоступна. Повтор…</string>
     <string name="emergency_enable_radio_dialog_title">Экстренная помощь</string>
-    <string name="emergency_information_confirm_hint">Нажмите еще раз для информации</string>
+    <string name="emergency_information_confirm_hint">Нажмите ещё раз для информации</string>
     <string name="emergency_information_hint">Экстренная информация</string>
     <string name="emergency_information_owner_hint">Владелец</string>
     <string name="emergency_medical_records">Медицинские записи</string>
@@ -1590,7 +1590,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -1694,7 +1694,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mr_button_content_description">Трансляция</string>
     <string name="mr_cast_button_connected">Трансляция. Подключено</string>

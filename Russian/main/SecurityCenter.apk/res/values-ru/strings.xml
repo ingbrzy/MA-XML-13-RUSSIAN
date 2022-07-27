@@ -2367,7 +2367,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gd_setting_vtb_desc">Специальные функции для воспроизведения видео</string>
     <string name="gd_sidebar_edit_all_title">Все приложения</string>
     <string name="gd_sidebar_edit_btn_close">Скрыть</string>
-    <string name="gd_sidebar_edit_btn_expand">Еще</string>
+    <string name="gd_sidebar_edit_btn_expand">Ещё</string>
     <string name="gd_sidebar_edit_quick_title">Ярлыки</string>
     <string name="gd_sidebar_long_press_tips">Нажмите и удерживайте индикатор для перемещения, держите устройство вертикально</string>
     <string name="gd_splite_screen_tips">Разделение экрана при использовании плавающих окон не поддерживается</string>
@@ -2884,7 +2884,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -2923,7 +2923,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
     <string name="monitor_app_add">Добавить</string>
-    <string name="monitor_app_more">Еще</string>
+    <string name="monitor_app_more">Ещё</string>
     <string name="monitor_requests_from_pc">Управление установкой через USB</string>
     <string name="month_april">апреля</string>
     <string name="month_april_short">апр</string>
@@ -2965,10 +2965,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
-    <string name="more_game">Еще игры</string>
-    <string name="more_lock">Еще</string>
-    <string name="more_settings">Еще</string>
+    <string name="more">Ещё</string>
+    <string name="more_game">Ещё игры</string>
+    <string name="more_lock">Ещё</string>
+    <string name="more_settings">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtp_ptp_mode_summary">MTP или PTP активен</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
@@ -3755,7 +3755,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_optimize_auto_brightness_summary">Авторегулировка яркости экономит заряд</string>
     <string name="power_optimize_auto_catagory_title">Объекты для оптимизации</string>
     <string name="power_optimize_battery_save_idea">Оптимизировать питание</string>
-    <string name="power_optimize_battery_save_more">Еще</string>
+    <string name="power_optimize_battery_save_more">Ещё</string>
     <string name="power_optimize_brightness">Оптимизировать яркость экрана</string>
     <string name="power_optimize_btn_text_fixed">✓</string>
     <string name="power_optimize_catagory_fixed_title">Выполнено</string>

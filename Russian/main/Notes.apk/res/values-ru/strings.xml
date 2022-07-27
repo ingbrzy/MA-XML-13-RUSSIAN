@@ -171,7 +171,7 @@
     <string name="doodle_brush_pencil">Карандаш</string>
     <string name="doodle_brush_watercolor">Кисть</string>
     <string name="doodle_feature">Эскизы</string>
-    <string name="doodle_guide_brush_config_hint">Нажмите еще раз, чтобы настроить ширину штриха и прозрачность</string>
+    <string name="doodle_guide_brush_config_hint">Нажмите ещё раз, чтобы настроить ширину штриха и прозрачность</string>
     <string name="doodle_guide_dialog_confirm">ОК</string>
     <string name="doodle_guide_dialog_skip">Пропустить</string>
     <string name="doodle_guide_dialog_title">Эскизы</string>
@@ -389,7 +389,7 @@
     <string name="miui_penengine_tool_eraser_stroke4">Ширина ластика 4</string>
     <string name="miui_penengine_tool_ink">Ручка</string>
     <string name="miui_penengine_tool_mark">Маркер</string>
-    <string name="miui_penengine_tool_more">Еще</string>
+    <string name="miui_penengine_tool_more">Ещё</string>
     <string name="miui_penengine_tool_pencil">Карандаш</string>
     <string name="miui_penengine_tool_rect_select">Инструмент выделения</string>
     <string name="miui_penengine_tool_redo">Повторить</string>
@@ -407,7 +407,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -470,7 +470,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>

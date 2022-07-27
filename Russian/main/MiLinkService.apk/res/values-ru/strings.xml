@@ -101,7 +101,7 @@
     <string name="dialog_please_make_sure_tv_ok_or_help">"Убедитесь, что на целевом устройстве включена функция трансляции.
 Обратитесь к \"Справке\", если есть проблемы с подключением."</string>
     <string name="dialog_recent_connected">Недавние</string>
-    <string name="dialog_retry">Попробуйте еще раз</string>
+    <string name="dialog_retry">Попробуйте ещё раз</string>
     <string name="dialog_scan_message">"%1$d. Подключите устройство и ТВ к одной Wi-Fi сети.
 
 %2$d. Для дополнительных сведений обратитесь к \"Справке\"."</string>
@@ -282,7 +282,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -345,7 +345,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="msg_send_fail">Не удалось передать данные</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>

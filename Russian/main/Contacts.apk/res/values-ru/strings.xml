@@ -200,7 +200,7 @@
     <string name="bh_misim_recharge">Пополнить</string>
     <string name="bh_mm">Mi Mobile</string>
     <string name="bh_month_pkg">Месячный пакет</string>
-    <string name="bh_more">Еще</string>
+    <string name="bh_more">Ещё</string>
     <string name="bh_more_recommend">Больше рекомендаций</string>
     <string name="bh_more_traffic_pkg">Дополнительные пакеты интернета</string>
     <string name="bh_more_value">Другая сумма</string>
@@ -587,7 +587,7 @@
     <string name="contact_detail_miprofile_save_success_toast">Визитка получена</string>
     <string name="contact_detail_miprofile_settings_header">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ</string>
     <string name="contact_detail_miprofile_subtitle">Обмен уже состоялся</string>
-    <string name="contact_detail_more_calllog">Показать еще</string>
+    <string name="contact_detail_more_calllog">Показать ещё</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Не удалось подключиться к сети</string>
     <string name="contact_detail_profile_switch_fail_toast">Что-то не так с нашим сервером</string>
     <string name="contact_detail_profile_switch_off">Отключить визитки</string>
@@ -1055,7 +1055,7 @@
     <string name="map_work">Просмотреть рабочий адрес</string>
     <string name="meid">MEID</string>
     <string name="meid_invalid">Неверный MEID</string>
-    <string name="menuMoreDescription">Еще</string>
+    <string name="menuMoreDescription">Ещё</string>
     <string name="menu_accounts">Аккаунты</string>
     <string name="menu_addStar">В избранные</string>
     <string name="menu_bar_group_add">Добавить</string>
@@ -1175,7 +1175,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -1255,7 +1255,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="more_call_logs">Прослушивайте записи вызовов на сайте i.mi.com</string>
     <string name="morning">Утро</string>
     <string name="move_and_resize">Размер и положение</string>
@@ -2061,7 +2061,7 @@
     <string name="yellowpage_navigation_balance_refresh_failed">Баланс и трафик не могут быть проверены, повторите попытку позже.</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">Баланс и трафик были проверены</string>
     <string name="yellowpage_navigation_clear_search_history">Очистить историю</string>
-    <string name="yellowpage_navigation_more_items">Еще</string>
+    <string name="yellowpage_navigation_more_items">Ещё</string>
     <string name="yellowpage_navigation_more_items_title">Другие сервисы</string>
     <string name="yellowpage_navigation_no_content">Ничего не найдено</string>
     <string name="yellowpage_navigation_search_city_name_hint">Город</string>

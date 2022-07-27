@@ -372,7 +372,7 @@
     <string name="mihome_install_title">Установка приложения Mi Home</string>
     <string name="mihome_update_message">Текущая версия приложения Mi Home устарела, обновите приложение и повторите попытку.</string>
     <string name="mihome_update_title">Обновление приложения Mi Home</string>
-    <string name="mipayin_dialog_more">Еще</string>
+    <string name="mipayin_dialog_more">Ещё</string>
     <string name="mipayin_dialog_title">Открыть с помощью</string>
     <string name="miracast_connect">Подключить</string>
     <string name="miracast_connect_fail">Ошибка подключения</string>
@@ -387,7 +387,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_confirm_description">Подтверждение</string>
     <string name="miuix_appcompat_delete_description">Удаление</string>
@@ -488,7 +488,7 @@
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="my_document">Мои документы</string>
@@ -625,7 +625,7 @@
     <string name="privacy_policy_update_message"><Data>Вы не сможете использовать Сканер, если не примите обновленную &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a>. Принимаете?</Data></string>
     <string name="privacy_policy_update_welcome">Обновленная Политика конфиденциальности:</string>
     <string name="privacy_policy_withdrawal_error">Не удалось отозвать согласие. Попробуйте позже.</string>
-    <string name="privacy_policy_withdrawal_message"><Data>"Если Вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Это будет рассматриваться как отказ от услуг Сканера. Вам придется принять &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> еще раз, если Вы снова решите использовать Сканер. Отозвать согласие сейчас?"</Data></string>
+    <string name="privacy_policy_withdrawal_message"><Data>"Если Вы продолжите, согласие с Политикой конфиденциальности будет отозвано. Это будет рассматриваться как отказ от услуг Сканера. Вам придется принять &lt;a href=\"%1$s\">Политику конфиденциальности&lt;/a> ещё раз, если Вы снова решите использовать Сканер. Отозвать согласие сейчас?"</Data></string>
     <string name="processing">Обработка…</string>
     <string name="prompt">Внимание</string>
     <string name="qr_code_details">Информация о QR-коде:</string>
@@ -633,7 +633,7 @@
     <string name="query">Запрос</string>
     <string name="queryGoodsFailed">Не удалось найти информацию о товаре</string>
     <string name="queryNum">Проверка заказа</string>
-    <string name="query_faile">Статус заказа и детали еще не синхронизированы. Проверьте заказ вручную.</string>
+    <string name="query_faile">Статус заказа и детали ещё не синхронизированы. Проверьте заказ вручную.</string>
     <string name="query_inai">Позвольте Mi AI помочь вам</string>
     <string name="query_more">Дополнительная информация</string>
     <string name="query_tracking">Проверить</string>
@@ -762,7 +762,7 @@
     <string name="store_module_title">Магазин</string>
     <string name="store_no_date">Не удалось идентифицировать магазин</string>
     <string name="store_title">Сканирование знака магазина</string>
-    <string name="study_more">Еще</string>
+    <string name="study_more">Ещё</string>
     <string name="study_rotate_picture">Обработка изображения…</string>
     <string name="study_scan_result">Результат</string>
     <string name="study_searching">Поиск результатов…</string>
@@ -886,7 +886,7 @@
     <string name="ucrop_mutate_exception_hint">Переопределите ресурс цвета (ucrop_color_toolbar_widget) в своем приложении, чтобы он работал на pre-L устройствах</string>
     <string name="ucrop_rotate">Поворот</string>
     <string name="ucrop_scale">Масштаб</string>
-    <string name="uninstall_prompt">Если во время установки возникают проблемы, перейдите в Настройки &gt; Приложения &gt; Все приложения &gt; Сканер, нажмите \"Удалить\" и попробуйте установить приложение еще раз.</string>
+    <string name="uninstall_prompt">Если во время установки возникают проблемы, перейдите в Настройки &gt; Приложения &gt; Все приложения &gt; Сканер, нажмите \"Удалить\" и попробуйте установить приложение ещё раз.</string>
     <string name="url_is_phish">Подозрение на фишинговый сайт</string>
     <string name="url_is_safety">Этот сайт безопасен</string>
     <string name="url_is_unknown">Не удалось проверить безопасность сайта</string>
