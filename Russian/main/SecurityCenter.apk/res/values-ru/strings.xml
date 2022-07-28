@@ -3591,7 +3591,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_consume_fast">Быстрый разряд</string>
     <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить экономию заряда?</string>
     <string name="power_center_dialog_msg_title">Включите, чтобы увеличить время работы на %1$s. Для экономии заряда будут выполнены следующие действия:</string>
-    <string name="power_center_dialog_msg_title_screen_on">Вы получите %1$ экранного времени, если включите эту функцию. Следующие действия сэкономят заряд:</string>
+    <string name="power_center_dialog_msg_title_screen_on">Вы получите %1$s экранного времени, если включите эту функцию. Следующие действия сэкономят заряд:</string>
     <string name="power_center_dialog_msg_top">Когда включена экономия заряда, MIUI выполнит следующие действия:</string>
     <string name="power_center_hints_scan_danger_result">Найдены объекты для оптимизации</string>
     <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
