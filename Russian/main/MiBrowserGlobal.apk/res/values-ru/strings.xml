@@ -482,7 +482,7 @@
     <string name="comment_delete">Удалить</string>
     <string name="comment_delete_confirm_title">Удалить комментарий?</string>
     <string name="comment_delete_fail">Ошибка удаления</string>
-    <string name="comment_delete_sucess">Комментарий удален</string>
+    <string name="comment_delete_sucess">Комментарий удалён</string>
     <string name="comment_description">Комментарий</string>
     <string name="comment_empty_hint">Пока нет комментариев. Вы можете оставить первый.</string>
     <string name="comment_error_hint">Не удалось загрузить комментарии. Нажмите, чтобы повторить попытку.</string>
@@ -669,7 +669,7 @@ ID:%s
     <string name="dialog_confirm_delete_the_download_item_message">Удалить выбранную загрузку?</string>
     <string name="dialog_failed_body">Повторите попытку позже или удалите этот файл из очереди загрузки</string>
     <string name="dialog_file_already_exists">Файл уже загружен</string>
-    <string name="dialog_file_missing_body">Ошибка открытия файла. Файл перемещен или удален?</string>
+    <string name="dialog_file_missing_body">Ошибка открытия файла. Файл перемещён или удалён?</string>
     <string name="dialog_file_missing_title">Ошибка открытия файла</string>
     <string name="dialog_game_banner">Взгляните на популярные игры!</string>
     <string name="dialog_game_close">Отмена</string>
@@ -738,7 +738,7 @@ ID:%s
     <string name="download_dialog_file_length_lessthan1kb">Меньше %1$d КБ</string>
     <string name="download_dialog_file_length_nolength_error_txt">Ошибка загрузки</string>
     <string name="download_dialog_file_length_nolength_txt">Подождите…</string>
-    <string name="download_dialog_file_missing_body">Файл не найден. Он мог быть перемещен или удален.</string>
+    <string name="download_dialog_file_missing_body">Файл не найден. Он мог быть перемещён или удалён.</string>
     <string name="download_dialog_file_missing_title">Не удалось открыть файл</string>
     <string name="download_dialog_insufficient_space_on_cache">Ошибка загрузки</string>
     <string name="download_dialog_insufficient_space_on_external">Недостаточно места на внешнем накопителе</string>
@@ -780,7 +780,7 @@ ID:%s
     <string name="download_menu_title_resume_all">Запустить все</string>
     <string name="download_more_histories">Предыдущие загрузки</string>
     <string name="download_noSize">Неизвестный размер</string>
-    <string name="download_no_application_title">Файл не найден, возможно, он был перемещен или удален.</string>
+    <string name="download_no_application_title">Файл не найден, возможно, он был перемещён или удалён.</string>
     <string name="download_no_memory">Ошибка загрузки. Недостаточно места.</string>
     <string name="download_no_sdcard_dlg_msg">Нужна SD-карта для загрузки %s.</string>
     <string name="download_no_sdcard_dlg_title">Нет SD-карты</string>
@@ -967,7 +967,7 @@ ID:%s
     <string name="file_size">Размер: %s</string>
     <string name="file_type">Формат: %s</string>
     <string name="filename_empty_alert_message">Введите имя файла</string>
-    <string name="filename_illegal_alert_message">Недопустимый символ был удален из имени файла</string>
+    <string name="filename_illegal_alert_message">Недопустимый символ был удалён из имени файла</string>
     <string name="find_new_version">Доступно обновление</string>
     <string name="find_on_page_cancel">Отмена</string>
     <string name="find_on_page_hint">Искать на странице</string>
@@ -1579,7 +1579,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">Не удалось перейти на этот сайт. %s0 использует небезопасный номер порта.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Соединение было прервано, когда ваше устройство перешло в спящий режим.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Соединение было прервано из-за смены сети.</string>
-    <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Не удалось найти файл. Возможно, он был перемещен или удален.</string>
+    <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Не удалось найти файл. Возможно, он был перемещён или удалён.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Не удалось прочитать файл. Права доступа к файлам могут препятствовать доступу.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 слишком долго отвечал.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">Доступ к сети ограничен.</string>
@@ -2074,7 +2074,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_privacy_enable_geolocation_summary">Разрешить браузеру использовать геолокацию</string>
     <string name="pref_privacy_formdata_title">Данные форм</string>
     <string name="pref_privacy_location_title">Использование геолокации</string>
-    <string name="pref_privacy_performance_id_instead_by_random_id">Ваш Performance ID будет заменен на новый, созданный случайным образом.</string>
+    <string name="pref_privacy_performance_id_instead_by_random_id">Ваш Performance ID будет заменён на новый, созданный случайным образом.</string>
     <string name="pref_privacy_performance_id_is">"Текущий Performance ID: "</string>
     <string name="pref_privacy_performance_id_reset">Сброс Performance ID</string>
     <string name="pref_privacy_performance_id_will_reset">Ваш Performance ID будет сброшен</string>
@@ -2173,7 +2173,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="privacy_btn_more">Ещё</string>
     <string name="privacy_dialog_next">Далее</string>
     <string name="privacy_dialog_revoke">Отозвать</string>
-    <string name="privacy_dialog_text">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Wonderfic. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация (включая, помимо прочего, информацию об учетной записи, информацию о платежах и записи о покупках) будет удалена в течение определенного периода времени, как того требует действующее законодательство. <b>После отзыва согласия вы не сможете получить доступ к книгам, которые вы приобрели, а баланс вашего аккаунта будет очищен.</b> Поскольку Wonderfic необходимо собирать личную информацию, необходимую для предоставления вам своих услуг, отзыв согласия с Политикой конфиденциальности будет считаться отказом от использования сервиса.</string>
+    <string name="privacy_dialog_text">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Wonderfic. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация (включая, помимо прочего, информацию об учётной записи, информацию о платежах и записи о покупках) будет удалена в течение определенного периода времени, как того требует действующее законодательство. <b>После отзыва согласия вы не сможете получить доступ к книгам, которые вы приобрели, а баланс вашего аккаунта будет очищен.</b> Поскольку Wonderfic необходимо собирать личную информацию, необходимую для предоставления вам своих услуг, отзыв согласия с Политикой конфиденциальности будет считаться отказом от использования сервиса.</string>
     <string name="privacy_dialog_text_next">После отзыва согласия вы не сможете получить доступ к приобретенным книгам, а баланс вашего аккаунта будет очищен.</string>
     <string name="privacy_dialog_title">Отзыв согласия</string>
     <string name="privacy_disagree">Отклонить</string>
@@ -2355,7 +2355,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="save_to_private_folder">Добавить в скрытые файлы</string>
     <string name="saved_sucess">Сохранено</string>
     <string name="scanner_uninstalled_text">Установите Сканер, чтобы продолжить</string>
-    <string name="scanner_uninstalled_title">Сканер был удален</string>
+    <string name="scanner_uninstalled_title">Сканер был удалён</string>
     <string name="scanning_info">Найдено: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
     <string name="scanning_write_db">Добавление в базу…</string>
     <string name="score_dialog_msg_score_explorer">Вам нравится Браузер?</string>
@@ -2397,7 +2397,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="secure_download_in_xiaomi_market">Загрузить из Mi Apps</string>
     <string name="secureaccess">Перейти в безопасный режим</string>
     <string name="secureaccess_cancel">Отмена</string>
-    <string name="security_permission_desc_get_accounts">Для входа в систему и управления системной учетной записью</string>
+    <string name="security_permission_desc_get_accounts">Для входа в систему и управления системной учётной записью</string>
     <string name="security_permission_desc_read_phone">Для доступа к IMEI для идентификации устройства</string>
     <string name="security_permission_desc_storage">Для сохранения, выгрузки и загрузки изображений и других файлов</string>
     <string name="security_permission_main_purpose">Просмотр веб-страниц, поиск, чтение книг и новостей, просмотр видео и др.</string>

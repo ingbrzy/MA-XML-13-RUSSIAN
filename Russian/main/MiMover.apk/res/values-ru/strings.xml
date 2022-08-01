@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="account_or_password_incorrect">Неверный идентификатор учетной записи или пароль</string>
+    <string name="account_or_password_incorrect">Неверный идентификатор учётной записи или пароль</string>
     <string name="action_mode_deselect_all">Отменить выбор</string>
     <string name="action_mode_select_all">Выбрать все</string>
     <string name="action_mode_title_empty">Выберите данные</string>
@@ -116,11 +116,11 @@
     <string name="close_cellular_title">Ошибка подключения</string>
     <string name="close_twice_auth_btn">Отключить двухфакторную аутентификацию</string>
     <string name="close_twice_auth_note">Примечание:
-После создания нового секретного вопроса и подтверждения даты вашего рождения двухфакторная аутентификация Apple ID будет отключена. Если вы не видите опцию отключения двухфакторной аутентификации на странице учетной записи Apple ID, вы не сможете отключить её.</string>
+После создания нового секретного вопроса и подтверждения даты вашего рождения двухфакторная аутентификация Apple ID будет отключена. Если вы не видите опцию отключения двухфакторной аутентификации на странице учётной записи Apple ID, вы не сможете отключить её.</string>
     <string name="close_twice_auth_operation">"URL:
 Посетите https://appleid.apple.com/#!&amp;page=signin для отключения"</string>
     <string name="close_twice_auth_step_1">1. Откройте любой веб-браузер на любом компьютере и перейдите на appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Войдите в Apple ID, для которого вы хотите отключить двухфакторную аутентификацию, перейдите в раздел "\Безопасность"\ в настройках учетной записи и выберите "\Изменить"\.</string>
+    <string name="close_twice_auth_step_2">2. Войдите в Apple ID, для которого вы хотите отключить двухфакторную аутентификацию, перейдите в раздел "\Безопасность"\ в настройках учётной записи и выберите "\Изменить"\.</string>
     <string name="close_twice_auth_step_3">3. Нажмите \"Отключить двухфакторную аутентификацию\". Нажмите ещё раз, чтобы подтвердить.</string>
     <string name="close_twice_auth_steps">Выполните следующие действия, чтобы отключить двухфакторную аутентификацию для Apple ID:</string>
     <string name="close_twice_auth_tutor">Отключить двухфакторную аутентификацию Apple ID</string>
@@ -132,7 +132,7 @@
     <string name="comma_seperator">", "</string>
     <string name="confirm_description">Подтвердить</string>
     <string name="connect_icloud_fail">Не удалось подключиться к iCloud</string>
-    <string name="connect_icloud_fail_tips">Убедитесь, что ваша учетная запись iCloud активирована. Иначе, перейдите на icloud.com и следуйте инструкциям, чтобы активировать свою учетную запись. </string>
+    <string name="connect_icloud_fail_tips">Убедитесь, что ваша учётная запись iCloud активирована. Иначе, перейдите на icloud.com и следуйте инструкциям, чтобы активировать свою учётную запись. </string>
     <string name="connect_wifi">Подключиться к Wi-Fi</string>
     <string name="connect_wifi_tip">Не удалось подключиться к сети. Подключитесь к Wi-Fi, чтобы импортировать данные из iCloud.</string>
     <string name="connecting">Подключение…</string>
@@ -215,7 +215,7 @@
     <string name="err_user_abort">Отменено пользователем.</string>
     <string name="err_version_too_old">Файл резервной копии слишком старый.</string>
     <string name="err_version_unsupported">Версия резервной копии не поддерживается.</string>
-    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашей учетной записью Mi.</string>
+    <string name="error_forbidden">Синхронизация отключена из-за проблем с вашей учётной записью Mi.</string>
     <string name="error_not_acceptable">Синхронизация отключена.</string>
     <string name="error_permissions">Это приложение не имеет разрешений, необходимых для доступа к календарю. Перейдите в настройки и проверьте разрешения, чтобы продолжить.</string>
     <string name="error_title">Не удалось синхронизировать</string>
@@ -486,7 +486,7 @@
     <string name="new_trans_intro_question_2">2. Какой пароль у точки доступа?</string>
     <string name="new_trans_intro_question_3">3. Почему говорится, что на старом устройстве недостаточно места для хранения?</string>
     <string name="new_trans_intro_question_4">4. Почему не все приложения перенесены?</string>
-    <string name="new_trans_intro_question_5">5. Почему пароли некоторых сторонних учетных записей приложений не передаются успешно?</string>
+    <string name="new_trans_intro_question_5">5. Почему пароли некоторых сторонних учётных записей приложений не передаются успешно?</string>
     <string name="new_trans_intro_question_6">6. Почему данные приложения не могут быть перенесены с другого устройства?</string>
     <string name="new_trans_intro_question_7">7. Если я остановлю Mi Mover в процессе переноса, мне придется начинать сначала?</string>
     <string name="new_trans_intro_question_8">8. Почему моя история WeChat исчезла на новом устройстве?</string>
@@ -693,7 +693,7 @@
     <string name="send_sms_for_sync_notice">Для активации данной услуги может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="send_sms_for_sync_title">Предупреждение</string>
     <string name="send_verification_code_fail">Не удалось отправить код подтверждения</string>
-    <string name="send_verification_code_fail_tips">Убедитесь, что вы вошли в эту учетную запись на своем устройстве Apple. В противном случае вы не сможете получить код.</string>
+    <string name="send_verification_code_fail_tips">Убедитесь, что вы вошли в эту учётную запись на своем устройстве Apple. В противном случае вы не сможете получить код.</string>
     <string name="sender">Отправить</string>
     <string name="sender_finish_bottom_tips">Перед удалением данных на этом устройстве убедитесь, что вы создали резервные копии всех важных данных.</string>
     <string name="sender_finish_title">Успешно передано</string>

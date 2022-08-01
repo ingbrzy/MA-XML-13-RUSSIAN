@@ -67,7 +67,7 @@
     <string name="i_get_it">Понятно</string>
     <string name="icon_add_description">Добавить ярлык на Рабочий стол</string>
     <string name="icon_remove_confirm">Удалить</string>
-    <string name="icon_remove_description_content">Приложение \"Обратная связь\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
+    <string name="icon_remove_description_content">Приложение \"Обратная связь\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
     <string name="icon_remove_description_title">Удалить \"Обратная связь\" с рабочего стола?</string>
     <string name="mi_service_app_name">Обратная связь</string>
     <string name="midnight">Ночь</string>

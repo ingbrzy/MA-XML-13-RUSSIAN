@@ -197,7 +197,7 @@
     </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d файлов удалено</item>
-        <item quantity="one">%d файл удален</item>
+        <item quantity="one">%d файл удалён</item>
         <item quantity="few">%d файла удалено</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
@@ -652,7 +652,7 @@
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d выбранных файлов будут безвозвратно удалены из облака и со всех синхронизированных устройств. Все равно удалить?</item>
-        <item quantity="one">%d выбранный файл будет безвозвратно удален из облака и со всех синхронизированных устройств. Все равно удалить?</item>
+        <item quantity="one">%d выбранный файл будет безвозвратно удалён из облака и со всех синхронизированных устройств. Все равно удалить?</item>
         <item quantity="few">%d выбранных файла будут безвозвратно удалены из облака и со всех синхронизированных устройств. Все равно удалить?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
@@ -661,7 +661,7 @@
     </plurals>
     <plurals name="trash_purge_dialog_message_local">
         <item quantity="other">%d выбранных файлов будут удалены без возможности восстановления. Все равно удалить?</item>
-        <item quantity="one">%d выбранный файл будет удален без возможности восстановления. Все равно удалить?</item>
+        <item quantity="one">%d выбранный файл будет удалён без возможности восстановления. Все равно удалить?</item>
         <item quantity="few">%d выбранных файла будут удалены без возможности восстановления. Все равно удалить?</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">

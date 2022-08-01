@@ -102,7 +102,7 @@
     <string name="alert_dialog_download_prepare">Подготовка к загрузке…</string>
     <string name="alert_dialog_download_progress">"Загрузка приложения: "</string>
     <string name="all">Показать все</string>
-    <string name="app_description_content">Приложение \"Mi Видео\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Воспроизведение видео в приложении по-прежнему будет доступно.</string>
+    <string name="app_description_content">Приложение \"Mi Видео\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Воспроизведение видео в приложении по-прежнему будет доступно.</string>
     <string name="app_description_title">Удалить \"Mi Видео\" с рабочего стола?</string>
     <string name="app_name">Mi Видео</string>
     <string name="auth_again">Принимаю</string>
@@ -235,7 +235,7 @@
     <string name="com_permission_title">Требуются разрешения</string>
     <string name="comment_model_add_comment">Добавить комментарий</string>
     <string name="comment_model_bg_add_comment">Поделитесь мыслями с нашим сообществом</string>
-    <string name="comment_model_bg_deleted_comment">Комментарий был удален</string>
+    <string name="comment_model_bg_deleted_comment">Комментарий был удалён</string>
     <string name="comment_model_close">Комментирование сейчас недоступно. Оставайтесь на связи!</string>
     <string name="comment_model_comment">Комментарии</string>
     <string name="comment_model_confirm_delete">Удалить комментарий?</string>
@@ -244,7 +244,7 @@
     <string name="comment_model_copy_success">Комментарий скопирован</string>
     <string name="comment_model_delete">Удалить</string>
     <string name="comment_model_delete_fail">Ошибка удаления</string>
-    <string name="comment_model_delete_success">Комментарий удален</string>
+    <string name="comment_model_delete_success">Комментарий удалён</string>
     <string name="comment_model_reply">Ответы</string>
     <string name="comment_model_reply_comment">"Ответ на %s: "</string>
     <string name="comment_model_report">Отчёт</string>
@@ -730,7 +730,7 @@ ID: %s
     <string name="incentive_exchange_lack">Недоступно</string>
     <string name="incentive_exchange_successful">Получено</string>
     <string name="incentive_exchange_tip">Эти баллы доступны только сегодня</string>
-    <string name="incentive_login_for_claim">Войдите в учетную запись Google, чтобы получить баллы</string>
+    <string name="incentive_login_for_claim">Войдите в учётную запись Google, чтобы получить баллы</string>
     <string name="incentive_login_success_for_already_claimd">Вход выполнен. Баллы получены.</string>
     <string name="incentive_login_tip">Войдите в систему, чтобы получить баллы и награды.</string>
     <string name="incentive_my_points">Мои баллы</string>
@@ -1168,7 +1168,7 @@ ID: %s
     <string name="not_show">Больше не показывать</string>
     <string name="not_support_share">Не удалось поделиться</string>
     <string name="notice_comment_action">%s прокомментировал ваш пост</string>
-    <string name="notice_comment_action_deleted">Комментарий был удален</string>
+    <string name="notice_comment_action_deleted">Комментарий был удалён</string>
     <string name="notice_feedback_content">Есть новые ответы. Нажмите для просмотра.</string>
     <string name="notice_like_action">%s нравится ваш комментарий</string>
     <string name="notice_message_title">Уведомления</string>
@@ -1425,7 +1425,7 @@ ID: %s
     <string name="play_list_detial_rename">Переименовать</string>
     <string name="play_list_save_dialog_create">Создать плейлист</string>
     <string name="play_list_save_dialog_title">Добавить в плейлист</string>
-    <string name="play_list_sign_in_dialog_message">Войдите в свою учетную запись Google, чтобы просмотреть все ваши плейлисты</string>
+    <string name="play_list_sign_in_dialog_message">Войдите в свою учётную запись Google, чтобы просмотреть все ваши плейлисты</string>
     <string name="play_list_user_local">Локальные</string>
     <string name="play_list_user_online">Онлайн</string>
     <string name="player_replay_btn_text">повтор</string>
@@ -1761,7 +1761,7 @@ ID: %s
     <string name="subscribe_author_recommend_title">Подпишитесь для просмотра новых видео от этих авторов</string>
     <string name="subscribe_dialog_import_agree">Импортировать</string>
     <string name="subscribe_dialog_import_cancel">Отмена</string>
-    <string name="subscribe_dialog_import_content">Импортируйте подписки из Mi Видео в учетную запись Google, чтобы все подписки были в одном месте. Вы по прежнему сможете просматривать их в Mi Видео. Импортировать?</string>
+    <string name="subscribe_dialog_import_content">Импортируйте подписки из Mi Видео в учётную запись Google, чтобы все подписки были в одном месте. Вы по прежнему сможете просматривать их в Mi Видео. Импортировать?</string>
     <string name="subscribe_dialog_import_title">Импорт в аккаунт Google</string>
     <string name="subscribe_error_toast">Не удалось подписаться</string>
     <string name="subscribe_import_hint_btn">Импортировать</string>

@@ -268,7 +268,7 @@
     <string name="disabled">Откл</string>
     <string name="discard">Отменить</string>
     <string name="discard_message">Удалить черновик?</string>
-    <string name="discard_message_reason">Черновик сообщения будет удален, так как не указано ни одного получателя.</string>
+    <string name="discard_message_reason">Черновик сообщения будет удалён, так как не указано ни одного получателя.</string>
     <string name="discard_slideshow">Отменить слайд-шоу</string>
     <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s от %2$s.</string>
     <string name="done">Готово</string>
@@ -375,13 +375,13 @@
     <string name="group_member_is_composing">Печатает…</string>
     <string name="group_message">Групповое сообщение</string>
     <string name="group_message_title">Групповые чаты</string>
-    <string name="group_not_exist_hint">Отправка невозможна. Этот чат был удален.</string>
+    <string name="group_not_exist_hint">Отправка невозможна. Этот чат был удалён.</string>
     <string name="group_notify_message_title">Уведомления групповых чатов</string>
     <string name="group_rejoin_failed">Не удалось присоединиться к чату</string>
     <string name="group_resend_message">Повторить (%d)</string>
     <string name="group_verification_codes_summary">Автоматически группировать одноразовые пароли вместе</string>
     <string name="group_verification_codes_title">Группировка одноразовых паролей</string>
-    <string name="group_view_settings_disolved">Просмотр невозможен. Этот чат был удален.</string>
+    <string name="group_view_settings_disolved">Просмотр невозможен. Этот чат был удалён.</string>
     <string name="group_view_settings_not_memeber">Просмотр невозможен. Вы не являетесь участником этого чата.</string>
     <string name="groupchat_list_title">Групповые чаты</string>
     <string name="guild_add_attachments">Нажмите для добавления смайликов и вложений</string>
@@ -707,7 +707,7 @@
     <string name="over_max_mms_size">Размер MMS слишком велик.</string>
     <string name="overwrite_edited_content">Перезаписать содержимое?</string>
     <string name="packages_select_sim_cards_title">Выберите SIM карту</string>
-    <string name="perm_purpose_mms_account">Для доступа к информации учетной записи</string>
+    <string name="perm_purpose_mms_account">Для доступа к информации учётной записи</string>
     <string name="perm_purpose_mms_storage">Для сохранения вложений MMS</string>
     <string name="perm_purpose_rcs_account">Для отображения руководства для начинающих для новых пользователей"</string>
     <string name="perm_purpose_rcs_phone_state">Для доступа к IMEI для идентификации вашего устройства</string>
@@ -842,7 +842,7 @@
     <string name="privacy_mode_hint">Нельзя отправлять сообщения в режиме \"Гость\"</string>
     <string name="privacy_password_message1">Пароль конфиденциальности защищает приватные сообщения, фото, заметки и папки</string>
     <string name="privacy_password_message2">Для защиты приватных сообщений, фото, заметок и папок используйте пароль конфиденциальности</string>
-    <string name="privacy_password_message3">Пароль приватных сообщений будет заменен на пароль конфиденциальности, который защищает приватные сообщения, фото, заметки и папки</string>
+    <string name="privacy_password_message3">Пароль приватных сообщений будет заменён на пароль конфиденциальности, который защищает приватные сообщения, фото, заметки и папки</string>
     <string name="privacy_password_set_password">Задать</string>
     <string name="privacy_password_title1">Задайте пароль</string>
     <string name="privacy_password_title2">Пароль конфиденциальности</string>
@@ -1084,7 +1084,7 @@
     <string name="rms_emoticon_body">[Смайлик]</string>
     <string name="rms_file_body">[Файл]</string>
     <string name="rms_file_not_exist">Файл не существует</string>
-    <string name="rms_file_not_exist_to_view">Этот файл был перемещен или удален</string>
+    <string name="rms_file_not_exist_to_view">Этот файл был перемещён или удалён</string>
     <string name="rms_illegal_extension">Этот формат файла не поддерживается</string>
     <string name="rms_image_body">[Изображение]</string>
     <string name="rms_location_body">[Расположение]</string>

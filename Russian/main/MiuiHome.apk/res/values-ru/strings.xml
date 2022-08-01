@@ -106,7 +106,7 @@
     <string name="announce_for_close_launcher_menu">Меню закрыто</string>
     <string name="announce_for_create_folder_with_app">Создана папка с %1$s</string>
     <string name="announce_for_delete_gadget_and_widget">Виджет</string>
-    <string name="announce_for_delete_item">Объект %1$s был удален</string>
+    <string name="announce_for_delete_item">Объект %1$s был удалён</string>
     <string name="announce_for_drag_enter_delete_zone">Вы перетащили объекты в область удаления</string>
     <string name="announce_for_drag_enter_folder_grid">Вы можете перетащить объекты в папку</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">Вы перетащили объекты на миниатюру экрана номер %1$d</string>
@@ -252,7 +252,7 @@
     <string name="configure_wallpaper">Обои</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Клоны приложений будут удалены вместе с основными.</string>
-    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Клон приложения будет удален вместе с основным.</string>
+    <string name="confirm_uninstall_dialog_has_xspace_app_msg">Клон приложения будет удалён вместе с основным.</string>
     <string name="confirm_uninstall_dialog_title">Клоны приложений будут удалены</string>
     <string name="content_description_button_add">Нажмите для добавления</string>
     <string name="content_description_button_disable">Больше нет места</string>

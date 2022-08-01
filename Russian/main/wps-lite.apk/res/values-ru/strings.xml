@@ -213,7 +213,7 @@
     <string name="public_enter_phonemode">Перейти к мобильному виду</string>
     <string name="public_exit_phonemode">Выйти из мобильного вида</string>
     <string name="public_exit_play">Выход</string>
-    <string name="public_fileNotExist">Файл не существует. Файл мог быть переименован, перемещен или удален.</string>
+    <string name="public_fileNotExist">Файл не существует. Файл мог быть переименован, перемещён или удалён.</string>
     <string name="public_file_cant_write_tips">Невозможно сохранить файл в текущий каталог. Сохранить как новый файл в другой каталог?</string>
     <string name="public_file_download">Загрузка файла</string>
     <string name="public_find_replaceall">Заменить все</string>
@@ -251,7 +251,7 @@
     <string name="public_ok">ОК</string>
     <string name="public_openDocumentFormatError">Невозможно открыть файл из-за неподдерживаемых функций.</string>
     <string name="public_open_file_failed">Не удалось открыть файл</string>
-    <string name="public_open_file_in_error_account">Не удалось открыть. Перед открытием файла войдите в свою учетную запись.</string>
+    <string name="public_open_file_in_error_account">Не удалось открыть. Перед открытием файла войдите в свою учётную запись.</string>
     <string name="public_other_app">Открыть в другом приложении</string>
     <string name="public_outline">Содержимое</string>
     <string name="public_paste">Вставить</string>
@@ -275,7 +275,7 @@
     <string name="public_re_licensing">Выполнить лицензирование</string>
     <string name="public_readOnlyMode">Только чтение</string>
     <string name="public_recory_edit_not_save_tips">Несохраненное содержимое уже восстановлено.</string>
-    <string name="public_recory_open_file_not_exist_tips">Документ восстановлен. Возможно, он был удален другими приложениями.</string>
+    <string name="public_recory_open_file_not_exist_tips">Документ восстановлен. Возможно, он был удалён другими приложениями.</string>
     <string name="public_refuse_give_permission">Ошибка авторизации</string>
     <string name="public_refuse_jurisdiction">Отказ в доступе</string>
     <string name="public_replace">Заменить</string>
@@ -324,7 +324,7 @@
     <string name="public_unsave">Отменить</string>
     <string name="public_warnedit_dialog_title_text">Советы</string>
     <string name="public_wps_name">WPS</string>
-    <string name="public_wpscloud_recovery_edit_not_exist_tips">Документ восстановлен с помощью службы облачных документов WPS. Возможно, он был удален другими приложениями.</string>
+    <string name="public_wpscloud_recovery_edit_not_exist_tips">Документ восстановлен с помощью службы облачных документов WPS. Возможно, он был удалён другими приложениями.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">Последнее измененное содержимое не было сохранено и было восстановлено с помощью службы облачных документов WPS.</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Сохраните документ надежным способом</string>
     <string name="public_writer_label">Просмотр текста</string>

@@ -101,7 +101,7 @@
     <string name="current_speed_content">Скорость: %1$s</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
-    <string name="delete_file_success">Файл удален</string>
+    <string name="delete_file_success">Файл удалён</string>
     <string name="delete_operation_record">Удалить запись?</string>
     <string name="delete_operation_record_timeout">Не удалось удалить запись. Повторите попытку позже.</string>
     <string name="delete_record_only">Файлы, на которые ссылаются выбранные записи, не будут удалены.</string>

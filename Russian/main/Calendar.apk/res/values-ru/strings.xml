@@ -47,7 +47,7 @@
     <string name="account_manager_delete_dialog">Удалить аккаунт?</string>
     <string name="account_manager_delete_events">Удалить мероприятия</string>
     <string name="account_manager_install_email">Установить системный почтовый клиент</string>
-    <string name="account_manager_install_email_tips">Системный почтовый клиент был удален. После переустановки почтового клиента можно восстановить соответствующую учетную запись календаря или добавить новую.</string>
+    <string name="account_manager_install_email_tips">Системный почтовый клиент был удалён. После переустановки почтового клиента можно восстановить соответствующую учётную запись календаря или добавить новую.</string>
     <string name="account_manager_install_immediately">Установить</string>
     <string name="account_manager_installing">Установка, подождите…</string>
     <string name="account_manager_not_display">Не показывать</string>
@@ -327,7 +327,7 @@
     <string name="electricity_amount_label">Счета за электричество</string>
     <string name="electricity_bill_event_title">Оплата электричества:</string>
     <string name="electricity_detail_title">Счета за электричество</string>
-    <string name="electricity_event_delete_successfully">Платеж удален</string>
+    <string name="electricity_event_delete_successfully">Платеж удалён</string>
     <string name="email_guests_label">Уведомить гостей по Email</string>
     <string name="email_install_hint">Приложение \"Почта\" было удалено. Установите его заново для восстановления аккаунтов календаря или добавления новых.</string>
     <string name="email_picker_label">Отправить из</string>
@@ -385,7 +385,7 @@
     <string name="flight_disclaimer">Отказ от ответственности</string>
     <string name="flight_disclaimer_content">Информация о рейсе и услуги предоставляются компанией VariFlight. Все связанные с этим обязанности будут нести третьи лица. Если у вас есть какие-либо вопросы, обратитесь в службу поддержки клиентов VariFlight. Информация о рейсе предоставляется только для вашей справки. Для получения более точной и актуальной информации обратитесь к объявлениям авиакомпаний.</string>
     <string name="flight_disclaimer_dialog_ok">Понятно</string>
-    <string name="flight_event_delete_successfully">Маршрут полета успешно удален</string>
+    <string name="flight_event_delete_successfully">Маршрут полета успешно удалён</string>
     <string name="flight_plan_time">Расписание %1$s</string>
     <string name="flight_seat_no">Место %1$s</string>
     <string name="flight_state">Статус полета</string>
@@ -503,7 +503,7 @@
     <string name="icon_add_description">Добавить ярлык на рабочий стол</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="icon_remove_confirm">Удалить</string>
-    <string name="icon_remove_description_content">Приложение \"Календарь\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Вы по-прежнему сможете использовать Календарь через виджеты рабочего стола или в Ассистенте.</string>
+    <string name="icon_remove_description_content">Приложение \"Календарь\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Вы по-прежнему сможете использовать Календарь через виджеты рабочего стола или в Ассистенте.</string>
     <string name="icon_remove_description_title">Удалить \"Календарь\" с рабочего стола?</string>
     <string name="ics_file_not_found">Нет файлов календаря для импорта</string>
     <string name="ics_import_from_local_file">Импорт файлов календаря</string>
@@ -783,7 +783,7 @@
     <string name="movie_card_title">Фильмы</string>
     <string name="movie_card_trailer">Трейлер</string>
     <string name="movie_cast">Актеры:</string>
-    <string name="movie_event_delete_successfully">Билет успешно удален</string>
+    <string name="movie_event_delete_successfully">Билет успешно удалён</string>
     <string name="movie_event_title">Фильм:</string>
     <string name="movie_state_upcoming">Предстоящие</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
@@ -904,7 +904,7 @@
     <string name="passenger">Пассажир</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_calendar_settings">Системные приложения/Календарь/Настройки</string>
-    <string name="permission_accounts">Для входа в систему, управления системной учетной записью и связывания с ней элементов</string>
+    <string name="permission_accounts">Для входа в систему, управления системной учётной записью и связывания с ней элементов</string>
     <string name="permission_contacts">Для синхронизации дней рождения контактов и отправки напоминаний</string>
     <string name="permission_main_purpose">Просмотр и управление событиями календаря, планирование, получение напоминаний</string>
     <string name="permission_storage">Для сохранения напоминаний и рингтонов</string>
@@ -1357,7 +1357,7 @@
     <string name="train_event_arrive">Прибытие в %1$s</string>
     <string name="train_event_arrive_station_saved">Пункт назначения сохранен</string>
     <string name="train_event_choose_arrive_station">Выберите пункт назначения</string>
-    <string name="train_event_delete_successfully">Маршрут движения удален</string>
+    <string name="train_event_delete_successfully">Маршрут движения удалён</string>
     <string name="train_event_depart">Отправление в %1$s</string>
     <string name="train_event_disclaimer">Отказ от ответственности: Вся информация о поездах и услугах предоставляется железнодорожной компанией. Если у вас есть вопросы, свяжитесь со службой поддержки железнодорожной компании. Информация о поездах предоставляется только для ознакомления. Последние обновления и корректировки смотрите на официальном сайте железнодорожной компании.</string>
     <string name="train_event_error_toast">Не удалось получить информацию</string>

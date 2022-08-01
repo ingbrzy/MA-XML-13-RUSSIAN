@@ -50,7 +50,7 @@
     <string name="autofill_setting_activity_label">Управление паролями</string>
     <string name="back_button_label">Назад</string>
     <string name="cancel">Отмена</string>
-    <string name="change_passwork_dialog_content">Пароль для этой учетной записи уже сохранен. Обновить пароль?</string>
+    <string name="change_passwork_dialog_content">Пароль для этой учётной записи уже сохранен. Обновить пароль?</string>
     <string name="change_passwork_dialog_title">Обновление пароля</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
@@ -248,7 +248,7 @@
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
-    <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит информацию об учетной записи и пароли на устройстве.</string>
+    <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит информацию об учётной записи и пароли на устройстве.</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="wednesday">Среда</string>

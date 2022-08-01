@@ -854,7 +854,7 @@
     <string name="keyguard_accessibility_user_selector">Выбор аккаунта</string>
     <string name="keyguard_accessibility_widget">Виджет \"%1$s\"</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d из %3$d.</string>
-    <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удален</string>
+    <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удалён</string>
     <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
     <string name="keyguard_accessibility_widget_reorder_end">Порядок виджетов определен</string>
     <string name="keyguard_accessibility_widget_reorder_start">Начато переопределение порядка виджетов</string>
@@ -2166,8 +2166,8 @@
     <string name="work_mode_off_message">Вы включите рабочий профиль, в том числе приложения, фоновую синхронизацию и связанные функции.</string>
     <string name="work_mode_off_title">Включить рабочий режим?</string>
     <string name="work_mode_turn_on">Включить</string>
-    <string name="work_profile_deleted">Рабочий профиль удален</string>
-    <string name="work_profile_deleted_description">Рабочий профиль удален, поскольку отсутствует приложение для администрирования</string>
+    <string name="work_profile_deleted">Рабочий профиль удалён</string>
+    <string name="work_profile_deleted_description">Рабочий профиль удалён, поскольку отсутствует приложение для администрирования</string>
     <string name="work_profile_deleted_description_dpm_wipe">Ваш рабочий профиль больше не доступен на этом устройстве</string>
     <string name="work_profile_deleted_details">Приложение для администрирования рабочего профиля отсутствует или повреждено. Из-за этого рабочий профиль и связанные с ним данные были удалены. Если у вас возникли вопросы, обратитесь к администратору.</string>
     <string name="work_profile_deleted_reason_maximum_password_failure">Слишком много попыток ввода пароля</string>

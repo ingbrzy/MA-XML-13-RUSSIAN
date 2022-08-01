@@ -308,7 +308,7 @@ ID:%s
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="from_migallerylockscreen">Из приложения Карусель обоев</string>
-    <string name="get_account_no_permission">Разрешите приложению доступ к учетным записям на устройстве перед входом в систему.</string>
+    <string name="get_account_no_permission">Разрешите приложению доступ к учётным записям на устройстве перед входом в систему.</string>
     <string name="get_back_pwd">Сброс пароля</string>
     <string name="get_ph_ticket">Получить код</string>
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 аккаунтов. Невозможно добавить новый аккаунт.</string>
@@ -705,12 +705,12 @@ mm"</string>
     <string name="passport_wrong_vcode">Код введен неверно</string>
     <string name="passport_wrong_voice">Код введен неверно</string>
     <string name="password_toggle_content_description">Показать пароль</string>
-    <string name="permission_account_tip">Доступ к информации учетной записи</string>
+    <string name="permission_account_tip">Доступ к информации учётной записи</string>
     <string name="permission_manager">Сведения о разрешениях</string>
     <string name="permission_storage_read_tip">Доступ к фотографиям на устройстве</string>
     <string name="permission_storage_tip">Сохранение файлов на устройстве</string>
     <string name="personalized">Персонализация</string>
-    <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Xiaomi аккаунта за короткий период времени. Попробуйте использовать другой номер телефона.</string>
+    <string name="phone_bind_too_many">Этот телефон был связан с несколькими учётными записями Xiaomi аккаунта за короткий период времени. Попробуйте использовать другой номер телефона.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="phone_number">Номер телефона</string>

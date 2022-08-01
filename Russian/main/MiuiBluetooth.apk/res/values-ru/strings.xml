@@ -1192,7 +1192,7 @@
     <string name="wifi_status_sign_in_required">Требуется вход</string>
     <string name="wifi_unmetered_label">Сеть без тарификации</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
-    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
+    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учётными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">Сертификат AS</string>

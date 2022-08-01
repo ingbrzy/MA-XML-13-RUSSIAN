@@ -657,7 +657,7 @@
     <string name="applock_bind_account_dialog_content">Ваш Xiaomi аккаунт - единственный способ восстановить защиту приложений, если вы забудете пароль. Войдите, чтобы добавить свой Xiaomi аккаунт.</string>
     <string name="applock_bind_account_dialog_title">Добавление Xiaomi аккаунта</string>
     <string name="applock_bind_account_title">Забыли пароль?</string>
-    <string name="applock_close_dialog_summary">Пароль защиты приложений будет удален. Отключить защиту приложений?</string>
+    <string name="applock_close_dialog_summary">Пароль защиты приложений будет удалён. Отключить защиту приложений?</string>
     <string name="applock_close_dialog_title">Отключение защиты</string>
     <string name="applock_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
     <string name="applock_face_unlock_summary">Разблокировка приложений с помощью распознавания по лицу</string>
@@ -682,7 +682,7 @@
     <string name="applock_guide_tip3">Скрыть содержание уведомления.</string>
     <string name="applock_guide_tip3_global">Скрыть содержание уведомления.</string>
     <string name="applock_guide_title">Защитите свои личные данные с помощью блокировки приложений</string>
-    <string name="applock_gulide_third_part">Аккаунт будет удален после выхода</string>
+    <string name="applock_gulide_third_part">Аккаунт будет удалён после выхода</string>
     <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
     <string name="applock_lock_all">Выбрать все</string>
     <string name="applock_lock_mode_locked">При блокировке устройства</string>
@@ -2401,7 +2401,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gs_autobooster_dialog_message">Если вы используете сервисы ускорения Xunyou, откройте игры на указанной странице.</string>
     <string name="gs_call_handsfree">Ответ по громкой связи</string>
     <string name="gs_call_handsfree_mute">Режим \"Без звука\"</string>
-    <string name="gs_dialog_confirm_close_msg">Ярлык будет удален с рабочего стола. Перейдите в Безопасность &gt; Настройки для его восстановления.</string>
+    <string name="gs_dialog_confirm_close_msg">Ярлык будет удалён с рабочего стола. Перейдите в Безопасность &gt; Настройки для его восстановления.</string>
     <string name="gs_dialog_confirm_close_title">Отключение</string>
     <string name="gs_forbid_autosync">Ограничить синхронизацию</string>
     <string name="gs_game_ai_record">Запись с использованием AI</string>
@@ -4549,7 +4549,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="set_now">Настройки</string>
     <string name="set_numeric_password_name">Задайте PIN-код</string>
     <string name="set_package_tips">Система отправит бесплатное SMS оператору для исправления информации о трафике, заполненная информация будет зашифрована и загружена для получения шаблона SMS с исправлением.</string>
-    <string name="set_package_tips_detail">Информация об операторе, номер мобильного телефона, IMEI и заполненная вами учетная запись Xiaomi будут зашифрованы и загружены на сервер Xiaomi.</string>
+    <string name="set_package_tips_detail">Информация об операторе, номер мобильного телефона, IMEI и заполненная вами учётная запись Xiaomi будут зашифрованы и загружены на сервер Xiaomi.</string>
     <string name="set_pattern_password_name">Задайте графический ключ</string>
     <string name="set_traffic_tips">Настройка пакетов позволяет более эффективно управлять трафиком и предотвращать дополнительные расходы.</string>
     <string name="setting">Настройки</string>
@@ -5037,7 +5037,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_app_detail_activity_title">Занятое место</string>
     <string name="storage_app_detail_cache">Кеш</string>
     <string name="storage_app_detail_clear_all_data">Очистить все</string>
-    <string name="storage_app_detail_clear_all_dialog_message">Все данные приложения, включая файлы, настройки, учетные записи и кеш, будут удалены без возможности восстановления.</string>
+    <string name="storage_app_detail_clear_all_dialog_message">Все данные приложения, включая файлы, настройки, учётные записи и кеш, будут удалены без возможности восстановления.</string>
     <string name="storage_app_detail_clear_all_dialog_title">Очистить все?</string>
     <string name="storage_app_detail_clear_cache">Очистить кеш</string>
     <string name="storage_app_detail_clear_cache_title">Очистить кеш?</string>
@@ -5199,7 +5199,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="summary_miui_update">Доступно обновление: %s</string>
     <string name="summary_mms">Блокируйте SMS спам автоматически</string>
     <string name="summary_network_switch">Доступ в интернет</string>
-    <string name="summary_never_flow_verify">Этот номер не был подтвержден вашим оператором</string>
+    <string name="summary_never_flow_verify">Этот номер не был подтверждён вашим оператором</string>
     <string name="summary_open_flashligt">Включение фонарика</string>
     <string name="summary_open_phone_check">Запуск Антивируса</string>
     <string name="summary_password_manager">Менеджер паролей позволяет шифровать пароли и хранить их в облаке</string>
@@ -5681,7 +5681,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="traffic_config_alert_body_normal">"
 Ваш месячный лимит обычного трафика составляет %1$s. Это не совпадает с лимитом %2$s, заданным вручную."</string>
     <string name="traffic_config_alert_package">"
-Остаток трафика перемещен"</string>
+Остаток трафика перемещён"</string>
     <string name="traffic_config_alert_setted">Настройки сохранены</string>
     <string name="traffic_config_alert_title">Корректировка %s</string>
     <string name="traffic_correction_failed">Ошибка получения данных</string>

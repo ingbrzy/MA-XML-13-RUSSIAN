@@ -136,7 +136,7 @@ ID: %s
     <string name="dialog_download_dir_title">Папка для загрузок</string>
     <string name="dialog_failed_body">Загрузить файл позже или удалить его из очереди загрузок?</string>
     <string name="dialog_file_already_exists">Такой файл уже существует</string>
-    <string name="dialog_file_missing_body">Файл не найден, возможно, он перемещен или удален.</string>
+    <string name="dialog_file_missing_body">Файл не найден, возможно, он перемещён или удалён.</string>
     <string name="dialog_file_missing_title">Ошибка открытия файла</string>
     <string name="dialog_insufficient_space_on_cache">Не удалось загрузить. Недостаточно места в хранилище.</string>
     <string name="dialog_insufficient_space_on_external">Не удалось загрузить. Недостаточно места на внешнем накопителе.</string>
@@ -213,7 +213,7 @@ ID: %s
     <string name="downloading">Загрузка…</string>
     <string name="downloading_empty">Нет загрузок</string>
     <string name="downloads_operating">Обработка…</string>
-    <string name="dredge_xunlei_account">Создать учетную запись Xunlei</string>
+    <string name="dredge_xunlei_account">Создать учётную запись Xunlei</string>
     <string name="early_morning">Утро</string>
     <string name="edit_hint"> Введите http или torrent адрес</string>
     <string name="edit_hint2">Введите HTTP, FTP, magnet или ed2k ссылку</string>
@@ -396,7 +396,7 @@ ID: %s
     <string name="no_net">Не удалось подключиться к сети</string>
     <string name="no_result_for_keyword">Не удалось найти \"%1$s\"</string>
     <string name="no_share_file">Ошибка отправки файла</string>
-    <string name="no_share_file_content">Выбранный файл уже удален</string>
+    <string name="no_share_file_content">Выбранный файл уже удалён</string>
     <string name="no_share_files">Нельзя отправить файлы, которые были удалены</string>
     <string name="no_share_files_content">Некоторые файлы, которыми вы хотели поделиться, уже удалены. Остальные были отправлены.</string>
     <string name="no_support_modify_path">В связи с последней политикой безопасности модификация каталога для сохранения загрузок не поддерживается</string>
@@ -457,7 +457,7 @@ ID: %s
     <string name="privacy">Конфиденциальность</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_tip_cancel">Отмена</string>
-    <string name="privacy_tip_content">Использовать ускоритель Xunlei для ускорения загрузки? URL-адрес узла загрузки будет загружен на серверы Xunlei. Ваши данные учетной записи Mi также будут загружены, чтобы проверить, есть ли у вас какие-либо активные подписки на эту услугу.</string>
+    <string name="privacy_tip_content">Использовать ускоритель Xunlei для ускорения загрузки? URL-адрес узла загрузки будет загружен на серверы Xunlei. Ваши данные учётной записи Mi также будут загружены, чтобы проверить, есть ли у вас какие-либо активные подписки на эту услугу.</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">Использовать ускоритель Xunlei </string>
     <string name="quit_btn">Выход</string>
@@ -803,7 +803,7 @@ ID: %s
     <string name="xl_vip_semiannual">Полугодовая подписка</string>
     <string name="xl_vip_semiannual_price">%1$s Mi Coins в месяц (6 месяцев)</string>
     <string name="xlunbind_sub_title">Удалите аккаунт Xunlei и добавьте Xiaomi аккаунт</string>
-    <string name="xunlei_account_has_unbind_message">Аккаунт Xunlei удален</string>
+    <string name="xunlei_account_has_unbind_message">Аккаунт Xunlei удалён</string>
     <string name="xunlei_brand">Поддержка Xunlei</string>
     <string name="xunlei_close_tips_button">Включить</string>
     <string name="xunlei_close_tips_content">Ускорение загрузки Xunlei</string>

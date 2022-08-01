@@ -44,7 +44,7 @@
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d треков удалено из плейлиста</item>
-        <item quantity="one">%d трек удален из плейлиста</item>
+        <item quantity="one">%d трек удалён из плейлиста</item>
         <item quantity="few">%d трека удалено из плейлиста</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
@@ -123,7 +123,7 @@
         <item quantity="other">"Удалить %d объектов?
 Внимание: файлы также будут удалены с этого устройства."</item>
         <item quantity="one">"Удалить %d объект?
-Внимание: файл также будет удален с этого устройства."</item>
+Внимание: файл также будет удалён с этого устройства."</item>
         <item quantity="few">"Удалить %d объекта?
 Внимание: файлы также будут удалены с этого устройства."</item>
     </plurals>

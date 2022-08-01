@@ -211,7 +211,7 @@
     <string name="comment">Коментарий</string>
     <string name="comment_action_title">"%s's comment"</string>
     <string name="comment_count">комментарии: %s</string>
-    <string name="comment_delete_hint">Успешно удален</string>
+    <string name="comment_delete_hint">Успешно удалён</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="comment_input_empty">"Комментарий не может быть пустым."</string>
     <string name="comment_input_hint">Введите комментарий</string>
@@ -248,7 +248,7 @@
     <string name="default_songtab_name">Категории</string>
     <string name="delete">Удалить</string>
     <string name="delete_comment_failed">"Ошибка удаления комментария"</string>
-    <string name="delete_comment_successfully">Комментарий успешно удален</string>
+    <string name="delete_comment_successfully">Комментарий успешно удалён</string>
     <string name="delete_download">Удалить</string>
     <string name="delete_downloads_records">Удалить загрузки</string>
     <string name="delete_file_as_well">Окончательно удалить эти треки</string>
@@ -923,7 +923,7 @@ ID:%s
     <string name="pay_now">Текущий сервис</string>
     <string name="pending_apk">Ожидание…</string>
     <string name="personal_radio_favorite">Избранные</string>
-    <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Xiaomi аккаунт за короткий период времени. Попробуйте использовать другой номер телефона.</string>
+    <string name="phone_bind_too_many">Этот телефон был связан с несколькими учётными записями Xiaomi аккаунт за короткий период времени. Попробуйте использовать другой номер телефона.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="phone_number">Номер телефона</string>

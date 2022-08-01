@@ -81,7 +81,7 @@
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
-    <string name="close_password_dialog_message">После отключения защиты пароль основного пространства будет удален. Отпечатки пальцев и данные лица также будут удалены. Вы не сможете использовать разблокировку отпечатком и распознавание по лицу.</string>
+    <string name="close_password_dialog_message">После отключения защиты пароль основного пространства будет удалён. Отпечатки пальцев и данные лица также будут удалены. Вы не сможете использовать разблокировку отпечатком и распознавание по лицу.</string>
     <string name="close_password_dialog_title">Отключение защиты</string>
     <string name="confirmDelete">Подтвердите удаление</string>
     <string name="confirm_main_space_password">Подтвердите пароль основоного пространства</string>

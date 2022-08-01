@@ -43,7 +43,7 @@
     <string name="auto_start_warning_deny">Запретить</string>
     <string name="auto_start_warning_title">Запускать %s автоматически?</string>
     <string name="autofill">Автозаполнение</string>
-    <string name="autofill_save_message">Разрешить MIUI сохранять учетные записи и пароли?</string>
+    <string name="autofill_save_message">Разрешить MIUI сохранять учётные записи и пароли?</string>
     <string name="autofill_save_ok">Разрешить</string>
     <string name="autofill_save_sub_message">Просматривать пароли и управлять ими можно в Настройки &gt; Пароли и защита &gt; %s</string>
     <string name="autofill_save_title">Автосохранение данных</string>

@@ -1521,7 +1521,7 @@ mm"</string>
     <string name="uid_change_dialog_title">Перезагрузите устройство</string>
     <string name="unable_connect_network">Не удалось подключиться к сети</string>
     <string name="uninstall_theme">Удалить \"Темы\" с рабочего стола?</string>
-    <string name="uninstall_theme_description">Приложение \"Темы\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
+    <string name="uninstall_theme_description">Приложение \"Темы\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
     <string name="up_to_the_end">Больше ничего нет</string>
     <string name="update">Обновление</string>
     <string name="update_btn">ОБНОВИТЬ</string>

@@ -100,7 +100,7 @@
     <string name="err_msg_convert_queue">Ожидание преобразования…</string>
     <string name="err_msg_convert_success">Готово</string>
     <string name="err_msg_create">Заказ создан</string>
-    <string name="err_msg_delete">Заказ удален</string>
+    <string name="err_msg_delete">Заказ удалён</string>
     <string name="err_msg_expired">Срок действия заказа истёк</string>
     <string name="err_msg_pending_value">Оценка стоимости…</string>
     <string name="err_msg_pengding_pay">Ожидание платежа…</string>

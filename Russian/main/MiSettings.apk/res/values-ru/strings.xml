@@ -707,7 +707,7 @@
     <string name="usage_device_limit_notifation_title">Оставшееся время</string>
     <string name="usage_device_limit_time_over">Достигнут лимит на сегодня (%1$s)</string>
     <string name="usage_exit">Выход</string>
-    <string name="usage_focus_focus_premission_main_summary">Приложению необходим доступ к вашей учетной записи для записи статистики использования Режима медитации.</string>
+    <string name="usage_focus_focus_premission_main_summary">Приложению необходим доступ к вашей учётной записи для записи статистики использования Режима медитации.</string>
     <string name="usage_focus_focus_premission_second_summary">Если вы не предоставите необходимые разрешения, некоторые функции этого приложения будут недоступны, за исключением основных функций. Вы всегда можете ограничить права доступа или отменить авторизацию в настройках.</string>
     <string name="usage_focus_new_summary">Станьте более внимательными и целенаправленными</string>
     <string name="usage_focus_save_success">Сохранено в Галерее</string>
@@ -722,7 +722,7 @@
     <string name="usage_focus_title_level4">Найдите радость в постоянстве</string>
     <string name="usage_focus_title_level5">Сохраняйте сосредоточенность</string>
     <string name="usage_home_permission_account_summary">Вход в Xiaomi аккаунт и синхронизация статистики приложения</string>
-    <string name="usage_home_permission_account_title">Доступ к учетной записи</string>
+    <string name="usage_home_permission_account_title">Доступ к учётной записи</string>
     <string name="usage_home_permission_phone_summary">Идентификация устройства с помощью VAID</string>
     <string name="usage_home_permission_phone_title">Доступ к информации об устройстве</string>
     <string name="usage_home_premission_main_summary">"Добро пожаловать в функцию Время экрана! 

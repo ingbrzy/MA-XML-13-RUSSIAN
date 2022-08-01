@@ -314,7 +314,7 @@
     </plurals>
     <plurals name="video_history_clear_info">
         <item quantity="other">%1$d объектов удалено из истории.</item>
-        <item quantity="one">%1$d объект удален из истории.</item>
+        <item quantity="one">%1$d объект удалён из истории.</item>
         <item quantity="few">%1$d объекта удалено из истории.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">

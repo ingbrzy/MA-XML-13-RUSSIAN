@@ -1030,7 +1030,7 @@ ID:%s
     <string name="express_setting_subscribe_phone_success">Добавить номер телефона успешно</string>
     <string name="express_setting_supported_orders">-Поддерживаемые службы доставки-</string>
     <string name="express_setting_title">Подтвержденный номер телефона</string>
-    <string name="express_setting_tracking_disable">Не подтвержден</string>
+    <string name="express_setting_tracking_disable">Не подтверждён</string>
     <string name="express_setting_verification_code">Код</string>
     <string name="express_setting_verification_code_acquire">Получить код СМС</string>
     <string name="express_setting_verification_code_failed">Не удалось отправить смс</string>
@@ -1267,7 +1267,7 @@ ID:%s
     <string name="launch_order_change">Изменить порядок</string>
     <string name="launch_order_finish">Готово</string>
     <string name="launch_setting_alipay_change">Сменить аккаунт</string>
-    <string name="launch_setting_alipay_change_msg">Вы должны выйти из своей текущей учетной записи Alipay, чтобы сменить учетную запись. Переключиться сейчас?</string>
+    <string name="launch_setting_alipay_change_msg">Вы должны выйти из своей текущей учётной записи Alipay, чтобы сменить учётную запись. Переключиться сейчас?</string>
     <string name="launch_setting_alipay_change_posi">Переключить</string>
     <string name="launch_setting_alipay_getversion">Получить номер версии</string>
     <string name="launch_setting_alipay_login">Войти</string>
@@ -1752,7 +1752,7 @@ ID:%s
     <string name="pa_express_setting">Настройки экспресс-доставки</string>
     <string name="pa_express_setting_authorized_number_limit">Можно добавить не более 4 номеров телефона</string>
     <string name="pa_express_setting_dialog_delete_failed">Не удалось удалить номер телефона</string>
-    <string name="pa_express_setting_dialog_delete_success">Номер телефона удален</string>
+    <string name="pa_express_setting_dialog_delete_success">Номер телефона удалён</string>
     <string name="pa_express_setting_number_already_add">Этот номер телефона уже добавлен. Попробуйте другой.</string>
     <string name="pa_express_setting_number_title">Добавление номера телефона</string>
     <string name="pa_express_setting_request_failed">Не удалось отправить запрос. Код ошибки: %s</string>
@@ -1962,7 +1962,7 @@ ID:%s
     <string name="pa_recommend_no_network">Загрузите приложение</string>
     <string name="pa_rtk_card_title">Панель</string>
     <string name="pa_rtk_more_content_description">Параметры</string>
-    <string name="pa_rtk_place_holder_text">Виджет перемещен на панель</string>
+    <string name="pa_rtk_place_holder_text">Виджет перемещён на панель</string>
     <string name="pa_rtk_recommend_card_title">Рекомендуемые</string>
     <string name="pa_rtk_unlike_text">Открепить</string>
     <string name="pa_rts_summary">Разместите наиболее часто используемые виджеты на панели</string>
@@ -2189,7 +2189,7 @@ ID:%s
     <string name="payment_pref_enabled_title">Разрешить платежи</string>
     <string name="payment_pref_notification_enabled_title">Уведомлять об успешных и неудачных записях</string>
     <string name="payment_pref_privacy_category_title">Конфиденциальность</string>
-    <string name="payment_pref_privacy_security_summary">Используйте пароль защиты конфиденциальности MIUI, чтобы скрыть данные своей учетной записи.</string>
+    <string name="payment_pref_privacy_security_summary">Используйте пароль защиты конфиденциальности MIUI, чтобы скрыть данные своей учётной записи.</string>
     <string name="payment_pref_privacy_security_title">Пароль</string>
     <string name="payment_pref_report_category_title">Отчёт</string>
     <string name="payment_pref_report_failed_record_title">Сообщить о необработанных счетах</string>

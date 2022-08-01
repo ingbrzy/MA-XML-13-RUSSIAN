@@ -219,7 +219,7 @@
     </string-array>
     <string-array name="miui_optimization_close_intercept">
         <item>Важно: некоторые системные приложения могут работать неправильно.</item>
-        <item>Текстовые макеты, учетные записи и содержимое могут отображаться неправильно.</item>
+        <item>Текстовые макеты, учётные записи и содержимое могут отображаться неправильно.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Уведомлять</item>

@@ -836,7 +836,7 @@
     <string name="contactUpdateFailed">Ошибка обновления контакта на SIM-карте</string>
     <string name="contactUpdateSuccess">Контакт на SIM-карте обновлен</string>
     <string name="contactdeleteFailed">Ошибка удаления контакта с SIM-карты</string>
-    <string name="contactdeleteSuccess">Контакт удален с SIM-карты</string>
+    <string name="contactdeleteSuccess">Контакт удалён с SIM-карты</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="convert_to_fbe_warning">"Перейти к шифрованию отдельных файлов.
 Внимание! Все ваши данные будут удалены.
@@ -1172,7 +1172,7 @@
     <string name="fdn_activation">Активация разрешенных номеров</string>
     <string name="fdn_check_failure">Включена функция набора разрешенных номеров. Некоторые функции вызовов недоступны.</string>
     <string name="fdn_contact_added">Разрешенный номер добавлен</string>
-    <string name="fdn_contact_deleted">Разрешенный номер удален</string>
+    <string name="fdn_contact_deleted">Разрешенный номер удалён</string>
     <string name="fdn_contact_updated">Разрешенный номер обновлен</string>
     <string name="fdn_disabled">Разрешенные номера не используются</string>
     <string name="fdn_enable_puk2_requested">Неверный пароль, PIN2 заблокирован. Измените PIN2 и повторите попытку.</string>
@@ -3125,7 +3125,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
     <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
-    <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учетными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
+    <string name="wifi_new_network_auto_connection_summary">Использовать автоподключение к новому SSID WPA/WPA2‑PSK 5 ГГц с учётными данными SSID WPA/WPA2‑PSK 2 ГГц при частичном совпадении SSID и BSSID</string>
     <string name="wifi_no_internet">Без доступа в интернет</string>
     <string name="wifi_no_internet_no_reconnect">Подключение не будет выполняться автоматически</string>
     <string name="wifi_not_in_range">Недоступна</string>
@@ -3178,7 +3178,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_status_sign_in_required">Требуется выполнить вход.</string>
     <string name="wifi_unmetered_label">Сеть без тарификации</string>
     <string name="wifi_unsaved_network_linking">SSID Bridging - автоподключение</string>
-    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учетными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
+    <string name="wifi_unsaved_network_linking_summary">Разрешить автоподключение к новому WPA/WPA2-PSK 5ГГц SSID с учётными данными текущего подключения WPA/WPA2-PSK 2ГГц SSID при частичном совпадении SSID и BSSID</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi-Fi показывать RSSI для каждого SSID</string>
     <string name="wifi_wapi_as_certificate">Сертификат AS</string>

@@ -243,7 +243,7 @@
     <string name="husband">Муж</string>
     <string name="income_type" />
     <string name="install">Установить</string>
-    <string name="install_scanner_to_continued_use">Сканер был удален. Установить его повторно?</string>
+    <string name="install_scanner_to_continued_use">Сканер был удалён. Установить его повторно?</string>
     <string name="interest_rate_hint">Введите процентную ставку</string>
     <string name="investment_invalid_duration">Продолжительность должна быть больше нуля</string>
     <string name="investment_type_once">Однократно</string>

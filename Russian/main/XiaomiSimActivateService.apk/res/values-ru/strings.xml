@@ -173,8 +173,8 @@
     <string name="activate_status_title_activating">Активация SIM-карты…</string>
     <string name="activate_status_title_activating_msim">Активация SIM %d…</string>
     <string name="activate_status_title_activating_sim">Активация %2$s с использованием SIM %1$d…</string>
-    <string name="activate_status_title_registering_xiaomi_account">Создание учетной записи Mi…</string>
-    <string name="activate_status_title_registering_xiaomi_account_sim">Создание учетной записи Mi с использованием SIM %d…</string>
+    <string name="activate_status_title_registering_xiaomi_account">Создание учётной записи Mi…</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">Создание учётной записи Mi с использованием SIM %d…</string>
     <string name="afternoon">После полудня</string>
     <string name="agree">Разрешить</string>
     <string name="app_name">Сервис активации Xiaomi SIM</string>

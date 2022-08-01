@@ -20,7 +20,7 @@
     <string name="credential_usage_label">Использование:</string>
     <string name="done_label">ГОТОВО</string>
     <string name="extracting_pkcs12">Загрузка…</string>
-    <string name="install_done">Учетные данные (%1$s) добавлены в базу сохраненных сетей Wi-Fi.</string>
+    <string name="install_done">Учётные данные (%1$s) добавлены в базу сохраненных сетей Wi-Fi.</string>
     <string name="install_done_title">Установка завершена</string>
     <string name="invalid_cert">Сертификат недействителен.</string>
     <string name="invalid_certificate_close_button">Закрыть</string>
@@ -46,7 +46,7 @@
     <string name="redirect_ca_certificate_title">Не удалось установить сертификаты ЦС</string>
     <string name="redirect_ca_certificate_with_app_info_message">Cертификат от %1$s должен быть установлен в настройках. Устанавливайте сертификаты ЦС только от доверенных организаций.</string>
     <string name="select_certificate_usage_title">Тип сертификата</string>
-    <string name="unable_to_save_cert">Не удалось сохранить сертификат, поскольку хранилище учетных данных не включено или не инициализировано.</string>
+    <string name="unable_to_save_cert">Не удалось сохранить сертификат, поскольку хранилище учётных данных не включено или не инициализировано.</string>
     <string name="user_cert_is_added">Сертификат пользователя установлен</string>
     <string name="user_certificate">VPN и сертификат пользователя</string>
     <string name="userkey_type">Алгоритм:</string>

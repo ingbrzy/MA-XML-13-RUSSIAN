@@ -133,7 +133,7 @@
     <string name="always_use_metered">Всегда использовать мобильный интернет</string>
     <string name="am">AM</string>
     <string name="anchor_unspport_match">Эта функция временно недоступна!</string>
-    <string name="app_description_content">Приложение \"Музыка\" является системным, удалить его нельзя. Будет удален ярлык приложения с рабочего стола. Воспроизведение музыки в приложении по-прежнему будет доступно.</string>
+    <string name="app_description_content">Приложение \"Музыка\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Воспроизведение музыки в приложении по-прежнему будет доступно.</string>
     <string name="app_description_title">Удалить \"Музыка\" с рабочего стола?</string>
     <string name="app_label">Загрузки</string>
     <string name="app_name">liveeventbus</string>
@@ -384,7 +384,7 @@ ID: %s
     <string name="do_not_remind_this_version">Не напоминать об этой версии</string>
     <string name="do_not_support_google_voice_search">Голосовой поиск Google не поддерживается на вашем устройстве.</string>
     <string name="doing_login">Выполняется вход…</string>
-    <string name="doing_query_account">Проверка информации учетной записи…</string>
+    <string name="doing_query_account">Проверка информации учётной записи…</string>
     <string name="doing_register">Создание аккаунта…</string>
     <string name="download">Загрузить</string>
     <string name="download_added_to_list">Добавлено в очередь загрузок</string>
@@ -1666,7 +1666,7 @@ ID: %s
     <string name="upload_playlist_to_hungama_positive_text">Синхронизировать</string>
     <string name="upload_playlist_to_hungama_title">Синхронизируйте онлайн-контент с Hungama, чтобы иметь доступ к ним на других устройствах с Xiaomi аккаунтом.</string>
     <string name="upload_playlist_to_hungama_toast">Онлайн контент будет синхронизирован с Hungama</string>
-    <string name="user_account_cancel_toast">Этот аккаунт удален</string>
+    <string name="user_account_cancel_toast">Этот аккаунт удалён</string>
     <string name="user_agreement">Условия использования</string>
     <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта."</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Xiaomi аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>

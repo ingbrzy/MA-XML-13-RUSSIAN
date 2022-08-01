@@ -370,8 +370,8 @@ ID: %s
     <string name="jump_full_log_dialog_title">Создание журнала</string>
     <string name="just_a_second">Подождите…</string>
     <string name="kr_authorization_agree">Принимаю</string>
-    <string name="kr_authorization_contact">Учетные записи</string>
-    <string name="kr_authorization_contact_desc">Получение информации о Xiaomi аккаунте и проверка учетной записи</string>
+    <string name="kr_authorization_contact">Учётные записи</string>
+    <string name="kr_authorization_contact_desc">Получение информации о Xiaomi аккаунте и проверка учётной записи</string>
     <string name="kr_authorization_exit">Отмена</string>
     <string name="kr_authorization_function">Отправка отзывов и отчётов, просмотр часто задаваемых вопросов</string>
     <string name="kr_authorization_log_protocol">Лог протокола (необязательно)</string>
@@ -400,7 +400,7 @@ ID: %s
     <string name="message_label">Сообщение</string>
     <string name="mi_service_dialog_cancel">Выход</string>
     <string name="mi_service_dialog_confirm">Открыть</string>
-    <string name="mi_service_dialog_content">Все функции обратной связи перемещены в новое приложение \"Обратная связь\". Ярлык старого приложения будет удален с рабочего стола. Нажмите \"Открыть\" чтобы запустить приложение.</string>
+    <string name="mi_service_dialog_content">Все функции обратной связи перемещены в новое приложение \"Обратная связь\". Ярлык старого приложения будет удалён с рабочего стола. Нажмите \"Открыть\" чтобы запустить приложение.</string>
     <string name="mi_service_dialog_title">Представляем приложение \"Обратная связь\"</string>
     <string name="michat_app_name">Онлайн поддержка</string>
     <string name="michat_artificial_customer_phone">4001005678</string>
@@ -940,7 +940,7 @@ ID: %s
     <string name="toast_file_format_not_support">Этот формат файла не поддерживается. Попробуйте выбрать другой файл.</string>
     <string name="toast_fill_brackets">В отчёте не хватает некоторых сведений</string>
     <string name="toast_loading_app_id">Получение данных…</string>
-    <string name="toast_log_not_exists">Необходимый журнал был удален или не существует</string>
+    <string name="toast_log_not_exists">Необходимый журнал был удалён или не существует</string>
     <string name="toast_log_too_large">Журнал слишком большой для отправки</string>
     <string name="toast_min_description_count">Описание должно быть длиннее</string>
     <string name="toast_module_required">Выберите категорию</string>

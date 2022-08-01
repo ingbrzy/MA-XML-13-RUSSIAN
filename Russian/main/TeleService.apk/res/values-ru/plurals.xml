@@ -67,7 +67,7 @@
     </plurals>
     <plurals name="call_remove_exception_numbers_confirm">
         <item quantity="other">Будет удалено %d номеров.</item>
-        <item quantity="one">Будет удален %d номер.</item>
+        <item quantity="one">Будет удалён %d номер.</item>
         <item quantity="few">Будет удалено %d номера.</item>
         <item quantity="many">Будет удалено %d номеров.</item>
     </plurals>

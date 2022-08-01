@@ -836,7 +836,7 @@
     <string name="wifi_wapi_cert_mode_hand_text">Выбрать вручную</string>
     <string name="wifi_wapi_certification_dont_exist">Введенный вами сетевой пароль неверен.</string>
     <string name="wifi_wapi_fail_to_auth">Не удалось завершить аутентификацию WAPI. Убедитесь, что сертификаты действительны.</string>
-    <string name="wifi_wapi_fail_to_init">Не получается открыть сертификаты WAPI.  Похоже, хранилище учетных данных не включено.</string>
+    <string name="wifi_wapi_fail_to_init">Не получается открыть сертификаты WAPI.  Похоже, хранилище учётных данных не включено.</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
     <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>

@@ -79,7 +79,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
-    <string name="confirm_activate_email">Подтвержден</string>
+    <string name="confirm_activate_email">Подтверждён</string>
     <string name="confirm_bundled_phone_dialog_title">Подтвердите связанный номер телефона</string>
     <string name="confirm_new_pwd">Подтвердите новый пароль</string>
     <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона будет связан с Xiaomi аккаунтом %2$s на %1$s. Он больше не будет связан с Xiaomi аккаунтом %3$s. Продолжить?</string>
@@ -128,7 +128,7 @@ ID:%s
     <string name="i_know">OK</string>
     <string name="identity">Идентификация</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
-    <string name="input_email_address_notice">Этот адрес электронной почты будет использован для подтверждения вашей учетной записи</string>
+    <string name="input_email_address_notice">Этот адрес электронной почты будет использован для подтверждения вашей учётной записи</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="isornot_your_mi_account">Это ваш Xiaomi аккаунт?</string>
     <string name="just_a_second">Подождите…</string>
@@ -136,7 +136,7 @@ ID:%s
     <string name="logout_account">Выход</string>
     <string name="mibi_account_disable_dialog_btn_negative">Отмена</string>
     <string name="mibi_account_disable_dialog_btn_positive">Включить</string>
-    <string name="mibi_account_disable_dialog_msg">Чтобы использовать Mi Coin, необходимо войти в свою учетную запись Xiaomi. Включите сервис аккаунта Xiaomi в Настройки > Управление приложениями.</string>
+    <string name="mibi_account_disable_dialog_msg">Чтобы использовать Mi Coin, необходимо войти в свою учётную запись Xiaomi. Включите сервис аккаунта Xiaomi в Настройки > Управление приложениями.</string>
     <string name="mibi_account_disable_dialog_title">Внимание</string>
     <string name="mibi_all_license_message">Вы собираетесь использовать Mi Coin, сервис, предоставляемый Xiaomi Inc. Перед использованием вы должны принять Условиями обслуживания. Нажмите OK, если принимаете условия, описанные в %1$s и %2$s. Вам нужно подключиться к интернету, найти ваше устройство, чтобы использовать Mi Coin.</string>
     <string name="mibi_all_purpose">Добро пожаловать в Mi Coin! Это приложение можно использовать для пополнения баланса Mi Coin, проверки подарочных карт и т. д.</string>
@@ -233,7 +233,7 @@ ID:%s
     <string name="mibi_error_account_changed_summary">Информация вашего аккаунта изменилась.
 Пожалуйста, войдите снова.</string>
     <string name="mibi_error_account_changed_title">Аккаунт изменился</string>
-    <string name="mibi_error_account_throtting">Ваша учетная запись не является безопасной.
+    <string name="mibi_error_account_throtting">Ваша учётная запись не является безопасной.
 Пожалуйста, свяжитесь с нашей службой поддержки</string>
     <string name="mibi_error_auth_summary">Войдите в ваш Xiaomi аккаунт снова</string>
     <string name="mibi_error_cert_date_summary">Ошибка даты сертификата.
@@ -362,7 +362,7 @@ ID:%s
     <string name="mibi_partner_giftcard_payment_with_append">Применить %1$s</string>
     <string name="mibi_password_error">Неверный пароль.</string>
     <string name="mibi_password_forget">Забыли пароль?</string>
-    <string name="mibi_password_hint">Введите пароль учетной записи</string>
+    <string name="mibi_password_hint">Введите пароль учётной записи</string>
     <string name="mibi_password_prompt">Чтобы обезопасить свои расходы, подтвердите свой Xiaomi аккаунт</string>
     <string name="mibi_pay_grid_error_denomination">Размер должен между %1$s и %2$s Mi Coins.</string>
     <string name="mibi_pay_success_summary">Вы потратили %1$s Mi Coins</string>
@@ -429,7 +429,7 @@ ID:%s
     <string name="mibi_progress_submit_hint">Пополнение будет отражено на вашем счете в течение 3 минут.</string>
     <string name="mibi_progress_submit_pay">Оплата будет завершена через 3 минуты …</string>
     <string name="mibi_progress_submit_recharge_summary">Пополнение: %1$s Mi Coins.</string>
-    <string name="mibi_progress_submit_title">Запрос подтвержден</string>
+    <string name="mibi_progress_submit_title">Запрос подтверждён</string>
     <string name="mibi_progress_success_pay_title">Оплата %1$s Mi Coin завершена</string>
     <string name="mibi_progress_success_recharge_summary">Баланс аккаунта: %1$s Mi Coins.</string>
     <string name="mibi_progress_success_recharge_title">Пополнение %1$s Mi Coins завершено</string>
@@ -625,7 +625,7 @@ ID:%s
     <string name="passport_account_not_activated">Аккаунт не активирован</string>
     <string name="passport_account_not_actived">Ваш аккаунт не активирован</string>
     <string name="passport_account_set_password">Задать пароль</string>
-    <string name="passport_account_set_password_prompt">Установите пароль для своей учетной записи.</string>
+    <string name="passport_account_set_password_prompt">Установите пароль для своей учётной записи.</string>
     <string name="passport_account_set_password_title">Задайте пароль</string>
     <string name="passport_activate_token_expired">Код подтверждения истёк. Попробуйте ещё раз.</string>
     <string name="passport_active_email_visit">Проверьте вашу почту %s</string>
@@ -791,7 +791,7 @@ ID:%s
     <string name="passport_sending_vcode">Отправка кода…</string>
     <string name="passport_set">Задать</string>
     <string name="passport_set_password">Установка пароля</string>
-    <string name="passport_set_password_no_phone_msg">Добавьте номер телефона, чтобы защитить учетную запись.</string>
+    <string name="passport_set_password_no_phone_msg">Добавьте номер телефона, чтобы защитить учётную запись.</string>
     <string name="passport_setting">Настройка…</string>
     <string name="passport_sign_in">Войти</string>
     <string name="passport_sign_in_or_sign_up">Войти/Создать аккаунт</string>
@@ -827,9 +827,9 @@ ID:%s
     <string name="passport_user_agreement_p3"> и </string>
     <string name="passport_user_agreement_p4">Политику конфиденциальности</string>
     <string name="passport_user_id_intro">Введите пароль для %1$s</string>
-    <string name="passport_user_id_notice">ID вашей учетной записи %s.</string>
+    <string name="passport_user_id_notice">ID вашей учётной записи %s.</string>
     <string name="passport_user_reg_region">Страна/Регион</string>
-    <string name="passport_user_reg_region_warning">Вы не сможете изменить свою страну/регион после создания учетной записи.</string>
+    <string name="passport_user_reg_region_warning">Вы не сможете изменить свою страну/регион после создания учётной записи.</string>
     <string name="passport_v_code_error">Код подтверждения неверен</string>
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
     <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
@@ -845,7 +845,7 @@ ID:%s
     <string name="passport_wrong_voice">Введенный вами код неверен</string>
     <string name="passport_yes">Да</string>
     <string name="password_toggle_content_description">Показать пароль</string>
-    <string name="phone_bind_too_many">Это устройство было привязано к нескольким учетным записям Mi за короткий промежуток времени. Попробуйте использовать другой номер телефона.</string>
+    <string name="phone_bind_too_many">Это устройство было привязано к нескольким учётным записям Mi за короткий промежуток времени. Попробуйте использовать другой номер телефона.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Номер телефона используется для:</string>
     <string name="phone_number">Номер телефона</string>
@@ -880,7 +880,7 @@ ID:%s
     <string name="sign_in_progress">Вход…</string>
     <string name="sign_in_title">Войдите в свой Xiaomi аккаунт</string>
     <string name="sms_send_success">Успешно отправлено</string>
-    <string name="sns_access_token_expired_warning">Сессия истекла. Войдите снова, чтобы повторно подключиться к этой учетной записи.</string>
+    <string name="sns_access_token_expired_warning">Сессия истекла. Войдите снова, чтобы повторно подключиться к этой учётной записи.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
     <string name="sns_sign_in">Другие способы входа</string>
     <string name="solar_term_autumn_begins">Начало осени</string>

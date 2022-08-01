@@ -653,7 +653,7 @@
     <string name="delete_album_msg_format">Удалить альбом \"%2$s\" %1$s %3$s?</string>
     <string name="delete_album_msg_format_cloud">Удалить %1$s %2$s из Xiaomi Cloud и всех синхронизированных устройств?</string>
     <string name="delete_album_msg_format_local">Удалить %1$s %2$s?</string>
-    <string name="delete_album_success">Альбом удален</string>
+    <string name="delete_album_success">Альбом удалён</string>
     <string name="delete_from_all_devices_and_cloud">со всех устройств и из Xiaomi Cloud</string>
     <string name="delete_from_cloud">Удалить файлы из Xiaomi Cloud</string>
     <string name="delete_from_this_album_and_cloud">из этого альбома и из Xiaomi Cloud</string>
@@ -699,7 +699,7 @@
     <string name="double_tap_for_hr_preview_200m">Нажмите дважды ещё раз для предпросмотра 200MP</string>
     <string name="double_tap_to_higher_definition">Нажмите дважды для просмотра в HD</string>
     <string name="download_canceled">Загрузка отменена</string>
-    <string name="download_delete_error_desc">Невозможно восстановить этот файл, поскольку он удален с этого устройства и из облака. Удалить отсутствующий файл?</string>
+    <string name="download_delete_error_desc">Невозможно восстановить этот файл, поскольку он удалён с этого устройства и из облака. Удалить отсутствующий файл?</string>
     <string name="download_delete_error_positive">Удалить</string>
     <string name="download_delete_error_title">Файл отсутствует</string>
     <string name="download_error_format">Не удалось загрузить %s</string>
@@ -1303,7 +1303,7 @@
     <string name="kick_owner_user_title">Удалить пользователя?</string>
     <string name="kick_sharer">Удалить пользователя</string>
     <string name="kick_sharer_failed">Ошибка удаления пользователя</string>
-    <string name="kick_sharer_successfully">Пользователь удален</string>
+    <string name="kick_sharer_successfully">Пользователь удалён</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="last_some_day_pets_title">Лапы и усы</string>
     <string name="last_some_day_show_title">Время для шоу</string>
@@ -2494,8 +2494,8 @@
     <string name="show_cloud_albumlist_summary">После отключения синхронизации новые файлы из выбранных альбомов не будут загружаться в облако </string>
     <string name="show_hidden_album_summary">Просмотр и управление скрытыми альбомами</string>
     <string name="show_hidden_album_title">Скрытые альбомы</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Альбом перемещен, перейдите в Другие для просмотра</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Альбом перемещен, перейдите в Альбомы для просмотра</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Альбом перемещён, перейдите в Другие для просмотра</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Альбом перемещён, перейдите в Альбомы для просмотра</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Перемещено в корзину</string>
     <string name="show_nearby_photos">Показать фото и видео поблизости</string>
     <string name="signature_dialog_clear">Очистить</string>

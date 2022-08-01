@@ -46,7 +46,7 @@
     <string name="above_speed_km_per_hour_1">≥%.1f км/ч</string>
     <string name="accessibility_add_datasource">Нажмите, чтобы добавить %1$s</string>
     <string name="accessibility_sync_closed_device">Синхронизация с %1$s отключена</string>
-    <string name="accessibility_unbound_device">Устройство %1$s больше не связано с вашей учетной записью</string>
+    <string name="accessibility_unbound_device">Устройство %1$s больше не связано с вашей учётной записью</string>
     <string name="achieve_goals">Цель достигнута</string>
     <string name="achieve_stand_goals">Достигните цели дня</string>
     <string name="acting">Сила</string>

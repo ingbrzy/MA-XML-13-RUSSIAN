@@ -105,7 +105,7 @@
     <string name="disagreement_donnot_use_application">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В этом случае вы можете отказаться от использования этого приложения.</string>
     <string name="disagreement_donnot_use_product">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот продукт. В этом случае вы можете отказаться от использования этого продукта.</string>
     <string name="disagreement_donnot_use_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В этом случае вы можете отказаться от использования этого сервиса.</string>
-    <string name="disagreement_exit_app">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете выйти из учетной записи или ограничить разрешения в настройках.</string>
+    <string name="disagreement_exit_app">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете выйти из учётной записи или ограничить разрешения в настройках.</string>
     <string name="disagreement_fast_pairing_abnormal">В случае отказа предоставить эти разрешения, вы не сможете использовать приложение. Включить или отключить этот сервис можно в любое время в Настройки > Bluetooth > Дополнительно > Mi Link.</string>
     <string name="disagreement_function">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать эту функцию. В этом случае вы можете отказаться от использования этой функции.</string>
     <string name="disagreement_location_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать эту службу.</string>
@@ -114,7 +114,7 @@
     <string name="disagreement_service_not_working_properly">В случае отказа предоставить эти разрешения, вы не сможете использовать это приложение.</string>
     <string name="disagreement_terminate_bluetooth">В случае отказа предоставить необходимые разрешения, вы не сможете использовать Bluetooth. Вы можете включать и отключать Bluetooth, а также добавлять устройства Bluetooth в Настройках.</string>
     <string name="disagreement_terminate_miuidaemon">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать этот сервис. В таком случае вы можете отказаться от использования этого сервиса или ограничить разрешения в настройках. Обратите внимание, что мы будем использовать разрешения при передаче данных с устройства, если его экран поврежден.</string>
-    <string name="disagreement_terminate_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете удалить приложение, выйти из учетной записи или ограничить разрешения в настройках.</string>
+    <string name="disagreement_terminate_service">В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать это приложение. В таком случае вы можете удалить приложение, выйти из учётной записи или ограничить разрешения в настройках.</string>
     <string name="download_introduction">Это приложение управляет всеми загрузками, включая загрузки в приложениях GetApps, Mi Видео, Обновление, Темы и Браузер.</string>
     <string name="early_morning">Утро</string>
     <string name="empty_title">" "</string>
@@ -154,7 +154,7 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="game_introduction">Плагин для игр позволяет вам входить в систему, создавать заказы, совершать платежи, использовать купоны и участвовать в рекламных акциях.</string>
-    <string name="google_service_introduction">Google Play для нормальной работы необходимо подключение к интернету, разрешение использовать геолокацию, отправлять SMS и MMS, записывать аудио, осуществлять вызовы, а также доступ к событиям календаря, истории вызовов, датчикам, хранилищу, камере, информации об устройстве и учетным записям.</string>
+    <string name="google_service_introduction">Google Play для нормальной работы необходимо подключение к интернету, разрешение использовать геолокацию, отправлять SMS и MMS, записывать аудио, осуществлять вызовы, а также доступ к событиям календаря, истории вызовов, датчикам, хранилищу, камере, информации об устройстве и учётным записям.</string>
     <string name="home_settings_miui_home">Классический</string>
     <string name="home_settings_poco_launcher">Меню приложений</string>
     <string name="home_settings_title">Выбор рабочего стола</string>
@@ -186,7 +186,7 @@
     <string name="member_exclusive_medal">Значок участника</string>
     <string name="membership_rights_tip">Войдите в Xiaomi аккаунт, чтобы получить эксклюзивные преимущества</string>
     <string name="message_introduction">Это приложение можно использовать для отправки и получения SMS.</string>
-    <string name="mi_account_introduction">Xiaomi аккаунт позволяет регистрироваться, выполнять вход и управлять учетными записями.</string>
+    <string name="mi_account_introduction">Xiaomi аккаунт позволяет регистрироваться, выполнять вход и управлять учётными записями.</string>
     <string name="midnight">Ночь</string>
     <string name="mint_keyboard_oobe_checkbox">Я принимаю политику конфиденциальности Mint Keyboard</string>
     <string name="mint_keyboard_oobe_terms">Политика конфиденциальности Mint Keyboard</string>
@@ -261,7 +261,7 @@
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
     <string name="morning">Утро</string>
-    <string name="move_data_dialog_box_le">Разрешение использовать мобильный интернет и соединение GPS по запросу пользователя. Мобильный интернет может потребоваться для синхронизации учетных записей и других данных, в зависимости от характеристик устройства.</string>
+    <string name="move_data_dialog_box_le">Разрешение использовать мобильный интернет и соединение GPS по запросу пользователя. Мобильный интернет может потребоваться для синхронизации учётных записей и других данных, в зависимости от характеристик устройства.</string>
     <string name="move_data_dialog_box_title">Если у вас нет тарифного плана с неограниченным трафиком, использование мобильного интернета может привести к дополнительным тратам. Все равно использовать мобильный интернет?</string>
     <string name="move_data_dialog_cancel">Отмена</string>
     <string name="move_data_dialog_title">Вы можете ограничить использование мобильного интернета в настройках позже</string>
@@ -355,7 +355,7 @@
     <string name="permission_location_describe_location_summary">Для предоставления различных услуг на основе точного местоположения;</string>
     <string name="permission_location_introduction">Для предоставления услуг на основе местоположения</string>
     <string name="permission_log_introduction">Для сохранения журналов</string>
-    <string name="permission_login_introduction">Для входа в учетные записи и управления ими</string>
+    <string name="permission_login_introduction">Для входа в учётные записи и управления ими</string>
     <string name="permission_make_a_call">Вызовы</string>
     <string name="permission_make_a_call_fast_application_summary">Для совершения вызовов Быстрыми приложениями;</string>
     <string name="permission_message_introduction">Для отправки сообщений заблокированным контактам</string>
@@ -416,7 +416,7 @@
     <string name="permission_virusscan_introduction">Для проверки на вирусы и оптимизации устройства</string>
     <string name="permission_write_device_store">Для сохранения файлов в хранилище устройства</string>
     <string name="permission_write_device_store_summary">Для кеширования загруженных файлов конфигурации</string>
-    <string name="permission_xunlei_introduction">Для входа в учетные записи и управления ими для предоставления сервисов Xunlei</string>
+    <string name="permission_xunlei_introduction">Для входа в учётные записи и управления ими для предоставления сервисов Xunlei</string>
     <string name="poco_agree_terms_other">(Включая Политику конфиденциальности и Условия использования POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
     <string name="poco_launcher_user_agreement">Пользовательское соглашение POCO Launcher</string>
@@ -455,7 +455,7 @@
     <string name="screen_recording_introduction">Это приложение позволяет записывать происходящее на экране.</string>
     <string name="search_menu_title">Поиск</string>
     <string name="security_introduction">Это приложение можно использовать для очистки мусора на устройстве, поиска и удаления вирусов, оптимизации производительности для игр, экономии заряда, управления приложениями и разрешениями, и многого другого.</string>
-    <string name="security_mobile_account_introduction">Для входа в учетные записи и управления ими</string>
+    <string name="security_mobile_account_introduction">Для входа в учётные записи и управления ими</string>
     <string name="send">Отправить</string>
     <string name="service_agreement">Я принимаю условия и положения.</string>
     <string name="service_company_adjust_content">Пользовательское соглашение сетевых служб Xunlei</string>

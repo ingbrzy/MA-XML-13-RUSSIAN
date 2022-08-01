@@ -136,7 +136,7 @@
     <string name="account_setup_basics_email_label">Введите адрес электронной почты</string>
     <string name="account_setup_basics_login_gmail_without_proxy">Войти с помощью текущей сети</string>
     <string name="account_setup_basics_manual_setup_action">Ручная настройка</string>
-    <string name="account_setup_basics_mi_mail_login_help">Вам может потребоваться проверка учетной записи через SMS, чтобы получать сообщения электронной почты</string>
+    <string name="account_setup_basics_mi_mail_login_help">Вам может потребоваться проверка учётной записи через SMS, чтобы получать сообщения электронной почты</string>
     <string name="account_setup_basics_password_label">Введите пароль</string>
     <string name="account_setup_basics_password_label_authcode">Введите пароль или код авторизации</string>
     <string name="account_setup_basics_title">Новый аккаунт</string>
@@ -254,7 +254,7 @@
     <string name="always_show_images">Всегда показывать изображения этого отправителя</string>
     <string name="app_loading">Загрузка…</string>
     <string name="app_name">Почта</string>
-    <string name="app_uninstall_content">Приложение \"Почта\" является системным. После удаления вы не сможете добавлять учетные записи электронной почты, отправлять и получать электронные письма, а также синхронизировать расписания по электронной почте.</string>
+    <string name="app_uninstall_content">Приложение \"Почта\" является системным. После удаления вы не сможете добавлять учётные записи электронной почты, отправлять и получать электронные письма, а также синхронизировать расписания по электронной почте.</string>
     <string name="app_uninstall_title">Удалить \"Почту\"?</string>
     <string name="appraise_des">Вам нравится приложение?</string>
     <string name="appraise_good">Да</string>
@@ -684,7 +684,7 @@
     <string name="fetching_attachment">Загрузка вложения</string>
     <string name="file_defailt_save_path">По умолчанию вложения сохраняются в папке %s. Изменить папку можно в Настройках.</string>
     <string name="file_default_save_path_title">Папка по умолчанию для вложений</string>
-    <string name="file_deleted_success">Файл удален</string>
+    <string name="file_deleted_success">Файл удалён</string>
     <string name="file_not_found">Не удалось найти файл</string>
     <string name="file_not_found_redownload">Не удалось найти файл</string>
     <string name="file_rar_not_support">Зашифрованный архив RAR не поддерживается</string>
@@ -827,7 +827,7 @@
     <string name="http_auth_dialog_cancel">Отмена</string>
     <string name="http_auth_dialog_login">Вход</string>
     <string name="http_auth_dialog_password">Пароль</string>
-    <string name="http_auth_dialog_title">Введите свои учетные данные</string>
+    <string name="http_auth_dialog_title">Введите свои учётные данные</string>
     <string name="http_auth_dialog_username">Имя пользователя</string>
     <string name="icloud_login_tips">Пароль для использования с почтой iCloud можно создать на iCloud.com</string>
     <string name="icon_content_description">Иконка диалога</string>
@@ -911,11 +911,11 @@
     <string name="long_string">длиииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииинное</string>
     <string name="mail">Почта</string>
     <string name="mail_body_turncated">Это сообщение слишком большое, будет показана только его часть. Чтобы прочесть полное содержание, откройте сообщение с компьютера.</string>
-    <string name="mail_description_content">Почта - это почтовый клиент, который может сразу с несколькими учетными записями, отправлять и получать сообщения. А также вы можете синхронизировать календарь и контакты. Перед удалением убедитесь, что вы можете обойтись без этих функций. Информация о ваших контактах и календаре также будет удалена.</string>
+    <string name="mail_description_content">Почта - это почтовый клиент, который может сразу с несколькими учётными записями, отправлять и получать сообщения. А также вы можете синхронизировать календарь и контакты. Перед удалением убедитесь, что вы можете обойтись без этих функций. Информация о ваших контактах и календаре также будет удалена.</string>
     <string name="mail_description_title">О приложении</string>
     <string name="mail_header_network_not_available">Интернет недоступен</string>
     <string name="mail_login_help">Как войти в аккаунт</string>
-    <string name="mail_login_help_bottom_tip">"Если вы забыли свой пароль или необходимо проверить состояние учетной записи, воспользуйтесь веб-версией NetEase Mail. Вы также можете получить помощь в WeChat: "</string>
+    <string name="mail_login_help_bottom_tip">"Если вы забыли свой пароль или необходимо проверить состояние учётной записи, воспользуйтесь веб-версией NetEase Mail. Вы также можете получить помощь в WeChat: "</string>
     <string name="mail_login_help_details1">1. Пароль электронной почты можно использовать, если в почтовом клиенте не был установлен код авторизации и включены службы POP3/IMAP/SMTP.</string>
     <string name="mail_login_help_details2">2. Сторонние коды авторизации могут использоваться для входа в сторонние почтовые клиенты, когда включены службы POP3/IMAP/SMTP.</string>
     <string name="mail_login_help_title">Пароль электронной почты / Сторонний клиент:</string>
@@ -1032,7 +1032,7 @@
     <string name="message_count_spacer">  </string>
     <string name="message_decode_error">Не удалось расшифровать сообщение</string>
     <string name="message_details_title">Детали сообщения</string>
-    <string name="message_discarded">Черновик удален</string>
+    <string name="message_discarded">Черновик удалён</string>
     <string name="message_invite_accept">Да</string>
     <string name="message_invite_calendar_download_prompt">Загрузите Календарь, чтобы использовать эту функцию</string>
     <string name="message_invite_calendar_view">Показать в календаре</string>
@@ -1231,7 +1231,7 @@
     <string name="ntes_password_error_hint">Если при вводе пароля возникают ошибки, закройте эту страницу и откройте её снова.</string>
     <string name="ntes_phone_send">Отправить текстовое сообщение с привязанного номера телефона</string>
     <string name="ntes_send_to">Отправить: %s</string>
-    <string name="ntes_send_to_content">Если текущий номер телефона связан с учетной записью, нажмите \"Отправить SMS\".</string>
+    <string name="ntes_send_to_content">Если текущий номер телефона связан с учётной записью, нажмите \"Отправить SMS\".</string>
     <string name="ntes_verification_code">Введите код: %s</string>
     <string name="oauth_error_description">Ошибка аутентификации</string>
     <string name="oauth_find_browser_error_description">Пожалуйста, установите браузер перед входом в систему</string>
@@ -1346,9 +1346,9 @@
     <string name="permission_des_calendar">Для синхронизации мероприятий календаря</string>
     <string name="permission_des_contact">Для синхронизации контактов электронной почты с контактами на устройстве. Выберите \"Всегда разрешать\", чтобы избежать проблем с синхронизацией.</string>
     <string name="permission_des_external_storage">Для создания новых электронных писем, сохранения и добавления вложений</string>
-    <string name="permission_get_accounts_subtitle">Для входа в систему и управления учетными записями системы</string>
+    <string name="permission_get_accounts_subtitle">Для входа в систему и управления учётными записями системы</string>
     <string name="permission_phone_status_subtitle">Для идентификации различных устройств</string>
-    <string name="permission_phone_status_title">Доступ к учетным записям на устройстве</string>
+    <string name="permission_phone_status_title">Доступ к учётным записям на устройстве</string>
     <string name="permission_read_attachment_desc">Разрешает приложению открывать вложения электронных писем</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
     <string name="permission_tip">Ошибка конфигурации. Разрешите звонки и текстовые сообщения при настройке конфигурации.</string>
@@ -1439,7 +1439,7 @@
     <string name="qq_group_info_title">Группа QQ для обратной связи</string>
     <string name="qq_login_basecode">Авторизация в веб-почте QQ. Введите независимый пароль.</string>
     <string name="qq_login_get_auth">Включите защиту паролем, если вы не можете получить SMS</string>
-    <string name="qq_login_help_bottom_tip">"Если вы забыли свой пароль или вам необходимо проверить состояние своей учетной записи, воспользуйтесь веб-версией QQ Mail. Вы также можете получить помощь в WeChat: "</string>
+    <string name="qq_login_help_bottom_tip">"Если вы забыли свой пароль или вам необходимо проверить состояние своей учётной записи, воспользуйтесь веб-версией QQ Mail. Вы также можете получить помощь в WeChat: "</string>
     <string name="qq_login_help_details1">1. Пароль QQ можно использовать, если в протоколах IMAP/Exchange не был установлен независимый пароль или код авторизации.</string>
     <string name="qq_login_help_details2">2. Независимый пароль можно использовать, если для протоколов IMAP/Exchange не был установлен код авторизации.</string>
     <string name="qq_login_help_details3">"3. Коды авторизации сторонних почтовых клиентов, также можно использовать для входа в систему. Если вы забыли свой код, перейдите по этой ссылке: "</string>
@@ -1507,7 +1507,7 @@
     <string name="recognize_ticket_train_depart_date">Отправление в %3$s:%4$s %2$s.%1$s</string>
     <string name="recognize_ticket_train_notification_content">Счастливого пути!</string>
     <string name="recognize_ticket_train_notification_title">Поезд %3$s (%2$s.%1$s) вскоре отправится. Проверьте свой билет.</string>
-    <string name="recognize_ticket_train_return">Возвращен</string>
+    <string name="recognize_ticket_train_return">Возвращён</string>
     <string name="recognize_ticket_train_user_name">Пассажир: %1$s</string>
     <string name="recognize_title">Информация о поездке</string>
     <string name="recommend_protocal">Рекомендации протокола использования</string>
@@ -1601,7 +1601,7 @@
     <string name="ser_resp_err_map_landing_too_frequently">Слишком много попыток входа. Повторите попытку позже.</string>
     <string name="ser_resp_err_map_mailbox_locked">Аккаунт электронной почты защищен паролем. Обратитесь к провайдеру для разблокировки.</string>
     <string name="ser_resp_err_map_mailbox_not_open">Аккаунт не активирован. Обратитесь к провайдеру для активации.</string>
-    <string name="ser_resp_err_map_max_connections">Слишком много устройств имеют доступ к этой учетной записи. Удалите эту учетную запись с одного из устройств, чтобы получить к ней доступ на этом.</string>
+    <string name="ser_resp_err_map_max_connections">Слишком много устройств имеют доступ к этой учётной записи. Удалите эту учётную запись с одного из устройств, чтобы получить к ней доступ на этом.</string>
     <string name="ser_resp_err_map_nouser">Не удалось найти действующий аккаунт. Проверьте правильность введенной вами информации и повторите попытку.</string>
     <string name="ser_resp_err_map_or">%1$s или %2$s</string>
     <string name="ser_resp_err_map_pserr">Неверный пароль</string>
@@ -1631,7 +1631,7 @@
     <string name="service_protocol_title">Соглашение об обслуживании</string>
     <string name="set_account_app_password">Установить пароль приложения</string>
     <string name="set_network">Настройка сети</string>
-    <string name="setting_kids_subtitle">Возраст подтвержден</string>
+    <string name="setting_kids_subtitle">Возраст подтверждён</string>
     <string name="setting_kids_title">Старше 16 лет</string>
     <string name="settings_activity_title">Настройки</string>
     <string name="settings_attachment">Вложения</string>
@@ -1785,7 +1785,7 @@
     <string name="to_heading">"Кому: "</string>
     <string name="toast_bar_fail_synchronization">Не удается подключиться к серверу. Повторите попытку позже.</string>
     <string name="toast_bar_insufficient_memory_space">Не удается получить почту. Недостаточно места.</string>
-    <string name="toast_bar_invalid_account">Срок информации об учетной записи истёк. Нажмите, чтобы войти снова.</string>
+    <string name="toast_bar_invalid_account">Срок информации об учётной записи истёк. Нажмите, чтобы войти снова.</string>
     <string name="toast_bar_no_connection_network">Отсутствует подключение к интернету</string>
     <string name="toast_bar_open_gmail_synchronization">Не удалось подключиться к Gmail. Проверьте настройки сети и повторите попытку.</string>
     <string name="toast_bar_send_fail_remind">Не удалось отправить письмо. Сохранено в папке «Исходящие».</string>
@@ -1907,7 +1907,7 @@
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Другое</string>
     <string name="wipe_account_fail_description">Разрешить</string>
-    <string name="wipe_account_fail_description_remind">Из-за ограничения прав доступа к данным, могут оставаться остаточные данные в календаре и контактах после удаления учетной записи, удалите их вручную.</string>
+    <string name="wipe_account_fail_description_remind">Из-за ограничения прав доступа к данным, могут оставаться остаточные данные в календаре и контактах после удаления учётной записи, удалите их вручную.</string>
     <string name="wipe_account_fail_title">Ошибка удаления личных данных</string>
     <string name="wps_card_button_tips">Открыть документ WPS</string>
     <string name="wps_card_tips">%s поделился документом WPS Office</string>

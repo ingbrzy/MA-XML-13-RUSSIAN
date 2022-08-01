@@ -157,7 +157,7 @@
         <item>LOGIN Ошибка входа. Пользователь заблокирован.</item>
         <item>LOGIN Ошибка, требуется аторизация\ufffd</item>		
         <item>LOGIN errno:1423, ошибка пароля пользователя (sp return:2200019)</item>
-        <item>AUTHENTICATIONFAILED LOGIN Неверные учетные данные</item>
+        <item>AUTHENTICATIONFAILED LOGIN Неверные учётные данные</item>
         <item>Ошибка входа. Неверный пароль или служба не доступна.</item>
         <item>LOGIN imap4 не поддерживается</item>
         <item>LOGIN errno:1328, пользовательский imap отключён</item>
