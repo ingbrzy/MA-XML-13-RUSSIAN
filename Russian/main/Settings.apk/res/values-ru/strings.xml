@@ -4106,7 +4106,7 @@ ID: %s
     <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка для контекстного меню. Проведите для запуска ярлыка.</string>
     <string name="gxzw_quick_open_slow_title">Нажатие и удержание</string>
     <string name="gxzw_quick_open_title">Ярлыки</string>
-    <string name="gxzw_vibrate_summary">Вибрировать во время воспроизведения анимации разблокировки отпечатком</string>
+    <string name="gxzw_vibrate_summary">Если не выбрана анимация отпечатка пальца, вибрация срабатывать не будет</string>
     <string name="gxzw_vibrate_title">Вибрация при разблокировке</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>

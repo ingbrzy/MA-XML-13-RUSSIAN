@@ -70,4 +70,16 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ч.</item>
+        <item quantity="one">%s ч.</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">Осталось %s мин. экранного времени</item>
+        <item quantity="one">Осталось %s мин. экранного времени</item>
+    </plurals>
 </resources>

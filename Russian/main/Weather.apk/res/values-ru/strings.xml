@@ -289,7 +289,12 @@
     <string name="indices_title_chance_of_rain">Вероятность дождя</string>
     <string name="indices_title_feel">Ощущается</string>
     <string name="indices_title_pressure">Давление</string>
+    <string name="indices_title_uv">УФ</string>
     <string name="indices_title_wind_speed">Скорость ветра</string>
+    <string name="indices_wind_direction_east">В</string>
+    <string name="indices_wind_direction_north">С</string>
+    <string name="indices_wind_direction_south">Ю</string>
+    <string name="indices_wind_direction_west">З</string>
     <string name="information_settings_title">Информация о погоде</string>
     <string name="install">Установить</string>
     <string name="international_details_pressure_title">ДАВЛЕНИЕ</string>
@@ -496,6 +501,8 @@
     <string name="set">Настройки</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="setting_notification_manager">Уведомления</string>
+    <string name="setting_used_to_push_reminder">Получать оповещения о погоде и предупреждения</string>
     <string name="settings">Настройки</string>
     <string name="settings_atmospheric_pressure_atm">атм</string>
     <string name="settings_atmospheric_pressure_default">0</string>

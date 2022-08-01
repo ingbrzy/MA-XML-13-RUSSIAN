@@ -470,6 +470,8 @@
     <string name="permission_control">Управление разрешениями</string>
     <string name="playing">Игры</string>
     <string name="pm_lable_name">О ROOT-доступе</string>
+    <string name="power_center_battery_duration_screen_on">Оставшееся экранное время</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">Осталось %1$s %2$s экранного времени</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="privacy_declare_dialog_title">Условия использования</string>
     <string name="privacy_name">Политика конфиденциальности</string>

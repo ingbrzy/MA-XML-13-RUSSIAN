@@ -72,6 +72,8 @@
     <string name="account_setting_message_body_load_text">Только основной текст</string>
     <string name="account_settings_action">Настройки аккаунта</string>
     <string name="account_settings_background_attachments_label">Загружать вложения</string>
+    <string name="account_settings_background_attachments_security_summary">Проверка вложений с установочными пакетами на наличие угроз безопасности</string>
+    <string name="account_settings_background_attachments_security_title">Проверка вложений</string>
     <string name="account_settings_background_attachments_summary">Загружать вложения по Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Загружать вложения по Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Автозагрузка вложений</string>
@@ -299,6 +301,10 @@
     <string name="attachment_unknown">Файл: %s</string>
     <string name="attachment_video">Видео</string>
     <string name="attachments_header">Вложения</string>
+    <string name="attachments_security_alert_install_message">Вложение содержит установочный пакет. Убедитесь в надежности источника, прежде чем устанавливать его. Установить?</string>
+    <string name="attachments_security_alert_install_title">Внимание</string>
+    <string name="attachments_security_alert_message">Письмо содержит установочный пакет. Убедитесь в надежности источника, прежде чем открывать его.</string>
+    <string name="attachments_security_install">Установить</string>
     <string name="attendee_needed">Добавьте хотя бы одного приглашенного</string>
     <string name="auto_advance_help_title">После удаления сообщения…</string>
     <string name="auto_advance_label">Действие после удаления</string>
@@ -390,6 +396,7 @@
     <string name="click_to_reload">Нажмите для обновления</string>
     <string name="close">Закрыть</string>
     <string name="close_custom_folder">Свернуть</string>
+    <string name="close_tips">Закрыть</string>
     <string name="collapse_recipient_details">Скрыть информацию</string>
     <string name="compose">Создать</string>
     <string name="compose_add_attachment_permission_denied">Невозможно переслать электронную почту. Разрешите доступ к внешней памяти.</string>
@@ -721,6 +728,7 @@
     <string name="folder_junk_name_en2">Спам</string>
     <string name="folder_junk_name_en3">Спам</string>
     <string name="folder_junk_name_en4">Спам</string>
+    <string name="folder_junk_name_en5">Спам</string>
     <string name="folder_list_current_account">Текущий ящик</string>
     <string name="folder_list_display_all">Отображать все папки</string>
     <string name="folder_list_display_only_import">Отображать только важные папки</string>
@@ -1026,6 +1034,7 @@
     <string name="message_details_title">Детали сообщения</string>
     <string name="message_discarded">Черновик удален</string>
     <string name="message_invite_accept">Да</string>
+    <string name="message_invite_calendar_download_prompt">Загрузите Календарь, чтобы использовать эту функцию</string>
     <string name="message_invite_calendar_view">Показать в календаре</string>
     <string name="message_invite_decline">Нет</string>
     <string name="message_invite_end_time">Время окончания</string>

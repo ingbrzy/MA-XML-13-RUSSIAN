@@ -240,6 +240,9 @@
     <string name="assistant_page_discovery">Новое</string>
     <string name="assistant_page_label">Моменты</string>
     <string name="assistant_page_server_error">Проверьте настройки сети</string>
+    <string name="assistant_today_of_year_function_closed_tip">Включить</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Назад в прошлое</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Начать</string>
     <string name="associate_face_album">Выбрать альбом</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -627,6 +630,7 @@
     <string name="crop_label">Кадрированные фото</string>
     <string name="cta_agreement_declare"><Data>Чтобы полностью понять ваши права как пользователя и как мы используем ваши данные, прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> перед использованием этого приложения.</Data></string>
     <string name="cta_network_declare">Для синхронизации фото и видео с Xiaomi Cloud приложению требуется подключение к интернету.</string>
+    <string name="cta_screenthrow_declare">Для трансляции содержимого экрана на внешние мониторы приложению требуется подключение к интернету</string>
     <string name="custom_select_title_deselect_all">Снять выбор</string>
     <string name="custom_select_title_quickly_share">Поделиться</string>
     <string name="custom_select_title_select_all">Выбрать все</string>
@@ -874,6 +878,7 @@
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
+    <string name="fail_reason_migrate">Идет обработка... Повторите попытку позже.</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
     <string name="family_member_invitation_text">Другой член семьи</string>
@@ -1213,6 +1218,8 @@
     <string name="home_page_empty_action">Сделайте фото</string>
     <string name="home_page_empty_action_new">Импорт со старого устройства</string>
     <string name="home_page_label">Фото</string>
+    <string name="home_sdcard_op_tip_msg">Не удалось выполнить это действие для всех выбранных изображений. Размонтируйте и снова смонтируйте SD-карту.</string>
+    <string name="home_sdcard_tip_msg">SD-карта доступна только для чтения. Размонтируйте и смонтируйте ее снова в Настройки > Телефон > Хранилище.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Пропустить</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">ОК</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Все</string>
@@ -1751,6 +1758,8 @@
     <string name="ocr_save_to_note">Сохранить</string>
     <string name="ocr_save_to_note_new">Сохранить в Заметки</string>
     <string name="ocr_send">Отправить</string>
+    <string name="ocr_switch_hint">Используйте распознавание текста на изображениях для его копирования и работы с ним</string>
+    <string name="ocr_switch_title">Распознавание текста на изображениях</string>
     <string name="ocr_text_copied">Скопировано</string>
     <string name="ocr_text_copied_selected">Скопировано</string>
     <string name="ocr_text_link">URL</string>

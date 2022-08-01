@@ -52,6 +52,7 @@
     <string name="account_provider_uri">content://com.android.email.provider/uiaccts</string>
     <string name="account_settings_address">account_settings_address</string>
     <string name="account_settings_background_attachments">account_settings_background_attachments</string>
+    <string name="account_settings_background_attachments_security">account_settings_background_attachments_security</string>
     <string name="account_settings_bcc">account_settings_bcc</string>
     <string name="account_settings_body_load">account_settings_body_load</string>
     <string name="account_settings_email_filter">account_settings_email_filter</string>
@@ -2565,6 +2566,7 @@
     <string name="hoar_frost_falls">霜降</string>
     <string name="hoar_frost_falls_tradition">霜降</string>
     <string name="home_indicator">bottom_point</string>
+    <string name="home_menu_community">@string/assistant_page_community</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepaperchanged">@string/theme_apply_success</string>
     <string name="hongbao_cancel"> </string>
