@@ -59,7 +59,7 @@
     <string name="auto_connect_disable">Без автоподключения</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
-    <string name="bt_is_off">Bluetooth отключен</string>
+    <string name="bt_is_off">Bluetooth отключён</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="chip_text">Текст</string>
@@ -160,7 +160,7 @@
     <string name="hearing_assist_transmission_tips_title">Ушные мониторы</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="item_view_role_description">Вкладка</string>
-    <string name="kddi_miui_toast_zen_standard_to_off">Режим \"Без звука\" отключен. Звуки рингтонов и уведомлений включены.</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">Режим \"Без звука\" отключён. Звуки рингтонов и уведомлений включены.</string>
     <string name="kddi_miui_toast_zen_to_standard">Включён режим \"Без звука\". Звуки рингтонов и уведомлений отключены.</string>
     <string name="loading">Неизвестно</string>
     <string name="material_slider_range_end">Конец диапазона,</string>
@@ -197,12 +197,12 @@
 беспокоить"</string>
     <string name="miui_ringer_total_description">Отключить звук и вибрацию для всего, кроме будильника</string>
     <string name="miui_screen_rotation_freeze_message">Ориентация экрана зафиксирована в альбомном режиме</string>
-    <string name="miui_toast_zen_dnd_to_off"> Режим \"Не беспокоить\" отключен. Звук и вибрация включены.</string>
+    <string name="miui_toast_zen_dnd_to_off"> Режим \"Не беспокоить\" отключён. Звук и вибрация включены.</string>
     <string name="miui_toast_zen_dnd_to_off_T">Звук уведомлений включён</string>
-    <string name="miui_toast_zen_standard_to_off">Режим \"Без звука\" отключен</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">Режим \"Без звука\" отключен. Звуки рингтонов, уведомлений и мультимедиа включены.</string>
+    <string name="miui_toast_zen_standard_to_off">Режим \"Без звука\" отключён</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Режим \"Без звука\" отключён. Звуки рингтонов, уведомлений и мультимедиа включены.</string>
     <string name="miui_toast_zen_to_dnd">Включён режим \"Не беспокоить\". Звук и вибрация отключены.</string>
-    <string name="miui_toast_zen_to_dnd_T">Звук уведомлений отключен</string>
+    <string name="miui_toast_zen_to_dnd_T">Звук уведомлений отключён</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Звуки рингтонов и уведомлений будут отключены при блокировке устройства</string>
     <string name="miui_toast_zen_to_standard">Включён режим \"Без звука\"</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Включён режим \"Без звука\". Звуки рингтонов, уведомлений и мультимедиа отключены.</string>
@@ -334,7 +334,7 @@
     <string name="quick_settings_batterysaver_label">Экономия заряда</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Нет подключенных устройств</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет (WCDMA/LTE) будет отключен. Если Wi-Fi отключен, вы не сможете использовать приложения, которым требуется передача данных. Отправка и получение мультимедийных сообщений будут ограничены.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет (WCDMA/LTE) будет отключён. Если Wi-Fi отключён, вы не сможете использовать приложения, которым требуется передача данных. Отправка и получение мультимедийных сообщений будут ограничены.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включён мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Отмена</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">ОК</string>
@@ -497,7 +497,7 @@
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
-    <string name="wifi_is_off">Wi-Fi отключен</string>
+    <string name="wifi_is_off">Wi-Fi отключён</string>
     <string name="wireless_charging_connected_message">Обратная беспроводная зарядка недоступна, когда устройство заряжается по беспроводной сети</string>
     <string name="wireless_charging_fg_control_cancel">Отмена</string>
     <string name="wireless_charging_fg_control_messgae">Заряд менее %d%%, обратная беспроводная зарядка отключена. Настройте параметры для более длительной работы обратной беспроводной зарядки.</string>

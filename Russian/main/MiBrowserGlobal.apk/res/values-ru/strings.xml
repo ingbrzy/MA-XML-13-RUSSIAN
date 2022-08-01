@@ -1143,7 +1143,7 @@ ID:%s
     <string name="in_secureaccess">Браузер перешел в безопасный режим</string>
     <string name="incognito">Инкогнито</string>
     <string name="incognito_message">Ваши действия будут конфиденциальными, и другие пользователи не увидят вашу активность. Однако загрузки и закладки будут сохранены.</string>
-    <string name="incognito_off">Режим инкогнито отключен</string>
+    <string name="incognito_off">Режим инкогнито отключён</string>
     <string name="incognito_on">Теперь вы инкогнито!</string>
     <string name="incognito_tips1">"Браузер не будет сохранять следующую информацию:
 • Вашу историю просмотров

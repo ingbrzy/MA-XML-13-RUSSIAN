@@ -549,7 +549,7 @@ ID: %s
     <string name="send">Отправить</string>
     <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="sending">Отправка…</string>
-    <string name="setting_close_debug">Режим отладки отключен</string>
+    <string name="setting_close_debug">Режим отладки отключён</string>
     <string name="setting_debug_fail">Ошибка активации режима отладки</string>
     <string name="setting_open_debug">Режим отладки активирован. Нажмите здесь 6 раз для отключения.</string>
     <string name="shortcut_dialog_content">Создайте ярлык на рабочем столе для быстрого поиска ресурсов</string>

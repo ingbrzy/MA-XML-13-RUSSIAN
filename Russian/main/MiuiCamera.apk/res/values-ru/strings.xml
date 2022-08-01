@@ -73,7 +73,7 @@
     <string name="accessibility_delay_capture_10s_button">Таймер установлен на десять секунд</string>
     <string name="accessibility_delay_capture_3s_button">Таймер установлен на три секунды</string>
     <string name="accessibility_delay_capture_5s_button">Таймер установлен на пять секунд</string>
-    <string name="accessibility_delay_capture_close_button">Таймер отключен</string>
+    <string name="accessibility_delay_capture_close_button">Таймер отключён</string>
     <string name="accessibility_description_clone_button">Панель клонирования</string>
     <string name="accessibility_description_dolly_zoom_button">Волшебный зум</string>
     <string name="accessibility_deselect_all">Отменить выделение</string>
@@ -117,7 +117,7 @@
     <string name="accessibility_hdr_auto">HDR Авто включён</string>
     <string name="accessibility_hdr_live">HDR Live включён</string>
     <string name="accessibility_hdr_normal">HDR Pro включён</string>
-    <string name="accessibility_hdr_off">HDR отключен</string>
+    <string name="accessibility_hdr_off">HDR отключён</string>
     <string name="accessibility_hdr_on">HDR включён</string>
     <string name="accessibility_horizontal_shutter_off">Съемка в ландшафтном режиме отключена</string>
     <string name="accessibility_horizontal_shutter_on">Съемка в ландшафтном режиме</string>
@@ -136,7 +136,7 @@
     <string name="accessibility_lock_focus_success">Фокус успешно зафиксирован</string>
     <string name="accessibility_manually_custom_panel_on">Панель настройки</string>
     <string name="accessibility_mimoji_background_panel_on">Панель фонов</string>
-    <string name="accessibility_mimoji_gif_off">Режим GIF отключен</string>
+    <string name="accessibility_mimoji_gif_off">Режим GIF отключён</string>
     <string name="accessibility_mimoji_gif_on">Режим GIF включён</string>
     <string name="accessibility_mimoji_image_panel_on">Панель аватаров</string>
     <string name="accessibility_mimoji_timbre_panel_on">Панель озвучивания</string>
@@ -192,10 +192,10 @@
     <string name="accessibility_shutter_resume_button">Возобновление</string>
     <string name="accessibility_shutter_saving_button">Сохранение</string>
     <string name="accessibility_stereo_button">Настройка фокуса</string>
-    <string name="accessibility_super_eis_off">EIS отключен</string>
+    <string name="accessibility_super_eis_off">EIS отключён</string>
     <string name="accessibility_super_eis_on">EIS включён</string>
     <string name="accessibility_super_eis_pr_on">EIS PRO включён</string>
-    <string name="accessibility_super_macro_off">Супермакро отключен</string>
+    <string name="accessibility_super_macro_off">Супермакро отключён</string>
     <string name="accessibility_super_macro_on">Супермакро включён</string>
     <string name="accessibility_super_moon_silhouette_panel_on">Панель редактирования</string>
     <string name="accessibility_tilt_shift_circle_button">Шифт-объектив. Круг.</string>
@@ -210,9 +210,9 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP вкл.</string>
     <string name="accessibility_ultra_pixel_photography_48mp_off">48MP откл.</string>
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP вкл.</string>
-    <string name="accessibility_ultra_pixel_photography_off">%s Ультра HD отключен</string>
+    <string name="accessibility_ultra_pixel_photography_off">%s Ультра HD отключён</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ультра HD включён</string>
-    <string name="accessibility_ultra_wide_off">Ультраширокоугольный режим отключен</string>
+    <string name="accessibility_ultra_wide_off">Ультраширокоугольный режим отключён</string>
     <string name="accessibility_ultra_wide_on">Ультраширокоугольный режим включён</string>
     <string name="accessibility_video_btn_play">Воспроизведение видео</string>
     <string name="accessibility_video_capture_button">Кнопка для фотографирования во время съемки видео</string>
@@ -317,7 +317,7 @@
     <string name="ai_valentine_day">День святого Валентина</string>
     <string name="ai_victoria_harbor">Бухта Виктория</string>
     <string name="ai_watermark_title">AI Водяной знак</string>
-    <string name="ai_watermark_toast_off">AI Водяной знак отключен</string>
+    <string name="ai_watermark_toast_off">AI Водяной знак отключён</string>
     <string name="ai_watermark_toast_on">AI Водяной знак включён</string>
     <string name="ai_west_lake">Западное озеро</string>
     <string name="ai_wuhan">Ухань</string>
@@ -1612,7 +1612,7 @@
     <string name="pref_camera_picturesize_entry_fullscreen">Полный</string>
     <string name="pref_camera_picturesize_entry_standard">Стандартный 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Формат кадра</string>
-    <string name="pref_camera_portrait_mode_entry_off">Режим \"Портрет\" отключен</string>
+    <string name="pref_camera_portrait_mode_entry_off">Режим \"Портрет\" отключён</string>
     <string name="pref_camera_portrait_mode_entry_on">Режим \"Портрет\" включён</string>
     <string name="pref_camera_portrait_mode_title">Портрет</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Улучшение в режиме \"Портрет\"</string>
@@ -1644,7 +1644,7 @@
     <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
     <string name="pref_camera_scenemode_entry_night">Ночь</string>
     <string name="pref_camera_scenemode_entry_night_portrait">Ночной портрет</string>
-    <string name="pref_camera_scenemode_entry_off">Отключен</string>
+    <string name="pref_camera_scenemode_entry_off">Отключён</string>
     <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
     <string name="pref_camera_scenemode_entry_snow">Снег</string>
     <string name="pref_camera_scenemode_entry_sports">Спорт</string>
@@ -2153,24 +2153,24 @@
     <string name="tuesday_shortest">Вт</string>
     <string name="ubi_focus_capture_fail">Не удалось сфотографировать</string>
     <string name="ubifocus_capture_warning_message">Для достижения наилучших результатов ваша фотография должна содержать объекты как вблизи (менее 1 метра от объектива), так и вдали</string>
-    <string name="ultra_ai_pixel_photography_close_tip">AI %s Ультра HD отключен</string>
-    <string name="ultra_ai_pixel_photography_open_tip">AI %s Ультра HD отключен</string>
+    <string name="ultra_ai_pixel_photography_close_tip">AI %s Ультра HD отключён</string>
+    <string name="ultra_ai_pixel_photography_open_tip">AI %s Ультра HD отключён</string>
     <string name="ultra_pixel_100mp">100MP</string>
     <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_photography_32mp_close_tip">32MP откл.</string>
     <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
     <string name="ultra_pixel_photography_48mp_close_tip">48MP откл.</string>
     <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
-    <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключен</string>
+    <string name="ultra_pixel_photography_close_tip">%s Ультра HD отключён</string>
     <string name="ultra_pixel_photography_open_tip">%s Ультра HD включён</string>
     <string name="ultra_pixel_portrait_hint">HD портрет</string>
     <string name="ultra_pixel_zoom_no_support_tip">Увеличение не работает в режиме %s Ультра HD</string>
     <string name="ultra_tele_use_hint_text_body">"Используйте 50-кратный зум для захвата удаленных объектов
 с улучшенной детализацией"</string>
     <string name="ultra_tele_use_hint_text_title">50-кратный зум</string>
-    <string name="ultra_wide_bokeh_close_tip">Режим \"Во весь рост\" отключен</string>
+    <string name="ultra_wide_bokeh_close_tip">Режим \"Во весь рост\" отключён</string>
     <string name="ultra_wide_bokeh_open_tip">Режим \"Во весь рост\"</string>
-    <string name="ultra_wide_close_tip">Ультраширокоугольный режим отключен</string>
+    <string name="ultra_wide_close_tip">Ультраширокоугольный режим отключён</string>
     <string name="ultra_wide_mode">Ультраширокоугольный режим</string>
     <string name="ultra_wide_mode_use_hint_text">"Используйте этот режим, чтобы сюжет поместился на фото.
 Ультраширокоугольный режим помогает если нельзя отодвинуться дальше от объекта съемки."</string>

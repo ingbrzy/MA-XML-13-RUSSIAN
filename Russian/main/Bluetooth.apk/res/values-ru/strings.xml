@@ -49,7 +49,7 @@
     <string name="bluetooth_advanced_feat_description">Расширенная функция просмотра Bluetooth</string>
     <string name="bluetooth_broadcast_status">Идет трансляция</string>
     <string name="bluetooth_connected">Звук через Bluetooth включён</string>
-    <string name="bluetooth_disconnected">Звук через Bluetooth отключен</string>
+    <string name="bluetooth_disconnected">Звук через Bluetooth отключён</string>
     <string name="bluetooth_map_remote_advance_feature_support">Доступны расширенные функции доступа к сообщениям</string>
     <string name="bluetooth_map_remote_message_access_feature_downgrade">Понизить функции удаленного доступа к сообщениям</string>
     <string name="bluetooth_map_repair_for_adv_message_access_feature">Повторите сопряжение для использования расширенных функций доступа к сообщениям</string>

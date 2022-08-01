@@ -602,7 +602,7 @@ ID:%s
     <string name="gps">GPS</string>
     <string name="gps_no_signal_hint">Текущий сигнал GPS не позволяет отслеживать тренировку и записывать трек. Выйдите на ровную открытую местность.</string>
     <string name="gps_unauthorized">Требуются разрешение для GPS</string>
-    <string name="gps_unopened">GPS отключен</string>
+    <string name="gps_unopened">GPS отключён</string>
     <string name="group">Циклы</string>
     <string name="guide_data_cloud_sync_tip">Можно отключить синхронизацию в Настройки > Облачные сервисы.</string>
     <string name="guide_exit">Выход</string>
@@ -1211,7 +1211,7 @@ ID:%s
     <string name="search_train_course_hint">Поиск тренировочных курсов</string>
     <string name="sedentary_detail_title">Не сидите слишком долго</string>
     <string name="sedentary_enhance_remind">С вибрацией</string>
-    <string name="sedentary_enhance_remind_content">Данная функция работает, когда режим \"Не беспокоить\" отключен</string>
+    <string name="sedentary_enhance_remind_content">Данная функция работает, когда режим \"Не беспокоить\" отключён</string>
     <string name="sedentary_harm_known">Понятно</string>
     <string name="sedentary_popular_science">*Долгое пребывание в сидячем положении чрезвычайно вредно для вашего здоровья. Старайтесь разминаться не менее 2 минут каждый час. Не рекомендуется находиться без движения в течение более 6 часов в день.</string>
     <string name="sedentary_reminder_channel_name">Напоминания о разминке</string>
@@ -1693,7 +1693,7 @@ ID:%s
     <string name="tb_home_heart_rate_card_no_data">Пульс: нет данных.</string>
     <string name="tb_home_sleep_card">Сон сегодня: %1$s, %2$s</string>
     <string name="tb_home_sleep_card_no_data">Сон сегодня: нет данных</string>
-    <string name="tb_home_sleep_card_not_open_trace">Сон: анализ цикла сна отключен</string>
+    <string name="tb_home_sleep_card_not_open_trace">Сон: анализ цикла сна отключён</string>
     <string name="tb_home_tip_open_data_sync">Синхронизируйте данные приложения с Xiaomi Cloud для доступа к ним на других устройствах. Дважды нажмите, чтобы начать.</string>
     <string name="tb_home_weight_card">Вес: %1$.1f кг. Время взвешивания: %2$s. Статус: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Вес: нет данных.</string>

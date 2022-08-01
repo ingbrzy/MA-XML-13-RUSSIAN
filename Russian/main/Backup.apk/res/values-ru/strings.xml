@@ -236,7 +236,7 @@ https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="flash_drive_backup_note">"Резервное копирование приложений на USB накопитель.
 Убедитесь, что на USB накопителе достаточно места."</string>
     <string name="flash_drive_backup_restore">Резервное копирование на USB</string>
-    <string name="flash_drive_connection_failed">USB накопитель отключен</string>
+    <string name="flash_drive_connection_failed">USB накопитель отключён</string>
     <string name="flash_drive_restore_btn">Восстановить с USB</string>
     <string name="flash_drive_search_backup_files">"Поиск резервных копий на USB…
 Не изменяйте файлы резервных копий."</string>

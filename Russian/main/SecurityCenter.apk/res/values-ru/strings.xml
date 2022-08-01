@@ -177,7 +177,7 @@
     <string name="alert_back_diving_mode_summary">Отключить режим погружения?</string>
     <string name="alert_back_diving_mode_title">Режим погружения</string>
     <string name="alert_back_milink_hangup_tips_content">"Трансляция не будет прервана, пока вы делаете вызов. Чтобы включить экран, нажмите кнопку питания."</string>
-    <string name="alert_back_milink_hangup_tips_content_vb">"Трансляция не будет прервана, пока экран отключен и приложение работает в фоновом режиме. Чтобы включить экран, нажмите кнопку питания."</string>
+    <string name="alert_back_milink_hangup_tips_content_vb">"Трансляция не будет прервана, пока экран отключён и приложение работает в фоновом режиме. Чтобы включить экран, нажмите кнопку питания."</string>
     <string name="all_address_choose_hint">Все номера в этой провинции</string>
     <string name="allow_all">Разрешить всем</string>
     <string name="already_close_gamebooster">Ускорение игр отключено</string>
@@ -1267,15 +1267,15 @@
     <string name="data_usage_leisure_warning_body">Нажмите для просмотра.</string>
     <string name="data_usage_leisure_warning_title">Лимит льготного трафика</string>
     <string name="data_usage_limit_body">Нажмите для включения интернета.</string>
-    <string name="data_usage_mobile_dialog_title">Вы уже использовали 5 ГБ мобильного трафика. Мобильный интернет отключен.</string>
+    <string name="data_usage_mobile_dialog_title">Вы уже использовали 5 ГБ мобильного трафика. Мобильный интернет отключён.</string>
     <string name="data_usage_mobile_limit_title">Достигнут лимит трафика</string>
     <string name="data_usage_no_total_package_body">Нажмите для настройки.</string>
     <string name="data_usage_no_total_package_body_dual">Лимит трафика для %s не настроен</string>
     <string name="data_usage_no_total_package_title">Настройте лимит трафика</string>
-    <string name="data_usage_protected_dialog_message">"Мобильный интернет отключен во избежание дополнительных расходов.
+    <string name="data_usage_protected_dialog_message">"Мобильный интернет отключён во избежание дополнительных расходов.
 
 Оператор связи может взимать дополнительную плату при дальнейшем использовании мобильного интернета."</string>
-    <string name="data_usage_protected_notify_message">Мобильный интернет отключен во избежание дополнительных расходов.</string>
+    <string name="data_usage_protected_notify_message">Мобильный интернет отключён во избежание дополнительных расходов.</string>
     <string name="data_usage_protected_notify_title">Вы уже использовали 5 ГБ мобильного трафика</string>
     <string name="data_usage_warning_body">Нажмите для просмотра.</string>
     <string name="data_usage_warning_body_notify">Нажмите для просмотра.</string>
@@ -1351,7 +1351,7 @@
     <string name="dialog_roaming_warning_ok">Включить</string>
     <string name="dialog_skt_roaming_warning_cancel">Отмена</string>
     <string name="dialog_skt_roaming_warning_message">"Для использования интернет-роуминга прочтите и примите условия ниже. За международный интернет-роуминг может взиматься плата. При отсутствии тарифного плана могут быть большие расходы, связанные с приложениями соцсетей, электронной почты и погоды.
- * В случае несогласия, интернет-роуминг будет отключен.
+ * В случае несогласия, интернет-роуминг будет отключён.
  * HD Voice используется по умолчанию в поддерживаемых сетях.
  * Интернет-роуминг 5G доступен только в партнерских сетях.
 "</string>
@@ -1411,7 +1411,7 @@
     <string name="dlg_summary_close_app">Приложения не будут работать в фоновом режиме. Уведомления будут ограничены.</string>
     <string name="dlg_summary_close_theme">Динамические темы не будут работать.</string>
     <string name="dlg_summary_close_wifi">Wi-Fi, Bluetooth и точка доступа будут отключены.</string>
-    <string name="dlg_summary_nfc">NFC будет отключен.</string>
+    <string name="dlg_summary_nfc">NFC будет отключён.</string>
     <string name="dlg_summary_title">Фоновая активность приложений будет ограничиваться при выходе или возврате на рабочий стол. Чтобы приложения могли работать в фоновом режиме, добавьте их в исключения экономии заряда (контроль активности).</string>
     <string name="dlg_title_not_open_stranger_identify">Идентификация абонента</string>
     <string name="dlg_update_btn_contiue">Продолжить</string>
@@ -2015,11 +2015,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_dnd">Режим \"Не беспокоить\"</string>
     <string name="gamebox_func_antimsg_close">Всплывающие уведомления разрешены</string>
     <string name="gamebox_func_antimsg_open">Всплывающие уведомления запрещены</string>
-    <string name="gamebox_func_immersion_close">Режим погружения отключен</string>
+    <string name="gamebox_func_immersion_close">Режим погружения отключён</string>
     <string name="gamebox_func_immersion_open">Режим погружения включён</string>
     <string name="gamebox_func_switch_simcard">Переключение на SIM-карту %1$d для данных</string>
     <string name="gamebox_func_switch_simcard_immersion">"Невозможно переключить SIM-карты в режиме погружения"</string>
-    <string name="gamebox_func_wlan_close">Wi-Fi отключен</string>
+    <string name="gamebox_func_wlan_close">Wi-Fi отключён</string>
     <string name="gamebox_func_wlan_open">Wi-Fi включён</string>
     <string name="gamebox_hangup">Выключение экрана</string>
     <string name="gamebox_hangup_tips_content">Эта функция позволяет выключить экран, сохранив игру в фоновом режиме. Отключается автоматически после разблокировки устройства.</string>
@@ -2510,7 +2510,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Неверный оператор?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Ваш текущий оператор: "</string>
     <string name="guide_quck_open">Включить</string>
-    <string name="guide_second_text">После выбора оператора MIUI будет ежедневно отслеживать мобильный трафик путем отправки бесплатных SMS. Если MIUI обнаружит превышение лимита, мобильный интернет будет отключен, а вам направлено уведомление.</string>
+    <string name="guide_second_text">После выбора оператора MIUI будет ежедневно отслеживать мобильный трафик путем отправки бесплатных SMS. Если MIUI обнаружит превышение лимита, мобильный интернет будет отключён, а вам направлено уведомление.</string>
     <string name="guide_wait_setting">Не сейчас</string>
     <string name="handle_bar_summary_wifi_unknown">Неизвестно</string>
     <string name="handle_bar_title_system">Система</string>
@@ -2569,7 +2569,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
     <string name="infinite_remind_warning_text_tips">Предупреждение о достижении месячного лимита трафика</string>
     <string name="info_and_call">Вызовы и сообщения</string>
-    <string name="info_antispam_close">Антиспам отключен</string>
+    <string name="info_antispam_close">Антиспам отключён</string>
     <string name="info_antispam_current_mode">%s</string>
     <string name="info_antispam_phone">Блокировать вызовы</string>
     <string name="info_antispam_phone_sms">Блокировать вызовы и SMS</string>
@@ -3197,7 +3197,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="notify_daily_limit_body">Нажмите для настройки.</string>
     <string name="notify_daily_limit_title">Расход за сегодня %s</string>
     <string name="notify_daily_limit_title_for_slotnum">Расход за сегодня %2$s на %1$s</string>
-    <string name="notify_diving_mode_exception_close">Режим погружения успешно отключен</string>
+    <string name="notify_diving_mode_exception_close">Режим погружения успешно отключён</string>
     <string name="notify_diving_mode_exception_close_fail">"Ошибка SIM-карты. Не удалось отключить режим погружения."</string>
     <string name="notify_diving_mode_exception_open_fail">"Ошибка SIM-карты. Не удалось отключить режим погружения."</string>
     <string name="notify_month_traffic_body">Настройте лимит трафика, чтобы избежать перерасхода.</string>
@@ -3636,7 +3636,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_scan_result_safe">Оптимизация не требуется</string>
     <string name="power_center_speed_mode_dialog_text">Скоростной режим повышает производительность устройства, при этом увеличиваются нагрев и расход батареи. Избегайте длительного использования режима.</string>
     <string name="power_center_speed_mode_dialog_title">Скоростной режим</string>
-    <string name="power_center_speed_mode_dialog_warning">Скоростной режим будет отключен автоматически при уровне заряда ниже %s</string>
+    <string name="power_center_speed_mode_dialog_warning">Скоростной режим будет отключён автоматически при уровне заряда ниже %s</string>
     <string name="power_center_speed_mode_enter_noti_btn_text">Отключить</string>
     <string name="power_center_speed_mode_enter_noti_summary">Повышенный нагрев и расход батареи</string>
     <string name="power_center_speed_mode_enter_noti_title">Переключение в скоростной режим</string>
@@ -5551,9 +5551,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_dark_mode">Некоторые элементы отображаются неправильно</string>
     <string name="title_data_flow">Управление трафиком</string>
     <string name="title_data_flow_monitor">Монитор трафика включён</string>
-    <string name="title_dev_model_off">Режим разработчика отключен</string>
+    <string name="title_dev_model_off">Режим разработчика отключён</string>
     <string name="title_dev_no">Режим разработчика включён</string>
-    <string name="title_dev_yes">Режим разработчика отключен</string>
+    <string name="title_dev_yes">Режим разработчика отключён</string>
     <string name="title_device_not_root">ROOT-доступ запрещен</string>
     <string name="title_do_not_disturb">Не слышите звонков?</string>
     <string name="title_eye_shield">Цвета на экране выглядят неправильно?</string>
@@ -5568,14 +5568,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_garbage_clean">Размер кэша приложений достиг %s</string>
     <string name="title_garbage_less">Размер кэша приложений в норме</string>
     <string name="title_garbage_lib">Обновить базы очистки</string>
-    <string name="title_install_virus_no">Монитор установки отключен</string>
+    <string name="title_install_virus_no">Монитор установки отключён</string>
     <string name="title_install_virus_yes">Монитор установки включён</string>
     <string name="title_like">Нравится</string>
     <string name="title_limit_traffic_per_day">Суточный лимит</string>
     <string name="title_mifi_insurance">Расширенная гарантия</string>
     <string name="title_miui_update">Доступно обновление</string>
     <string name="title_miui_update_latest">Обновление MIUI не требуется</string>
-    <string name="title_mms_no">Антиспам отключен</string>
+    <string name="title_mms_no">Антиспам отключён</string>
     <string name="title_mms_yes">Антиспам включён</string>
     <string name="title_more_setting">Дополнительные настройки</string>
     <string name="title_network_switch">Сетевое подключение</string>

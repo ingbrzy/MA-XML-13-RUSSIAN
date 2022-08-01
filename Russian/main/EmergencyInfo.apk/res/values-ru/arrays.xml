@@ -166,13 +166,13 @@
         <item>720p, 1080p (два экрана)</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>64 КБ</item>
         <item>256 КБ</item>
         <item>1 МБ</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>64 КБ на буфер</item>
         <item>256 КБ на буфер</item>
         <item>1 МБ на буфер</item>
@@ -180,7 +180,7 @@
         <item>8 МБ на буфер</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>64 КБ</item>
         <item>256 КБ</item>
         <item>1 МБ</item>

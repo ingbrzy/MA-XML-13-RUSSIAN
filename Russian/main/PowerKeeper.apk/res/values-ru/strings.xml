@@ -315,7 +315,7 @@
     <string name="sleepmode_privacy_content">Функции требуется доступ к информации о системе и устройстве. Эта информация не будет загружена на наши серверы.</string>
     <string name="sleepmode_privacy_link">Подробнее о конфиденциальности</string>
     <string name="sleepmode_privacy_title">Режим сна</string>
-    <string name="softbank_high_temp_toast_time_10min">Фонарик отключен для избежания перегрева</string>
+    <string name="softbank_high_temp_toast_time_10min">Фонарик отключён для избежания перегрева</string>
     <string name="softbank_high_temp_toast_time_4min">Вспышка отключена для избежания перегрева</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>

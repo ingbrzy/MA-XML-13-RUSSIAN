@@ -47,7 +47,7 @@
     <string name="alarm_ascending_mode_summary">Громкость будильника будет постепенно расти до заданного уровня</string>
     <string name="alarm_ascending_mode_title">Нарастание громкости</string>
     <string name="alarm_clock_more_setting">Настройки</string>
-    <string name="alarm_disabled">Отключен</string>
+    <string name="alarm_disabled">Отключён</string>
     <string name="alarm_in_silent_mode_title">Будильник в режиме \"Без звука\"</string>
     <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов, установленных в часах.</string>
     <string name="alarm_label_hint">Будильник</string>
@@ -63,7 +63,7 @@
     <string name="alarm_volume_summary">Настройка громкости будильника</string>
     <string name="alarm_volume_title">Громкость звонка</string>
     <string name="alarmclock_empty_text">Нет будильников</string>
-    <string name="alarmclock_silent_hint">Звук будильника отключен</string>
+    <string name="alarmclock_silent_hint">Звук будильника отключён</string>
     <string name="alert">Мелодия</string>
     <string name="alert_page_desc">Нажмите и удерживайте, затем проведите вверх, чтобы выключить будильник</string>
     <string name="alert_ringtone">Мелодия будильника</string>
@@ -182,7 +182,7 @@
     <string name="evening">После полудня</string>
     <string name="every_day">Ежедневно</string>
     <string name="expand_button_title">Дополнительно</string>
-    <string name="expired_timers_dismissed">Таймер отключен</string>
+    <string name="expired_timers_dismissed">Таймер отключён</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>

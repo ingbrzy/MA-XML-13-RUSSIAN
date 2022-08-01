@@ -1100,7 +1100,7 @@ ID:%s
     <string name="show_download_manager">Загрузки</string>
     <string name="show_more">Показать больше %s</string>
     <string name="shuffle_music">Случайный порядок</string>
-    <string name="shuffle_off_notif">Случайный порядок отключен.</string>
+    <string name="shuffle_off_notif">Случайный порядок отключён.</string>
     <string name="shuffle_on_notif">Случайный порядок включён.</string>
     <string name="shut_down_sleep_mode">Выключить</string>
     <string name="sign_in">Войти</string>
@@ -1110,7 +1110,7 @@ ID:%s
     <string name="sleep_custom">Настроить</string>
     <string name="sleep_mode">Таймер сна</string>
     <string name="sleep_mode_cancel">Отмена</string>
-    <string name="sleep_mode_canceled">Спящий режим отключен</string>
+    <string name="sleep_mode_canceled">Спящий режим отключён</string>
     <string name="sleep_mode_close">Закрыть</string>
     <string name="sleep_mode_ok">ОК</string>
     <string name="sleep_mode_one">воспроизводится</string>
@@ -1320,7 +1320,7 @@ ID:%s
     <string name="toast_normal_songs_for_stream">Качество потоковой передачи установлено в Нормальное</string>
     <string name="toast_removed_from_presets">Удалено из избранных</string>
     <string name="toast_sleep_mode">Радио будет отключено через %s</string>
-    <string name="toast_sleep_mode_exit">Таймер сна отключен</string>
+    <string name="toast_sleep_mode_exit">Таймер сна отключён</string>
     <string name="toast_uhd_songs_for_download">Качество загрузки установлено в Высокое</string>
     <string name="toast_uhd_songs_for_stream">Качество потоковой передачи установлено в Высокое</string>
     <string name="today">Сегодня</string>

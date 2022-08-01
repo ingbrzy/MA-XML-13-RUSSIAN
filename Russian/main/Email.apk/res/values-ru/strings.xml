@@ -1606,7 +1606,7 @@
     <string name="ser_resp_err_map_or">%1$s или %2$s</string>
     <string name="ser_resp_err_map_pserr">Неверный пароль</string>
     <string name="ser_resp_err_map_serclosed">Сначала включите %s в почтовом веб-клиенте</string>
-    <string name="ser_resp_err_map_serclosed_info">%s отключен</string>
+    <string name="ser_resp_err_map_serclosed_info">%s отключён</string>
     <string name="ser_resp_err_map_ssl">Включите переключатель SSL в настройках вручную</string>
     <string name="server_cet_button">Доверять этому сертификату</string>
     <string name="server_cet_cert_data">"Срок действия: "</string>

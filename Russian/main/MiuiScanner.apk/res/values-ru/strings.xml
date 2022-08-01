@@ -347,7 +347,7 @@
     <string name="kuaidi100_data">Обеспечено Kuaidi 100</string>
     <string name="label_choose_picture">Выбор изображения</string>
     <string name="label_flash_light">Вспышка</string>
-    <string name="label_flash_light_off">Фонарик отключен</string>
+    <string name="label_flash_light_off">Фонарик отключён</string>
     <string name="label_flash_light_on">Фонарик включён</string>
     <string name="language_entry_chinese_cn">Китайский (упрощенный)</string>
     <string name="language_entry_english">Английский</string>
@@ -379,7 +379,7 @@
     <string name="miracast_connecting">Подключение…</string>
     <string name="miracast_details">Для подключения отсканируйте QR-код</string>
     <string name="miracast_message">Подключиться к %s?</string>
-    <string name="miracast_switch_off">Беспроводной дисплей отключен</string>
+    <string name="miracast_switch_off">Беспроводной дисплей отключён</string>
     <string name="miracast_switch_tip">Включите беспроводной дисплей для использования этой функции</string>
     <string name="mishop">Mi Store</string>
     <string name="miuix_access_state_desc">Выбрано</string>

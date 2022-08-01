@@ -395,7 +395,7 @@ ID: %s
     <string name="download_auto_after_favorite_no_vip_summary">Автоматически загружать избранные треки (кроме платных)</string>
     <string name="download_auto_after_favorite_summary">Автоматически загружать избранные треки</string>
     <string name="download_auto_after_favorite_title">Загрузка избранных</string>
-    <string name="download_auto_cancel">Режим загрузки избранных отключен</string>
+    <string name="download_auto_cancel">Режим загрузки избранных отключён</string>
     <string name="download_auto_message">Избранные треки будут автоматически загружаться при активной сети Wi-Fi. Вы можете отключить загрузку в настройках.</string>
     <string name="download_auto_when_free_network">Загрузка только по Wi-Fi</string>
     <string name="download_auto_when_free_network_summary">Дополнительные настройки для избранных треков</string>
@@ -1440,7 +1440,7 @@ ID: %s
     <string name="skip">Пропустить</string>
     <string name="skip_query_account">Пропустить</string>
     <string name="sleep_mode">Таймер сна</string>
-    <string name="sleep_mode_canceled">Таймер сна отключен</string>
+    <string name="sleep_mode_canceled">Таймер сна отключён</string>
     <string name="sleep_mode_summary">Остановить плеер через заданное время</string>
     <string name="sleep_mode_title">Таймер сна</string>
     <string name="sliding_pro_center">PRO центр</string>

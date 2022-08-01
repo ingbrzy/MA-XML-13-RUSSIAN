@@ -49,7 +49,7 @@
     <string name="device_locked">Устройство заблокировано</string>
     <string name="device_lost">Это устройство потеряно</string>
     <string name="disable_find_device_error">Не удалось отключить Поиск устройства. %1$s</string>
-    <string name="disable_find_device_success">Поиск устройства отключен</string>
+    <string name="disable_find_device_success">Поиск устройства отключён</string>
     <string name="doing_extra_login_steps">Проверка входа…</string>
     <string name="early_morning">Утро</string>
     <string name="emergency_call">Экстренная помощь</string>

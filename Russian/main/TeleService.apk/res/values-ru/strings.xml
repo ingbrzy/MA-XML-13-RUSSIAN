@@ -147,13 +147,13 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li><br/><br/> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
-    <string name="accessibility_ethernet_disconnected">Ethernet отключен.</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet отключён.</string>
     <string name="accessibility_manual_zen_less_time">Уменьшить время.</string>
     <string name="accessibility_manual_zen_more_time">Увеличить время.</string>
     <string name="accessibility_no_calling">Нет вызова.</string>
     <string name="accessibility_no_data">Сигнал передачи данных отсутствует.</string>
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
-    <string name="accessibility_no_wifi">Wi-Fi отключен.</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключён.</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
     <string name="accessibility_phone_signal_full">Сигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
@@ -469,7 +469,7 @@
     <string name="callFailed_concurrent_calls_not_possible">Вызов завершен из-за невозможности одновременных вызовов.</string>
     <string name="callFailed_conditional_IE_error">Условная ошибка IE</string>
     <string name="callFailed_congestion">Сеть занята</string>
-    <string name="callFailed_data_disabled">Звонок завершен, так как отключен режим мобильных данных.</string>
+    <string name="callFailed_data_disabled">Звонок завершен, так как отключён режим мобильных данных.</string>
     <string name="callFailed_data_limit_reached">Достигнут лимит трафика мобильных данных. Вызов завершен.</string>
     <string name="callFailed_data_limit_reached_description">Вызов завершен, так как достигнут лимит трафика мобильных данных.</string>
     <string name="callFailed_destination_out_of_order">Приёмник в нерабочем состоянии</string>
@@ -686,8 +686,8 @@
     <string name="cell_bc_sms_enable">Широковещательные SMS службы включены</string>
     <string name="cell_broadcast_settings">Экстренные оповещения</string>
     <string name="cell_broadcast_sms">Широковещательные SMS службы</string>
-    <string name="cell_data_off_content_description">Мобильный интернет отключен</string>
-    <string name="cf_setting_mobile_data_alert">Включите мобильный интернет и убедитесь, что Wi-Fi отключен</string>
+    <string name="cell_data_off_content_description">Мобильный интернет отключён</string>
+    <string name="cf_setting_mobile_data_alert">Включите мобильный интернет и убедитесь, что Wi-Fi отключён</string>
     <string name="cf_setting_mobile_data_roaming_alert">Включите интернет в роуминге</string>
     <string name="cfb_title">Если номер занят</string>
     <string name="cfnrc_title">Если абонент недоступен</string>
@@ -1017,7 +1017,7 @@
     <string name="disable_fdn_ok">Включить разрешенные номера</string>
     <string name="disable_overlays">Откл. аппарат. наложения</string>
     <string name="disable_overlays_summary">Всегда использовать GPU при компоновке экрана</string>
-    <string name="disable_pin_ok">Запрос PIN SIM-карты отключен</string>
+    <string name="disable_pin_ok">Запрос PIN SIM-карты отключён</string>
     <string name="disable_sim_pin">Отключить запрос PIN SIM-карты</string>
     <string name="disabled">Отключено</string>
     <string name="disabled_by_admin">Отключено администратором</string>
@@ -1499,7 +1499,7 @@
     <string name="local_backup_password_toast_validation_failure">Не удалось установить пароль для резервной копии</string>
     <string name="local_disable">Местные новости отключены</string>
     <string name="local_enable">Местные новости включены</string>
-    <string name="local_weather_disable">Местный прогноз погоды отключен</string>
+    <string name="local_weather_disable">Местный прогноз погоды отключён</string>
     <string name="local_weather_enable">Местный прогноз погоды включён</string>
     <string name="location">Местоположение</string>
     <string name="lodgings_disable">Аренда отключена</string>
@@ -1633,7 +1633,7 @@
     <string name="mobile_data_settings_summary">Доступ в интернет по мобильной сети</string>
     <string name="mobile_data_settings_title">Мобильный интернет</string>
     <string name="mobile_data_status_no_plan_subtext">Лимит трафика исчерпан</string>
-    <string name="mobile_data_status_roaming_turned_off_subtext">Интернет в роуминге отключен</string>
+    <string name="mobile_data_status_roaming_turned_off_subtext">Интернет в роуминге отключён</string>
     <string name="mobile_data_status_roaming_turned_on_subtext">Интернет в роуминге включён</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Вы в роуминге, тарифный план активен</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Вы в роуминге, требуется тарифный план</string>
@@ -1834,7 +1834,7 @@
     <string name="network_settings_auto_select_title">Выбрать сеть вручную?</string>
     <string name="network_settings_automatically_option">Автовыбор предпочтительной сети (%s)</string>
     <string name="network_settings_confirm_message">Сеть может стать недоступной. Вы уверены?</string>
-    <string name="network_settings_data_connected_change">Мобильный интернет будет автоматически отключен на время поиска доступных сетей.</string>
+    <string name="network_settings_data_connected_change">Мобильный интернет будет автоматически отключён на время поиска доступных сетей.</string>
     <string name="network_settings_duringcall">Операция недоступна во время вызова</string>
     <string name="network_settings_forbidden">%s (запрещено)</string>
     <string name="network_settings_information">Отключить мобильный интернет?</string>
@@ -2105,7 +2105,7 @@
     <string name="preference_data_usage_summary">Установка тарифного плана для контроля трафика</string>
     <string name="preference_data_usage_title">Настройки трафика</string>
     <string name="preference_dial_pad_touch_tone_default">По умолчанию</string>
-    <string name="preference_dial_pad_touch_tone_off">Отключен</string>
+    <string name="preference_dial_pad_touch_tone_off">Отключён</string>
     <string name="preference_dial_pad_touch_tone_piano">Фортепиано</string>
     <string name="preference_dial_pad_touch_tone_title">Звук при наборе номера</string>
     <string name="preference_permission_related">Разрешения</string>
@@ -2283,7 +2283,7 @@ SIM-карта будет заблокирована при неудачной �
     <string name="radioInfo_phone_offhook">Вызов</string>
     <string name="radioInfo_phone_ringing">Звонок</string>
     <string name="radioInfo_roaming_in">Роуминг</string>
-    <string name="radioInfo_roaming_not">Роуминг отключен</string>
+    <string name="radioInfo_roaming_not">Роуминг отключён</string>
     <string name="radioInfo_service_emergency">Только экстренные вызовы</string>
     <string name="radioInfo_service_in">В зоне обслуживания</string>
     <string name="radioInfo_service_off">Сеть отключена</string>
@@ -2404,7 +2404,7 @@ UT-интерфейс: %5$s"</string>
     <string name="retail_demo_reset_message">Чтобы сбросить настройки в деморежиме, введите пароль.</string>
     <string name="retail_demo_reset_next">Далее</string>
     <string name="retail_demo_reset_title">Требуется пароль</string>
-    <string name="retail_directory_disable">Торговый каталог отключен</string>
+    <string name="retail_directory_disable">Торговый каталог отключён</string>
     <string name="retail_directory_enable">Торговый каталог включён</string>
     <string name="retry_btn">Повторить</string>
     <string name="reverting_settings">Возврат к предыдущим настройкам…</string>
@@ -3261,7 +3261,7 @@ UT-интерфейс: %5$s"</string>
     <string name="xcap_setting_summary">Запрет вызовов, голосовая почта, переадресация и ожидание вызовов</string>
     <string name="xcap_setting_title">Настройки службы вызовов</string>
     <string name="yesterday">Вчера</string>
-    <string name="zen_alarm_warning">Следующий будильник: %1$s. Звук отключен.</string>
+    <string name="zen_alarm_warning">Следующий будильник: %1$s. Звук отключён.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник: %1$s. Включите звук.</string>
     <string name="zen_interruption_level_priority">Только важные</string>
     <string name="zen_mode_duration_always_prompt_title">Всегда спрашивать</string>

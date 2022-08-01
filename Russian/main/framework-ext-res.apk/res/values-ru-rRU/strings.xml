@@ -62,9 +62,9 @@
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
     <string name="blues">Блюз</string>
-    <string name="bluetooth_close">Bluetooth отключен этим приложением</string>
-    <string name="bluetooth_disable_notification_content">Bluetooth отключен %s</string>
-    <string name="bluetooth_disable_notification_title">Bluetooth отключен</string>
+    <string name="bluetooth_close">Bluetooth отключён этим приложением</string>
+    <string name="bluetooth_disable_notification_content">Bluetooth отключён %s</string>
+    <string name="bluetooth_disable_notification_title">Bluetooth отключён</string>
     <string name="bluetooth_enable_notification_content">Bluetooth включён %s</string>
     <string name="bluetooth_enable_notification_title">Bluetooth включён</string>
     <string name="bluetooth_open">Bluetooth включён этим приложением</string>
@@ -137,9 +137,9 @@
     <string name="device_xiaomi">Mi Phone</string>
     <string name="dewdrops">Утренняя роса</string>
     <string name="digitaluniverse">Цифровая вселенная (стерео)</string>
-    <string name="disable_nfc">NFC отключен для беспроводной зарядки</string>
+    <string name="disable_nfc">NFC отключён для беспроводной зарядки</string>
     <string name="disable_nfc_haptic_reverse">NFC и вибрация отключены для обратной беспроводной зарядки</string>
-    <string name="disable_nfc_reverse">NFC отключен для обратной беспроводной зарядки</string>
+    <string name="disable_nfc_reverse">NFC отключён для обратной беспроводной зарядки</string>
     <string name="dock_tip_floatwindow">Перетащите панель к краю экрана, чтобы перейти в режим разделения экрана</string>
     <string name="dock_tip_splitscreen_landscape_drag">Перетащите панель горизонтально, чтобы поменять местами окна приложений</string>
     <string name="dock_tip_splitscreen_landscape_float">Перетащите панель вниз, чтобы переключиться на плавающее окно</string>
@@ -263,7 +263,7 @@
     <string name="leisure">Отдых</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="livetalk_not_enable">Пакет пополнения баланса отключен</string>
+    <string name="livetalk_not_enable">Пакет пополнения баланса отключён</string>
     <string name="location_usage_restricted_body">Нажмите, чтобы разрешить</string>
     <string name="location_usage_restricted_title">Геолокация в фоне запрещена</string>
     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>

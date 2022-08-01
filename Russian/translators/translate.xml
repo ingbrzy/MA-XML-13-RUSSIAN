@@ -44,13 +44,13 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li><br/><br/> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Цветокоррекция</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
-    <string name="accessibility_ethernet_disconnected">Ethernet отключен.</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet отключён.</string>
     <string name="accessibility_manual_zen_less_time">Уменьшить время.</string>
     <string name="accessibility_manual_zen_more_time">Увеличить время.</string>
     <string name="accessibility_no_calling">Нет вызова.</string>
     <string name="accessibility_no_data">Сигнал передачи данных отсутствует.</string>
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
-    <string name="accessibility_no_wifi">Wi-Fi отключен.</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключён.</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
     <string name="accessibility_phone_signal_full">Сигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
@@ -301,7 +301,7 @@
     <string name="carrier_network_change_mode">Изменение сети оператора</string>
     <string name="category_personal">Личный профиль</string>
     <string name="category_work">Рабочий профиль</string>
-    <string name="cell_data_off_content_description">Мобильный интернет отключен</string>
+    <string name="cell_data_off_content_description">Мобильный интернет отключён</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_length_format">%1$s назад</string>
@@ -332,7 +332,7 @@
     <string name="common_signin_button_text">Войти</string>
     <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
     <string name="confirm">ОК</string>
-    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включен этот параметр.</string>
+    <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="connected_to_metered_access_point">Подключено к сети с тарификацией</string>
     <string name="connected_via_app">Подключено через %1$s</string>
@@ -570,7 +570,7 @@ ID: %s
     <string name="item_view_role_description">Вкладка</string>
     <string name="just_a_sec">Подождите…</string>
     <string name="keep_screen_on">Не выключать экран</string>
-    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
+    <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keywords_alarms_and_reminders">расписание, будильник, напоминание, часы</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
     <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
@@ -651,7 +651,7 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Отмена</string>
     <string name="miuix_appcompat_action_mode_select_all">Выбрать все</string>
     <string name="miuix_appcompat_action_mode_title_empty">Выбор</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Еще</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Ещё</string>
     <string name="miuix_appcompat_cancel_description">Отмена</string>
     <string name="miuix_appcompat_cloud_state_disabled">Синхронизация с облаком отключена</string>
     <string name="miuix_appcompat_cloud_state_finished">Синхронизация с облаком завершена</string>
@@ -725,7 +725,7 @@ mm"</string>
     <string name="month_september">сентября</string>
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
-    <string name="more">Еще</string>
+    <string name="more">Ещё</string>
     <string name="morning">Утро</string>
     <string name="mr_button_content_description">Трансляция</string>
     <string name="mr_cast_button_connected">Трансляция. Подключено</string>
@@ -851,7 +851,7 @@ mm"</string>
     <string name="passport_error_illegal_pwd">Неверный пароль</string>
     <string name="passport_error_length_limit">Текст слишком длинный</string>
     <string name="passport_error_network">Не удалось подключиться к сети</string>
-    <string name="passport_error_no_password_user">Вы еще не задали пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
     <string name="passport_error_phone">Неверный номер телефона</string>
     <string name="passport_error_phone_error">Неверный номер телефона</string>
     <string name="passport_error_server">Ошибка сервера</string>
@@ -1377,12 +1377,12 @@ mm"</string>
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
     <string name="wifi_enhanced_mac_randomization">Непостоянная рандомизация MAC-адреса</string>
-    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться при каждом подключении к Wi-Fi сети, в которой доступна рандомизация MAC-адреса.</string>
+    <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включён, MAC-адрес устройства будет меняться при каждом подключении к Wi-Fi сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_hotspot_switch_off_text">Откл.</string>
     <string name="wifi_hotspot_switch_on_text">Вкл.</string>
-    <string name="wifi_is_off">Wi-Fi отключен</string>
+    <string name="wifi_is_off">Wi-Fi отключён</string>
     <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
     <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
@@ -1393,7 +1393,7 @@ mm"</string>
     <string name="wifi_not_in_range">Недоступно</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Нажмите, чтобы открыть настройки.</string>
-    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включен</string>
+    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct включён</string>
     <string name="wifi_p2p_enter_pin_message">Введите PIN-код:</string>
     <string name="wifi_p2p_failed_message">Не удалось запустить Wi-Fi Direct.</string>
     <string name="wifi_p2p_frequency_conflict_message">При подключении к устройству %1$s телефон будет временно отключаться от сети Wi-Fi</string>
@@ -1402,7 +1402,7 @@ mm"</string>
     <string name="wifi_p2p_invitation_to_connect_title">Приглашение к подключению</string>
     <string name="wifi_p2p_show_pin_message">PIN-код:</string>
     <string name="wifi_p2p_to_message">Кому:</string>
-    <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
+    <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключён.</string>
     <string name="wifi_passpoint_expired">Срок действия истек</string>
     <string name="wifi_remembered">Сохранено</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
@@ -1463,7 +1463,7 @@ mm"</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi‑Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi‑Fi указывать в журнале RSSI для каждого SSID</string>
     <string name="wifi_wakeup_enabled_content">Доступна сохраненная сеть %1$s.</string>
-    <string name="wifi_wakeup_enabled_title">Wi-Fi включен автоматически</string>
+    <string name="wifi_wakeup_enabled_title">Wi-Fi включён автоматически</string>
     <string name="wifi_wakeup_onboarding_action_disable">Не включать снова</string>
     <string name="wifi_wakeup_onboarding_subtext">Когда будет доступна сохраненная сеть с хорошим сигналом</string>
     <string name="wifi_wakeup_onboarding_title">Wi-Fi включится автоматически</string>
@@ -1546,7 +1546,7 @@ mm"</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
     <string name="yesterday">Вчера</string>
-    <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключен.</string>
+    <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключён.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник %1$s. Чтобы услышать сигнал, включите звук.</string>
     <string name="zen_interruption_level_priority">Только приоритетные</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>

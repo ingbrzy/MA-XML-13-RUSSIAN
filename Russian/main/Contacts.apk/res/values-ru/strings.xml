@@ -151,7 +151,7 @@
     <string name="bh_current_no_sim">SIM-карта отсутствует</string>
     <string name="bh_current_sim_number">Текущий номер телефона на SIM-карте %1$s</string>
     <string name="bh_data_in_real_card"><Data>&lt;font color =#FF6666>Использование мобильного интернета на SIM-карте&lt;/font></Data></string>
-    <string name="bh_data_switch_off"><Data>&lt;font color =#FF6666>Мобильный интернет отключен&lt;/font></Data></string>
+    <string name="bh_data_switch_off"><Data>&lt;font color =#FF6666>Мобильный интернет отключён&lt;/font></Data></string>
     <string name="bh_day">" д."</string>
     <string name="bh_delay_hint">Информация может обновляться с задержкой. Свяжитесь с вашим оператором связи, чтобы получить актуальную информацию.</string>
     <string name="bh_delete">Удалить</string>

@@ -167,7 +167,7 @@
     <string name="accessibility_service_screen_control_description">Чтение контента на экране и отображение контента поверх других приложений.</string>
     <string name="accessibility_service_screen_control_title">Просмотр и управление экраном</string>
     <string name="accessibility_service_warning_description">Полный контроль над устройством для реализации специальных возможностей.</string>
-    <string name="accessibility_shortcut_disabling_service">Сервис %1$s отключен</string>
+    <string name="accessibility_shortcut_disabling_service">Сервис %1$s отключён</string>
     <string name="accessibility_shortcut_enabling_service">Сервис %1$s включён</string>
     <string name="accessibility_shortcut_menu_item_status_off">ОТКЛ.</string>
     <string name="accessibility_shortcut_menu_item_status_on">ВКЛ.</string>
@@ -503,7 +503,7 @@
     <string name="dialog_alert_title">Внимание</string>
     <string name="disable_accessibility_shortcut">Деактивировать быстрое включение</string>
     <string name="disable_tether_notification_message">Свяжитесь с администратором для подробностей</string>
-    <string name="disable_tether_notification_title">Модем отключен</string>
+    <string name="disable_tether_notification_title">Модем отключён</string>
     <string name="dismiss_action">Отклонить</string>
     <string name="display_manager_built_in_display_name">Встроенный экран</string>
     <string name="display_manager_hdmi_display_name">Экран HDMI</string>
@@ -676,10 +676,10 @@
     <string name="fingerprint_error_hw_not_available">Сканер отпечатков недоступен</string>
     <string name="fingerprint_error_hw_not_present">На этом устройстве нет сканера отпечатков</string>
     <string name="fingerprint_error_lockout">Слишком много попыток. Повторите позже.</string>
-    <string name="fingerprint_error_lockout_permanent">Слишком много попыток. Сканер отпечатков отключен.</string>
+    <string name="fingerprint_error_lockout_permanent">Слишком много попыток. Сканер отпечатков отключён.</string>
     <string name="fingerprint_error_no_fingerprints">Отпечатки пальцев отсутствуют</string>
     <string name="fingerprint_error_no_space">Чтобы сохранить новый отпечаток, удалите существующий</string>
-    <string name="fingerprint_error_security_update_required">Сканер временно отключен.</string>
+    <string name="fingerprint_error_security_update_required">Сканер временно отключён.</string>
     <string name="fingerprint_error_timeout">Превышено время ожидания. Повторите попытку.</string>
     <string name="fingerprint_error_unable_to_process">Повторите попытку.</string>
     <string name="fingerprint_error_user_canceled">Распознавание отпечатка отменено пользователем</string>
@@ -1179,7 +1179,7 @@
     <string name="move_button_text">Нажмите кнопку заголовка для перемещения всего окна</string>
     <string name="multi_conn_to_same_pdn_not_allowed"/>
     <string name="music_recognition_manager_service">Служба управления распознаванием музыки</string>
-    <string name="muted_by">Звук отключен приложением \"%1$s\"</string>
+    <string name="muted_by">Звук отключён приложением \"%1$s\"</string>
     <string name="nas_upgrade_notification_content">Рекомендации для действий и ответов теперь предоставляются расширенными уведомлениями. Адаптивные уведомления Android больше не поддерживаются.</string>
     <string name="nas_upgrade_notification_disable_action">Отключить</string>
     <string name="nas_upgrade_notification_enable_action">ОК</string>
@@ -1769,7 +1769,7 @@
     <string name="ringtone_silent">Без звука</string>
     <string name="ringtone_unknown">Неизвестно</string>
     <string name="roamingText0">Индикатор роуминга включён</string>
-    <string name="roamingText1">Индикатор роуминга отключен</string>
+    <string name="roamingText1">Индикатор роуминга отключён</string>
     <string name="roamingText10">Роуминг – частичная функциональность службы</string>
     <string name="roamingText11">Баннер роуминга включён</string>
     <string name="roamingText12">Баннер роуминга выключен</string>
@@ -1854,7 +1854,7 @@
     <string name="shareactionprovider_share_with">Открыть доступ:</string>
     <string name="shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="sharing_remote_bugreport_notification_title">Отправка отчёта об ошибке</string>
-    <string name="shortcut_disabled_reason_unknown">Ярлык отключен</string>
+    <string name="shortcut_disabled_reason_unknown">Ярлык отключён</string>
     <string name="shortcut_restore_not_supported">Не удалось восстановить ярлык, т.к. приложение не поддерживает резервное копирование</string>
     <string name="shortcut_restore_signature_mismatch">Не удалось восстановить ярлык, т.к. подпись приложения некорректна</string>
     <string name="shortcut_restore_unknown_issue">Не удалось восстановить ярлык</string>
@@ -1865,7 +1865,7 @@
     <string name="shutdown_progress">Выключение…</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
     <string name="silent_mode_ring">Звонок включён</string>
-    <string name="silent_mode_silent">Звонок отключен</string>
+    <string name="silent_mode_silent">Звонок отключён</string>
     <string name="silent_mode_vibrate">Вибросигнал</string>
     <string name="sim_added_message">Перезагрузите устройство для доступа к мобильной сети.</string>
     <string name="sim_added_title">SIM-карта добавлена</string>
@@ -1921,7 +1921,7 @@
     <string name="storage_usb_drive">USB-накопитель</string>
     <string name="storage_usb_drive_label">USB-накопитель %s</string>
     <string name="submit">Отправить</string>
-    <string name="suspended_widget_accessibility">Виджет %1$s отключен</string>
+    <string name="suspended_widget_accessibility">Виджет %1$s отключён</string>
     <string name="sync_binding_label">Синхр.</string>
     <string name="sync_do_nothing">Ничего не делать</string>
     <string name="sync_really_delete">Удалить</string>
@@ -1982,7 +1982,7 @@
     <string name="usb_accessory_notification_title">USB-устройство подключено</string>
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_charging_notification_title">Зарядка через USB</string>
-    <string name="usb_contaminant_detected_message">USB-порт автоматически отключен. Нажмите для подробностей.</string>
+    <string name="usb_contaminant_detected_message">USB-порт автоматически отключён. Нажмите для подробностей.</string>
     <string name="usb_contaminant_detected_title">В USB-порт попала жидкость или грязь</string>
     <string name="usb_contaminant_not_detected_message">Жидкость или грязь внутри отсутствуют.</string>
     <string name="usb_contaminant_not_detected_title">USB-порт готов к использованию</string>
@@ -2035,7 +2035,7 @@
     <string name="volume_alarm">Громкость сигнала предупреждения</string>
     <string name="volume_bluetooth_call">Громкость при разговоре</string>
     <string name="volume_call">Громкость при разговоре</string>
-    <string name="volume_dialog_ringer_guidance_silent">Отключен звук для вызовов и уведомлений</string>
+    <string name="volume_dialog_ringer_guidance_silent">Отключён звук для вызовов и уведомлений</string>
     <string name="volume_dialog_ringer_guidance_vibrate">Включена вибрация для вызовов и уведомлений</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_incall">Разговор</string>
@@ -2145,7 +2145,7 @@
     <string name="wifi_p2p_invitation_to_connect_title">Приглашение к подключению</string>
     <string name="wifi_p2p_show_pin_message">PIN-код:</string>
     <string name="wifi_p2p_to_message">Кому:</string>
-    <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
+    <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключён.</string>
     <string name="wifi_softap_config_change">Изменение настроек точки доступа</string>
     <string name="wifi_softap_config_change_detailed">Устройство поддерживает работу только на 5 ГГц. Полоса 5 ГГц будет использоваться при возможности.</string>
     <string name="wifi_softap_config_change_summary">Полоса точки доступа изменена.</string>

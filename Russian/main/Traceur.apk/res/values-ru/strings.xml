@@ -35,13 +35,13 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li><br/><br/> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Цветокоррекция</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
-    <string name="accessibility_ethernet_disconnected">Ethernet отключен.</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet отключён.</string>
     <string name="accessibility_manual_zen_less_time">Меньше времен.</string>
     <string name="accessibility_manual_zen_more_time">Больше времени.</string>
     <string name="accessibility_no_calling">Нет вызова.</string>
     <string name="accessibility_no_data">Сигнал передачи данных отсутствует.</string>
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
-    <string name="accessibility_no_wifi">Wi-Fi отключен.</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключён.</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
     <string name="accessibility_phone_signal_full">Cигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
@@ -244,7 +244,7 @@
     <string name="categories">Категории</string>
     <string name="category_personal">Личный профиль</string>
     <string name="category_work">Рабочий профиль</string>
-    <string name="cell_data_off_content_description">Мобильный интернет отключен</string>
+    <string name="cell_data_off_content_description">Мобильный интернет отключён</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_length_format">%1$s назад</string>
@@ -828,7 +828,7 @@
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_hotspot_switch_off_text">Откл.</string>
     <string name="wifi_hotspot_switch_on_text">Вкл.</string>
-    <string name="wifi_is_off">Wi-Fi отключен</string>
+    <string name="wifi_is_off">Wi-Fi отключён</string>
     <string name="wifi_limited_connection">Ограниченное подключение</string>
     <string name="wifi_metered_label">Трафик</string>
     <string name="wifi_new_network_auto_connection">SSID Bridging - автоподключение</string>
@@ -964,7 +964,7 @@
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi без автоподключения</string>
     <string name="window_animation_scale_title">Анимация окон</string>
     <string name="window_blurs">Разрешить размытие на оконном уровне</string>
-    <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключен.</string>
+    <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключён.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник %1$s. Чтобы услышать сигнал, включите звук.</string>
     <string name="zen_interruption_level_priority">Только приоритетные</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>

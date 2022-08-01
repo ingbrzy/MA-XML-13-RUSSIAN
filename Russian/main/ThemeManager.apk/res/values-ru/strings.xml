@@ -1100,7 +1100,7 @@ mm"</string>
     <string name="resource_restore_succ">Успешно восстановлено</string>
     <string name="resource_ringtone_default">Мелодии</string>
     <string name="resource_ringtone_playing_error">Ошибка</string>
-    <string name="resource_ringtone_volume_mute">Звук отключен</string>
+    <string name="resource_ringtone_volume_mute">Звук отключён</string>
     <string name="resource_save_to_note">Сохранить в заметки</string>
     <string name="resource_search_color_hint_blue">Синий</string>
     <string name="resource_search_color_hint_green">Зелёный</string>
@@ -1296,7 +1296,7 @@ mm"</string>
     <string name="swipe_find_more">Проведите вверх для просмотра</string>
     <string name="system_aod_dialog_message">Сначала включите Активный экран в Настройках.</string>
     <string name="system_aod_dialog_positive_button">Настройки</string>
-    <string name="system_aod_dialog_title">Активный экран отключен</string>
+    <string name="system_aod_dialog_title">Активный экран отключён</string>
     <string name="system_cta_agree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
     <string name="system_cta_all_purpose">"Добро пожаловать в приложение Темы! 
 Это приложение можно использовать для управления темами, обоями, мелодиями и шрифтами. "</string>

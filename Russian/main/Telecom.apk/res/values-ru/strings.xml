@@ -36,13 +36,13 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li><br/><br/> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_ethernet_connected">Ethernet.</string>
-    <string name="accessibility_ethernet_disconnected">Ethernet отключен.</string>
+    <string name="accessibility_ethernet_disconnected">Ethernet отключён.</string>
     <string name="accessibility_manual_zen_less_time">Уменьшить время.</string>
     <string name="accessibility_manual_zen_more_time">Увеличить время.</string>
     <string name="accessibility_no_calling">Нет вызова.</string>
     <string name="accessibility_no_data">Сигнал передачи данных отсутствует.</string>
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
-    <string name="accessibility_no_wifi">Wi-Fi отключен.</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключён.</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
     <string name="accessibility_phone_signal_full">Cигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
@@ -275,7 +275,7 @@
     <string name="carrier_network_change_mode">Изменение сети оператора</string>
     <string name="category_personal">Личный профиль</string>
     <string name="category_work">Рабочий профиль</string>
-    <string name="cell_data_off_content_description">Мобильный интернет отключен</string>
+    <string name="cell_data_off_content_description">Мобильный интернет отключён</string>
     <string name="change_default_call_screening_dialog_affirmative">Использовать по умолчанию</string>
     <string name="change_default_call_screening_dialog_negative">Отмена</string>
     <string name="change_default_call_screening_dialog_title">Сделать %s приложением по умолчанию для фильтрации вызовов?</string>
@@ -1183,7 +1183,7 @@
     <string name="window_animation_scale_title">Анимация окон</string>
     <string name="window_blurs">Разрешить размытие на оконном уровне</string>
     <string name="yesterday">Вчера</string>
-    <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключен.</string>
+    <string name="zen_alarm_warning">Следующий будильник %1$s. Звук отключён.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник %1$s. Чтобы услышать сигнал, включите звук.</string>
     <string name="zen_interruption_level_priority">Только приоритетные</string>
     <string name="zen_mode_duration_always_prompt_title">Всегда спрашивать</string>

@@ -41,7 +41,7 @@
     <string name="accessibility_no_calling">Нет вызова.</string>
     <string name="accessibility_no_data">Сигнал передачи данных отсутствует.</string>
     <string name="accessibility_no_phone">Сигнал сети отсутствует.</string>
-    <string name="accessibility_no_wifi">Wi-Fi отключен.</string>
+    <string name="accessibility_no_wifi">Wi-Fi отключён.</string>
     <string name="accessibility_phone_one_bar">Сигнал сети: одно деление.</string>
     <string name="accessibility_phone_signal_full">Cигнал сети полный.</string>
     <string name="accessibility_phone_three_bars">Сигнал сети: три деления.</string>
@@ -251,7 +251,7 @@
     <string name="bt_plugin_update_dialog_title">Обновление Bluetooth</string>
     <string name="bt_plugin_update_dialog_update">Обновить</string>
     <string name="bt_plugin_update_done_dialog_exit">Применить</string>
-    <string name="bt_plugin_update_done_dialog_msg">Чтобы применить изменения, Настройки будут закрыты, а Bluetooth отключен.</string>
+    <string name="bt_plugin_update_done_dialog_msg">Чтобы применить изменения, Настройки будут закрыты, а Bluetooth отключён.</string>
     <string name="bt_plugin_update_done_dialog_title">Применение изменений</string>
     <string name="bt_plugin_update_done_toast">Успешно обновлено</string>
     <string name="bt_plugin_update_notification_updating">Обновление Bluetooth</string>
@@ -267,7 +267,7 @@
     <string name="carrier_network_change_mode">Изменение сети оператора</string>
     <string name="category_personal">Личный профиль</string>
     <string name="category_work">Рабочий профиль</string>
-    <string name="cell_data_off_content_description">Мобильный интернет отключен</string>
+    <string name="cell_data_off_content_description">Мобильный интернет отключён</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="charge_length_format">%1$s назад</string>
@@ -815,7 +815,7 @@
     <string name="power_suggestion_extend_battery">Продлите время работы батареи на %1$s</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="private_dns_broken">Частный DNS-сервер недоступен</string>
-    <string name="private_dns_mode_off">Отключен</string>
+    <string name="private_dns_mode_off">Отключён</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
     <string name="private_dns_mode_provider">Вручную</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
@@ -1270,7 +1270,7 @@
     <string name="window_blurs">Разрешить размытие на оконном уровне</string>
     <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
     <string name="yesterday">Вчера</string>
-    <string name="zen_alarm_warning">Следующий будильник в %1$s. Звук отключен.</string>
+    <string name="zen_alarm_warning">Следующий будильник в %1$s. Звук отключён.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник в %1$s. Включите звук.</string>
     <string name="zen_interruption_level_priority">Только важные</string>
     <string name="zen_mode_duration_always_prompt_title">Всегда спрашивать</string>

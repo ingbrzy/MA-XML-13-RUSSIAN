@@ -118,7 +118,7 @@
     <string name="download_introduction">Это приложение управляет всеми загрузками, включая загрузки в приложениях GetApps, Mi Видео, Обновление, Темы и Браузер.</string>
     <string name="early_morning">Утро</string>
     <string name="empty_title">" "</string>
-    <string name="enable_accessibility_canceled">Помощник отключен.</string>
+    <string name="enable_accessibility_canceled">Помощник отключён.</string>
     <string name="enable_accessibility_dialog_message">Вы включили TalkBack, нажимая на экран двумя пальцами дольше 10 секунд. TalkBack – это голосовой сервис для людей с нарушением зрения. Если вы случайно включили его, нажмите кнопку \"Отмена\", а затем дважды коснитесь экрана.</string>
     <string name="enable_accessibility_dialog_negative_btn">Отмена</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>

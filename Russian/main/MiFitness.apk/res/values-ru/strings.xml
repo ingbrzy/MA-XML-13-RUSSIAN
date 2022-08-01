@@ -1315,7 +1315,7 @@ ID:%s
     <string name="error_invalid_param">Неверный параметр</string>
     <string name="error_network">Не удалось подключиться к сети</string>
     <string name="error_nfc">Система занята. Попробуйте позже.</string>
-    <string name="error_nfc_disabled">NFC отключен</string>
+    <string name="error_nfc_disabled">NFC отключён</string>
     <string name="error_no_permission">Отсутствует разрешение</string>
     <string name="error_recharge_failed">Пополнение не удалось, попробуйте позже.</string>
     <string name="error_se_restricted">SE ограничен</string>

@@ -64,7 +64,7 @@ dd.MM"</string>
     <string name="aod_mode_preview">Предпросмотр</string>
     <string name="aod_mode_style">Стиль часов и фон</string>
     <string name="aod_mode_style_title">Дополнительные параметры</string>
-    <string name="aod_mode_summary">Отображение часов, даты, уведомлений и фоновых изображений, когда экран отключен</string>
+    <string name="aod_mode_summary">Отображение часов, даты, уведомлений и фоновых изображений, когда экран отключён</string>
     <string name="aod_mode_time_summary">Установите расписание для включения и выключения функции \"Активный экран\"</string>
     <string name="aod_mode_time_title">Расписание</string>
     <string name="aod_mode_title">Активный экран</string>
@@ -398,7 +398,7 @@ N e"</string>
     <string name="time_picker_label_minute">М</string>
     <string name="time_style">Стиль</string>
     <string name="time_style_layout">Макет</string>
-    <string name="tip_to_open_aod_mode">Активный экран отключен. Включить?</string>
+    <string name="tip_to_open_aod_mode">Активный экран отключён. Включить?</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вторник</string>

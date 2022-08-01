@@ -160,7 +160,7 @@
         <item>AUTHENTICATIONFAILED LOGIN Неверные учетные данные</item>
         <item>Ошибка входа. Неверный пароль или служба не доступна.</item>
         <item>LOGIN imap4 не поддерживается</item>
-        <item>LOGIN errno:1328, пользовательский imap отключен</item>
+        <item>LOGIN errno:1328, пользовательский imap отключён</item>
         <item>LOGIN Ошибка входа. Пользователь заблокирован.</item>
         <item>LOGIN пользователь в черном списке</item>
         <item>LOGIN Ошибка входа. Аккаунт заблокирован. Войдите в свой аккаунт через веб-браузер, чтобы подтвердить свою личность.</item>
@@ -170,12 +170,12 @@
         <item>LOGIN Ошибка входа. Аккаунт заблокирован. Войдите в свой аккаунт через веб-браузер, чтобы подтвердить свою личность.</item>
         <item>ERR Ошибка входа или неверный пароль</item>
         <item>Ошибка входа. Используйте пароль приложения для входа. Подробнее: http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
-        <item>ERR пользовательский pop3 отключен</item>
+        <item>ERR пользовательский pop3 отключён</item>
         <item>LOGIN Ошибка входа. Ошибка имени пользователя или пароля.</item>
         <item>Неверный логин или пароль</item>
         <item>IP-адрес XXXXXXX в черном списке. Переключите сеть или войдите на https://mail.sohu.com, чтобы настроить белый список IP-адресов клиента</item>
         <item>java.net.UnknownHostException: Невозможно определить хост XXXX : отсутствует адрес, связанный с именем хоста</item>
-        <item>клиент отключен, переключите статус на https://mail.sohu.com</item>
+        <item>клиент отключён, переключите статус на https://mail.sohu.com</item>
         <item>отсутствует начальный пароль, войдите на https://mail.sohu.com, чтобы сгенерировать пароль клиента</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">

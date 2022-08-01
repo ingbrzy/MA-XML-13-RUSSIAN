@@ -472,7 +472,7 @@
         <item>Без тайм-аута</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>Включён фильтр</item>
         <item>Включён</item>
     </string-array>
@@ -1360,13 +1360,13 @@
         <item>Разрешить</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>64 КБ</item>
         <item>256 КБ</item>
         <item>1 МБ</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>64 КБ на буфер</item>
         <item>256 КБ на буфер</item>
         <item>1 МБ на буфер</item>
@@ -1374,7 +1374,7 @@
         <item>8 МБ на буфер</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>64 КБ</item>
         <item>256 КБ</item>
         <item>1 МБ</item>
@@ -1382,7 +1382,7 @@
         <item>8 МБ</item>
     </string-array>
     <string-array name="select_logd_system_levels">
-        <item>Отключен</item>
+        <item>Отключён</item>
         <item>Ошибки</item>
         <item>Предупреждения</item>
         <item>Информационный</item>
