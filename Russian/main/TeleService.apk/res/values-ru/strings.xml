@@ -2385,10 +2385,10 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_roaming_not_support">SIM-карта не может инициализировать роуминг.</string>
     <string name="reset_roaming_tip">Перезапуск роуминга…</string>
     <string name="reset_roaming_title">Перезапуск роуминга</string>
-    <string name="respond_via_sms_canned_response_1">Не могу говорить. Позвоните позже.</string>
-    <string name="respond_via_sms_canned_response_2">Я перезвоню.</string>
-    <string name="respond_via_sms_canned_response_3">Я перезвоню Вам позже.</string>
-    <string name="respond_via_sms_canned_response_4">Не могу говорить. Что случилось?</string>
+    <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
+    <string name="respond_via_sms_canned_response_2">Я перезвоню Вам.</string>
+    <string name="respond_via_sms_canned_response_3">Я позвоню Вам позже.</string>
+    <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже?</string>
     <string name="respond_via_sms_cannot_empty">Сообщение не может быть пустым</string>
     <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>

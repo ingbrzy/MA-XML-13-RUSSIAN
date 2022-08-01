@@ -730,10 +730,10 @@
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
     <string name="remaining_length_format">Осталось %1$s</string>
-    <string name="respond_via_sms_canned_response_1">Не могу говорить. Что случилось?</string>
-    <string name="respond_via_sms_canned_response_2">Я перезвоню.</string>
-    <string name="respond_via_sms_canned_response_3">Я перезвоню Вам позже.</string>
-    <string name="respond_via_sms_canned_response_4">Не могу говорить. Позвоните позже.</string>
+    <string name="respond_via_sms_canned_response_1">Не могу говорить. Позвоните позже?</string>
+    <string name="respond_via_sms_canned_response_2">Я перезвоню Вам.</string>
+    <string name="respond_via_sms_canned_response_3">Я позвоню Вам позже.</string>
+    <string name="respond_via_sms_canned_response_4">Не могу говорить. Что случилось?</string>
     <string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
     <string name="respond_via_sms_failure_format">Не удалось отправить сообщение %s.</string>
