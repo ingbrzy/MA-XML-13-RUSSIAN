@@ -5299,7 +5299,7 @@ ID: %s
     <string name="login_account_dialog_message">Войдите в свой Xiaomi аккаунт и включите синхронизацию с облаком.</string>
     <string name="login_account_dialog_title">Войдите в Xiaomi аккаунт</string>
     <string name="login_account_summary">Управление аккаунтами, облачными сервисами и прочим</string>
-    <string name="login_account_summary_temp">Управление аккаунтами, облачными сервисами и много другое</string>
+    <string name="login_account_summary_temp">Управление аккаунтами, облачными сервисами и многое другое</string>
     <string name="login_action">Войти</string>
     <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
     <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
