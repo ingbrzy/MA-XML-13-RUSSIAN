@@ -434,7 +434,7 @@
     <string name="recent_delete_title">Скрыть приложения</string>
     <string name="recent_edit">Редактировать</string>
     <string name="recent_edit_done">Готово</string>
-    <string name="recent_filter_functions">Отключенные функции</string>
+    <string name="recent_filter_functions">Отключённые функции</string>
     <string name="recent_function">Функции</string>
     <string name="recently_shortcut_label">Недавние ярлыки</string>
     <string name="release_to_exit">Отпустите для выхода</string>

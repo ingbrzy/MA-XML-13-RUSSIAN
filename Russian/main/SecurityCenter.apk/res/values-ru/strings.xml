@@ -530,8 +530,8 @@
     <string name="app_manager_reset_app_preferences_button">Сбросить</string>
     <string name="app_manager_reset_app_preferences_desc">"Будут сброшены следующие настройки:
 
-• Отключенные приложения
-• Отключенные уведомления
+• Отключённые приложения
+• Отключённые уведомления
 • Приложения по умолчанию
 • Ограничения фонового трафика
 
@@ -4622,7 +4622,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_location_error_notify_title">Ошибка SIM карты</string>
     <string name="sim_lock_card_name">"SIM %d - "</string>
     <string name="sim_lock_change_done_message">Успешно! Запомните новый PIN-код. Если вы его забудете, потребуется обратиться в службу поддержки оператора, чтобы восстановить его.</string>
-    <string name="sim_lock_cloud_notification_message">Проверка PIN недоступна при отключенной синхронизации с облаком</string>
+    <string name="sim_lock_cloud_notification_message">Проверка PIN недоступна при отключённой синхронизации с облаком</string>
     <string name="sim_lock_cloud_notification_title">SIM не защищена</string>
     <string name="sim_lock_confirm_pin_hint">Подтвердите новый PIN-код</string>
     <string name="sim_lock_dialog_cancel">Проверить PIN-код</string>

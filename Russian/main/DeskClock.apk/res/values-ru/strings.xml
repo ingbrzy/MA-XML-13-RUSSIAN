@@ -248,7 +248,7 @@
     <string name="life_post_setting_open_listen_news_summary">Показывать утренние новости</string>
     <string name="life_post_setting_open_listen_news_title">Утренние новости</string>
     <string name="life_post_setting_open_subtitle">Получать сводку погоды при отключении будильника между 4:00 и 9:30</string>
-    <string name="life_post_setting_open_summary">Включить информацию о погоде в первый будильник, отключенный с 4:00 до 10:00</string>
+    <string name="life_post_setting_open_summary">Включить информацию о погоде в первый будильник, отключённый с 4:00 до 10:00</string>
     <string name="life_post_setting_open_title">Получать утреннюю сводку</string>
     <string name="life_post_setting_video_news_remind">Установите последнюю версию приложения Музыка, чтобы прослушивать утренние новости.</string>
     <string name="life_post_setting_wake_up_list_title">История пробуждений</string>

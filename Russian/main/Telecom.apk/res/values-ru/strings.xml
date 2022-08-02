@@ -645,14 +645,14 @@
     <string name="notification_audioProcessing_title">Фоновый вызов</string>
     <string name="notification_channel_background_calls">Фоновые вызовы</string>
     <string name="notification_channel_call_blocking">Блокировка вызовов</string>
-    <string name="notification_channel_disconnected_calls">Отключенные вызовы</string>
+    <string name="notification_channel_disconnected_calls">Отключённые вызовы</string>
     <string name="notification_channel_in_call_service_crash">Сбои телефонных приложений</string>
     <string name="notification_channel_incoming_call">Входящие вызовы</string>
     <string name="notification_channel_missed_call">Пропущенные вызовы</string>
     <string name="notification_channel_missed_call_DND">Режим \"Не беспокоить\"</string>
     <string name="notification_disconnectedCall_body">Вызов %s был прерван из-за экстренного вызова</string>
     <string name="notification_disconnectedCall_generic_body">Вызов был прерван из-за экстренного вызова</string>
-    <string name="notification_disconnectedCall_title">Отключенный вызов</string>
+    <string name="notification_disconnectedCall_title">Отключённый вызов</string>
     <string name="notification_disconnectedDialing_message">Вызов недоступен, так как другой исходящий вызов в процессе</string>
     <string name="notification_incallservice_not_responding_body">Вызов осуществлен с использованием штатного телефонного приложения</string>
     <string name="notification_incallservice_not_responding_title">%s не отвечает</string>

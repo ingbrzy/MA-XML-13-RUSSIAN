@@ -3306,7 +3306,7 @@ ID: %s
     <string name="enable_local_backup_ok">ОК</string>
     <string name="enable_local_backup_title">Локальное резервное копирование</string>
     <string name="enable_mms_notification_channel_title">MMS-сообщение</string>
-    <string name="enable_mms_notification_summary">Нажмите, чтобы разрешить MMS-сообщения на %1$s при отключенном мобильном интернете</string>
+    <string name="enable_mms_notification_summary">Нажмите, чтобы разрешить MMS-сообщения на %1$s при отключённом мобильном интернете</string>
     <string name="enable_mobile_data_when_opening_hotspot">Включить мобильный интернет?</string>
     <string name="enable_non_resizable_multi_window">Включить неизменяемый масштаб в многооконном режиме</string>
     <string name="enable_non_resizable_multi_window_summary">Открывать приложения с неизменяемым масштабом в многооконном режиме</string>
@@ -3609,7 +3609,7 @@ ID: %s
     <string name="filter_all_apps">Все приложения</string>
     <string name="filter_apps_all">Все приложения</string>
     <string name="filter_apps_cached">Кэш</string>
-    <string name="filter_apps_disabled">Отключенные приложения</string>
+    <string name="filter_apps_disabled">Отключённые приложения</string>
     <string name="filter_apps_onsdcard">На SD-карте</string>
     <string name="filter_apps_running">Работающие</string>
     <string name="filter_apps_third_party">Сторонние</string>
@@ -3619,8 +3619,8 @@ ID: %s
     <string name="filter_instant_apps">Приложения с мгновенным запуском</string>
     <string name="filter_manage_external_storage">Может получить доступ ко всем файлам</string>
     <string name="filter_notif_all_apps">Приложения: все</string>
-    <string name="filter_notif_blocked_apps">Приложения: отключенные</string>
-    <string name="filter_notif_blocked_channels">Категории: отключенные</string>
+    <string name="filter_notif_blocked_apps">Приложения: отключённые</string>
+    <string name="filter_notif_blocked_channels">Категории: отключённые</string>
     <string name="filter_notif_dnd_channels">Категории: игнорируют \"Не беспокоить\"</string>
     <string name="filter_notif_low_channels">Категории: низкая важность</string>
     <string name="filter_notif_urgent_channels">Категории: крайняя важность</string>
@@ -5924,7 +5924,7 @@ ID: %s
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ошибка обновления</string>
     <string name="mms_breathing_light_color_title">Цвет для сообщений</string>
     <string name="mms_breathing_light_freq_title">Частота мерцания для сообщений</string>
-    <string name="mms_message_summary">Отправка и получение при отключенном мобильном интернете</string>
+    <string name="mms_message_summary">Отправка и получение при отключённом мобильном интернете</string>
     <string name="mms_message_title">MMS-сообщения</string>
     <string name="mms_privacy_password_role_instruction">Ваши личные диалоги будут храниться здесь</string>
     <string name="mobile_connect_to_internet">Подключитесь к интернету</string>
@@ -7506,8 +7506,8 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_app_preferences_button">Сбросить</string>
     <string name="reset_app_preferences_desc">"Будут сброшены следующие настройки:
 
-• Отключенные приложения
-• Отключенные уведомления
+• Отключённые приложения
+• Отключённые уведомления
 • Приложения по умолчанию
 • Ограничения фонового трафика
 
@@ -10729,7 +10729,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_display_pause">Приостановить</string>
     <string name="wifi_display_resume">Продолжить</string>
     <string name="wifi_display_session_info">Информация о сессии</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Нельзя использовать WiDi при отключенном Wi-Fi</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Нельзя использовать WiDi при отключённом Wi-Fi</string>
     <string name="wifi_display_settings_title">Трансляция</string>
     <string name="wifi_display_status_connected">Подключен</string>
     <string name="wifi_display_status_connecting">Подключение…</string>
@@ -10962,10 +10962,10 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_saved_access_points_label">Сохраненные сети</string>
     <string name="wifi_saved_other_networks_tab">Другие сети</string>
     <string name="wifi_scan_always_available">Постоянный поиск сетей</string>
-    <string name="wifi_scan_always_available_summary">Разрешить сервису геолокации Google и прочим приложениям искать сети даже при отключенном Wi-Fi</string>
+    <string name="wifi_scan_always_available_summary">Разрешить сервису геолокации Google и прочим приложениям искать сети даже при отключённом Wi-Fi</string>
     <string name="wifi_scan_always_confirm_allow">Разрешить</string>
     <string name="wifi_scan_always_confirm_deny">Отмена</string>
-    <string name="wifi_scan_always_turn_on_message_unknown">"Для улучшения точности геолокации и работы других функций, неизвестное приложение запрашивает возможность поиска сетей при отключенном Wi-Fi.
+    <string name="wifi_scan_always_turn_on_message_unknown">"Для улучшения точности геолокации и работы других функций, неизвестное приложение запрашивает возможность поиска сетей при отключённом Wi-Fi.
 
 Разрешить эту возможность всем приложениям с таким же запросом?"</string>
     <string name="wifi_scan_always_turnoff_message">Этот параметр можно отключить в расширенных настройках в дополнительном меню.</string>
@@ -10973,7 +10973,7 @@ UT-интерфейс: %5$s"</string>
 
 Разрешить?"</string>
     <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
-    <string name="wifi_scan_notify_text">Для улучшения точности геолокации, сервисы и приложения могут искать доступные беспроводные сети даже при отключенном Wi-Fi. Чтобы запретить им это, отключите LINK_BEGINпоиск сетей Wi-FiLINK_END.</string>
+    <string name="wifi_scan_notify_text">Для улучшения точности геолокации, сервисы и приложения могут искать доступные беспроводные сети даже при отключённом Wi-Fi. Чтобы запретить им это, отключите LINK_BEGINпоиск сетей Wi-FiLINK_END.</string>
     <string name="wifi_scan_notify_text_scanning_off">Для улучшения точности геолокации, включите LINK_BEGINпоиск сетей Wi-FiLINK_END.</string>
     <string name="wifi_scan_throttling">Ограничить поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и повышает производительность сети</string>
@@ -11567,11 +11567,11 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_schedule_rule_days_none">–</string>
     <string name="zen_mode_schedule_title">Расписание</string>
     <string name="zen_mode_screen_locked_only">Включать при блокировке</string>
-    <string name="zen_mode_screen_off">При отключенном экране</string>
-    <string name="zen_mode_screen_off_summary">Не включать экран и световой индикатор для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
-    <string name="zen_mode_screen_off_summary_no_led">Не включать экран для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
+    <string name="zen_mode_screen_off">При отключённом экране</string>
+    <string name="zen_mode_screen_off_summary">Не включать экран и световой индикатор для уведомлений, отключённых в режиме \"Не беспокоить\"</string>
+    <string name="zen_mode_screen_off_summary_no_led">Не включать экран для уведомлений, отключённых в режиме \"Не беспокоить\"</string>
     <string name="zen_mode_screen_on">При включенном экране</string>
-    <string name="zen_mode_screen_on_summary">Не показывать на экране уведомления, отключенные в режиме \"Не беспокоить\"</string>
+    <string name="zen_mode_screen_on_summary">Не показывать на экране уведомления, отключённые в режиме \"Не беспокоить\"</string>
     <string name="zen_mode_settings_category">Режим \"Не беспокоить\"</string>
     <string name="zen_mode_settings_dnd_automatic_rule">Режим \"Не беспокоить\" включён правилом \"%s\"</string>
     <string name="zen_mode_settings_dnd_automatic_rule_app">Режим \"Не беспокоить\" включён приложением \"%s\"</string>

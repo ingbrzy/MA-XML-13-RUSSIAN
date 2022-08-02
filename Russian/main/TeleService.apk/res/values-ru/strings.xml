@@ -245,7 +245,7 @@
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="already_auto">Автовыбор</string>
     <string name="always_enable_mms">Всегда принимать MMS</string>
-    <string name="always_enable_mms_summary">Принимать MMS даже при отключенном мобильном интернете</string>
+    <string name="always_enable_mms_summary">Принимать MMS даже при отключённом мобильном интернете</string>
     <string name="ambulance_type_description">Скорая помощь</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="answer_features_setting_category">Вызовы и ответы</string>
@@ -2370,7 +2370,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reject_via_sms_summary">Показывать кнопку для завершения вызова и отправки SMS</string>
     <string name="reject_via_sms_title">Быстрые ответы</string>
     <string name="relay_call_answered_by_other_devices">Этот вызов принят на другом устройстве</string>
-    <string name="relay_call_released_due_to_connect_lost">Соединение было потеряно. Продолжайте разговор на отключенном устройстве.</string>
+    <string name="relay_call_released_due_to_connect_lost">Соединение было потеряно. Продолжайте разговор на отключённом устройстве.</string>
     <string name="relay_connection_service_label">Встроенная ретрансляция вызова</string>
     <string name="remaining_length_format">Осталось %1$s</string>
     <string name="remove">Удалить</string>

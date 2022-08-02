@@ -62,7 +62,7 @@
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="delete_saved_printer_content">Удалить выбранные принтеры?</string>
     <string name="destination_default_text">Выберите принтер</string>
-    <string name="disabled_services_title">Отключенные службы</string>
+    <string name="disabled_services_title">Отключённые службы</string>
     <string name="early_morning">Утро</string>
     <string name="enable_print_service">Выберите для включения</string>
     <string name="enabled_services_title">Включенные службы</string>
