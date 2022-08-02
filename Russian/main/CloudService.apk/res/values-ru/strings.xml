@@ -494,7 +494,7 @@
     <string name="micloud_storage_expires_manually_renewal_sum">Необходимо продлить подписку</string>
     <string name="micloud_storage_expires_soon_title">Срок действия купленного места в Xiaomi Cloud истекает</string>
     <string name="micloud_storage_expires_very_soon_title">Срок действия купленного места в Xiaomi Cloud истекает</string>
-    <string name="micloud_storage_family_quota">Семейный доступ</string>
+    <string name="micloud_storage_family_quota">Общее пространство</string>
     <string name="micloud_storage_full">Облачное хранилище заполнено</string>
     <string name="micloud_storage_full_tip">Хранилище заполнено</string>
     <string name="micloud_storage_normal_tip">Осталось %s</string>
