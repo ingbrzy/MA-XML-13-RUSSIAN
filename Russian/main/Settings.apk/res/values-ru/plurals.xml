@@ -531,9 +531,9 @@
         <item quantity="few">Осталось %1$d шага до получения журнала аудио</item>
     </plurals>
     <plurals name="show_bluetooth_devices">
-        <item quantity="other">%1$d подключенных устройств</item>
-        <item quantity="one">%1$d подключенное устройство</item>
-        <item quantity="few">%1$d подключенных устройства</item>
+        <item quantity="other">%1$d подключённых устройств</item>
+        <item quantity="one">%1$d подключённое устройство</item>
+        <item quantity="few">%1$d подключённых устройства</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Осталось %1$d шагов до открытия инженерного меню</item>

@@ -166,7 +166,7 @@
     <string name="accessibility_floating_button_action_move_top_left">Влево вверх</string>
     <string name="accessibility_floating_button_action_move_top_right">Вправо вверх</string>
     <string name="accessibility_floating_button_docking_tooltip">Переместите кнопку к краю, чтобы временно скрыть её</string>
-    <string name="accessibility_floating_button_migration_tooltip">"Вызов функции спец. возможностей жестом изменен на вызов кнопкой
+    <string name="accessibility_floating_button_migration_tooltip">"Вызов функции спец. возможностей жестом изменён на вызов кнопкой
 
 "<annotation id="link">Настройки</annotation></string>
     <string name="accessibility_floating_button_switch_migration_tooltip">"Вызов функции спец. возможностей жестом можно изменить на вызов кнопкой
@@ -1101,7 +1101,7 @@
     <string name="face_unlock_pin_and_fingerprint">Используйте PIN-код или отпечаток</string>
     <string name="face_unlock_pin_and_fingerprint_v11">Используйте PIN-код или отпечаток</string>
     <string name="face_unlock_quality">Не удалось распознать ваше лицо</string>
-    <string name="face_unlock_reenter_content">Алгоритм разблокировки обновлен. Добавьте данные лица заново.</string>
+    <string name="face_unlock_reenter_content">Алгоритм разблокировки обновлён. Добавьте данные лица заново.</string>
     <string name="face_unlock_reenter_title">Обновите данные лица</string>
     <string name="face_unlock_reveal_eye">Ваши глаза должны быть видны</string>
     <string name="face_unlock_reveal_mouth">Ваши губы должны быть видны</string>
@@ -1129,7 +1129,7 @@
     <string name="feedback_response">Спасибо за отзыв!</string>
     <string name="feedback_silenced">Уровень важности этого уведомления был автоматически &lt;b>понижен до \"Без звука\"&lt;/b>.</string>
     <string name="finger_error_single_mode">Сканер отпечатков недоступен в режиме управления одной рукой. Выйдите из режима и попробуйте ещё раз.</string>
-    <string name="fingerprint_add_text">Алгоритм разблокировки обновлен. Добавьте отпечаток заново.</string>
+    <string name="fingerprint_add_text">Алгоритм разблокировки обновлён. Добавьте отпечаток заново.</string>
     <string name="fingerprint_add_title">Добавьте отпечаток пальца</string>
     <string name="fingerprint_again_identified_msg">Разблокировка отпечатком снова активна. Используйте отпечаток или введите пароль.</string>
     <string name="fingerprint_again_identified_msg_password">"Разблокировка отпечатком снова активна. 
@@ -2352,12 +2352,12 @@ mm"</string>
     <string name="qs_traffic_message_type_used">Использовано: %1$s %2$s</string>
     <string name="quick_controls_setup_subtitle">Удерживайте кнопку питания для доступа к элементам управления</string>
     <string name="quick_controls_setup_title">Настройка управления</string>
-    <string name="quick_controls_subtitle">Добавьте элементы управления для подключенных устройств</string>
+    <string name="quick_controls_subtitle">Добавьте элементы управления для подключённых устройств</string>
     <string name="quick_controls_title">Управление устройствами</string>
     <string name="quick_settings">Быстрые настройки</string>
     <string name="quick_settings_autobrightness_label">Автояркость</string>
     <string name="quick_settings_batterysaver_label">Экономия заряда</string>
-    <string name="quick_settings_bluetooth_detail_empty_text">Нет подключенных устройств</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Нет подключённых устройств</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth откл.</string>

@@ -71,7 +71,7 @@
     </plurals>
     <plurals name="updated_contacts">
         <item quantity="other">Обновлено %s контактов</item>
-        <item quantity="one">Обновлен %s контакт</item>
+        <item quantity="one">Обновлён %s контакт</item>
         <item quantity="few">Обновлено %s контакта</item>
         <item quantity="many">Обновлено %s контактов</item>
     </plurals>

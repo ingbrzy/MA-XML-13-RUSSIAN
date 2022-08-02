@@ -68,7 +68,7 @@
     <string name="instruction">Важная информация по безопасности</string>
     <string name="legal_written_offer">Письменное предложение</string>
     <string name="license_host_unreachable">"Не удалось подключиться к сети. Для просмотра этой информации
-посетите %s с любого устройства, подключенного к Интернету."</string>
+посетите %s с любого устройства, подключённого к Интернету."</string>
     <string name="loading">Подождите…</string>
     <string name="mibi_license">Условия использования Mi Credits</string>
     <string name="midnight">Ночь</string>
@@ -165,7 +165,7 @@
     <string name="settings_license_activity_unavailable">Не удалось загрузить лицензии.</string>
     <string name="settings_safetylegal_activity_loading">Подождите…</string>
     <string name="settings_safetylegal_activity_title">Сведения о безопасности</string>
-    <string name="settings_safetylegal_activity_unreachable">Не удалось подключиться к сети. Для просмотра этой информации посетите %s с любого компьютера, подключенного к Интернету.</string>
+    <string name="settings_safetylegal_activity_unreachable">Не удалось подключиться к сети. Для просмотра этой информации посетите %s с любого компьютера, подключённого к Интернету.</string>
     <string name="settings_safetylegal_title">Сведения о безопасности</string>
     <string name="size_byte">" Б"</string>
     <string name="size_giga_byte">" ГБ"</string>

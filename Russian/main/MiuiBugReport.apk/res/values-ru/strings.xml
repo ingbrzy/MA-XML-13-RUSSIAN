@@ -280,7 +280,7 @@ ID: %s
     <string name="feedback_select_upload_log_not_select_desc">Не выбрано \"Добавить журналы\"</string>
     <string name="feedback_select_upload_log_select_desc">Выбрано \"Добавить журналы\"</string>
     <string name="feedback_status_answered">Ответ дан</string>
-    <string name="feedback_status_change_notification_title">Статус вашего отчёта был обновлен</string>
+    <string name="feedback_status_change_notification_title">Статус вашего отчёта был обновлён</string>
     <string name="feedback_status_collect_log_failed">Не удалось собрать журналы</string>
     <string name="feedback_status_commit_failed_title">Не удалось отправить отчёт</string>
     <string name="feedback_status_commit_in_queue_title">Ожидание…</string>

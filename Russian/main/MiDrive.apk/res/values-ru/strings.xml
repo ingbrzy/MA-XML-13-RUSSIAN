@@ -238,7 +238,7 @@
     <string name="inner_storage_path">Хранилище</string>
     <string name="jump_to_directory">Открыть папку</string>
     <string name="just_now">Сейчас</string>
-    <string name="license_host_unreachable">Устройство не подключено к облачным сервисам. Для просмотра посетите страницу %s на любом подключенном устройстве.</string>
+    <string name="license_host_unreachable">Устройство не подключено к облачным сервисам. Для просмотра посетите страницу %s на любом подключённом устройстве.</string>
     <string name="load_label_up_no_data">Больше ничего нет</string>
     <string name="load_label_up_none">Больше ничего нет</string>
     <string name="load_label_up_refresh">Обновление…</string>

@@ -223,7 +223,7 @@
     <string name="pad_settings_connect_summary2">Отсканируйте QR-код на экране ПК. Для сканирования используйте Сканер, Камеру или Mi Браузер.</string>
     <string name="pad_settings_feature_characteristics_summary_1">Копируйте текст на мобильном устройстве и вставляйте на ПК, добавляйте изображения, синхронизируйте правки в документах.</string>
     <string name="pad_settings_feature_characteristics_summary_2">Перетаскивайте файлы для передачи на устройство или с него.</string>
-    <string name="pad_settings_feature_characteristics_summary_3">Для автоподключения просто приблизьте устройство к ранее подключенному ПК.</string>
+    <string name="pad_settings_feature_characteristics_summary_3">Для автоподключения просто приблизьте устройство к ранее подключённому ПК.</string>
     <string name="pad_settings_feature_dnd_summary">Показывать уведомления мобильного устройства на ПК</string>
     <string name="pad_settings_feature_dnd_summary_phone">Показывать уведомления мобильного устройства на ПК</string>
     <string name="pad_settings_feature_dnd_title">Режим  \"Не беспокоить\"</string>
@@ -233,7 +233,7 @@
     <string name="pad_settings_handoff_category_title">Использование Handoff</string>
     <string name="pad_settings_handoff_clipboard_summary">Копируйте данные на одном устройстве и вставляйте на другом</string>
     <string name="pad_settings_handoff_clipboard_title">Буфер обмена</string>
-    <string name="pad_settings_handoff_device_title">Подключенное устройство</string>
+    <string name="pad_settings_handoff_device_title">Подключённое устройство</string>
     <string name="pad_settings_handoff_disable">Откл.</string>
     <string name="pad_settings_handoff_disconnect">Не подключено</string>
     <string name="pad_settings_handoff_enable_bluetooth">Включите Bluetooth для поиска устройств поблизости</string>
@@ -293,7 +293,7 @@
     <string name="settings_feature_characteristics">Особые возможности</string>
     <string name="settings_feature_characteristics_summary_1">Копируйте текст на устройстве и вставляйте на ПК, добавляйте изображения, синхронизируйте изменения в документах</string>
     <string name="settings_feature_characteristics_summary_2">Перетаскивайте файлы для передачи на устройство и с устройства</string>
-    <string name="settings_feature_characteristics_summary_3">Поднесите устройство к ранее подключенному ПК для автоматического подключения</string>
+    <string name="settings_feature_characteristics_summary_3">Поднесите устройство к ранее подключённому ПК для автоматического подключения</string>
     <string name="settings_feature_characteristics_title_1">Бесшовная синхронизация и передача</string>
     <string name="settings_feature_characteristics_title_2">Передача файлов</string>
     <string name="settings_feature_characteristics_title_3">Автоподключение</string>
@@ -318,7 +318,7 @@
     <string name="settings_history_yesterday_connect_time">Вчера: %1$s</string>
     <string name="settings_home">MIUI+</string>
     <string name="settings_home_device_disconnect">Отключиться</string>
-    <string name="settings_home_device_group">Подключенное устройство</string>
+    <string name="settings_home_device_group">Подключённое устройство</string>
     <string name="settings_home_sub_title">Объедините устройство и ПК в одно целое</string>
     <string name="settings_home_tips">MIUI+ транслирует экран мобильного устройства на ПК, позволяя на нем взаимодействовать с устройством, обмениваться файлами и редактировать их</string>
     <string name="settings_how_use">Подключение</string>

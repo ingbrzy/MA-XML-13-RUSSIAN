@@ -585,7 +585,7 @@
     <string name="bluetooth_item_double_battery_level_right">П: %d%%</string>
     <string name="bluetooth_item_double_battery_level_right_invalid">П: нет данных</string>
     <string name="bluetooth_open_ok">Bluetooth включён</string>
-    <string name="bluetooth_setting_brief">Уровень заряда подключенных устройств</string>
+    <string name="bluetooth_setting_brief">Уровень заряда подключённых устройств</string>
     <string name="book_add">Добавить бронирование</string>
     <string name="book_add_date_diff">Дата выезда должна быть позже даты заезда.</string>
     <string name="book_add_dialog_continue">Не выходите</string>
@@ -1452,7 +1452,7 @@ ID:%s
     <string name="miot_device_network_error">Нет соединения</string>
     <string name="miot_device_opening">Устройство включено</string>
     <string name="miot_more_device">Ещё</string>
-    <string name="miot_nearby_device">Подключенные устройства поблизости</string>
+    <string name="miot_nearby_device">Подключённые устройства поблизости</string>
     <string name="miot_not_warn">Игнорировать предупреждение</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Xiaomi аккаунт</string>
     <string name="miuishare_account_activate_ok">Активировать</string>

@@ -12,8 +12,8 @@
     <string name="CndMmi">Доставка номера вызывающего абонента</string>
     <string name="CnipMmi">Вызывающий номер присутствует</string>
     <string name="CnirMmi">Вызывающий номер запрещен</string>
-    <string name="ColpMmi">Идентификатор подключенной линии</string>
-    <string name="ColrMmi">Ограничение идентификатора подключенной линии</string>
+    <string name="ColpMmi">Идентификатор подключённой линии</string>
+    <string name="ColrMmi">Ограничение идентификатора подключённой линии</string>
     <string name="CwMmi">Параллельный вызов</string>
     <string name="DndMmi">Не беспокоить</string>
     <string name="EmergencyCallWarningSummary">Для экстренных вызовов требуется мобильная сеть.</string>
@@ -1315,8 +1315,8 @@
     <string name="permdesc_accessNetworkConditions">Приложение сможет использовать данные о состоянии сети. Это разрешение обычно используется только специальными приложениями.</string>
     <string name="permdesc_accessNetworkState">Приложение сможет просматривать информацию о сетевых подключениях, например о том, какие сети доступны и к каким из них вы подключены.</string>
     <string name="permdesc_accessNotifications">Приложение сможет получать, проверять и удалять уведомления, включая те, что опубликованы другими приложениями.</string>
-    <string name="permdesc_accessWifiState">Приложение сможет просматривать информацию о сети Wi-Fi: состояние сети и имена подключенных устройств.</string>
-    <string name="permdesc_accessWimaxState">Приложение сможет определять, активирован ли WiMAX, а также получать информацию о подключенных сетях WiMAX.</string>
+    <string name="permdesc_accessWifiState">Приложение сможет просматривать информацию о сети Wi-Fi: состояние сети и имена подключённых устройств.</string>
+    <string name="permdesc_accessWimaxState">Приложение сможет определять, активирован ли WiMAX, а также получать информацию о подключённых сетях WiMAX.</string>
     <string name="permdesc_access_notification_policy">Приложение сможет получить доступ к настройкам режима \"Не беспокоить\" и изменять их.</string>
     <string name="permdesc_activityRecognition">Приложение сможет распознавать физическую активность.</string>
     <string name="permdesc_addVoicemail">Приложение сможет добавлять голосовые сообщения в папку \"Входящие\".</string>
@@ -1334,7 +1334,7 @@
     <string name="permdesc_bluetooth">Приложение сможет просматривать конфигурацию Bluetooth на телефоне, а также запрашивать и подтверждать соединение с другими устройствами.</string>
     <string name="permdesc_bluetoothAdmin">Приложение сможет настраивать параметры локального телефона с поддержкой Bluetooth, а также обнаруживать удаленные устройства и выполнять сопряжение с ними.</string>
     <string name="permdesc_bluetooth_advertise">Приложение сможет передавать рекламу на устройства Bluetooth поблизости.</string>
-    <string name="permdesc_bluetooth_connect">У приложения будет доступ к подключенным устройствам Bluetooth.</string>
+    <string name="permdesc_bluetooth_connect">У приложения будет доступ к подключённым устройствам Bluetooth.</string>
     <string name="permdesc_bluetooth_scan">Приложение сможет находить устройства Bluetooth поблизости и подключаться к ним.</string>
     <string name="permdesc_bodySensors">Приложение сможет получить доступ к данным датчиков, размещенных на теле, например измеряющих частоту сердцебиения.</string>
     <string name="permdesc_broadcastSticky">Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу телефона или сделать её нестабильной из-за чрезмерного использования памяти.</string>
@@ -1515,7 +1515,7 @@
     <string name="permlab_bluetooth">Установление связи с устройствами Bluetooth</string>
     <string name="permlab_bluetoothAdmin">Доступ к настройкам Bluetooth</string>
     <string name="permlab_bluetooth_advertise">Передача рекламы на устройства Bluetooth рядом</string>
-    <string name="permlab_bluetooth_connect">Доступ к подключенным устройствам Bluetooth</string>
+    <string name="permlab_bluetooth_connect">Доступ к подключённым устройствам Bluetooth</string>
     <string name="permlab_bluetooth_scan">Поиск устройств Bluetooth поблизости и подключение к ним</string>
     <string name="permlab_bodySensors">Датчики (например, пульсометр)</string>
     <string name="permlab_broadcastSticky">Отправка сообщений с их последующим сохранением</string>
@@ -1935,9 +1935,9 @@
     <string name="test_harness_mode_notification_message">Для отключения тестового режима выполните сброс к заводским настройкам.</string>
     <string name="test_harness_mode_notification_title">Включён тестовый режим</string>
     <string name="tethered_notification_message">Нажмите для настройки.</string>
-    <string name="tethered_notification_multi_device_message">Подключенные устройства: %1$s</string>
-    <string name="tethered_notification_no_device_message">Нет подключенных устройств</string>
-    <string name="tethered_notification_one_device_message">Подключенные устройства: %1$s</string>
+    <string name="tethered_notification_multi_device_message">Подключённые устройства: %1$s</string>
+    <string name="tethered_notification_no_device_message">Нет подключённых устройств</string>
+    <string name="tethered_notification_one_device_message">Подключённые устройства: %1$s</string>
     <string name="tethered_notification_title">Модем или точка доступа</string>
     <string name="textSelectionCABTitle">Выбор текста</string>
     <string name="text_copied">Текст скопирован в буфер обмена.</string>
@@ -1995,7 +1995,7 @@
     <string name="usb_mtp_launch_notification_title">Подключено к %1$s</string>
     <string name="usb_mtp_notification_title">Передача файлов через USB</string>
     <string name="usb_notification_message">Нажмите, чтобы посмотреть дополнительные параметры.</string>
-    <string name="usb_power_notification_message">Подключенное устройство заряжается. Нажмите, чтобы посмотреть дополнительные параметры.</string>
+    <string name="usb_power_notification_message">Подключённое устройство заряжается. Нажмите, чтобы посмотреть дополнительные параметры.</string>
     <string name="usb_ptp_notification_title">Передача фото через USB</string>
     <string name="usb_storage_activity_title">Запоминающее USB-устройство</string>
     <string name="usb_storage_button_mount">Включить USB-накопитель</string>
@@ -2010,7 +2010,7 @@
     <string name="usb_storage_stop_notification_title">Отключить USB-накопитель</string>
     <string name="usb_storage_stop_title">USB-накопитель используется</string>
     <string name="usb_storage_title">USB подключен</string>
-    <string name="usb_supplying_notification_title">Подача питания на подключенное устройство через USB</string>
+    <string name="usb_supplying_notification_title">Подача питания на подключённое устройство через USB</string>
     <string name="usb_tether_notification_title">USB-модем</string>
     <string name="usb_unsupported_audio_accessory_message">Подсоединенное устройство несовместимо с этим телефоном. Нажмите, чтобы узнать подробности.</string>
     <string name="usb_unsupported_audio_accessory_title">Обнаружено аналоговое аудиоустройство</string>
@@ -2188,7 +2188,7 @@
     <string name="zen_mode_until">До %1$s</string>
     <string name="zen_mode_until_next_day">До %1$s</string>
     <string name="zen_upgrade_notification_content">Нажмите, чтобы проверить заблокированное</string>
-    <string name="zen_upgrade_notification_title">Режим \"Не беспокоить\" изменен</string>
+    <string name="zen_upgrade_notification_title">Режим \"Не беспокоить\" изменён</string>
     <string name="zen_upgrade_notification_visd_content">Нажмите для ознакомления</string>
     <string name="zen_upgrade_notification_visd_title">Новое: скрытие уведомлений в режиме \"Не беспокоить\"</string>
 </resources>

@@ -366,7 +366,7 @@
     <string name="popup_camera_front_when_use">Фронтальная камера занята. Все равно попытаться открыть?</string>
     <string name="popup_camera_hid_device_name">Black Shark</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Не удалось открыть фронтальную камеру несколько раз. Попробуйте откалибровать камеру."</string>
-    <string name="popup_camera_remove_hid_device">Похоже, устройство подключено к игровому контроллеру. Возможно, вы не сможете открыть фронтальную камеру при подключенном игровом контроллере.</string>
+    <string name="popup_camera_remove_hid_device">Похоже, устройство подключено к игровому контроллеру. Возможно, вы не сможете открыть фронтальную камеру при подключённом игровом контроллере.</string>
     <string name="popup_camera_sure">Понятно</string>
     <string name="popup_camera_sure_wait">Понятно (%d сек.)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"Не удалось закрыть фронтальную камеру несколько раз. Попробуйте откалибровать камеру."</string>

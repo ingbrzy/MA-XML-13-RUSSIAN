@@ -47,7 +47,7 @@
     <string name="wifi_p2p_to_message">Кому:</string>
     <string name="wifi_sim_required_message">Для подключения к %1$s, вставьте SIM-карту %2$s</string>
     <string name="wifi_sim_required_title">Wi-Fi отключён</string>
-    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Нет подключенных устройств. Нажмите, чтобы изменить.</string>
+    <string name="wifi_softap_auto_shutdown_timeout_expired_summary">Нет подключённых устройств. Нажмите, чтобы изменить.</string>
     <string name="wifi_softap_auto_shutdown_timeout_expired_title">Точка доступа отключена</string>
     <string name="wifi_suggestion_action_allow_app">Да</string>
     <string name="wifi_suggestion_action_allow_imsi_privacy_exemption_carrier">Подключиться</string>

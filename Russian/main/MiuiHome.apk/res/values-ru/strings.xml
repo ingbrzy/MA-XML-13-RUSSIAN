@@ -150,7 +150,7 @@
     <string name="app_category_tools">Инструменты</string>
     <string name="app_category_travel">Путешествия</string>
     <string name="app_category_vr">VR</string>
-    <string name="app_drawer_double_confirm_description">Рабочий стол будет изменен. Установки можно изменить в настройках.</string>
+    <string name="app_drawer_double_confirm_description">Рабочий стол будет изменён. Установки можно изменить в настройках.</string>
     <string name="app_drawer_double_confirm_title">Внимание</string>
     <string name="app_drawer_feature_description">Меню приложений отличный инструмент для упорядочивания приложений. Автоматическая классификация поможет быстро найти нужные приложения.</string>
     <string name="app_drawer_guide_description">Поиск среди приложений</string>
@@ -993,7 +993,7 @@
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
     <string name="toast_drag_to_assistant_reject">Инициализация Ленты виджетов…</string>
-    <string name="toast_screen_icons_misplaced">Восстановлено из другого источника, порядок приложений и ярлыков может быть изменен</string>
+    <string name="toast_screen_icons_misplaced">Восстановлено из другого источника, порядок приложений и ярлыков может быть изменён</string>
     <string name="today">Сегодня</string>
     <string name="toggle_select_title">Выберите переключатели</string>
     <string name="toggle_title">Переключатели</string>

@@ -373,7 +373,7 @@
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
     <string name="not_set">Не задано</string>
-    <string name="not_support_sound_transmission_content">Функция не поддерживается подключенным устройством. Попробуйте другое устройство Bluetooth.</string>
+    <string name="not_support_sound_transmission_content">Функция не поддерживается подключённым устройством. Попробуйте другое устройство Bluetooth.</string>
     <string name="not_support_sound_transmission_prompt">Внимание</string>
     <string name="now_here">А сейчас?</string>
     <string name="original_sound">Воспроизвести оригинал</string>

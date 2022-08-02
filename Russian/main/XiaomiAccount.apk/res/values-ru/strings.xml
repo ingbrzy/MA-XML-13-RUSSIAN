@@ -817,7 +817,7 @@ ID:%s
     <string name="sign_in">Авторизация</string>
     <string name="sim_card">SIM-карта</string>
     <string name="sim_changed_notification_msg">Нажмите, чтобы обновить ваш номер для восстановления.</string>
-    <string name="sim_changed_notification_title">Номер телефона изменен?</string>
+    <string name="sim_changed_notification_title">Номер телефона изменён?</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="skip_query_account">Пропустить</string>
     <string name="sms_send_success">Отправлено</string>
@@ -917,11 +917,11 @@ ID:%s
     <string name="turning_off_find_device">Отключение Поиска устройства…</string>
     <string name="two_factor_auth">Двухфакторная авторизация</string>
     <string name="two_factor_auth_click_confirm">Подтверждение входа</string>
-    <string name="two_factor_auth_click_confirm_summary">"Вы увидите уведомление на других подключенных Xiaomi устройствах. Нажмите на уведомление, чтобы разрешить вход на новом устройстве."</string>
+    <string name="two_factor_auth_click_confirm_summary">"Вы увидите уведомление на других подключённых Xiaomi устройствах. Нажмите на уведомление, чтобы разрешить вход на новом устройстве."</string>
     <string name="two_factor_auth_method">Метод авторизации</string>
     <string name="two_factor_auth_need_code">Введите код</string>
-    <string name="two_factor_auth_need_code_summary">"Вы увидите код на других подключенных Xiaomi устройствах. Введите этот код на новом устройстве для входа."</string>
-    <string name="two_factor_auth_summary">"При попытке войти в систему на новом устройстве или в новом месте, вы получите уведомление на других подключенных устройствах. Вам нужно будет подтвердить разрешение на вход."</string>
+    <string name="two_factor_auth_need_code_summary">"Вы увидите код на других подключённых Xiaomi устройствах. Введите этот код на новом устройстве для входа."</string>
+    <string name="two_factor_auth_summary">"При попытке войти в систему на новом устройстве или в новом месте, вы получите уведомление на других подключённых устройствах. Вам нужно будет подтвердить разрешение на вход."</string>
     <string name="unbind_sns_description">После отключения вы не сможете использовать данные аккаунта %s для входа в Xiaomi аккаунт.</string>
     <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unlock_help_notice">"Справка:

@@ -352,7 +352,7 @@
     <string name="prompt_no_volte_when_failed">Вызов не осуществлен. Убедитесь, что ваше устройство подключено к сети 4G с поддержкой VoLTE.</string>
     <string name="relay_cal_from_device_name">От %1$s</string>
     <string name="relay_call">Ретрансляция</string>
-    <string name="relay_call_device_name">Подключенное устройство (%1$s)</string>
+    <string name="relay_call_device_name">Подключённое устройство (%1$s)</string>
     <string name="relay_deny_permission_msg">Для ретрансляции вызовов разрешите запись аудио</string>
     <string name="relay_grant_permissions_on_phone">Разрешите запись аудио</string>
     <string name="relay_known">Понятно</string>

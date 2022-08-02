@@ -513,7 +513,7 @@
     <string name="callFailed_non_selected_user_clearing">Очистка не выбранного пользователя</string>
     <string name="callFailed_normal">Очистка нормальных вызовов</string>
     <string name="callFailed_normal_unspecified">Нормальный, неопределённый</string>
-    <string name="callFailed_number_changed">Номер изменен</string>
+    <string name="callFailed_number_changed">Номер изменён</string>
     <string name="callFailed_number_unreachable">Номер недоступен</string>
     <string name="callFailed_only_digital_information_bearer_available">Ограниченная возможность передачи цифровой информации</string>
     <string name="callFailed_operator_determined_barring">Запрет оператора</string>
@@ -566,7 +566,7 @@
     <string name="call_barring_change_pwd">Изменить пароль</string>
     <string name="call_barring_change_pwd_description">Изменить пароль для функции запрета вызовов</string>
     <string name="call_barring_change_pwd_description_disabled">Не удалось изменить пароль</string>
-    <string name="call_barring_change_pwd_success">Пароль изменен</string>
+    <string name="call_barring_change_pwd_success">Пароль изменён</string>
     <string name="call_barring_confirm_pwd">Подтвердите пароль</string>
     <string name="call_barring_deactivate_all">Отключить все</string>
     <string name="call_barring_deactivate_all_description">Отключить все настройки запрета вызовов</string>
@@ -718,7 +718,7 @@
     <string name="change_pin_enter_old_pin_header">Подтвердите текущий PIN</string>
     <string name="change_pin_enter_old_pin_hint">Для продолжения введите PIN голосовой почты.</string>
     <string name="change_pin_ok_label">OK</string>
-    <string name="change_pin_succeeded">PIN голосовой почты обновлен</string>
+    <string name="change_pin_succeeded">PIN голосовой почты обновлён</string>
     <string name="change_pin_system_error">Не удалось задать PIN</string>
     <string name="change_pin_title">Изменить PIN голосовой почты</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
@@ -762,7 +762,7 @@
     <string name="clh_callFailed_non_selected_user_clearing_txt">Очистка не выбранного пользователя</string>
     <string name="clh_callFailed_normal_call_clearing_txt">Очистка нормальных вызовов</string>
     <string name="clh_callFailed_normal_unspecified_txt">Нормальный, неопределённый</string>
-    <string name="clh_callFailed_number_changed_txt">Номер изменен</string>
+    <string name="clh_callFailed_number_changed_txt">Номер изменён</string>
     <string name="clh_callFailed_only_restricted_digital_information_bearer_capability_is_available_txt">Ограниченная возможность передачи цифровой информации</string>
     <string name="clh_callFailed_operator_determined_barring_txt">Запрет оператора</string>
     <string name="clh_callFailed_powerOff_txt">Включён режим полета.</string>
@@ -834,7 +834,7 @@
     <string name="contactAddSuccess">Контакт добавлен на SIM-карту</string>
     <string name="contactPhoto">Фото контакта</string>
     <string name="contactUpdateFailed">Ошибка обновления контакта на SIM-карте</string>
-    <string name="contactUpdateSuccess">Контакт на SIM-карте обновлен</string>
+    <string name="contactUpdateSuccess">Контакт на SIM-карте обновлён</string>
     <string name="contactdeleteFailed">Ошибка удаления контакта с SIM-карты</string>
     <string name="contactdeleteSuccess">Контакт удалён с SIM-карты</string>
     <string name="content_description_menu_button">Меню</string>
@@ -966,7 +966,7 @@
     <string name="dialog_ota_change_number_lgu">Загрузить USIM?</string>
     <string name="dialog_ota_change_number_lgu_roaming">Изменение номера телефона в роуминге недоступно.</string>
     <string name="dialog_ota_change_number_processing">Загрузка USIM…</string>
-    <string name="dialog_ota_change_number_success">Номер телефона успешно изменен</string>
+    <string name="dialog_ota_change_number_success">Номер телефона успешно изменён</string>
     <string name="dialog_report">Отправить</string>
     <string name="dialpad_1_letters"/>
     <string name="dialpad_2_letters">ABC</string>
@@ -1173,13 +1173,13 @@
     <string name="fdn_check_failure">Включена функция набора разрешенных номеров. Некоторые функции вызовов недоступны.</string>
     <string name="fdn_contact_added">Разрешенный номер добавлен</string>
     <string name="fdn_contact_deleted">Разрешенный номер удалён</string>
-    <string name="fdn_contact_updated">Разрешенный номер обновлен</string>
+    <string name="fdn_contact_updated">Разрешенный номер обновлён</string>
     <string name="fdn_disabled">Разрешенные номера не используются</string>
     <string name="fdn_enable_puk2_requested">Неверный пароль, PIN2 заблокирован. Измените PIN2 и повторите попытку.</string>
     <string name="fdn_enabled">Разрешенные номера используются</string>
     <string name="fdn_failed">Сбой операции FDN</string>
-    <string name="fdn_full">Разрешенный номер не обновлен. Список заполнен.</string>
-    <string name="fdn_invalid_number">Разрешенный номер не обновлен. Он пуст или содержит более %d цифр.</string>
+    <string name="fdn_full">Разрешенный номер не обновлён. Список заполнен.</string>
+    <string name="fdn_invalid_number">Разрешенный номер не обновлён. Он пуст или содержит более %d цифр.</string>
     <string name="fdn_list_with_label">Разрешенные номера (%s)</string>
     <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешенных номеров или определёнными префиксами</string>
     <string name="fdn_with_label">Разрешенные номера (%s)</string>
@@ -1768,8 +1768,8 @@
     <string name="msim_setting_sim_info_editor_title">Информация SIM-карты</string>
     <string name="msim_sim_lock">Заблокирована</string>
     <string name="msim_sim_radio_off">Отключена</string>
-    <string name="msim_switch_data_conn_toast">Вы сменили SIM-карту. Тип сети изменен.</string>
-    <string name="msim_switch_data_conn_toast_for_h2xct">SIM-карта 2 поддерживает только сети GSM. Тип сети данной SIM-карты будет изменен на 2G.</string>
+    <string name="msim_switch_data_conn_toast">Вы сменили SIM-карту. Тип сети изменён.</string>
+    <string name="msim_switch_data_conn_toast_for_h2xct">SIM-карта 2 поддерживает только сети GSM. Тип сети данной SIM-карты будет изменён на 2G.</string>
     <string name="mtn_simlock_emergency">SOS</string>
     <string name="mtn_simlock_text_tip">Вставленная SIM-карта не соответствует требованиям. Необходимо вставить SIM-карту, предусмотренную контрактом. Для получения подробной информации обратитесь к оператору связи.</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
@@ -1859,7 +1859,7 @@
     <string name="night">Вечер</string>
     <string name="no_active_esim_text">eSIM не активна</string>
     <string name="no_application">Нет</string>
-    <string name="no_change">Номер не изменен</string>
+    <string name="no_change">Номер не изменён</string>
     <string name="no_checked_network">Вы не сможете подключаться к мобильной сети и совершать вызовы. Выбрать другую сеть?</string>
     <string name="no_internet_available">Для вызова через SIP, проверьте подключение к интернету.</string>
     <string name="no_mobile_data">Мобильный интернет недоступен</string>
@@ -1977,7 +1977,7 @@
     <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
     <string name="overseas_roaming_setting">Интернет-роуминг</string>
     <string name="pane_title_emergency_dialpad">Экстренные вызовы</string>
-    <string name="password_changed">Пароль изменен</string>
+    <string name="password_changed">Пароль изменён</string>
     <string name="password_title">Пароль</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="path_answer_state_setting_title">Системные приложения/Телефон/Входящие вызовы</string>
@@ -2049,15 +2049,15 @@
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pin2_attempts">"
 Осталось попыток: %d"</string>
-    <string name="pin2_changed">PIN2 успешно изменен</string>
+    <string name="pin2_changed">PIN2 успешно изменён</string>
     <string name="pin2_error_exception">Ошибка сети или SIM-карты</string>
-    <string name="pin2_invalid">Разрешенный номер не обновлен. Введен неверный PIN2.</string>
+    <string name="pin2_invalid">Разрешенный номер не обновлён. Введен неверный PIN2.</string>
     <string name="pin2_invalid_or_name_is_too_long">Вы ввели неверный PIN2 или слишком длинное имя</string>
     <string name="pin2_lock_warning">"
 Функционал PIN2 будет заблокирован при неудачной попытке ввода."</string>
-    <string name="pin2_or_fdn_invalid">Разрешенный номер не обновлен. Введен неверный PIN2 или номер телефона.</string>
+    <string name="pin2_or_fdn_invalid">Разрешенный номер не обновлён. Введен неверный PIN2 или номер телефона.</string>
     <string name="pin2_unblocked">PIN2 разблокирован</string>
-    <string name="pin_changed">PIN SIM-карты успешно изменен</string>
+    <string name="pin_changed">PIN SIM-карты успешно изменён</string>
     <string name="pin_failed">Введен неверный PIN</string>
     <string name="pin_lock_warning">"
 Телефон будет заблокирован при неудачной попытке ввода"</string>
@@ -2973,7 +2973,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vm_change_pin_new_pin">Новый PIN</string>
     <string name="vm_change_pin_old_pin">Текущий PIN</string>
     <string name="vm_change_pin_progress_message">Подождите…</string>
-    <string name="vm_changed">Номер голосовой почты изменен</string>
+    <string name="vm_changed">Номер голосовой почты изменён</string>
     <string name="voice_number_setting_primary_user_only">Настройки голосовой почты может изменить только основной пользователь</string>
     <string name="voice_privacy">Конфиденциальность</string>
     <string name="voice_privacy_summary">Включить усиленный режим конфиденциальности</string>

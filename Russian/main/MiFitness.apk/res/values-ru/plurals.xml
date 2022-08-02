@@ -457,9 +457,9 @@
         <item quantity="one">Можно ввести до %1$d символа</item>
     </plurals>
     <plurals name="nfc_issue_card_hold_on_">
-        <item quantity="other">&lt;Data>"Держите устройство подключенным.
+        <item quantity="other">&lt;Data>"Держите устройство подключённым.
 Это займет около %1$d мин. "&lt;/Data></item>
-        <item quantity="one">&lt;Data>"Держите устройство подключенным.
+        <item quantity="one">&lt;Data>"Держите устройство подключённым.
 Это займет около %1$d мин. "&lt;/Data></item>
     </plurals>
     <plurals name="notify_sms_reply_delay_time">

@@ -69,7 +69,7 @@
     <string name="find_device_error_account_sys_timeout">"Не удалось подключиться к Xiaomi аккаунту. "</string>
     <string name="find_device_error_account_unknown_error">Ошибка Xiaomi аккаунта (%s).</string>
     <string name="find_device_error_network">Ошибка сети.</string>
-    <string name="find_device_error_password_changed">Пароль аккаунта был недавно изменен.</string>
+    <string name="find_device_error_password_changed">Пароль аккаунта был недавно изменён.</string>
     <string name="find_device_error_server">Ошибка сервера (%s).</string>
     <string name="find_device_error_unknown">Неизвестная ошибка (%s).</string>
     <string name="find_device_noise_title">Сигнал Поиска устройства</string>

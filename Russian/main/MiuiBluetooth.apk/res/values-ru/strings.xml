@@ -190,7 +190,7 @@
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
     <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа в интернет</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Используется интернет-подключение другого устройства</string>
-    <string name="bluetooth_preference_connected_devices">Подключенные устройства</string>
+    <string name="bluetooth_preference_connected_devices">Подключённые устройства</string>
     <string name="bluetooth_preference_found_devices">Доступные устройства</string>
     <string name="bluetooth_preference_scan_title">Поиск устройств</string>
     <string name="bluetooth_profile_a2dp">Мультимедийное аудиоустройство</string>
@@ -493,7 +493,7 @@
     <string name="headset_fw_file_readfailed">Сбой</string>
     <string name="headset_incall_answer">Ответить</string>
     <string name="headset_incall_reject">Отмена</string>
-    <string name="headset_incall_summary">Ответить на вызов %1$s, используя наушники? Наушники останутся подключенными после завершения вызова.</string>
+    <string name="headset_incall_summary">Ответить на вызов %1$s, используя наушники? Наушники останутся подключёнными после завершения вызова.</string>
     <string name="headset_incall_title">Ответ на вызов</string>
     <string name="headset_loss_notify_summary">Один из наушников отсутствует в кейсе. Проверьте!</string>
     <string name="headset_loss_notify_summary1">Наушники отсутствуют в кейсе. Поместите их обратно для зарядки.</string>
@@ -766,7 +766,7 @@
     <string name="play_decode_audio">Воспроизведение аудио</string>
     <string name="plugin_alert_cancel">Позже</string>
     <string name="plugin_alert_kill">Перезапуск</string>
-    <string name="plugin_alert_text">Плагин Bluetooth успешно обновлен. Включите и выключите Bluetooth, чтобы изменения вступили в силу</string>
+    <string name="plugin_alert_text">Плагин Bluetooth успешно обновлён. Включите и выключите Bluetooth, чтобы изменения вступили в силу</string>
     <string name="plugin_alert_title">Перезапуск Bluetooth</string>
     <string name="plugin_download_create_client_failed">Не удалось загрузить файлы из-за ошибки сервера</string>
     <string name="plugin_download_get_object_failed">Не удалось подключиться к серверу</string>
@@ -782,14 +782,14 @@
     <string name="plugin_ota_finish">Успешно обновлено</string>
     <string name="plugin_ota_indicate">Перезапустите Bluetooth и подключите наушники</string>
     <string name="plugin_ota_messages1">Добавлена поддержка других моделей наушников</string>
-    <string name="plugin_ota_messages2">Обновлен фреймворк службы Bluetooth</string>
+    <string name="plugin_ota_messages2">Обновлён фреймворк службы Bluetooth</string>
     <string name="plugin_ota_progress">Обновление…</string>
     <string name="plugin_ota_tip_text">Перезапустите Bluetooth и связанные с ним системные службы, подключите гарнитуру Bluetooth</string>
     <string name="plugin_start_update">Обновление плагина Bluetooth…</string>
     <string name="plugin_update_failed">"Не удалось обновить. "</string>
     <string name="plugin_update_notification_summary">Включите и выключите Bluetooth, чтобы завершить обновление плагинов</string>
     <string name="plugin_update_notification_title">Перезапуск Bluetooth</string>
-    <string name="plugin_update_success">Плагин Bluetooth обновлен</string>
+    <string name="plugin_update_success">Плагин Bluetooth обновлён</string>
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать касания</string>
     <string name="power_charging_duration">%1$s - %2$s до полной зарядки</string>

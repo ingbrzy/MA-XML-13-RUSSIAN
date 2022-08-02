@@ -322,14 +322,14 @@
     <string name="permission_backup">Доступ к хранилищу</string>
     <string name="permission_backup_introduction">Для управления резервными копиями на устройстве</string>
     <string name="permission_call_records">Доступ к журналу вызовов</string>
-    <string name="permission_call_records_describe_bluetooth_summary">Для предоставления доступа к журналу вызовов другим совместимым устройствам, подключенных к этому устройству. Доступ будет предоставляться только если вы заранее разрешите его для другого устройства. Журнал вызовов и контакты, передаваемые через Bluetooth, будут кэшированы локально на устройствах и предоставляться им только с вашего разрешения.</string>
+    <string name="permission_call_records_describe_bluetooth_summary">Для предоставления доступа к журналу вызовов другим совместимым устройствам, подключённых к этому устройству. Доступ будет предоставляться только если вы заранее разрешите его для другого устройства. Журнал вызовов и контакты, передаваемые через Bluetooth, будут кэшированы локально на устройствах и предоставляться им только с вашего разрешения.</string>
     <string name="permission_call_records_introduction">Для доступа к журналу звонков для отображения заблокированных элементов</string>
     <string name="permission_call_state_introduction">Для доступа к состоянию телефона и управления записью вызовов</string>
     <string name="permission_clock_info_introduction">Для сохранения данных будильников</string>
     <string name="permission_contact">Доступ к контактам</string>
     <string name="permission_contact_describe">Доступ к контактам</string>
     <string name="permission_contact_describe_MIUIDaemon_summary">Для подтверждения личности</string>
-    <string name="permission_contact_describe_bluetooth_summary">Для предоставления доступа к контактам другим совместимым устройствам, подключенных к этому устройству. Доступ будет предоставляться только при включенном Bluetooth или редактировании контактов при включенном Bluetooth.</string>
+    <string name="permission_contact_describe_bluetooth_summary">Для предоставления доступа к контактам другим совместимым устройствам, подключённых к этому устройству. Доступ будет предоставляться только при включенном Bluetooth или редактировании контактов при включенном Bluetooth.</string>
     <string name="permission_contact_describe_desktop_summary">Для использования функции экстренного контакта на рабочем столе в Простом режиме и отображения уведомлений чатов;</string>
     <string name="permission_contact_describe_message_summary">Для отображения соответствующей контактной информации SMS и MMS.</string>
     <string name="permission_contact_introduction">Для обеспечения функциональности черного списка и вызова экстренных контактов</string>

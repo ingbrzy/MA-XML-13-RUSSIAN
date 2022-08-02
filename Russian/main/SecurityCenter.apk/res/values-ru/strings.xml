@@ -1954,11 +1954,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="function_auto_reject_title">Отклонять вызовы VoLTE на SIM-карты без мобильного интернета</string>
     <string name="function_close">Откл.</string>
     <string name="function_gwsd_detail">"О функции:
- 1. Когда вы используете мобильный интернет на SIM-карте для интернета или на обычной SIM-карте, подключенной к сети VoLTE, соединение не будет прерываться входящими вызовами до тех пор, пока вы не ответите.
+ 1. Когда вы используете мобильный интернет на SIM-карте для интернета или на обычной SIM-карте, подключённой к сети VoLTE, соединение не будет прерываться входящими вызовами до тех пор, пока вы не ответите.
  2. Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова, если вы не используете обычную SIM-карту. Входящий вызов будет автоматически завершен, если вы не ответите в течение 7-10 секунд.
  3. Поддерживаются SIM-карты для интернета China Mobile и China Unicom, и обычные SIM-карты China Mobile, China Unicom и China Telecom.</string>
     <string name="function_gwsd_detail_new">"О функции:
- %1$d. Когда вы используете мобильный интернет на SIM-карте для интернета или на обычной SIM-карте, подключенной к сети VoLTE, соединение не будет прерываться входящими вызовами до тех пор, пока вы не ответите.
+ %1$d. Когда вы используете мобильный интернет на SIM-карте для интернета или на обычной SIM-карте, подключённой к сети VoLTE, соединение не будет прерываться входящими вызовами до тех пор, пока вы не ответите.
  %2$d.  Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова, если вы не используете обычную SIM-карту. Входящий вызов будет автоматически завершен, если вы не ответите в течение %3$d-%4$d сек.
  %5$d. Поддерживаются SIM-карты для интернета China Mobile и China Unicom, и обычные SIM-карты China Mobile, China Unicom и China Telecom."</string>
     <string name="function_gwsd_title">Запрет прерывания соединения</string>
@@ -3768,7 +3768,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_optimize_close_haptic_feedback">Отключить виброотклик</string>
     <string name="power_optimize_close_wake_notification">Не включать экран для уведомлений</string>
     <string name="power_optimize_close_wlan">Отключить точку доступа</string>
-    <string name="power_optimize_close_wlan_summary">Отсутствие подключенных устройств экономит заряд</string>
+    <string name="power_optimize_close_wlan_summary">Отсутствие подключённых устройств экономит заряд</string>
     <string name="power_optimize_darkmode">Включить тёмный режим</string>
     <string name="power_optimize_darkmode_dialog_confirm">Включить</string>
     <string name="power_optimize_darkmode_dialog_summary">Тёмный режим экономит заряд и снижает нагрузку на глаза</string>
@@ -5662,8 +5662,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="top_no_network_detial">Ошибка загрузки, проверьте подключение и повторите попытку</string>
     <string name="traffic_advanced_settings">Настройки трафика</string>
     <string name="traffic_alarm">Настройка оповещения</string>
-    <string name="traffic_alert_auto_modify_notification_sumarry">Месячный лимит изменен на %s.</string>
-    <string name="traffic_alert_auto_modify_notification_titile">Лимит обновлен</string>
+    <string name="traffic_alert_auto_modify_notification_sumarry">Месячный лимит изменён на %s.</string>
+    <string name="traffic_alert_auto_modify_notification_titile">Лимит обновлён</string>
     <string name="traffic_alert_auto_modify_package_summary">Автоматически корректировать размер пакета на основе данных оператора</string>
     <string name="traffic_calculation">Трафик в день, например, 1 юань/1 ГБ/день.</string>
     <string name="traffic_config_alert_auto_modify">Обновлять лимит автоматически</string>

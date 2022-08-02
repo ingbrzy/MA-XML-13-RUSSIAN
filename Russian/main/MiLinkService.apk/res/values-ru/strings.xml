@@ -379,8 +379,8 @@
     <string name="night">Вечер</string>
     <string name="no_permission">Не удалось просмотреть эту страницу</string>
     <string name="noon">Полдень</string>
-    <string name="normal_device_desc">Подключенные устройства, не помеченные как доверенные</string>
-    <string name="normal_device_desc_limit">Подключенные устройства, не помеченные как доверенные</string>
+    <string name="normal_device_desc">Подключённые устройства, не помеченные как доверенные</string>
+    <string name="normal_device_desc_limit">Подключённые устройства, не помеченные как доверенные</string>
     <string name="normal_device_none">Список пуст</string>
     <string name="normal_device_title">Нет доверенных устройств</string>
     <string name="not_set">Не задано</string>

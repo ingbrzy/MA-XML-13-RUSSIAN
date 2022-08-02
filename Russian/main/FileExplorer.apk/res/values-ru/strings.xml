@@ -271,7 +271,7 @@
     <string name="file_info_canwrite">Запись: </string>
     <string name="file_info_ishidden">Скрытый: </string>
     <string name="file_info_location">Путь: </string>
-    <string name="file_info_modified">Изменен: </string>
+    <string name="file_info_modified">Изменён: </string>
     <string name="file_info_size">Размер: </string>
     <string name="file_loading">Подождите…</string>
     <string name="file_name_existed">Файл с таким именем уже существует</string>

@@ -96,7 +96,7 @@
     <string name="copying_certs">Настройка сертификатов ЦС</string>
     <string name="couldnt_set_up_device">Не удалось настроить устройство. Обратитесь за помощью к своему ИТ-администратору.</string>
     <string name="creditor_capabilities_header">%1$s может:</string>
-    <string name="cross_profile_consent_summary">Подключенные приложения позволяют одновременно получать доступ к рабочим и личным данным. Вы можете изменить это в любое время в настройках.</string>
+    <string name="cross_profile_consent_summary">Подключённые приложения позволяют одновременно получать доступ к рабочим и личным данным. Вы можете изменить это в любое время в настройках.</string>
     <string name="cross_profile_consent_title">Подключение рабочих и личных приложений</string>
     <string name="cross_profile_notification_channel_name">Подключение рабочих и личных приложений</string>
     <string name="cross_profile_notification_text">Совместный доступ к рабочим и личным данным. Нажмите для настройки.</string>

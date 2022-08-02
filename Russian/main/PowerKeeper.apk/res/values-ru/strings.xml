@@ -404,7 +404,7 @@
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="update_profile_failture_not_connect_wifi">Ошибка обновления. Подключитесь к Wi-Fi и повторите попытку.</string>
-    <string name="update_profile_sucess">Профиль успешно обновлен</string>
+    <string name="update_profile_sucess">Профиль успешно обновлён</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="vip_feedback">VIP отчёт</string>

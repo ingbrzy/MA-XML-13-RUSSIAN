@@ -48,7 +48,7 @@
     <string name="button_start_now">Продолжить</string>
     <string name="call_record">Записи вызовов</string>
     <string name="call_record_list_group_all">Все</string>
-    <string name="call_record_list_group_connected">Подключенные</string>
+    <string name="call_record_list_group_connected">Подключённые</string>
     <string name="call_record_list_group_unconnected">Не подключенные</string>
     <string name="cancel_rename">Отмена</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>

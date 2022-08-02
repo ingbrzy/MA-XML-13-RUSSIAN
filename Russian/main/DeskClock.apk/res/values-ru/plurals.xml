@@ -117,9 +117,9 @@
         <item quantity="one">%1$s мин.</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
-        <item quantity="other">Интервал повтора изменен на %d минут</item>
-        <item quantity="one">Интервал повтора изменен на %d минуту</item>
-        <item quantity="few">Интервал повтора изменен на %d минуты</item>
+        <item quantity="other">Интервал повтора изменён на %d минут</item>
+        <item quantity="one">Интервал повтора изменён на %d минуту</item>
+        <item quantity="few">Интервал повтора изменён на %d минуты</item>
     </plurals>
     <plurals name="snooze_duration_count">
         <item quantity="other">Сработает %1$s раз</item>

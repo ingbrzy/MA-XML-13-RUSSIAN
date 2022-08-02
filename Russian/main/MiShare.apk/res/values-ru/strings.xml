@@ -102,7 +102,7 @@
     <string name="error_p2p_recv_connect_timeout_china">Не удалось подключиться. Повторно подключитесь к Wi-Fi на обоих устройствах и повторите попытку.</string>
     <string name="error_permission_denied">Для использования этой функции предоставьте Mi Share все необходимые разрешения в настройках</string>
     <string name="error_receive_file_cannot_read">Не удалось принять файл</string>
-    <string name="error_receive_file_changed">Не удалось принять. Файл был изменен.</string>
+    <string name="error_receive_file_changed">Не удалось принять. Файл был изменён.</string>
     <string name="error_receive_file_file_opened">Не удалось принять файл. Похоже, файл сейчас используется.</string>
     <string name="error_receive_file_no_enough_space">Не удалось принять. Недостаточно места на устройстве.</string>
     <string name="error_receive_file_service_disabled">Входящая передача отменена</string>

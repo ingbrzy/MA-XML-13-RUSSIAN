@@ -1333,9 +1333,9 @@
     <string name="pdf_viewer_save_signature">Сохранить подпись</string>
     <string name="pdf_viewer_sign_file_damage_toast">Файл не существует</string>
     <string name="pdf_viewer_signature">Подписать PDF</string>
-    <string name="perference_change_auth_ok_tips">Код успешно изменен</string>
+    <string name="perference_change_auth_ok_tips">Код успешно изменён</string>
     <string name="perference_change_pw_notnull_tips">Введите пароль</string>
-    <string name="perference_change_pw_ok_tips">Пароль обновлен</string>
+    <string name="perference_change_pw_ok_tips">Пароль обновлён</string>
     <string name="perference_setup_pop_del">Удалить почту с сервера</string>
     <string name="perference_setup_recv_tag">Сервер входящей почты</string>
     <string name="perference_setup_send_tag">Сервер исходящей почты</string>
@@ -1503,7 +1503,7 @@
     <string name="recognize_ticket_air_state_transfer">Пересадка</string>
     <string name="recognize_ticket_air_user_name">Пассажир: %1$s</string>
     <string name="recognize_ticket_title">Билеты на самолет и поезд</string>
-    <string name="recognize_ticket_train_alter">Изменен</string>
+    <string name="recognize_ticket_train_alter">Изменён</string>
     <string name="recognize_ticket_train_depart_date">Отправление в %3$s:%4$s %2$s.%1$s</string>
     <string name="recognize_ticket_train_notification_content">Счастливого пути!</string>
     <string name="recognize_ticket_train_notification_title">Поезд %3$s (%2$s.%1$s) вскоре отправится. Проверьте свой билет.</string>
@@ -1650,7 +1650,7 @@
     <string name="sign_in_dialog_outlook_enterprise">Outlook для бизнеса (без календаря)</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (с календарем)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (без календаря)</string>
-    <string name="sign_in_graph_error">Можно войти в систему с использованием протоколов IMAP или EXCHANGE, только если ваша организация не изменила общую конфигурацию сервера. Если адрес сервера изменен организацией или соответствующие протоколы отключены, используйте для входа новый протокол Microsoft.</string>
+    <string name="sign_in_graph_error">Можно войти в систему с использованием протоколов IMAP или EXCHANGE, только если ваша организация не изменила общую конфигурацию сервера. Если адрес сервера изменён организацией или соответствующие протоколы отключены, используйте для входа новый протокол Microsoft.</string>
     <string name="sign_in_no_useful_provider_error">Не удается получить конфигурацию протокола от Microsoft. Обновите протокол или используйте другой.</string>
     <string name="signature">"
 

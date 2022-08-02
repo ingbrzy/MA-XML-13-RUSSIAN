@@ -1356,7 +1356,7 @@
     <string name="non_phone_add_to_contacts">Добавить к контакту</string>
     <string name="non_phone_caption">Номер телефона</string>
     <string name="non_phone_close">Закрыть</string>
-    <string name="none_paired">Нет подключенных устройств</string>
+    <string name="none_paired">Нет подключённых устройств</string>
     <string name="noon">Полдень</string>
     <string name="not_applied">Не поддерживается</string>
     <string name="not_set">Не задано</string>
@@ -1555,7 +1555,7 @@
     <string name="privacy_password_title1">Задайте пароль</string>
     <string name="privacy_password_title2">Пароль конфиденциальности</string>
     <string name="privacy_password_title3">Обновите ваш пароль</string>
-    <string name="privacy_password_title4">Пароль обновлен</string>
+    <string name="privacy_password_title4">Пароль обновлён</string>
     <string name="privacy_policy_and_user_agreement">Политика конфиденциальности и Пользовательское соглашение</string>
     <string name="privacy_settings_blue_scan_connect">Подключение к устройствам поблизости</string>
     <string name="privacy_settings_call_phone">Вызовы</string>
@@ -1950,7 +1950,7 @@
     <string name="titleJoinContactDataWith">Объединить контакты</string>
     <string name="title_finished_order">Готово</string>
     <string name="title_other_devices">Доступные устройства</string>
-    <string name="title_paired_devices">Подключенные устройства</string>
+    <string name="title_paired_devices">Подключённые устройства</string>
     <string name="title_processing_order">Обработка…</string>
     <string name="toast_call_detail_error">Не удалось получить информацию о вызове</string>
     <string name="toast_call_no_SoundRecorder">Диктофон недоступен</string>

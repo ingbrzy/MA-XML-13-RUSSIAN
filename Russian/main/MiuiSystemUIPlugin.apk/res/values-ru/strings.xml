@@ -156,7 +156,7 @@
     <string name="hearing_assist_transmission_label">Ушные мониторы</string>
     <string name="hearing_assist_transmission_tips_cancel">Отмена</string>
     <string name="hearing_assist_transmission_tips_continue">Включить</string>
-    <string name="hearing_assist_transmission_tips_summary">Передача звука с микрофона устройства на подключенные по Bluetooth наушники. Включить?</string>
+    <string name="hearing_assist_transmission_tips_summary">Передача звука с микрофона устройства на подключённые по Bluetooth наушники. Включить?</string>
     <string name="hearing_assist_transmission_tips_title">Ушные мониторы</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="item_view_role_description">Вкладка</string>
@@ -327,12 +327,12 @@
     <string name="qs_control_header_tiles_title">Центр управления</string>
     <string name="qs_customize_title">Редактирование</string>
     <string name="qs_open_night_mode_alert_summary">Некоторые настройки экрана не совместимы с Тёмным режимом. Тем не менее, они будут восстановлены после отключения Тёмного режима.</string>
-    <string name="quick_controls_subtitle">Добавьте элементы управления для подключенных устройств</string>
+    <string name="quick_controls_subtitle">Добавьте элементы управления для подключённых устройств</string>
     <string name="quick_controls_title">Управление устройством</string>
     <string name="quick_settings_aitranslate_label">MI AI перевод</string>
     <string name="quick_settings_autobrightness_label">Автояркость</string>
     <string name="quick_settings_batterysaver_label">Экономия заряда</string>
-    <string name="quick_settings_bluetooth_detail_empty_text">Нет подключенных устройств</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Нет подключённых устройств</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Мобильный интернет (WCDMA/LTE) будет отключён. Если Wi-Fi отключён, вы не сможете использовать приложения, которым требуется передача данных. Отправка и получение мультимедийных сообщений будут ограничены.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Будет включён мобильный интернет. Это может привести к дополнительным тратам, в зависимости от вашего тарифного плана.</string>
