@@ -310,7 +310,7 @@
     <string name="summary_fold_importance_important">Уведомления появятся в шторке уведомлений</string>
     <string name="summary_fold_importance_unimportant">Уведомления появятся в отдельной папке</string>
     <string name="summary_lock_screen_enable_notification_first">Включите уведомления для отображения на экране блокировки</string>
-    <string name="summary_show_badge_enable_notification_first">Включите уведомления для отображения счетчика</string>
+    <string name="summary_show_badge_enable_notification_first">Включите уведомления для отображения счётчика</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>

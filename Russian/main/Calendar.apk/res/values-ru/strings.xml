@@ -436,7 +436,7 @@
     <string name="gas_detail_name">Счет: %1$s</string>
     <string name="gas_detail_title">Оплата за газ</string>
     <string name="gas_event_delete_successfully">Удалено</string>
-    <string name="gas_interval_label">Расчетный период</string>
+    <string name="gas_interval_label">Расчётный период</string>
     <string name="glance_card_sub_title">Получайте захватывающие истории при каждой разблокировке</string>
     <string name="glance_card_title">Взгляд на Mi</string>
     <string name="global_action_text_card_manager">Настройте свой календарь</string>

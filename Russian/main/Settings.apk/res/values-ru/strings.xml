@@ -1148,7 +1148,7 @@
     <string name="battery_missing_link_a11y_message">Подробнее об этой ошибке…</string>
     <string name="battery_missing_link_message" />
     <string name="battery_missing_message">Не удалось узнать уровень заряда батареи</string>
-    <string name="battery_msg_unaccounted">Данные о расходе батареи отдельными приложениями являются приблизительными и не включают все возможные потребители энергии. Этот показатель соответствует разнице между расчетным и фактическим расходом батареи.</string>
+    <string name="battery_msg_unaccounted">Данные о расходе батареи отдельными приложениями являются приблизительными и не включают все возможные потребители энергии. Этот показатель соответствует разнице между расчётным и фактическим расходом батареи.</string>
     <string name="battery_not_usage">Батарея не использовалась с момента последней полной зарядки</string>
     <string name="battery_not_usage_24hr">Батарея не использовалась последние 24 часа</string>
     <string name="battery_overall_usage">%1$s заряда батареи</string>
@@ -3473,8 +3473,8 @@ ID: %s
     <string name="error_title" />
     <string name="error_xcap_not_add">Невозможно использовать XCAP в качестве типа точки доступа</string>
     <string name="estimated_charging_time_left">До полной зарядки</string>
-    <string name="estimated_time_description">Расчетное время зависит от интенсивности использования</string>
-    <string name="estimated_time_left">Расчетное время работы без подзарядки</string>
+    <string name="estimated_time_description">Расчётное время зависит от интенсивности использования</string>
+    <string name="estimated_time_left">Расчётное время работы без подзарядки</string>
     <string name="ethernet">Ethernet</string>
     <string name="ethernet_data_template">^1 (Ethernet)</string>
     <string name="ethernet_data_usage">Ethernet-трафик</string>
@@ -5537,7 +5537,7 @@ ID: %s
     <string name="memory_available_read_only">Доступно (только для чтения)</string>
     <string name="memory_avg_desc">В среднем %1$s</string>
     <string name="memory_avg_use">В среднем</string>
-    <string name="memory_calculating_size">Идет подсчет…</string>
+    <string name="memory_calculating_size">Идет подсчёт…</string>
     <string name="memory_clear_cache_message">Будут удалены кешированные данные всех приложений.</string>
     <string name="memory_clear_cache_title">Очистить кеш?</string>
     <string name="memory_dcim_usage">Изображения и видео</string>
@@ -7551,7 +7551,7 @@ UT-интерфейс: %5$s"</string>
     <string name="reset_second_space_passwd_cancel">Отмена</string>
     <string name="reset_second_space_passwd_confirm">Продолжить</string>
     <string name="reset_second_space_passwd_detail">Введите пароль Xiaomi аккаунта, используемый в первом пространстве</string>
-    <string name="reset_shortcut_manager_throttling">Сброс счетчиков ShortcutManager</string>
+    <string name="reset_shortcut_manager_throttling">Сброс счётчиков ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">Готово</string>
     <string name="reset_title">Сброс</string>
     <string name="reset_your_internet_title">Сбросить настройки подключения к Интернету?</string>
@@ -10008,7 +10008,7 @@ UT-интерфейс: %5$s"</string>
     <string name="usage_type_actual_power">Фактический расход</string>
     <string name="usage_type_audio">Аудио</string>
     <string name="usage_type_camera">Камера</string>
-    <string name="usage_type_computed_power">Расчетный расход</string>
+    <string name="usage_type_computed_power">Расчётный расход</string>
     <string name="usage_type_cpu">ЦП – всего</string>
     <string name="usage_type_cpu_foreground">ЦП – акт. режим</string>
     <string name="usage_type_data_recv">Данные получены по моб. сети</string>

@@ -175,9 +175,9 @@
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
         <item quantity="other">%1$d день 
-(расчетный)</item>
+(расчётный)</item>
         <item quantity="one">%1$d день 
-(расчетный)</item>
+(расчётный)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
         <item quantity="other">%1$d день</item>
@@ -314,9 +314,9 @@
         <item quantity="few">%1$d дня до периода</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Расчетный период: %1$d дней</item>
-        <item quantity="one">Расчетный период: %1$d день</item>
-        <item quantity="few">Расчетный период: %1$d дня</item>
+        <item quantity="other">Расчётный период: %1$d дней</item>
+        <item quantity="one">Расчётный период: %1$d день</item>
+        <item quantity="few">Расчётный период: %1$d дня</item>
     </plurals>
     <plurals name="today_has_num_event">
         <item quantity="other">%d мероприятий сегодня</item>

@@ -380,7 +380,7 @@ ID:%s
     <string name="dialog_date_select">Выберите дату</string>
     <string name="dialog_delete">Удалить</string>
     <string name="dialog_delete_record_confirm">Удалить запись?</string>
-    <string name="dialog_exercise_purpose">Добро пожаловать в приложение Здоровье! Функция \"Счетчик шагов\" позволяет подсчитывать количество пройденных вами шагов, а также настраивать цели активности. Все данные хранятся локально на вашем устройстве, что позволяет легко управлять ими.</string>
+    <string name="dialog_exercise_purpose">Добро пожаловать в приложение Здоровье! Функция \"Счётчик шагов\" позволяет подсчитывать количество пройденных вами шагов, а также настраивать цели активности. Все данные хранятся локально на вашем устройстве, что позволяет легко управлять ими.</string>
     <string name="dialog_exit">Выход</string>
     <string name="dialog_exit_use">Выход</string>
     <string name="dialog_feedback_content">Если вы не согласны предоставить разрешение, вы не сможете использовать некоторые функции этого приложения; тем не менее, основные функции приложения по-прежнему будут доступны. Вы всегда можете ограничить разрешения или отозвать авторизацию в настройках.</string>
@@ -415,8 +415,8 @@ ID:%s
 3. Данные о состоянии здоровья из приложений Здоровье, Xiaomi Wear и других приложений в одном месте."</string>
     <string name="dialog_upgrade_positive_btn">Обновить</string>
     <string name="dialog_upgrade_title">Mi Фитнес</string>
-    <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчета шагов, отслеживания сна, менструального цикла, веса, синхронизации статистики с облаком.</string>
-    <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчета шагов, отслеживания сна, менструального цикла, веса и многого другого.</string>
+    <string name="dialog_user_agreement_purpose">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчёта шагов, отслеживания сна, менструального цикла, веса, синхронизации статистики с облаком.</string>
+    <string name="dialog_user_agreement_purpose2">Добро пожаловать в приложение Здоровье! Это приложение можно использовать для подсчёта шагов, отслеживания сна, менструального цикла, веса и многого другого.</string>
     <string name="diastolic_pressure">Диастолическое</string>
     <string name="disable">Отключить</string>
     <string name="discard_update">Нет, спасибо</string>
@@ -458,7 +458,7 @@ ID:%s
     <string name="environment_detection_again">Повтор</string>
     <string name="environment_detection_fail">Слишком шумно</string>
     <string name="environment_detection_fail_hint">Попробуйте ещё раз в тихом месте</string>
-    <string name="environment_detection_hint_one">Избегайте шумных мест для более точного подсчета</string>
+    <string name="environment_detection_hint_one">Избегайте шумных мест для более точного подсчёта</string>
     <string name="environment_detection_hint_two">Тренировка будет приостановлена или возобновлена автоматически в зависимости от звуков</string>
     <string name="environment_detection_ing">Проверка окружения…</string>
     <string name="equivalent_exercise">≈%1$s км ходьбы (%2$s Кал)</string>
@@ -624,7 +624,7 @@ ID:%s
     <string name="health_score">Оценка состояния здоровья</string>
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="health_setting">Настройки</string>
-    <string name="health_uninstall_dialog_content">Приложение \"Здоровье\" является системным. После удаления будут недоступны подсчет шагов, отслеживание сна, периодов и веса, синхронизация статистики с облаком. </string>
+    <string name="health_uninstall_dialog_content">Приложение \"Здоровье\" является системным. После удаления будут недоступны подсчёт шагов, отслеживание сна, периодов и веса, синхронизация статистики с облаком. </string>
     <string name="health_uninstall_dialog_title">Удалить \"Здоровье\"?</string>
     <string name="hearing">Слух</string>
     <string name="heart_rate">Пульс</string>
@@ -871,13 +871,13 @@ ID:%s
     <string name="mens_avg_menstrual_period">Ср. период</string>
     <string name="mens_avg_period">Ср. цикл</string>
     <string name="mens_cancel_mark">Отмена</string>
-    <string name="mens_day_in_guess_menstrual_period"> %1$d расчетный день периода</string>
-    <string name="mens_day_in_guess_ovu_period"> %1$d расчетный день овуляции</string>
+    <string name="mens_day_in_guess_menstrual_period"> %1$d расчётный день периода</string>
+    <string name="mens_day_in_guess_ovu_period"> %1$d расчётный день овуляции</string>
     <string name="mens_day_in_ovu_period"> %3$d день цикла (%1$s-%2$s). Высокая вероятность овуляции.</string>
     <string name="mens_day_in_phy_period"> %3$d день цикла (%1$s-%2$s)</string>
-    <string name="mens_day_in_predict_menstrual_period"> %1$d расчетный день периода</string>
-    <string name="mens_day_in_predict_ovu_period"> %1$d расчетный день овуляции</string>
-    <string name="mens_day_in_predict_period">%3$d расчетный день цикла (%1$s-%2$s)</string>
+    <string name="mens_day_in_predict_menstrual_period"> %1$d расчётный день периода</string>
+    <string name="mens_day_in_predict_ovu_period"> %1$d расчётный день овуляции</string>
+    <string name="mens_day_in_predict_period">%3$d расчётный день цикла (%1$s-%2$s)</string>
     <string name="mens_guess_day_ovulation">Овуляция</string>
     <string name="mens_guess_menstrual_period_end">Месячные закончились</string>
     <string name="mens_guess_not_in_menstrual_period">Нет менструации</string>
@@ -1051,7 +1051,7 @@ ID:%s
     <string name="not_save_aid_file_desc">Все несохраненные изменения будут потеряны</string>
     <string name="not_set">Не задано</string>
     <string name="not_standing">Не сидите</string>
-    <string name="not_support_step">Устройство не поддерживает подсчет шагов</string>
+    <string name="not_support_step">Устройство не поддерживает подсчёт шагов</string>
     <string name="not_up_to_standard">Ниже нормы</string>
     <string name="number_divided">%1$d/%2$d</string>
     <string name="oar_time">Время в пути</string>
@@ -1290,7 +1290,7 @@ ID:%s
     <string name="skipping_start_counting">Начать</string>
     <string name="skipping_time">Длительность</string>
     <string name="skipping_upload_dialog_agree_and_upload">Принять и загрузить</string>
-    <string name="skipping_upload_dialog_msg">Чтобы обеспечить более точный подсчет, Xiaomi Health загрузит запись прыжков со скакалкой по Wi-Fi для улучшения распознавания прыжков. Для защиты вашей конфиденциальности, записи будут зашифрованы.</string>
+    <string name="skipping_upload_dialog_msg">Чтобы обеспечить более точный подсчёт, Xiaomi Health загрузит запись прыжков со скакалкой по Wi-Fi для улучшения распознавания прыжков. Для защиты вашей конфиденциальности, записи будут зашифрованы.</string>
     <string name="skipping_upload_dialog_reject_not_remind">Отклонить и больше не спрашивать</string>
     <string name="skipping_upload_dialog_title">Загрузка запись прыжков со скакалкой для улучшения распознавания</string>
     <string name="skipping_upload_tips">Загрузите запись прыжков со скакалкой для улучшения распознавания прыжков</string>

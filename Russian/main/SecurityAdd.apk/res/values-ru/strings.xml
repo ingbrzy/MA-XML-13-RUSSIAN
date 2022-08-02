@@ -126,8 +126,8 @@
     <string name="ew_detail_earthquake_feel_middle">Сильное</string>
     <string name="ew_detail_earthquake_feel_none">Не ощутимое</string>
     <string name="ew_detail_earthquake_feel_normal">Умеренное</string>
-    <string name="ew_detail_earthquake_feel_title">Расчетная интенсивность</string>
-    <string name="ew_detail_earthquake_level_title">Расчетная величина</string>
+    <string name="ew_detail_earthquake_feel_title">Расчётная интенсивность</string>
+    <string name="ew_detail_earthquake_level_title">Расчётная величина</string>
     <string name="ew_detail_receive_alert_from">Данные предоставлены Chengdu Hi-tech Disaster Reduction Institute</string>
     <string name="ew_detail_receive_distance_message1">%s км</string>
     <string name="ew_detail_receive_distance_message2">%s км (Эпицентр далеко от вас. Вы можете не почувствовать землетрясение.)</string>

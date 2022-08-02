@@ -720,7 +720,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Отмена</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Отключить</string>
     <string name="open_personal_assistant_dialog_desc">После отключения Ленты виджетов, виджеты и обновления приложения будут недоступны. Отключить?</string>
-    <string name="open_personal_assistant_dialog_desc_international">После отключения этой функции, Лента виджетов будет недоступна (ярлыки, быстрые заметки, мероприятия, подсчет шагов и другие функции)</string>
+    <string name="open_personal_assistant_dialog_desc_international">После отключения этой функции, Лента виджетов будет недоступна (ярлыки, быстрые заметки, мероприятия, подсчёт шагов и другие функции)</string>
     <string name="open_personal_assistant_dialog_title">Отключение Ленты виджетов</string>
     <string name="open_personal_assistant_settings">Настройки Ленты виджетов</string>
     <string name="open_personal_assistant_title">Лента виджетов</string>

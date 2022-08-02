@@ -662,7 +662,7 @@
     <string name="scanner_send_dialog_btn">Понятно</string>
     <string name="scanner_send_dialog_message">Не выключайте Wi-Fi и не переключайтесь между сетями во время передачи.</string>
     <string name="scanner_size_selected">Выбрано: %s</string>
-    <string name="scanner_time_remained">Расчетное время передачи: %s</string>
+    <string name="scanner_time_remained">Расчётное время передачи: %s</string>
     <string name="scanner_title_tip">Данные для передачи</string>
     <string name="scanner_wechat_overwrite_hit">Из-за ограничений сторонних приложений, история чатов и другие данные приложения на новом устройстве будут заменены данными со старого, после завершения передачи.</string>
     <string name="search_action_mode_cancel">Отмена</string>
@@ -706,7 +706,7 @@
     <string name="set_new_device_title">Настройка нового устройства…</string>
     <string name="set_new_device_wlan">Настройка Wi-Fi</string>
     <string name="settings_phone">Настройки телефона</string>
-    <string name="settings_powerkeeper">Данные счетчика шагов</string>
+    <string name="settings_powerkeeper">Данные счётчика шагов</string>
     <string name="settings_sms">Настройки сообщений</string>
     <string name="settings_system">Настройки системы</string>
     <string name="settings_wifi">Настройки Wi-Fi</string>

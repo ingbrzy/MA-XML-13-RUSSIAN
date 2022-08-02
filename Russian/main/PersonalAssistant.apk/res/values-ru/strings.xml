@@ -664,7 +664,7 @@
     <string name="card_title_favorite">Избранное</string>
     <string name="card_title_funclaunch">Ярлыки</string>
     <string name="card_title_noteboard">Быстрые заметки</string>
-    <string name="card_title_sport">Счетчик шагов</string>
+    <string name="card_title_sport">Счётчик шагов</string>
     <string name="card_title_sportassist">Спортивный помощник</string>
     <string name="card_trip_arrive">Прибытие</string>
     <string name="card_trip_dep">Отправление</string>
@@ -848,9 +848,9 @@ ID:%s
     <string name="empty_health_card_btn_get">Загрузить Mi Fit</string>
     <string name="empty_health_card_btn_login">Войти</string>
     <string name="empty_health_card_login_tip">Войдите в Mi Fit и подключить Mi Band.</string>
-    <string name="empty_health_card_login_tip_vip">Войдите в Mi Fit и включите счетчик шагов.</string>
+    <string name="empty_health_card_login_tip_vip">Войдите в Mi Fit и включите счётчик шагов.</string>
     <string name="empty_health_card_tip">Установите Mi Fit и подключите Mi Band.</string>
-    <string name="empty_health_card_tip_vip">Установите Mi Fit и включите счетчик шагов.</string>
+    <string name="empty_health_card_tip_vip">Установите Mi Fit и включите счётчик шагов.</string>
     <string name="empty_recharge_card_btn">Перейдите в настройки</string>
     <string name="empty_recharge_card_tip">Похоже, SIM-карта не установлена или вы не установили тарифный план</string>
     <string name="empty_recharge_card_title">Нет данных</string>
@@ -859,8 +859,8 @@ ID:%s
     <string name="eras_bc">до н. э.</string>
     <string name="error_share_not_support">Такие элементы не поддерживаются в избранном.</string>
     <string name="evening">После полудня</string>
-    <string name="exercise_setting_brief">Подсчет шагов и расстояния</string>
-    <string name="exercise_setting_misport_detail">Ежедневный подсчет шагов и пройденного расстояния (Разрешите Mi Fit автоматический запуск в Безопасность - Разрешения).</string>
+    <string name="exercise_setting_brief">Подсчёт шагов и расстояния</string>
+    <string name="exercise_setting_misport_detail">Ежедневный подсчёт шагов и пройденного расстояния (Разрешите Mi Fit автоматический запуск в Безопасность - Разрешения).</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="express">Экспресс доставка</string>
     <string name="express_add_new_address">Добавить адрес</string>
@@ -1337,7 +1337,7 @@ ID:%s
     <string name="mi_payment_setting_brief">Сбор информации о платежах</string>
     <string name="mi_payment_setting_brief_detail">Сбор информации о платежах из Сообщений и других приложений.</string>
     <string name="mi_personal_manage">личное управление</string>
-    <string name="mi_sport">Счетчик шагов</string>
+    <string name="mi_sport">Счётчик шагов</string>
     <string name="mi_sport_go_install">Загрузить</string>
     <string name="mi_wallet">Mi Кошелёк</string>
     <string name="midnight">Ночь</string>
@@ -2460,7 +2460,7 @@ ID:%s
     <string name="steps_auto_misport">Разрешить автозапуск</string>
     <string name="steps_get_misport">Установить Mi Fit</string>
     <string name="steps_misport">Выбран Mi Fit</string>
-    <string name="steps_misport_dialog_content">Mi Fit не установлен. Для подсчета шагов установите приложение.</string>
+    <string name="steps_misport_dialog_content">Mi Fit не установлен. Для подсчёта шагов установите приложение.</string>
     <string name="steps_misport_dialog_title">Mi Fit не установлен</string>
     <string name="steps_misport_download">Загрузить</string>
     <string name="steps_misport_go">Разрешить</string>
@@ -2468,7 +2468,7 @@ ID:%s
     <string name="steps_misport_tip">Войдите в Mi Fit, используя Xiaomi аккаунт, и разрешите автозапуск для Mi Fit.</string>
     <string name="steps_sport_des">Получать информацию из приложения Mi Fit</string>
     <string name="steps_vip">Шаги</string>
-    <string name="steps_vip_des">Подсчет шагов без установки сторонних приложений</string>
+    <string name="steps_vip_des">Подсчёт шагов без установки сторонних приложений</string>
     <string name="stock_card_add">Добавить компании</string>
     <string name="stock_card_title">Акции</string>
     <string name="stock_color_schema">Цветовая схема</string>

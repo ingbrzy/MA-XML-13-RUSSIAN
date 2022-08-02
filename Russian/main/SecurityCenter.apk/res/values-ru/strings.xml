@@ -465,7 +465,7 @@
     <string name="app_manager_clear_dlg_title">Очистка данных</string>
     <string name="app_manager_clear_failed_dlg_message">Ошибка удаления данных приложения.</string>
     <string name="app_manager_code_size">Приложение</string>
-    <string name="app_manager_comuting_size">Подсчет…</string>
+    <string name="app_manager_comuting_size">Подсчёт…</string>
     <string name="app_manager_copy_pkg_to_clip">Скопировано в буфер обмена</string>
     <string name="app_manager_data_size">Данные</string>
     <string name="app_manager_default_cleared">Действия по умолчанию сброшены</string>
@@ -1510,8 +1510,8 @@
     <string name="ew_alert_earthquake_feel_middle">Сильное сотрясение</string>
     <string name="ew_alert_earthquake_feel_none">Не ощущается</string>
     <string name="ew_alert_earthquake_feel_normal">Умеренное сотрясение</string>
-    <string name="ew_alert_earthquake_feel_title">Расчетная интенсивность</string>
-    <string name="ew_alert_earthquake_level_title">Расчетная величина</string>
+    <string name="ew_alert_earthquake_feel_title">Расчётная интенсивность</string>
+    <string name="ew_alert_earthquake_level_title">Расчётная величина</string>
     <string name="ew_alert_emergency_text">"Показать
 медицинскую карту"</string>
     <string name="ew_alert_emergency_text_single">Показать медицинскую карту</string>
@@ -4600,8 +4600,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="signed_rule">Правила</string>
     <string name="signed_rule_one">1. Отмечайтесь 10, 20 или 28 дней подряд каждый месяц для получения ускорения Xunyou на 1, 2 или 3 дня соответственно.</string>
     <string name="signed_rule_one_new">%1$d. Отмечайтесь %2$d, %3$d или %4$d дней подряд каждый месяц для получения ускорения Xunyou на %5$d, %6$d или %7$d д. соответственно.</string>
-    <string name="signed_rule_three">3. Счетчик отметок сбрасывается в начале каждого месяца. Остаток дней не переходит на следующий месяц.</string>
-    <string name="signed_rule_three_new">%1$d. Счетчик отметок сбрасывается в начале каждого месяца. Остаток дней не переходит на следующий месяц.</string>
+    <string name="signed_rule_three">3. Счётчик отметок сбрасывается в начале каждого месяца. Остаток дней не переходит на следующий месяц.</string>
+    <string name="signed_rule_three_new">%1$d. Счётчик отметок сбрасывается в начале каждого месяца. Остаток дней не переходит на следующий месяц.</string>
     <string name="signed_rule_two">2. Можно получить только 1 ускорение Xunyou в месяц.</string>
     <string name="signed_rule_two_new">%d. Можно получить только 1 ускорение Xunyou в месяц.</string>
     <string name="sim_car_absent__tip">Введите пароль разблокировки для отключения \"Режима пропажи\"</string>

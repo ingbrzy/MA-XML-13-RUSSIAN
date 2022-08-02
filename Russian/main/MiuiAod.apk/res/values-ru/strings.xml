@@ -327,9 +327,9 @@ dd.MM"</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="standard_clock_panel">По умолчанию</string>
     <string name="standard_style">По умолчанию</string>
-    <string name="step_component_info_active_tip">Подсчет шагов предоставлен Xiaomi Health. Для продолжения примите условия Xiaomi Health.</string>
-    <string name="step_component_info_desc">При достижении цели количества шагов вы получите трофей. Подсчет шагов предоставлен Xiaomi Health.</string>
-    <string name="step_component_info_tip">Подсчет шагов предоставлен Xiaomi Health. Установите или обновите приложение Здоровье и примите необходимые условия для продолжения работы.</string>
+    <string name="step_component_info_active_tip">Подсчёт шагов предоставлен Xiaomi Health. Для продолжения примите условия Xiaomi Health.</string>
+    <string name="step_component_info_desc">При достижении цели количества шагов вы получите трофей. Подсчёт шагов предоставлен Xiaomi Health.</string>
+    <string name="step_component_info_tip">Подсчёт шагов предоставлен Xiaomi Health. Установите или обновите приложение Здоровье и примите необходимые условия для продолжения работы.</string>
     <string name="step_to_image_community">Поиск в Xiaomi Community</string>
     <string name="summary">Если устройство долгое время находится в темноте, элементы не будут отображаться для экономии заряда.</string>
     <string name="sunday">Воскресенье</string>
