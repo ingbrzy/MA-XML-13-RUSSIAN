@@ -1483,7 +1483,7 @@
     <string name="pref_camera_fastmotion_speed_30x">Улица</string>
     <string name="pref_camera_fastmotion_speed_750x">Звездное небо</string>
     <string name="pref_camera_fastmotion_speed_90x">Облака</string>
-    <string name="pref_camera_fastmotion_speed_description">Регулировка скорости таймлапса. Чем выше значение скорости, тем короче видео и выше скорость воспроизведения. Для разных сцен рекомендуется использовать определенные значения скорости:</string>
+    <string name="pref_camera_fastmotion_speed_description">Регулировка скорости таймлапса. Чем выше значение скорости, тем короче видео и выше скорость воспроизведения. Для разных сцен рекомендуется использовать определённые значения скорости:</string>
     <string name="pref_camera_first_tag_tips">Тег добавлен</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Мягкий цвет</string>

@@ -734,7 +734,7 @@
     <string name="folder_list_display_only_import">Отображать только важные папки</string>
     <string name="folder_list_switch_account">Переключить</string>
     <string name="folder_no_mails">Писем нет</string>
-    <string name="folder_notification_setting_tip">\"Входящие\" содержат несколько папок. Установите уведомления о новых сообщениях для определенных папок.</string>
+    <string name="folder_notification_setting_tip">\"Входящие\" содержат несколько папок. Установите уведомления о новых сообщениях для определённых папок.</string>
     <string name="folder_picker_title">Выбор папки</string>
     <string name="folder_removed">Удалено из %1$s</string>
     <string name="folder_sent_name_en0">Отправленные</string>
@@ -925,7 +925,7 @@
     <string name="mail_outlook_psw_login">Войти с паролем</string>
     <string name="mail_spam_notify_title">Уведомлять о спаме</string>
     <string name="mailbox_folder">Папки</string>
-    <string name="mailbox_list_account_selector_combined_view">Совмещенный аккаунт</string>
+    <string name="mailbox_list_account_selector_combined_view">Совмещённый аккаунт</string>
     <string name="mailbox_name_display_ad">Реклама</string>
     <string name="mailbox_name_display_add_account">Новый аккаунт</string>
     <string name="mailbox_name_display_circular">Уведомления</string>

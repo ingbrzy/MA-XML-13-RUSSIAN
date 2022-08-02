@@ -512,7 +512,7 @@
     <string name="callFailed_no_user_responding">Пользователь не отвечает</string>
     <string name="callFailed_non_selected_user_clearing">Очистка не выбранного пользователя</string>
     <string name="callFailed_normal">Очистка нормальных вызовов</string>
-    <string name="callFailed_normal_unspecified">Нормальный, неопределенный</string>
+    <string name="callFailed_normal_unspecified">Нормальный, неопределённый</string>
     <string name="callFailed_number_changed">Номер изменен</string>
     <string name="callFailed_number_unreachable">Номер недоступен</string>
     <string name="callFailed_only_digital_information_bearer_available">Ограниченная возможность передачи цифровой информации</string>
@@ -761,7 +761,7 @@
     <string name="clh_callFailed_no_user_responding_txt">Пользователь не отвечает</string>
     <string name="clh_callFailed_non_selected_user_clearing_txt">Очистка не выбранного пользователя</string>
     <string name="clh_callFailed_normal_call_clearing_txt">Очистка нормальных вызовов</string>
-    <string name="clh_callFailed_normal_unspecified_txt">Нормальный, неопределенный</string>
+    <string name="clh_callFailed_normal_unspecified_txt">Нормальный, неопределённый</string>
     <string name="clh_callFailed_number_changed_txt">Номер изменен</string>
     <string name="clh_callFailed_only_restricted_digital_information_bearer_capability_is_available_txt">Ограниченная возможность передачи цифровой информации</string>
     <string name="clh_callFailed_operator_determined_barring_txt">Запрет оператора</string>
@@ -1181,7 +1181,7 @@
     <string name="fdn_full">Разрешенный номер не обновлен. Список заполнен.</string>
     <string name="fdn_invalid_number">Разрешенный номер не обновлен. Он пуст или содержит более %d цифр.</string>
     <string name="fdn_list_with_label">Разрешенные номера (%s)</string>
-    <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешенных номеров или определенными префиксами</string>
+    <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешенных номеров или определёнными префиксами</string>
     <string name="fdn_with_label">Разрешенные номера (%s)</string>
     <string name="fire_type_description">Активность</string>
     <string name="fiveg_available_status1">Доступность NR :</string>
@@ -1204,7 +1204,7 @@
     <string name="fiveg_nrca_switch_title">Агрегация несущих 5G</string>
     <string name="fiveg_plmn_info_list1">Информация PLMN :</string>
     <string name="fiveg_power_secret_code_tip">управление через приложение Безопасность &gt; Батарея &gt; Экономия заряда для 5G</string>
-    <string name="fiveg_power_switch_summary"> Экономить заряд для 5G подключения в определенных сценариях</string>
+    <string name="fiveg_power_switch_summary"> Экономить заряд для 5G подключения в определённых сценариях</string>
     <string name="fiveg_power_switch_title">Экономия заряда для 5G</string>
     <string name="fiveg_restrict_dcnr1">Ограничение DCNR :</string>
     <string name="fiveg_sa_switch_open_dialog_content">Соединение 5G может быть нестабильным в автономном режиме, что может повлиять на работу служб телефонии. Включить SA режим?</string>

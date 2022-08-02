@@ -848,7 +848,7 @@
     <string name="pref_summary_cleanup_white_list">Файлы из списка исключений не будут очищены</string>
     <string name="pref_summary_expand_cache_group">Показывать содержимое кэша</string>
     <string name="pref_summary_garbage_auto_clean_content">Выберите объекты для автоматической очистки</string>
-    <string name="pref_summary_garbage_cleanup_check_size">Очищать автоматически, когда накопится определенное количество мусора</string>
+    <string name="pref_summary_garbage_cleanup_check_size">Очищать автоматически, когда накопится определённое количество мусора</string>
     <string name="pref_summary_garbage_cleanup_check_time">Создать расписание очистки</string>
     <string name="pref_summary_garbage_process_mode">Настроить уведомления об очистке</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Загружать неизвестные имена файлов на сервер для сопоставления</string>

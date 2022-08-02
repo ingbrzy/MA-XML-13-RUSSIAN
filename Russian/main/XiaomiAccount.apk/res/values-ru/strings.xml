@@ -716,6 +716,7 @@ ID:%s
     <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
     <string name="passport_vcode_prompt_long">Введите код подтверждения</string>
     <string name="passport_vcode_sms_send_prompt">Отправить код подтверждения на %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Код подтверждения WhatsApp будет отправлен на резервное устройство &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">Не удалось проверить аккаунт</string>
     <string name="passport_verify">Проверить</string>
     <string name="passport_verifying_activator_phone">Проверка номера телефона…</string>
@@ -781,7 +782,7 @@ ID:%s
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
     <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
     <string name="revoke_privacy_policy">Отзыв согласия</string>
-    <string name="revoke_privacy_policy_instructions">"Если вы продолжите, согласие с Политикой конфиденциальности Xiaomi аккаунта будет отозвано. Сбор вашей личной информации будет прекращен. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Xiaomi Акаунт предоставляет сервисы на основе сбора некоторой личной информации, отзыв согласия будет считаться отказом от сервисов Xiaomi аккаунта. Отозвать согласие? "</string>
+    <string name="revoke_privacy_policy_instructions">"Если вы продолжите, согласие с Политикой конфиденциальности Xiaomi аккаунта будет отозвано. Сбор вашей личной информации будет прекращён. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Xiaomi Акаунт предоставляет сервисы на основе сбора некоторой личной информации, отзыв согласия будет считаться отказом от сервисов Xiaomi аккаунта. Отозвать согласие? "</string>
     <string name="revoke_privacy_policy_title">Отзыв согласия</string>
     <string name="risky_pwd_not_allow">Новый пароль небезопасен. Установите другой.</string>
     <string name="same_new_and_old_pwd">Новый пароль должен отличаться от старого</string>

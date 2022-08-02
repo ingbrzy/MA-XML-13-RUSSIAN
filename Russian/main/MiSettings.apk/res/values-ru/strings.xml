@@ -304,7 +304,7 @@
     <string name="hsv_space_color_value">Значение</string>
     <string name="intelligent_radio_btn_summary">Авторегулировка частоты обновления для баланса между производительностью и расходом батареи</string>
     <string name="intelligent_radio_btn_title">По умолчанию (рекомендуется)</string>
-    <string name="intelligent_recognition_item_summary">Использовать определенные рингтоны для служб доставки или такси. Эта функция будет работать, если %s установлен в качестве рингтона по умолчанию.</string>
+    <string name="intelligent_recognition_item_summary">Использовать определённые рингтоны для служб доставки или такси. Эта функция будет работать, если %s установлен в качестве рингтона по умолчанию.</string>
     <string name="intelligent_recognition_item_title">Идентификация сервисов</string>
     <string name="item_anura">Бесхвостые</string>
     <string name="item_artiodactyla">Парнокопытные</string>

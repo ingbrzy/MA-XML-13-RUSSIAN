@@ -29,6 +29,16 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Удалить %d загрузок?</item>
+        <item quantity="one">Удалить %d загрузку?</item>
+        <item quantity="few">Удалить %d загрузки?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Удалено %s загрузок</item>
+        <item quantity="one">Удалена %s загрузка</item>
+        <item quantity="few">Удалено %s загрузки</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>

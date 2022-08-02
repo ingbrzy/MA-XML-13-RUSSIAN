@@ -180,7 +180,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>ВЫКЛ</item>
         <item>Показывать области наложения</item>
-        <item>Выделять области определенного цвета</item>
+        <item>Выделять области определённого цвета</item>
     </string-array>
     <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (по умолчанию)</item>

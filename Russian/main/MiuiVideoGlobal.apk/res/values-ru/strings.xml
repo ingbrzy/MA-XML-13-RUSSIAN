@@ -347,7 +347,7 @@ ID: %s
 &lt;br/&gt;Перед использованием Mi Видео прочтите и примите наши &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>."</string>
     <string name="dialog_privacy_revoke_cancel">Отмена</string>
     <string name="dialog_privacy_revoke_count_down">Отзыв согласия (%1$d сек.)</string>
-    <string name="dialog_privacy_revoke_description">Вы собираетесь отозвать свое согласие с политикой конфиденциальности Mi Видео. Сбор вашей личной информации будет прекращен. Собранная и сохраненная личная информация будет удалена в течение определенного периода, как того требует действующее законодательство. Отзыв согласия будет рассматриваться как отказ от онлайн-услуг.</string>
+    <string name="dialog_privacy_revoke_description">Вы собираетесь отозвать свое согласие с политикой конфиденциальности Mi Видео. Сбор вашей личной информации будет прекращён. Собранная и сохраненная личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Отзыв согласия будет рассматриваться как отказ от онлайн-услуг.</string>
     <string name="dialog_privacy_revoke_fail">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="dialog_privacy_revoke_ok">Отзыв согласия</string>
     <string name="dialog_privacy_revoke_success">Успешно отозвано</string>
@@ -600,7 +600,7 @@ ID: %s
     <string name="galleryplus_notification_linkvideo_title2">%$s Нажмите для управления видео</string>
     <string name="galleryplus_notification_linkvideo_title3">%1$s Бесплатная загрузка видео %2$s Управление файлами</string>
     <string name="galleryplus_notification_linkvideo_title3_new">%$s Быстрая и бесплатная загрузка</string>
-    <string name="galleryplus_notification_linkvideo_title4">Сотни видео доступны бесплатно в течение определенного времени</string>
+    <string name="galleryplus_notification_linkvideo_title4">Сотни видео доступны бесплатно в течение определённого времени</string>
     <string name="galleryplus_notification_linkvideo_title5">Транслируйте бесплатно любимые шоу</string>
     <string name="galleryplus_notification_try_now_btn">Попробовать</string>
     <string name="galleryplus_notification_type_link_video">Локальные видео</string>

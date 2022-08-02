@@ -127,7 +127,7 @@ ID: %s
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Настройки сети</string>
     <string name="dialog_cannot_resume">Загрузка прервана, повторите попытку.</string>
-    <string name="dialog_confirm_delete_checkbox_message"> Удалить загруженные файлы</string>
+    <string name="dialog_confirm_delete_checkbox_message">Удалить также загруженные файлы</string>
     <string name="dialog_confirm_delete_the_download_item_message">Выбранные загрузки будут удалены из списка завершенных</string>
     <string name="dialog_content_limit0">Только по Wi-Fi</string>
     <string name="dialog_content_limit_max">Без ограничений</string>
@@ -646,6 +646,7 @@ ID: %s
     <string name="start_xunlei_speedup_info">Войдите в аккаунт для ускорения загрузок</string>
     <string name="starting_analysis">Получение информации…</string>
     <string name="storage_internal">Хранилище</string>
+    <string name="storage_permission_deny">Разрешите доступ к хранилищу</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопитель</string>
     <string name="subbt_downloading">Загрузка…</string>

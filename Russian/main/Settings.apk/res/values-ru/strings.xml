@@ -73,7 +73,7 @@
     <string name="accessibility_autoclick_custom_title">Настройка</string>
     <string name="accessibility_autoclick_default_title">Откл.</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед нажатием</string>
-    <string name="accessibility_autoclick_description">Если используется мышь, можно настроить курсор на автоматическое выполнение действий, когда он перестает двигаться на определенное время.</string>
+    <string name="accessibility_autoclick_description">Если используется мышь, можно настроить курсор на автоматическое выполнение действий, когда он перестает двигаться на определённое время.</string>
     <string name="accessibility_autoclick_long_summary">1 сек.</string>
     <string name="accessibility_autoclick_long_title">Длинное</string>
     <string name="accessibility_autoclick_longer_desc">Длиннее</string>
@@ -773,7 +773,7 @@
     <string name="app_permissions">Менеджер разрешений</string>
     <string name="app_permissions_summary">Приложения, использующие %1$s</string>
     <string name="app_permissions_summary_more">Приложения, использующие %1$s, и больше</string>
-    <string name="app_pinning_intro">Эта функция позволяет закрепить экран определенного приложения, закрыв доступ к другим программам на телефоне. Ее можно использовать, например, если вы хотите дать другу поиграть в игру на вашем устройстве.</string>
+    <string name="app_pinning_intro">Эта функция позволяет закрепить экран определённого приложения, закрыв доступ к другим программам на телефоне. Ее можно использовать, например, если вы хотите дать другу поиграть в игру на вашем устройстве.</string>
     <string name="app_pinning_main_switch_title">Закрепление приложений</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="app_restrictions_custom_label">Настроить ограничения</string>
@@ -1735,7 +1735,7 @@
     <string name="bluetooth_unlock_device_matched_text">Использовать это устройство для разблокировки.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Нет доступных устройств</string>
     <string name="bluetooth_unlock_reject">Запрос на разблокировку этого устройства отклонен</string>
-    <string name="bluetooth_unlock_settings_devices_prompt">Поддерживаются только определенные Bluetooth-устройства (например, фитнес-браслеты и смарт-часы)</string>
+    <string name="bluetooth_unlock_settings_devices_prompt">Поддерживаются только определённые Bluetooth-устройства (например, фитнес-браслеты и смарт-часы)</string>
     <string name="bluetooth_unlock_settings_devices_title">Устройство</string>
     <string name="bluetooth_unlock_settings_toggle_title">Применение</string>
     <string name="bluetooth_unlock_settings_unlock_device">Разблокировка устройством</string>
@@ -2375,10 +2375,10 @@
     <string name="contact_data">Контакты</string>
     <string name="contact_discovery_opt_in_dialog_message">"Номера телефонов ваших контактов будут периодически отправляться %1$s.
 
-Эта информация позволит определить, могут ли ваши контакты использовать определенные функции, такие как видеозвонки или некоторые функции обмена сообщениями."</string>
+Эта информация позволит определить, могут ли ваши контакты использовать определённые функции, такие как видеозвонки или некоторые функции обмена сообщениями."</string>
     <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Номера телефонов ваших контактов будут периодически отправляться вашему оператору связи.
 
-Эта информация позволит определить, могут ли ваши контакты использовать определенные функции, такие как видеозвонки или некоторые функции обмена сообщениями."</string>
+Эта информация позволит определить, могут ли ваши контакты использовать определённые функции, такие как видеозвонки или некоторые функции обмена сообщениями."</string>
     <string name="contact_discovery_opt_in_dialog_title">Отправить контакты %1$s?</string>
     <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Отправить контакты оператору связи?</string>
     <string name="contact_discovery_opt_in_summary">Отправка номеров телефонов контактов оператору связи для использования расширенных функций</string>
@@ -2715,7 +2715,7 @@
     <string name="data_usage_template">Использовано за период %2$s: %1$s</string>
     <string name="data_usage_title">Основные данные</string>
     <string name="data_usage_total_during_range">%2$s: ≈%1$s</string>
-    <string name="data_usage_total_during_range_mobile">%2$s: %1$s (трафик, определенный устройством). Данные оператора могут отличаться.</string>
+    <string name="data_usage_total_during_range_mobile">%2$s: %1$s (трафик, определённый устройством). Данные оператора могут отличаться.</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
@@ -4024,7 +4024,7 @@ ID: %s
     <string name="graphics_driver_app_preference_title">Выбор графического драйвера</string>
     <string name="graphics_driver_dashboard_summary">Выбор графического драйвера для приложений</string>
     <string name="graphics_driver_dashboard_title">Графический драйвер</string>
-    <string name="graphics_driver_footer_text">При наличии нескольких графических драйверов можно выбрать определенный графический драйвер для приложений.</string>
+    <string name="graphics_driver_footer_text">При наличии нескольких графических драйверов можно выбрать определённый графический драйвер для приложений.</string>
     <string name="graphics_driver_main_switch_title">Изменение настроек графического драйвера</string>
     <string name="group_active_devices">Активные устройства</string>
     <string name="group_apply_changes_dialog_title">Применить изменения для всех устройств в группе?</string>
@@ -4136,7 +4136,7 @@ ID: %s
     <string name="haptic_return_gesture_05_content_description">Жест Назад</string>
     <string name="haptic_shutdown_menu_06_content_description">Меню питания</string>
     <string name="haptic_single_selection_02_content_description">Выбор элементов</string>
-    <string name="haptic_switch_summary">Использовать определенный виброотклик для элементов, когда включено чтение с экрана</string>
+    <string name="haptic_switch_summary">Использовать определённый виброотклик для элементов, когда включено чтение с экрана</string>
     <string name="haptic_switch_title">Виброотклик</string>
     <string name="haptic_text_edit_popup_13_content_description">Всплывающее меню</string>
     <string name="haptic_upper_right_menu_15_content_description">Выпадающее меню</string>
@@ -8750,7 +8750,7 @@ UT-интерфейс: %5$s"</string>
     <string name="slider_global_summary_drawer">Сдвиньте вниз, чтобы просмотреть доступные ярлыки</string>
     <string name="slider_global_summary_selfie">Сдвиньте вниз, чтобы сделать селфи</string>
     <string name="slider_global_title">Ярлык слайдера</string>
-    <string name="slider_high_grade_summary">Сдвиньте вниз, чтобы выполнить заданное действие при определенных условиях</string>
+    <string name="slider_high_grade_summary">Сдвиньте вниз, чтобы выполнить заданное действие при определённых условиях</string>
     <string name="slider_high_grade_title">Дополнительные настройки</string>
     <string name="slider_selfie">Сделать селфи</string>
     <string name="slider_title">Настройки слайдера</string>
@@ -8903,7 +8903,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_policy_no_net_message">Для отзыва согласия требуется подключение к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="sos_privacy_policy_no_net_title">Ошибка подключения</string>
     <string name="sos_privacy_policy_revoke">Отзыв согласия</string>
-    <string name="sos_privacy_policy_revoke_message_reject">"Если вы продолжите, согласие с Политикой конфиденциальности функции \"Экстренная помощь\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока, в соответствии с действующими законами и правилами, если не требуется иное.
+    <string name="sos_privacy_policy_revoke_message_reject">"Если вы продолжите, согласие с Политикой конфиденциальности функции \"Экстренная помощь\" будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока, в соответствии с действующими законами и правилами, если не требуется иное.
 
 Поскольку функция \"Экстренная помощь\" предоставляет свои сервисы на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от использования сервисов безопасности.
 
@@ -9185,7 +9185,7 @@ UT-интерфейс: %5$s"</string>
     <string name="storage_wizard_migrate_progress_title">Перенос данных…</string>
     <string name="storage_wizard_migrate_progress_v2_title">Перенос контента…</string>
     <string name="storage_wizard_migrate_title">Перенесите на новое устройство</string>
-    <string name="storage_wizard_migrate_v2_body">"Вы можете перенести файлы, мультимедиа и определенные приложения на ^1. 
+    <string name="storage_wizard_migrate_v2_body">"Вы можете перенести файлы, мультимедиа и определённые приложения на ^1. 
 
 Это освободит ^2 на устройстве и займет около ^3."</string>
     <string name="storage_wizard_migrate_v2_checklist">Во время переноса:</string>

@@ -159,8 +159,8 @@
     <string name="bh_delete_edited_phone_number">Удалить введенный номер телефона</string>
     <string name="bh_delete_success">Успешно удалено</string>
     <string name="bh_deregister_service_failure_description">Попробуйте позже</string>
-    <string name="bh_deregister_service_failure_title">Не удалось отказаться от услуг</string>
-    <string name="bh_deregister_service_success">Вы успешно отказались от услуг</string>
+    <string name="bh_deregister_service_failure_title">Не удалось отменить сервисы</string>
+    <string name="bh_deregister_service_success">Сервисы успешно отменены</string>
     <string name="bh_device_not_available_hint"><Data>"&lt;font color =#F22424>Устройство недоступно для использования.&lt;/font>Виртуальная SIM-карта была оформлена на устройство, на котором была совершена покупка (&lt;font color =#F22424>%1$s&lt;/font>), используйте то устройство."</Data></string>
     <string name="bh_discover">Изучить</string>
     <string name="bh_edit_saved_phone_number">Редактировать тег сохраненного номера</string>
@@ -394,7 +394,7 @@
     <string name="call_record_auto_unknown_number">Неизвестные номера</string>
     <string name="call_record_auto_whitelist">Список номеров</string>
     <string name="call_record_content_search">Поиск вызовов</string>
-    <string name="call_record_content_search_summary">Автоматическая запись и расшифровка в текст для поиска вызовов, в которых встречаются определенные слова</string>
+    <string name="call_record_content_search_summary">Автоматическая запись и расшифровка в текст для поиска вызовов, в которых встречаются определённые слова</string>
     <string name="call_record_content_summary">Для защиты вашей конфиденциальности, аудиозаписи вызовов вместе с расшифрованным текстом будут зашифрованы и сохранены на вашем устройстве локально. Другие приложения не смогут получить доступ к этим записям.</string>
     <string name="call_record_content_title">Расшифровка записей</string>
     <string name="call_record_content_type">Сохранение записей</string>
@@ -412,7 +412,7 @@
     <string name="call_record_text_auto_delete_half_year">Через %d мес.</string>
     <string name="call_record_text_auto_delete_never">Никогда</string>
     <string name="call_record_text_auto_delete_one_month">Через %d мес.</string>
-    <string name="call_record_user_notice_all_purpose">Поиск вызовов, в которых содержатся определенные слова</string>
+    <string name="call_record_user_notice_all_purpose">Поиск вызовов, в которых содержатся определённые слова</string>
     <string name="call_record_user_notice_permission_desc_microphone">Запись вызовов</string>
     <string name="call_record_user_notice_permission_desc_storage">Сохранение записей</string>
     <string name="call_record_user_notice_title">Поиск голосовых вызовов</string>
@@ -1713,7 +1713,7 @@
     <string name="search_menu_title">Поиск</string>
     <string name="search_new_funcation">О функции</string>
     <string name="search_open_new_funcation">Включить</string>
-    <string name="search_open_new_funcation_tip">Эта функция включает автоматическую запись и расшифровку в текст для поиска вызовов, в которых встречаются определенные слова.</string>
+    <string name="search_open_new_funcation_tip">Эта функция включает автоматическую запись и расшифровку в текст для поиска вызовов, в которых встречаются определённые слова.</string>
     <string name="search_open_new_funcation_title">Поиск вызовов</string>
     <string name="search_preference_contacts_filter">Контакты;Отображение</string>
     <string name="search_quick_dial_setting">Телефон</string>

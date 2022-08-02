@@ -484,8 +484,10 @@
     <string name="incompatible_dialog_message">Эта тема несовместима с версией MIUI, установленной на вашем устройстве. Если Вы примените эту тему, компоненты MIUI могут работать неправильно.</string>
     <string name="incompatible_dialog_ok">ОК</string>
     <string name="incompatible_dialog_title">Проблемы совместимости</string>
-    <string name="install_clock">Часы не установлены. Загрузить сейчас?</string>
+    <string name="install_clock">Часы не установлены. Загрузить?</string>
     <string name="install_failed">Не удалось установить</string>
+    <string name="install_gallery_content">Галерея не установлена. Загрузить?</string>
+    <string name="install_gallery_title">Установка Галереи</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="item_resource_audio_optional_alarm_ring">Будильник</string>
     <string name="item_resource_audio_optional_color_ring">Сигнал вызова</string>
@@ -753,7 +755,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Выйти из Обои и персонализация?</string>
     <string name="pad_fold_log_in_theme_detail"><Data>Я принимаю &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>&lt;/font> Обои и персонализация, а также &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a>&lt;/font> Xiaomi аккаунта (для входа с использованием системного аккаунта).</Data></string>
     <string name="pad_fold_log_in_wallpaper">Войти в Обои и персонализация</string>
-    <string name="pad_fold_no_permission">Требуется доступ к хранилищу</string>
+    <string name="pad_fold_no_permission">Разрешите доступ к хранилищу</string>
     <string name="pad_fold_no_permission_detail">Разрешите доступ к хранилищу для настройки персонализации и сохранения загруженных компонент.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="personalize">Персонализация</string>
@@ -798,45 +800,45 @@ mm"</string>
     <string name="privacy_action_failed_net_content">Ошибка сети. Попробуйте позже…</string>
     <string name="privacy_action_failed_server_content">Ошибка сервера. Попробуйте позже…</string>
     <string name="privacy_action_failed_title">Ошибка</string>
-    <string name="privacy_confirm_logoff_and_exit">Отменить услуги</string>
-    <string name="privacy_confirm_revoke_and_exit_btn">Отзыв согласия</string>
+    <string name="privacy_confirm_logoff_and_exit">ОК</string>
+    <string name="privacy_confirm_revoke_and_exit_btn">Отозвать согласие</string>
     <string name="privacy_exit_btn">Выход</string>
     <string name="privacy_give_up_logoff">Назад</string>
     <string name="privacy_give_up_revoke_btn">Назад</string>
     <string name="privacy_i_know_btn">Продолжить</string>
     <string name="privacy_important_prompt_title">Внимание</string>
-    <string name="privacy_log_off_succeed">Услуги успешно отменены</string>
-    <string name="privacy_loging_off_warning">Отмена услуг…</string>
-    <string name="privacy_logoff_services_title">Отказ от услуг</string>
+    <string name="privacy_log_off_succeed">Сервисы успешно отменены</string>
+    <string name="privacy_loging_off_warning">Отмена сервисов…</string>
+    <string name="privacy_logoff_services_title">Отказ от использования</string>
     <string name="privacy_logoff_theme_content_1">1. Все заказы (в том числе оплаченные), сделанные на устройствах Xiaomi. Вы больше не сможете использовать приобретенные компоненты.</string>
     <string name="privacy_logoff_theme_content_2">2. Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.</string>
     <string name="privacy_logoff_theme_content_5">5. Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Будут восстановлены настройки персонализации по умолчанию.</string>
-    <string name="privacy_logoff_theme_service_warning">Следующие компоненты будут удалены навсегда после отмены услуг:</string>
+    <string name="privacy_logoff_theme_service_warning">Следующие компоненты будут удалены навсегда:</string>
     <string name="privacy_network_exception">Ошибка сети. Попробуйте позже…</string>
     <string name="privacy_pad_fold_Read_write_storage">Доступ к хранилищу</string>
     <string name="privacy_pad_fold_entry">Конфиденциальность</string>
-    <string name="privacy_pad_fold_logoff_service_content">Отказ от услуг Обои и персонализация</string>
+    <string name="privacy_pad_fold_logoff_service_content">Отказ от использования Обои и персонализация</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Все обои, шрифты и рингтоны, загруженные на это устройство.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Настройки разрешений, кэшированные компоненты, созданные на этом устройстве.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас достаточно прав для отказа от услуг.
-2. Отказ от услуг Обои и персонализация не повлияет на нормальное использование других продуктов Xiaomi.
-3. Отказ от услуг является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отказа от услуг. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами) следующие данные:"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас достаточно прав для отказа от сервисов.
+2. Отказ от использования Обои и персонализация не повлияет на нормальное использование других продуктов Xiaomi.
+3. Отказ от сервисов является необратимым действием. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отказа от сервисов. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами) следующие данные:"</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Все заказы (в том числе оплаченные), сделанные на устройствах Xiaomi. Вы больше не сможете использовать приобретенные компоненты.
 Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.
 Все обои, шрифты и рингтоны, загруженные на это устройство.
 Все разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, используемые на этом устройстве. Будут восстановлены настройки персонализации по умолчанию."</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Отказ от услуг не означает освобождения или смягчения ответственности, возникшей в результате действий до отказа от услуг.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Заявление об отказе от услуг Обои и персонализация</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Прочтите и примите \"Заявление об отказе от услуг Обои и персонализация\" до отказа от услуг.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">Вы отказываетесь от услуг Обои и персонализация.</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отказе от услуг Обои и персонализация&lt;/a>&lt;/font>\".</Data></string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Отказ от сервисов не означает освобождения или смягчения ответственности, возникшей в результате действий до отказа от сервисов.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Заявление об отказе от использования Обои и персонализация</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Прочтите и примите \"Заявление об отказе от использования Обои и персонализация\" до отказа от сервисов.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">Вы отказываетесь от использования Обои и персонализация.</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отказе от использования Обои и персонализация&lt;/a>&lt;/font>\".</Data></string>
     <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отзыве согласия с Политикой конфиденциальности Обои и персонализация&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Все обои, шрифты и рингтоны, загруженные на это устройство.</string>
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Все разрешения, настройки, кэшированные компоненты на этом устройстве.</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">Заявление об отзыве согласия  с Политикой конфиденциальности Обои и персонализация</string>
     <string name="privacy_pad_fold_revoke_agree_detail_title">Прежде чем отозвать свое согласие, прочтите \"Заявление об отзыве согласия на Политику конфиденциальности Обоев и персонализация\".</string>
-    <string name="privacy_pad_fold_revoke_agree_introduce">Если Вы продолжите, согласие с Политикой конфиденциальности Обои и персонализация будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Обои и персонализация предоставляют свои услуги на основе сбора некоторой личной информации, отзыв согласия будет считаться отказом от услуг Обои и персонализация.</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">Если Вы продолжите, согласие с Политикой конфиденциальности Обои и персонализация будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Обои и персонализация предоставляют свои услуги на основе сбора некоторой личной информации, отзыв согласия будет считаться отказом от услуг Обои и персонализация.</string>
     <string name="privacy_pad_fold_update_content">Обновленная Политика конфиденциальности Обои и персонализация:</string>
     <string name="privacy_pad_important_prompt_content">"Отсутствует согласие с нашими Пользовательским соглашением и Политикой конфиденциальности. Тем не менее, основные функции и услуги приложения Темы по-прежнему доступны Вам.
 Каждый раз, когда на этом устройстве Вы используете компоненты для персонализации (обои, рингтоны, и т.д.), мы будем запрашивать разрешение на доступ к хранилищу."</string>
@@ -845,21 +847,21 @@ mm"</string>
     <string name="privacy_permit_privacy_policy_content">"Вы не сможете пользоваться нашим сервисом, если не примите обновленную&lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>. Принимаете?"</string>
     <string name="privacy_phone_important_prompt_content">"Отсутствует согласие с нашими Пользовательским соглашением и Политикой конфиденциальности. Тем не менее, основные функции и услуги Обои и персонализация по-прежнему доступны Вам.
 Каждый раз, когда на этом устройстве Вы используете компоненты для персонализации (обои, рингтоны, и т.д.), мы будем запрашивать разрешение на доступ к хранилищу."</string>
-    <string name="privacy_phone_logoff_service_content">Отказ от услуг Темы</string>
+    <string name="privacy_phone_logoff_service_content">Отказ от использования Темы</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Все темы, обои, живые обои, шрифты, иконки и рингтоны, загруженные на это устройство.</string>
     <string name="privacy_phone_logoff_theme_content_4">4. История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве. </string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас достаточно прав для отказа от услуг.
-2. Отказ от услуг Темы не повлияет на нормальное использование других продуктов Xiaomi.
-3. Отказ от услуг - необратимое действие. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отказа от услуг. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами) следующие данные:"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Прежде чем продолжить, убедитесь, что у вас достаточно прав для отказа от сервисов.
+2. Отказ от использования Темы не повлияет на нормальное использование других продуктов Xiaomi.
+3. Отказ от сервисов - необратимое действие. Прежде чем продолжить, сделайте резервную копию всех важных данных, так как они могут быть удалены безвозвратно. Помните, что Вы не сможете изменить свое решение после отказа от сервисов. Будут безвозвратно удалены или обезличены (за исключением случаев, предусмотренных законами и нормативными актами или иным образом требуемых регулирующими органами) следующие данные:"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Все компоненты (в том числе оплаченные), на устройствах Xiaomi. Вы больше не сможете использовать приобретенные компоненты.
 Вся информация о ваших лайках, комментариях, рейтингах и подписчиках, созданная на устройствах Xiaomi.
 Все темы, обои, живые обои, шрифты, иконки и рингтоны, загруженные на это устройство.
 История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, используемые на этом устройстве. Будут восстановлены настройки персонализации по умолчанию."</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Отказ от услуг не означает освобождения или смягчения ответственности, возникшей в результате действий до отказа от услуг.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_prompt">Заявление об отказе от услуг Темы</string>
-    <string name="privacy_phone_logoff_theme_service_detail_title">Прежде чем отказаться от услуг, прочтите \"Заявление об отказе от услуг Темы\".</string>
-    <string name="privacy_phone_logoff_theme_service_introduce">Вы собираетесь отказаться от услуг Темы.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Отказ от сервисов не означает освобождения или смягчения ответственности, возникшей в результате действий до отказа от сервисов.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_prompt">Заявление об отказе от использования Темы</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Прежде чем отказаться от использования, прочтите \"Заявление об отказе от использования Темы\".</string>
+    <string name="privacy_phone_logoff_theme_service_introduce">Вы собираетесь отказаться от использования Темы.</string>
     <string name="privacy_phone_read_and_write_storage">Доступ к хранилищу</string>
     <string name="privacy_phone_read_and_write_storage_above_eleven">Доступ к хранилищу</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>Я принимаю \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Заявление об отказе от услуг Темы&lt;/a>&lt;/font>\".</Data></string>
@@ -874,11 +876,11 @@ mm"</string>
 Все темы, обои, живые обои, шрифты, иконки и рингтоны, загруженные на это устройство.
 История поиска, разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, используемые на этом устройстве. Будут восстановлены настройки персонализации по умолчанию."</string>
-    <string name="privacy_phone_revoke_agree_detail_content_3">"4. После отзыва согласия с Политикой конфиденциальности Темы, сбор Вашей личной информации будет прекращен. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. 
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. После отзыва согласия с Политикой конфиденциальности Темы, сбор Вашей личной информации будет прекращён. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. 
 5. Отзыв согласия не означает освобождения или смягчения ответственности, возникшей в результате действий до отзыва согласия."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">Заявление об отзыве согласия на Политику конфиденциальности Темы</string>
     <string name="privacy_phone_revoke_agree_detail_title">Прежде чем отозвать согласие, прочтите \"Заявление об отзыве согласия на Политику конфиденциальности Темы\".</string>
-    <string name="privacy_phone_revoke_agree_introduce">"Если Вы продолжите, согласие с Политикой конфиденциальности Темы будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Темы предоставляют свои услуги на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от услуг Темы."</string>
+    <string name="privacy_phone_revoke_agree_introduce">"Если Вы продолжите, согласие с Политикой конфиденциальности Темы будет отозвано. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. Поскольку Темы предоставляют свои услуги на основе сбора некоторой личной информации, отзыв согласия будет рассматриваться как отказ от услуг Темы."</string>
     <string name="privacy_phone_update_content">Обновленная Политика конфиденциальности Темы:</string>
     <string name="privacy_read_statement">Примите условия и положения</string>
     <string name="privacy_read_the_updated_privacy_policy_content">Прежде чем продолжить, прочтите и примите обновленную &lt;font color ='#37A5FF'>&lt;a href=\"%1$s\">Политику конфиденциальности&lt;/font>&lt;/a>.</string>
@@ -905,7 +907,7 @@ mm"</string>
 Все обои, шрифты и рингтоны, загруженные на это устройство.
 Все разрешения, настройки и кэшированные компоненты на этом устройстве.
 Все компоненты персонализации, которые в настоящее время используются на этом устройстве. Настройки персонализации будут восстановлены по умолчанию."</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. После отзыва согласия с Политикой конфиденциальности Обои и персонализация, сбор Вашей личной информации будет прекращен. Уже собранная и сохраненная личная информация будет удалена в течение определенного срока в соответствии с действующими законами и правилами, если не требуется иное. 
+    <string name="private_pad_fold_revoke_agree_detail_content_3">"4. После отзыва согласия с Политикой конфиденциальности Обои и персонализация, сбор Вашей личной информации будет прекращён. Уже собранная и сохраненная личная информация будет удалена в течение определённого срока в соответствии с действующими законами и правилами, если не требуется иное. 
 5. Отзыв согласия не означает освобождения или смягчения ответственности, возникшей в результате действий до отзыва согласия."</string>
     <string name="provision_default_theme_title">По умолчанию</string>
     <string name="provision_loading_tips">Подождите…</string>
