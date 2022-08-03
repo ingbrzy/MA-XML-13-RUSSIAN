@@ -580,7 +580,7 @@
     <string name="all_volume_title">Громкость</string>
     <string name="allow">Разрешить</string>
     <string name="allow_all_rotations_title">Разрешить все положения</string>
-    <string name="allow_bind_app_widget_activity_allow_bind">Когда вы создаете виджет, приложение \"%1$s\" получает доступ ко всем его данным.</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">После создания виджета приложение \"%1$s\" получит доступ ко всем его данным</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать приложению \"%1$s\" создавать виджеты и получать их данные</string>
     <string name="allow_data_usage_title">Передавать данные в роуминге</string>

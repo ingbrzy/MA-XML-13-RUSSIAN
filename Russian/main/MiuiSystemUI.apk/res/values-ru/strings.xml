@@ -815,7 +815,7 @@
     <string name="controls_favorite_toast_no_changes">Изменения не сохранены</string>
     <string name="controls_in_progress">В работе</string>
     <string name="controls_media_active_session">Текущий сеанс не может быть скрыт</string>
-    <string name="controls_media_close_session">Скрыть текущий сеанс</string>
+    <string name="controls_media_close_session">Скрыть текущий сеанс?</string>
     <string name="controls_media_dismiss_button">Скрыть</string>
     <string name="controls_media_playing_item_description">Воспроизводится %1$s с помошью %2$s из %3$s</string>
     <string name="controls_media_resume">Возобновить</string>
