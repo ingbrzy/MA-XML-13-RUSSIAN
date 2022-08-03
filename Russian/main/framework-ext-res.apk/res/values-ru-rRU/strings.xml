@@ -214,6 +214,9 @@
     <string name="help_content">Если не удается найти нужное устройство, попросите включить Mi Share на другом устройстве.</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
+    <string name="hs_guide_dialog_button_confirm">Понятно</string>
+    <string name="hs_guide_dialog_message">Приложение не оптимизировано для нового альбомного режима, поэтому переключено в другой совместимый режим отображения</string>
+    <string name="hs_guide_dialog_title">Внимание</string>
     <string name="icelatte">Ледяной латте</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Поместите палец на кнопку \"Домой\"</string>
     <string name="incomingmessage">Входящее сообщение</string>
@@ -315,7 +318,7 @@
     <string name="morning">Утро</string>
     <string name="mountainspring">Горный ручей</string>
     <string name="mw_guide_dialog_button_confirm">Понятно</string>
-    <string name="mw_guide_dialog_message">Приложение не поддерживает разделение экрана и переключено на другой режим отображения</string>
+    <string name="mw_guide_dialog_message">Приложение не поддерживает разделение экрана, поэтому переключено в другой совместимый режим отображения</string>
     <string name="mw_guide_dialog_title">Внимание</string>
     <string name="nearby_share">Nearby Share</string>
     <string name="notice_audition">Звуки природы</string>

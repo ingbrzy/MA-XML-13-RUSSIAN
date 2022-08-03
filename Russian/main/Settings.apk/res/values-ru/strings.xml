@@ -5743,6 +5743,7 @@ ID: %s
     <string name="miheadset_ok_device">ОК</string>
     <string name="miheadset_openAnc">Шумоподавление</string>
     <string name="miheadset_openAnc2">Шумоподавление</string>
+    <string name="miheadset_open_closeAnc">Шумоподавление вкл/откл</string>
     <string name="miheadset_play_pause">Воспроизведение/Пауза</string>
     <string name="miheadset_plus">Прибавить</string>
     <string name="miheadset_preferences">Настройки</string>
