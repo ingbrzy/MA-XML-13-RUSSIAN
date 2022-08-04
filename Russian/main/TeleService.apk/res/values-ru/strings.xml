@@ -885,7 +885,8 @@
 
 Использовать мобильный интернет?"</string>
     <string name="data_enabled">Мобильный интернет</string>
-    <string name="data_interruption_remind">Для улучшения соединения разрешите устройству во время VoLTE вызовов использовать мобильный интернет на вторичной SIM-карте</string>
+    <string name="data_interruption_remind">Соединение нестабильно. Для улучшения соединения разрешите устройству во время VoLTE вызовов использовать мобильный интернет на вторичной SIM-карте.</string>
+    <string name="data_interruption_remind_for_t">Соединение нестабильно. Для улучшения соединения разрешите устройству во время VoLTE вызовов использовать мобильный интернет на вторичной SIM-карте.</string>
     <string name="data_plan">Тарифные планы</string>
     <string name="data_usage_disable_mobile">Отключить мобильный интернет?</string>
     <string name="data_usage_ota">Обновления системы</string>
@@ -2601,6 +2602,9 @@ UT-интерфейс: %5$s"</string>
     <string name="smart_forwarding_settings_menu">Умная переадресация</string>
     <string name="smart_forwarding_settings_menu_summary">Перенаправлять вызовы на другой номер, если номер недоступен</string>
     <string name="smart_multinetwork_acceleration_title">Умное ускорение сети</string>
+    <string name="smart_switch_dual_sim_prompt">Использование SIM %1$s с мобильным интернетом может привести к дополнительным тратам. Чтобы избежать этого, установите лимит трафика.</string>
+    <string name="smart_switch_dual_sim_summary">Автоматически выбирать SIM-карту с лучшим качеством мобильного интернета</string>
+    <string name="smart_switch_dual_sim_title">Автовыбор SIM-карты</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">Убедитесь, что номер правильный. В противном случае вы не сможете отправлять или получать SMS. Свяжитесь с вашим оператором, чтобы подтвердить номер SMS-центра.</string>
     <string name="softap_beacon_protection">Включить защиту SoftAp Beacon</string>
