@@ -185,6 +185,8 @@
     <string name="friday_shortest">Пт</string>
     <string name="function_not_support">Функция не поддерживается</string>
     <string name="game_booster">Ускорение игр</string>
+    <string name="gamebooster_dialog_recover">Продлить</string>
+    <string name="gamebooster_dialog_start_booster">Начать</string>
     <string name="gamebooster_network_dialog_message">Разрешить приложению Безопасность подключение к сети, чтобы использовать все функции Ускорения игр?</string>
     <string name="gamebooster_network_dialog_message_pad">Разрешить приложению Безопасность подключение к сети, чтобы использовать все функции Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>

@@ -36,6 +36,12 @@
     <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
     <string name="accessibility_camera_module_picker">CameraModulePicker</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
+    <string name="accessibility_control_change_favorite">accessibility_control_change_favorite</string>
+    <string name="accessibility_control_change_unfavorite">accessibility_control_change_unfavorite</string>
+    <string name="accessibility_control_favorite">accessibility_control_favorite</string>
+    <string name="accessibility_control_favorite_position">accessibility_control_favorite_position</string>
+    <string name="accessibility_control_move">accessibility_control_move</string>
+    <string name="accessibility_control_not_favorite">accessibility_control_not_favorite</string>
     <string name="accessibility_flash_mode_button">FlashButton</string>
     <string name="accessibility_seek_bar_line">SeekBarLine</string>
     <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
@@ -1806,6 +1812,9 @@
     <string name="control_quick_settings_tiles_stock"> </string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,скриншот,вибрация</string>
+    <string name="controls_error_removed_message">controls_error_removed_message</string>
+    <string name="controls_error_removed_title">controls_error_removed_title</string>
+    <string name="controls_error_timeout">controls_error_timeout</string>
     <string name="conversation_content_provider">Поставщик материалов для разговоров</string>
     <string name="conversation_single_line_name_display">%1$s:</string>
     <string name="copyright_song_count">(%1$s)</string>
@@ -5059,4 +5068,7 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
+<!-- ### FROM SOURCE -->
+    <string name="controls_open_app">controls_open_app</string>
+	
 </resources>

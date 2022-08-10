@@ -644,6 +644,7 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Очистка кэша</string>
     <string name="application_item_already_permission">Разрешено</string>
     <string name="application_item_disable">Запрещено</string>
+    <string name="application_mode_name">Макеты приложений</string>
     <string name="applock_add_account">Привязать</string>
     <string name="applock_add_account_ignore">Не сейчас</string>
     <string name="applock_add_account_ignore_with_seconds">Не сейчас (%d сек.)</string>
@@ -1995,12 +1996,16 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="game_video_net_data">Мобильный интернет</string>
     <string name="game_video_network_eror">Ошибка подключения к сети. Проверьте настройки и повторите попытку.</string>
     <string name="game_wid_viewpoint_buttom">Сделайте короткий перерыв.</string>
+    <string name="gamebooster_dialog_recover">Продлить</string>
+    <string name="gamebooster_dialog_start_booster">Начать</string>
     <string name="gamebooster_lowbattery_notification_summary">Подключите зарядное устройство.</string>
     <string name="gamebooster_lowbattery_notification_title">Заряд менее 5%%</string>
     <string name="gamebooster_main_activity_back">Назад</string>
     <string name="gamebooster_network_dialog_cn_message">Ускорению игр требуются разрешения для подключения к интернету и доступа к местоположению. Разрешить?</string>
     <string name="gamebooster_network_dialog_message">Разрешить подключение к интернету для использования всех функций Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
+    <string name="gamebooster_push_expiring_soon_button">Продлить</string>
+    <string name="gamebooster_push_expiring_soon_title">Ускорение игр</string>
     <string name="gamebox_ai_subtitle">AI субтитры</string>
     <string name="gamebox_app_not_find">Приложение не найдено</string>
     <string name="gamebox_brightness">Яркость</string>
@@ -2546,6 +2551,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="hot_today">Популярно сегодня</string>
     <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
+    <string name="icon_created_settings_preference">Добавлено</string>
     <string name="icon_text_size_giga_byte">%.1f ГБ</string>
     <string name="icon_text_size_max">9.9 ГБ</string>
     <string name="icon_text_size_mega_byte">%d МБ</string>
@@ -2725,9 +2731,11 @@ Xiaomi не обещает и не гарантирует точность, до
 оператора"</string>
     <string name="main_tobe_added_desc">Мобильный трафик от ¥0.03/МБ</string>
     <string name="main_today_used">Расход за сегодня</string>
+    <string name="main_toolbar_custom_service">Обслуживание клиентов</string>
     <string name="main_toolbar_firewall">Сетевые подключения</string>
     <string name="main_toolbar_misim">Mi SIM</string>
     <string name="main_toolbar_purchase">Пополнение баланса</string>
+    <string name="main_toolbar_recharge_record">Пополнение</string>
     <string name="main_toolbar_statistic">Расход трафика</string>
     <string name="main_traffic_detail">Трафик</string>
     <string name="make_sure_package_type">Подтвердите тип трафика</string>
@@ -3004,6 +3012,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="na_main_card_ad_title">Продвижение карты Xiaomi Fan</string>
     <string name="na_main_card_title_sim">"Карта "</string>
     <string name="na_open_at_once">Включить</string>
+    <string name="na_operator_not_support_correction">Оператор связи не поддерживает запросы комиссии и баланса</string>
     <string name="na_query_and_correction">Проверка и настройка баланса</string>
     <string name="na_query_and_correction_msg">"Вы можете проверить и настроить баланс счета и статистику мобильного интернета, отправив бесплатное SMS своему оператору связи. Это сообщение будет зашифровано.
 Сообщение с запросом баланса не будет сохраняться и отображаться в приложении Сообщения.
@@ -3266,6 +3275,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="open_wlan_title">Разрешите этому приложению включать и выключать Wi-Fi</string>
     <string name="operator_location_settings">Настройка оператора и местоположения</string>
     <string name="operator_location_settings_message">Не удалось определить оператора связи и местоположение. Невозможно настроить предупреждения о балансе и лимите трафика.</string>
+    <string name="operator_name_cbn">China Broadnet</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_mi_mobile">Mi Mobile</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -3308,11 +3318,13 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="optmizingbar_title_clear">Память</string>
     <string name="optmizingbar_title_security">Безопасность</string>
     <string name="optmizingbar_title_system">Система</string>
+    <string name="order_bh_net_error">Нет сети</string>
     <string name="organization">Организация</string>
     <string name="other">Прочие настройки</string>
     <string name="other_exception_summary">Отсутствует подключение к интернету</string>
     <string name="other_exception_title">Проверка наличия других проблем</string>
     <string name="other_milink_connect">Невозможно начать трансляцию. Идет другая трансляция.</string>
+    <string name="other_operator_name_virtual_operator">Другие виртуальные операторы</string>
     <string name="over_package_reminder_type">При исчерпании лимита трафика</string>
     <string name="package_change_notification_summary">Нажмите для просмотра.</string>
     <string name="package_change_notification_title">Автоматическая регулировка лимита</string>
@@ -3359,6 +3371,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Энергопотребление</string>
     <string name="pc_battery_history_usetime_title">Активный режим</string>
+    <string name="pc_endurance_calculation">Вычисление…</string>
     <string name="pc_fast_charge_notifi_action_text_off">Выключить</string>
     <string name="pc_fast_charge_notifi_action_text_on">Ускорение</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Порог заряда для уведомлений</string>
@@ -4705,6 +4718,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sim_state_exception_summary">Статус SIM карты свидетельствует о возможных проблемах SIM карты.</string>
     <string name="sip_phone">SIP телефон</string>
     <string name="size_byte">" Б"</string>
+    <string name="size_compat1">%1$d:%2$d</string>
+    <string name="size_compat2">%1$d:%2$d</string>
+    <string name="size_embedded">Разделение экрана</string>
+    <string name="size_full">Полный экран</string>
     <string name="size_giga_byte">" ГБ"</string>
     <string name="size_kilo_byte">" КБ"</string>
     <string name="size_mega_byte">" MБ"</string>

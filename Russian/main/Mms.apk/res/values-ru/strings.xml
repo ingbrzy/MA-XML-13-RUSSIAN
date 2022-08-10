@@ -1185,6 +1185,7 @@
     <string name="sim_full_body">Удалите часть сообщений для очистки места.</string>
     <string name="sim_full_title">SIM карта заполнена</string>
     <string name="sim_manage_messages_title">Сообщения на SIM карте</string>
+    <string name="sim_not_support_mms">SIM карта не поддерживает MMS</string>
     <string name="sim_view">Просмотр</string>
     <string name="slide_number">Слайд %d</string>
     <string name="slide_show_part">Часть %1$d из %2$d</string>

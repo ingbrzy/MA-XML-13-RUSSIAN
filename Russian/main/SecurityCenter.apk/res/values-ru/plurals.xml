@@ -290,6 +290,16 @@
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Подписка для Ускорения игр истекает через %d дней.</item>
+        <item quantity="one">Подписка для Ускорения игр истекает через %d день.</item>
+        <item quantity="few">Подписка для Ускорения игр истекает через %d дня.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Подписка для Ускорения игр истекает через %d дней. Продлите сейчас, чтобы наслаждаться плавной игрой.</item>
+        <item quantity="one">Подписка для Ускорения игр истекает через %d день. Продлите сейчас, чтобы наслаждаться плавной игрой.</item>
+        <item quantity="few">Подписка для Ускорения игр истекает через %d дня. Продлите сейчас, чтобы наслаждаться плавной игрой.</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">Играют %1$d человек</item>
         <item quantity="one">Играет %1$d человек</item>
@@ -370,7 +380,7 @@
     </plurals>
     <plurals name="gd_app_edit_desc">
         <item quantity="other">Можно добавить до %d приложений. Перетаскивайте для сортировки.</item>
-        <item quantity="one">Можно добавить до %d приложения. Перетаскивайте для сортировки..</item>
+        <item quantity="one">Можно добавить до %d приложения. Перетаскивайте для сортировки.</item>
     </plurals>
     <plurals name="gd_app_edit_desc_new">
         <item quantity="other">Можно добавить до %d приложений. Нажмите и удерживайте для сортировки.</item>

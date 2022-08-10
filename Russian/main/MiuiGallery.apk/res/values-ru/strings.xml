@@ -878,7 +878,7 @@
     <string name="face_name_input">Введите имя</string>
     <string name="face_recommend">Рекомендации</string>
     <string name="fail_hint">Не удалось завершить операцию</string>
-    <string name="fail_reason_migrate">Идет обработка... Повторите попытку позже.</string>
+    <string name="fail_reason_migrate">Идет обработка… Повторите позже.</string>
     <string name="fail_to_pick_email">Неверный адрес email</string>
     <string name="fail_to_sync_album">Ошибка синхронизации альбома. Проверьте подключение и повторите попытку.</string>
     <string name="family_member_invitation_text">Другой член семьи</string>

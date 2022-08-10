@@ -36,6 +36,7 @@
     <string name="ad_download">Загрузить</string>
     <string name="add_private">Сделать приватными</string>
     <string name="add_private_files">Добавить файлы</string>
+    <string name="add_to_widget">Добавить в виджет</string>
     <string name="added_category">Добавленные</string>
     <string name="afternoon">После полудня</string>
     <string name="aggree_desc">Разрешите приложению подключение к интернету и предоставьте обязательные разрешения, перечисленные выше.</string>
@@ -190,6 +191,7 @@
     <string name="delete_folders">Удалить выбранные папки?</string>
     <string name="des_hide_pwd">Скрыть пароль</string>
     <string name="des_show_pwd">Показать пароль</string>
+    <string name="dialog_keep_choice">Запомнить выбор</string>
     <string name="dialog_msg_score_explorer">Вам нравится Проводник?</string>
     <string name="dialog_msg_score_not_good">Могли бы вы оставить отзыв?</string>
     <string name="dialog_msg_score_perfect">Хотите оценить приложение в Play Маркете?</string>
@@ -843,6 +845,7 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="tip">Внимание</string>
+    <string name="tips_add_to_widget">В виджет можно добавить до %d файлов. При превышении количества, ранее добавленные файлы будут заменены.</string>
     <string name="title_app_tags">Приложения</string>
     <string name="title_expire_video">Срок истекает</string>
     <string name="title_recent">Недавние</string>
@@ -887,6 +890,14 @@
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="widget_add_files">Добавить</string>
+    <string name="widget_added_fail_content">%1$s уже на рабочем столе</string>
+    <string name="widget_added_fail_tips">Не удалось добавить</string>
+    <string name="widget_added_success_content">%1$s добавлен на рабочий стол</string>
+    <string name="widget_added_success_tips">Добавлено</string>
+    <string name="widget_choose_file">Нажмите, чтобы добавить</string>
+    <string name="widget_choose_fragment_title">Выберите тип файла</string>
+    <string name="widget_finish">Готово</string>
     <string name="wifi_state">Статус Wi-Fi</string>
     <string name="withdraw">Отозвать</string>
     <string name="withdraw_consent">Отзыв согласия</string>
