@@ -177,8 +177,8 @@
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
     <string name="free_send_net_booster">Бесплатное ускорение скорости сети</string>
-    <string name="free_send_net_booster_busniess">Получить бесплатное ускорение Xunlei</string>
-    <string name="free_send_net_booster_busniess_tip">Нажмите для получения</string>
+    <string name="free_send_net_booster_busniess">Попробуйте Ускорение игр бесплатно</string>
+    <string name="free_send_net_booster_busniess_tip">Повысьте свой игровой опыт и выиграйте игровой скин. Предложение доступно только сегодня!</string>
     <string name="free_send_net_booster_tip">Наслаждайтесь плавной игрой с бесплатным ускорением скорости сети.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
@@ -409,7 +409,7 @@
     <string name="need_network_when_bind">Перед привязкой необходимо подключиться к сети</string>
     <string name="net_booster_expire_notification">Сессия повышения скорости сети подходит к концу</string>
     <string name="net_booster_overdue_notification">Сессия повышения скорости сети подходит к концу</string>
-    <string name="net_booster_overdue_notification_tip">Сессия повышения скорости сети скоро закончится. Продлить сессию?</string>
+    <string name="net_booster_overdue_notification_tip">Сессия ускорения сети скоро закончится. Продлить сессию, чтобы избежать сетевых задержек?</string>
     <string name="net_retry_btn_text">Повтор</string>
     <string name="net_switch_to_owner_space_text">Вернуться в первое пространство</string>
     <string name="net_unavailable_tip">Сеть недоступна, проверьте настройки сети и повторите попытку</string>

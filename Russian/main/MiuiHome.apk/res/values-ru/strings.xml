@@ -874,7 +874,7 @@
     <string name="show_all">Показать все</string>
     <string name="show_mem_info_title">Показывать состояние памяти</string>
     <string name="show_most_popular_apps_you_used">Показывать недавние приложения в начале меню приложений</string>
-    <string name="show_recents_recommend_title">Показывать виджеты</string>
+    <string name="show_recents_recommend_title">Отображать виджеты</string>
     <string name="slide_to_open_newhome">Проведите вверх, чтобы открыть Контент-центр</string>
     <string name="small_window">Плавающее окно</string>
     <string name="small_window_button_complete">Готово</string>

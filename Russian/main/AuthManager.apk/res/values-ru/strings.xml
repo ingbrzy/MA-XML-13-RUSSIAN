@@ -10,7 +10,7 @@
     <string name="HIPS_Perm_Access_Gallery">Галерея</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Доступ к Галерее</string>
     <string name="HIPS_Perm_AudioRecorder">Микрофон</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">Запись аудио и вызовов</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">Запись аудио</string>
     <string name="HIPS_Perm_AutoStart">Автозапуск</string>
     <string name="HIPS_Perm_AutoStart_Desc">Автозапуск приложений</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Состояние Bluetooth</string>
@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_Contact_Desc">Изменение и удаление контактов</string>
     <string name="HIPS_Perm_External_Storage">Хранилище</string>
     <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам в хранилище</string>
-    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Запись аудио и вызовов</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Запись аудио</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Автозапуск приложений в фоновом режиме</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Доступ к событиям календаря</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Доступ к журналу вызовов</string>
@@ -320,7 +320,7 @@
     <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
     <string name="permdesc_location">Разрешить %1$s использовать геолокацию?</string>
     <string name="permdesc_location_background">Разрешить %1$s использовать геолокацию в фоновом режиме?</string>
-    <string name="permdesc_microphone">Разрешить %1$s использовать микрофон для записи аудио и совершения вызовов?</string>
+    <string name="permdesc_microphone">Разрешить %1$s использовать микрофон для записи аудио?</string>
     <string name="permdesc_nearby_devices">Разрешить %1$s поиск устройств поблизости и подключение к ним?</string>
     <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
     <string name="permdesc_process_outgoing_call">Разрешить %1$s принимать и завершать вызовы?</string>

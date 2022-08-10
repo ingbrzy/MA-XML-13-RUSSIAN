@@ -185,8 +185,8 @@
     <string name="cw_added_fav_no_pic">Ничего нет</string>
     <string name="cw_added_toast">Уже добавлено</string>
     <string name="cw_adding">Добавление (%1$d)</string>
-    <string name="cw_album_no_pic">Не удалось найти изображения на устройстве</string>
-    <string name="cw_album_no_right">Разрешить Карусели обоев доступ к Галерее</string>
+    <string name="cw_album_no_pic">Ничего нет</string>
+    <string name="cw_album_no_right">Требуются разрешения</string>
     <string name="cw_all_folder">Недавние</string>
     <string name="cw_batch_all_added_tip">Нельзя добавить изображения, которые уже есть.</string>
     <string name="cw_batch_part_tip_fail">Добавлены не все изображения</string>
@@ -197,7 +197,7 @@
     <string name="cw_delete">Удалить</string>
     <string name="cw_delete2">Удалить (%d)</string>
     <string name="cw_deleting">Удаление (%1$d/%2$d)</string>
-    <string name="cw_local_pic">Галерея</string>
+    <string name="cw_local_pic">Выбор изображений</string>
     <string name="cw_my_fav">Избранные</string>
     <string name="cw_permission_tip">Разрешите Карусели обоев доступ к хранилищу в Разрешениях приложений.</string>
     <string name="cw_wallpaper_empty_dlg_btn">ОК</string>
@@ -224,7 +224,7 @@
     <string name="detail_menu_history">Истории</string>
     <string name="detail_menu_home">Домой</string>
     <string name="detail_menu_setting">Настройки приложения</string>
-    <string name="detail_menu_settingbtn_save">Сохранить в Галерее</string>
+    <string name="detail_menu_settingbtn_save">Сохранить</string>
     <string name="detail_menu_settingbtn_setting">Настройки</string>
     <string name="detail_menu_settingbtn_share">Поделиться</string>
     <string name="detail_menu_wall">Обои сегодня</string>
@@ -797,7 +797,7 @@ mm"</string>
     <string name="saturday_shortest">Сб</string>
     <string name="save_hdpicture_in_favor">Просмотр HD изображений в \"Избранном\"</string>
     <string name="save_picture_success">Успешно сохранено</string>
-    <string name="save_to_album">Сохранено в Галерее</string>
+    <string name="save_to_album">Сохранено</string>
     <string name="save_to_album_fail">Не удалось сохранить</string>
     <string name="scribe_btn_ok">Включить</string>
     <string name="scribe_title1">Включить Карусель обоев</string>
@@ -809,7 +809,7 @@ mm"</string>
     <string name="see_more">Посмотреть ещё</string>
     <string name="see_more_content">Посмотреть ещё</string>
     <string name="select_package">Выберите версию</string>
-    <string name="select_photo_album">Выберите альбом</string>
+    <string name="select_photo_album">Выберите изображения</string>
     <string name="select_picture">Выбор изображений</string>
     <string name="select_picture_des">Добавьте свои фотографии и онлайн-изображения для отображения в слайд-шоу.</string>
     <string name="send">Отправить</string>

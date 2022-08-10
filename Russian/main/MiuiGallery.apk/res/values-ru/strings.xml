@@ -1206,7 +1206,7 @@
     <string name="home_menu_camera">Камера</string>
     <string name="home_menu_cleaner">Очистка</string>
     <string name="home_menu_collage">Коллаж</string>
-    <string name="home_menu_id_photo">Фото на документы</string>
+    <string name="home_menu_id_photo">Документы</string>
     <string name="home_menu_macarons">Волшебная виньетка</string>
     <string name="home_menu_magic_matting">Магия</string>
     <string name="home_menu_photo_movie">Клип</string>
@@ -2922,10 +2922,10 @@
     <string name="toast_orientation_unlock">Автоповорот включён</string>
     <string name="toast_rename_exit">Файл уже существует</string>
     <string name="today">Сегодня</string>
-    <string name="today_of_year">В этот день</string>
+    <string name="today_of_year">Этот день</string>
     <string name="today_of_year_empty_tip">Ничего нет</string>
     <string name="today_of_year_function_closed_btn_tip">Включить</string>
-    <string name="today_of_year_function_closed_tip">Вы ещё не включили \"В этот день\"</string>
+    <string name="today_of_year_function_closed_tip">Вы ещё не включили \"Этот день\"</string>
     <string name="today_of_year_location_num">Места</string>
     <string name="today_of_year_photo_num">Фотографии</string>
     <string name="tomorrow">Завтра</string>
@@ -3250,8 +3250,8 @@
     <string name="vlog_float_view_ratio">Соотношение сторон</string>
     <string name="vlog_improt_encode_video_error">Ошибка кодирования. Попробуйте ещё раз.</string>
     <string name="vlog_load_data_fail">Не удалось загрузить данные</string>
-    <string name="vlog_mi_clip">Видеоредактор</string>
-    <string name="vlog_mi_clip_cn">Видеоредактор</string>
+    <string name="vlog_mi_clip">Редактор</string>
+    <string name="vlog_mi_clip_cn">Редактор</string>
     <string name="vlog_min_resolution_hint">Текущее разрешение самое низкое из доступных</string>
     <string name="vlog_nav_title_audio">Аудио</string>
     <string name="vlog_nav_title_caption">Субтитры</string>

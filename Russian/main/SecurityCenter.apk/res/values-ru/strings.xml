@@ -1926,10 +1926,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="forget_pattern"><u>Забыли ключ?</u></string>
     <string name="forground_network_optimization_summary">Повышенный приоритет процессора для запущенных игр</string>
     <string name="forground_network_optimization_title">Приоритет производительности</string>
-    <string name="free_send_net_booster">Бесплатное ускорение сети</string>
-    <string name="free_send_net_booster_busniess">Получите бесплатное ускорение Xunlei</string>
-    <string name="free_send_net_booster_busniess_tip">Получить</string>
-    <string name="free_send_net_booster_tip">Наслаждайтесь плавным игровым процессом с бесплатным ускорением сети</string>
+    <string name="free_send_net_booster">Попробуйте Ускорение игр бесплатно</string>
+    <string name="free_send_net_booster_busniess">Попробуйте Ускорение игр бесплатно</string>
+    <string name="free_send_net_booster_busniess_tip">Повысьте свой игровой опыт и выиграйте игровой скин. Предложение доступно только сегодня!</string>
+    <string name="free_send_net_booster_tip">Повысьте свой игровой опыт и выиграйте устройство Xiaomi!</string>
     <string name="free_time_traffic">Лимит льготного трафика</string>
     <string name="free_time_traffic_hint">Введите лимит льготного трафика</string>
     <string name="free_time_traffic_settings">Льготный трафик</string>
@@ -3016,9 +3016,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="nd_result_title_network">Подключение к сети</string>
     <string name="nd_result_title_optimize">Оптимизация сети</string>
     <string name="net_booster">Ускорение сети</string>
-    <string name="net_booster_expire_notification">Сеанс ускорения сети завершается</string>
-    <string name="net_booster_overdue_notification">Сеанс ускорения сети завершается</string>
-    <string name="net_booster_overdue_notification_tip">Сеанс ускорения сети завершается. Продлить сеанс?</string>
+    <string name="net_booster_expire_notification">Сессия ускорения сети завершается</string>
+    <string name="net_booster_overdue_notification">Сессия ускорения сети завершается</string>
+    <string name="net_booster_overdue_notification_tip">Сессия ускорения сети скоро закончится. Продлить сессию, чтобы избежать сетевых задержек?</string>
     <string name="net_booster_tip">Включите ускорение сети, чтобы сделать Wi-Fi соединение более стабильным и уменьшить задержки</string>
     <string name="net_booster_title">Ускорение сети</string>
     <string name="net_boostering">Ускорение сети</string>
