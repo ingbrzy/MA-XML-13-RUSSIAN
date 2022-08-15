@@ -166,7 +166,7 @@
     <string name="desktop_widget_screen_use_time">Время экрана</string>
     <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
-    <string name="dynamic_ringtone_desc">Мы исследовали различные экосистемы и воссоздали их особенные звуки. Начните изучать звуки природы вместе с нами!</string>
+    <string name="dynamic_ringtone_desc">Мы исследовали различные экосистемы и воссоздали их характерные звуки. Знакомьтесь со звуками природы вместе с нами и используйте их для уведомлений.</string>
     <string name="early_morning">Утро</string>
     <string name="eastern_grey_kangaroo">Серый кенгуру</string>
     <string name="eastern_grey_kangaroo_info">У кенгуру большие мощные задние лапы и большие ступни, приспособленные для прыжков</string>
@@ -458,7 +458,7 @@
     <string name="norway_lemmings">Норвежский лемминг</string>
     <string name="norway_lemmings_info">Обитает в тундре и на болотах, предпочитает жить у воды</string>
     <string name="not_set">Не задано</string>
-    <string name="notification_sound">Звуки уведомлений</string>
+    <string name="notification_sound">Уведомления</string>
     <string name="ocelot">Оцелот</string>
     <string name="olive_baboon">Оливковый бабуин</string>
     <string name="orange_winged_amazon">Оранжевокрылый амазон</string>
