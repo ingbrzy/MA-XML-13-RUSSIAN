@@ -89,6 +89,7 @@
     <string name="cookies_content_two">Разрешите использовать файлы cookie доверенными сторонними поставщиками контента, для персонализации рекомендаций по контенту и рекламы.</string>
     <string name="cookies_title">Персонализированный контент и файлы cookies</string>
     <string name="copy">Копировать</string>
+    <string name="create_shortcut">Ярлык на рабочем столе</string>
     <string name="data_traffic_enable_dialog_title">При отсутствии подключения к Wi-Fi, устройство будет использовать мобильный интернет. Это может привести к дополнительным тратам.</string>
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>

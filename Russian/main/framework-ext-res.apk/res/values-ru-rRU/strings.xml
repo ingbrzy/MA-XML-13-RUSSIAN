@@ -48,6 +48,7 @@
     <string name="autofill_save_sub_message">Просматривать пароли и управлять ими можно в Настройки &gt; Пароли и защита &gt; %s</string>
     <string name="autofill_save_title">Автосохранение данных</string>
     <string name="autofill_service_name">Управление паролями</string>
+    <string name="back_tap">Одиночное касание</string>
     <string name="battery_authentic_failed_button">Понятно</string>
     <string name="battery_authentic_failed_title">Внимание</string>
     <string name="beep">Сигнал</string>
@@ -88,6 +89,7 @@
     <string name="candy">Конфета</string>
     <string name="carousel">Карусель</string>
     <string name="celesta">Челеста</string>
+    <string name="change_brightness">Настройка яркости</string>
     <string name="child">Ребенок</string>
     <string name="childhood">Детство</string>
     <string name="chimes">Куранты</string>
@@ -95,7 +97,8 @@
     <string name="chord">Аккорд</string>
     <string name="citylight">Огни города</string>
     <string name="clank">Лязг</string>
-    <string name="close">Откл</string>
+    <string name="close">Откл.</string>
+    <string name="close_app">Закрытие приложения</string>
     <string name="configure_input_methods">Выбрать способы ввода</string>
     <string name="confirm_cancel_task_files">Отменить отправку файлов на %1$s?</string>
     <string name="confirm_cancel_task_images">Отменить отправку изображений на %1$s?</string>
@@ -145,6 +148,8 @@
     <string name="dock_tip_splitscreen_landscape_float">Перетащите панель вниз, чтобы переключиться на плавающее окно</string>
     <string name="dock_tip_splitscreen_portrait_drag">Перетащите панель вертикально, чтобы поменять местами окна приложений</string>
     <string name="dock_tip_splitscreen_portrait_float">Перетащите панель к левому или правому краю экрана, чтобы переключиться на плавающее окно.</string>
+    <string name="double_click_volume_down_when_lock">Двойное нажатие \"Уменьшение громкости\" когда экран заблокирован</string>
+    <string name="dump_log">Сбор журналов</string>
     <string name="echo">Эхо</string>
     <string name="edit_frequent_phrases">Редактировать частые фразы</string>
     <string name="eighthours">8 часов</string>
@@ -165,6 +170,7 @@
     <string name="file_cannot_print">"Не удается распечатать."</string>
     <string name="file_cannot_screen_throw">"Не удается транслировать."</string>
     <string name="file_sending">Передача файлов…</string>
+    <string name="fingerprint_double_tap">Двойное касание сканера отпечатков</string>
     <string name="fireflies">Светлячки</string>
     <string name="first_back_long_press_message">Чтобы задать свои действия при долгом нажатии кнопок навигации, перейдите в Настройки &gt; Дополнительно &gt; Кнопки и жесты</string>
     <string name="flip_screen_camera_tip">Поверните устройство, чтобы использовать камеру</string>
@@ -187,6 +193,7 @@
     <string name="frog">Лягушка</string>
     <string name="functions_are_being_developed">Эта функция будет доступна в ближайшее время. Следите за обновлениями!</string>
     <string name="game">Игра</string>
+    <string name="gesture_function_dialog_message">%1$s используется для \"%2$s\". Заменить на \"%3$s\"?</string>
     <string name="glee">Радость</string>
     <string name="global_actions_airplane_mode">Режим полета</string>
     <string name="global_actions_reboot">Перезагрузка</string>
@@ -197,6 +204,7 @@
     <string name="global_phone">Устройство</string>
     <string name="glockenspiel">Металлофон</string>
     <string name="glorious">Славный</string>
+    <string name="go_to_sleep">Выключение экрана</string>
     <string name="greenandblue">Радуга</string>
     <string name="guitar">Гитара</string>
     <string name="hallofmemories">Воспоминания</string>
@@ -247,6 +255,11 @@
     <string name="kb_reset_toast">Установки клавиатуры сброшены</string>
     <string name="key_btn_ok">ОК</string>
     <string name="key_btn_space">Пробел</string>
+    <string name="key_combination_power_back">\"Питание\" + \"Назад\"</string>
+    <string name="key_combination_power_home">\"Питание\" + \"Домой\"</string>
+    <string name="key_combination_power_menu">\"Питание\" + \"Меню\"</string>
+    <string name="key_combination_power_volume_down">\"Питание\" + \"Уменьшение громкости\"</string>
+    <string name="key_none">Нет</string>
     <string name="keyboard_connect_failed">Не удалось подключить клавиатуру. Подключите снова.</string>
     <string name="keyboard_identity_reject_confirm">Понятно</string>
     <string name="keyboard_identity_reject_message">Клавиатура несовместима с этим устройством.</string>
@@ -263,6 +276,21 @@
     <string name="ks_regional_screen_shot">Частичный скриншот</string>
     <string name="ks_screenshot">Скриншот</string>
     <string name="kungfu">Кунг-фу</string>
+    <string name="launch_ai_shortcut">Ярлык Mi AI</string>
+    <string name="launch_alipay_health_code">Код состояния Alipay</string>
+    <string name="launch_alipay_payment_code">Платежный код Alipay</string>
+    <string name="launch_alipay_scanner">Сканер Alipay</string>
+    <string name="launch_calculator">Калькулятор</string>
+    <string name="launch_camera">Запуск камеры</string>
+    <string name="launch_control_center">Центр управления</string>
+    <string name="launch_google_search">Запуск Google Ассистента</string>
+    <string name="launch_notification_center">Шторка уведомлений</string>
+    <string name="launch_recents">Вызов Недавних</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
+    <string name="launch_voice_assistant">Голосовой помощник</string>
+    <string name="launch_wechat_health_code">Код состояния WeChat</string>
+    <string name="launch_wechat_payment_code">Платежный код WeChat</string>
+    <string name="launch_wechat_scanner">Сканер WeChat</string>
     <string name="leisure">Отдых</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
@@ -275,6 +303,10 @@
     <string name="lockscreen_access_pattern_start">Начат ввод ключа</string>
     <string name="lockscreen_carrier_customized">Ограниченное обслуживание</string>
     <string name="lollipop">Леденец</string>
+    <string name="long_press_back_key">Долгое нажатие \"Назад\"</string>
+    <string name="long_press_buttom_key">Долгое нажатие \"Домой\" на экране блокировки</string>
+    <string name="long_press_power_key_half_second">Нажмите и удерживайте кнопку питания %s сек.</string>
+    <string name="long_press_volume_down">Долгое нажатие \"Уменьшение громкости\"</string>
     <string name="magic_window_toast">Включено разделение экрана</string>
     <string name="makewishes">Пожелание</string>
     <string name="maml_component_customization_title">Настройки</string>
@@ -289,6 +321,7 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mi_pay">Mi Кошелёк</string>
     <string name="miaudiovisual_notification_summary">Эффекты на экране блокировки</string>
     <string name="miaudiovisual_notification_title">Аудио и визуальные эффекты</string>
     <string name="mihouse">Mi (электро)</string>
@@ -317,6 +350,7 @@
     <string name="monet">Пруд с лилиями</string>
     <string name="morning">Утро</string>
     <string name="mountainspring">Горный ручей</string>
+    <string name="mute">Режим \"Без звука\"</string>
     <string name="mw_guide_dialog_button_confirm">Понятно</string>
     <string name="mw_guide_dialog_message">Приложение не поддерживает разделение экрана, поэтому переключено в другой совместимый режим отображения</string>
     <string name="mw_guide_dialog_title">Внимание</string>
@@ -326,6 +360,7 @@
     <string name="notificationxylophone">Уведомление (ксилофон)</string>
     <string name="nps_ContentText">Нажмите для подробностей</string>
     <string name="nps_ContentTitle">Поиск GPS</string>
+    <string name="nps_app_name">GpsNps</string>
     <string name="nps_description">Уведомление о статусе GPS</string>
     <string name="nps_mock_description">Фиктивная геопозиция, для восстановления требуется перезагрузка</string>
     <string name="nps_monitor_name">Геолокация по GPS</string>
@@ -344,6 +379,7 @@
     <string name="package_delete_confirm_step_1">Удалить %s?</string>
     <string name="package_delete_confirm_step_2">Удаление этого приложения может вызвать нестабильность системы.</string>
     <string name="package_delete_confirm_step_3">Вы не сможете открыть приложение после его удаления.</string>
+    <string name="partial_screen_shot">Частичный скриншот</string>
     <string name="passionflower">Маракуйя</string>
     <string name="paste">Вставить</string>
     <string name="pc_device_model_name">Компьютер</string>
@@ -354,7 +390,7 @@
     <string name="permdesc_manageFingerprint">Приложение сможет добавлять и удалять шаблоны отпечатков пальцев.</string>
     <string name="permdesc_manageLocationPolicy">Позволяет приложению управлять политиками местоположения и определять правила для конкретных приложений.</string>
     <string name="permdesc_useBiometric">Приложение сможет использовать аппаратные средства биометрической аутентификации</string>
-    <string name="permdesc_useFingerprint">Приложение сможет использовать сканер отпечатков пальцев для аутентификации</string>
+    <string name="permdesc_useFingerprint">Приложение сможет использовать сканер отпечатков для аутентификации</string>
     <string name="permlab_manageFingerprint">Управление сканером отпечатков</string>
     <string name="permlab_manageLocationPolicy">Использование геолокации</string>
     <string name="permlab_useBiometric">Использование аппаратных средств биометрической аутентификации</string>
@@ -460,6 +496,7 @@
     <string name="set_password_message">Для использования этой функции задайте пароль.</string>
     <string name="set_password_title">Задайте пароль</string>
     <string name="shortcut_no_support_on_pc_mode">Этот жест не поддерживается в режиме ПК</string>
+    <string name="show_menu">Вызов меню</string>
     <string name="shutdown_confirm_title">Выключить устройство?</string>
     <string name="shutdown_progress">Выключение…</string>
     <string name="silence_mode">Режим \"Без звука\"</string>
@@ -485,6 +522,7 @@
     <string name="softap_notifif_title">Точка доступа \"%s\" включена</string>
     <string name="southwestmountain_preview">Горы</string>
     <string name="spaceage">Космическая эра</string>
+    <string name="split_screen">Разделение экрана</string>
     <string name="spring">Весна</string>
     <string name="standard">Без звука</string>
     <string name="standard_description">Отключение звука для входящих вызовов и уведомлений</string>
@@ -532,6 +570,8 @@
     <string name="talk_back_conflict_with_handy_mode">Режим управления одной рукой недоступен, когда включён TalkBack</string>
     <string name="talk_back_water_mark_string1">TalkBack включён</string>
     <string name="talk_back_water_mark_string2">Для отключения зажмите \"Громкость+\" и \"Громкость-\" на 3 секунды</string>
+    <string name="three_gesture_horizontal">Проведите %d пальцами горизонтально</string>
+    <string name="three_gesture_pc_mode">Режим ПК</string>
     <string name="throwing_print">Печать</string>
     <string name="throwing_screen">Трансляция</string>
     <string name="tip_close_screen_phone">Переключитесь на громкую связь или сложите устройство, чтобы использовать встроенный динамик</string>
@@ -550,8 +590,10 @@
     <string name="trial_mode_dialog_message">\"%s\" работает в пробном режиме. Перезагрузка устройства или переключение в режим \"скорость света\" приведет к удалению этой игры. Сохранить игру во внутреннюю память?</string>
     <string name="trial_mode_dialog_title">Пробный режим</string>
     <string name="turn_off">Отключить</string>
+    <string name="turn_on_torch">Фонарик</string>
     <string name="turn_on_work_profile">Включить</string>
     <string name="twohours">1 час</string>
+    <string name="under_keyguard">Экран блокировки</string>
     <string name="unknown_caller">Неизвестный номер</string>
     <string name="unrecognized_manufacture">Нет данных</string>
     <string name="unrecognized_model">Неизвестное устройство</string>
@@ -563,6 +605,7 @@
     <string name="vigor">Энергия</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="voice_assist">Mi AI</string>
     <string name="voice_begin">Что вы ищете?</string>
     <string name="voice_button_action_down">Отпустите для поиска</string>
     <string name="voice_button_action_up">Нажмите и говорите</string>

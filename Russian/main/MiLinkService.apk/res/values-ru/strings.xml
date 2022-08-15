@@ -45,6 +45,7 @@
     <string name="ball_hint_text_loading">Подождите…</string>
     <string name="ball_hint_text_success">Подключено</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="cast_image_des">Руководство</string>
     <string name="casting_tips">Отображение…</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>

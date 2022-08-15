@@ -940,7 +940,7 @@ ID:%s
     <string name="user_agreement_device_permission_desc">Для обеспечения безопасности среды авторизации</string>
     <string name="user_agreement_device_permission_title">Доступ к информации об устройстве</string>
     <string name="user_agreement_must_permission_msg">Обязательные разрешения (для основных функций и сервисов приложения)</string>
-    <string name="user_agreement_network_permission_msg">Для предоставления необходимых сервисов требуется подключение к интернету</string>
+    <string name="user_agreement_network_permission_msg">Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="user_agreement_permission_summary_msg">Xiaomi аккаунт позволяет получить доступ ко всем сервисам Xiaomi. Для нормальной работы приложению необходимы подключение к интернету и следующие разрешения:</string>
     <string name="user_agreement_use_account_msg">Xiaomi аккаунт позволяет получить доступ ко всем сервисам Xiaomi</string>
     <string name="user_agreement_wifi_permission_title">Включение и отключение Wi-Fi</string>

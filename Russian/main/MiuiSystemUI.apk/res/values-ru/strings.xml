@@ -2357,7 +2357,9 @@ mm"</string>
     <string name="quick_settings">Быстрые настройки</string>
     <string name="quick_settings_autobrightness_label">Автояркость</string>
     <string name="quick_settings_batterysaver_label">Экономия заряда</string>
+    <string name="quick_settings_bluetooth_connected_tip">Подключено по Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Нет подключённых устройств</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Все устройства Bluetooth сегодня останутся отключенными</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth откл.</string>

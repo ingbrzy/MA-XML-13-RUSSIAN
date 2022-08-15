@@ -2253,7 +2253,7 @@
     <string name="color_red">Красный</string>
     <string name="color_temperature">Холодные оттенки</string>
     <string name="color_temperature_desc">Использовать более холодные цвета на экране</string>
-    <string name="color_temperature_toast">Для изменения цветовых настроек нужно отключить экран</string>
+    <string name="color_temperature_toast">Для изменения цветовых настроек нужно выключить экран</string>
     <string name="color_title">Цвет</string>
     <string name="color_unspecified">По умолчанию</string>
     <string name="color_white">Белый</string>
@@ -4002,7 +4002,7 @@ ID: %s
     <string name="global_stylus_title_beta" />
     <string name="gmscore_settings_title">Основные сервисы Google</string>
     <string name="go_back_button_label">Назад</string>
-    <string name="go_to_sleep">Отключение экрана</string>
+    <string name="go_to_sleep">Выключение экрана</string>
     <string name="google_account_title">Google</string>
     <string name="google_assistant_guide_cancel">Отмена</string>
     <string name="google_assistant_guide_message">Запуск Google Ассистента удержанием кнопки питания %s сек. Установить этот ярлык?</string>
@@ -9510,7 +9510,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
     <string name="tap_to_sign_up">Нажмите для регистрации</string>
     <string name="tap_to_wake">Включение нажатием</string>
-    <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы включить устройство</string>
+    <string name="tap_to_wake_summary">Дважды коснитесь экрана, чтобы включить устройство</string>
     <string name="taplus_title">Taplus</string>
     <string name="temporary_not_available">Временно недоступно</string>
     <string name="temporary_style">В течение 10 секунд после нажатия</string>

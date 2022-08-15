@@ -1163,6 +1163,8 @@
     <string name="functions_are_being_developed">Функция будет доступна в ближайшее время. Следите за обновлениями!</string>
     <string name="gallery_setting">Настройки</string>
     <string name="gallery_sync_disable_toast">Синхронизация Галереи отключена</string>
+    <string name="gallery_uninstall_description_content">Приложение \"Галерея\" является системным и позволяет просматривать, управлять и синхронизировать фото и видео на всех подключенных устройствах. После удаления приложения будут потеряны все файлы в приватном альбоме, также будут недоступны все функции, связанные с просмотром и выбором файлов в галерее.</string>
+    <string name="gallery_uninstall_description_title">Удалить \"Галерею\"?</string>
     <string name="generate_story_summary">MIUI проанализирует ваши фото и создаст подборки в \"Моментах\", когда наберется достаточное количество фото</string>
     <string name="generate_story_title">Моменты</string>
     <string name="get_album_info_in_process">Получение данных облачного альбома…</string>
