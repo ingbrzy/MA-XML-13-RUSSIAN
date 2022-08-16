@@ -4569,7 +4569,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="setting_back_sound_loading_msg">Подождите…</string>
     <string name="setting_online_service">Онлайн-сервисы</string>
     <string name="setting_privacy_password">Задайте графический ключ</string>
-    <string name="setting_wireless_reverse_charging_fg_control_summary">Остановить обратную беспроводную зарядку, когда заряд этого устройства %s</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Остановить обратную беспроводную зарядку, когда заряд этого устройства меньше %s</string>
     <string name="setting_wireless_reverse_charging_summary">Поместите устройство, поддерживающее беспроводную зарядку Qi (например, телефон или носимое устройство), в центр задней панели этого устройства</string>
     <string name="settings">Настройки трафика</string>
     <string name="settings_battery_consume_abnormal_summary">Уведомлять о быстром разряде батареи</string>

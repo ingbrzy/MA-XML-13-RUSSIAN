@@ -739,10 +739,10 @@ ID: %s
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>
     <string name="phone_number">Номер телефона</string>
-    <string name="photoPickerNotFoundText">Нет доступных фото.</string>
-    <string name="pic_not_exist">Это изображение не существует</string>
+    <string name="photoPickerNotFoundText">Нет доступных фото</string>
+    <string name="pic_not_exist">Изображение не существует</string>
     <string name="please_agree_protocal">Примите Протокол</string>
-    <string name="please_download_gallery">Загрузите Галерею</string>
+    <string name="please_download_gallery">Установите Галерею для просмотра</string>
     <string name="plus_one_submit_dialog_content">Ваш отчёт вместе с журналами ошибок будет отправлен на серверы MIUI.</string>
     <string name="plus_one_submit_dialog_not_show_again">Запомнить выбор</string>
     <string name="post_miui_bbs_failed">Не удалось разместить на форуме MIUI</string>
