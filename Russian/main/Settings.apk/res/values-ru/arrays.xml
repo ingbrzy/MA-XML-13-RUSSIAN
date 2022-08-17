@@ -1542,7 +1542,7 @@
         <item>Нет подключения</item>
         <item>Инициализация…</item>
         <item>Подключение…</item>
-        <item>Подключена</item>
+        <item>Подключено</item>
         <item>Время ожидания истекло</item>
         <item>Сбой</item>
     </string-array>

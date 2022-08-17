@@ -2937,8 +2937,8 @@
     <string name="trash_bin_summary">Просмотр недавно удаленных фото и видео, сохраненных в Xiaomi Cloud</string>
     <string name="trash_bin_summary_local">Просмотр недавно удаленных фото и видео</string>
     <string name="trash_empty">Ничего нет</string>
-    <string name="trash_menu_delete">Удаление</string>
-    <string name="trash_menu_recovery">Восстановление</string>
+    <string name="trash_menu_delete">Удалить</string>
+    <string name="trash_menu_recovery">Восстановить</string>
     <string name="trash_purge_all">Все фото и видео будут удалены из облака. Вы не сможете их восстановить. Удалить?</string>
     <string name="trash_purge_all_cloud">Все файлы в корзине будут безвозвратно удалены из облака и со всех синхронизированных устройств. Все равно удалить?</string>
     <string name="trash_purge_all_local">Все файлы в корзине будут удалены без возможности восстановления. Все равно удалить?</string>

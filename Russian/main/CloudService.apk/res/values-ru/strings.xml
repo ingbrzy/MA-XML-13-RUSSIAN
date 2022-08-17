@@ -166,6 +166,8 @@
     <string name="find_device_status_title_phone">Поиск устройства</string>
     <string name="find_permission_location_summary">Для определения местоположения этого устройства</string>
     <string name="find_permission_location_title">Использование геолокации</string>
+    <string name="find_permission_phone_sim_info_summary">Для определения местоположения устройства с помощью SMS, когда оно не подключено к интернету</string>
+    <string name="find_permission_phone_sim_info_title">Доступ к информации об устройстве</string>
     <string name="find_permission_phone_summary">Для получения номера телефона и определения местоположения устройства, когда оно не подключено к интернету</string>
     <string name="find_permission_phone_title">Доступ к информации об устройстве</string>
     <string name="find_permission_sms_summary">Для определения местоположения устройства, когда оно не подключено к интернету</string>

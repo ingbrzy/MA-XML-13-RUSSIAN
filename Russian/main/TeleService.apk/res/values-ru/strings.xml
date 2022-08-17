@@ -1156,6 +1156,7 @@
     <string name="esim_inactive_notification_message_global">SIM-карта не обнаружена. Нажмите для активации eSIM.</string>
     <string name="esim_inactive_notification_title_global">Двойная SIM-карта и мобильные сети</string>
     <string name="esim_inactive_settings_title">Двойная SIM-карта и мобильные сети</string>
+    <string name="esim_is_activating_notification_message_for_o2">Активация тарифа…</string>
     <string name="esim_setting_title">Настройки eSIM</string>
     <string name="evening">После полудня</string>
     <string name="exception_error">Ошибка сети или SIM-карты</string>

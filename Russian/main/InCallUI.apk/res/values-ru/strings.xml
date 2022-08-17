@@ -73,6 +73,8 @@
     <string name="call_button_tools_text">Функции</string>
     <string name="call_contacts_deny_permission_msg">Отсутствует разрешение на чтение контактов, просмотр информации недоступен</string>
     <string name="call_description_recording">Запись…</string>
+    <string name="call_log_short_in">Только что звонили с этого номера</string>
+    <string name="call_log_short_out">Вы только что звонили по этому номеру</string>
     <string name="call_not_support_high_frequency_click">Не нажимайте эту кнопку так часто</string>
     <string name="call_progress_info_call_forwarding">Вызов переадресован на другой номер</string>
     <string name="call_progress_info_call_rejected">Абонен занят. Перезвоните позже.</string>

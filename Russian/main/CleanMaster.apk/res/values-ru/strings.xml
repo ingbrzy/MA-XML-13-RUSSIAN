@@ -470,7 +470,7 @@
     <string name="guide_secure_dialog_message">Оценка оптимизации вашего устройства ниже 80 баллов. Оптимизировать его?</string>
     <string name="guide_secure_dialog_message_new">Оценка оптимизации устройства ниже %d баллов. Оптимизировать?</string>
     <string name="guide_secure_dialog_negative">Отмена</string>
-    <string name="guide_secure_dialog_positive">Оптимизировать</string>
+    <string name="guide_secure_dialog_positive">ОК</string>
     <string name="guide_secure_dialog_title">Оптимизация устройства</string>
     <string name="guide_virus_dialog_message">Проверка приложений и пакетов установки защищает ваше устройство от вирусов и вредоносного ПО. Проверить устройство?</string>
     <string name="guide_virus_dialog_negative">Отмена</string>
