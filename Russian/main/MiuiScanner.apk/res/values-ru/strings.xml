@@ -684,8 +684,8 @@
     <string name="scanHistory_close">Отключить</string>
     <string name="scanHistory_isOpen">Включить сохранение истории сканирования?</string>
     <string name="scanHistory_open">Включить</string>
-    <string name="scan_document_top_tip">Сканирование документа и создание PDF-файла</string>
-    <string name="scan_document_top_tip_second">Сканирование нескольких документов и создание одного PDF-файла</string>
+    <string name="scan_document_top_tip">Отсканируйте документ для создания PDF-файла</string>
+    <string name="scan_document_top_tip_second">Отсканируйте несколько документов для создания PDF-файла</string>
     <string name="scan_form">Сканирование таблицы</string>
     <string name="scan_form_top_tip">Сканирование, сохранение и редактирование таблиц</string>
     <string name="scan_general_top_tip">Распознавание растений, людей и продуктов</string>
