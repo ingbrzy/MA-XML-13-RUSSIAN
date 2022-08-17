@@ -717,6 +717,7 @@
     <string name="notification_reset_title">Иконки упорядочены</string>
     <string name="one_key_call_title">Нажмите для набора номера</string>
     <string name="online_wallpaper">Онлайн</string>
+    <string name="open_pad_personal_assistant_settings">Виджеты рабочего стола</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Отмена</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Отключить</string>
     <string name="open_personal_assistant_dialog_desc">После отключения Ленты виджетов, виджеты и обновления приложения будут недоступны. Отключить?</string>

@@ -674,6 +674,7 @@
     <string name="saveDone">Успешно сохранено</string>
     <string name="save_as_PDF">Сохранить как PDF</string>
     <string name="save_as_picture">Сохранить как изображение</string>
+    <string name="save_documents_ui">Сохранено в Проводнике</string>
     <string name="save_excel_result_title">Сохранение</string>
     <string name="save_excel_title">Сохранение файла Excel</string>
     <string name="save_fail">Ошибка сохранения</string>
