@@ -1072,7 +1072,7 @@
     <string name="boot_time_day">Включение через %1$d д. в %2$s</string>
     <string name="boot_time_day_tomorrow">Включение завтра в %1$s</string>
     <string name="bottom_func_guide_default_text">Дополнительные функции</string>
-    <string name="bottom_notice_title">Проведите вверх, чтобы открыть панель инструментов</string>
+    <string name="bottom_notice_title">Свайп вверх для панели инструментов</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="brand_diagnostic">Диагностика бренда оператора</string>
     <string name="btn_back">Назад</string>
