@@ -92,6 +92,7 @@
     <string name="app_name_pad">Персонализация</string>
     <string name="application_list_permission_desc">Приложения, совместимые с прозрачными обоями</string>
     <string name="application_notify_title">Внимание</string>
+    <string name="apply_4k_video_wallpaper_warning">Видеообои с разрешением 4K и 8K не поддерживаются</string>
     <string name="apply_choosen_type_resource">Применить выбранные компоненты</string>
     <string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
     <string name="apply_failed">Не удалось применить</string>

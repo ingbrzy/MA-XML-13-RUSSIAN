@@ -1545,6 +1545,9 @@
     <string name="premission_description_ringtone">Для установки рингтонов</string>
     <string name="premission_description_title">Просмотр и управление мероприятиями</string>
     <string name="prepare_import">Импорт контактов</string>
+    <string name="presentation_payphone">Таксофон</string>
+    <string name="presentation_private">Личный номер</string>
+    <string name="presentation_unknown">Неизвестный номер</string>
     <string name="preview_contact_card_title">Импорт контактов…</string>
     <string name="preview_incall_show_entry">Просмотреть видео</string>
     <string name="previous">Назад</string>
@@ -2025,6 +2028,7 @@
     <string name="viewContactDesription">Просмотреть контакт</string>
     <string name="viewContactTitle">Информация о контакте</string>
     <string name="view_details">Подробности</string>
+    <string name="view_more_call_logs">Подробнее</string>
     <string name="view_updates_from_group">Обновления</string>
     <string name="voicemail">Голосовая почта</string>
     <string name="voicemail_buffering">Буферизация…</string>

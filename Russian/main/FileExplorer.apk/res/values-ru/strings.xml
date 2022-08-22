@@ -895,9 +895,11 @@
     <string name="widget_added_fail_tips">Не удалось добавить</string>
     <string name="widget_added_success_content">%1$s добавлен на рабочий стол</string>
     <string name="widget_added_success_tips">Добавлено</string>
+    <string name="widget_choose_document_please">Выберите документ</string>
     <string name="widget_choose_file">Нажмите, чтобы добавить</string>
     <string name="widget_choose_fragment_title">Выберите тип файла</string>
     <string name="widget_finish">Готово</string>
+    <string name="widget_name">Недавние</string>
     <string name="wifi_state">Статус Wi-Fi</string>
     <string name="withdraw">Отозвать</string>
     <string name="withdraw_consent">Отзыв согласия</string>
