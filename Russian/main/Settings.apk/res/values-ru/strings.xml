@@ -58,8 +58,8 @@
     <string name="accelerometer_summary_off">Автоматически менять ориентацию экрана при повороте устройства</string>
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте устройства</string>
     <string name="accelerometer_title">Автоповорот экрана</string>
-    <string name="accept_new_connection">Разрешить новые подключения</string>
-    <string name="accept_new_connection_detail">Новые подключения Bluetooth были отключены в центре управления</string>
+    <string name="accept_new_connection">Разрешить подключения к новым устройствам</string>
+    <string name="accept_new_connection_detail">Новые подключения были ограничены в центре управления</string>
     <string name="access_control_app_entry_multiple">Открыть %s</string>
     <string name="access_control_app_entry_single">Открыть приложение</string>
     <string name="access_control_need_password">"%s защищен
@@ -1834,7 +1834,7 @@
     <string name="bt_absVolume_open_dialog_title">Внимание</string>
     <string name="bt_absVolume_pre_title">Абсолютная громкость</string>
     <string name="bt_absVolume_summary">Уровень громкости Bluetooth-устройств и устройства должен быть одинаковым. Вы можете включать и выключать эту функцию, когда мультимедиа не воспроизводится в фоновом режиме.</string>
-    <string name="bt_always_show_icon">Всегда показывать значок Bluetooth в строке состояния</string>
+    <string name="bt_always_show_icon">Всегда показывать значок в строке состояния</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive ообеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход батареи. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Переключиться на aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Исправление проблем со звуком</string>
