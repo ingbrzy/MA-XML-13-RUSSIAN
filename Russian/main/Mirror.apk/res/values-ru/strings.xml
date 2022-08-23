@@ -207,7 +207,7 @@
     <string name="notify_connected_title">Подключено к %1$s</string>
     <string name="ok">ОК</string>
     <string name="open_folder">Открыть</string>
-    <string name="pad_fullscreen_sink_activity_label">Мое устройство</string>
+    <string name="pad_fullscreen_sink_activity_label">Моё устройство</string>
     <string name="pad_mirror_device_locked_tips_1">Устройство заблокировано</string>
     <string name="pad_mirror_device_locked_tips_2">Коснитесь экрана, чтобы разбудить устройство</string>
     <string name="pad_mirror_device_locked_tips_3">Коснитесь дважды, чтобы разбудить</string>

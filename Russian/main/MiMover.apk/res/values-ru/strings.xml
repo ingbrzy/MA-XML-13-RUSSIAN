@@ -333,7 +333,7 @@
     <string name="import_again">Импортировать снова</string>
     <string name="import_data_from_icloud">Импортировать данные из iCloud</string>
     <string name="install_app_dialog_title">Не удалось найти устройства поблизости</string>
-    <string name="install_app_link_text">Почему мое старое устройство не может подключиться к точке доступа?</string>
+    <string name="install_app_link_text">Почему моё старое устройство не может подключиться к точке доступа?</string>
     <string name="install_app_message">Если вы не можете найти новое устройство в течение длительного времени, попробуйте следующее:
 1. Убедитесь, что Mi Mover установлен на вашем новом устройстве.
 2. Поднесите два устройства близко друг к другу.</string>

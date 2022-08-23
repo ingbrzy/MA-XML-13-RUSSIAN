@@ -59,7 +59,7 @@
     <string name="circulate_help_exit_button_content_description">Выход</string>
     <string name="circulate_help_feedback_button">Обратная связь</string>
     <string name="circulate_local_pad_name">Планшет</string>
-    <string name="circulate_local_phone_name">Мое устройство</string>
+    <string name="circulate_local_phone_name">Моё устройство</string>
     <string name="circulate_tv_power_alter_title">Внимание</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>

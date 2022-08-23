@@ -76,7 +76,7 @@
     <string name="ad_join">Присоединиться</string>
     <string name="ad_more">Ещё</string>
     <string name="add_local_shortcut_add">Добавить</string>
-    <string name="add_local_shortcut_des">Добавьте ярлык \"Мое видео\" на рабочий стол для просмотра видео одним касанием</string>
+    <string name="add_local_shortcut_des">Добавьте ярлык \"Моё видео\" на рабочий стол для просмотра видео одним касанием</string>
     <string name="add_search_channel_link">URL-адрес</string>
     <string name="add_search_channel_name">Имя</string>
     <string name="add_search_channel_tip">Выполните поиск \"%s\" на указанном сайте, затем скопируйте и вставьте URL-адрес здесь</string>
@@ -834,7 +834,7 @@ ID: %s
     <string name="local_video_notification_btn">Посмотреть в приложении Mi Видео</string>
     <string name="local_video_notification_title">Найдены новые видео</string>
     <string name="local_video_number_of_selected">Выбрано: %1$d/%2$d</string>
-    <string name="local_video_shortcut_name">Мое видео</string>
+    <string name="local_video_shortcut_name">Моё видео</string>
     <string name="local_video_size">Размер</string>
     <string name="local_video_space">Занято: %s</string>
     <string name="local_video_time">Длительность</string>

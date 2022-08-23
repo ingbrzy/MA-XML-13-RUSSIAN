@@ -2066,7 +2066,7 @@
     <string name="category_work">Рабочий профиль</string>
     <string name="cbrs_data_switch_string">Данные Cbrs</string>
     <string name="cdma_lte_data_service">Настройка службы данных</string>
-    <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
+    <string name="cdma_security_settings_summary">Настройка функции \"Моё местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="cdma_subscription_dialogtitle">подписка</string>
     <string name="cdma_subscription_summary">Переключение между RUIM/SIM и NV</string>
     <string name="cdma_subscription_title">Подписка на CDMA</string>
@@ -5008,7 +5008,7 @@ ID: %s
     <string name="location_time_zone_detection_not_applicable">Определение часового пояса с помощью геолокации отключено</string>
     <string name="location_time_zone_detection_not_supported">Определение часового пояса с помощью геолокации не поддерживается</string>
     <string name="location_time_zone_detection_toggle_title">Определять по местоположению</string>
-    <string name="location_title">Мое местоположение</string>
+    <string name="location_title">Моё местоположение</string>
     <string name="lock_after_timeout">Автоблокировка</string>
     <string name="lock_after_timeout_summary">Через %1$s после отключения экрана</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s после перехода в спящий режим, если экран не поддерживается в разблокированном состоянии службой %2$s</string>
@@ -7935,7 +7935,7 @@ UT-интерфейс: %5$s"</string>
     <string name="se_wallet_hce">Кошелёк HCE</string>
     <string name="se_wallet_uicc">Кошелёк SIM%1$s</string>
     <string name="se_wallet_uicc_jp">"Кошелёк SIM %1$s (автовыбор недоступен)"</string>
-    <string name="search_about_settings">"О телефоне;О планшете;Об устройстве;Модель;Версия Android;Версия MIUI;Процессор;ОЗУ;Оперативная память;Хранилище;Внутренняя память;Память;Прошивка модуля связи;Версия ядра;Номер сборки;Мое устройство;Телефон;Устройство"</string>
+    <string name="search_about_settings">"О телефоне;О планшете;Об устройстве;Модель;Версия Android;Версия MIUI;Процессор;ОЗУ;Оперативная память;Хранилище;Внутренняя память;Память;Прошивка модуля связи;Версия ядра;Номер сборки;Моё устройство;Телефон;Устройство"</string>
     <string name="search_accelerometer_title">Автоповорот экрана;Поворот экрана;Ориентация;Книжная ориентация;Альбомная ориентация</string>
     <string name="search_access_control">Настройки конфиденциальности;Безопасность;Конфиденциальность;Гость;Режим гостя</string>
     <string name="search_accessibility_captioning_title">Субтитры</string>
@@ -8032,7 +8032,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_music_headset_mode_settings">Функция кнопок;кнопки гарнитуры</string>
     <string name="search_music_headset_settings">Наушники и звуковые эффекты;Наушники и звуковые эффекты;Наушники;Наушники;Звуковые эффекты</string>
     <string name="search_music_mi_effect_title">Улучшение звука Mi;улучшить звук</string>
-    <string name="search_my_device">Устройство;О телефоне;Мой телефон;Мое устройство;Телефон;Устройство</string>
+    <string name="search_my_device">Устройство;О телефоне;Мой телефон;Моё устройство;Телефон;Устройство</string>
     <string name="search_networks_title">Мобильные сети;Оператор;Мобильный оператор</string>
     <string name="search_nfc_quick_toggle_title">NFC</string>
     <string name="search_nfc_se_route_title">Расположение элемента безопасности</string>
@@ -8377,7 +8377,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_settings_fingerprint_v2_home_screen">"Используйте отпечаток для разблокировки устройства или аутентификации в приложениях.
 
 "<annotation id="url">Подробнее…</annotation></string>
-    <string name="security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
+    <string name="security_settings_summary">Настройка функции \"Моё местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
     <string name="security_settings_title">Безопасность</string>
     <string name="security_settings_udfps_enroll_a11y">Чтобы найти сканер, проведите пальцем по экрану. Нажмите на сканер и удерживайте.</string>
     <string name="security_settings_udfps_enroll_find_sensor_message">Сканер отпечатков находится на экране. Сканирование отпечатка начнется на следующем шаге.</string>

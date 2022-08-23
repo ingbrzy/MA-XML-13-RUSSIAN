@@ -709,7 +709,7 @@
     <string name="device_search_again">Поиск</string>
     <string name="device_search_failed_help">Отладка ошибок соединения</string>
     <string name="device_search_help"><u>Возникли проблемы? Обратитесь к Справке.</u></string>
-    <string name="device_search_not_mine">Не мое устройство</string>
+    <string name="device_search_not_mine">Не моё устройство</string>
     <string name="device_search_open_location">Разрешите использовать геолокацию для добавления новых устройств</string>
     <string name="device_search_select_tips">Выберите устройство</string>
     <string name="device_searching_nearby">Выполняется поиск</string>
@@ -2038,7 +2038,7 @@ ID:%s
     <string name="health_data_manual_record_title">Ручные измерения</string>
     <string name="health_data_manual_record_title_in_menu">Ручные измерения</string>
     <string name="health_data_month_empty">Нет данных</string>
-    <string name="health_data_my_status">Мое состояние</string>
+    <string name="health_data_my_status">Моё состояние</string>
     <string name="health_data_pai_home_desc">%1$s PAI</string>
     <string name="health_data_rate_distribute1">Легкая активность</string>
     <string name="health_data_rate_distribute2">Сжигание жира</string>
