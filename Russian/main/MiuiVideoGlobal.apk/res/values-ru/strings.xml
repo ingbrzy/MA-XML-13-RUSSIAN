@@ -134,6 +134,7 @@
     <string name="cast_closed_captions_unavailable">Субтитры недоступны</string>
     <string name="cast_connecting_to_device">Подключение к %1$s…</string>
     <string name="cast_disconnect">Отключить</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
     <string name="cast_expanded_controller_ad_image_description">Изображение, во время показа рекламы</string>
     <string name="cast_expanded_controller_ad_in_progress">Идет реклама…</string>
     <string name="cast_expanded_controller_background_image">Обложка</string>
@@ -180,6 +181,8 @@
     <string name="choose">Выбрать</string>
     <string name="choose_to_signin">Да</string>
     <string name="choose_to_signup">Создать новый</string>
+    <string name="chromecast_connecting">Подключение к Chromecast…</string>
+    <string name="chromecast_playing">Воспроизведение видео с помощью Chromecast</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_to_open_pip">Нажмите для переключения в режим \"Картинка в картинке\"</string>
@@ -754,6 +757,7 @@ ID: %s
     <string name="incentive_view_details">Сведения</string>
     <string name="inconsistent_pwd">Пароли не совпадают</string>
     <string name="init_channels">Сброс настроек</string>
+    <string name="inline_mute_click_tip">Нажмите, чтобы включить звук</string>
     <string name="input_email_address_notice">Мы будем использовать этот адрес для подтверждения вашего аккаунта</string>
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="input_size_tips">Можно ввести до 1000 символов</string>
@@ -804,6 +808,7 @@ ID: %s
     <string name="local_hide_folder_dialog_title">Скрытые видео</string>
     <string name="local_hide_folder_setting_goto">Настройки</string>
     <string name="local_hide_folder_setting_tip">Скрытыми видео можно управлять в разделе Профиль > Настройки > Управление скрытыми видео</string>
+    <string name="local_play_end_drag_up_guide">Нажмите или проведите вверх для воспроизведения Shorts</string>
     <string name="local_play_tip">Воспроизведение видео на устройстве</string>
     <string name="local_push_setting_power_tag">Уведомления о локальных видео</string>
     <string name="local_push_title">Популярное сегодня</string>
@@ -862,6 +867,7 @@ ID: %s
     <string name="lp_video_zoom_title">Масштаб</string>
     <string name="lv_advance_sound">Улучшение звука</string>
     <string name="lv_airkan_control_device_des">Для управления воспроизведением коснитесь панели внизу экрана.</string>
+    <string name="lv_airkan_device_my_device">Моё устройство</string>
     <string name="lv_airkan_device_xiaomi_phone">Мой телефон</string>
     <string name="lv_airkan_playing">Трансляция на %s</string>
     <string name="lv_airkan_tips">Нажмите для трансляции</string>
@@ -1104,8 +1110,11 @@ ID: %s
     <string name="mr_controller_stop">Остановить</string>
     <string name="mr_controller_stop_casting">Прекратить трансляцию</string>
     <string name="mr_controller_volume_slider">Регулятор громкости</string>
+    <string name="mr_dialog_default_group_name">Группа</string>
     <string name="mr_dialog_device_header">Трансляция на устройство</string>
+    <string name="mr_dialog_groupable_header">Добавить устройство</string>
     <string name="mr_dialog_route_header">Воспроизведение в группе</string>
+    <string name="mr_dialog_transferable_header">Групповое воспроизведение</string>
     <string name="mr_system_route_name">Система</string>
     <string name="mr_user_route_category_name">Устройства</string>
     <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>

@@ -147,6 +147,10 @@
     <string name="app_permission_use_group_phone_desc">Для Google Push сервисов</string>
     <string name="app_permission_use_group_storage">Хранилище</string>
     <string name="app_permission_use_group_storage_desc">Для поиска и воспроизведения треков на устройстве</string>
+    <string name="apply_for_the_following_permissions">Приложению необходимы следующие разрешения:</string>
+    <string name="apply_permissions_greater_than_pie">Разрешение можно предоставить в Настройки > Приложения > Разрешения > Разрешения приложений > Хранилище > Музыка</string>
+    <string name="apply_permissions_less_than_pie">Разрешение можно предоставить в Настройки > Приложения > Разрешения > Разрешения приложений  > Доступ к файлам в хранилище > Музыка</string>
+    <string name="apply_permissions_tips_content">Разрешите приложению доступ к файлам для поиска музыки на устройстве</string>
     <string name="artist">Исполнители</string>
     <string name="artist_area_all">Все</string>
     <string name="artist_area_china">Китай</string>
@@ -224,6 +228,9 @@
     <string name="choose_stream_quality">Выберите качество музыки</string>
     <string name="choose_to_signin">Да</string>
     <string name="choose_to_signup">Создать новый</string>
+    <string name="clause_content_first">В соответствии с требованиями законодательства, приложению Музыка необходимо ваше согласие для предоставления вам соответствующих сервисов.</string>
+    <string name="clause_content_second">Мы будем защищать вашу личную информацию в соответствии с отраслевыми стандартами безопасности.</string>
+    <string name="clause_content_third">Согласие можно отозвать в любое момент в Настройках.</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_and_watch_video_tip">Нажмите, чтобы воспроизвести музыкальное видео</string>
@@ -512,22 +519,34 @@ ID: %s
     <string name="error_not_support">Не поддерживается</string>
     <string name="evening">PM</string>
     <string name="exceed_binded_phone_times_notice">Этот номер телефона связан с другим Mi аккаунтом.</string>
+    <string name="exo_controls_cc_disabled_description">Включить субтитры</string>
+    <string name="exo_controls_cc_enabled_description">Отключить субтитры</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
+    <string name="exo_controls_fullscreen_enter_description">Полноэкранный режим</string>
+    <string name="exo_controls_fullscreen_exit_description">Выход из полноэкранного режима </string>
     <string name="exo_controls_hide">Скрыть управление</string>
     <string name="exo_controls_next_description">Следующий трек</string>
+    <string name="exo_controls_overflow_hide_description">Скрыть дополнительные настройки</string>
+    <string name="exo_controls_overflow_show_description">Показать дополнительные настройки</string>
     <string name="exo_controls_pause_description">Приостановить</string>
     <string name="exo_controls_play_description">Воспроизвести</string>
+    <string name="exo_controls_playback_speed">Скорость</string>
+    <string name="exo_controls_playback_speed_normal">Нормальная</string>
     <string name="exo_controls_previous_description">Предыдущий трек</string>
     <string name="exo_controls_repeat_all_description">Повторять все</string>
     <string name="exo_controls_repeat_off_description">Не повторять</string>
     <string name="exo_controls_repeat_one_description">Повторять трек</string>
     <string name="exo_controls_rewind_description">Перемотать назад</string>
+    <string name="exo_controls_seek_bar_description">Прогресс воспроизведения</string>
+    <string name="exo_controls_settings_description">Настройки</string>
     <string name="exo_controls_show">Показать управление</string>
     <string name="exo_controls_shuffle_description">Перемешать</string>
     <string name="exo_controls_shuffle_off_description">Перемешивание отключено</string>
     <string name="exo_controls_shuffle_on_description">Перемешивание включено</string>
     <string name="exo_controls_stop_description">Остановить</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
     <string name="exo_controls_vr_description">VR-режим</string>
     <string name="exo_download_completed">Загрузка завершена</string>
     <string name="exo_download_description">Загрузка</string>
@@ -578,6 +597,7 @@ ID: %s
     <string name="fcm_fallback_notification_channel_label">Разное</string>
     <string name="feed_back">Обратная связь</string>
     <string name="feedback_send_email_body_extra_info">Не удаляйте следующую информацию. Это поможет нам найти проблему.</string>
+    <string name="file_and_media_permissions_for_display">Доступ к файлам в хранилище: сканирование, отображение и воспроизведение локальных файлов</string>
     <string name="file_not_found">Файл не найден</string>
     <string name="filter_by_MP4">Показать папки с файлами MP4</string>
     <string name="filter_by_duration">По длительности</string>
@@ -638,6 +658,8 @@ ID: %s
     <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
     <string name="get_phone_verifycode_exceed_limit">На этот номер отправлено слишком много кодов подтверждения. Повторите попытку через 24 часа.</string>
     <string name="get_vip">Получить VIP</string>
+    <string name="getverifycode_seconde">сек.</string>
+    <string name="go_agree">ОК</string>
     <string name="google_account_login">Вход с помощью Google</string>
     <string name="google_application_id" />
     <string name="google_login_btn_content_description">Войти с помощью Google</string>
@@ -812,11 +834,13 @@ ID: %s
     <string name="login_instantly">Вход</string>
     <string name="login_mi_account_and_gain_more_rights">Войдите в Xiaomi аккаунт чтобы получить доступ к дополнительным функциям.</string>
     <string name="login_other">Другой Xiaomi аккаунт</string>
+    <string name="login_out_tip">Не удалось выполнить выход. Вместо этого вы можете очистить все данные приложения.</string>
     <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_with_sns">Другие варианты входа</string>
     <string name="logout_account">Выйти</string>
     <string name="long_press_to_select_lyric">"Нажмите и удерживайте для 
 редактирования трека"</string>
+    <string name="lots_of_songs_for_free">Слушайте миллионы треков бесплатно</string>
     <string name="low_sound_quality">Низкое</string>
     <string name="lrc_search_failed">Текст песни не найден</string>
     <string name="lrc_searching">Поиск текста песни…</string>
@@ -1292,8 +1316,13 @@ ID: %s
     <string name="pulluprefreshrecyclerview_loading_error">Не удалось загрузить данные</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Успешно загружено</string>
     <string name="pulluprefreshrecyclerview_loading_running">Загрузка…</string>
+    <string name="qq_application_id" />
     <string name="qq_login_btn_content_description">Вход через QQ</string>
     <string name="queue_is_empty">Очередь пуста</string>
+    <string name="read_and_agree_hungama_protocol"><Data>Я принимаю &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности Hungama&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>Я принимаю &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Политику конфиденциальности JOOX&lt;/a>&lt;/font></Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>Я принимаю  &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a>&lt;/font> и &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Xiaomi&lt;/font></Data></string>
+    <string name="read_and_agree_protocol">Read and agree to our User Agreement and Privacy Policy before you continue.</string>
     <string name="ready_to_play">Следующий</string>
     <string name="recently_played">Недавние</string>
     <string name="recently_played_songs">Недавние</string>
@@ -1494,6 +1523,7 @@ ID: %s
     <string name="storage_cloned_app">Хранилище для клонов</string>
     <string name="storage_internal">Хранилище</string>
     <string name="storage_sd_card">SD-карта</string>
+    <string name="storage_space_permissions_for_display">Доступ к хранилищу: сканирование, отображение и воспроизведение локальных файлов</string>
     <string name="storage_usb">USB накопитель</string>
     <string name="streamloadingtext">Подключение к %s</string>
     <string name="summary_command_mode">Включите для входа в режим команд</string>
@@ -1542,6 +1572,7 @@ ID: %s
     <string name="talkback_pre">Предыдущий трек</string>
     <string name="talkback_search">Поиск</string>
     <string name="talkback_show_navigation_draw">Показать меню</string>
+    <string name="telephone_permissions_for_push">Разрешения на вызовы: для работы служб push-уведомлений Google</string>
     <string name="temporary_not_available">Эта функция пока недоступна</string>
     <string name="terms_of_service">Условия использования</string>
     <string name="test_mode">Тестовый режим</string>

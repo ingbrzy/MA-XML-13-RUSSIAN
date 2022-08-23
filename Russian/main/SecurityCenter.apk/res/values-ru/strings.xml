@@ -183,6 +183,8 @@
     <string name="already_close_gamebooster">Ускорение игр отключено</string>
     <string name="anti_disturb_msg_detail">Отключить все уведомления, кроме входящих вызовов</string>
     <string name="anti_disturb_msg_title">Режим \"Не беспокоить\"</string>
+    <string name="antispam_guangdian_card_hint">SIM-карта не поддерживает переключение на другой тип сообщений. Обратитесь к оператору связи для подробностей.</string>
+    <string name="antispam_guangdian_card_title">Переключение не поддерживается</string>
     <string name="antispam_mms_text">Для просмотра заблокированных сообщений, установите приложение Сообщения в качестве приложения по умолчанию</string>
     <string name="antispam_mms_text_setting">Для использования черных списков, установите приложение Сообщения в качестве приложения по умолчанию</string>
     <string name="antispam_mode_details">Подробности</string>

@@ -119,8 +119,8 @@
     <string name="accessibility_hdr_normal">HDR Pro включён</string>
     <string name="accessibility_hdr_off">HDR отключён</string>
     <string name="accessibility_hdr_on">HDR включён</string>
-    <string name="accessibility_horizontal_shutter_off">Съемка в ландшафтном режиме отключена</string>
-    <string name="accessibility_horizontal_shutter_on">Съемка в ландшафтном режиме</string>
+    <string name="accessibility_horizontal_shutter_off">Съемка в альбомном режиме отключена</string>
+    <string name="accessibility_horizontal_shutter_on">Съемка в альбомном режиме</string>
     <string name="accessibility_intent_done_apply">Готово</string>
     <string name="accessibility_intent_done_retry">Повторить</string>
     <string name="accessibility_item">Элемент</string>
@@ -354,7 +354,7 @@
     <string name="autozoom_click_hint">Нажмите на объект для удержания его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее %d метров.</string>
     <string name="autozoom_disabled_hint">Слежение отключено</string>
     <string name="autozoom_hint">Слежение</string>
-    <string name="autozoom_landscape_hint">Снимайте в ландшафтном режиме для лучшего эффекта</string>
+    <string name="autozoom_landscape_hint">Рекомендуется альбомный режим</string>
     <string name="auxiliary_close_status">Отключить дополнительные эффекты</string>
     <string name="auxiliary_exposure_feedback_status">Проверка экспозиции включена</string>
     <string name="auxiliary_focus_peak_status">Пик фокуса включён.</string>
@@ -483,7 +483,7 @@
     <string name="clone_guide_title3">-</string>
     <string name="clone_guide_title4">Как это выглядит</string>
     <string name="clone_guide_video_title2">Клонирование в видео</string>
-    <string name="clone_landscape_hint">Клонирование работает только в ландшафтном режиме</string>
+    <string name="clone_landscape_hint">Клонирование работает только в альбомном режиме</string>
     <string name="clone_mode_start_hint">Нажмите кнопку съемки, чтобы начать</string>
     <string name="clone_no_person_found">Не удалось найти объект</string>
     <string name="clone_no_person_found_in_viewfinder">Лица не обнаружены</string>
@@ -815,7 +815,7 @@
     <string name="hint_groupshot">"Камера сделает несколько снимков
 и создаст из них оптимальное фото"</string>
     <string name="hint_groupshot_beauty">Улучшение на групповых фото недоступно</string>
-    <string name="hint_mimovie">Снимайте в ландшафтном режиме для лучшего эффекта</string>
+    <string name="hint_mimovie">Рекомендуется альбомный режим</string>
     <string name="hint_slow_motion">Видео будет воспроизводиться медленнее</string>
     <string name="hint_subtitle">Диктуйте субтитры во время съемки видео</string>
     <string name="hint_subtitle_prompt">Вы можете диктовать субтитры</string>
@@ -1928,10 +1928,10 @@
     <string name="prek_b_j_o">Воссоздание эффекта объемного стерео. Для достижения наилучшего эффекта используйте альбомный режим или подключите наушники.</string>
     <string name="prek_b_j_p">Уменьшение влияния ветра на звукозапись</string>
     <string name="prep_video_ai_audio_new_desc_tip">Усиление звуков от объекта в фокусе</string>
-    <string name="prep_video_ai_audio_new_desc_tip_alone">Усиление звуков от объекта в фокусе в ландшафтном режиме</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Усиление звуков от объекта в фокусе в альбомном режиме</string>
     <string name="prep_video_ai_audio_new_mutex_tip">Аудиозум недоступен</string>
     <string name="prep_video_ai_audio_single_desc_tip">Фильтрация звуков позади экрана</string>
-    <string name="prep_video_ai_audio_single_desc_tip_alone">Фильтрация звуков позади экрана в ландшафтном режиме</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Фильтрация звуков позади экрана в альбомном режиме</string>
     <string name="prep_video_ai_audio_single_mutex_tip">Запись фронтального звука недоступна</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Аудиозум не работает с внутриушным монитором и внешним микрофоном</string>
     <string name="preparing_sd">Подготовка SD-карты…</string>
@@ -2250,7 +2250,7 @@
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Политика конфиденциальности</string>
     <string name="vv_duartion_hint">%1$s | Сегмент %2$d | %3$s сек.</string>
-    <string name="vv_hint">Съемка видеоблога доступна только в ландшафтном режиме</string>
+    <string name="vv_hint">Съемка видеоблога доступна только в альбомном режиме</string>
     <string name="vv_mode_menu_item_name">ВЛОГ</string>
     <string name="vv_stability_hint">Держите устройство неподвижно</string>
     <string name="vv_start">Съемка</string>

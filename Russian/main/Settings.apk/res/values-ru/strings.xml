@@ -5328,7 +5328,7 @@ ID: %s
     <string name="magic_list_empty_text">Нет приложений, совместимых с этой функцией</string>
     <string name="magic_list_empty_text_pad">Нет приложений, совместимых с этой функцией</string>
     <string name="magic_window_name">Разделение экрана</string>
-    <string name="magic_window_name_pad">Оптимизация ландшафтного режима</string>
+    <string name="magic_window_name_pad">Оптимизация альбомном режима</string>
     <string name="mah">%d мА·ч</string>
     <string name="main_clear_accounts">"
 

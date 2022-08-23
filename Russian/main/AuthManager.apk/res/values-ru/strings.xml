@@ -309,6 +309,7 @@
     <string name="ok">OК</string>
     <string name="perm_action_allow">Разрешить</string>
     <string name="perm_action_deny">Запретить</string>
+    <string name="perm_educate_post_notification">Уведомления могут сопровождаться звуком и вибрацией при появлении в шторке уведомлений и на значках приложений на рабочем столе. Параметры уведомлений можно изменить в Настройках.</string>
     <string name="perm_manager_suggest_operation">Управление разрешениями</string>
     <string name="perm_manager_suggest_title">Настроить разрешения?</string>
     <string name="perm_modem_location">Использование геолокации</string>
@@ -323,6 +324,7 @@
     <string name="permdesc_microphone">Разрешить %1$s использовать микрофон для записи аудио?</string>
     <string name="permdesc_nearby_devices">Разрешить %1$s поиск устройств поблизости и подключение к ним?</string>
     <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
+    <string name="permdesc_post_notification">Разрешить %1$s отправлять уведомления?</string>
     <string name="permdesc_process_outgoing_call">Разрешить %1$s принимать и завершать вызовы?</string>
     <string name="permdesc_read_calendar">Разрешить %1$s доступ к мероприятиям календаря и редактирование?</string>
     <string name="permdesc_read_call_log">Разрешить %1$s доступ к журналу вызовов?</string>
