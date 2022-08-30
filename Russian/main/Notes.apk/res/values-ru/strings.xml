@@ -531,9 +531,11 @@
     <string name="note_mindnote_entrance_hint_newversion">"Введите текст "</string>
     <string name="note_mindnote_entrance_icon_text">Ментальная карта</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Ментальная карта</string>
+    <string name="note_mindnote_not_support_in_phone_model">Редактирование ментальной карты недоступно на этом устройстве</string>
     <string name="note_module_name">Заметки</string>
     <string name="note_not_text_stub">Текст отсутствует</string>
     <string name="note_sort_way">Сортировка</string>
+    <string name="note_write_hint">Введите текст</string>
     <string name="notealert_enter">Открыть заметку</string>
     <string name="notealert_ok">Закрыть</string>
     <string name="notes_description_content">Приложение \"Заметки\" является системным. После удаления вы не сможете создавать заметки и списки задач с напоминанием.</string>
@@ -640,6 +642,7 @@
     <string name="progressbar_title">Проверка безопасности…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">Быстрые заметки позволяют создавать заметки и выдержки</string>
+    <string name="recognition_failure">Ошибка распознавания</string>
     <string name="recover_notes_hint">Произошла ошибка, посетите i.mi.com для восстановления заметок</string>
     <string name="redo">Вернуть</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Дождитесь загрузки заметки и повторите попытку</string>

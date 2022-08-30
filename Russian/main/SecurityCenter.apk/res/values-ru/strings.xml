@@ -568,6 +568,8 @@
     <string name="app_mobile">Мобильный интернет</string>
     <string name="app_name">Защита приложений</string>
     <string name="app_name_na">Трафик</string>
+    <string name="app_name_pad">Безопасность</string>
+    <string name="app_name_phone">Безопасность</string>
     <string name="app_name_securitycenter">Безопасность</string>
     <string name="app_not_installed_toast">Приложение не найдено</string>
     <string name="app_perm_manager_service">Разрешения</string>
@@ -977,6 +979,8 @@
     <string name="beauty_fun_screen_light">Рассеянный свет экрана</string>
     <string name="beauty_fun_settings_light">Яркость рассеянного света</string>
     <string name="beauty_fun_video_effect">Улучшение для видео</string>
+    <string name="beauty_portrait_center">Автоцентрирование лиц</string>
+    <string name="beauty_portrait_center_desc">Автоматическое определение и центрирование лиц во время видеозвонков. Функция поддерживается не для всех приложений.</string>
     <string name="beauty_settings">Настройки</string>
     <string name="begin_date">Дата начала учета</string>
     <string name="behavior_widget_get_installed_apps">Доступ к приложениям</string>
@@ -1389,7 +1393,11 @@
     <string name="dialog_msg_create_icon_content">Добавить ярлык на рабочий стол?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Больше не показывать</string>
     <string name="dialog_msg_delete_icon_content">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
+    <string name="dialog_msg_delete_icon_content_pad">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
+    <string name="dialog_msg_delete_icon_content_phone">Приложение Безопасность позволяет очищать мусор на устройстве, находить и обезвреживать вирусы, экономить заряд батареи, управлять разрешениями и многое другое.</string>
     <string name="dialog_msg_delete_icon_title">Удалить ярлык с рабочего стола?</string>
+    <string name="dialog_msg_delete_icon_title_pad">Удалить ярлык с рабочего стола?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Удалить ярлык с рабочего стола?</string>
     <string name="dialog_msg_stop_virus_scan">Остановить проверку?</string>
     <string name="dialog_no_longer_alert">Больше не показывать</string>
     <string name="dialog_remobe_luckymoney_cancle">Отмена</string>
@@ -1536,6 +1544,10 @@
     <string name="eletric_identification_unfamiliar_numbers">Идентифицикация неизвестных номеров</string>
     <string name="eletric_identification_unfamiliar_numbers_summary">Отображение типа вызова для неизвестных номеров на основе отзывов пользователей</string>
     <string name="eletric_key_protect_electric_announcement">Защита от мошенничества</string>
+    <string name="eletric_no_grant_dialog_message_for_phone">Предоставьте необходимые разрешения для определения неизвестных номеров</string>
+    <string name="eletric_no_grant_dialog_negative_button">Отмена</string>
+    <string name="eletric_no_grant_dialog_positive_button">Настройки</string>
+    <string name="eletric_no_grant_dialog_title">Предоставьте разрешения</string>
     <string name="eletric_risk_call_identification">Защита вызовов</string>
     <string name="eletric_risk_call_identification_announcement">Уведомление о возможных рисках при вызовах с неизвестных номеров</string>
     <string name="eletric_status_protecting">Включено</string>
@@ -2057,7 +2069,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebooster_lowbattery_notification_summary">Подключите зарядное устройство.</string>
     <string name="gamebooster_lowbattery_notification_title">Заряд менее 5%%</string>
     <string name="gamebooster_main_activity_back">Назад</string>
-    <string name="gamebooster_network_dialog_cn_message">Ускорению игр требуются разрешения для подключения к интернету и доступа к местоположению. Разрешить?</string>
+    <string name="gamebooster_network_dialog_cn_message">Ускорению игр необходимы разрешения для подключения к интернету и для геолокации. Разрешить?</string>
     <string name="gamebooster_network_dialog_message">Разрешить подключение к интернету для использования всех функций Ускорения игр?</string>
     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
     <string name="gamebooster_push_expiring_soon_button">Продлить</string>
@@ -3476,6 +3488,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_statistics_battery_use_summary">%s с момента зарядки</string>
     <string name="pc_statistics_battery_use_title">Расход батареи</string>
     <string name="pc_to_phone_install">Заблокирована установка %s через USB</string>
+    <string name="pc_xiaoai_create_auto_task">Новая задача из Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Тарифный план</string>
     <string name="perfermance_optimization_summary">Избегать перегрева и аппаратных проблем</string>
     <string name="perfermance_optimization_title">Контроль производительности</string>

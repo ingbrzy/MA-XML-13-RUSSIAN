@@ -482,6 +482,7 @@
     <string name="callrecordview_menu_show_sim">Вызовы %s</string>
     <string name="callrecordview_menu_show_stranger">Вызовы с неизвестных номеров</string>
     <string name="callrecordview_menu_show_title">Отображение вызовов</string>
+    <string name="callrecordview_menu_xiaoaiphone">Mi AI Помощник вызовов</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
     <string name="cancel_confirmation_dialog_title">Отмена</string>

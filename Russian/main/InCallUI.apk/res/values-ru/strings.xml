@@ -491,5 +491,6 @@
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="wifi_call">VoWiFi вызов</string>
+    <string name="xiaoai_assistant">Mi AI Помощник вызовов</string>
     <string name="yesterday">Вчера</string>
 </resources>

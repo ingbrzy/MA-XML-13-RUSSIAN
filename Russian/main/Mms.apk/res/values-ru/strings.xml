@@ -274,6 +274,8 @@
     <string name="done">Готово</string>
     <string name="download">Загрузить</string>
     <string name="download_later">Не удалось загрузить сообщения</string>
+    <string name="download_miui_calendar_detail">Загрузите Календарь, чтобы добавить мероприятие или напоминание. Открыть GetApps?</string>
+    <string name="download_miui_calendar_title">Загрузка Календаря</string>
     <string name="downloading">Загрузка…</string>
     <string name="downloading_file_can_not_play">Загрузка записи…</string>
     <string name="draft">Черновик</string>
@@ -680,6 +682,7 @@
     <string name="not_prepare_for_send">Нет сообщения для отправки</string>
     <string name="not_set">Не задано</string>
     <string name="not_support_audio_forward">Не удалось переслать голосовые сообщения</string>
+    <string name="notes_not_found">Установите Заметки</string>
     <string name="notification_ad_content">Вы получили рекламное сообщение от %s</string>
     <string name="notification_add_todo">Напомнить</string>
     <string name="notification_add_todo_content">Получить код: %s</string>
@@ -712,9 +715,9 @@
     <string name="perm_purpose_rcs_account">Для отображения руководства для начинающих для новых пользователей"</string>
     <string name="perm_purpose_rcs_phone_state">Для доступа к IMEI для идентификации вашего устройства</string>
     <string name="perm_purpose_rcs_storage">Для сохранения изображений, видео, файлов и других вложений RCS</string>
-    <string name="permission_new_retry_dialog_msg">Для нормальной работы приложению Сообщения требуется доступ к контактам. Разрешения можно  изменить в Настройки > Приложения > Системные приложения.</string>
+    <string name="permission_new_retry_dialog_msg">Для нормальной работы предоставьте приложению Сообщения доступ к контактам</string>
     <string name="permission_retry_deny">Отмена</string>
-    <string name="permission_retry_dialog_msg">Приложению Сообщения для нормальной работы требуются разрешения. Нажмите \"Настройки\", затем \"Разрешения\" и предоставьте доступ к устройству, SMS и контактам.</string>
+    <string name="permission_retry_dialog_msg">Для нормальной работы предоставьте приложению Сообщения необходимые разрешения. Нажмите \"Настройки\", затем \"Разрешения\" и предоставьте доступ к устройству, SMS и контактам.</string>
     <string name="permission_retry_setting">Настройки</string>
     <string name="phrase_confirm_delete_message">Удалить этот шаблон?</string>
     <string name="phrase_empty">Нет фраз</string>
@@ -1239,6 +1242,7 @@
     <string name="solar_term_white_dews">Белые росы</string>
     <string name="solar_term_winter_begins">Начало зимы</string>
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
+    <string name="soundrecorder_not_found">Установите Диктофон</string>
     <string name="sp_category_all">Все служебные сообщения</string>
     <string name="sp_category_bank">Сообщения от банков</string>
     <string name="sp_category_title_prefix">%s</string>

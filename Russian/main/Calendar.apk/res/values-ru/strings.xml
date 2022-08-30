@@ -91,8 +91,8 @@
     <string name="agenda_tomorrow">ЗАВТРА, %1$s</string>
     <string name="agenda_view">Расписание</string>
     <string name="alarm_label">Закрыть</string>
-    <string name="alarm_open_reminder">Создать будильник</string>
-    <string name="alarm_reminder_already">Будильник успешно создан</string>
+    <string name="alarm_open_reminder">Включить напоминание</string>
+    <string name="alarm_reminder_already">Напоминание включено</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Просрочено</string>
     <string name="alert_title">Уведомления календаря</string>
@@ -302,8 +302,10 @@
     <string name="edit_event_label">Подробности</string>
     <string name="edit_event_no_reminder_value">Не напоминать</string>
     <string name="edit_event_reminder_3_days_before">Напомнить за 3 дня</string>
+    <string name="edit_event_reminder_3_days_before_time">Напомнить за %d дня</string>
     <string name="edit_event_reminder_summary">В тот же день в %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">За 3 дня и в тот же день в %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">За %1$d дня и в тот же день в %1$s</string>
     <string name="edit_event_reminder_text">%1$s в %2$s</string>
     <string name="edit_event_reminder_time">Напоминания</string>
     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s в %3$s</string>
@@ -585,7 +587,7 @@
     <string name="living_text">В прямом эфире</string>
     <string name="load_more_events">Просмотр мероприятий: %d</string>
     <string name="load_more_events_default">Следующий год</string>
-    <string name="load_more_hint">Загрузить мероприятия из %1$d</string>
+    <string name="load_more_hint">Просмотр мероприятий: %1$d</string>
     <string name="loading">Подождите…</string>
     <string name="loading_ics_files">Поиск файлов календаря…</string>
     <string name="loading_tips">Загрузка</string>
@@ -906,6 +908,7 @@
     <string name="path_calendar_settings">Системные приложения/Календарь/Настройки</string>
     <string name="permission_accounts">Для входа в систему, управления системной учётной записью и связывания с ней элементов</string>
     <string name="permission_contacts">Для синхронизации дней рождения контактов и отправки напоминаний</string>
+    <string name="permission_description">Сведения о разрешениях</string>
     <string name="permission_main_purpose">Просмотр и управление событиями календаря, планирование, получение напоминаний</string>
     <string name="permission_storage">Для сохранения напоминаний и рингтонов</string>
     <string name="phone_num">Номер телефона</string>
@@ -964,6 +967,7 @@
     <string name="premission_description_phone_state">Для идентификации устройства на основе ID устройства</string>
     <string name="premission_description_ringtone">Для установки рингтонов</string>
     <string name="premission_description_title">Просмотр и управление мероприятиями</string>
+    <string name="privacy_and_permissions">Конфиденциальность и разрешения</string>
     <string name="privacy_card_description">Примите нашу Политику конфиденциальности для доступа ко всем функциям.</string>
     <string name="privacy_policy_dialog_agree">Принимаю</string>
     <string name="privacy_policy_dialog_dont_agree">Отмена</string>
@@ -1226,6 +1230,10 @@
     <string name="tab_title_day">День</string>
     <string name="tab_title_month">Месяц</string>
     <string name="tab_title_week">Неделя</string>
+    <string name="tab_view_day">День</string>
+    <string name="tab_view_month">Месяц</string>
+    <string name="tab_view_week">Неделя</string>
+    <string name="tab_view_year">Год</string>
     <string name="talk_back_read_date">Текущая дата: %1$s (%2$s по лунному календарю).</string>
     <string name="talk_back_setting">Настройки</string>
     <string name="talk_back_tab_switch">Переключиться между представлениями</string>

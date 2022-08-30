@@ -94,6 +94,15 @@
         <item quantity="one">Восстановление %d файла</item>
         <item quantity="few">Восстановление %d файлов</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Выполнено резервное копирование %d приложений</item>
+        <item quantity="one">Выполнено резервное копирование %d приложения</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Восстановлено %d приложений</item>
+        <item quantity="one">Восстановлено %d приложение</item>
+        <item quantity="few">Восстановлено %d приложения</item>
+    </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Осталось около %s мин.</item>
         <item quantity="one">Осталось около %s мин.</item>

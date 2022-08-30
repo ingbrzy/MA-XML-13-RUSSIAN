@@ -3016,6 +3016,7 @@ d MMMM"</string>
     <string name="tip_close_flares">Уведомления о действиях приложения в текущем сеансе отключены</string>
     <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
     <string name="title_usb_accessory">USB-устройство</string>
+    <string name="toast_for_first_use_three_gesture">Проведите горизонтально четырьмя пальцами для переключения между приложениями</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon] на экране блокировки</string>

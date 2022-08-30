@@ -151,7 +151,7 @@
     <string name="album_permission_state_granted">Предоставлено</string>
     <string name="album_permission_state_non_granted">Предоставить</string>
     <string name="album_permission_subtitle_single">%2$d альбом (%1$s)</string>
-    <string name="album_permission_tip_text">Галерее требуются разрешения для синхронизации, редактирования и управления альбомами, показанными ниже.</string>
+    <string name="album_permission_tip_text">Предоставьте Галерее необходимые разрешения для синхронизации, редактирования и управления альбомами, указанными ниже.</string>
     <string name="album_permission_title_granted">Предоставлено</string>
     <string name="album_permission_title_non_granted">Не предоставлено</string>
     <string name="album_quota_fulfiled">Слишком много альбомов. Удалите часть альбомов и повторите попытку.</string>
@@ -1532,7 +1532,7 @@
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="micloud_introduce">Автоматически синхронизировать фото и видео (требуется Xiaomi аккаунт)</string>
     <string name="midnight">Ночь</string>
-    <string name="migrate_msg">Для некоторых альбомов требуются разрешения на перемещение файлов после обновления системы.</string>
+    <string name="migrate_msg">После обновления системы для некоторых альбомов требуется выдача разрешения на перемещение файлов.</string>
     <string name="miplay_adjust_volume">Уровень громкости: %d</string>
     <string name="miplay_circulate_failed">Ошибка трансляции потока. Повторите попытку позже.</string>
     <string name="miplay_circulating_msg">Трансляция…</string>

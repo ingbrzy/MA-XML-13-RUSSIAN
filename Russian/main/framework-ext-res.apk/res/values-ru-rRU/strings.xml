@@ -385,6 +385,10 @@
     <string name="pc_device_model_name">Компьютер</string>
     <string name="pc_redmi_device_model_name">Ноутбук Redmi</string>
     <string name="pc_xiaomi_device_model_name">Ноутбук Xiaomi</string>
+    <string name="periodiccacheclear_notification_indefinite">Выполнена автоочистка хранилища</string>
+    <string name="periodiccacheclear_notification_post">\" хранилища было автоматически очищено\"</string>
+    <string name="periodiccacheclear_notification_pre" />
+    <string name="periodiccacheclear_notification_title">Умная очистка</string>
     <string name="perm_send_push_dspt">Разрешить Mi Push сообщения</string>
     <string name="perm_send_push_lab">Отправить Push сообщение</string>
     <string name="permdesc_manageFingerprint">Приложение сможет добавлять и удалять шаблоны отпечатков пальцев.</string>

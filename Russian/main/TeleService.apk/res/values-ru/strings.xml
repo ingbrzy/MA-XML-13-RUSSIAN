@@ -3265,6 +3265,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wrong_password">Введен неверный пароль</string>
     <string name="xcap_setting_summary">Запрет вызовов, голосовая почта, переадресация и ожидание вызовов</string>
     <string name="xcap_setting_title">Настройки службы вызовов</string>
+    <string name="xiaoai_assistant_setting_title">Mi AI Помощник вызовов</string>
     <string name="yesterday">Вчера</string>
     <string name="zen_alarm_warning">Следующий будильник: %1$s. Звук отключён.</string>
     <string name="zen_alarm_warning_indef">Следующий будильник: %1$s. Включите звук.</string>

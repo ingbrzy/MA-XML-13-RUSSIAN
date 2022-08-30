@@ -29,6 +29,10 @@
         <item quantity="other">%d мин. назад</item>
         <item quantity="one">1 мин. назад</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">Для \"%1$s\" осталось %2$d мин. на сегодня</item>
+        <item quantity="one">Для \"%1$s\" осталась %2$d мин. на сегодня</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
@@ -69,9 +73,22 @@
         <item quantity="one">Вы пользовались устройством без перерыва %d минуту</item>
         <item quantity="few">Вы пользовались устройством без перерыва %d минуты</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Отдохните %d минут</item>
+        <item quantity="one">Отдохните %d минуту</item>
+        <item quantity="few">Отдохните %d минуты</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d мин.</item>
         <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Устройство используется %d мин.</item>
+        <item quantity="one">Устройство используется %d мин.</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Можно добавить до %d перерывов</item>
+        <item quantity="one">Можно добавить до %d перерыва</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Равно среднему показателю за %d дней</item>

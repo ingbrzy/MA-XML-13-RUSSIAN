@@ -3495,6 +3495,7 @@ ID: %s
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="extended_power_menu">Расширенное меню питания</string>
     <string name="exterior">Режим</string>
+    <string name="external_auto_rotate_title">Блокировка ориентации внешнего экрана</string>
     <string name="external_code_size_label">На USB-накопителе</string>
     <string name="external_data_size_label">SD-карта</string>
     <string name="external_ram_dialog_btn_cancel">Позже</string>
@@ -4550,6 +4551,7 @@ ID: %s
     <string name="interconnection">Взаимодействие</string>
     <string name="interesting_text">Реалистичный тактильный отклик делает взаимодействие с экраном более четким и информативным</string>
     <string name="interesting_title">Реалистичность</string>
+    <string name="internal_auto_rotate_title">Блокировка ориентации внутреннего экрана</string>
     <string name="internal_memory">Внутренний накопитель</string>
     <string name="internal_storage">Внутр. накопитель</string>
     <string name="internet_connectivity_panel_title">Подключение к интернету</string>
@@ -8869,7 +8871,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sos_privacy_dialog_button_cancel">Отмена</string>
     <string name="sos_privacy_dialog_button_ok">Принимаю</string>
     <string name="sos_privacy_dialog_message">"Перед использованием прочтите и примите наши %s.
-Функции требуются разрешения для доступа к местоположению, для использования мобильной сети и для чтения контактов."</string>
+Функции необходимы разрешения для геолокации, использования мобильной сети и чтения контактов."</string>
     <string name="sos_privacy_dialog_message_new_version">"Функция \"Экстренная помощь\" позволяет делиться вашим местоположением в реальном времени и отправлять текстовые сообщения экстренным контактам.
 Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности.
 Обратите внимание, что этому приложению необходимы подключение к интернету и следующие разрешения для сбора вашей личной информации:

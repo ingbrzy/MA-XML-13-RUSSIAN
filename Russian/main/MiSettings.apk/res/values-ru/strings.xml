@@ -65,6 +65,7 @@
     <string name="australian_magpie">Ворона-свистун</string>
     <string name="authorization_btn_text">Начать</string>
     <string name="authorization_tips">Требуются разрешения</string>
+    <string name="avalible_per_day">Длительность сессии</string>
     <string name="baboon_info">Оливковый бабуин живет в группах с развитым социальным ранжированием</string>
     <string name="back">Назад</string>
     <string name="bear_info">Самый крупный сухопутный хищник, живет в холодных регионах, известен острым обонянием</string>
@@ -114,6 +115,9 @@
     <string name="canada_goose">Канадский гусь</string>
     <string name="capybara">Капибара</string>
     <string name="capybara_info">Полуводный травоядный грызун, может задерживать дыхание под водой до пяти минут</string>
+    <string name="category_limit_notify_title">Лимит времени экрана</string>
+    <string name="category_list_expand">Ещё</string>
+    <string name="category_list_packup">Скрыть</string>
     <string name="category_other">Другое</string>
     <string name="chacma_baboon">Бабуин чакма</string>
     <string name="cheetah">Гепард</string>
@@ -128,8 +132,10 @@
     <string name="color_gamut">Цветовой профиль</string>
     <string name="common_brushtail">Лисий кузу</string>
     <string name="common_ostrich">Страус</string>
+    <string name="compulsor_tip">Рабочий стол</string>
     <string name="contact_description">Для вызова нажмите на ярлык контакта на рабочем столе</string>
     <string name="contact_title">Ярлыки контактов</string>
+    <string name="continue_time">Длительность сессии</string>
     <string name="contrast_ratio">Контраст</string>
     <string name="control_center_title">Время экрана сегодня</string>
     <string name="control_center_title_new">Время экрана</string>
@@ -164,6 +170,8 @@
     <string name="desktop_widget_not_support">"Статистика времени экрана 
 не генерируется для второго пространства"</string>
     <string name="desktop_widget_screen_use_time">Время экрана</string>
+    <string name="device_limit_enable">Вкл.</string>
+    <string name="device_limit_un_enable">Откл.</string>
     <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
     <string name="dynamic_ringtone_desc">Мы исследовали различные экосистемы и воссоздали их характерные звуки. Знакомьтесь со звуками природы вместе с нами и используйте их для уведомлений.</string>
@@ -258,6 +266,9 @@
     <string name="focus_mode_timer_pick_dialog_title">Длительность</string>
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
+    <string name="force_rest">Обязательные перерывы</string>
+    <string name="force_rest_summary">Делать обязательные перерывы при достижении лимита сессии</string>
+    <string name="force_rest_time">Длительность перерыва</string>
     <string name="fps_high">Высокая</string>
     <string name="fps_nature_summary">Максимальная частота обновления делает все четким и ясным</string>
     <string name="fps_nature_title">Максимальная</string>
@@ -290,6 +301,16 @@
     <string name="green_peafowl">Зелёный павлин</string>
     <string name="green_warbler_finch">Славковый вьюрок</string>
     <string name="grey_headed_flying_fox">Сероголовая летучая лисица</string>
+    <string name="guard_item_app_summary">Деинсталляция приложений удалённо</string>
+    <string name="guard_item_app_title">Управление приложениями</string>
+    <string name="guard_item_browser_summary">Контроль доступа к приложениям и контенту</string>
+    <string name="guard_item_browser_title">Ограничения</string>
+    <string name="guard_item_call_summary">Разрешить звонки только определенным контактам</string>
+    <string name="guard_item_call_title">Связь</string>
+    <string name="guard_item_eye_protect_summary">Контроль осанки</string>
+    <string name="guard_item_eye_protect_title">Комфорт для глаз</string>
+    <string name="guard_range_from">От</string>
+    <string name="guard_range_to">Кому</string>
     <string name="harp_seal">Гренландский тюлень</string>
     <string name="harpy_eagle">Южноамериканская гарпия</string>
     <string name="has_applied">Применено</string>
@@ -298,10 +319,12 @@
     <string name="high_fps_description">Высокая частота обновления экрана. Повышенный расход батареи.</string>
     <string name="high_fps_tip_footer">Высокая частота обновления делает просмотр более плавным, но расход батареи выше.</string>
     <string name="hippopotamus">Гиппопотам</string>
+    <string name="holiday_limit">Выходные дни</string>
     <string name="hsv_space_color">Цветовая модель HSV</string>
     <string name="hsv_space_color_hue">Оттенок</string>
     <string name="hsv_space_color_saturation">Насыщенность</string>
     <string name="hsv_space_color_value">Значение</string>
+    <string name="in_forbidden_period">Использование ограничено</string>
     <string name="intelligent_radio_btn_summary">Авторегулировка частоты обновления для баланса между производительностью и расходом батареи</string>
     <string name="intelligent_radio_btn_title">По умолчанию (рекомендуется)</string>
     <string name="intelligent_recognition_item_summary">Использовать определённые рингтоны для служб доставки или такси. Эта функция будет работать, если %s установлен в качестве рингтона по умолчанию.</string>
@@ -341,6 +364,7 @@
     <string name="leopard">Леопард</string>
     <string name="lion">Лев</string>
     <string name="lion_info">Свирепый и сильный хищник, живет в группах, имеет сильное чувство территории</string>
+    <string name="loading_error">Ошибка загрузки</string>
     <string name="lock_summary">Защитите личную информацию</string>
     <string name="long_tai1ed_iaeger">Длиннохвостый поморник</string>
     <string name="low_flicker_mode">Низкая освещенность</string>
@@ -446,6 +470,7 @@
     <string name="nature_mix_summary">Создайте свой микс звуков природы</string>
     <string name="nazca_booby">Насканская олуша</string>
     <string name="network_error">Ошибка подключения к сети. Проверьте подключение и повторите попытку.</string>
+    <string name="next_day">"(След. день) "</string>
     <string name="night">Вечер</string>
     <string name="nine_banded_armadillo">Броненосец</string>
     <string name="no_matching">Не удалось найти приложение для открытия ссылки</string>
@@ -582,6 +607,8 @@
     <string name="steady_on_screen_notification_title">Сделайте перерыв</string>
     <string name="steady_on_screen_notification_title_pad">Отложите устройство и сделайте перерыв</string>
     <string name="steady_on_screen_notify">Уведомления</string>
+    <string name="steady_on_screen_notify_new">Сделайте перерыв</string>
+    <string name="steady_on_screen_ntf_msg">Все функции будут снова доступны через %1$s</string>
     <string name="steady_on_screen_setting">Время использования</string>
     <string name="steady_on_screen_summary">Уведомлять о непрерывном использовании</string>
     <string name="stop_app_timer">Отключение функции</string>
@@ -641,6 +668,12 @@
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
+    <string name="time_over_back_home">Рабочий стол</string>
+    <string name="time_over_delayed_use">Игнорировать</string>
+    <string name="time_over_not_delayed_use">Понятно</string>
+    <string name="time_over_today">"На сегодня больше 
+не осталось времени"</string>
+    <string name="time_over_today_use">"Сессии сегодня: "</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
@@ -668,6 +701,7 @@
     <string name="tuesday_shortest">Вт</string>
     <string name="two_toed_sloths">Двупалый ленивец</string>
     <string name="two_toed_sloths_info">Легко передвигается от дерева к дереву в кронах тропических лесов</string>
+    <string name="unavailable_per_day">Перерывы</string>
     <string name="unlock_times_per_day">"В среднем за день: "</string>
     <string name="unlock_times_per_hour">"В среднем в час: "</string>
     <string name="usage_agree">Принимаю</string>
@@ -703,8 +737,10 @@
     <string name="usage_device_limit_app_prolong_time3">Добавить 60 минут</string>
     <string name="usage_device_limit_app_prolong_time4">Не ограничивать сегодня</string>
     <string name="usage_device_limit_app_prolong_time5">Добавить время один раз</string>
+    <string name="usage_device_limit_forbidden_period">Использование ограничено между %1$s и %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">Достижение лимита через %1$s</string>
     <string name="usage_device_limit_notifation_title">Оставшееся время</string>
+    <string name="usage_device_limit_start_forbidden_period">Использование будет ограничено между %1$s и %2$s (осталось %3$s)</string>
     <string name="usage_device_limit_time_over">Достигнут лимит на сегодня (%1$s)</string>
     <string name="usage_exit">Выход</string>
     <string name="usage_focus_focus_premission_main_summary">Приложению необходим доступ к вашей учётной записи для записи статистики использования Режима медитации.</string>
@@ -737,6 +773,8 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности. В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать функцию. Авторизацию можно отзвать в Время экрана &gt; Настройки &gt; Отключение функции</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Нажав \"Принимаю\", вы соглашаетесь с &lt;a href=\"%1s\"&gt;Пользовательским соглашением&lt;/a&gt; и &lt;a href=\"%2s\"&gt;Политикой конфиденциальности&lt;/a&gt;."&lt;/Data&gt;</string>
     <string name="usage_home_premission_second_summary_new">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и Политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать функцию. Авторизацию можно отозвать в любой момент в меню Время экрана &gt; Настройки &gt; Отключение функции. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com</string>
+    <string name="usage_new_category_limit_summary">Ежедневный лимит для всех приложений из категории</string>
+    <string name="usage_new_category_limit_title">Лимит для категории приложений</string>
     <string name="usage_new_home_app_limit_summary">Ежедневный лимит для приложения</string>
     <string name="usage_new_home_app_limit_title">Лимит времени экрана</string>
     <string name="usage_new_home_average">"Среднее "</string>
@@ -961,6 +999,7 @@
     <string name="willow_grouse_info">Травоядная птица, обитает в субальпийских и субарктических поясах</string>
     <string name="wolf">Волк</string>
     <string name="wombat">Вомбат</string>
+    <string name="workday_limit">Рабочие дни</string>
     <string name="yellow_necked_spurfowl">Желтогорлый турач</string>
     <string name="yellow_throated_marten">Харза</string>
     <string name="yesterday">Вчера</string>

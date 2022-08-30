@@ -161,6 +161,7 @@
     <string name="createQRCode_hint">Введите текст</string>
     <string name="createQRCode_save">Сохранить</string>
     <string name="create_again">Обновить</string>
+    <string name="crop">Обрезать</string>
     <string name="crop__cancel">ОТМЕНА</string>
     <string name="crop__done">ГОТОВО</string>
     <string name="crop__pick_error">Нет доступных источников изображений</string>
@@ -332,7 +333,7 @@
     <string name="importFailed">Не удалось импортировать</string>
     <string name="import_contact">Импортировать контакт</string>
     <string name="import_picture">Импортировать</string>
-    <string name="impunity_declaration_content">Приложению требуются разрешения на доступ к камере и съемку фото, подключение к интернету. Используя это приложение, вы принимаете нашу &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="impunity_declaration_content">Приложению необходимы разрешения для доступа к камере и съемки, для подключения к интернету. Используя это приложение, вы принимаете нашу &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Политику конфиденциальности&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="impunity_declaration_negative_text">Выход</string>
     <string name="impunity_declaration_title">Политика конфиденциальности</string>
     <string name="intelligent_participle">Фразы</string>
@@ -933,6 +934,7 @@
     <string name="xiaoai_dialog">"Скажите Mi AI
 что отсканировать"</string>
     <string name="xiaoai_text">Маленькая кнопка</string>
+    <string name="xiaoai_vision">Mi AI Сканер</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
