@@ -4502,7 +4502,7 @@ ID:%s
     <string name="userinfo_common_skip">Пропустить</string>
     <string name="userinfo_common_step_next">Далее</string>
     <string name="userinfo_common_step_pre">Назад</string>
-    <string name="userinfo_confirmation_age_desc">Для обеспечения защиты конфиденциальности данных несовершеннолетних минимальный возраст для использования этого приложения составляет 14 лет.</string>
+    <string name="userinfo_confirmation_age_desc">Для защиты конфиденциальности данных несовершеннолетних минимальный возраст для использования этого приложения составляет 14 лет.</string>
     <string name="userinfo_contact_format">%1$s | %2$s</string>
     <string name="userinfo_contact_format2">"%1$s
 %2$s | %3$s"</string>

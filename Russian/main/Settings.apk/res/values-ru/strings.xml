@@ -7196,7 +7196,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_authorize_revoke_dialog_title">Отзыв разрешения</string>
     <string name="privacy_authorize_revoke_failed">Не удалось отозвать разрешение</string>
     <string name="privacy_authorize_revoke_success">Разрешение отозвано</string>
-    <string name="privacy_authorize_revoke_time">Отозвать (%1$d с)</string>
+    <string name="privacy_authorize_revoke_time">Отозвать (%1$d сек.)</string>
     <string name="privacy_authorize_revoke_title">Доступ к личным данным</string>
     <string name="privacy_authorize_revoking">Отзыв разрешения…</string>
     <string name="privacy_authorize_success">Разрешение предоставлено</string>
@@ -7215,7 +7215,7 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_file">Приватная папка</string>
     <string name="privacy_gallery">Приватный альбом</string>
     <string name="privacy_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
-    <string name="privacy_lab_settings">Лаборатория защиты конфиденциальности</string>
+    <string name="privacy_lab_settings">Лаборатория защиты приватности</string>
     <string name="privacy_mms">Приватные сообщения</string>
     <string name="privacy_mode_dialog_message">Скрыть сообщения, заметки, настройки и входящие вызовы?</string>
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
@@ -7258,8 +7258,8 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_password_use_finger_success">Включено</string>
     <string name="privacy_password_visible_pattern">Показывать ключ</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="privacy_protect_title">Защита конфиденциальности</string>
-    <string name="privacy_protection">Защита конфиденциальности</string>
+    <string name="privacy_protect_title">Защита приватности</string>
+    <string name="privacy_protection">Защита приватности</string>
     <string name="privacy_protection_title">Конфиденциальность</string>
     <string name="privacy_relative">Разрешения приватности</string>
     <string name="privacy_settings">Резервное копирование</string>

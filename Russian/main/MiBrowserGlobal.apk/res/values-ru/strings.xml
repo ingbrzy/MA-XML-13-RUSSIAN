@@ -1172,7 +1172,7 @@ ID:%s
     <string name="intercept_panel_ads_img_category_text">Заблокированная реклама</string>
     <string name="intercept_panel_download_img_category_text">Защищенные загрузки</string>
     <string name="intercept_panel_empty_content">История действий веб-сайта появится здесь</string>
-    <string name="intercept_panel_headline">Защита конфиденциальности</string>
+    <string name="intercept_panel_headline">Защита приватности</string>
     <string name="intercept_panel_item_action_camera">Использование камеры</string>
     <string name="intercept_panel_item_action_mic">Запись звука</string>
     <string name="intercept_panel_item_action_phish">Этот сайт небезопасен</string>
@@ -2161,7 +2161,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_ua_string">Строка User agent</string>
     <string name="pref_version_info">Информация о версии</string>
     <string name="pref_volume_key_action">Прокрутка кнопками громкости</string>
-    <string name="pref_web_protection">Защита конфиденциальности</string>
+    <string name="pref_web_protection">Защита приватности</string>
     <string name="pref_web_translation">Всплывающее окно перевода</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_des_autocomplete_search">Автоматические предложения поисковых запросов на основе истории просмотра, предложений поисковой системы и популярных сайтов.</string>
@@ -3073,7 +3073,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_intercept_record_filter_ad">Блокировка рекламы</string>
     <string name="web_intercept_record_filter_all">Все записи</string>
     <string name="web_intercept_record_filter_download">Защищенные загрузки</string>
-    <string name="web_intercept_record_filter_permission">Защита конфиденциальности</string>
+    <string name="web_intercept_record_filter_permission">Защита приватности</string>
     <string name="web_intercept_record_sub_title_hint_ad">Блокировка рекламы на веб-странице</string>
     <string name="web_intercept_record_sub_title_hint_download">Автоматический запуск приложений</string>
     <string name="web_intercept_track_record_delete_hint">Отмена</string>
@@ -3099,7 +3099,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_manage_ad_mark">На следующих веб-сайтах реклама блокироваться не будет</string>
     <string name="web_permission_protect_manage_ad_record">Веб-сайты с рекламными метками, которые были добавлены вручную</string>
     <string name="web_permission_protect_manager_permission">Управление защитой конфиденциальности</string>
-    <string name="web_permission_protect_permission">Защита конфиденциальности</string>
+    <string name="web_permission_protect_permission">Защита приватности</string>
     <string name="web_permission_protect_permissions_title">Действия веб-сайта</string>
     <string name="web_permission_protect_pie_title">Защищенные объекты</string>
     <string name="web_permission_protect_privacy_auto_play_title">Автоматическое воспроизведение</string>
@@ -3111,7 +3111,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_record">История действий веб-сайта</string>
     <string name="web_permission_protect_record_dialog_msg">Удалить все записи из истории защиты?</string>
     <string name="web_permission_protect_record_dialog_title">Очистить историю защиты</string>
-    <string name="web_permission_protect_title">Защита конфиденциальности</string>
+    <string name="web_permission_protect_title">Защита приватности</string>
     <string name="web_permission_protect_track_record">Параметр \"Не отслеживать\" нельзя применить для этих веб-сайтов</string>
     <string name="web_permission_protect_track_switch_summary">Включите, чтобы запретить веб-сайтам отслеживать вашу активность.</string>
     <string name="web_permission_protect_track_switch_title">Действия по умолчанию</string>
@@ -3122,7 +3122,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_intercept_desc">Включите, чтобы запретить веб-сайтам инициировать загрузки</string>
     <string name="web_permission_setting_page_intercept_subtitle">Защищать загрузки</string>
     <string name="web_permission_setting_page_intercept_title">Управление загрузками</string>
-    <string name="web_permission_setting_page_permission_title">Защита конфиденциальности</string>
+    <string name="web_permission_setting_page_permission_title">Защита приватности</string>
     <string name="web_permission_setting_page_privcay_des">Не разрешать веб-сайтам осуществлять сбор информации и отслеживать вашу активность.</string>
     <string name="web_permission_setting_page_privcay_subtitle">Не отслеживать</string>
     <string name="web_permission_setting_page_privcay_title">Отслеживание</string>

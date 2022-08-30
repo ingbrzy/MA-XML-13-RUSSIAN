@@ -955,9 +955,9 @@
         <item quantity="few">%d фотографии могут содержать личную или конфиденциальную информацию</item>
     </plurals>
     <plurals name="privacy_risk_result_protection_tip">
-        <item quantity="other">%d функций защиты конфиденциальности отключены</item>
-        <item quantity="one">%d функция защиты конфиденциальности отключена</item>
-        <item quantity="few">%d функции защиты конфиденциальности отключены</item>
+        <item quantity="other">%d функций защиты приватности отключены</item>
+        <item quantity="one">%d функция защиты приватности отключена</item>
+        <item quantity="few">%d функции защиты приватности отключены</item>
     </plurals>
     <plurals name="privacy_risk_sensitive_permissions_tip">
         <item quantity="other">Предоставлено %d  конфиденциальных разрешений</item>

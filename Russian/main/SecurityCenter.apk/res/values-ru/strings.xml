@@ -169,7 +169,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
     <string name="adjust_traffic_data">Расход трафика</string>
     <string name="adv_permission_text">Разрешения</string>
-    <string name="adv_privacy_text">Конфиденциальность</string>
+    <string name="adv_privacy_text">Приватность</string>
     <string name="adv_version_text">Версия: %s</string>
     <string name="after_the_lock_screen">Включена блокировка приложения при блокировке экрана</string>
     <string name="afternoon">После полудня</string>
@@ -609,7 +609,7 @@
     <string name="app_predict_loading_text">Подождите…</string>
     <string name="app_predict_privacy_btn_exit_text">Выход</string>
     <string name="app_predict_privacy_btn_sure_text">Принять</string>
-    <string name="app_predict_privacy_content">Этот сервис использует алгоритмы, действующие в рамках механизмов защиты конфиденциальности и изучающие использование приложений на устройстве. Это позволяет давать рекомендации по приложениям, которые, скорее всего, нужны вам в данный момент.</string>
+    <string name="app_predict_privacy_content">Этот сервис использует алгоритмы, действующие в рамках механизмов защиты приватности и изучающие использование приложений на устройстве. Это позволяет давать рекомендации по приложениям, которые, скорее всего, нужны вам в данный момент.</string>
     <string name="app_predict_privacy_privacy_policy_text">Политику конфиденциальности</string>
     <string name="app_predict_privacy_title">Рекомендации по приложениям</string>
     <string name="app_predict_privacy_user_agreement_privacy_policy_text">Прежде чем продолжить, прочитайте и примите %1$s и %2$s.</string>
@@ -2674,7 +2674,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="intl_app_manager_card_permission_title">Конфиденциальность и разрешения</string>
     <string name="intl_perm_intro_message">Нажмите для настройки разрешений, чтобы избежать утечки данных</string>
     <string name="intl_perm_notification_content">Настройка разрешений</string>
-    <string name="intl_perm_notification_title">Защита конфиденциальности</string>
+    <string name="intl_perm_notification_title">Защита приватности</string>
     <string name="intl_perm_privacy_control_calendar">Приложение сможет получать доступ или редактировать календарь только когда вы используете его</string>
     <string name="intl_perm_privacy_control_calllog">Приложение сможет получать доступ или редактировать журнал вызовов только когда вы используете его</string>
     <string name="intl_perm_privacy_control_camera">Приложение сможет получать доступ к камере только когда вы используете его</string>
@@ -2683,7 +2683,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="intl_perm_privacy_control_message">Контроль использования личных данных в приложениях</string>
     <string name="intl_perm_privacy_control_microphone">Приложение сможет получать доступ к микрофону только когда вы используете его</string>
     <string name="intl_perm_privacy_control_notification_message">Контроль использования личных данных в приложениях</string>
-    <string name="intl_perm_privacy_control_notification_title">Защита конфиденциальности</string>
+    <string name="intl_perm_privacy_control_notification_title">Защита приватности</string>
     <string name="intl_perm_privacy_control_storage">Приложение сможет получать доступ или редактировать файлы во внутренней памяти только когда вы используете его</string>
     <string name="intl_perm_privacy_control_title">Контроль конфиденциальности</string>
     <string name="invalid_charger">Не удается зарядить через USB. Используйте зарядное устройство, которое поставляется с вашим устройством.</string>
@@ -3330,7 +3330,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="once_settings_camera_ttile">Отправить без метаданных</string>
     <string name="once_settings_location_title">Отправлять без информации о местоположении</string>
     <string name="once_settings_subtitle">Как вы хотите поделиться выбранными файлами?</string>
-    <string name="once_settings_title">Защита конфиденциальности</string>
+    <string name="once_settings_title">Защита приватности</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">Приложение не найдено</string>
     <string name="open_alarm_right_now">Открыть</string>
@@ -3515,7 +3515,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_action_accept">Разрешить</string>
     <string name="permission_action_ai_prompt">По выбору системы</string>
     <string name="permission_action_always">Разрешать всегда</string>
-    <string name="permission_action_desc">Разрешить, но отправить приложению пустую информацию для защиты конфиденциальности</string>
+    <string name="permission_action_desc">Разрешить, но отправить приложению пустую информацию для защиты приватности</string>
     <string name="permission_action_desc_always">Предоставлять разрешение всегда</string>
     <string name="permission_action_desc_foreground">Предоставлять разрешение только на время использования приложения</string>
     <string name="permission_action_desc_prompt">Разрешение предоставляется после подтверждения</string>
@@ -3586,7 +3586,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="permission_permission_control_closed_desc_dialog_msg">Приложения не будут запрашивать разрешение на доступ к камере или микрофону, контактам, журналу вызовов или на изменение настроек системы. Можно включить эту функцию в настройках разрешений.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Управление разрешениями</string>
     <string name="permission_privacy_link">&lt;Data&gt;&lt;a href=\"%1$s\"&gt;%2$s&lt;/a&gt;&lt;/Data&gt;</string>
-    <string name="permission_upgrade_more">Дополнительные функции защиты конфиденциальности</string>
+    <string name="permission_upgrade_more">Дополнительные функции защиты приватности</string>
     <string name="permission_upgrade_privacy_title">Запрос разрешения доступа к микрофону или контактам теперь имеет опцию, которая позволяет предоставлять приложениям доступ только в активном режиме. Для защиты личной информации приложения не смогут получать доступ в фоновом режиме.</string>
     <string name="permission_upgrade_runtime">Запрос разрешения использовать геолокацию или доступ к камере теперь имеет опцию, которая позволяет предоставлять приложениям однократный доступ. Для защиты личной информации, при следующем запуске приложения будет повторный запрос разрешения.</string>
     <string name="permission_upgrade_title">Обновленные разрешения</string>
@@ -4003,12 +4003,12 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_app_permission_settings_detail">Управление конфиденциальными разрешениями приложения</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Защита буфера обмена</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI будет управлять доступом к буферу обмена и уведомлять о доступе</string>
-    <string name="pp_app_warning_permission_tips">Уведомлять о действиях</string>
+    <string name="pp_app_warning_permission_tips">Уведомления о действиях</string>
     <string name="pp_app_warning_permission_tips_detail">Уведомлять об использовании геолокации, доступе к микрофону или камере</string>
     <string name="pp_block_mac">Ограничение доступа к MAC-адресу</string>
     <string name="pp_block_mac_summary">По умолчанию доступ к MAC-адресу ограничен для всех приложений</string>
     <string name="pp_call_phone_msg">Журнал вызовов</string>
-    <string name="pp_capability_approved_title">Наши меры защиты конфиденциальности были протестированы и сертифицированы ведущими экспертами</string>
+    <string name="pp_capability_approved_title">Наши меры защиты приватности были протестированы и сертифицированы ведущими экспертами</string>
     <string name="pp_chain_start_is_prohibited">Ограничение цепного запуска</string>
     <string name="pp_chain_start_is_prohibited_detail">Контроль цепного запуска приложений и доступа к личной информации</string>
     <string name="pp_clipboard">Буфер обмена</string>
@@ -4049,8 +4049,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_privacy_lab_operator_introduction">Внимание</string>
     <string name="pp_privacy_lab_operator_introduction_summary">Приложения могут хранить номер телефона. Изменение разрешения не приведет к удалению номера телефона, если он был получен ранее.</string>
     <string name="pp_privacy_protection">Защита</string>
-    <string name="pp_privacy_protection_function">Функции защиты конфиденциальности</string>
-    <string name="pp_privacy_protection_lab">Лаборатория защиты конфиденциальности</string>
+    <string name="pp_privacy_protection_function">Функции защиты приватности</string>
+    <string name="pp_privacy_protection_lab">Лаборатория защиты приватности</string>
     <string name="pp_privacy_protection_lab_summary">Обеспечение конфиденциальности данных</string>
     <string name="pp_privacy_risk_detection">Обнаружение рисков</string>
     <string name="pp_privacy_risk_detection_detail">Автоматическое обнаружение рисков конфиденциальности и получение рекомендаций по защите</string>
@@ -4205,7 +4205,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_dialog_call_message">По умолчанию MIUI не позволяет сторонним приложениям выполнять следующие действия:</string>
     <string name="privacy_dialog_call_result">Вы по-прежнему сможете нормально использовать сторонние приложения и службы. Если у вас возникнут какие-либо проблемы, свяжитесь с нами.</string>
     <string name="privacy_dialog_call_title">Защита вызовов</string>
-    <string name="privacy_dialog_camera_message">В целях защиты конфиденциальности MIUI не разрешает приложениям использовать камеру в фоновом режиме</string>
+    <string name="privacy_dialog_camera_message">В целях защиты приватности MIUI не разрешает приложениям использовать камеру в фоновом режиме</string>
     <string name="privacy_dialog_camera_title">Запрет камеры в фоновом режиме</string>
     <string name="privacy_dialog_content_part1">Добро пожаловать в Безопасность! Это приложение проверяет устройство на наличие мусора и вирусов, позволяет управлять приложениями, контролировать использование мобильного интернета, блокировать звонки и сообщения и т.д.</string>
     <string name="privacy_dialog_content_part2"><Data>Для предоставления сервисов и возможности их улучшения, приложению требуется сбор некоторой личной информации. Вы можете узнать, как мы используем собранную информацию в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Согласие с Политикой конфиденциальности можно отозвать в любое время в настройках.</Data></string>
@@ -4267,7 +4267,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_mask_summary">Вместо реального идентификатора приложениям будет предоставлен виртуальный ID (OAID). Это не позволит приложениям отслеживать ваши действия и предпочтения и защитит конфиденциальность.</string>
     <string name="privacy_mask_title">Виртуальный ID включён</string>
     <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
-    <string name="privacy_more_info_title">Узнайте больше о функциях защиты конфиденциальности</string>
+    <string name="privacy_more_info_title">Узнайте больше о функциях защиты приватности</string>
     <string name="privacy_notification_subtitle">Нажмите для управления разрешениями</string>
     <string name="privacy_notification_title_camera">%1s использует камеру в фоновом режиме</string>
     <string name="privacy_notification_title_camera_mic">%1s использует камеру и микрофон в фоновом режиме</string>
@@ -4301,11 +4301,11 @@ Xiaomi не обещает и не гарантирует точность, до
 Во время калибровки MIUI отправит оператору SMS для получения шаблона калибровки."</string>
     <string name="privacy_prompt_upload">Отправить</string>
     <string name="privacy_protect_summary">Защита ваших личных данных</string>
-    <string name="privacy_protect_title">Защита конфиденциальности</string>
+    <string name="privacy_protect_title">Защита приватности</string>
     <string name="privacy_provision_back">Назад</string>
-    <string name="privacy_provision_more">Узнайте больше о защите конфиденциальности</string>
+    <string name="privacy_provision_more">Узнайте больше о защите приватности</string>
     <string name="privacy_provision_next">Далее</string>
-    <string name="privacy_provision_summary">Защита конфиденциальности - это обязательство, стоящее за дизайном наших продуктов</string>
+    <string name="privacy_provision_summary">Защита приватности - это обязательство, стоящее за дизайном наших продуктов</string>
     <string name="privacy_provision_text">Мы уважаем вашу конфиденциальность и стремимся защищать её. Отдавая приоритет исследованиям и разработкам в области информационной безопасности, Xiaomi постоянно работает над улучшением методов, практик и технических решений, обеспечивающих защиту ваших данных. Мы также делимся нашими последними достижениями с нашими партнерами, чтобы обеспечить вашу конфиденциальность по всем направлениям.</string>
     <string name="privacy_provision_title">Конфиденциальность</string>
     <string name="privacy_recommend_category">Персонализация</string>
@@ -4337,9 +4337,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_dangerous_permissions">Разрешения с высоким риском</string>
     <string name="privacy_risk_dangerous_permissions_msg">Предоставляйте разрешения только тогда, когда это необходимо</string>
     <string name="privacy_risk_dangerous_title">Разрешения с высоким риском</string>
-    <string name="privacy_risk_dangerous_top_tip">Для защиты конфиденциальности и предотвращения раскрытия конфиденциальной информации, предоставляйте разрешения с высоким риском только тогда, когда это необходимо</string>
-    <string name="privacy_risk_dangerous_usage">Отслеживание активности устройства</string>
-    <string name="privacy_risk_dangerous_usage_msg">Отслеживание активности устройства</string>
+    <string name="privacy_risk_dangerous_top_tip">Для защиты приватности и предотвращения раскрытия конфиденциальной информации, предоставляйте разрешения с высоким риском только тогда, когда это необходимо</string>
+    <string name="privacy_risk_dangerous_usage">Доступ к истории использования</string>
+    <string name="privacy_risk_dangerous_usage_msg">Отслеживание использования устройства</string>
     <string name="privacy_risk_detection_continue">Продолжить</string>
     <string name="privacy_risk_detection_stop">Остановить</string>
     <string name="privacy_risk_detection_stop_btn">Остановить</string>
@@ -4362,7 +4362,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_result_photo_delete">Уведомлять об удалении фотографиях</string>
     <string name="privacy_risk_result_photo_delete_msg">Уведомлять об удалении файлов из галереи без подтверждения</string>
     <string name="privacy_risk_result_photo_sensitive">Ваши фотографии содержат личную информацию</string>
-    <string name="privacy_risk_result_protection">Защита конфиденциальности</string>
+    <string name="privacy_risk_result_protection">Защита приватности</string>
     <string name="privacy_risk_result_screen_fuzzy">Размытие миниатюр</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">Размытие миниатюр конфиденциальных приложений в Недавних</string>
     <string name="privacy_risk_result_set_btn">Настройки</string>
@@ -4407,7 +4407,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_show_password_summary">Ненадолго показывать символы при вводе</string>
     <string name="privacy_special_permission_summary">Управление специальными разрешениями</string>
     <string name="privacy_special_permission_title">Специальные разрешения</string>
-    <string name="privacy_summary">Узнайте о защите конфиденциальности в MIUI 12</string>
+    <string name="privacy_summary">Узнайте о защите приватности в MIUI</string>
     <string name="privacy_thumbnail_blur_category_financial">Финансовые</string>
     <string name="privacy_thumbnail_blur_category_other">Другие</string>
     <string name="privacy_thumbnail_blur_category_photography">Фото и видео</string>
@@ -4887,7 +4887,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_power_off_password_summary">Запрос пароля перед выключением устройства</string>
     <string name="sp_power_off_password_title">Подтверждение выключения</string>
     <string name="sp_privacy_protect_summary">Защита личной информации</string>
-    <string name="sp_privacy_protect_title">Защита конфиденциальности</string>
+    <string name="sp_privacy_protect_title">Защита приватности</string>
     <string name="sp_property_security_title">Финансовая безопасность</string>
     <string name="sp_scan_item_monitor">Мониторинг платежей</string>
     <string name="sp_scan_item_url_antispam">Защита от вредоносных ссылок</string>
@@ -6176,7 +6176,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>
-    <string name="xiaomi_privacy_protection_measures">Способы защиты конфиденциальности</string>
+    <string name="xiaomi_privacy_protection_measures">Способы защиты приватности</string>
     <string name="xspace_warning_dialog_button">Понятно</string>
     <string name="xspace_warning_dialog_message">Из-за ограничений в Android %d, все клоны приложений имеют доступ только к своим созданным и сохраненным фото и видео</string>
     <string name="xspace_warning_dialog_title">Внимание</string>

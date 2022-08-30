@@ -489,7 +489,7 @@
     <string name="security_permission_validate_warning">Спасибо за то, что помогаете сделать MIUI лучше!</string>
     <string name="security_permission_wifi_and_data_opened_text">Wi-Fi и мобильный интернет включены</string>
     <string name="security_permission_xiaomi_account_missed_text">Введите ID вашего Xiaomi аккаунта</string>
-    <string name="security_share_text">Защита конфиденциальности</string>
+    <string name="security_share_text">Защита приватности</string>
     <string name="select">Выбрать</string>
     <string name="select_all">Выбрать все</string>
     <string name="send_files_by">Отправить через</string>

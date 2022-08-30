@@ -2444,7 +2444,7 @@
     <string name="secret_reason_type_not_support">Тип файла не поддерживается</string>
     <string name="secret_reason_unknow_reasons">Неизвестная ошибка</string>
     <string name="secret_reason_video_not_support">Добавление видео в приватный альбом не поддерживается</string>
-    <string name="security_share_subtitle_default">Защита конфиденциальности</string>
+    <string name="security_share_subtitle_default">Защита приватности</string>
     <string name="security_share_subtitle_hide">Информация о местоположении удалена</string>
     <string name="security_share_subtitle_no_hide">Содержит информацию о местоположении</string>
     <string name="see_ignore_faces">Просмотреть пропущенные фото</string>

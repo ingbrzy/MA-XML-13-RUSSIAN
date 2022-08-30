@@ -465,7 +465,7 @@
     <string name="privacy_update_dialog_negative_btn">Отмена</string>
     <string name="privacy_update_dialog_positive_btn">Принимаю</string>
     <string name="privacy_update_dialog_quit">Выход</string>
-    <string name="private_protect">Защита конфиденциальности</string>
+    <string name="private_protect">Защита приватности</string>
     <string name="san_wait_msg_1">Включите беспроводную трансляцию на целевом устройстве</string>
     <string name="san_wait_msg_2">Поиск устройств может занять некоторое время…</string>
     <string name="san_wait_msg_3">Внешние устройства легче найти, если они подключены к той же сети, что и телефон</string>

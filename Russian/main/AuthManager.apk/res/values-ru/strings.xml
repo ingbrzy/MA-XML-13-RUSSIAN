@@ -479,7 +479,7 @@
     <string name="tuesday_shortest">Вт</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="virtual_reject_notice_content">В приложение отправлена пустая информация для защиты конфиденциальности</string>
+    <string name="virtual_reject_notice_content">В приложение отправлена пустая информация для защиты приватности</string>
     <string name="virtual_reject_notice_title_calendar">Приложение %1$s пытается получить доступ к календарю</string>
     <string name="virtual_reject_notice_title_calllog">Приложение %1$s пытается получить доступ к журналу вызовов</string>
     <string name="virtual_reject_notice_title_contacts">Приложение %1$s пытается получить доступ к контактам</string>
