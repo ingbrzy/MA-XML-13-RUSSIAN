@@ -1153,7 +1153,7 @@
     <string name="send_message_dlg_title">Управление устройством</string>
     <string name="send_message_notification_msg">Нажмите для просмотра.</string>
     <string name="send_message_notification_tickerText">Запрос разрешения управления устройством</string>
-    <string name="send_message_notification_title">Требуются разрешения</string>
+    <string name="send_message_notification_title">Предоставьте разрешения</string>
     <string name="send_rms_editor_hints">5G сообщение</string>
     <string name="send_rms_editor_hints_omit">Mi сообщение</string>
     <string name="send_signature_confirm_dialog_message">Вы не ввели текст сообщения. Отправить только подпись?</string>
@@ -1405,7 +1405,7 @@
     <string name="title_allow_network_access">Автообновление данных</string>
     <string name="title_collapse_sp_messages">Группировать уведомления</string>
     <string name="title_hide_verification_code">Скрывать одноразовые пароли</string>
-    <string name="title_not_show_read_mms_perm_req">Требуются разрешения</string>
+    <string name="title_not_show_read_mms_perm_req">Предоставьте разрешения</string>
     <string name="title_pref_cm_smart_sms">Умные сообщения China Mobile</string>
     <string name="title_show_blocked_messages">Заблокированные SMS</string>
     <string name="title_show_list_avatar">Фото контактов</string>

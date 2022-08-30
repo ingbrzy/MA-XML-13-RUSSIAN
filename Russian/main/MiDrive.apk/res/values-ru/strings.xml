@@ -447,7 +447,7 @@
     <string name="request_permission_confirm">Понятно</string>
     <string name="request_permission_content">Mi Drive требуется доступ к аккаунтам на этом устройстве, чтобы использовать Xiaomi аккаунт для входа в систему. Разрешение на доступ и запись файлов на устройстве необходимо для просмотра, загрузки и синхронизации файлов.</string>
     <string name="request_permission_content_with_phone_state">Для входа в систему с помощью Xiaomi аккаунта, просмотра и загрузки файлов, синхронизации, проверки наличия обновлений, разрешите приложению Mi Drive доступ к аккаунтам, чтение и запись файлов, а также чтение IMEI.</string>
-    <string name="request_permission_title">Требуются разрешения</string>
+    <string name="request_permission_title">Предоставьте разрешения</string>
     <string name="root_page_name">Мой диск</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>

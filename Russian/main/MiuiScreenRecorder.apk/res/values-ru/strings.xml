@@ -70,7 +70,7 @@
     <string name="evening">После полудня</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="first_using_mic_dialog_message">Приложению требуется доступ к микрофону для записи звука. Разрешить?</string>
-    <string name="first_using_mic_dialog_title">Требуются разрешения</string>
+    <string name="first_using_mic_dialog_title">Предоставьте разрешения</string>
     <string name="fixed_frame_rate">Фиксированная частота кадров</string>
     <string name="fixed_frame_rate_summary">Улучшает воспроизведение на платформах соцсетей и продлевает время работы от батареи</string>
     <string name="fmt_date_long_month_day">d MMMM</string>

@@ -186,7 +186,7 @@
     <string name="cw_added_toast">Уже добавлено</string>
     <string name="cw_adding">Добавление (%1$d)</string>
     <string name="cw_album_no_pic">Ничего нет</string>
-    <string name="cw_album_no_right">Требуются разрешения</string>
+    <string name="cw_album_no_right">Предоставьте разрешения</string>
     <string name="cw_all_folder">Недавние</string>
     <string name="cw_batch_all_added_tip">Нельзя добавить изображения, которые уже есть.</string>
     <string name="cw_batch_part_tip_fail">Добавлены не все изображения</string>
@@ -387,7 +387,7 @@ ID:%s
     <string name="lks_to_setting">Настройки Карусели обоев</string>
     <string name="llks_add_cate">Подписаться на %s</string>
     <string name="llks_auto_switch_wp">Подпишитесь на понравившиеся категории</string>
-    <string name="llks_display_error">Требуются разрешения</string>
+    <string name="llks_display_error">Предоставьте разрешения</string>
     <string name="llks_display_error_des">Разрешите приложению отображение на экране блокировки</string>
     <string name="llks_learn_more_cate">Дополнительные категории</string>
     <string name="llks_pop_btm_des">Начните день с улыбки</string>
@@ -758,7 +758,7 @@ mm"</string>
     <string name="register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="remove">Удалить</string>
-    <string name="req_permission_dis_tip">Требуются разрешения</string>
+    <string name="req_permission_dis_tip">Предоставьте разрешения</string>
     <string name="request_agree">Разрешить</string>
     <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Этому приложению для нормальной работы требуются следующие разрешения:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не предоставите такие разрешения, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему доступна. Вы всегда можете ограничить разрешения или отозвать свое разрешение в Настройках."</string>
     <string name="request_cancel">Отмена</string>
@@ -767,7 +767,7 @@ mm"</string>
     <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
     <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
-    <string name="require_permission">Требуются разрешения</string>
+    <string name="require_permission">Предоставьте разрешения</string>
     <string name="require_permission_text">Разрешите Карусели обоев доступ к памяти устройства для сохранения и просмотра файлов</string>
     <string name="resend_active_email">Отправить снова</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>

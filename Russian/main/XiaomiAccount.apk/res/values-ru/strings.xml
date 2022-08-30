@@ -334,7 +334,7 @@ ID:%s
     <string name="just_a_second">Подождите…</string>
     <string name="kr_license_desc">Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности перед использованием Xiaomi аккаунта и сервисов Xiaomi Cloud.</string>
     <string name="kr_permission_contacts_desc">Для доступа к списку контактов</string>
-    <string name="kr_permission_desc">Требуются разрешения</string>
+    <string name="kr_permission_desc">Предоставьте разрешения</string>
     <string name="kr_permission_phone_desc">Для защиты вашего аккаунта</string>
     <string name="kr_permission_sms_desc">Для автозаполнения проверочных кодов</string>
     <string name="kr_permission_storage_desc">Для сохранения журналов диагностики</string>
@@ -769,7 +769,7 @@ ID:%s
     <string name="removing_account">Выход из аккаунта…</string>
     <string name="rename_current_device">Изменить имя устройства</string>
     <string name="replace_binded_phone">Заменить телефон</string>
-    <string name="request_open_permission">Требуются разрешения</string>
+    <string name="request_open_permission">Предоставьте разрешения</string>
     <string name="request_use_camera_message">Разрешить Xiaomi аккаунту доступ к камере?</string>
     <string name="request_use_camera_title">Доступ к камере</string>
     <string name="request_use_gallery_message">Разрешить Xiaomi аккаунту доступ к галерее?</string>

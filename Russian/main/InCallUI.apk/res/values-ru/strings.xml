@@ -43,7 +43,7 @@
     <string name="bluetooth_permission_content">Системные разрешения обновлены. Разрешите приложению доступ к Bluetooth для просмотра списка устройств.</string>
     <string name="bluetooth_permission_grant_immediately">Разрешить</string>
     <string name="bluetooth_permission_later">Не сейчас</string>
-    <string name="bluetooth_permission_title">Требуются разрешения</string>
+    <string name="bluetooth_permission_title">Предоставьте разрешения</string>
     <string name="callFailed_cb_enabled">Включён запрет вызовов</string>
     <string name="callFailed_congestion">Сеть перегружена</string>
     <string name="callFailed_dialToDial">DIAL запрос преобразован в DIAL запрос с другим номером телефона.</string>
@@ -371,7 +371,7 @@
     <string name="saf_permission_later">Не сейчас</string>
     <string name="saf_permission_recorder_unlock_screen_message">Чтобы разрешить запись вызовов, необходимо разблокировать устройство. Разблокировать?</string>
     <string name="saf_permission_refused">Отсутствуют разрешения для записи вызовов</string>
-    <string name="saf_permission_title">Требуются разрешения</string>
+    <string name="saf_permission_title">Предоставьте разрешения</string>
     <string name="saf_permission_use_this_folder">Использовать эту папку</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>

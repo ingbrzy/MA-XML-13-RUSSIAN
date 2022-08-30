@@ -313,7 +313,7 @@
     <string name="branch_contacts">Контакты</string>
     <string name="branch_function_search_for_more">Расширенный поиск позволяет осуществлять поиск в Настройках, Контактах, Сообщениях и др.</string>
     <string name="branch_give_relevant_permissions">Предоставьте Mi Браузеру соответствующие разрешения в Настройках.</string>
-    <string name="branch_grant_permission">Требуются разрешения</string>
+    <string name="branch_grant_permission">Предоставьте разрешения</string>
     <string name="branch_local_search_settings">Параметры локального поиска</string>
     <string name="branch_new_function">Новая функция</string>
     <string name="branch_search_guide_privacy">Данная функция предоставлена компанией Branch Metrics Inc. Мы можем передавать ей данные о вашем местоположении, поиске и ваш рекламный идентификатор Google. Прежде чем продолжить, ознакомьтесь и согласитесь с их <font color="#B3000000"><a href="http://url1">Условиями использования</a></font> и <font color="#B3000000"><a href="http://url2">Политикой конфиденциальности</a></font>.</string>
@@ -1215,7 +1215,7 @@ ID:%s
     <string name="le_network_chagne_to_none">Нет подключения к сети. Все загрузки были приостановлены.</string>
     <string name="leto_permission_rationale_ask">Приложение может работать некорректно без запрошенных разрешений</string>
     <string name="leto_permission_rationale_ask_again">Приложение может работать некорректно без запрошенных разрешений. Откройте настройки приложения для изменения разрешений.</string>
-    <string name="leto_permission_title_settings_dialog">Требуются разрешения</string>
+    <string name="leto_permission_title_settings_dialog">Предоставьте разрешения</string>
     <string name="list_item_click">Нажмите на элемент списка</string>
     <string name="list_menu_add_to_pf">Переместить в личную папку</string>
     <string name="list_menu_delete_task">Удалить загрузку</string>

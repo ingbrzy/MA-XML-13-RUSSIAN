@@ -505,7 +505,7 @@
     <string name="saf_permission_dialog_grant_permission_immediately">Настройки</string>
     <string name="saf_permission_dialog_later">Нет, спасибо</string>
     <string name="saf_permission_dialog_no_more_tip">Больше не показывать</string>
-    <string name="saf_permission_dialog_title">Требуются разрешения</string>
+    <string name="saf_permission_dialog_title">Предоставьте разрешения</string>
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>

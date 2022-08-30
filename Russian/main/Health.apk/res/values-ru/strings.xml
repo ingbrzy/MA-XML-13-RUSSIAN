@@ -399,7 +399,7 @@ ID:%s
     <string name="dialog_ok">ОК</string>
     <string name="dialog_open">Разрешить</string>
     <string name="dialog_permission_loading_msg">Проверка…</string>
-    <string name="dialog_permission_title">Требуются разрешения</string>
+    <string name="dialog_permission_title">Предоставьте разрешения</string>
     <string name="dialog_privacy_policy_statement">Положение Политики конфиденциальности</string>
     <string name="dialog_privacy_title">Условия использования</string>
     <string name="dialog_read_phone_perm_desc">Для определения функций устройства с помощью OAID или Android ID</string>
@@ -685,7 +685,7 @@ ID:%s
     <string name="hr_input_heart_rate">Запись</string>
     <string name="hr_measure_heart_rate">Измерение</string>
     <string name="hr_open_permission_desc">Xiaomi Health требуется доступ к камере устройства для измерения пульса. Разрешить?</string>
-    <string name="hr_open_permission_title">Требуются разрешения</string>
+    <string name="hr_open_permission_title">Предоставьте разрешения</string>
     <string name="hr_phone_detect_records">История измерений</string>
     <string name="hr_pre_detect">"Полностью накройте вспышку и камеру
 одним пальцем"</string>
@@ -1483,7 +1483,7 @@ ID:%s
 на основе введенных личных данных."</string>
     <string name="sport_audio_permission_dialog_content">Разрешите приложению доступ к микрофону для распознавания и отслеживания тренировок по звукам</string>
     <string name="sport_audio_permission_dialog_desc">Отслеживание тренировок по звукам</string>
-    <string name="sport_audio_permission_dialog_title">Требуются разрешения</string>
+    <string name="sport_audio_permission_dialog_title">Предоставьте разрешения</string>
     <string name="sport_btn_continue">Возобновить</string>
     <string name="sport_btn_finish">Завершить</string>
     <string name="sport_btn_lock">Заблокировать</string>
@@ -1870,7 +1870,7 @@ ID:%s
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
     <string name="turn_count">Поворотов</string>
-    <string name="turn_on_necessary_permissions">Для контроля сна требуются разрешения.</string>
+    <string name="turn_on_necessary_permissions">Предоставьте разрешения для контроля сна</string>
     <string name="unable_record_future_menstruation">Нельзя создать запись о будущей менструации</string>
     <string name="unbound">Удалено</string>
     <string name="unit_centimeter">" см"</string>

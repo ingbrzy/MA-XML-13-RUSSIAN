@@ -29,6 +29,6 @@
     <string name="stk_dialog_accept">ДА</string>
     <string name="stk_dialog_reject">НЕТ</string>
     <string name="stk_dialog_title">Меню SIM-карты</string>
-    <string name="stk_intent_permission">Требуются разрешения</string>
+    <string name="stk_intent_permission">Предоставьте разрешения</string>
     <string name="stk_no_service">Сервис недоступен</string>
 </resources>

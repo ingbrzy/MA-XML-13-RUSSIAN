@@ -89,10 +89,10 @@
     <string name="dialog_connected">Подключено</string>
     <string name="dialog_connecting">Подключение…</string>
     <string name="dialog_location_permission_message">Разрешите приложению использовать геолокацию для поиска внешних мониторов поблизости. Выберите \"Разрешать всегда\", чтобы избежать возможных ошибок.</string>
-    <string name="dialog_location_permission_title">Требуются разрешения</string>
+    <string name="dialog_location_permission_title">Предоставьте разрешения</string>
     <string name="dialog_miplay_permission_message">Для нормальной работы разрешите приложению Трансляция использовать геолокацию и микрофон, а также доступ к файлам в хранилище. Для продолжения нажмите \"Настройки\" и выберите \"Разрешения\".</string>
     <string name="dialog_miplay_permission_positive">Настройки</string>
-    <string name="dialog_miplay_permission_title">Требуются разрешения</string>
+    <string name="dialog_miplay_permission_title">Предоставьте разрешения</string>
     <string name="dialog_nfc_cast_wifi_off"> Для трансляции с использованием NFC, необходимо включить Wi-Fi. Включить?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Подключите устройство и ТВ к одной Wi-Fi сети.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. На некоторых моделях ТВ эта функция доступна только при включенной функции проецирования. Для дополнительной информации обратитесь к &lt;a href=milink://com.milink.service/specification>\"Справке\"&lt;/a>.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Подключите устройство и ТВ к одной Wi-Fi сети.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. На некоторых моделях ТВ эта функция доступна только при включенной функции проецирования. Для дополнительной информации обратитесь к &lt;a href=milink://com.milink.service/specification>\"Справке\"&lt;/a>.</Data></string>

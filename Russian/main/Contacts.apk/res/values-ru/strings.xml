@@ -1049,7 +1049,7 @@
     <string name="make_primary">Запомнить выбор</string>
     <string name="manage_external_storage_dialog_message">Разрешите приложению доступ ко всем файлам для управления записями вызовов</string>
     <string name="manage_external_storage_dialog_positive">Настройки</string>
-    <string name="manage_external_storage_dialog_title">Требуются разрешения</string>
+    <string name="manage_external_storage_dialog_title">Предоставьте разрешения</string>
     <string name="map_custom">Просмотреть адрес (%s)</string>
     <string name="map_home">Просмотреть домашний адрес</string>
     <string name="map_other">Просмотреть адрес</string>
@@ -1311,7 +1311,7 @@
 Чтобы предоставить разрешение,
 нажмите \"%1$s\", затем выберите \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Далее</string>
-    <string name="new_saf_permission_dialog_title"><b>Требуются разрешения</b></string>
+    <string name="new_saf_permission_dialog_title"><b>Предоставьте разрешения</b></string>
     <string name="next">Далее</string>
     <string name="next_birthday">Следующий день рождения: %s</string>
     <string name="nfc_vcard_file_name">Контакт получен по NFC</string>
@@ -1421,7 +1421,7 @@
     <string name="permission_camera_desc">Для фотографирования во время проверки личности</string>
     <string name="permission_contact_desc">Для пополнения баланса контактов</string>
     <string name="permission_dailog_positive_button">Далее</string>
-    <string name="permission_dailog_title">Требуются разрешения</string>
+    <string name="permission_dailog_title">Предоставьте разрешения</string>
     <string name="permission_notice_desc_access_fine_location">Для импорта контактов с других устройств через Bluetooth</string>
     <string name="permission_notice_desc_add_voicemail">Для использования голосовой почты и сообщений</string>
     <string name="permission_notice_desc_call_phone">Для вызовов с помощью ярлыков на рабочем столе</string>

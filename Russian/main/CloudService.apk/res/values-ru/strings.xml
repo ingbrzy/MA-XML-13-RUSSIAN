@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accept_all_permission_content">Поиск устройства может работать неправильно без необходимых разрешений. Выберите все перечисленные разрешения, чтобы использовать все функции \"Поиск устройства\".</string>
-    <string name="accept_all_permission_title">Требуются разрешения</string>
+    <string name="accept_all_permission_title">Предоставьте разрешения</string>
     <string name="accept_all_positive">Выбрать</string>
     <string name="accept_use_permissions">Предоставить</string>
     <string name="access_denied">Доступ запрещен</string>
@@ -418,7 +418,7 @@
     <string name="micloud_manual_request_permission_confirm">Настройки</string>
     <string name="micloud_manual_request_permission_content">Для возможности пользоваться нашими сервисами, предоставьте Xiaomi Cloud следующие разрешения в Настройках: \"%s\".</string>
     <string name="micloud_manual_request_permission_content_on_provision">Предоставьте необходимые разрешения в приложении Безопасность</string>
-    <string name="micloud_manual_request_permission_title">Требуются разрешения</string>
+    <string name="micloud_manual_request_permission_title">Предоставьте разрешения</string>
     <string name="micloud_manual_sync_all">Синхронизировать все элементы</string>
     <string name="micloud_manual_sync_now">Синхронизация</string>
     <string name="micloud_manual_sync_now_retry">Повторить попытку</string>
@@ -1016,7 +1016,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="sync_setting_title">Настройки синхронизации</string>
     <string name="system_busy_or_network_error">Произошла ошибка. Повторите попытку позже.</string>
     <string name="system_cta_retry_get_permission_btn_pad">Начать</string>
-    <string name="system_cta_retry_get_permission_msg_pad">Требуются разрешения</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Предоставьте разрешения</string>
     <string name="talkback_hide_passcode">Скрыть код доступа</string>
     <string name="talkback_show_passcode">Показать код доступа</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>

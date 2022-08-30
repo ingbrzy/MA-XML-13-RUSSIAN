@@ -1360,7 +1360,7 @@ ID:%s
     <string name="using_recorder_cancel">Отклонить</string>
     <string name="using_recorder_confirm">Разрешить</string>
     <string name="using_recorder_dialog_message">Приложению Радио для нормальной работы требуется доступ к диктофону.</string>
-    <string name="using_recorder_dialog_title">Требуются разрешения</string>
+    <string name="using_recorder_dialog_title">Предоставьте разрешения</string>
     <string name="v_code_title">Введите 2-шаговый проверочный код</string>
     <string name="version_info">Версия</string>
     <string name="view_all_comment">Посмотреть все комментарии %s</string>

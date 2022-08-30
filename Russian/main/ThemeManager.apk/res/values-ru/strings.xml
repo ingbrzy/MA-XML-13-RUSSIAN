@@ -167,7 +167,7 @@
     <string name="community_cta_dialog_cancel">Отмена</string>
     <string name="community_cta_dialog_des">Сторонние темы теперь поддерживают виджет Xiaomi Community. Разрешите приложению Темы доступ к вашему идентификатору Xiaomi аккаунта и статусам Xiaomi Community для возможности их просмотра здесь.</string>
     <string name="community_cta_dialog_ok">Разрешить</string>
-    <string name="community_cta_dialog_title">Требуются разрешения</string>
+    <string name="community_cta_dialog_title">Предоставьте разрешения</string>
     <string name="community_entrance_summary">Поиск тематического контента в Xiaomi Community</string>
     <string name="community_entrance_title">Виджет часов Xiaomi Community</string>
     <string name="community_message_trigger_disabled">Откл.</string>
@@ -714,7 +714,7 @@ mm"</string>
     <string name="multiwindow_no_support">Это действие недоступно в режиме разделения экрана</string>
     <string name="multiwindow_no_support_icon">Смена иконок недоступна в режиме разделения экрана</string>
     <string name="need_to_open_application_permission_desc">Чтобы узнать, какие приложения совместимы с прозрачными обоями, разрешите Темам доступ к списку приложений на устройстве</string>
-    <string name="need_to_open_permission">Требуются разрешения</string>
+    <string name="need_to_open_permission">Предоставьте разрешения</string>
     <string name="need_to_open_storage_permission_desc">Для возможности загружать и использовать компоненты в Tемах, разрешите доступ к хранилищу</string>
     <string name="network_exception">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="new_resource_price_unit"> Mi</string>
@@ -1307,7 +1307,7 @@ mm"</string>
     <string name="system_cta_all_purpose_pad">Добро пожаловать в Персонализацию! Это приложение можно использовать для управления обоями, рингтонами, иконками и шрифтами.</string>
     <string name="system_cta_main_purpose">Управление онлайн и офлайн темами, обоями, мелодиями, шрифтами и видеообоями</string>
     <string name="system_cta_retry_get_permission_btn_pad">Начать</string>
-    <string name="system_cta_retry_get_permission_msg_pad">Требуются разрешения</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Предоставьте разрешения</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Доступ к IMEI для работы сервисов загрузки</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Доступ к ID устройства для идентификации</string>
     <string name="system_cta_runtime_perm_desc_storage">Доступ к темам и компонентам на устройстве и сохранение приобретенных</string>

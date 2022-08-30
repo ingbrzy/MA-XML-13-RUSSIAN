@@ -363,7 +363,7 @@
     <string name="just_now">Только что</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="lack_perm_msg">Для нормальной работы приложения \"Проводник\" требуются следующие разрешения: &lt;b>%s&lt;/b></string>
-    <string name="lack_perm_title">Требуются разрешения</string>
+    <string name="lack_perm_title">Предоставьте разрешения</string>
     <string name="launcher_icon_add_description">Добавить ярлык на рабочий стол</string>
     <string name="launcher_icon_remove_description_content">Приложение \"Проводник\" является системным, удалить его нельзя. После удаления ярлыка с рабочего стола, управление файлами на устройстве будет недоступно.</string>
     <string name="launcher_icon_remove_description_title">Удалить \"Проводник\" с рабочего стола?</string>
@@ -539,7 +539,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
     <string name="name_empty">Введите имя</string>
     <string name="need_open_content">Для использования этой функции разрешите Проводнику доступ к фото и файлам</string>
-    <string name="need_open_permission">Требуются разрешения</string>
+    <string name="need_open_permission">Предоставьте разрешения</string>
     <string name="need_read_storage_permission">Для нормальной работы разрешите Проводнику доступ к хранилищу</string>
     <string name="network_not_available">Ошибка подключения к сети</string>
     <string name="new_folder_name">Новая папка</string>
@@ -684,7 +684,7 @@
     <string name="repair_file">Восстановить зашифрованные файлы</string>
     <string name="replace">Заменить</string>
     <string name="request_document_permission">Для управления файлами на SD-карте предоставьте Проводнику необходимые разрешения.</string>
-    <string name="request_document_permission_title">Требуются разрешения</string>
+    <string name="request_document_permission_title">Предоставьте разрешения</string>
     <string name="request_timeout">Тайм-аут сетевого запроса</string>
     <string name="reset_password">Смена пароля</string>
     <string name="restoring">Восстановление…</string>
@@ -849,7 +849,7 @@
     <string name="title_app_tags">Приложения</string>
     <string name="title_expire_video">Срок истекает</string>
     <string name="title_recent">Недавние</string>
-    <string name="title_request_manage_external_storage_perm">Требуются разрешения</string>
+    <string name="title_request_manage_external_storage_perm">Предоставьте разрешения</string>
     <string name="title_select_volume">Выберите папку</string>
     <string name="to_open">Настройки</string>
     <string name="to_setting">Настройки</string>

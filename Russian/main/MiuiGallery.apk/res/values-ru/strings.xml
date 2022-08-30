@@ -825,7 +825,7 @@
     <string name="error_storage_full_msg">Освободите место на устройстве и повторите попытку.</string>
     <string name="error_storage_full_tip">Недостаточно места</string>
     <string name="error_storage_no_write_permission_tip_action">Предоставить</string>
-    <string name="error_storage_no_write_permission_tip_title">"Для синхронизации некоторых альбомов требуются разрешения. "</string>
+    <string name="error_storage_no_write_permission_tip_title">"Для синхронизации некоторых альбомов необходимо предоставить разрешения. "</string>
     <string name="error_sync_off_action">Включить</string>
     <string name="error_sync_off_msg">Убедитесь, что вы включили синхронизацию с облаком.</string>
     <string name="error_sync_off_tip">Синхронизация отключена</string>
@@ -1176,7 +1176,7 @@
     <string name="grant_permission_go_and_set">Настроить</string>
     <string name="grant_permission_go_and_set_2">Настроить</string>
     <string name="grant_permission_go_and_set_3">Настроить</string>
-    <string name="grant_permission_manage_storage">Требуются разрешения</string>
+    <string name="grant_permission_manage_storage">Предоставьте разрешения</string>
     <string name="grant_permission_manage_storage_unlock">Разблокируйте устройство и разрешите приложению доступ к хранилищу</string>
     <string name="grant_permission_shortcut">Разрешите приложению создание ярлыков на рабочем столе</string>
     <string name="grant_permission_storage">Разрешите приложению доступ к хранилищу</string>
@@ -1184,7 +1184,7 @@
     <string name="grant_permission_text">"Приложению Галерея требуется доступ к 
 %s
  нажмите \"Настроить\" для перехода к разрешениям."</string>
-    <string name="grant_permission_title">Требуются разрешения</string>
+    <string name="grant_permission_title">Предоставьте разрешения</string>
     <string name="grant_permission_unlock_and_set">Разблокировать</string>
     <string name="grant_permission_unlock_and_set_2">Разблокировать</string>
     <string name="grant_permission_write_clipboard">Для возможности копирования содержимого, разрешите приложению запись в буфер обмена</string>
@@ -2159,7 +2159,7 @@
     <string name="privacy_permission_request_message">Галерее требуется доступ к %3$s. Собранная нами информация будет использоваться в соответствии с нашими %1$s и %2$s. Разрешить?</string>
     <string name="privacy_permission_request_negative">Отмена</string>
     <string name="privacy_permission_request_positive">Разрешить</string>
-    <string name="privacy_permission_request_title">Требуются разрешения</string>
+    <string name="privacy_permission_request_title">Предоставьте разрешения</string>
     <string name="privacy_permission_shotcut">Ярлык на рабочем столе</string>
     <string name="privacy_permission_shotcut_detail">Для создания ярлыков на рабочем столе</string>
     <string name="privacy_permission_storage">Хранилище</string>
@@ -2318,7 +2318,7 @@
     <string name="saf_requester_cancel">Отмена</string>
     <string name="saf_requester_title">Разрешить Галерее доступ к \"%s\"</string>
     <string name="saf_secret_album">Приватный альбом</string>
-    <string name="saf_secret_album_guide">Этому приложению требуются разрешения для отображения содержимого вашего личного альбома.</string>
+    <string name="saf_secret_album_guide">Предоставьте приложению разрешение для отображения содержимого приватного альбома</string>
     <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung</string>
@@ -2335,7 +2335,7 @@
     <string name="scope_storage_dialog_description">Разрешения галереи обновлены. Разрешите Галерее доступ к этой папке для просмотра её содержимого.</string>
     <string name="scope_storage_dialog_guide_content"><Data>Нажмите &lt;b>\"%1$s\"&lt;/b> и выберите &lt;b>\"%2$s\"&lt;/b>.</Data></string>
     <string name="scope_storage_dialog_guide_title">Предоставление разрешения</string>
-    <string name="scope_storage_dialog_title">Требуются разрешения</string>
+    <string name="scope_storage_dialog_title">Предоставьте разрешения</string>
     <string name="scope_storage_operation_btn_1">Сохранить</string>
     <string name="scope_storage_operation_btn_2">Доступ к папке</string>
     <string name="screen_doodle_talkback_size">Ширина линии</string>

@@ -350,7 +350,7 @@
     <string name="international_scanner_send_dialog_message">Текстовые сообщения и данные приложений некоторых сторонних приложений не могут быть переданы. Не выключайте Wi-Fi и не переключайтесь между сетями во время передачи.</string>
     <string name="label_null"/>
     <string name="lack_perm_msg">Mi Mover необходимы следующие разрешения: %s.</string>
-    <string name="lack_perm_title">Требуются разрешения</string>
+    <string name="lack_perm_title">Предоставьте разрешения</string>
     <string name="launcher">Макет рабочего стола</string>
     <string name="less_than_1_minute">Меньше минуты</string>
     <string name="loading_data">Подождите…</string>
@@ -462,7 +462,7 @@
     <string name="name_password_not_consistent">Apple ID и пароль, которые вы ввели, не совпадают</string>
     <string name="need_location_permission_confirm">Настройки</string>
     <string name="need_location_permission_summary">Разрешить Mi Mover использовать геолокацию, чтобы находить устройства поблизости.</string>
-    <string name="need_location_permission_title">Требуются разрешения</string>
+    <string name="need_location_permission_title">Предоставьте разрешения</string>
     <string name="need_more_memory_cacel">Отмена</string>
     <string name="need_more_memory_confirm">Очистка</string>
     <string name="need_more_memory_summary">"Недостаточно места. Mi Mover требуется %1$s дополнительного пространства для хранения, чтобы создать сжатые пакеты перед передачей
@@ -570,7 +570,7 @@
     <string name="permission_about_contacts">Разрешите редактирование контактов и журнала вызовов</string>
     <string name="permission_about_storage">Разрешите доступ к хранилищу устройства</string>
     <string name="permission_alert_message_usage_access">Mi Mover требуется доступ к истории использования. Предоставьте Mi Mover необходимые разрешения в настройках.</string>
-    <string name="permission_alert_title">Требуются разрешения</string>
+    <string name="permission_alert_title">Предоставьте разрешения</string>
     <string name="permission_bluetooth_summary">Для поиска доступных устройств поблизости</string>
     <string name="permission_bluetooth_title">Включение и выключение Bluetooth</string>
     <string name="permission_calender_summary">Для переноса мероприятий календаря из iCloud</string>
@@ -632,7 +632,7 @@
 - Доступ к журналу вызовов
 - Доступ к SMS
 - Доступ к хранилищу"</string>
-    <string name="request_all_permission_title">Требуются разрешения</string>
+    <string name="request_all_permission_title">Предоставьте разрешения</string>
     <string name="restore_data_to_device_content">"Ваши данные были синхронизированы с Xiaomi Cloud.
 Войдите в ваш Xiaomi аккаунт, чтобы восстановить их."</string>
     <string name="restore_data_to_device_title">Восстановление данных на этом устройстве</string>
@@ -818,8 +818,8 @@
     <string name="time_spent">Время: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
     <string name="title_open_wlan">Включите Wi-Fi</string>
     <string name="title_request_alert_window_perm">Разрешить плавающие окна</string>
-    <string name="title_request_manage_external_storage_perm">Требуются разрешения</string>
-    <string name="title_request_package_stats_perm">Требуются разрешения</string>
+    <string name="title_request_manage_external_storage_perm">Предоставьте разрешения</string>
+    <string name="title_request_package_stats_perm">Предоставьте разрешения</string>
     <string name="title_request_write_settings_perm">Разрешите изменение настроек системы</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>

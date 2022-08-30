@@ -433,7 +433,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
-    <string name="title_settings_dialog">Требуются разрешения</string>
+    <string name="title_settings_dialog">Предоставьте разрешения</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
     <string name="tuesday">Вторник</string>

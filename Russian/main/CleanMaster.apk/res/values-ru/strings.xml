@@ -818,7 +818,7 @@
     <string name="permission_dialog_storage_btn1">Настройки</string>
     <string name="permission_dialog_storage_btn2">Отмена</string>
     <string name="permission_dialog_storage_content">Для нормальной работы функции Очистка разрешите доступ к хранилищу. Нажмите \"Настройки\" для управления разрешениями.</string>
-    <string name="permission_dialog_storage_title">Требуются разрешения</string>
+    <string name="permission_dialog_storage_title">Предоставьте разрешения</string>
     <string name="petabyteShort">" ПБ"</string>
     <string name="phone_search">Поиск Google</string>
     <string name="positive_confirm">ОК</string>

@@ -425,7 +425,7 @@
     <string name="group_shortcuts">Ярлыки</string>
     <string name="guide_install_app_msg">Это приложение не установлено на вашем устройстве. Найти и установить его?</string>
     <string name="guide_install_app_title">Установка приложения</string>
-    <string name="guide_permission_title">Требуются разрешения</string>
+    <string name="guide_permission_title">Предоставьте разрешения</string>
     <string name="guide_privacy_dialog_title">Условия обслуживания</string>
     <string name="guide_tips_editing_mode">Удерживайте виджет для его перемещения</string>
     <string name="hide_apps_title">Скрытие приложений</string>
@@ -832,7 +832,7 @@
     <string name="remove_sys_app_content">Удалить ярлык рабочего стола? Вы можете снова добавить ярлык рабочего стола в Настройки > Приложения > Управление ярлыками рабочего экрана.</string>
     <string name="remove_sys_app_title">Удаление ярлыка</string>
     <string name="request_permission_msg">POCO Launcher требуется разрешения для полной функциональности</string>
-    <string name="request_permission_title">Требуются разрешения</string>
+    <string name="request_permission_title">Предоставьте разрешения</string>
     <string name="reset_cate_tip_content">Будут восстановлены категории по умолчанию. Продолжить?</string>
     <string name="reset_cate_tip_title">Сброс категорий</string>
     <string name="reset_description_first_time">Вы можете восстановить рабочий стол с %1$s в течение 2 часов</string>

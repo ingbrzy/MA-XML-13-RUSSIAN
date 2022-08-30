@@ -149,7 +149,7 @@
     <string name="access_misport_last_import_time">Перенесено: %1$s</string>
     <string name="access_misport_setting_item">Перенос из Mi Fit</string>
     <string name="access_misport_title">Перенос из Mi Fit</string>
-    <string name="access_permission_grant_authorization_title">Требуются разрешения</string>
+    <string name="access_permission_grant_authorization_title">Предоставьте разрешения</string>
     <string name="access_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
     <string name="access_permission_storage_save_qrcode">Для возможности сохранять изображения, разрешите приложению доступ к хранилищу</string>
     <string name="access_permission_to_grant_authorization">ОК</string>
@@ -668,7 +668,7 @@
     <string name="device_laboratory_setting">Бета</string>
     <string name="device_language_setting">Язык</string>
     <string name="device_location_dialog_message">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
-    <string name="device_location_dialog_title">Требуются разрешения</string>
+    <string name="device_location_dialog_title">Предоставьте разрешения</string>
     <string name="device_lock_off_wrist">Распознавание запястья</string>
     <string name="device_manager">Устройства</string>
     <string name="device_mi_band">Браслет</string>
@@ -920,7 +920,7 @@
     <string name="device_settings_device_serial_number">Серийный номер</string>
     <string name="device_settings_device_user_agreement">Пользовательское соглашение</string>
     <string name="device_settings_device_version">Версия</string>
-    <string name="device_settings_dialog_title">Требуются разрешения</string>
+    <string name="device_settings_dialog_title">Предоставьте разрешения</string>
     <string name="device_settings_disabled">Откл.</string>
     <string name="device_settings_display_as_grid">Сетка</string>
     <string name="device_settings_display_as_list">Список</string>
@@ -1470,7 +1470,7 @@ ID:%s
     <string name="feedback_permission_not_agree_tips">Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
     <string name="feedback_permission_storage_feedback_log">Чтобы иметь возможность загружать журналы устройств, разрешите этому приложению доступ к хранилищу.</string>
     <string name="feedback_phone">Номер телефона</string>
-    <string name="feedback_privacy_description">Требуются разрешения</string>
+    <string name="feedback_privacy_description">Предоставьте разрешения</string>
     <string name="feedback_select_please">Выберите категорию</string>
     <string name="feedback_select_problem_title">Выберите категорию</string>
     <string name="feedback_select_type">Выберите категорию</string>
@@ -1796,7 +1796,7 @@ ID:%s
     <string name="habit_pass_time_title">Напоминания</string>
     <string name="habit_permission_calendar_habit">Чтобы отслеживать свои привычки, разрешите приложению доступ к календарю</string>
     <string name="habit_permission_storage_share">Чтобы сохранять изображения или отправлять их, разрешите приложению доступ к хранилищу</string>
-    <string name="habit_privacy_description">Требуются разрешения</string>
+    <string name="habit_privacy_description">Предоставьте разрешения</string>
     <string name="habit_punch">Проверить все</string>
     <string name="habit_recommend">Рекомендуемые</string>
     <string name="habit_share">Отправить</string>
@@ -1814,7 +1814,7 @@ ID:%s
     <string name="health_add_manually">Добавить данные</string>
     <string name="health_all_health_data">Изменить</string>
     <string name="health_audio_permission_dialog_desc">Для анализа циклов сна, а также записи храпа и разговоров во сне, разрешите этому приложению запись аудио.</string>
-    <string name="health_audio_permission_dialog_title">Требуются разрешения</string>
+    <string name="health_audio_permission_dialog_title">Предоставьте разрешения</string>
     <string name="health_avg_heart_rate_name">Средний пульс</string>
     <string name="health_blood_avg_pressure_record_desc">Систолическое %1$s/диастолическое %2$s</string>
     <string name="health_blood_pressure">Артериальное давление</string>
@@ -2558,7 +2558,7 @@ ID:%s
     <string name="heartrate_instructions_provider">Инструкции предоставлены Miao Health</string>
     <string name="heartrate_measure_heart_rate">Измерить</string>
     <string name="heartrate_open_permission_desc">Чтобы измерить пульс, разрешите этому приложению доступ к камере вашего телефона.</string>
-    <string name="heartrate_open_permission_title">Требуются разрешения</string>
+    <string name="heartrate_open_permission_title">Предоставьте разрешения</string>
     <string name="heartrate_per_time_minutes_heart_rate">" уд/мин"</string>
     <string name="heartrate_phone_detect_records">История измерений телефоном</string>
     <string name="heartrate_pre_detect">Полностью закройте вспышку и камеру одним пальцем</string>
@@ -2815,7 +2815,7 @@ ID:%s
     <string name="mine_sync_dialog_title2">Делиться данными о шагах</string>
     <string name="mine_sync_dialog_title3">Синхронизация данных</string>
     <string name="mine_sync_needlogin_desc">Включите синхронизацию с облаком, чтобы создавать резервные копии данных об активности и синхронизировать их со всеми устройствами. Когда функция включена, вам будет доступно следующее.</string>
-    <string name="mine_system_permission">Требуются разрешения</string>
+    <string name="mine_system_permission">Предоставьте разрешения</string>
     <string name="mine_tab_status_name">Профиль</string>
     <string name="mine_third_data_import">Подключённые приложения</string>
     <string name="mine_unit_cm">см</string>
@@ -3402,7 +3402,7 @@ ID:%s
     <string name="notify_call_notify_strange_no">Заглушить вызовы с неизвестных номеров</string>
     <string name="notify_call_notify_title">Входящие вызовы</string>
     <string name="notify_call_permissions_dialog_des">Чтобы воспользоваться этой функцией, разрешите этому приложению доступ к списку контактов, исходящие вызовы и доступ к режиму \"Не беспокоить\". Вы не сможете использовать эту службу, пока не предоставите необходимые разрешения, однако это не повлияет на использование вами других служб. Вы в любое время можете ограничить разрешения в Настройках.</string>
-    <string name="notify_call_permissions_dialog_title">Требуются разрешения</string>
+    <string name="notify_call_permissions_dialog_title">Предоставьте разрешения</string>
     <string name="notify_call_remind_subtitle">Включите, чтобы получать уведомления о входящих вызовах на носимом устройстве.</string>
     <string name="notify_call_remind_title">Входящие вызовы</string>
     <string name="notify_common_add">Добавить</string>
@@ -3419,7 +3419,7 @@ ID:%s
     <string name="notify_device_notification_open_info">Получать уведомления на носимом устройстве</string>
     <string name="notify_device_notification_open_sub_info">Об уведомлениях</string>
     <string name="notify_do_not_disturb_permission_alert_content">Для использования этой функции разрешите приложению доступ к режиму \"Не беспокоить\".</string>
-    <string name="notify_do_not_disturb_permission_alert_title">Требуются разрешения</string>
+    <string name="notify_do_not_disturb_permission_alert_title">Предоставьте разрешения</string>
     <string name="notify_guide_permission_remind">Рекомендуемые функции</string>
     <string name="notify_guide_permission_remind_title">Рекомендуемые функции</string>
     <string name="notify_incoming_call">Вызов</string>
@@ -3450,7 +3450,7 @@ ID:%s
     <string name="notify_permission_read_phone_state_info">Для использования этой функции разрешите приложению доступ к информации об устройстве.</string>
     <string name="notify_permission_send_sms_des">Для ответа на голосовые вызовы при помощи сообщений с носимого устройства разрешите этому приложению отправлять сообщения.</string>
     <string name="notify_permission_send_sms_info">Для использования этой функции разрешите приложению отправлять сообщения.</string>
-    <string name="notify_privacy_description">Требуются разрешения</string>
+    <string name="notify_privacy_description">Предоставьте разрешения</string>
     <string name="notify_select_app_remind">Выберите приложения, которые могут отправлять уведомления.</string>
     <string name="notify_sms_reply_edit_content">Изменить</string>
     <string name="notify_sms_reply_highest_limit_tips">Вы можете добавить до 10 ответов</string>
@@ -3555,7 +3555,7 @@ ID:%s
     <string name="permission_call_phone_info">Для использования этой функции разрешите приложению доступ к Телефону.</string>
     <string name="permission_camera_info">Для использования этой функции разрешите приложению доступ к камере.</string>
     <string name="permission_get_user_account_info">Для использования этой функции разрешите приложению доступ к учётным записям на этом устройстве.</string>
-    <string name="permission_grant_authorization_title">Требуются разрешения</string>
+    <string name="permission_grant_authorization_title">Предоставьте разрешения</string>
     <string name="permission_location_desc">Геоданные используются для отслеживания маршрутов тренировок, отображения местной погоды и соединения с вашим устройством.</string>
     <string name="permission_location_info">Для использования этой функции разрешите приложению использовать геолокацию</string>
     <string name="permission_location_weather_msg">Для обновления данных о погоде разрешите этому приложению использовать геолокацию</string>
@@ -3610,7 +3610,7 @@ ID:%s
     <string name="privacy_sensitive_notify_des">Чтобы отслеживать прогресс тренировок и активности, мы собираем и обрабатываем ваши данные, включая маршруты тренировок, статистику сна, данные о пульсе и весе.</string>
     <string name="privacy_sensitive_notify_msg">&lt;Data>Прочтите и примите &lt;a href=\"%1$s\">Условия сбора и использования конфиденциальных данных&lt;/a>, чтобы узнать, как мы собираем и обрабатываем ваши данные. Вы не сможете использовать эту службу, если не предоставите согласие на сбор и обработку данных.&lt;/Data></string>
     <string name="privacy_sensitive_notify_title">Разрешения, связанные с данными</string>
-    <string name="privacy_system_permission">Требуются разрешения</string>
+    <string name="privacy_system_permission">Предоставьте разрешения</string>
     <string name="privacy_system_permission_granted">Предоставлено</string>
     <string name="privacy_system_permission_not_granted">Не предоставлено</string>
     <string name="progressbar_title">Проверка безопасности…</string>
@@ -3677,7 +3677,7 @@ ID:%s
     <string name="share_not_install_wx">Сначала установите WeChat</string>
     <string name="share_permission_phone_state">Чтобы сохранять видеомаршруты тренировок, разрешите этому приложению доступ к информации об устройстве.</string>
     <string name="share_permission_storage">Чтобы сохранять и отправлять изображения, разрешите этому приложению доступ к хранилищу.</string>
-    <string name="share_permission_title">Требуются разрешения</string>
+    <string name="share_permission_title">Предоставьте разрешения</string>
     <string name="share_save_fail">Не удалось сохранить</string>
     <string name="share_save_success">Сохранено</string>
     <string name="share_shall_data_null">Выберите тренировку</string>
@@ -3777,7 +3777,7 @@ ID:%s
     <string name="sport_data_sport_notification_name">Геопозиция</string>
     <string name="sport_data_sport_ongoing">Тренировка…</string>
     <string name="sport_detail_pace">Темп</string>
-    <string name="sport_device_location_dialog_title">Требуются разрешения</string>
+    <string name="sport_device_location_dialog_title">Предоставьте разрешения</string>
     <string name="sport_device_not_connect">Подключитесь к устройству</string>
     <string name="sport_device_status_sync_success">Синхронизация завершена</string>
     <string name="sport_disconnect">Отключить</string>
@@ -3843,7 +3843,7 @@ ID:%s
     <string name="sport_local_sport_setting_speed_nolimit">Нет</string>
     <string name="sport_local_sport_setting_voice_speech_des">Озвучивать расстояние каждый километр</string>
     <string name="sport_location_fail_info">Для использования этой службы разрешите приложению использовать геолокацию</string>
-    <string name="sport_location_permission">Требуются разрешения</string>
+    <string name="sport_location_permission">Предоставьте разрешения</string>
     <string name="sport_lock_screen_guide">Управление уведомлениями</string>
     <string name="sport_lock_screen_not_show_data">Измените разрешения приложения, чтобы просматривать данные в реальном времени на экране блокировки.</string>
     <string name="sport_lock_screen_swipe_unlcok">Проведите вверх для разблокировки</string>
@@ -3860,7 +3860,7 @@ ID:%s
     <string name="sport_no_sport_report">Нет данных.</string>
     <string name="sport_not_exercising">Не сейчас</string>
     <string name="sport_not_support">Не поддерживается</string>
-    <string name="sport_not_used_fitness_authorization">Требуются разрешения</string>
+    <string name="sport_not_used_fitness_authorization">Предоставьте разрешения</string>
     <string name="sport_obtain_fail">Сбой загрузки. Повторите попытку позже.</string>
     <string name="sport_open_hr_check">Включить</string>
     <string name="sport_pace">/км</string>

@@ -85,7 +85,7 @@
     <string name="expand_button_title">Дополнительно</string>
     <string name="first_using_dialog_message">Приложению Компас для нормальной работы требуется доступ к сети, камере и местоположению.</string>
     <string name="first_using_dialog_message_no_camera">Приложению Компас для нормальной работы требуется доступ к интернету и местоположению. Разрешить?</string>
-    <string name="first_using_dialog_title">Требуются разрешения</string>
+    <string name="first_using_dialog_title">Предоставьте разрешения</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>
@@ -202,7 +202,7 @@
     <string name="open_camera">Разрешить</string>
     <string name="open_perm_msg">Приложению Компас требуется разрешение использовать геолокацию и камеру. Это необходимо для определения координат и просмотра в режиме реального времени. Разрешить?</string>
     <string name="open_perm_msg_no_camera">Приложению Компас требуется разрешение использовать геолокацию для определения координат. Разрешить?</string>
-    <string name="open_perm_title">Требуются разрешения</string>
+    <string name="open_perm_title">Предоставьте разрешения</string>
     <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Использование в качестве уровня</string>
     <string name="permission_description">Сведения о разрешениях</string>

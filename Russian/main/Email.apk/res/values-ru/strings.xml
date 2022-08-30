@@ -1218,7 +1218,7 @@
     <string name="notification_on">Вкл.</string>
     <string name="notify_channel_new_mail">Уведомлять о новых сообщениях</string>
     <string name="notify_channel_no_disterb">Режим \"Не беспокоить\"</string>
-    <string name="notify_channel_permission_notice">Требуются разрешения</string>
+    <string name="notify_channel_permission_notice">Предоставьте разрешения</string>
     <string name="notify_channel_send_fail">Уведомлять о неудачной доставке</string>
     <string name="notify_channel_service">Уведомлять о фоновой синхронизации</string>
     <string name="ntes_authorization_code_to_login">Войти с этим кодом авторизации</string>

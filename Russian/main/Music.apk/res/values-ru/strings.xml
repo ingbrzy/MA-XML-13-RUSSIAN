@@ -1249,7 +1249,7 @@ ID: %s
     <string name="permission_declaration_positive_text">Безопасность</string>
     <string name="permission_declaration_title">Разрешить доступ</string>
     <string name="permission_open">Разрешить</string>
-    <string name="permission_required">Требуются разрешения</string>
+    <string name="permission_required">Предоставьте разрешения</string>
     <string name="phone_bind_too_many">Этот номер был привязан к разным аккаунтам в течение короткого периода времени. Попробуйте использовать другой номер.</string>
     <string name="phone_hint">Номер телефона</string>
     <string name="phone_num_use_for">Функции номера телефона:</string>

@@ -70,7 +70,7 @@
     <string name="backup_successfully">Резервное копирование завершено</string>
     <string name="backup_to_cloud">Сделать резервную копию приложения</string>
     <string name="backup_warning_reason_app_usage_denied">"Не удалось синхронизировать данные.
-Требуются разрешения."</string>
+Предоставьте разрешения."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">Не удалось создать резервную копию</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Не удалось создать резервную копию.
 Недостаточно места."</string>
@@ -218,7 +218,7 @@ ID: %s
     <string name="dialog_msg_overwrite_backup">Локальная резервная копия отличается от копии в Xiaomi Cloud. Если вы продолжите, текущая копия перезапишет предыдущую.</string>
     <string name="dialog_msg_restore_require_wlan">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Для восстановления из резервной копии требуется подключение к Wi-Fi.</string>
-    <string name="dialog_need_permission">Требуются разрешения</string>
+    <string name="dialog_need_permission">Предоставьте разрешения</string>
     <string name="dialog_negative_btn_cancel_backup">Отменить</string>
     <string name="dialog_negative_btn_cancel_restore">Отменить</string>
     <string name="dialog_positive_btn_cancel_backup">Продолжить</string>
@@ -477,7 +477,7 @@ ID: %s
     <string name="session_ending_backup_text">Почти готово…</string>
     <string name="session_ending_restore_text">Почти готово…</string>
     <string name="session_failed_app_usage_denied_detail">Приложению требуется доступ к истории использования. Это разрешение можно предоставить в Настройках.</string>
-    <string name="session_failed_app_usage_denied_title">Требуются разрешения</string>
+    <string name="session_failed_app_usage_denied_title">Предоставьте разрешения</string>
     <string name="session_failed_cloud_no_space_detail">Для резервной копии требуется не менее %s облачного хранилища</string>
     <string name="session_failed_cloud_no_space_title">Недостаточно места в облачном хранилище. Обновите тарифный план и повторите попытку.</string>
     <string name="session_failed_disk_no_space_backup_detail">Для резервной копии требуется не менее %s хранилища</string>
