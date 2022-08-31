@@ -645,6 +645,9 @@ ID: %s
     <string name="start_download">Загрузить</string>
     <string name="start_xunlei_speedup_info">Войдите в аккаунт для ускорения загрузок</string>
     <string name="starting_analysis">Получение информации…</string>
+    <string name="storage_dialog_content">Чтобы использовать эти функции, разрешите приложению \"Загрузки\" доступ к хранилищу</string>
+    <string name="storage_dialog_go">Настройки</string>
+    <string name="storage_dialog_title">Доступ к хранилищу</string>
     <string name="storage_internal">Хранилище</string>
     <string name="storage_permission_deny">Разрешите доступ к хранилищу</string>
     <string name="storage_sd_card">SD-карта</string>

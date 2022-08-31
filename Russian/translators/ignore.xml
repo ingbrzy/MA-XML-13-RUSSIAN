@@ -1815,6 +1815,7 @@
     <string name="controls_error_removed_message">controls_error_removed_message</string>
     <string name="controls_error_removed_title">controls_error_removed_title</string>
     <string name="controls_error_timeout">controls_error_timeout</string>
+    <string name="controls_open_app">controls_open_app</string>
     <string name="conversation_content_provider">Поставщик материалов для разговоров</string>
     <string name="conversation_single_line_name_display">%1$s:</string>
     <string name="copyright_song_count">(%1$s)</string>
@@ -2269,6 +2270,7 @@
     <string name="error_message_respond_revert_23">@string/error_message_account_or_password</string>
     <string name="esim_inactive_notification_channel">eSimInActiveNotification</string>
     <string name="esim_inactive_notification_channel_for_global">eSimInActiveNotificationForGlobal</string>
+    <string name="esim_is_activating_notification_channel_for_o2">eSimIsActivatingNotificationForO2</string>
     <string name="event_lunar_month">月</string>
     <string name="exception_network_error_check_network">网络无法连接</string>
     <string name="exception_network_error_retry">网络出错，请稍后再试</string>
@@ -5068,7 +5070,4 @@ feedsContentId:
     <string name="zhifubao_not_found"> </string>
     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
-<!-- ### FROM SOURCE -->
-    <string name="controls_open_app">controls_open_app</string>
-	
 </resources>
