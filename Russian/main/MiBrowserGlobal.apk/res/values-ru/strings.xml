@@ -151,6 +151,7 @@
     <string name="ad_mark">Реклама</string>
     <string name="ad_permission_name">Блокировка рекламы</string>
     <string name="ad_sponsored">Реклама</string>
+    <string name="ad_swip_up_tips">Проведите вверх, чтобы закрыть рекламу</string>
     <string name="adblock_force_updating_rules_toast">Обновление блокировщика рекламы</string>
     <string name="adblock_notification">%d баннеров заблокировано</string>
     <string name="adblock_rules_not_updated_toast">Не удалось обновить</string>
@@ -193,6 +194,7 @@
     <string name="allow">Разрешить</string>
     <string name="allow_current">Разрешить сейчас</string>
     <string name="already_add">%s добавлены на рабочий стол</string>
+    <string name="app_cache">Кэш</string>
     <string name="app_continue_downloading_text">Продолжить</string>
     <string name="app_download_market_text">Используйте Mi Market для быстрой и безопасной загрузки</string>
     <string name="app_download_now_text">Загрузка</string>
@@ -944,7 +946,10 @@ ID:%s
     <string name="featured_this_week">Популярно на этой неделе</string>
     <string name="feed_content_protection">Защита контента</string>
     <string name="feedback">Обратная связь</string>
+    <string name="feedback_bad">Нет</string>
     <string name="feedback_email">Пишите нам, если у вас есть вопросы о Wonderfic: wonderwebfiction@gmail.com.</string>
+    <string name="feedback_general">Отчасти</string>
+    <string name="feedback_good">Да</string>
     <string name="feedback_info_app_package_name">"Имя пакета: "</string>
     <string name="feedback_info_app_version">"Версия приложения: "</string>
     <string name="feedback_info_language">"Язык: "</string>
@@ -954,6 +959,8 @@ ID:%s
     <string name="feedback_info_system_version">"Версия системы: "</string>
     <string name="feedback_not_interested_response">Вы будете видеть меньше таких отзывов</string>
     <string name="feedback_send_email_body_extra_info">Не удаляйте следующую информацию. Это поможет нам найти проблему.</string>
+    <string name="feedback_thank_you">Благодарим за отзыв!</string>
+    <string name="feedback_title">Интересен ли вам этот контент?</string>
     <string name="fetch_video">Подготовка видео…</string>
     <string name="fetch_video_fail">Не удалось получить данные</string>
     <string name="fetch_video_ssl_bad_clock">На устройстве установлена неверная дата и время (%s). Измените настройки и повторите попытку.</string>
@@ -1043,6 +1050,8 @@ ID:%s
     <string name="game_news_flow_download_bar_play">Играть</string>
     <string name="game_play">Играть</string>
     <string name="game_played">Недавние</string>
+    <string name="garbage_details">Сведения</string>
+    <string name="garbage_file">Мусор</string>
     <string name="gcm_fallback_notification_channel_label">Другое</string>
     <string name="general__open_third_party_app_tip">Не удалось открыть. Приложение не установлено.</string>
     <string name="geolocation_permissions_prompt_dont_share">Запретить</string>
@@ -1168,6 +1177,7 @@ ID:%s
     <string name="input_new_pwd">Введите новый пароль</string>
     <string name="ins_login_tips">Войдите в систему, чтобы скачивать видео с Instagram</string>
     <string name="ins_register_btn">Регистрация по адресу эл. почты или номеру телефона</string>
+    <string name="installation_package">APK-файлы</string>
     <string name="instance_id">ID экземпляра Firebase (нажмите для экспорта)</string>
     <string name="intercept_panel_ads_img_category_text">Заблокированная реклама</string>
     <string name="intercept_panel_download_img_category_text">Защищенные загрузки</string>
@@ -1191,6 +1201,8 @@ ID:%s
     <string name="intercept_toast_message_camera">Веб-сайт использует камеру…</string>
     <string name="intercept_toast_message_mic">Веб-сайт записывает звук…</string>
     <string name="intercept_toast_message_voice">Веб-сайт воспроизводит звук…</string>
+    <string name="interest_advise_subtitle">Мы будем показывать новости по интересующим вас темам</string>
+    <string name="interest_advise_title">Какой контент вам интересен?</string>
     <string name="interest_card_button">Продолжить</string>
     <string name="interest_card_title">Выберите ваши интересы</string>
     <string name="into_info_flow_guide">Другие статьи</string>
@@ -1274,6 +1286,7 @@ ID:%s
     <string name="media_error_video_not_exist">Видео не существует</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">Очищено %1$s</string>
+    <string name="memory_usage">Память</string>
     <string name="menu_addtodesk">Добавить на рабочий стол</string>
     <string name="menu_exit_nightmode">Выход</string>
     <string name="menu_hv_swap">Поворот экрана</string>
@@ -1287,6 +1300,7 @@ ID:%s
     <string name="message_notice_push">Личный опыт</string>
     <string name="messenger_send_button_text">Отправить</string>
     <string name="mi_browser_clean_up_garbage">Mi Браузер очищает мусор…</string>
+    <string name="mi_browser_is_scanning">Mi Браузер выполняет проверку</string>
     <string name="midi_permission_name">Контроль MIDI-устройств</string>
     <string name="midnight">Ночь</string>
     <string name="mint_games">Популярные игры</string>
@@ -1943,6 +1957,12 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="permission_use">Разрешения</string>
     <string name="permissions_prompt_message">%s хочет</string>
     <string name="permisssion_not_ask_again">Больше не спрашивать</string>
+    <string name="person_menu_cleaner">Очистка</string>
+    <string name="person_menu_cleaner_button">Очистить</string>
+    <string name="person_menu_download">Файлы</string>
+    <string name="person_menu_game_history">История запуска игр</string>
+    <string name="person_menu_game_recommend">Популярные игры</string>
+    <string name="person_menu_video">Короткие видео</string>
     <string name="personalized_content_services">Персонализация контент-услуг</string>
     <string name="personalized_service">Персонализация услуг</string>
     <string name="personalized_services">Персонализация услуг</string>
@@ -2252,6 +2272,19 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="quicklinks_most_visited">Добавить на главную</string>
     <string name="quicklinks_most_visited_subtitle">Показывать недавно посещенные сайты в новой вкладке</string>
     <string name="quicklinks_most_visited_title">Добавить на главную</string>
+    <string name="reading__cancel">Отмена</string>
+    <string name="reading__menu_open_with_another_app">Открыть в другом приложении</string>
+    <string name="reading__menu_play">Слайд-шоу</string>
+    <string name="reading__menu_rotate_screen">Повернуть</string>
+    <string name="reading__menu_search">Поиск</string>
+    <string name="reading__menu_share">Поделиться</string>
+    <string name="reading__menu_thumbnail">Миниатюры страниц</string>
+    <string name="reading__reading_first_page">Это первая страница</string>
+    <string name="reading__reading_last_page">Это последняя страница</string>
+    <string name="reading__search_cancel">Отмена</string>
+    <string name="reading__search_input_hint">Введите ключевые слова для поиска</string>
+    <string name="reading__search_result_nothing">Нет результатов поиска</string>
+    <string name="reading__search_searching">Поиск…</string>
     <string name="readmode_already_add_to_bookshelf">Добавлено на книжную полку</string>
     <string name="readmode_battery">Батарея </string>
     <string name="readmode_login">Войти</string>
@@ -2833,6 +2866,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="uni_search_setting_summary">Поиск в приложении</string>
     <string name="uni_search_setting_title">Улучшение поисковой выдачи</string>
     <string name="unknown_title">Неизвестный</string>
+    <string name="unload_residue">Остатки данных</string>
     <string name="unsecurity_url_toast">Этот сайт не является безопасным</string>
     <string name="up_to_loading_tips">Отпустите для обновления</string>
     <string name="update">Обновить</string>
@@ -2955,6 +2989,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_unknown_duration">Неизвестная длительность</string>
     <string name="video_view_more">Ещё</string>
     <string name="view_certificate">Просмотр сертификата</string>
+    <string name="view_details">Подробнее</string>
     <string name="view_document_downloaded_files">Просмотр загруженных файлов</string>
     <string name="vo_ad_detail">%s · реклама</string>
     <string name="vo_choose_activity_cancel">Отмена</string>
