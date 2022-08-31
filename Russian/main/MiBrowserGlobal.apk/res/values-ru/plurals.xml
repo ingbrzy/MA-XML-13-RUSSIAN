@@ -225,6 +225,12 @@
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">Защищено %s раз</item>
+        <item quantity="one">Защищено %s раз</item>
+        <item quantity="few">Защищено %s раза</item>
+        <item quantity="many">Защищено %s раз</item>
+    </plurals>
     <plurals name="personal__continuous_days_card_tip">
         <item quantity="other">День %d</item>
         <item quantity="one">День %d</item>
@@ -250,6 +256,12 @@
     <plurals name="privacy_dialog_revoke_plurals">
         <item quantity="other">Отозвать (%1$d сек.)</item>
         <item quantity="one">Отозвать (%1$d сек.)</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">Найдено %1$d результатов</item>
+        <item quantity="one">Найден %1$d результат</item>
+        <item quantity="few">Найдено %1$d результата</item>
+        <item quantity="many">Найдено %1$d результатов</item>
     </plurals>
     <plurals name="scanning_notyfy">
         <item quantity="other">Найдено %d файлов…</item>
@@ -289,6 +301,12 @@
         <item quantity="other">%d популярных песен</item>
         <item quantity="one">%d популярная песня</item>
         <item quantity="few">%d популярных песни</item>
+    </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d вкладок</item>
+        <item quantity="one">%d вкладка</item>
+        <item quantity="few">%d вкладки</item>
+        <item quantity="many">%d вкладок</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Воспроизведение видео через %1$d секунд</item>
