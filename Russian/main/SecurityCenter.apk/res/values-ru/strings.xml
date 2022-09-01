@@ -169,7 +169,7 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Обновлено вчера в %s</string>
     <string name="adjust_traffic_data">Расход трафика</string>
     <string name="adv_permission_text">Разрешения</string>
-    <string name="adv_privacy_text">Приватность</string>
+    <string name="adv_privacy_text">Конфиденциальность</string>
     <string name="adv_version_text">Версия: %s</string>
     <string name="after_the_lock_screen">Включена блокировка приложения при блокировке экрана</string>
     <string name="afternoon">После полудня</string>
@@ -4386,7 +4386,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_uninstall_dialog_title">ОК</string>
     <string name="privacy_risk_uninstall_title">Удаление приложений</string>
     <string name="privacy_risk_work_encryption">Социальные сети и офисные файлы не защищены</string>
-    <string name="privacy_search_key_1">Конфиденциальность</string>
+    <string name="privacy_search_key_1">Приватность</string>
     <string name="privacy_search_key_10">ID устройства</string>
     <string name="privacy_search_key_2">Защита от перехвата</string>
     <string name="privacy_search_key_3">Разрешения</string>
@@ -4396,7 +4396,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_search_key_7">Информация о местоположении</string>
     <string name="privacy_search_key_8">Маска конфиденциальности</string>
     <string name="privacy_search_key_9">Виртуальный ID</string>
-    <string name="privacy_search_keyword_1">Конфиденциальность</string>
+    <string name="privacy_search_keyword_1">Приватность</string>
     <string name="privacy_search_keyword_2">Скрытие приложений</string>
     <string name="privacy_search_keyword_3">Скрытие иконок</string>
     <string name="privacy_search_keyword_4">Скрытие ярлыков на рабочем столе</string>
