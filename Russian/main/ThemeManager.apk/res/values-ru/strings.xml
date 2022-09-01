@@ -93,8 +93,8 @@
     <string name="application_list_permission_desc">Приложения, совместимые с прозрачными обоями</string>
     <string name="application_notify_title">Внимание</string>
     <string name="apply_4k_video_wallpaper_warning">Видеообои с разрешением 4K и 8K не поддерживаются</string>
-    <string name="apply_choosen_type_resource">Применить выбранные компоненты</string>
-    <string name="apply_default_font_tip">Продолжить использовать текущий шрифт?</string>
+    <string name="apply_choosen_type_resource">Применить</string>
+    <string name="apply_default_font_tip">Использовать текущий шрифт?</string>
     <string name="apply_failed">Не удалось применить</string>
     <string name="apply_font_btn_exclude">Без шрифта</string>
     <string name="apply_font_btn_reboot">Применить</string>
@@ -214,7 +214,7 @@
     <string name="de_icon_text_reward">Награда</string>
     <string name="de_icon_text_share">Поделиться</string>
     <string name="de_mix">Создать</string>
-    <string name="de_mix_dialog_title">Создайте свою тему</string>
+    <string name="de_mix_dialog_title">Создание темы</string>
     <string name="de_mix_mode_aod">Активный экран</string>
     <string name="de_mix_mode_aod_desc">Настройка фона и формата часов</string>
     <string name="de_mix_mode_desktop">Рабочий стол</string>
@@ -1432,7 +1432,7 @@ mm"</string>
     <string name="theme_multiple_button_title_customize">Компоненты тем</string>
     <string name="theme_need_login_dialog_content">Войдите в Xiaomi аккаунт, чтобы продолжить</string>
     <string name="theme_no">Отмена</string>
-    <string name="theme_not_include_module_desc">Тема не содержит следующие компоненты: %s</string>
+    <string name="theme_not_include_module_desc">Тема не содержит: %s</string>
     <string name="theme_on_the_phone_alert">Воспроизведение во время вызова недоступно</string>
     <string name="theme_preview">Предпросмотр</string>
     <string name="theme_select_others">Обзор</string>
