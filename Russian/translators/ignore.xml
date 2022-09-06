@@ -113,6 +113,7 @@
     <string name="ad_start_install">开始安装</string>
     <string name="ad_view">曝光</string>
     <string name="add_one">(1)</string>
+    <string name="add_remark_dialog_title">@string/record_item_title_remark</string>
     <string name="advanced_settings_container">Дополнительные параметры</string>
     <string name="ae_channel_key_class_1">ae_channel_key_class_1</string>
     <string name="ae_channel_key_class_2">ae_channel_key_class_2</string>
@@ -3111,6 +3112,7 @@
     <string name="mediasize_standard_japan">2</string>
     <string name="mediasize_standard_north_america">1</string>
     <string name="memory_use_running_format">%1$s / %2$s</string>
+    <string name="menu_remark">@string/record_item_title_remark</string>
     <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_text_power_percent_title">%s</string>
@@ -3981,6 +3983,7 @@
     <string name="recommend_add_one_card">添加%s</string>
     <string name="recommend_close">关闭</string>
     <string name="recommend_title">添加更多你感兴趣的卡片</string>
+    <string name="record_item_title_delete">@string/delete</string>
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
     <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
@@ -4737,6 +4740,7 @@
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+    <string name="tab_record">@string/app_name</string>
     <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
     <string name="tag_all_books">全部</string>
     <string name="tag_feed_list_container">feed_list_container</string>

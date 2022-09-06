@@ -490,6 +490,7 @@
     <string name="mtrl_picker_a11y_next_month">Следующий месяц</string>
     <string name="mtrl_picker_a11y_prev_month">Предыдущий месяц</string>
     <string name="mtrl_picker_announce_current_selection">Текущий выбор: %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
