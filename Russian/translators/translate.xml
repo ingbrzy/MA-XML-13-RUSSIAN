@@ -782,6 +782,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="multi_window_cvw_summary_global">Перетащите угол, чтобы переключиться на плавающее окно или изменить его размер</string>
     <string name="multi_window_cvw_title">Плавающее окно</string>
     <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>

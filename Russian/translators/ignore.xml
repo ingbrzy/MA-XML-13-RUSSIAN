@@ -3403,7 +3403,6 @@
     <string name="msp_symbol_z">z</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_header_selected">%1$s</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>

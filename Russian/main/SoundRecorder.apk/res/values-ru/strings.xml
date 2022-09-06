@@ -41,7 +41,7 @@
     <string name="allowed">Предоставлено</string>
     <string name="app_name">Диктофон</string>
     <string name="app_record">Записи</string>
-    <string name="app_record_preference_title">Записи</string>
+    <string name="app_record_preference_title">Диктофон</string>
     <string name="back">Назад</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="button_queue_for_wifi">Отложить</string>
@@ -580,6 +580,7 @@
     <string name="tap_to_record">Нажмите кнопку для записи</string>
     <string name="text_btn_backward_3_seconds">3 сек. назад</string>
     <string name="text_btn_complete">Стоп</string>
+    <string name="text_btn_copy">Копировать</string>
     <string name="text_btn_forward_3_seconds">3 сек. вперед</string>
     <string name="text_btn_list">Мои записи</string>
     <string name="text_btn_mark">Метка</string>
@@ -589,6 +590,7 @@
     <string name="text_btn_recognize_pending">"Ожидание "</string>
     <string name="text_btn_recording">Запись</string>
     <string name="text_btn_wave">Сигнал</string>
+    <string name="text_copy_complete">Скопировано в буфер обмена</string>
     <string name="text_finish">Подтвердить</string>
     <string name="text_play_speed_0_5">0.5X скорость воспроизведения</string>
     <string name="text_play_speed_1_0">Обычная скорость воспроизведения</string>

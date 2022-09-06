@@ -2863,6 +2863,7 @@ d MMMM"</string>
     <string name="storage_is_connecting">Устройство \"%1$s\" подключено</string>
     <string name="stream_accessibility">Спец. возможности</string>
     <string name="stream_alarm">Будильник</string>
+    <string name="stream_assistant">Помощник</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Тональный набор</string>
     <string name="stream_music">Мультимедиа</string>

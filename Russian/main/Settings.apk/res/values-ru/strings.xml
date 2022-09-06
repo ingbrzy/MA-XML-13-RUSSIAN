@@ -2165,6 +2165,7 @@
     <string name="close_fod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. Разблокировка отпечатком будет работать только при включенном экране.</string>
     <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка, когда экран выключен. \"Активный экран\" также будет недоступен. Разблокировка отпечатком будет работать только при включенном экране.</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
+    <string name="close_lid_display_settings_title">После складывания</string>
     <string name="close_miui_optimization_title">Отключение оптимизации MIUI</string>
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
     <string name="close_optimization_option">Отключить</string>
@@ -4520,6 +4521,8 @@ ID: %s
     <string name="insufficient_storage">Недостаточно места.</string>
     <string name="intelligence_suppression_summary">Динамическая регулировка размера области у краев экрана для защиты от случайных прикосновений, в зависимости от вашего захвата</string>
     <string name="intelligence_suppression_title">Авто (рекомендуется)</string>
+    <string name="intelligent_keep_screen_on">Не выключать экран</string>
+    <string name="intelligent_keep_screen_on_summary">Оставлять внешний экран включенным, когда он направлен вверх</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
     <string name="intent_sender_action_label">Действие:</string>
     <string name="intent_sender_data_label">Данные:</string>
@@ -5061,6 +5064,7 @@ ID: %s
     <string name="lock_screen_notifs_show_all">Показывать оповещения и беззвучные уведомления</string>
     <string name="lock_screen_notifs_show_none">Не показывать уведомления</string>
     <string name="lock_screen_notifs_title">Уведомления на экране блокировки</string>
+    <string name="lock_screen_now">Экран блокировки</string>
     <string name="lock_screen_password_skip_biometrics_message">"Чтобы настроить разблокировку по лицу и отпечатком, нужен пароль.
 
 Он защитит данные в случае потери или кражи устройства."</string>
@@ -9425,6 +9429,8 @@ UT-интерфейс: %5$s"</string>
     <string name="swipe_direction_ltr">Проведите вправо для закрытия или влево для меню</string>
     <string name="swipe_direction_rtl">Проведите влево для закрытия или вправо для меню</string>
     <string name="swipe_direction_title">Действия жестов</string>
+    <string name="swipe_up_to_continue_using">Проведите вверх для продолжения</string>
+    <string name="swipe_up_to_continue_using_summary">Блокировка после %d сек. бездействия</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Использовать новый жест для перехода между приложениями</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Кнопка \"Домой\" (новая функция)</string>
     <string name="swipe_up_to_switch_apps_summary">Для перехода между приложениями, проведите вверх по кнопке \"Домой\". Для просмотра всех приложений, проведите вверх ещё раз. Для возврата нажмите кнопку \"Назад\".</string>

@@ -1145,6 +1145,7 @@
     <array name="recents_onboarding_blacklisted_packages" />
     <string-array name="recents_thumbnail_blur_white_pkgs"></string-array>
     <string-array name="record_format_values"></string-array>
+    <string-array name="record_item_context_menus"></string-array>
     <string-array name="record_locale_language"></string-array>
     <string-array name="record_quality_values"></string-array>
     <string-array name="record_scenes_values"></string-array>

@@ -80,6 +80,7 @@ dd.MM"</string>
     <string name="background_icon">Фон</string>
     <string name="below_image">Внизу</string>
     <string name="black_white_clock_panel">Часы</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="btn_know">Понятно</string>
     <string name="cancel">Отмена</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
@@ -145,8 +146,21 @@ dd.MM"</string>
     <string name="large_time">Большие часы</string>
     <string name="letter_space">Межбуквенный интервал</string>
     <string name="line_space">Межстрочный интервал</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
+    <string name="material_hour_selection">Часы</string>
+    <string name="material_hour_suffix">"%1$s ч."</string>
+    <string name="material_minute_selection">Минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
     <string name="material_slider_range_end">Конец диапазона,</string>
     <string name="material_slider_range_start">Начало диапазона,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Ввод времени в режиме часов</string>
+    <string name="material_timepicker_hour">Часы</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Установите время</string>
+    <string name="material_timepicker_text_input_mode_description">Ввод времени в текстовом режиме</string>
     <string name="memory_leak">Утечка памяти</string>
     <string name="midnight">AM</string>
     <string name="mini_time">Маленькие часы</string>
@@ -250,6 +264,7 @@ dd.MM"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="my_style_title">Мои темы</string>
     <string name="night">PM</string>
     <string name="noon">PM</string>
