@@ -11,6 +11,7 @@
     <string name="APN_NAME_CUNET">China Unicom NET</string>
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
+    <string name="APPID_client1">3100</string>
     <string name="HA_AFFILIATE_ID">1268</string>
     <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
     <string name="HA_DOMAIN">mivideo</string>

@@ -1439,7 +1439,7 @@
     <string name="magic_stop_saving">Нажмите ещё раз для отмены</string>
     <string name="magic_stroke">Контур</string>
     <string name="magic_typesetting_n">Макет</string>
-    <string name="magic_value_exceed">Введенное значение превышает лимит</string>
+    <string name="magic_value_exceed">Введённое значение превышает лимит</string>
     <string name="magic_video_cut_frame">Обработка…</string>
     <string name="magic_video_cut_frame_back">Нажмите ещё раз для отмены</string>
     <string name="magic_video_cut_max">Выберите не более %1$d сек.</string>

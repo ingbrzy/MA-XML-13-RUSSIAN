@@ -378,6 +378,12 @@
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
+    <string name="switch_wlan_action">Подключиться</string>
+    <string name="switch_wlan_failed">Ошибка подключения</string>
+    <string name="switch_wlan_failed_desc">Не удалось автоматически подключиться к этой сети Wi-Fi. Попробуйте подключение вручную в настройках.</string>
+    <string name="switch_wlan_success">Подключено</string>
+    <string name="switch_wlan_tips">Подключение к общей сети</string>
+    <string name="switch_wlan_tips_desc">Подключиться к той же сети Wi-Fi, к которой подключено другое устройство?</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

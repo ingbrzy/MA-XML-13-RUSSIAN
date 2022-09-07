@@ -263,6 +263,11 @@
         <item quantity="one">Плавный переход между треками: %d секунда</item>
         <item quantity="few">Плавный переход между треками: %d секунды</item>
     </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Заработайте %1$d монет сегодня</item>
+        <item quantity="one">Заработайте %1$d монету сегодня</item>
+        <item quantity="few">Заработайте %1$d монеты сегодня</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Видео</item>
         <item quantity="one">Видео</item>

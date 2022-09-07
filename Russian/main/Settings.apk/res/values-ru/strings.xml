@@ -3287,6 +3287,7 @@ ID: %s
     <string name="emergency_tone_vibrate">Вибросигнал</string>
     <string name="empty_networks_list">Сети не найдены</string>
     <string name="empty_title">" "</string>
+    <string name="emulate_sd_data">Эмулированные данные SD-карты</string>
     <string name="enableNetwork">Включить сеть</string>
     <string name="enable_2g_summary">Использовать передачу данных по сети 2G. Для экстренных вызовов сеть 2G включена по умолчанию.</string>
     <string name="enable_2g_title">Разрешить 2G</string>
@@ -4821,6 +4822,11 @@ ID: %s
     <string name="last_synced">Обновлено %1$s</string>
     <string name="last_time_used_label">Последнее использование</string>
     <string name="lattice_smartcover_title">Сетчатая</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Распознавание окружающего звука</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Субтитры Mi Ditto</string>
+    <string name="launch_accessibility_talkback">TalkBack</string>
+    <string name="launch_accessibility_voice_control">Голосовое управление</string>
     <string name="launch_ai_shortcut">Ярлык Mi AI</string>
     <string name="launch_alipay_health_code">Код состояния Alipay</string>
     <string name="launch_alipay_health_code_auto_close">Ярлык кода состояния Alipay не доступен. Вы можете переключиться на другой ярлык.</string>

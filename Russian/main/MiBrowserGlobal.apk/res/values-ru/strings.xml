@@ -152,7 +152,7 @@
     <string name="ad_permission_name">Блокировка рекламы</string>
     <string name="ad_sponsored">Реклама</string>
     <string name="ad_swip_up_tips">Проведите вверх, чтобы закрыть рекламу</string>
-    <string name="adblock_force_updating_rules_toast">Обновление блокировщика рекламы</string>
+    <string name="adblock_force_updating_rules_toast">Обновление блокировки рекламы</string>
     <string name="adblock_notification">%d баннеров заблокировано</string>
     <string name="adblock_rules_not_updated_toast">Не удалось обновить</string>
     <string name="adblock_rules_restore">Разблокировать</string>
@@ -2008,7 +2008,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод URL</string>
     <string name="pref_adblock_counts">%d заблокировано</string>
     <string name="pref_adblock_summary">Некоторые страницы могут загружаться медленнее, когда включена эта функция</string>
-    <string name="pref_adblock_title">Блокировщик рекламы</string>
+    <string name="pref_adblock_title">Блокировка рекламы</string>
     <string name="pref_advert_null">Нет элементов, помеченных как реклама. Чтобы отметить, нажмите и удерживайте элемент на странице.</string>
     <string name="pref_auto_update">Автоматическое обновление</string>
     <string name="pref_auto_update_under_wifi">Автоматическое обновление через Wi-Fi</string>
@@ -2051,7 +2051,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_extras_title">Дополнительные настройки</string>
     <string name="pref_extras_title_version">Версия</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">Каталог по умолчанию</string>
-    <string name="pref_file_downlaod_save_reset_default_settings">По умолчанию</string>
+    <string name="pref_file_downlaod_save_reset_default_settings">Каталог по умолчанию</string>
     <string name="pref_file_download_default_path_prefix"> %s</string>
     <string name="pref_file_download_save_modify_default_path">Выбор каталога</string>
     <string name="pref_file_download_save_title">Загрузки</string>
@@ -2206,14 +2206,14 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="privacy_dialog_text">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности Wonderfic. Мы перестанем собирать вашу личную информацию. Уже собранная и сохраненная личная информация (включая, помимо прочего, информацию об учётной записи, информацию о платежах и записи о покупках) будет удалена в течение определённого периода времени, как того требует действующее законодательство. <b>После отзыва согласия вы не сможете получить доступ к книгам, которые вы приобрели, а баланс вашего аккаунта будет очищен.</b> Поскольку Wonderfic необходимо собирать личную информацию, необходимую для предоставления вам своих услуг, отзыв согласия с Политикой конфиденциальности будет считаться отказом от использования сервиса.</string>
     <string name="privacy_dialog_text_next">После отзыва согласия вы не сможете получить доступ к приобретенным книгам, а баланс вашего аккаунта будет очищен.</string>
     <string name="privacy_dialog_title">Отзыв согласия</string>
-    <string name="privacy_disagree">Отклонить</string>
+    <string name="privacy_disagree">Выход</string>
     <string name="privacy_improve_performance">Программа улучшения качества</string>
     <string name="privacy_improve_performance_desc">Разрешить Xiaomi собирать и анализировать пользовательские данные для улучшения продуктов и сервисов</string>
     <string name="privacy_local_app_discovery">Исследуйте приложения на устройстве</string>
-    <string name="privacy_message">Перед использованием Браузера вы должны принять наши &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Условия использования&lt;/a>&lt;/font> и &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
-    <string name="privacy_message_main_tips_first">Браузер должен собирать необходимую личную информацию, чтобы предоставить вам базовые услуги. Вы можете узнать, как мы обрабатываем информацию, которую собираем, в нашей Политике конфиденциальности. Вы всегда можете отозвать свое согласие с Политикой конфиденциальности Браузера в Настройках - Конфиденциальность и безопасность. Прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности перед использованием Браузера.</string>
-    <string name="privacy_message_main_tips_second">Чтобы иметь возможность искать приложения на этом устройстве и знать, какие приложения установлены, Браузер должен получить доступ к информации об установленных приложениях, которая не будет сохранена локально или загружена в любой форме.</string>
-    <string name="privacy_message_welcome">Добро пожаловать в Браузер! Наше приложение предоставляет следующие услуги:</string>
+    <string name="privacy_message">Перед использованием Браузера примите &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Условия использования&lt;/a>&lt;/font> и &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
+    <string name="privacy_message_main_tips_first">Для работы базовых сервисов, приложению Браузер необходимо разрешение на сбор некоторой личной информации. Как обрабатывается собранная информация, можно узнать в нашей Политике конфиденциальности. Согласие с Политикой конфиденциальности Браузера можно отзвать в любое время в Настройки - Конфиденциальность и безопасность. Перед использованием Браузера прочтите и примите наше Пользовательское соглашение и Политику конфиденциальности.</string>
+    <string name="privacy_message_main_tips_second">Для поиска приложений на этом устройстве, Браузеру необходим доступ к информации об установленных приложениях. Информация не будет никуда передаваться.</string>
+    <string name="privacy_message_welcome">Добро пожаловать в Браузер! Приложение предоставляет следующие возможности:</string>
     <string name="privacy_message_welcome_tip_first">- Быстрый и безопасный просмотр веб-страниц</string>
     <string name="privacy_message_welcome_tip_second">- Загрузка изображений и видео с платформ социальных сетей</string>
     <string name="privacy_new_function">Новая функция</string>
