@@ -36,7 +36,7 @@
     <string name="action_mode_switcher_grid_description">Плитка</string>
     <string name="action_mode_switcher_list_description">Список</string>
     <string name="action_search_description">Поиск</string>
-    <string name="action_settings_description">Настройки</string>
+    <string name="action_settings_description">Заметки</string>
     <string name="action_to_link">Открыть URL</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="actionbar_close_description">Закрыть</string>

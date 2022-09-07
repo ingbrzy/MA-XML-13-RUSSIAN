@@ -1053,7 +1053,7 @@
     <string name="face_data_input_ok_msg">Для разблокировки по лицу включите экран.</string>
     <string name="face_data_input_ok_msg_angle">"Разблокируйте устройство по лицу, когда экран включён.
 (Запишите данные лица под всеми требуемыми углами.)"</string>
-    <string name="face_data_input_ok_title">Данные успешно добавлены</string>
+    <string name="face_data_input_ok_title">Данные добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
     <string name="face_data_input_title">Добавление данных лица</string>
     <string name="face_data_introduction_msg">Данные лица позволяют разблокировать ваше устройство и подтверждать личность. Перед добавлением данных лица настройте защиту устройства.</string>

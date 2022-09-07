@@ -3526,7 +3526,7 @@ ID: %s
     <string name="face_data_input_camera_ok">Запуск камеры…</string>
     <string name="face_data_input_cancel_msg">Не удалось добавить данные лица</string>
     <string name="face_data_input_ok">Готово</string>
-    <string name="face_data_input_ok_title">Данные успешно добавлены</string>
+    <string name="face_data_input_ok_title">Данные добавлены</string>
     <string name="face_data_input_structure_title">3D данные лица</string>
     <string name="face_data_input_title">Добавить данные лица</string>
     <string name="face_data_introduction_add">Начать</string>
