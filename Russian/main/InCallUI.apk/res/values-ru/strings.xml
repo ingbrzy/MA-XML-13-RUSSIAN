@@ -331,9 +331,9 @@
     <string name="onscreen_add_call_text">Добавить</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
     <string name="onscreen_audio_mode_conference">Конференция</string>
-    <string name="onscreen_audio_mode_handset">Трубка</string>
+    <string name="onscreen_audio_mode_handset">Динамик</string>
     <string name="onscreen_audio_mode_headset">Гарнитура</string>
-    <string name="onscreen_audio_mode_speaker">Динамик</string>
+    <string name="onscreen_audio_mode_speaker">Громкая связь</string>
     <string name="onscreen_call_record">Запись</string>
     <string name="onscreen_change_to_video">Видеовызов</string>
     <string name="onscreen_change_to_voice">Голосовой вызов</string>
