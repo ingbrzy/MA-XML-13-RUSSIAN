@@ -3189,7 +3189,7 @@ ID: %s
     <string name="draw_overlay">Поверх других приложений</string>
     <string name="dsda_close_toast">Режим DSDA отключён. Перезагрузите устройство, чтобы применить изменения.</string>
     <string name="dsda_open_toast">Режим DSDA включён. Перезагрузите устройство, чтобы применить изменения.</string>
-    <string name="dsda_switch_summary">Разрешить одновременное использование двух SIM-карт для мобильного интернета и вызовов</string>
+    <string name="dsda_switch_summary">Разрешить в сети 5G одновременное использование двух SIM-карт для мобильного интернета и вызовов</string>
     <string name="dsda_switch_title">Режим DSDA</string>
     <string name="dsds_activation_failure_body_msg1">Извлеките и снова вставьте SIM-карту. Если проблема не исчезнет, перезагрузите устройство.</string>
     <string name="dsds_activation_failure_body_msg2">Попробуйте включить SIM-карту ещё раз. Если проблема не исчезнет, перезагрузите устройство.</string>
