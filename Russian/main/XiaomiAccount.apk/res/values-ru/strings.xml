@@ -151,6 +151,11 @@ ID вашего аккаунта: %s"</string>
     <string name="cloud_member_vipname_premium">Премиум</string>
     <string name="cloud_member_vipname_ultra">Ультра</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_cloud_open">Включить</string>
+    <string name="cloud_service_space_full">Хранилище заполнено</string>
+    <string name="cloud_service_space_not_enough">Недостаточно места</string>
+    <string name="cloud_service_space_used">Занято</string>
+    <string name="cloud_service_state_error">Не удалось загрузить</string>
     <string name="cloud_service_status_backup_not_open">Резервное копирование отключено</string>
     <string name="cloud_service_status_cloud_not_open">Откл.</string>
     <string name="cloud_service_status_storage_full">Хранилище заполнено</string>
@@ -236,6 +241,8 @@ ID вашего аккаунта: %s"</string>
     <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
 ID:%s
 Отправьте этот код руководителю."</string>
+    <string name="dind_device_service_not_open">Откл.</string>
+    <string name="dind_device_service_opened">Вкл.</string>
     <string name="download_file">Загрузка %s…</string>
     <string name="early_morning">Утро</string>
     <string name="empty_device_list_notice">Нет устройств</string>
@@ -253,6 +260,7 @@ ID:%s
     <string name="facebook_login">Войти через аккаунт Facebook</string>
     <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Xiaomi аккаунтом</string>
     <string name="family_service">Семейные сервисы</string>
+    <string name="family_service_not_open">Пригласить</string>
     <string name="family_share">Семейный доступ</string>
     <string name="find_device">Поиск устройства</string>
     <string name="find_device_access_denied">Не удалось получить статус, доступ ограничен</string>
@@ -353,6 +361,7 @@ ID:%s
     <string name="login_with_other">Ещё</string>
     <string name="logout_account">Выйти из аккаунта</string>
     <string name="logout_failed">Не удалось выйти из аккаунта</string>
+    <string name="mi_account">Мой аккаунт</string>
     <string name="mi_account_identity_title">Подтвердите вашу личность</string>
     <string name="mi_finance">Мои финансы</string>
     <string name="mi_finance_info">Бонусы для новых пользователей</string>
@@ -924,6 +933,8 @@ ID:%s
     <string name="two_factor_auth_need_code_summary">"Вы увидите код на других подключённых Xiaomi устройствах. Введите этот код на новом устройстве для входа."</string>
     <string name="two_factor_auth_summary">"При попытке войти в систему на новом устройстве или в новом месте, вы получите уведомление на других подключённых устройствах. Вам нужно будет подтвердить разрешение на вход."</string>
     <string name="unbind_sns_description">После отключения вы не сможете использовать данные аккаунта %s для входа в Xiaomi аккаунт.</string>
+    <string name="unit_gb">" ГБ"</string>
+    <string name="unit_mb">" МБ"</string>
     <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unlock_help_notice">"Справка:
 1. Если вы забыли свой пароль, перейдите на id.mi.com для его сброса.
@@ -975,6 +986,7 @@ ID:%s
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Войти с помощью WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>

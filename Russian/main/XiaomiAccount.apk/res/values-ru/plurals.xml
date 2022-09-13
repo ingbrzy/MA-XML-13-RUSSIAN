@@ -34,6 +34,11 @@
         <item quantity="one">Найден %d результат</item>
         <item quantity="few">Найдено %d результата</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d человек</item>
+        <item quantity="one">%d человек</item>
+        <item quantity="few">%d человека</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
