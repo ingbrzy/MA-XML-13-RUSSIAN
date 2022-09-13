@@ -419,6 +419,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="cleared_garbage">Очищено %d МБ мусора</string>
     <string name="click_always">Нажмите \"Всегда\"</string>
+    <string name="click_clean">Очистить</string>
     <string name="click_to_refresh">Нажмите для обновления</string>
     <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
     <string name="clipboard">Буфер обмена</string>
@@ -693,6 +694,7 @@ ID:%s
     <string name="dialog_scroll_up_to_more_site">Прокрутите вверх, чтобы увидеть больше</string>
     <string name="dialog_title_not_available">Ошибка загрузки</string>
     <string name="dialog_title_queued_body">Файл ещё не доступен</string>
+    <string name="display__quick_entry_of_search">Показывать функциональные ярлыки в шторке уведомлений</string>
     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Подождите…</string>
     <string name="dkcommon__web_pull_refresh_view__release_tip">Отпустите, чтобы обновить</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Повтор</string>
@@ -843,6 +845,7 @@ ID:%s
     <string name="empty_history_hint">Ничего нет</string>
     <string name="empty_snapshot_hint">Ничего нет</string>
     <string name="enable_geolocation_confirm_message">Отключение геолокации повлияет на получаемые рекомендации</string>
+    <string name="enable_notification_permission_in_settings">Разрешите Настройкам отправлять уведомления, чтобы воспользоваться этой функцией.</string>
     <string name="encrypt_success">Файлы скрыты</string>
     <string name="encrypting">Шифрование…</string>
     <string name="end_user_license">Лицензионное соглашение конечного пользователя</string>
@@ -1050,6 +1053,7 @@ ID:%s
     <string name="game_news_flow_download_bar_play">Играть</string>
     <string name="game_play">Играть</string>
     <string name="game_played">Недавние</string>
+    <string name="garbage_cleaning">Очистка</string>
     <string name="garbage_details">Сведения</string>
     <string name="garbage_file">Мусор</string>
     <string name="gcm_fallback_notification_channel_label">Другое</string>
@@ -1136,12 +1140,15 @@ ID:%s
     <string name="home_list_item_click">Нажмите на элемент главного списка</string>
     <string name="home_nf">Лента</string>
     <string name="home_nf_recommend_on">Рекомендуемые</string>
+    <string name="home_page_simple">Упрощенный вид</string>
+    <string name="homepage_default">По умолчанию</string>
     <string name="homepage_delete_card_menu">Удалить</string>
     <string name="homepage_get_location">Получить местоположение</string>
     <string name="homepage_get_location_failed">Не удалось получить данные, выберите город</string>
     <string name="homepage_more_cards">Больше сервисов</string>
     <string name="homepage_more_sites">Больше сайтов</string>
     <string name="homepage_search_hint">Поиск</string>
+    <string name="homepage_setting">Настройки главной страницы</string>
     <string name="homepage_top_card_menu">Начало списка</string>
     <string name="hot_games">Популярное</string>
     <string name="hot_word_item_mark_ads_text">РЕКЛАМА</string>
@@ -1218,6 +1225,7 @@ ID:%s
     <string name="js_dialog_permission_name">Показ всплывающих диалоговых окон</string>
     <string name="js_disable_confirm_message">При отключении JavaScript некоторые сайты могут отображаться некорректно.</string>
     <string name="js_disable_confirm_title">Отключить JavaScript?</string>
+    <string name="junk_files_found">Обнаружены бесполезные файлы</string>
     <string name="just_a_second">Подождите…</string>
     <string name="just_now">Только что</string>
     <string name="keep_intrercept">Оставить</string>
@@ -1773,6 +1781,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="noti_no_permission_record">Нет объектов</string>
     <string name="noti_web_allow">Разрешено</string>
     <string name="noti_web_push">Уведомления сайтов</string>
+    <string name="notice_bar_shortcut_entry">Ярлыки в шторке уведомлений</string>
     <string name="notif_install_successful">Загрузка завершена</string>
     <string name="notification_category_browser">Браузер</string>
     <string name="notification_category_downloads">Загрузки</string>
@@ -2254,6 +2263,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="qq_application_id" />
     <string name="qr_code_title">QR-код</string>
     <string name="qr_description">Сканирование QR-кода</string>
+    <string name="quick_search_and_access_to_functions">Быстрый поиск предоставляет удобный доступ к часто используемым функциям.</string>
     <string name="quicklink_add_last7day">Последние 7 дней</string>
     <string name="quicklink_add_today">Сегодня</string>
     <string name="quicklink_add_yesterday">Вчера</string>
@@ -2554,6 +2564,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="sign_out">Выйти</string>
     <string name="signin_with_facebook">Войти с помощью Facebook</string>
     <string name="signin_with_google">Войти с помощью Google</string>
+    <string name="simple_page_toast">Вы можете изменить вид главной страницы в разделе \"Настройки\" > \"Настройки главной страницы\"</string>
     <string name="skip">Пропуск</string>
     <string name="skip_current_version">Пропустить эту версию</string>
     <string name="sku_all">Все</string>
@@ -3164,6 +3175,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_title">Параметры веб-сайтов</string>
     <string name="web_permission_setting_page_web_enhance_desc">Отключите, чтобы остановить блокировку рекламы на этом веб-сайте</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Блокировка рекламы</string>
+    <string name="web_tag_desc">Показывать миниатюры посещенных ранее страниц.</string>
+    <string name="web_tag_tips">Нажмите здеь, чтобы посетить страницу</string>
+    <string name="web_tag_title">Миниатюры веб-страниц</string>
     <string name="web_translation_after_button_text">Восстановить</string>
     <string name="web_translation_after_tips">Восстановить исходную страницу</string>
     <string name="web_translation_before_button_text">Перевести</string>
