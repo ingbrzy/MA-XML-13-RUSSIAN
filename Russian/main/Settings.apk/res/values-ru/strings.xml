@@ -2825,7 +2825,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки?</string>
     <string name="delete_rule">Удаление расписания</string>
     <string name="delete_saved_network">Удаление сохраненных сетей</string>
-    <string name="delete_sound_effect">Звук удаления</string>
+    <string name="delete_sound_effect">Звук удаления файлов</string>
     <string name="deleted_apps">Удаленные приложения</string>
     <string name="deletion_helper_automatic_title">Автоматически</string>
     <string name="deletion_helper_manual_title">Вручную</string>

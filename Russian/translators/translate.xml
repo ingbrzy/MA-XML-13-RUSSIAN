@@ -1541,7 +1541,6 @@ mm"</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Безлимитный</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi без автоподключения</string>
     <string name="window_animation_scale_title">Анимация окон</string>
-    <string name="window_animation_scale_title">Анимация окон</string>
     <string name="window_blurs">Разрешить размытие на оконном уровне</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
