@@ -642,6 +642,21 @@
         <item quantity="one">%1$s, %2$s элемент</item>
         <item quantity="few">%1$s, %2$s элемента</item>
     </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d месяцев</item>
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d лет</item>
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+    </plurals>
     <plurals name="today_of_year_location_num_unit">
         <item quantity="other"></item>
         <item quantity="one"></item>
