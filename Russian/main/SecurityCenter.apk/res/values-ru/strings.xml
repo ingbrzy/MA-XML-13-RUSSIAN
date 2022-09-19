@@ -10,6 +10,7 @@
     <string name="HIPS_Perm_External_READ_FILES_Desc">Доступ к документам и файлам на устройстве</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Доступ к аудиофайлам</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Доступ к аудиофайлам на устройстве</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Доступ к изображениям, видео и аудиофайлам на устройстве</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Доступ к фото и видео</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Доступ к фото и видео на устройстве</string>
     <string name="HIPS_Perm_External_Storage">Хранилище</string>
@@ -662,6 +663,7 @@
     <string name="applock_bind_account_dialog_content">Ваш Xiaomi аккаунт - единственный способ восстановить защиту приложений, если вы забудете пароль. Войдите, чтобы добавить свой Xiaomi аккаунт.</string>
     <string name="applock_bind_account_dialog_title">Добавление Xiaomi аккаунта</string>
     <string name="applock_bind_account_title">Забыли пароль?</string>
+    <string name="applock_biometric_recognition">Биометрия</string>
     <string name="applock_close_dialog_summary">Пароль защиты приложений будет удалён. Отключить защиту приложений?</string>
     <string name="applock_close_dialog_title">Отключение защиты</string>
     <string name="applock_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
@@ -2031,6 +2033,12 @@ Xiaomi не обещает и не гарантирует точность, до
  %2$d.  Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова, если вы не используете обычную SIM-карту. Входящий вызов будет автоматически завершен, если вы не ответите в течение %3$d-%4$d сек.
  %5$d. Поддерживаются SIM-карты для интернета China Mobile и China Unicom, и обычные SIM-карты China Mobile, China Unicom и China Telecom."</string>
     <string name="function_gwsd_title">Запрет прерывания соединения</string>
+    <string name="function_oncall_not_close_network">Запрет прерывания вызовов</string>
+    <string name="function_oncall_not_close_network_detail">"О функции:
+ %1$d. Функция позволяет оставаться в сети во время игровых сессий, не отвлекаясь на входящие вызовы, когда устройство подключено к определенным сетям 5G.
+ %2$d. Если ни одна из SIM-карт не подключена к сети 5G, входящие вызовы будут автоматически отклоняться основной SIM-картой.
+ %3$d. Функция поддерживается только в материковом Китае.
+ %4$d. Функция работает только в сетях 5G-SA."</string>
     <string name="function_shield_auto_bright">Выключить автояркость</string>
     <string name="function_shield_eye_shield">Выключить режим чтения</string>
     <string name="function_shield_pull_notification_bar">Заблокировать шторку уведомлений</string>
@@ -2163,6 +2171,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_advance_settings_vibration_4d_summary2">Вибрировать в игре в момент убийства</string>
     <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$s сек.)</string>
     <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
+    <string name="gb_barrage_chat_desc">Всегда верьте, что скоро произойдет что-то замечательное</string>
+    <string name="gb_barrage_chat_text_color">Цвет</string>
+    <string name="gb_barrage_chat_text_size">Размер шрифта</string>
+    <string name="gb_barrage_chat_text_size_big">Большой</string>
+    <string name="gb_barrage_chat_text_size_small">Маленький</string>
+    <string name="gb_barrage_chat_text_speed">Скорость</string>
+    <string name="gb_barrage_chat_text_speed_faster">Быстрая</string>
+    <string name="gb_barrage_chat_text_speed_slow">Медленная</string>
     <string name="gb_beauty_cold_light">Холодный</string>
     <string name="gb_beauty_face">Улучшение</string>
     <string name="gb_beauty_light">Рассеянный свет</string>
@@ -3454,6 +3470,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pc_fast_charge_notifi_title">Зарядка %dW</string>
     <string name="pc_fast_charge_notifi_title_on">Выключить ускорение зарядки</string>
     <string name="pc_fast_charge_switch_summary">Включите для ускорения зарядки. MIUI отдаст приоритет скорости зарядки, обеспечивая при этом безопасность устройства. Чем меньше заряд батареи, тем быстрее скорость зарядки. Эта функция может привести к нагреву устройства.</string>
+    <string name="pc_fast_charge_switch_summary_new">Уведомлять об ускорении зарядки, если подключено родное зарядное устройство и заряд батареи ниже установленного уровня</string>
     <string name="pc_fast_charge_switch_title">Ускорение зарядки</string>
     <string name="pc_fast_charge_switch_toast_message">Изменения будут применены при следующей зарядке</string>
     <string name="pc_fast_charge_title">Ускорение зарядки</string>
@@ -3633,6 +3650,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="popular_action_first_aid_summary">Поиск и решение проблем на устройстве</string>
     <string name="popular_action_first_aid_title">Решение проблем</string>
     <string name="popular_action_hb_assistant_summary">Ассистент красных конвертов</string>
+    <string name="power_5g_popups_content">Сети 5G обеспечивают высокую скорость соединения и минимальную задержку</string>
+    <string name="power_5g_popups_title">Использовать сети 5G</string>
     <string name="power_ambient_display">Активный экран</string>
     <string name="power_analysis_consume_title">Расход</string>
     <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с питанием</string>
@@ -5999,6 +6018,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="virus_update_tips_title">Предупреждение</string>
     <string name="virus_wait_network_dialog_message">Отсутствует подключение к Wi-Fi. Использовать мобильный интернет?</string>
     <string name="voltage_symbol">В</string>
+    <string name="vtb_ai_subtitle">Субтитры</string>
     <string name="vtb_func_desc">О функции</string>
     <string name="vtb_func_display_style_desc0">ИИ может распознавать на видео и динамически улучшать изображения людей, животных, растения, небо, здания и другие объекты</string>
     <string name="vtb_func_display_style_desc1">Выбранные эффекты не будут применяться к HDR-видео.</string>
