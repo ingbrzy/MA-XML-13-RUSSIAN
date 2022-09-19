@@ -161,6 +161,7 @@
     <string name="global_privacy_main">Проецирование с экрана устройства на большой внешний монитор.</string>
     <string name="global_privacy_negative">Отмена</string>
     <string name="global_privacy_positive">Принимаю</string>
+    <string name="global_privacy_screencast">Во время записи или трансляции, сервису будет доступна любая конфиденциальная информация, отображаемая на экране или воспроизводимая с устройства, включая пароли, платежные данные, аудиозаписи, фото и сообщения.</string>
     <string name="global_privacy_tip"><Data>Для обеспечения основных сервисов и оптимизации трансляции, разрешите сбор некоторой личной информации. Как мы обрабатываем собранную информацию, можно узнать в нашей &lt;a href=\"%1$s\">Политике конфиденциальности&lt;/a>. Согласие всегда можно отзвать в настройках.</Data></string>
     <string name="guide_confirm_button_text">Начать</string>
     <string name="guide_exit_button_content_description">Выход</string>
@@ -427,6 +428,8 @@
     <string name="privacy_permission_nfc_desc">Для сопряжения устройств с использованием NFC</string>
     <string name="privacy_permission_optional">Дополнительные разрешения</string>
     <string name="privacy_permission_optional_desc">Для работы дополнительных функций во время их использования</string>
+    <string name="privacy_permission_screencast">Доступ к информации на экране</string>
+    <string name="privacy_permission_screencast_desc">Во время записи или трансляции, сервису будет доступна любая конфиденциальная информация, отображаемая на экране или воспроизводимая с устройства, включая пароли, платежные данные, аудиозаписи, фото и сообщения.</string>
     <string name="privacy_permission_wlan">Включение/отключение Wi-Fi</string>
     <string name="privacy_permission_wlan_china">Включение/отключение Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Для поиска доступных устройств поблизости</string>
