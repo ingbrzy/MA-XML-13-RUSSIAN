@@ -1,3 +1,4 @@
+echo off
 cls
 ;
 if "%~1"=="" (
