@@ -70,6 +70,7 @@
     <string name="icon_remove_description_content">Приложение \"Обратная связь\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Запуск приложения по-прежнему будет доступен в Настройках.</string>
     <string name="icon_remove_description_title">Удалить \"Обратная связь\" с рабочего стола?</string>
     <string name="mi_service_app_name">Обратная связь</string>
+    <string name="mi_service_back">Назад</string>
     <string name="midnight">Ночь</string>
     <string name="miservice_channel_boot_name">Ядро</string>
     <string name="miservice_channel_guide_name">Руководство</string>
@@ -203,6 +204,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="miui_main_notes_tab_desc2">Создавайте ментальные карты</string>
     <string name="miui_main_notes_tab_desc3">Будьте креативными</string>
     <string name="miui_main_notes_title">Заметки идеально подходят для новых идей</string>
+    <string name="miui_main_ota_end_bottom_desc">Проведите вверх, чтобы войти</string>
     <string name="miui_main_pre_page">Назад</string>
     <string name="miui_main_privacy_tab_desc1">Защитите буфер обмена</string>
     <string name="miui_main_privacy_tab_desc2">Скройте свое точное местоположение</string>

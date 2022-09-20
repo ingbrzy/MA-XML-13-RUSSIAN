@@ -77,6 +77,8 @@
     <string name="back">Назад</string>
     <string name="bind_sign_in_title">Добавить Xiaomi аккаунт</string>
     <string name="btn_send">Отправить</string>
+    <string name="bugreport_dialog_informed_consent_content">Обнаружена ошибка, связанная с вашим паролем экрана блокировки. Вы можете отправить журналы на устройстве, чтобы помочь нам решить проблему. Информация из журналов сохранит анонимность, будет использоваться только для разбора проблемы и удалена сразу после завершения.</string>
+    <string name="bugreport_dialog_informed_consent_title">Осознанное согласие</string>
     <string name="bugreport_dialog_not_show_again">Больше не показывать</string>
     <string name="bugreport_dialog_submit_content">Вы собираетесь сохранить журналы программного обеспечения. Они могут содержать личную информацию и данные вашего местоположения. Не делитесь журналами ни с кем, если не хотите раскрытия этой информации. Нажав \"Принимаю\", вы принимаете Политику конфиденциальности и Пользовательское соглашение.</string>
     <string name="bugreport_dump_complete_notification_summary">Нажмите для просмотра.</string>

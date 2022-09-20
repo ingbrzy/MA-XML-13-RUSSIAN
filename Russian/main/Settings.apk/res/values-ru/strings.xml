@@ -10274,6 +10274,8 @@ UT-интерфейс: %5$s"</string>
     <string name="uwb_settings_title">Сверхширокополосная связь (СШП)</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="var_font_switch_dialog_summary">Для изменения этого параметра необходима перезагрузка устройства</string>
+    <string name="var_font_switch_dialog_title">Перезагрузить устройство?</string>
     <string name="var_font_switch_title">Регулируемый шрифт</string>
     <string name="verify_apps_over_usb_summary">Выполнять проверку безопасности приложений при установке через ADB/ADT</string>
     <string name="verify_apps_over_usb_title">Проверка при установке</string>
