@@ -1819,7 +1819,7 @@
     <string name="brightness">Яркость</string>
     <string name="brightness_auto_adjust_off">Яркость останется неизменной при любом освещении</string>
     <string name="brightness_auto_adjust_on">Коррекция яркости в зависимости от освещения</string>
-    <string name="brightness_auto_summary">Регулировка яркости в зависимости от освещения, для экономии заряда батареи</string>
+    <string name="brightness_auto_summary">Регулировка яркости в зависимости от освещения, для экономии заряда</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="brightness_title">Яркость</string>
     <string name="bssid_label">"BSSID: "</string>
@@ -1835,7 +1835,7 @@
     <string name="bt_absVolume_pre_title">Абсолютная громкость</string>
     <string name="bt_absVolume_summary">Уровень громкости Bluetooth-устройств и устройства должен быть одинаковым. Вы можете включать и выключать эту функцию, когда мультимедиа не воспроизводится в фоновом режиме.</string>
     <string name="bt_always_show_icon">Всегда показывать значок в строке состояния</string>
-    <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive ообеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход батареи. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
+    <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive ообеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход заряда. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Переключиться на aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Исправление проблем со звуком</string>
     <string name="bt_audio_share_property">Передача</string>
@@ -1852,13 +1852,13 @@
     <string name="bt_dialog_settings">Настройки</string>
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
-    <string name="bt_lc3plus_open_dialog_summary">LC3plus обеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход батареи. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
+    <string name="bt_lc3plus_open_dialog_summary">LC3plus обеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход заряда. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
     <string name="bt_lc3plus_open_dialog_title">Переключиться на LC3plus?</string>
-    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включён по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления.
+    <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включён по умолчанию. LDAC обеспечивает высокое качество звука, но увеличивает расход заряда. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но увеличивает расход заряда.
 Эту функцию можно отключить в [Настройках]"</string>
     <string name="bt_ldac_dialog_title">Включена поддержка LDAC</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но величивает расход батареи. Во время воспроизведения могут возникать проблемы из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но увеличивает расход заряда. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Свойства</string>
@@ -1868,14 +1868,16 @@
     <string name="bt_leaudio_pre_title">LC3</string>
     <string name="bt_leaudio_summary">Высокое качество звука</string>
     <string name="bt_leaudio_support_multi_dialog_summary">После включения LC3 некоторые функции будут недоступны. Включить LC3?</string>
-    <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но также увеличивает энергопотребление. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
-    <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но также увеличивает энергопотребление.
+    <string name="bt_lhdc_declaration">Если Bluetooth-устройство поддерживает LHDC, он будет подключен по умолчанию. LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но увеличивает расход заряда. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC позволяет воспроизводить звук высокого качества и снижает задержки во время игр, но увеличивает расход заряда.
 Эту функцию можно отключить в Настройках"</string>
     <string name="bt_lhdc_dialog_title">Включена поддержка LHDC</string>
-    <string name="bt_lhdc_open_dialog_summary">LHDC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC обеспечивает высокое качество звука, но увеличивает расход заряда. Возможны проблемы во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_lhdc_open_dialog_title">Включить LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Свойства</string>
+    <string name="bt_low_energy_audio_summary">Звук высокого качества с уменьшенной задержкой и низким расходом заряда</string>
+    <string name="bt_low_energy_audio_title">Bluetooth LE Audio</string>
     <string name="bt_plugin_current_version">Текущая версия</string>
     <string name="bt_plugin_new_version">Обновление</string>
     <string name="bt_plugin_preference_button">Обновить</string>
@@ -5643,8 +5645,10 @@ ID: %s
     <string name="miheadset_ancLow">Офис</string>
     <string name="miheadset_ancMedium">Стандарт</string>
     <string name="miheadset_ancMild">Мягкость</string>
+    <string name="miheadset_ancMode">Режим шумоподавления</string>
     <string name="miheadset_anc_indicate">Подключите и наденьте наушники</string>
     <string name="miheadset_anc_manual">Инструкция</string>
+    <string name="miheadset_atuo_download_title">Автозагрузка</string>
     <string name="miheadset_audio_mode">Звуковой режим</string>
     <string name="miheadset_audio_mode_high">Высокое качество</string>
     <string name="miheadset_audio_mode_listen">Прослушать</string>
@@ -5657,7 +5661,9 @@ ID: %s
     <string name="miheadset_auto_ack_mode">Автоподтверждение</string>
     <string name="miheadset_auto_ack_mode_summary">Автоподтверждение устройства</string>
     <string name="miheadset_auto_answer_call">Автоответ при вызовах</string>
+    <string name="miheadset_auto_download_summary">Автоматическая загрузка наиболее подходящих версий</string>
     <string name="miheadset_auto_upgrade_reminder">Отключите автообновление и повторите проверку обновлений</string>
+    <string name="miheadset_automatic">Авто</string>
     <string name="miheadset_bluetooth_audio_title">Частота дискретизации звука Bluetooth LC3plus</string>
     <string name="miheadset_bright">Яркость</string>
     <string name="miheadset_call_assist">Помощник вызовов</string>
@@ -5747,6 +5753,7 @@ ID: %s
     <string name="miheadset_local_ota">Обновить</string>
     <string name="miheadset_low_latency">Низкая задержка</string>
     <string name="miheadset_manual">Об устройстве</string>
+    <string name="miheadset_manual_operation">Вручную</string>
     <string name="miheadset_minus">Убавить</string>
     <string name="miheadset_moreSettingsInAi">Дополнительные настройки</string>
     <string name="miheadset_multi_connect_mode">Мультиподключение</string>
@@ -5910,6 +5917,8 @@ ID: %s
     <string name="miui_special_feature">Специальные функции</string>
     <string name="miui_touch_filtered_touchassistant_warning">Сенсорный помощник перекрывает диалог разрешений. Переместите Сенсорный помощник или отключите эту функцию.</string>
     <string name="miui_touch_filtered_warning">Если приложение блокирует диалог разрешений, переместите мешающий объект или закройте приложение.</string>
+    <string name="miui_type_style_summary">Стиль ввода при включенной программе чтения с экрана</string>
+    <string name="miui_type_style_title">Стиль ввода</string>
     <string name="miui_updater">Обновление системы</string>
     <string name="miui_userguide">Руководство пользователя</string>
     <string name="miuix_access_state_desc">Выбрано</string>
@@ -9354,6 +9363,7 @@ UT-интерфейс: %5$s"</string>
     <string name="stylus_language_summary">Распознавать цифры и рукописный текст на английском и дополнительно выбранном языке</string>
     <string name="stylus_language_title">Язык</string>
     <string name="stylus_not_connect_message">Стилус не подключен</string>
+    <string name="stylus_not_connect_message_new">Подключите стилус для сопряжения</string>
     <string name="stylus_ota_check_failed_battery">Не удалось проверить. Батарея стилуса разряжена.</string>
     <string name="stylus_ota_check_failed_info">Не удалось проверить версию прошивки. Подключите стилус.</string>
     <string name="stylus_ota_check_update">Проверить обновления</string>
