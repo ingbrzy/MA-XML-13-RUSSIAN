@@ -466,7 +466,7 @@
     <string name="callFailed_cdma_activation">В вашем телефоне уже настроен роуминг и активирована SIM-карта.</string>
     <string name="callFailed_cdma_call_limit">Слишком много активных вызовов. Чтобы выполнить новый вызов, завершите или объедините существующие.</string>
     <string name="callFailed_channel_unacceptable">Недопустимый канал</string>
-    <string name="callFailed_concurrent_calls_not_possible">Вызов завершен из-за невозможности одновременных вызовов.</string>
+    <string name="callFailed_concurrent_calls_not_possible">Завершение вызова. Одновременные вызовы не поддерживаются.</string>
     <string name="callFailed_conditional_IE_error">Условная ошибка IE</string>
     <string name="callFailed_congestion">Сеть занята</string>
     <string name="callFailed_data_disabled">Звонок завершен, так как отключён режим мобильных данных.</string>

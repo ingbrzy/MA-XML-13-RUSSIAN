@@ -442,12 +442,9 @@
     <string name="sound_id_function_description">Индивидуальная настройка кривой эквалайзера</string>
     <string name="sound_id_function_name">Пресет</string>
     <string name="sound_id_headset_status">Выбранные наушники</string>
-    <string name="sound_id_hz_high">"Высокие:
-%d Гц"</string>
-    <string name="sound_id_hz_low">"Бас:
-%d Гц"</string>
-    <string name="sound_id_hz_media">"Средние:
-%d Гц"</string>
+    <string name="sound_id_hz_high">"Высокие: %d Гц"</string>
+    <string name="sound_id_hz_low">"Бас: %d Гц"</string>
+    <string name="sound_id_hz_media">"Средние: %d Гц"</string>
     <string name="sound_id_music_one_description">Легкая | %d сек.</string>
     <string name="sound_id_music_one_title">Дождливый город</string>
     <string name="sound_id_music_three_description">Мелодичная | %d сек.</string>
@@ -497,8 +494,8 @@
     <string name="sound_transmission_start">Начать</string>
     <string name="sound_transmission_stop">Остановить</string>
     <string name="sound_transmission_title">Беспроводной микрофон</string>
-    <string name="spatial_audio">Отслеживание движения головы</string>
-    <string name="spatial_audio_summary">Регулировка иммерсивного звука движением головы</string>
+    <string name="spatial_audio">Иммерсивный звук</string>
+    <string name="spatial_audio_summary">Эффект погружения и пространства при воспроизведении через наушники</string>
     <string name="speaker_scenario_resume">Восстановить исходный</string>
     <string name="speaker_scenario_selection">Звук динамика</string>
     <string name="speaker_scenario_selection_another">Оригинал</string>
