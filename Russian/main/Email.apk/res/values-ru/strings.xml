@@ -1647,8 +1647,8 @@
     <string name="show_password">Показать пароль</string>
     <string name="show_server_cet">Просмотр сертификата</string>
     <string name="shrink">Свернуть</string>
-    <string name="sign_in_dialog_office365">Office 365</string>
-    <string name="sign_in_dialog_outlook_enterprise">Outlook для бизнеса (без календаря)</string>
+    <string name="sign_in_dialog_office365">Office 365 Персональный</string>
+    <string name="sign_in_dialog_outlook_enterprise">Office 365 Корпоративный</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (с календарем)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (без календаря)</string>
     <string name="sign_in_graph_error">Можно войти в систему с использованием протоколов IMAP или EXCHANGE, только если ваша организация не изменила общую конфигурацию сервера. Если адрес сервера изменён организацией или соответствующие протоколы отключены, используйте для входа новый протокол Microsoft.</string>

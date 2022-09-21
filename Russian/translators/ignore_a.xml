@@ -621,6 +621,10 @@
     <string-array name="double_tone_entry_values_TWS01"></string-array>
     <string-array name="drawer_alpha"></string-array>
     <string-array name="dream_timeout_values"></string-array>
+    <string-array name="drop_down_pref_data_sim_entries"></string-array>
+    <string-array name="drop_down_pref_data_sim_entry_values"></string-array>
+    <string-array name="drop_down_pref_voice_sim_entries"></string-array>
+    <string-array name="drop_down_pref_voice_sim_entry_values"></string-array>
     <string-array name="dtmf_tone_values"></string-array>
     <string-array name="earthly_branches"></string-array>
     <string-array name="editing_mode_values"></string-array>

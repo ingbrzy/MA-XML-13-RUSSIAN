@@ -444,6 +444,8 @@
     <string name="bt_hci_snoop_log_summary">Сохранять все пакеты HCI Bluetooth в файле</string>
     <string name="bugreport_in_power">Отчёт об ошибке</string>
     <string name="bugreport_in_power_summary">Показывать в меню кнопку для отправки отчёта об ошибке</string>
+    <string name="business_hall_settings_summary">Управление вызовами и мобильным трафиком</string>
+    <string name="business_hall_settings_title">Настройки тарифного плана</string>
     <string name="button_convert_fbe">Очистить и перейти…</string>
     <string name="cached_apps_freezer_device_default">По умолчанию</string>
     <string name="cached_apps_freezer_disabled">Отключено</string>
@@ -917,10 +919,13 @@
     <string name="debug_networking_category">Сети</string>
     <string name="debug_view_attributes">Включить проверку атрибутов</string>
     <string name="default_carrier_mmi_msg_title">Сообщение оператора</string>
+    <string name="default_data_title">Трафик</string>
     <string name="default_notification_description">Звук по умолчанию (%1$s)</string>
     <string name="default_preference_summary_domain_address">&lt;Не задано&gt;</string>
     <string name="default_preference_summary_password">&lt;Не задано&gt;</string>
     <string name="default_preference_summary_username">&lt;Не задано&gt;</string>
+    <string name="default_sim_setting">SIM-карты по умолчанию</string>
+    <string name="default_voice_title">Вызовы</string>
     <string name="delete">Удалить</string>
     <string name="delete_blob_confirmation_text">Вы уверены, что хотите удалить общие данные?</string>
     <string name="delete_blob_text">Удаление общих данных</string>
@@ -2099,6 +2104,9 @@
     <string name="power_remaining_only_more_than_subtext">Хватит более чем на %1$s</string>
     <string name="power_suggestion_battery_run_out">Батарея может разрядиться на %1$s</string>
     <string name="power_suggestion_extend_battery">Продлите время работы от батареи на %1$s</string>
+    <string name="pref_sim_entries_item1">SIM 1</string>
+    <string name="pref_sim_entries_item2">SIM 2</string>
+    <string name="pref_sim_item_no_default">Не задано</string>
     <string name="prefered_network_type_3g_promp">Вы должны отключить VoLTE до выбора 3G в качестве предпочтительного типа сети. Отключить?</string>
     <string name="preference_auto_ip_summary_disable">Откл</string>
     <string name="preference_category_ringtone">Мелодия и вибрация</string>
@@ -2535,6 +2543,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_nrca_title">SIM %1$s (%2$s)</string>
     <string name="sim_roaming_settings_summary">Подключение к мобильному интернету в роуминге</string>
     <string name="sim_roaming_settings_title">Mi Роуминг</string>
+    <string name="sim_select_dialog_title">Выбор SIM-карты</string>
     <string name="sim_selection_required_pref">Выберите SIM-карту</string>
     <string name="sim_service_setting">Mi SIM и Mi Роуминг</string>
     <string name="simmelock_name">Блокировка SIM ME</string>
