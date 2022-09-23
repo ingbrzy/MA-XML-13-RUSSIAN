@@ -8944,7 +8944,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_dashboard_summary">Звук, вибрация, режим \"Не беспокоить\"</string>
     <string name="sound_effects_enable_title">Звук нажатия на экран</string>
     <string name="sound_haptic_settings">Звук и виброотклик</string>
-    <string name="sound_mode">Режим \"Без звука\"</string>
+    <string name="sound_mode">Параметры звука</string>
     <string name="sound_settings">Громкость</string>
     <string name="sound_settings_example_summary">Громкость звонка: 80%</string>
     <string name="sound_settings_summary">Громкость звонка: %1$s</string>
