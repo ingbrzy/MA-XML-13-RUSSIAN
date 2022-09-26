@@ -17,6 +17,7 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="blood_type_values">
         <item>0+</item>
         <item>O-</item>

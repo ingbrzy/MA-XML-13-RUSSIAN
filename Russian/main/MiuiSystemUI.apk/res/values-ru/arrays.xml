@@ -85,6 +85,7 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -196,8 +197,6 @@
         <item>Естественный</item>
         <item>Стандартный</item>
     </string-array>
-    <array name="config_face_auth_props" />
-    <array name="config_showSpnByGIDWhenAirPlane" />
     <string-array name="debug_hw_overdraw_entries">
         <item>Отключено</item>
         <item>Показывать области наложения</item>
@@ -354,6 +353,11 @@
         <item>Откл.</item>
         <item>Вкл.</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>Недоступно</item>
         <item>Откл.</item>
@@ -400,6 +404,16 @@
         <item>Вкл.</item>
     </string-array>
     <string-array name="tile_states_night">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Недоступно</item>
+        <item>Откл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
         <item>Недоступно</item>
         <item>Откл.</item>
         <item>Вкл.</item>
@@ -468,6 +482,12 @@
         <item>Ускоренная</item>
         <item>Сильно ускоренная</item>
         <item>Максимальная</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Переместите влево</item>
+        <item>Переместите вниз</item>
+        <item>Переместите вправо</item>
+        <item>Переместите вверх</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Только зарядка</item>

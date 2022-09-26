@@ -17,6 +17,7 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Выбор системы (по умолчанию)</item>
         <item>16 бит/отсчет</item>

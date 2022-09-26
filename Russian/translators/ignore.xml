@@ -526,6 +526,7 @@
     <string name="app_travel_train_seat_no_split">、</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="app_version">120</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="appcleaner_wechat_pref_size_100_MB">100 МБ</string>
     <string name="appcleaner_wechat_pref_size_1_GB">1 ГБ</string>
@@ -905,6 +906,7 @@
     <string name="bluetooth_item_single_battery_level">%d%%</string>
     <string name="bluetooth_open_ok">蓝牙开启成功</string>
     <string name="bluetooth_package">com.android.bluetooth</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_volume_control">VOLUME_CONTROL</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="bookcity_downloadcenter__shared__download_font_immediately">后台下载</string>
@@ -1775,7 +1777,9 @@
     <string name="config_wallpaper_picker_class">com.android.settings.Settings$WallpaperSettingsActivity</string>
     <string name="config_wallpaper_picker_launch_extra">com.android.wallpaper.LAUNCH_SOURCE</string>
     <string name="config_wallpaper_picker_package">com.android.settings</string>
+    <string name="config_wifiCertInstallationHelpLink">https://support.google.com/pixelphone/answer/2844832</string>
     <string name="config_wifiCoexTableFilepath">/vendor/etc/wifi/coex_table.xml</string>
+    <string name="config_wifiDriverWorldModeCountryCode">00</string>
     <string name="config_wifiP2pDeviceNamePrefix">Android_</string>
     <string name="config_wifiSoftap2gChannelList" />
     <string name="config_wifiSoftap5gChannelList" />
@@ -2149,6 +2153,9 @@
     <string name="def_time_format">12</string>
     <string name="def_trusted_sound">/system/media/audio/ui/Trusted.ogg</string>
     <string name="def_unlock_sound">/system/media/audio/ui/Unlock.ogg</string>
+    <string name="def_wearable_androidWearVersion">2</string>
+    <string name="def_wearable_leSystemCapabilities">1</string>
+    <string name="def_wearable_systemCapabilities">3</string>
     <string name="def_wireless_charging_started_sound">/system/media/audio/ui/charge_wireless.ogg</string>
     <string name="default_buffer_size">16384</string>
     <string name="default_folder_name_path">com.miui.home:string/folder_name</string>
@@ -4708,6 +4715,8 @@
     <string name="subject_and_snippet">%1$s - %2$s</string>
     <string name="sudFontSecondary">google-sans</string>
     <string name="sudFontSecondaryMedium">google-sans-medium</string>
+    <string name="sudFontSecondaryMediumMaterialYou">google-sans-text-medium</string>
+    <string name="sudFontSecondaryText">google-sans-text</string>
     <string name="suffix_sancharnet">sancharnet.in</string>
     <string name="suffix_vsnl">vsnl.com</string>
     <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
@@ -5021,6 +5030,7 @@ feedsContentId:
     <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
+    <string name="wifitrackerlib_no_attribution_annotation_packages">com.google.android.setupwizard,com.google.android.gms</string>
     <string name="wifitrackerlib_settings_package">com.android.settings</string>
     <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wind_power_unit_default">0</string>

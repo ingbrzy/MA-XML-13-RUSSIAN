@@ -1873,6 +1873,7 @@
     <string name="people_mark_mode_title">Выберите \"%s\"</string>
     <string name="people_mark_mode_title_no_mark_name">Выберите человека</string>
     <string name="people_page_label">Лица</string>
+    <string name="people_page_photo">Миниатюры людей</string>
     <string name="people_page_unname">Без имени</string>
     <string name="permission_account_desc">Вход и управление системным аккаунтом</string>
     <string name="permission_account_name">Доступ к аккаунтам</string>
@@ -2195,7 +2196,7 @@
     <string name="publish_succeeded">Общий доступ к альбому открыт</string>
     <string name="publishing">Открытие доступа…</string>
     <string name="purge_or_recovery_processing">Обработка…</string>
-    <string name="quarterly_pets_title">Пушистые компаньоны</string>
+    <string name="quarterly_pets_title">Пушистые друзья</string>
     <string name="quotation">\"%s\"</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>

@@ -129,6 +129,9 @@
     <string name="error_icon_content_description">Ошибка</string>
     <string name="error_installation_failed">Ошибка установки</string>
     <string name="error_package_invalid">Необходимые компоненты отсутствуют или повреждены. Обратитесь за помощью к своему ИТ-администратору</string>
+    <string name="error_role_holder_download_install_failed">Повторите попытку позже или обратитесь за помощью к своему ИТ-администратору</string>
+    <string name="error_role_holder_hash_mismatch">Не удалось настроить устройство. Обратитесь к своему ИТ-администратору и укажите \"Неверная контрольная сумма\".</string>
+    <string name="error_role_holder_package_invalid">Не удалось настроить устройство. Обратитесь к своему ИТ-администратору и укажите \"Компоненты отсутствуют или повреждены\".</string>
     <string name="error_wifi">Не удалось подключиться к Wi-Fi</string>
     <string name="expand">Развернуть</string>
     <string name="expand_button_title">Дополнительно</string>
@@ -223,6 +226,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="navigation_button_description">Переход вверх</string>
     <string name="next">Далее</string>
     <string name="not_set">Не задано</string>
@@ -266,6 +270,7 @@
     <string name="section_heading">Раздел \"%1$s\".</string>
     <string name="set_up_everything_else">Настроить остальное</string>
     <string name="set_up_your_device">Настройте устройство</string>
+    <string name="setting_up">Настройка…</string>
     <string name="setting_up_workspace">Настройка рабочего профиля…</string>
     <string name="setup_device">Настройте устройство</string>
     <string name="setup_device_encryption">Настройка устройства. Шифрование.</string>

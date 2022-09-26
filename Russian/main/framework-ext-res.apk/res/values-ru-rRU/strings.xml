@@ -49,6 +49,7 @@
     <string name="autofill_save_title">Автосохранение данных</string>
     <string name="autofill_service_name">Управление паролями</string>
     <string name="back_tap">Одиночное касание</string>
+    <string name="backup_suspend_hint">Выполняется резервное копирование для этого приложения. Дождитесь завершения и повторите попытку.</string>
     <string name="battery_authentic_failed_button">Понятно</string>
     <string name="battery_authentic_failed_title">Внимание</string>
     <string name="beep">Сигнал</string>
@@ -186,6 +187,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">Включить \"Быстрый возврат\"?</string>
     <string name="freeform_exchange_tip">Откройте плавающее окно в полноэкранном режиме</string>
     <string name="freeform_exchange_tip2">Перетащите в угол для отмены</string>
+    <string name="freeform_exchange_tip3">Откройте плавающее окно в полноэкранном режиме</string>
     <string name="frenchchic">Французский шик</string>
     <string name="frequent_email">Email</string>
     <string name="frequent_phrases">Частые фразы</string>
@@ -364,6 +366,7 @@
     <string name="nps_description">Уведомление о статусе GPS</string>
     <string name="nps_mock_description">Фиктивная геопозиция, для восстановления требуется перезагрузка</string>
     <string name="nps_monitor_name">Геолокация по GPS</string>
+    <string name="nps_noise_description">Плохой сигнал GPS</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 минут</string>

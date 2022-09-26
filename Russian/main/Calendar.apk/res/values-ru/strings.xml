@@ -517,7 +517,7 @@
     <string name="import_text">Импорт</string>
     <string name="imported">Импортировано</string>
     <string name="importing">Импорт…</string>
-    <string name="in_progress">Выполняется</string>
+    <string name="in_progress">Обработка…</string>
     <string name="insert_event_dialog_btn_negative">Нет</string>
     <string name="insert_event_dialog_btn_positive">Да</string>
     <string name="insert_event_dialog_message">Добавить это мероприятие в календарь?</string>

@@ -105,6 +105,13 @@
         <item>Ассистент</item>
         <item>Google</item>
     </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>По умолчанию</item>
+        <item>Синий</item>
+        <item>Зелёный</item>
+        <item>Фиолетовый</item>
+        <item>Коричневый</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Слайд</item>
         <item>Наложение</item>

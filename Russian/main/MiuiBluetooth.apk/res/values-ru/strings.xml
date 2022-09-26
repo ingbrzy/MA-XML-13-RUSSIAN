@@ -1264,7 +1264,7 @@
     <string name="wifitrackerlib_wifi_security_wep">WEP</string>
     <string name="wifitrackerlib_wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
     <string name="wifitrackerlib_wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
-    <string name="wifitrackerlib_wifi_unmetered_label">Безлимитный</string>
+    <string name="wifitrackerlib_wifi_unmetered_label">Без тарификации</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi без автоподключения</string>
     <string name="window_animation_scale_title">Анимация окон</string>
     <string name="window_blurs">Разрешить размытие на оконном уровне</string>
