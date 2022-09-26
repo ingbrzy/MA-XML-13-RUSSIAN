@@ -468,7 +468,7 @@
     <string name="password_control_title">Защита паролем</string>
     <string name="password_protect">Защита паролем</string>
     <string name="password_toggle_content_description">Видимость пароля</string>
-    <string name="password_verify_checkbox_title">Вам необходимо подтвердить пароль при выходе из детского режима, если установлен пароль экрана блокировки</string>
+    <string name="password_verify_checkbox_title">Вам необходимо подтвердить пароль при выходе из детского пространства, если установлен пароль экрана блокировки</string>
     <string name="pc_activity_title">Оптимизация батареи</string>
     <string name="permission_control">Управление разрешениями</string>
     <string name="playing">Игры</string>
@@ -490,10 +490,10 @@
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
     <string name="set_babybus_home">Настройка детского рабочего стола</string>
-    <string name="set_password_dialog_message">Мы рекомендуем вам установить пароль экрана блокировки основного пространства. После того, как вы установите его, пароль блокировки экрана будет проверен при выходе из детского режима. Ребенок не может свободно входить в ваше основное пространство</string>
+    <string name="set_password_dialog_message">Мы рекомендуем вам установить пароль экрана блокировки основного пространства. После того, как вы установите его, пароль блокировки экрана будет проверен при выходе из детского пространства. Ребенок не может свободно входить в ваше основное пространство</string>
     <string name="set_password_dialog_negative_button_text">Отмена</string>
     <string name="set_password_dialog_positive_button_text">Установить</string>
-    <string name="set_password_dialog_title">Установка пароля для выхода из детского режима</string>
+    <string name="set_password_dialog_title">Установка пароля для выхода из детского пространства</string>
     <string name="share">Поделиться</string>
     <string name="size_byte">" Б"</string>
     <string name="size_giga_byte">" ГБ"</string>

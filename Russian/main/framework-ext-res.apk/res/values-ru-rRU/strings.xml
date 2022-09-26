@@ -608,8 +608,8 @@
     <string name="unrecognized_model">Неизвестное устройство</string>
     <string name="unreplace_freeform_count_max">Достигнут лимит количества плавающих окон</string>
     <string name="user_authentication_failed">ОШИБКА АУТЕНТИФИКАЦИИ -29-</string>
-    <string name="user_switching_dialog_switch_into_kid_space">Переключение в Детский режим…</string>
-    <string name="user_switching_dialog_switch_out_kid_space">Выход из Детского режима…</string>
+    <string name="user_switching_dialog_switch_into_kid_space">Переход в детское пространство…</string>
+    <string name="user_switching_dialog_switch_out_kid_space">Выход из детского простанства…</string>
     <string name="user_switching_dialog_text">Переключение…</string>
     <string name="vigor">Энергия</string>
     <string name="vivo">vivo</string>

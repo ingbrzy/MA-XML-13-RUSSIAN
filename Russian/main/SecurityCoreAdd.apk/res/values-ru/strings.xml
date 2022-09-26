@@ -70,7 +70,7 @@
     <string name="closeSecondSpace">Удаление второго пространства</string>
     <string name="closeSecondSpaceSummary">Удалить второе пространство вместе с данными</string>
     <string name="closeSuccess">Отключено</string>
-    <string name="close_kid_space_success">Пространство Детского режима удалено</string>
+    <string name="close_kid_space_success">Детское пространство удалено</string>
     <string name="close_second_space">Второе пространство удалено</string>
     <string name="close_second_space_success">Второе пространство удалено</string>
     <string name="closed">Откл</string>

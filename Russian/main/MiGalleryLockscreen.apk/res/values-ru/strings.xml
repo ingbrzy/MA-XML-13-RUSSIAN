@@ -109,6 +109,10 @@
     <string name="apply_to_above_all">Применить везде</string>
     <string name="apply_to_screenlock">Применить к экрану блокировки</string>
     <string name="apply_to_wallpaper">Применить к рабочему столу</string>
+    <string name="apply_warning_content">В данный момент используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки. Применить?</string>
+    <string name="apply_warning_content_with_aod">В данный момент используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки, для Активного экрана будут восстановлены предыдущие настройки. Применить?</string>
+    <string name="apply_warning_content_with_maml">В данный момент используется сторонняя тема. При применении обоев будут восстановлены часы экрана блокировки по умолчанию. Применить?</string>
+    <string name="apply_warning_title">Применение обоев</string>
     <string name="article_item_hot">Посмотрите новые популярные статьи: %s+ </string>
     <string name="at_least_one">Выберите хотя бы одну категорию</string>
     <string name="auth_fail_warning">Сессия устарела, войдите повторно</string>
@@ -256,6 +260,7 @@ ID:%s
     <string name="disable_dlg_title">Карусель обоев</string>
     <string name="dislike">Удалить</string>
     <string name="dlg_cancel">Отмена</string>
+    <string name="dlg_ok">ОК</string>
     <string name="doing_login">Вход…</string>
     <string name="doing_query_account">Проверка информации об аккаунте…</string>
     <string name="doing_register">Создание аккаунта…</string>

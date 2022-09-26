@@ -3509,6 +3509,7 @@ ID: %s
     <string name="external_ram_dialog_icon_title">Включено расширение ОЗУ</string>
     <string name="external_ram_dialog_message">Перезагрузите устройство, чтобы изменения вступили в силу.</string>
     <string name="external_ram_dialog_title">Перезагрузка</string>
+    <string name="external_ram_intro">Расширение ОЗУ за счет хранилища. Используйте эту функцию только если на устройстве достаточно места.</string>
     <string name="external_ram_remind_toast">Заканчивается место на устройстве. Расширение ОЗУ отключено.</string>
     <string name="external_ram_summary">Расширение ОЗУ на %1$s %2$s. Используйте эту функцию только если на устройстве достаточно места.</string>
     <string name="external_ram_title">Расширение ОЗУ</string>
@@ -4778,6 +4779,7 @@ ID: %s
     <string name="keywords_wifi_notify_open_networks">уведомление Wi-Fi, уведомление wifi</string>
     <string name="keywords_write_settings">запись изменение системных настроек</string>
     <string name="keywords_zen_mode_settings">не беспокоить, расписание, уведомления, заблокировать, беззвучный режим, вибрировать, сон, работа, концентрация, звук, отключить звук, день, рабочий день, выходной день, вечер рабочего дня, мероприятие</string>
+    <string name="kid_space_forbidden_set_unlock_password_msg">Установка или изменение пароля для детского пространства недоступно</string>
     <string name="kid_space_settings">Детский режим</string>
     <string name="kilobyteShort">" КБ"</string>
     <string name="kilobyte_per_second">" КБ/с"</string>

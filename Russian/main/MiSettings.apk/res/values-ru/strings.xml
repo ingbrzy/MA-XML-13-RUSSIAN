@@ -129,6 +129,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_to_save">Нажмите \"Готово\", чтобы установить общий рингтон</string>
     <string name="close">Закрыть</string>
+    <string name="closed_high_refresh_options">Без высокой частоты обновления</string>
     <string name="color_gamut">Цветовой профиль</string>
     <string name="common_brushtail">Лисий кузу</string>
     <string name="common_ostrich">Страус</string>
@@ -147,6 +148,8 @@
     <string name="created_successfully">Ярлык создан</string>
     <string name="crowned_hornbill">Птица-носорог</string>
     <string name="cu_confirm">Установить</string>
+    <string name="customize_high_refresh_summary">Функция поддерживает частоту обновления до %d Гц. Частота обновления может выбираться автоматически, в зависимости от настроек устройства.</string>
+    <string name="customize_high_refresh_title">С высокой частотой обновления</string>
     <string name="customize_radio_btn_summary">Предпочтительная частота обновления</string>
     <string name="customize_radio_btn_title">Выбор</string>
     <string name="dall_sheep">Баран Далла</string>
@@ -265,6 +268,7 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">От %d до %d минут</string>
     <string name="focus_mode_timer_pick_dialog_title">Длительность</string>
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
+    <string name="follow_apps_settings">Используются настройки приложения</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
     <string name="force_rest">Обязательные перерывы</string>
     <string name="force_rest_summary">Делать обязательные перерывы при достижении лимита сессии</string>
@@ -318,6 +322,7 @@
     <string name="helmeted_guineafowl">Цесарка</string>
     <string name="high_fps_description">Высокая частота обновления экрана. Повышенный расход батареи.</string>
     <string name="high_fps_tip_footer">Высокая частота обновления делает просмотр более плавным, но расход батареи выше.</string>
+    <string name="high_refresh_options_title">Поддерживаемые приложения</string>
     <string name="hippopotamus">Гиппопотам</string>
     <string name="holiday_limit">Выходные дни</string>
     <string name="hsv_space_color">Цветовая модель HSV</string>
@@ -470,6 +475,7 @@
     <string name="nature_mix_summary">Создайте свой микс звуков природы</string>
     <string name="nazca_booby">Насканская олуша</string>
     <string name="network_error">Ошибка подключения к сети. Проверьте подключение и повторите попытку.</string>
+    <string name="new_customize_high_refresh_title">Высокая частота обновления</string>
     <string name="next_day">"(След. день) "</string>
     <string name="night">Вечер</string>
     <string name="nine_banded_armadillo">Броненосец</string>
@@ -486,6 +492,7 @@
     <string name="notification_sound">Уведомления</string>
     <string name="ocelot">Оцелот</string>
     <string name="olive_baboon">Оливковый бабуин</string>
+    <string name="opened_high_refresh_options">С высокой частотой обновления</string>
     <string name="orange_winged_amazon">Оранжевокрылый амазон</string>
     <string name="orca">Косатка</string>
     <string name="ostrich_info">Крупная нелетающая птица Африки, откладывает самые большие яйца среди наземных животных</string>
@@ -551,6 +558,7 @@
     <string name="sea_otter">Калан</string>
     <string name="seal_info">Морское млекопитающее, быстро плавает в глубоких водах, питается рыбой и креветками</string>
     <string name="search_app_name">Поиск приложений</string>
+    <string name="search_app_tips">Поиск приложений</string>
     <string name="search_empty">Приложения не найдены</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_nature_mix">природа; животные</string>
@@ -564,6 +572,12 @@
     <string name="silver_pheasant">Серебряная лофура</string>
     <string name="sim_slot_1">" SIM (слот 1)"</string>
     <string name="sim_slot_2">" SIM (слот 2)"</string>
+    <string name="size_byte">" Б"</string>
+    <string name="size_giga_byte">" ГБ"</string>
+    <string name="size_kilo_byte">" КБ"</string>
+    <string name="size_mega_byte">" МБ"</string>
+    <string name="size_peta_byte">" ПБ"</string>
+    <string name="size_tera_byte">" ТБ"</string>
     <string name="skywalker_hoolock_gibbon">Хулок Скайуокера</string>
     <string name="small_ground_finch">Малый земляной вьюрок</string>
     <string name="sms_delivered_sound_title">Доставленное сообщение</string>

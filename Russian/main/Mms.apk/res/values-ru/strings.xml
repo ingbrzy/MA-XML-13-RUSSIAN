@@ -113,6 +113,7 @@
     <string name="bookmark_empty">Нет сообщений</string>
     <string name="bookmark_list_title">Избранные</string>
     <string name="button_close">Закрыть</string>
+    <string name="button_copy">Копировать</string>
     <string name="button_emoji_creature">Животные</string>
     <string name="button_emoji_lifestyle">Стиль жизни</string>
     <string name="button_emoji_smiley">Смайлики</string>
@@ -774,6 +775,7 @@
     <string name="pref_summary_send_delivery_reports">Отправлять отчёт о доставке при получении MMS</string>
     <string name="pref_summary_switch_aim_card">Отображение сообщений, содержащих видео, изображения и сложное форматирование в виде карточек</string>
     <string name="pref_summary_voice_report">Читать сообщения вслух при поступлении. Для остановки воспроизведения нажмите кнопку уменьшения громкости или кнопку питания.</string>
+    <string name="pref_summary_voice_report_disable">Установите речевой движок Mi AI, чтобы использовать эту функцию</string>
     <string name="pref_summary_wake_up_screen">Включать подсветку экрана при получении нового сообщения</string>
     <string name="pref_switch_sdk_setting">Сменить поставщика Умных сообщений</string>
     <string name="pref_system_title">Система</string>

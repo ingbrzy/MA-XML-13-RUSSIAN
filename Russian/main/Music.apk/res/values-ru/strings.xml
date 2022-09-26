@@ -135,6 +135,8 @@
     <string name="anchor_unspport_match">Эта функция временно недоступна!</string>
     <string name="app_description_content">Приложение \"Музыка\" является системным, удалить его нельзя. Будет удалён ярлык приложения с рабочего стола. Воспроизведение музыки в приложении по-прежнему будет доступно.</string>
     <string name="app_description_title">Удалить \"Музыка\" с рабочего стола?</string>
+    <string name="app_disable_description_content">Приложение \"Музыка\" является системным. Его отключение может повлиять на использование других приложений. Отключить?</string>
+    <string name="app_disable_description_title">Отключить системное приложение?</string>
     <string name="app_label">Загрузки</string>
     <string name="app_name">liveeventbus</string>
     <string name="app_permission_confirm">Подтвердить</string>
@@ -1724,6 +1726,14 @@ ID: %s
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="ucrop_crop">Обрезка</string>
+    <string name="ucrop_error_input_data_is_absent">Необходимо указать входной и выходной Uri</string>
+    <string name="ucrop_label_edit_photo">Редактирование фото</string>
+    <string name="ucrop_label_original">Исходное</string>
+    <string name="ucrop_menu_crop">Обрезка</string>
+    <string name="ucrop_mutate_exception_hint">Переопределите цветовой ресурс (ucrop_color_toolbar_widget) в приложении, чтобы оно работало на устройствах pre-L</string>
+    <string name="ucrop_rotate">Поворот</string>
+    <string name="ucrop_scale">Масштаб</string>
     <string name="ultra_high_quality">Наивысшее качество</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknown_album_name">Неизвестный альбом</string>
