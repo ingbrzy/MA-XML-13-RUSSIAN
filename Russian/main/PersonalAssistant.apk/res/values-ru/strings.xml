@@ -1633,13 +1633,17 @@ ID:%s
     <string name="pa_accessibility_olympic_the_first">Первое место: %s</string>
     <string name="pa_accessibility_olympic_the_second">Второе место: %s</string>
     <string name="pa_accessibility_olympic_the_third">Третье место: %s</string>
+    <string name="pa_accessibility_picker_app_group_list_item">Виджет %1$s из %2$d</string>
     <string name="pa_accessibility_picker_back">Назад</string>
+    <string name="pa_accessibility_picker_close">Закрыть</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Список поддерживаемых виджетов</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды, чтобы начать.</string>
     <string name="pa_accessibility_picker_home_search">Поиск виджетов</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды, чтобы начать.</string>
     <string name="pa_accessibility_picker_home_title">Добавление веджета</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Выбран %s. Переключение виджетов.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Виджет: %s. Нажмите дважды кнопку ниже для замены другим виджетом.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, размер: %2$s, состояние установки: %3$s, строка %4$d, номер %5$d. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей.</string>
     <string name="pa_accessibility_picker_search_cancel">Панель поиска виджета. Нажмите дважды для отмены.</string>
     <string name="pa_accessibility_picker_search_clear">Очистить ввод</string>
@@ -1796,10 +1800,15 @@ ID:%s
     <string name="pa_express_state_unknown">Нет данных</string>
     <string name="pa_express_tail_number">Номер заказа: %1$s</string>
     <string name="pa_express_title">Экспресс-доставка</string>
+    <string name="pa_express_widget_all">Все заказы</string>
     <string name="pa_express_widget_list_item_desc">"Номер отслеживания: "</string>
     <string name="pa_express_widget_logout">Войдите, чтобы просмотреть посылки экспресс-доставки</string>
     <string name="pa_express_widget_order_42">Введите номер отслеживания</string>
     <string name="pa_express_widget_post">Отправить посылку</string>
+    <string name="pa_express_widget_search">Поиск</string>
+    <string name="pa_filter_accessibility_filter_item">Выбран %s. Нажмите дважды, чтобы отфильтровать другие выбранные элементы.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Нажмите дважды для выбора %s.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Нажмите дважды для выбора.</string>
     <string name="pa_filter_replace_bt">Применить</string>
     <string name="pa_filter_search_title">Результаты для \"%s\"</string>
     <string name="pa_filter_title">Другие виджеты</string>
@@ -1834,6 +1843,8 @@ ID:%s
     <string name="pa_lite_setting_service_quick_func_summary">Запуск часто используемых приложений и сервисов</string>
     <string name="pa_lite_setting_service_search">Поиск</string>
     <string name="pa_lite_setting_service_search_summary">Поиск в интернете и на устройстве</string>
+    <string name="pa_lite_setting_service_shopping">Покупки</string>
+    <string name="pa_lite_setting_service_shopping_summary">Скидки и торговые предложения</string>
     <string name="pa_lite_setting_service_sports">Спорт</string>
     <string name="pa_lite_setting_service_sports_summary">Последняя информация о спортивных событиях</string>
     <string name="pa_lite_setting_service_stock">Акции</string>
@@ -1926,6 +1937,7 @@ ID:%s
     <string name="pa_picker_request">Настройки</string>
     <string name="pa_picker_retry">Повтор</string>
     <string name="pa_picker_search">Поиск</string>
+    <string name="pa_picker_search_card_filter_button_text">Все виджеты</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Фильтр</string>
     <string name="pa_picker_search_card_more_all_applications">Другие приложения</string>
     <string name="pa_picker_search_card_more_all_suits">Другие наборы виджетов</string>
@@ -1977,6 +1989,7 @@ ID:%s
     <string name="pa_setting_app_usage_auth_dialog_message">После отключения этой функции, виджет \"Рекомендации по приложениям\" будет недоступен. Отключить?</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Внимание</string>
     <string name="pa_setting_bugreport">Обратная связь</string>
+    <string name="pa_setting_perm_empty">Ничего нет</string>
     <string name="pa_setting_privacy_auth">Разрешить анализ использования приложений</string>
     <string name="pa_setting_privacy_auth_summary">Получение рекомендаций, основанных на ваших предпочтениях</string>
     <string name="pa_setting_privacy_category_perm">Разрешения</string>
@@ -2027,6 +2040,7 @@ ID:%s
     <string name="pa_shopping_page_product_delete_dialog_message">Удалить %d выбранных товаров?</string>
     <string name="pa_shopping_page_product_delete_error">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
     <string name="pa_shopping_page_product_item_icon_tag">Рекомендуемые</string>
+    <string name="pa_shopping_page_product_item_icon_tag_new">Вас может заинтересовать</string>
     <string name="pa_shopping_page_product_jump_setting_error">Произошла ошибка. Проверьте настройки сети и повторите попытку.</string>
     <string name="pa_shopping_page_setting_source_desc">Скидки и акции на товары</string>
     <string name="pa_shopping_page_setting_statement">Отказ от ответственности</string>

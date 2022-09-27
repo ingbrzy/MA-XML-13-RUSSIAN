@@ -661,6 +661,8 @@
     <string name="permission_status_allow">Предоставлено</string>
     <string name="permission_status_deny">Не предоставлено</string>
     <string name="permission_status_loading">Получение состояния устройства…</string>
+    <string name="phone_guarantee_service_description" formatted="false">Защиту от повреждений экрана и несчастных случаев можно приобрести в течение %d д. после активации. Расширенную гарантию можно приобрести в течение %d д. после активации.</string>
+    <string name="phone_guarantee_service_name">Гарантия на устройство</string>
     <string name="phone_number_required_dspt_provision">"Этому сервису требуется ваш номер телефона. "</string>
     <string name="picker_list_empty">Список пуст</string>
     <string name="picker_search_empty">Контакты не найдены</string>
@@ -1109,7 +1111,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
     <string name="wipe_data_dialog_button_check_sync">Проверить</string>
-    <string name="wipe_data_dialog_msg">Некоторые объекты %s не синхронизированы. Они будут сохранены на устройстве и не будут удалены.</string>
+    <string name="wipe_data_dialog_msg">Некоторые объекты (%s) не синхронизированы. Они останутся на устройстве и не будут удалены.</string>
     <string name="wipe_data_dialog_msg_and_on">, и некоторые другие объекты</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Объекты не синхронизированы</string>

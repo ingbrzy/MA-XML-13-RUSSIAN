@@ -38,6 +38,11 @@
         <item quantity="one">%1$s разрешение</item>
         <item quantity="few">%1$s разрешения</item>
     </plurals>
+    <plurals name="app_info_permission_count_">
+        <item quantity="other">%1$s разрешений,</item>
+        <item quantity="one">%1$s разрешение,</item>
+        <item quantity="few">%1$s разрешения,</item>
+    </plurals>
     <plurals name="app_info_private_permission_count">
         <item quantity="other">%1$s разрешений, связанных с безопасностью</item>
         <item quantity="one">%1$s разрешение, связанное с безопасностью</item>
@@ -97,5 +102,33 @@
         <item quantity="other">%d минут назад</item>
         <item quantity="one">1 минуту назад</item>
         <item quantity="few">%d минуты назад</item>
+    </plurals>
+    <plurals name="password_wrong_retry_msg">
+        <item quantity="other">Слишком много неудачных попыток. Повторите попытку через %1$S сек.</item>
+        <item quantity="one">Слишком много неудачных попыток. Повторите попытку через %1$S сек.</item>
+    </plurals>
+    <plurals name="pure_mode_guard_day">
+        <item quantity="other">Безопасный режим активен %d дней</item>
+        <item quantity="one">Безопасный режим активен %d день</item>
+        <item quantity="few">Безопасный режим активен %d дня</item>
+    </plurals>
+    <plurals name="settings_security_mode_enable_count">
+        <item quantity="other">Безопасный режим работает на &lt;font color=#0D84FF>%1$s&lt;/font> устройствах</item>
+        <item quantity="one">Безопасный режим работает на &lt;font color=#0D84FF>%1$s&lt;/font> устройстве</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_count">
+        <item quantity="other">Устранено &lt;font color=#0D84FF>%1$s&lt;/font> рисков</item>
+        <item quantity="one">Устранён &lt;font color=#0D84FF>%1$s&lt;/font> риск</item>
+        <item quantity="few">Устранено &lt;font color=#0D84FF>%1$s&lt;/font> риска</item>
+    </plurals>
+    <plurals name="settings_security_mode_protect_days">
+        <item quantity="other">Безопасный режим активен &lt;font color=#0D84FF>%1$s&lt;/font> дней</item>
+        <item quantity="one">Безопасный режим активен &lt;font color=#0D84FF>%1$s&lt;/font> день</item>
+        <item quantity="few">Безопасный режим активен &lt;font color=#0D84FF>%1$s&lt;/font> дня</item>
+    </plurals>
+    <plurals name="settings_security_mode_title_on_msg">
+        <item quantity="other">Безопасный режим активен %1$s дней</item>
+        <item quantity="one">Безопасный режим активен %1$s день</item>
+        <item quantity="few">Безопасный режим активен %1$s дня</item>
     </plurals>
 </resources>

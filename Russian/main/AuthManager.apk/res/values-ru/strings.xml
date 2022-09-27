@@ -162,6 +162,7 @@
     <string name="blur_location_is_on_tip">Для приложения %1$s включена пониженная точность геолокации. Включить точную геолокацию?</string>
     <string name="blur_location_now_tip">Включена пониженная точность геолокации</string>
     <string name="blur_location_title">Пониженная точность</string>
+    <string name="carwith_grant_permission_tips_when_lock">Сначала разблокируйте устройство</string>
     <string name="cetus_invisible_mode_notice_audio">Режим инкогнито: микрофон недоступен</string>
     <string name="cetus_invisible_mode_notice_camera">Режим инкогнито: камера недоступна</string>
     <string name="cetus_invisible_mode_notice_location">Режим инкогнито: геолокация недоступна</string>
@@ -330,6 +331,7 @@
     <string name="permdesc_read_call_log">Разрешить %1$s доступ к журналу вызовов?</string>
     <string name="permdesc_read_contacts">Разрешить %1$s доступ к контактам?</string>
     <string name="permdesc_read_mms">Разрешить %1$s читать MMS?</string>
+    <string name="permdesc_read_phone_numbers">Разрешить %1$s читать телефонные номера?</string>
     <string name="permdesc_read_phone_state">Разрешить %1$s доступ к состоянию устройства и мобильной сети?</string>
     <string name="permdesc_read_sms">Разрешить %1$s читать и отправлять SMS или MMS?</string>
     <string name="permdesc_read_storage">Разрешить %1$s доступ к файлам на устройстве?</string>

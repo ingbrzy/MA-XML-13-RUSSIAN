@@ -102,6 +102,10 @@
     <string name="call_recording_notification_title_error">Не удалось записать вызов</string>
     <string name="caller_info_name_delimiter">" или "</string>
     <string name="caller_manage_header">Конференц-вызов %s</string>
+    <string name="camera_on">Другой человек хочет включить камеру на устройстве</string>
+    <string name="camera_on_agree">Разрешить</string>
+    <string name="camera_on_refuse">Отмена</string>
+    <string name="camera_on_title">Камера</string>
     <string name="can_not_use">Использование невозможно</string>
     <string name="cancel">Отмена</string>
     <string name="card_title_answering">Ответ на вызов</string>
@@ -338,6 +342,10 @@
     <string name="onscreen_change_to_video">Видеовызов</string>
     <string name="onscreen_change_to_voice">Голосовой вызов</string>
     <string name="onscreen_close_preview_camera">Закрыть</string>
+    <string name="onscreen_collapsed">Свернуть</string>
+    <string name="onscreen_collapsed_dialpad">Показать клавиатуру</string>
+    <string name="onscreen_expand">Ещё</string>
+    <string name="onscreen_expand_dialpad">Скрыть клавиатуру</string>
     <string name="onscreen_hold_text">Удержание</string>
     <string name="onscreen_merge_calls_text">Объединить</string>
     <string name="onscreen_message_text">Сообщения</string>
@@ -376,6 +384,11 @@
     <string name="saturday">Суббота</string>
     <string name="saturday_short">Сб</string>
     <string name="saturday_shortest">Сб</string>
+    <string name="screen_share">Удаленная помощь</string>
+    <string name="screen_share_agree">Разрешить</string>
+    <string name="screen_share_connecting">Подключение…</string>
+    <string name="screen_share_message">Разрешить удаленный просмотр вашего экрана в режиме реального времени?</string>
+    <string name="screen_share_refuse">Отмена</string>
     <string name="search_menu_title">Поиск</string>
     <string name="select_audio_dialog_title">Выберите режим автоответчика</string>
     <string name="select_one_sim_title">Можно использовать только SIM %1$d</string>

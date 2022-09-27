@@ -215,7 +215,7 @@
     <string name="antivirus_longtime_no_update">Сигнатуры устарели. Регулярные обновления помогают улучшить результаты проверки. Разрешить приложению доступ в интернет для обновления сигнатур?</string>
     <string name="antivirus_longtime_no_update1">Сигнатуры устарели. Регулярные обновления помогают улучшить результаты проверки. Обновите сигнатуры и повторите попытку.</string>
     <string name="antivirus_main_activity_back">Назад</string>
-    <string name="antivirus_monitor_btn_text_clean_risk">Удалить опасные приложения</string>
+    <string name="antivirus_monitor_btn_text_clean_risk">Удалить приложения</string>
     <string name="antivirus_monitor_btn_text_clean_virus">Удалить вирусы</string>
     <string name="antivirus_monitor_clean_tips">Удаленные объекты: %s</string>
     <string name="antivirus_monitor_risk_advice">Это приложение небезопасно, удалите его</string>
@@ -540,6 +540,7 @@
 
 Данные приложений удалены не будут."</string>
     <string name="app_manager_reset_app_preferences_title">Сбросить настройки приложений?</string>
+    <string name="app_manager_restricted_settings_title">Ограниченные настройки</string>
     <string name="app_manager_search_prompt">Не удалось ничего найти? Просмотрите результаты для всех приложений.</string>
     <string name="app_manager_show_all_apps">Показать все приложения</string>
     <string name="app_manager_show_all_apps_opened">Показ результатов для всех приложений…</string>
@@ -2172,12 +2173,14 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_audition_instruction">Нажмите и удерживайте для записи (%1$s-%2$s сек.)</string>
     <string name="gb_audition_play_instruction">Используйте наушники для лучшего эффекта</string>
     <string name="gb_barrage_chat_desc">Всегда верьте, что скоро произойдет что-то замечательное</string>
+    <string name="gb_barrage_chat_pre_desc">Предпросмотр</string>
     <string name="gb_barrage_chat_text_color">Цвет</string>
     <string name="gb_barrage_chat_text_size">Размер шрифта</string>
     <string name="gb_barrage_chat_text_size_big">Большой</string>
     <string name="gb_barrage_chat_text_size_small">Маленький</string>
     <string name="gb_barrage_chat_text_speed">Скорость</string>
     <string name="gb_barrage_chat_text_speed_faster">Быстрая</string>
+    <string name="gb_barrage_chat_text_speed_moderate">Средняя</string>
     <string name="gb_barrage_chat_text_speed_slow">Медленная</string>
     <string name="gb_beauty_cold_light">Холодный</string>
     <string name="gb_beauty_face">Улучшение</string>
@@ -3803,6 +3806,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_dailog_night_charge_protection_summary">Батарея полностью заряжена. MIUI включила оптимизированную зарядку для уменьшения старения батареи.</string>
     <string name="power_dialog_cancel">Отмена</string>
     <string name="power_dialog_ok">ОК</string>
+    <string name="power_dialog_performance_mode_checkbox">Частота обновления 120 Гц</string>
     <string name="power_dialog_super_save_msg">Ультраэкономия заряда ограничивает большинство энергопотребляющих функций и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультраэкономию?</string>
     <string name="power_dialog_super_save_msg_5g">Ультраэкономия заряда ограничивает большинство энергопотребляющих функций (например, 5G подключение) и снижает производительность устройства. Звонки, SMS и подключение к сети затронуты не будут. Включить ультраэкономию?</string>
     <string name="power_dialog_super_save_title">Ультраэкономия заряда</string>
@@ -4346,7 +4350,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_revoke_tip_dialog_content"><Data>"Вы не сможете использовать \"%1$s\", если не примите обновленную Политику конфиденциальности. Принимаете обновленную&lt;a href=\"%3$s\">Политику конфиденциальности&lt;/a>  \"%2$s\"?"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">Отказ от использования</string>
     <string name="privacy_revoke_title">Отзыв согласия</string>
-    <string name="privacy_risk_app">Приложения с рисками</string>
+    <string name="privacy_risk_app">Небезопасные приложения</string>
     <string name="privacy_risk_app_fuzzy">Приложения без размытия миниатюр</string>
     <string name="privacy_risk_dangerous_bar_title">Разрешения с высоким риском</string>
     <string name="privacy_risk_dangerous_manager">Управление устройством</string>
@@ -4377,7 +4381,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_risk_result_file_btn">Исправить</string>
     <string name="privacy_risk_result_file_tip">Сделайте важные файлы конфиденциальными</string>
     <string name="privacy_risk_result_ignore_btn">Пропустить</string>
-    <string name="privacy_risk_result_item_safe">Угрозы не обнаружены</string>
+    <string name="privacy_risk_result_item_safe">Угрозы не найдены</string>
     <string name="privacy_risk_result_open_btn">Включить</string>
     <string name="privacy_risk_result_photo_delete">Уведомлять об удалении фотографиях</string>
     <string name="privacy_risk_result_photo_delete_msg">Уведомлять об удалении файлов из галереи без подтверждения</string>
@@ -4571,7 +4575,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="safe_result_item_button_monitor">Настройки мониторинга</string>
     <string name="safe_result_item_empty_monitor">Нет платежных приложений с защитой</string>
     <string name="safe_result_item_info_app_sign">Нет неофициальных приложений</string>
-    <string name="safe_result_item_info_app_virus">Нет вирусов и опасных приложений</string>
+    <string name="safe_result_item_info_app_virus">Нет вирусов и небезопасных приложений</string>
     <string name="safe_result_item_info_sms_auth">Доступ сторонних приложений к кодам подтверждения ограничен</string>
     <string name="safe_result_item_info_sms_default">Восстановлено приложение обмена сообщениями по умолчанию</string>
     <string name="safe_result_item_info_sms_url">Защищено от вредоносных ссылок в SMS</string>

@@ -1710,7 +1710,7 @@
     <string name="search_import_from_other_phone">Контакты;Импорт;другой телефон</string>
     <string name="search_import_from_sdcard">Контакты;Импорт;память</string>
     <string name="search_import_from_sim">Контакты;Импорт;SIM карта</string>
-    <string name="search_input_hint">Вы можете искать телефонные номера</string>
+    <string name="search_input_hint">Доступен поиск телефонных номеров</string>
     <string name="search_key_photo_word">Назначить;контакт;фото;Контакты</string>
     <string name="search_key_rebuild_t9_index_title">Управление;Контакты;Т9</string>
     <string name="search_key_sim_manage">Управление;Контакты</string>
