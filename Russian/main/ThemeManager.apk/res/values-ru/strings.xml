@@ -107,9 +107,9 @@
     <string name="apply_success_not_enable_aod">Включите Активный экран в Настройках</string>
     <string name="apply_success_not_support_aod">Не удалось совместить Активный экран с темой на устройстве. Остальные компоненты успешно применены.</string>
     <string name="apply_theme_with_ringtones">Применять с рингтонами</string>
-    <string name="apply_wallpaper_after_three_theme">В данный момент используется сторонняя тема. Если применить только обои экрана блокировки, стиль часов экрана блокировки будет восстановлен по умолчанию. Применить?</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">В данный момент используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки, для Активного экрана будут восстановлены предыдущие настройки. Применить?</string>
-    <string name="apply_wallpaper_warning_use_super_wallpaper">В данный момент используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки. Применить?</string>
+    <string name="apply_wallpaper_after_three_theme">Сейчас используется сторонняя тема. Если применить только обои экрана блокировки, настройки часов экрана блокировки могут быть сброшены на значения по умолчанию. Применить?</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Сейчас используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки, для Активного экрана будут восстановлены предыдущие настройки. Применить?</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">Сейчас используются суперобои. Новые обои будут применены к рабочему столу и экрану блокировки. Применить?</string>
     <string name="apply_warning_get_device_dialog_message">Чтобы использовать загруженный контент, разрешите этой функции доступ к ID вашего устройства. Вы можете предоставить это разрешение в Настройки > Конфиденциальность</string>
     <string name="apply_warning_tip_get_device_status">Разрешите приложению доступ к ID устройства</string>
     <string name="audio_duration_minutes_format">%1$d мин.</string>
