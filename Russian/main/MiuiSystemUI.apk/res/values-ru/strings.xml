@@ -1126,7 +1126,7 @@
     <string name="feedback_demoted">Уровень важности этого уведомления на панели был автоматически &lt;b>понижен&lt;/b>.</string>
     <string name="feedback_promoted">Уровень важности этого уведомления на панели был автоматически &lt;b>повышен&lt;/b>.</string>
     <string name="feedback_prompt">Оставить отзыв до разработчиков?</string>
-    <string name="feedback_response">Спасибо за отзыв!</string>
+    <string name="feedback_response">Благодарим за отзыв!</string>
     <string name="feedback_silenced">Уровень важности этого уведомления был автоматически &lt;b>понижен до \"Без звука\"&lt;/b>.</string>
     <string name="finger_error_single_mode">Сканер отпечатков недоступен в режиме управления одной рукой. Выйдите из режима и попробуйте ещё раз.</string>
     <string name="fingerprint_add_text">Алгоритм разблокировки обновлён. Добавьте отпечаток заново.</string>
@@ -1749,7 +1749,7 @@ dd.MM"</string>
 dd.MM"</string>
     <string name="miui_notification_menu_aggregate_feedback">Отзыв</string>
     <string name="miui_notification_menu_allow">Разрешить</string>
-    <string name="miui_notification_menu_feedback_success">Спасибо за отзыв!</string>
+    <string name="miui_notification_menu_feedback_success">Благодарим за отзыв!</string>
     <string name="miui_notification_menu_fold">Неважные</string>
     <string name="miui_notification_menu_more_setting">Ещё</string>
     <string name="miui_notification_menu_msg_fold">Группировать все уведомления от %1$s?</string>

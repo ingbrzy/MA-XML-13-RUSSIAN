@@ -290,7 +290,7 @@
     <string name="host_verify_lock_hint">Настройте защиту</string>
     <string name="host_verify_lock_retry">Подтвердите защиту</string>
     <string name="host_verify_lock_summary">Настройка защиты нового устройства</string>
-    <string name="host_verify_lock_title">Введите пароль разблокировки старого устройства</string>
+    <string name="host_verify_lock_title">Введите пароль защиты старого устройства</string>
     <string name="hsa_code_null">Код подтверждения не может быть пустым</string>
     <string name="hsa_input_tip">Ваш Apple ID использует двухфакторную аутентификацию. Введите код подтверждения.</string>
     <string name="hsa_send_again">Повторить отправку</string>

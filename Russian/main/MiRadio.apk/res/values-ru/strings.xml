@@ -1009,7 +1009,7 @@ ID:%s
     <string name="reply_comment">Ответить</string>
     <string name="reply_comment_hint">Ответить на %s:</string>
     <string name="report">Отчёт</string>
-    <string name="report_comment_success">Мы рассмотрим ваш отчёт. Спасибо за отзыв.</string>
+    <string name="report_comment_success">Мы рассмотрим ваш отчёт. Благодарим за отзыв!</string>
     <string name="resend_active_email">Отправить снова</string>
     <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
     <string name="resend_email_reach_limit_title">Слишком много попыток</string>
@@ -1241,7 +1241,7 @@ ID:%s
     <string name="task_already_exist">Задание уже существует</string>
     <string name="temporary_not_available">Эта функция ещё недоступна</string>
     <string name="text_separator">|</string>
-    <string name="thanks_for_feedback">Спасибо за отзыв!</string>
+    <string name="thanks_for_feedback">Благодарим за отзыв!</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
     <string name="the_arbor_day">День древонасаждения</string>

@@ -1115,7 +1115,7 @@
     <string name="toast_network_eror">Не удалось подключиться к сети</string>
     <string name="toast_network_switch">Приложение может подключаться к интернету</string>
     <string name="toast_removed_from_white_list">Успешно удалено из исключений</string>
-    <string name="toast_resolve_apk_error">Решите проблему с файлом APK</string>
+    <string name="toast_resolve_apk_error">Устранена проблема с APK</string>
     <string name="toast_scaning_similar_image">Проверка фото…</string>
     <string name="toast_select_image_need_delete">Выберите фото для удаления</string>
     <string name="toast_select_white_need_remove">Выберите объекты для удаления</string>

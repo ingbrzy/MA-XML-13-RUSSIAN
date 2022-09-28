@@ -362,7 +362,7 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="tip_feedback_success">Успешно отправлено</string>
-    <string name="tip_feedback_thanks">Спасибо за отзыв!</string>
+    <string name="tip_feedback_thanks">Благодарим за отзыв!</string>
     <string name="tip_select_category">Выберите категорию уведомлений</string>
     <string name="title_aggregate_default">Группировать уведомления</string>
     <string name="title_aggregate_home">Не группировать уведомления</string>

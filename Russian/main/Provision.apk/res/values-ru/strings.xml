@@ -601,7 +601,7 @@
     <string name="terms_of_use_label_systemhelper">Саморегистрируемые сервисы</string>
     <string name="terms_of_use_label_translation">Сервис перевода</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (версия Xiaomi)</string>
-    <string name="terms_of_use_label_updater">Обновление</string>
+    <string name="terms_of_use_label_updater">Служба обновления системы (проверяет наличие обновлений онлайн и уведомляет о новых версиях)</string>
     <string name="terms_of_use_label_use_location_and_network_global">Перед использованием MIUI Вы должны согласиться с нашими Пользовательским соглашением и Политикой конфиденциальности. Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети и будут использовать геолокацию:</string>
     <string name="terms_of_use_label_use_network_china">Перед использованием MIUI Вы должны согласиться с нашим Пользовательским соглашением и Политикой конфиденциальности.  Мы будем защищать вашу личную информацию в соответствии с действующими законами, правилами и политикой конфиденциальности. При активации устройства, следующие службы подключатся к сети:</string>
     <string name="terms_of_use_label_wallpaper">Обои</string>
