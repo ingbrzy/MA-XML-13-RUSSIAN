@@ -154,11 +154,77 @@
     <string name="notification_sound_default">Звук уведомления по умолчанию</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="permission_audio">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этой музыки?</string>
+    <string name="permission_delete_audio">{count,plural, =1{Разрешить приложению \"^1\" удалить этот аудиофайл?}one{Разрешить приложению \"^1\" удалить ^2 аудиофайл?}few{Разрешить приложению \"^1\" удалить ^2 аудиофайла?}many{Разрешить приложению \"^1\" удалить ^2 аудиофайлов?}other{Разрешить приложению \"^1\" удалить ^2 аудиофайла?}}</string>
+    <string name="permission_delete_generic">{count,plural, =1{Разрешить приложению \"^1\" удалить этот объект?}one{Разрешить приложению \"^1\" удалить ^2 объект?}few{Разрешить приложению \"^1\" удалить ^2 объекта?}many{Разрешить приложению \"^1\" удалить ^2 объектов?}other{Разрешить приложению \"^1\" удалить ^2 объекта?}}</string>
+    <string name="permission_delete_image">{count,plural, =1{Разрешить приложению \"^1\" удалить это фото?}one{Разрешить приложению \"^1\" удалить ^2 фото?}few{Разрешить приложению \"^1\" удалить ^2 фото?}many{Разрешить приложению \"^1\" удалить ^2 фото?}other{Разрешить приложению \"^1\" удалить ^2 фото?}}</string>
+    <string name="permission_delete_video">{count,plural, =1{Разрешить приложению \"^1\" удалить это видео?}one{Разрешить приложению \"^1\" удалить ^2 видео?}few{Разрешить приложению \"^1\" удалить ^2 видео?}many{Разрешить приложению \"^1\" удалить ^2 видео?}other{Разрешить приложению \"^1\" удалить ^2 видео?}}</string>
     <string name="permission_images">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этого изображения?</string>
+    <string name="permission_more_text">{count,plural, =1{И ещё ^1 объект}one{И ещё ^1 объект}few{И ещё ^1 объекта}many{И ещё ^1 объектов}other{И ещё ^1 объекта}}</string>
+    <string name="permission_more_thumb">{count,plural, =1{Ещё ^1}one{Ещё ^1}few{Ещё ^1}many{Ещё ^1}other{Ещё ^1}}</string>
+    <string name="permission_progress_delete_audio">{count,plural, =1{Удаление аудиофайла…}one{Удаление ^1 аудиофайла…}few{Удаление ^1 аудиофайлов…}many{Удаление ^1 аудиофайлов…}other{Удаление ^1 аудиофайла…}}</string>
+    <string name="permission_progress_delete_generic">{count,plural, =1{Удаление объекта…}one{Удаление ^1 объекта…}few{Удаление ^1 объектов…}many{Удаление ^1 объектов…}other{Удаление ^1 объекта…}}</string>
+    <string name="permission_progress_delete_image">{count,plural, =1{Удаление фото…}one{Удаление ^1 фото…}few{Удаление ^1 фото…}many{Удаление ^1 фото…}other{Удаление ^1 фото…}}</string>
+    <string name="permission_progress_delete_video">{count,plural, =1{Удаление видео…}one{Удаление ^1 видео…}few{Удаление ^1 видео…}many{Удаление ^1 видео…}other{Удаление ^1 видео…}}</string>
+    <string name="permission_progress_trash_audio">{count,plural, =1{Перемещение аудиофайла в корзину…}one{Перемещение ^1 аудиофайла в корзину…}few{Перемещение ^1 аудиофайлов в корзину…}many{Перемещение ^1 аудиофайлов в корзину…}other{Перемещение ^1 аудиофайла в корзину…}}</string>
+    <string name="permission_progress_trash_generic">{count,plural, =1{Перемещение объекта в корзину…}one{Перемещение ^1 объекта в корзину…}few{Перемещение ^1 объектов в корзину…}many{Перемещение ^1 объектов в корзину…}other{Перемещение ^1 объекта в корзину…}}</string>
+    <string name="permission_progress_trash_image">{count,plural, =1{Перемещение фото в корзину…}one{Перемещение ^1 фото в корзину…}few{Перемещение ^1 фото в корзину…}many{Перемещение ^1 фото в корзину…}other{Перемещение ^1 фото в корзину…}}</string>
+    <string name="permission_progress_trash_video">{count,plural, =1{Перемещение видео в корзину…}one{Перемещение ^1 видео в корзину…}few{Перемещение ^1 видео в корзину…}many{Перемещение ^1 видео в корзину…}other{Перемещение ^1 видео в корзину…}}</string>
+    <string name="permission_progress_untrash_audio">{count,plural, =1{Восстановление аудиофайла из корзины…}one{Восстановление ^1 аудиофайла из корзины…}few{Восстановление ^1 аудиофайлов из корзины…}many{Восстановление ^1 аудиофайлов из корзины…}other{Восстановление ^1 аудиофайла из корзины…}}</string>
+    <string name="permission_progress_untrash_generic">{count,plural, =1{Восстановление объекта из корзины…}one{Восстановление ^1 объекта из корзины…}few{Восстановление ^1 объектов из корзины…}many{Восстановление ^1 объектов из корзины…}other{Восстановление ^1 объекта из корзины…}}</string>
+    <string name="permission_progress_untrash_image">{count,plural, =1{Восстановление фото из корзины…}one{Восстановление ^1 фото из корзины…}few{Восстановление ^1 фото из корзины…}many{Восстановление ^1 фото из корзины…}other{Восстановление ^1 фото из корзины…}}</string>
+    <string name="permission_progress_untrash_video">{count,plural, =1{Восстановление видео из корзины…}one{Восстановление ^1 видео из корзины…}few{Восстановление ^1 видео из корзины…}many{Восстановление ^1 видео из корзины…}other{Восстановление ^1 видео из корзины…}}</string>
+    <string name="permission_progress_write_audio">{count,plural, =1{Изменение аудиофайла…}one{Изменение ^1 аудиофайла…}few{Изменение ^1 аудиофайлов…}many{Изменение ^1 аудиофайлов…}other{Изменение ^1 аудиофайла…}}</string>
+    <string name="permission_progress_write_generic">{count,plural, =1{Изменение объекта…}one{Изменение ^1 объекта…}few{Изменение ^1 объектов…}many{Изменение ^1 объектов…}other{Изменение ^1 объекта…}}</string>
+    <string name="permission_progress_write_image">{count,plural, =1{Изменение фото…}one{Изменение ^1 фото…}few{Изменение ^1 фото…}many{Изменение ^1 фото…}other{Изменение ^1 фото…}}</string>
+    <string name="permission_progress_write_video">{count,plural, =1{Изменение видео…}one{Изменение ^1 видео…}few{Изменение ^1 видео…}many{Изменение ^1 видео…}other{Изменение ^1 видео…}}</string>
     <string name="permission_required">Требуется разрешение для изменения или удаления этого элемента.</string>
     <string name="permission_required_action">Продолжить</string>
+    <string name="permission_trash_audio">{count,plural, =1{Разрешить приложению \"^1\" переместить этот аудиофайл в корзину?}one{Разрешить приложению \"^1\" переместить ^2 аудиофайл в корзину?}few{Разрешить приложению \"^1\" переместить ^2 аудиофайла в корзину?}many{Разрешить приложению \"^1\" переместить ^2 аудиофайлов в корзину?}other{Разрешить приложению \"^1\" переместить ^2 аудиофайла в корзину?}}</string>
+    <string name="permission_trash_generic">{count,plural, =1{Разрешить приложению \"^1\" переместить этот объект в корзину?}one{Разрешить приложению \"^1\" переместить ^2 объект в корзину?}few{Разрешить приложению \"^1\" переместить ^2 объекта в корзину?}many{Разрешить приложению \"^1\" переместить ^2 объектов в корзину?}other{Разрешить приложению \"^1\" переместить ^2 объекта в корзину?}}</string>
+    <string name="permission_trash_image">{count,plural, =1{Разрешить приложению \"^1\" переместить это фото в корзину?}one{Разрешить приложению \"^1\" переместить ^2 фото в корзину?}few{Разрешить приложению \"^1\" переместить ^2 фото в корзину?}many{Разрешить приложению \"^1\" переместить ^2 фото в корзину?}other{Разрешить приложению \"^1\" переместить ^2 фото в корзину?}}</string>
+    <string name="permission_trash_video">{count,plural, =1{Разрешить приложению \"^1\" переместить это видео в корзину?}one{Разрешить приложению \"^1\" переместить ^2 видео в корзину?}few{Разрешить приложению \"^1\" переместить ^2 видео в корзину?}many{Разрешить приложению \"^1\" переместить ^2 видео в корзину?}other{Разрешить приложению \"^1\" переместить ^2 видео в корзину?}}</string>
+    <string name="permission_untrash_audio">{count,plural, =1{Разрешить приложению \"^1\" восстановить этот аудиофайл из корзины?}one{Разрешить приложению \"^1\" восстановить ^2 аудиофайл из корзины?}few{Разрешить приложению \"^1\" восстановить ^2 аудиофайла из корзины?}many{Разрешить приложению \"^1\" восстановить ^2 аудиофайлов из корзины?}other{Разрешить приложению \"^1\" восстановить ^2 аудиофайла из корзины?}}</string>
+    <string name="permission_untrash_generic">{count,plural, =1{Разрешить приложению \"^1\" восстановить этот объект из корзины?}one{Разрешить приложению \"^1\" восстановить ^2 объект из корзины?}few{Разрешить приложению \"^1\" восстановить ^2 объекта из корзины?}many{Разрешить приложению \"^1\" восстановить ^2 объектов из корзины?}other{Разрешить приложению \"^1\" восстановить ^2 объекта из корзины?}}</string>
+    <string name="permission_untrash_image">{count,plural, =1{Разрешить приложению \"^1\" восстановить это фото из корзины?}one{Разрешить приложению \"^1\" восстановить ^2 фото из корзины?}few{Разрешить приложению \"^1\" восстановить ^2 фото из корзины?}many{Разрешить приложению \"^1\" восстановить ^2 фото из корзины?}other{Разрешить приложению \"^1\" восстановить ^2 фото из корзины?}}</string>
+    <string name="permission_untrash_video">{count,plural, =1{Разрешить приложению \"^1\" восстановить это видео из корзины?}one{Разрешить приложению \"^1\" восстановить ^2 видео из корзины?}few{Разрешить приложению \"^1\" восстановить ^2 видео из корзины?}many{Разрешить приложению \"^1\" восстановить ^2 видео из корзины?}other{Разрешить приложению \"^1\" восстановить ^2 видео из корзины?}}</string>
     <string name="permission_video">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этого видео?</string>
+    <string name="permission_write_audio">{count,plural, =1{Разрешить приложению \"^1\" изменить этот аудиофайл?}one{Разрешить приложению \"^1\" изменить ^2 аудиофайл?}few{Разрешить приложению \"^1\" изменить ^2 аудиофайла?}many{Разрешить приложению \"^1\" изменить ^2 аудиофайлов?}other{Разрешить приложению \"^1\" изменить ^2 аудиофайла?}}</string>
+    <string name="permission_write_generic">{count,plural, =1{Разрешить приложению \"^1\" изменить этот объект?}one{Разрешить приложению \"^1\" изменить ^2 объект?}few{Разрешить приложению \"^1\" изменить ^2 объекта?}many{Разрешить приложению \"^1\" изменить ^2 объектов?}other{Разрешить приложению \"^1\" изменить ^2 объекта?}}</string>
+    <string name="permission_write_image">{count,plural, =1{Разрешить приложению \"^1\" изменить это фото?}one{Разрешить приложению \"^1\" изменить ^2 фото?}few{Разрешить приложению \"^1\" изменить ^2 фото?}many{Разрешить приложению \"^1\" изменить ^2 фото?}other{Разрешить приложению \"^1\" изменить ^2 фото?}}</string>
+    <string name="permission_write_video">{count,plural, =1{Разрешить приложению \"^1\" изменить это видео?}one{Разрешить приложению \"^1\" изменить ^2 видео?}few{Разрешить приложению \"^1\" изменить ^2 видео?}many{Разрешить приложению \"^1\" изменить ^2 видео?}other{Разрешить приложению \"^1\" изменить ^2 видео?}}</string>
+    <string name="picker_add_button_multi_select">Добавить (^1)</string>
+    <string name="picker_album_item_count">{count,plural, =1{^1 объект}one{^1 объект}few{^1 объекта}many{^1 объектов}other{^1 объекта}}</string>
+    <string name="picker_albums">Альбомы</string>
+    <string name="picker_albums_empty_message">Альбомов нет.</string>
+    <string name="picker_app_label">Выбор фотографий</string>
+    <string name="picker_category_camera">Камера</string>
+    <string name="picker_category_downloads">Скачанные</string>
+    <string name="picker_category_favorites">Избранное</string>
+    <string name="picker_category_screenshots">Скриншоты</string>
+    <string name="picker_cloud_sync">Медиаконтент из облака теперь доступен в приложении \"%1$s\".</string>
     <string name="picker_gif">GIF</string>
+    <string name="picker_item_content_desc">%1$s, дата и время съемки: %2$s</string>
+    <string name="picker_motion_photo">Фото с движением</string>
+    <string name="picker_motion_photo_text">Фото с движением</string>
+    <string name="picker_mute_video">Отключить звук видео</string>
+    <string name="picker_pause_video">Приостановить видео</string>
+    <string name="picker_personal_profile">Перейти в личный профиль</string>
+    <string name="picker_photo">Фото</string>
+    <string name="picker_photos">Фотографии</string>
+    <string name="picker_photos_empty_message">Фото или видео нет.</string>
+    <string name="picker_play_video">Воспроизвести видео</string>
+    <string name="picker_preview">Предварительный просмотр</string>
+    <string name="picker_privacy_message">У этого приложения есть доступ только к тем фото, которые вы выбрали.</string>
+    <string name="picker_profile_admin_msg_from_personal">Доступ к рабочим данным из личного приложения запрещен.</string>
+    <string name="picker_profile_admin_msg_from_work">Доступ к персональным данным из рабочего приложения запрещен.</string>
+    <string name="picker_profile_admin_title">Заблокировано администратором</string>
+    <string name="picker_profile_work_paused_msg">Чтобы открыть рабочие фотографии, включите рабочие приложения и повторите попытку.</string>
+    <string name="picker_profile_work_paused_title">Рабочие приложения приостановлены</string>
+    <string name="picker_unmute_video">Включить звук видео</string>
+    <string name="picker_video_item_content_desc">Время съемки: %1$s. Длительность: %2$s.</string>
+    <string name="picker_view_selected">Смотреть выбранное</string>
+    <string name="picker_work_profile">Перейти в рабочий профиль</string>
+    <string name="recent">Недавние</string>
     <string name="ringtone_default">Рингтон по умолчанию</string>
     <string name="root_audio">Аудио</string>
     <string name="root_documents">Документы</string>
@@ -166,6 +232,7 @@
     <string name="root_videos">Видео</string>
     <string name="search_menu_title">Поиск</string>
     <string name="select">Выбор</string>
+    <string name="select_up_to">{count,plural, =1{Выберите не более ^1 объекта.}one{Выберите не более ^1 объекта.}few{Выберите не более ^1 объектов.}many{Выберите не более ^1 объектов.}other{Выберите не более ^1 объекта.}}</string>
     <string name="selected">Выбрано</string>
     <string name="sound_name_awaken">Пробуждение</string>
     <string name="sound_name_bounce">Прыжок</string>
