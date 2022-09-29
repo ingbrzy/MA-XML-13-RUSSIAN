@@ -30,6 +30,33 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="about_pure_mode">О безопасном режиме</string>
     <string name="about_safe_mode">Подробнее о безопасном режиме</string>
+    <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
+    <string name="account_crop_user_avatar">Обрезать фото</string>
+    <string name="account_empty_user_name">Введите имя пользователя Mi Аккаунта</string>
+    <string name="account_error_all_space_user_name">Имя не может состоять из одних пробелов</string>
+    <string name="account_error_invalid_user_name">В имени не может быть символов &lt;, &gt;, /</string>
+    <string name="account_error_longer_user_name">Имя не может содержать более 20 символов</string>
+    <string name="account_error_shorter_user_name">Имя должно содержать не менее 2 символов</string>
+    <string name="account_error_user_birthday">Неверная дата рождения</string>
+    <string name="account_error_user_name">Неверное имя пользователя</string>
+    <string name="account_invalid_user_avatar">Недопустимое фото. Выберите другое.</string>
+    <string name="account_limit_update_birthday">Нельзя изменить дату рождения</string>
+    <string name="account_no_set">Нет</string>
+    <string name="account_none_bind_info">Нет</string>
+    <string name="account_none_user_name">Нет</string>
+    <string name="account_secure_info_pref_title">Основная информация</string>
+    <string name="account_security_info_pref_title">Данные безопасности</string>
+    <string name="account_user_avatar">Фото профиля</string>
+    <string name="account_user_avatar_from_album">Выбрать фото</string>
+    <string name="account_user_avatar_from_camera">Сделать фото</string>
+    <string name="account_user_base_info">Личная информация</string>
+    <string name="account_user_details">Личная информация</string>
+    <string name="account_user_email">Электронная почта</string>
+    <string name="account_user_gender">Пол</string>
+    <string name="account_user_id">ID Mi Аккаунта</string>
+    <string name="account_user_name">Имя пользователя</string>
+    <string name="account_user_name_dialog_title">Введите имя пользователя</string>
+    <string name="account_user_phone">Телефон</string>
     <string name="action_bar_report_link_des">Оповещение приложения</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="ad_permissions">&lt;u>Разрешения&lt;u/></string>
@@ -37,6 +64,7 @@
     <string name="adb_install_no_network">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="adb_install_open">Открытие…</string>
     <string name="adb_install_open_error">Не удалось открыть. Проверьте настройки сети и повторите попытку.</string>
+    <string name="add_to_trust_device">Это доверенное устройство</string>
     <string name="additional_permissions">Дополнительные разрешения</string>
     <string name="ads">Реклама</string>
     <string name="ads_install_button">Установить</string>
@@ -90,6 +118,7 @@
     <string name="application_detail_tips">Сведения о приложении и разрешения</string>
     <string name="authorize_to_install">Разрешить</string>
     <string name="auto_startup_dialog_msg">Это приложение может запускаться без вашего разрешения.</string>
+    <string name="back">Назад</string>
     <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="btn_text_full_scan">Полное сканирование</string>
     <string name="btn_text_install_new_version">Последняя версия</string>
@@ -113,6 +142,7 @@
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="close_safe_mode">Отключить</string>
+    <string name="collect_diagnosis_log">Сбор журнала диагностики</string>
     <string name="comment_count_wan">Отзывы: %1$s</string>
     <string name="confirm_install">Установить</string>
     <string name="copy">Копировать</string>
@@ -131,6 +161,10 @@
     <string name="devicePerms">Доступ к устройству</string>
     <string name="device_pad">Планшет</string>
     <string name="device_phone">Устройство</string>
+    <string name="diagnosis_log_send_failed">Не удалось отправить журнал.</string>
+    <string name="diagnosis_log_sent_format">"Журнал успешно отправлен.
+ID: %s
+Отправьте этот код руководителю."</string>
     <string name="dialog_install_confirm_default">Установить</string>
     <string name="dialog_install_source">Источник: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Понятно</string>
@@ -195,6 +229,7 @@
     <string name="fmt_time_minute_second_millis">"m'мин' s.S'с'"</string>
     <string name="fmt_time_second">"s'с'"</string>
     <string name="fmt_time_second_millis">"s.S'с'"</string>
+    <string name="for_diagnosis_usage_only">Использовать только для диагностики.</string>
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
@@ -208,8 +243,10 @@
     <string name="grant_dialog_button_allow">Разрешить</string>
     <string name="grant_dialog_button_deny">Отклонить</string>
     <string name="grant_dialog_button_deny_anyway">Все равно отклонить</string>
+    <string name="header_help">Помощь</string>
     <string name="help_app_permissions" />
     <string name="high_risk_perms">Небезопасные разрешения</string>
+    <string name="i_know">Понятно</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="ignore_virus_install_text">Я осознаю все возможные риски. %1$s</string>
     <string name="ignore_virus_install_text_clickable">Установить</string>
@@ -291,8 +328,13 @@
     <string name="lockscreen_access_pattern_cell_added">Добавлена ячейка</string>
     <string name="lockscreen_access_pattern_cleared">Графический ключ очищен</string>
     <string name="lockscreen_access_pattern_start">Ввод графического ключа</string>
+    <string name="login_by_local_phone_long_text">Войдите в аккаунт</string>
+    <string name="login_by_local_phone_short_text">Вход</string>
+    <string name="login_other">Другой Mi Аккаунт</string>
+    <string name="login_register_by_local_phone_long_text">Создать аккаунт</string>
     <string name="login_to_install">Авторизуйтесь для установки</string>
     <string name="login_to_install_des">Войдите в Mi аккаунт, чтобы продолжить установку. Настройки установки можно изменить в Настройки > Небезопасные приложения</string>
+    <string name="login_with_sns">Другие варианты входа</string>
     <string name="login_xiaomi_account">Вход</string>
     <string name="low_risk_perms">Потенциально безопасные приложения</string>
     <string name="manage_applications">Управление приложениями</string>
@@ -327,6 +369,7 @@
     <string name="mimarket_install_more">Найти больше приложений в GetApps</string>
     <string name="mimarket_install_tips">Загрузите и установите Mi App Store, чтобы получить больше возможностей</string>
     <string name="mimarket_intercept_warning_msg">Приложение не было проверено на вирусы. Рекомендуется установка из Mi App Store, чтобы избежать угроз безопасности.</string>
+    <string name="mishop_login_other">Другой аккаунт</string>
     <string name="miui_app_danger">Приложение небезопасно, установка не рекомендуется</string>
     <string name="miui_app_detail">Подробности</string>
     <string name="miui_app_permission_detail">Требуемые разрешения</string>
@@ -513,6 +556,8 @@
     <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="net_work_error_msg">Не удалось подключиться к сети для запуска проверки безопасности</string>
     <string name="net_work_error_retry">Повтор</string>
+    <string name="network_error_info">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="network_timeout_info">Не удалось подключиться к сети. Повторите попытку.</string>
     <string name="never_ask_again">Больше не спрашивать</string>
     <string name="newPerms">Новые</string>
     <string name="new_permissions_category">Новые разрешения</string>
@@ -534,12 +579,103 @@
     <string name="open_app_install_safe_des">Проверять приложения перед установкой на наличие возможных рисков и проблем с безопасностью</string>
     <string name="open_now">Включить</string>
     <string name="open_pure_mode_sucess_toast">Безопасный режим включен. Изменения будут применены при следующей установке.</string>
+    <string name="open_settings">Настройки</string>
     <string name="open_to_pure_mode">Включить</string>
     <string name="other_permissions">Другие функции приложения</string>
     <string name="other_relative">Другое</string>
     <string name="out_of_space_dlg_text">Не удалось установить %1$s. Освободите место и повторите попытку.</string>
     <string name="out_of_space_dlg_title">Недостаточно места</string>
     <string name="passed_security_test">Тесты безопасности Xiaomi пройдены</string>
+    <string name="passport_access_denied">Доступ запрещен</string>
+    <string name="passport_account_name">"Аккаунт: %1$s "</string>
+    <string name="passport_area_code_title">Код страны</string>
+    <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
+    <string name="passport_checking_account">Проверка пароля…</string>
+    <string name="passport_copy_link">Копировать URL</string>
+    <string name="passport_copy_to_clipboard_successful">Скопировано</string>
+    <string name="passport_dialog_captcha_title">Код</string>
+    <string name="passport_dialog_doing_login">Вход…</string>
+    <string name="passport_dialog_doing_register">Создание аккаунта…</string>
+    <string name="passport_dialog_is_my_account">Да</string>
+    <string name="passport_dialog_is_your_mi_account">Это ваш аккаунт Xiaomi?</string>
+    <string name="passport_dialog_loading">Подождите…</string>
+    <string name="passport_dialog_nick_name_prefix">Псевдоним: %s</string>
+    <string name="passport_dialog_phone_number_prefix">Номер телефона: %s</string>
+    <string name="passport_dialog_register_other">Нет, создать новый</string>
+    <string name="passport_email">Email</string>
+    <string name="passport_empty_password">Пароль не может быть пустым</string>
+    <string name="passport_error_auth_fail">Сессия устарела, войдите повторно</string>
+    <string name="passport_error_device_id">Не удалось получить ID устройства</string>
+    <string name="passport_error_dynamic_token_error">Неверный проверочный код</string>
+    <string name="passport_error_email">Неверный адрес электронной почты</string>
+    <string name="passport_error_empty_email">Введите адрес Email</string>
+    <string name="passport_error_empty_password">Введите пароль</string>
+    <string name="passport_error_empty_pwd">Пароль не может быть пустым</string>
+    <string name="passport_error_empty_user_id">Введите имя пользователя</string>
+    <string name="passport_error_length_limit">Текст слишком длинный</string>
+    <string name="passport_error_network">Не удалось подключиться к сети</string>
+    <string name="passport_error_no_password_user">Вы ещё не задали пароль. Войдите с помощью SMS.</string>
+    <string name="passport_error_phone">Неверный номер телефона</string>
+    <string name="passport_error_server">Ошибка сервера</string>
+    <string name="passport_error_sms_limit">На этот номер было отправлено слишком много проверочных кодов. Повторите позже.</string>
+    <string name="passport_error_ticket_invalid">Неверный код</string>
+    <string name="passport_error_timeout_network_error">Таймаут запроса</string>
+    <string name="passport_error_token_expired">Срок действия кода истек. Пробуйте снова.</string>
+    <string name="passport_error_unknow_error">Ошибка</string>
+    <string name="passport_error_unknow_host_network_error">Не удалось подключиться к сети</string>
+    <string name="passport_error_unknow_network_error">Ошибка сети</string>
+    <string name="passport_error_unknown">Ошибка авторизации</string>
+    <string name="passport_error_user_agreement">Примите Пользовательское соглашение</string>
+    <string name="passport_error_user_name">Неверное имя пользователя</string>
+    <string name="passport_error_user_password">Пароли не совпадают</string>
+    <string name="passport_get_login_type_next">Далее</string>
+    <string name="passport_header_back">Назад</string>
+    <string name="passport_identification_expired">Код устарел, начните сначала</string>
+    <string name="passport_input_captcha_hint">Введите код с картинки</string>
+    <string name="passport_input_password_hint">Введите пароль</string>
+    <string name="passport_input_phone_number_hint">Введите номер телефона</string>
+    <string name="passport_input_verify_code">Введите проверочный код</string>
+    <string name="passport_input_voice_captcha_hint">Введите голосовой защитный код</string>
+    <string name="passport_input_voice_hint">Введите голосовой код</string>
+    <string name="passport_mi_account_first_title">Аккаунт будет создан автоматически, если этот номер телефона используется впервые</string>
+    <string name="passport_mi_account_title">Вход с помощью аккаунта Xiaomi</string>
+    <string name="passport_network_error">Ошибка сети</string>
+    <string name="passport_network_error_hint">Проверьте URL-адрес и повторите попытку, или скопируйте его и откройте в браузере</string>
+    <string name="passport_next">Далее</string>
+    <string name="passport_page_load_failed">Не удалось открыть страницу</string>
+    <string name="passport_password_login_btn">Войти</string>
+    <string name="passport_password_not_show">Не показывать пароль</string>
+    <string name="passport_password_req_notice">Пароль должен содержать 8~16 символов, цифры и буквы с учетом регистра.</string>
+    <string name="passport_password_show">Показать пароль</string>
+    <string name="passport_querying_phone_info">Запрос данных аккаунта…</string>
+    <string name="passport_quick_login_title">Введите пароль</string>
+    <string name="passport_reging">Создание аккаунта…</string>
+    <string name="passport_register_restricted">С этим номером связано слишком много аккаунтов, выберите другой</string>
+    <string name="passport_relogin_notice">Необходимо выполнить вход повторно</string>
+    <string name="passport_resend_ticket">Отправить код повторно</string>
+    <string name="passport_retry">Повтор</string>
+    <string name="passport_send_sms_to">Код отправлен на %1$s</string>
+    <string name="passport_send_too_many_code">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
+    <string name="passport_sending_vcode">Отправка кода…</string>
+    <string name="passport_set_password">Задать пароль</string>
+    <string name="passport_set_password_no_phone_msg">Добавьте номер телефона для защиты аккаунта.</string>
+    <string name="passport_talkback_image_captcha">Защитный код с картинки</string>
+    <string name="passport_talkback_switch_image_captcha">Переключиться на защитный код с картинки</string>
+    <string name="passport_talkback_switch_voice_captcha">Переключиться на голосовой защитный код</string>
+    <string name="passport_talkback_voice_captcha">Голосовой защитный код</string>
+    <string name="passport_ticket_send_by_second">Отправить через %d</string>
+    <string name="passport_to_forget_password">Забыли пароль?</string>
+    <string name="passport_to_password_login">Войти с помощью пароля</string>
+    <string name="passport_to_verify_code_login">Войти с помощью SMS</string>
+    <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
+    <string name="passport_user_id_hint">Email/номер телефона/ID аккаунта Xiaomi</string>
+    <string name="passport_user_id_intro">Введите пароль для %1$s</string>
+    <string name="passport_user_password_hint">Пароль</string>
+    <string name="passport_wechat_not_install">Сначала установите WeChat</string>
+    <string name="passport_wrong_captcha">Код введен неверно</string>
+    <string name="passport_wrong_phone_number_format">Неверный формат номера телефона</string>
+    <string name="passport_wrong_vcode">Код введен неверно</string>
+    <string name="passport_wrong_voice">Код введен неверно</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="password_wrong_msg">Не удалось проверить. Повторите попытку.</string>
     <string name="perm_action_accept">Разрешить</string>
@@ -562,7 +698,6 @@
     <string name="permission_group_title_others">Другое</string>
     <string name="permission_group_title_privacy_related">Конфиденциальность</string>
     <string name="permission_group_title_settings_related">Настройки</string>
-    <string name="permission_num">%1$s</string>
     <string name="permission_request_title">Требуется разрешение</string>
     <string name="permission_review_title_template_install">Установите нужные разрешения для %1$s</string>
     <string name="permission_review_title_template_update">Приложение %1$s обновлено. Установите нужные разрешения.</string>
@@ -572,6 +707,7 @@
     <string name="permission_title">%1$s разрешения</string>
     <string name="permission_warning_template">Разрешить %1$s %2$s?</string>
     <string name="permlab_togglePermissions">изменение разрешений</string>
+    <string name="please_agree_protocal">Примите Протокол</string>
     <string name="please_input_phone_password">Введите пароль защиты устройства</string>
     <string name="pref_ads">Рекомендации</string>
     <string name="pref_key_about_privacy_title">Политика конфиденциальности</string>
@@ -583,6 +719,9 @@
     <string name="prepare_install">Подготовка к установке…</string>
     <string name="privacyPerms">Конфиденциальность</string>
     <string name="privacy_relative">Конфиденциальность</string>
+    <string name="progressbar_title">Проверка безопасности…</string>
+    <string name="protocal_dialog_confirm">Принимаю</string>
+    <string name="protocal_dialog_title">Внимание</string>
     <string name="pure_function_introduction">Функции безопасного режима</string>
     <string name="pure_guarding">Включено</string>
     <string name="pure_introduction_des1">Проверка перед установкой приложений из неизвестных источников на безопасность</string>
@@ -606,7 +745,16 @@
     <string name="pure_mode_title">Нейтрализация рисков при установке</string>
     <string name="pure_tip_virus">Найдены вирусы: %1$s</string>
     <string name="reboot_time">Подготовка к перезагрузке… (%1$s)</string>
+    <string name="register_by_local_phone_long_text">Создать аккаунт</string>
+    <string name="register_by_local_phone_short_text">Создать аккаунт</string>
     <string name="replace_app_des_text">Установить эту версию приложения?</string>
+    <string name="request_agree">Разрешить</string>
+    <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с действующими законами и правилами. Этому приложению для нормальной работы требуются следующие разрешения:&lt;br>&lt;br>&lt;b>Доступ к камере (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не предоставите такие разрешения, вы не сможете использовать некоторые функции этого приложения, однако его базовая функциональность будет по-прежнему доступна. Вы всегда можете ограничить разрешения или отозвать свое разрешение в Настройках."</string>
+    <string name="request_cancel">Отмена</string>
+    <string name="request_error_invalid_token">Не удалось проверить</string>
+    <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
+    <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
     <string name="resolve_suggestion_title">Рекомендация</string>
     <string name="review_button_cancel">Отмена</string>
     <string name="review_button_continue">Продолжить</string>
@@ -671,6 +819,7 @@
     <string name="security_mode_on_suggestion_msg">Вкл.</string>
     <string name="security_settings_desc">Разрешить приложению</string>
     <string name="send">Отправить</string>
+    <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="server_error_msg">Не удалось подключиться к сети для запуска проверки безопасности</string>
     <string name="settings">Настройки</string>
     <string name="settings_security_mode_recent_install_app">Установленные: %1$s</string>
@@ -703,6 +852,7 @@
     <string name="size_mega_byte">" МБ"</string>
     <string name="size_peta_byte">" ПБ"</string>
     <string name="size_tera_byte">" ТБ"</string>
+    <string name="skip_query_account">Пропустить</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>
@@ -733,6 +883,7 @@
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
     <string name="sure_ok">Понятно</string>
+    <string name="system_error_info">Система занята. Попробуйте позже.</string>
     <string name="system_warning">Если вы не предоставите это разрешение, некоторые функции устройства могут работать неправильно.</string>
     <string name="the_anniversary_of_lifting_martial_law">Годовщина отмены военного положения</string>
     <string name="the_anti_aggression_day">День борьбы с агрессией</string>
@@ -810,6 +961,7 @@
     <string name="uninstalling">Удаление…</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknown_apps_admin_dlg_text">Установка приложений из неизвестных источников заблокирована администратором.</string>
+    <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="unknown_installer">Версия PC tools не идентифицирована</string>
     <string name="unknown_source_allow">Разрешить</string>
     <string name="unknown_source_forbidden">Запретить</string>
@@ -820,8 +972,21 @@
     <string name="untrusted_external_source_warning_summary_tablet">Устройство и личные данные могут быть уязвимы для атак приложений, установленных из неизвестных источников. Разрешая установку приложения из этого источника, вы принимаете на себя ответственность за любой ущерб или потерю данных, которые возможны при его использовании.</string>
     <string name="update_start">Обновить</string>
     <string name="uri_no_permission">Не удается прочитать файл, разрешение отсутствует</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a>, &lt;a href=\"%3$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%4$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%5$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Прочтите и примите &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности.&lt;/a> При первом входе в систему будет автоматически создан аккаунт Xiaomi."</Data></string>
+    <string name="user_agreement_hint_first_login">Аккаунт будет создан автоматически, если этот номер телефона используется впервые</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\">Правила и условия сервиса верификации аккаунта eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Я принимаю &lt;a href=\"%1$s\">Пользовательское соглашение&lt;/a> и &lt;a href=\"%2$s\">Политику конфиденциальности&lt;/a> Mi Аккаунта, а также &lt;a href=\"%3$s\"Правила и условия сервиса верификации China Unicom&lt;/a>."</Data></string>
+    <string name="user_avatar_uploading">Подождите…</string>
     <string name="user_is_not_allowed_dlg_text">У текущего пользователя отсутствует разрешение на удаление</string>
     <string name="user_is_not_allowed_dlg_title">Разрешение отсутствует</string>
+    <string name="user_name_phone_number">Номер телефона</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
     <string name="verify_account_close_title">Отключить</string>

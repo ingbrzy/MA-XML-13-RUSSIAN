@@ -1504,6 +1504,10 @@
     <string name="cold_dews_tradition">寒露</string>
     <string name="colon">:</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
+    <string name="color_effect_entry_l_natrural">LEICA NAT</string>
+    <string name="color_effect_entry_l_vivid">LEICA VIV</string>
+    <string name="color_effect_entry_monochrom">LEICA BW NAT</string>
+    <string name="color_effect_entry_monochrom_high_contrast">LEICA BW HC</string>
     <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
     <string name="com.miapm.build_id">5cb5b53b22b0419b81dfdaf74e5bc280</string>
     <string name="command_139_mail_open_pop3_imap">KQ</string>
@@ -2108,6 +2112,9 @@
     <string name="current_page_template">%1$d/%2$d</string>
     <string name="current_service_key">service</string>
     <string name="custom_theme">name,id</string>
+    <string name="cv_device_watermark_font">fonts/LG1055-Light.ttf</string>
+    <string name="cv_device_watermark_suffix">LEICA</string>
+    <string name="cv_display_title">cv_display_title</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
@@ -3329,12 +3336,14 @@
     <string name="mobile_data_text_format">%1$s — %2$s</string>
     <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
     <string name="mobile_network_settings_package">com.android.phone</string>
+    <string name="mode_xxxmp_path"></string>
     <string name="module_assets">assets</string>
     <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes &amp; reboots\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Heating\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobile networks\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Other errors\",\"categoryId\":10,\"order\":2}]</string>
     <string name="module_feature_assets">assets</string>
     <string name="module_feature_java">java</string>
     <string name="module_feature_native">native</string>
     <string name="module_java">java</string>
+    <string name="module_name_cinemaster">CINEMASTER</string>
     <string name="module_native">native</string>
     <string name="monitor_app_name">zeus-monitor-crash</string>
     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
@@ -3597,6 +3606,12 @@
     <string name="percentage">%1$s%2$s</string>
     <string name="percentage">%d%%</string>
     <string name="perm_payment_lab">Mi Pay</string>
+    <string name="permission_camera">android.permission-group.CAMERA@1</string>
+    <string name="permission_contacts">android.permission-group.CONTACTS@1</string>
+    <string name="permission_location">android.permission-group.LOCATION@1</string>
+    <string name="permission_microphone">android.permission-group.MICROPHONE@0</string>
+    <string name="permission_phone_state">android.permission-group.PHONE@0</string>
+    <string name="permission_storage">android.permission-group.STORAGE@0</string>
     <string name="permission_storage_desc_2">@string/permission_storage_desc</string>
     <string name="person_description">我的</string>
     <string name="person_have_hongbao"> </string>
@@ -3613,6 +3628,7 @@
     <string name="photo_view_count">%1$d/%2$d</string>
     <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
     <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
+    <string name="picker_category_videos">@string/root_videos</string>
     <string name="picture_preview_image_num">%1$d/%2$d</string>
     <string name="pie_chart_label_format">%1$s %2$s%%</string>
     <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
@@ -3720,6 +3736,7 @@
     <string name="pref_camera_jpegquality_value_high">high</string>
     <string name="pref_camera_jpegquality_value_low">low</string>
     <string name="pref_camera_jpegquality_value_normal">normal</string>
+    <string name="pref_camera_jpegquality_value_super">super</string>
     <string name="pref_camera_long_press_shutter_feature_default">record</string>
     <string name="pref_camera_long_press_viewfinder_default">@string/pref_camera_long_press_viewfinder_google_lens</string>
     <string name="pref_camera_movie_solid_default">true</string>
@@ -4927,6 +4944,8 @@
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
+    <string name="ultra_pixel_photography_xxxmp_path"></string>
+    <string name="ultra_pixel_photography_xxxmp_shadow_path"></string>
     <string name="united_nations_day">联合国日</string>
     <string name="united_nations_day_tradition">聯合國日</string>
     <string name="unread_convo_overflow">%1$d+</string>

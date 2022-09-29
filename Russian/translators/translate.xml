@@ -154,6 +154,7 @@
     <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения и просматривать системные журналы</string>
     <string name="adbwifi_warning_title">Разрешить беспроводную отладку?</string>
     <string name="add_guest_failed">Не удалось создать нового гостя</string>
+    <string name="add_to_trust_device">Это доверенное устройство</string>
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="afternoon">После полудня</string>
     <string name="alarms_and_reminders_footer_title">"Разрешите приложению устанавливать будильники и планировать действия по времени. Это позволит приложению работать в фоновом режиме, но может увеличить расход батареи.
@@ -164,6 +165,8 @@
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
+    <string name="allow_turn_screen_on">Разрешить включение экрана</string>
+    <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="auto_connect_disable">Без автоподключения</string>
@@ -430,6 +433,7 @@ ID: %s
     <string name="disabled">Отключено</string>
     <string name="disabled_by_admin">Отключено администратором</string>
     <string name="disabled_by_admin_summary_text">Управляется администратором</string>
+    <string name="disabled_by_app_ops_text">Контролируется ограниченной настройкой</string>
     <string name="disconnect">Отключить</string>
     <string name="done">Готово</string>
     <string name="dream_complication_title_aqi">Качество воздуха</string>
@@ -520,6 +524,10 @@ ID: %s
     <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Запрещено</string>
+    <string name="failed_attempts_now_wiping_device">Слишком много неверных попыток. Данные на этом устройстве будут удалены.</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Закрыть</string>
+    <string name="failed_attempts_now_wiping_profile">Слишком много неверных попыток. Рабочий профиль и его данные будут удалены.</string>
+    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удален.</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки для %1$s</string>
     <string name="fiveg_sa_switch_summary">Использовать сеть SA на дополнительной SIM-карте (только для тестирования)</string>
     <string name="fiveg_sa_vice_switch_title">SA на дополнительной SIM-карте</string>
@@ -554,6 +562,8 @@ ID: %s
     <string name="guest_new_guest">Войти в гостевой аккаунт</string>
     <string name="guest_nickname">Гость</string>
     <string name="guest_notification_text">Для удаления приложений и данных, удалите гостевой аккаунт</string>
+    <string name="guest_remove_guest_confirm_button">Удалить</string>
+    <string name="guest_remove_guest_dialog_title">Удалить гостя?</string>
     <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
     <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
@@ -1159,6 +1169,9 @@ mm"</string>
     <string name="storage_category">Память</string>
     <string name="strict_mode">Строгий режим</string>
     <string name="strict_mode_summary">Мигать экраном во время длительных операций в основном потоке</string>
+    <string name="sud_back_button_label">Назад</string>
+    <string name="sud_more_button_label">Ещё</string>
+    <string name="sud_next_button_label">Далее</string>
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
