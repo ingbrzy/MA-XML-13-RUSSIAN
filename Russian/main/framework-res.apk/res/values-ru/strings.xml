@@ -716,6 +716,7 @@
     <string name="fingerprint_error_lockout_permanent">Слишком много попыток. Сканер отпечатков отключён.</string>
     <string name="fingerprint_error_no_fingerprints">Отпечатки пальцев отсутствуют</string>
     <string name="fingerprint_error_no_space">Чтобы сохранить новый отпечаток, удалите существующий</string>
+    <string name="fingerprint_error_not_match">Отпечаток не распознан</string>
     <string name="fingerprint_error_security_update_required">Сканер временно отключён.</string>
     <string name="fingerprint_error_timeout">Превышено время ожидания. Повторите попытку.</string>
     <string name="fingerprint_error_unable_to_process">Повторите попытку.</string>

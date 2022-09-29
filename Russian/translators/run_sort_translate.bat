@@ -4,7 +4,7 @@ SET _run=D:\Android\XMLCompare\
 SET _dst=D:\Android\Github\MA-XML-13-RUSSIAN\Russian\translators\
 
 del %_dst%result.xml
-%_run%XMLCompare /s %_dst%empty.xml /d %_dst%translate.xml /n 4
+%_run%XMLCompare /xliff /s %_dst%empty.xml /d %_dst%translate.xml /n 4
 
 IF EXIST %_dst%result.xml (
   del %_dst%translate.xml
@@ -14,7 +14,7 @@ IF EXIST %_dst%result.xml (
 )
 
 del %_dst%result.xml
-%_run%XMLCompare /fp /s %_dst%empty.xml /d %_dst%translate_p.xml /n 4
+%_run%XMLCompare /xliff /fp /s %_dst%empty.xml /d %_dst%translate_p.xml /n 4
 
 IF EXIST %_dst%result.xml (
   del %_dst%translate_p.xml
@@ -24,7 +24,7 @@ IF EXIST %_dst%result.xml (
 )
 
 del %_dst%result.xml
-%_run%XMLCompare /fa /s %_dst%empty.xml /d %_dst%translate_a.xml /n 4
+%_run%XMLCompare /xliff /fa /s %_dst%empty.xml /d %_dst%translate_a.xml /n 4
 
 IF EXIST %_dst%result.xml (
   del %_dst%translate_a.xml
