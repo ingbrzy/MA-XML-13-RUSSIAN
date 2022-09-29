@@ -688,7 +688,7 @@
     <string name="select_mi_summary">Xiaomi и Redmi</string>
     <string name="select_mi_title">Xiaomi</string>
     <string name="select_old_device_title">Старые модели устройств</string>
-    <string name="selected">Выбранные</string>
+    <string name="selected">Выбрано</string>
     <string name="send">Отправить</string>
     <string name="send_sms_for_sync_notice">Для активации данной услуги может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="send_sms_for_sync_title">Предупреждение</string>

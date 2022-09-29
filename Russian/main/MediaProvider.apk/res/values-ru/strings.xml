@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="add">Добавить</string>
     <string name="add_alarm_text">Добавить будильник</string>
     <string name="add_notification_text">Добавить уведомление</string>
     <string name="add_ringtone_text">Добавить рингтон</string>
@@ -44,6 +45,7 @@
     <string name="grant_dialog_button_deny">Отклонить</string>
     <string name="id_photo">ID ФОТО</string>
     <string name="my_favorite">Избранное</string>
+    <string name="not_selected">Не выбрано</string>
     <string name="notification_sound_default">Звук уведомления по умолчанию</string>
     <string name="permission_audio">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этой музыки?</string>
     <string name="permission_images">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этого изображения?</string>
@@ -56,6 +58,7 @@
     <string name="root_images">Изображения</string>
     <string name="root_videos">Видео</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="selected">Выбрано</string>
     <string name="sound_name_awaken">Пробуждение</string>
     <string name="sound_name_bounce">Прыжок</string>
     <string name="sound_name_drip">Капля</string>

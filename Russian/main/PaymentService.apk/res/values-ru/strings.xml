@@ -70,6 +70,7 @@
     <string name="app_name">Mi Coin</string>
     <string name="auth_fail_warning">Сессия истекла. Войдите снова.</string>
     <string name="bind_sign_in_title">Добавить Xiaomi аккаунт</string>
+    <string name="cancel">Отмена</string>
     <string name="change_activate_email">Изменить адрес электронной почты</string>
     <string name="change_password">Изменить пароль</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>

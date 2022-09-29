@@ -340,6 +340,7 @@
     <string name="disabled_by_admin">Отключено администратором</string>
     <string name="disabled_by_admin_summary_text">Управляется администратором</string>
     <string name="disconnect">Отключить</string>
+    <string name="done">Готово</string>
     <string name="dont_show_again">Больше не показывать</string>
     <string name="eight_hours">8 часов</string>
     <string name="eight_thousand_kb">8192 КБ</string>
@@ -405,6 +406,8 @@
     <string name="item_view_role_description">Вкладка</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
+    <string name="keyboard_layout_default_label">По умолчанию</string>
+    <string name="keyboard_layout_dialog_title">Выбор раскладки клавиатуры</string>
     <string name="keywords">systrace, trace, производительность</string>
     <string name="keywords_alarms_and_reminders">расписание, будильник, напоминание, часы</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
@@ -552,6 +555,7 @@
     <string name="osu_sign_up_failed">Не удалось завершить регистрацию. Нажмите для повтора.</string>
     <string name="overlay_display_devices_title">Эмуляция вторичных экранов</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="physical_keyboard_title">Физическая клавиатура</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pointer_location">Местоположение указателя</string>

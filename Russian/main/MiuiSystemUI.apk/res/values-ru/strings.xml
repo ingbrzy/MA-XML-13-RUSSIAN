@@ -417,6 +417,7 @@
     <string name="adb_wireless_verifying_qrcode_text">Сопряжение…</string>
     <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения и просматривать системные журналы</string>
     <string name="adbwifi_warning_title">Разрешить беспроводную отладку?</string>
+    <string name="add">Добавить</string>
     <string name="add_tile">Добавить кнопку</string>
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="adjust_button_width">Выбор ширины кнопки</string>
@@ -430,6 +431,7 @@
     <string name="alarms_and_reminders_label">Будильники и напоминания</string>
     <string name="alarms_and_reminders_switch_title">Разрешить установку будильников и напоминаний</string>
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
+    <string name="all_network_unavailable">Нет доступных сетей</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="always_use_accessory">Использовать по умолчанию для этого USB аксессуара</string>
@@ -971,6 +973,7 @@
     <string name="dock_forced_resizable">Приложение не поддерживает разделение экрана</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Разделение экрана не работает при блокировке</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Приложение не поддерживает разделение экрана</string>
+    <string name="done">Готово</string>
     <string name="download_lock_wallpaper">Нажмите дважды для загрузки Карусели обоев</string>
     <string name="doze_brightness_sensor_type" />
     <string name="doze_pickup_subtype_performs_proximity_check" />
@@ -1406,6 +1409,8 @@
     <string name="keyboard_key_page_up">Page Up</string>
     <string name="keyboard_key_space">Пробел</string>
     <string name="keyboard_key_tab">Tab</string>
+    <string name="keyboard_layout_default_label">По умолчанию</string>
+    <string name="keyboard_layout_dialog_title">Выбор раскладки клавиатуры</string>
     <string name="keyboard_shortcut_group_applications">Приложения</string>
     <string name="keyboard_shortcut_group_applications_assist">Помощник</string>
     <string name="keyboard_shortcut_group_applications_browser">Браузер</string>
@@ -1821,9 +1826,13 @@ mm"</string>
     <string name="mobile_data">Мобильный интернет</string>
     <string name="mobile_data_always_on">Не отключать мобильный интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
+    <string name="mobile_data_connection_active">Подключено</string>
     <string name="mobile_data_disable_message">Интернет через %s будет недоступен, только через Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">ваш оператор</string>
     <string name="mobile_data_disable_title">Отключить мобильный интернет?</string>
+    <string name="mobile_data_no_connection">Нет подключения</string>
+    <string name="mobile_data_off_summary">Без автоподключения к мобильному интернету</string>
+    <string name="mobile_data_settings_title">Мобильный интернет</string>
     <string name="mock_location_app">Приложение для фиктивных местоположений</string>
     <string name="mock_location_app_not_set">Приложение не выбрано</string>
     <string name="mock_location_app_set">Приложение: %1$s</string>
@@ -2023,6 +2032,7 @@ mm"</string>
     <string name="no_shortcut">%1$s не поддерживает функции диалогов</string>
     <string name="no_tiles_add">Нет плитки для добавления</string>
     <string name="no_weather_description">Получить информацию о погоде &gt;</string>
+    <string name="non_carrier_network_unavailable">Нет других доступных сетей</string>
     <string name="noon">Полдень</string>
     <string name="not_default_data_content_description">Не настроено для использования данных</string>
     <string name="not_set">Не задано</string>
@@ -2210,6 +2220,7 @@ mm"</string>
     <string name="phone_locked_string">Устройство заблокировано</string>
     <string name="phone_locked_string_owner_user">Слишком много неудачных попыток ввода пароля первого простанства. Устройство заблокировано.</string>
     <string name="phone_locked_string_second_user">Слишком много неудачных попыток ввода пароля второго простанства. Устройство заблокировано.</string>
+    <string name="physical_keyboard_title">Физическая клавиатура</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
     <string name="pip_close">Закрыть режим \"Картинка в картинке\"</string>
@@ -2939,6 +2950,7 @@ d MMMM"</string>
     <string name="switch_system_user">Вернуться к Первому пространству</string>
     <string name="system_ui_aod_date_pattern">eeedMMM</string>
     <string name="system_ui_tuner">Настройка системного UI</string>
+    <string name="tap_a_network_to_connect">Выберите сеть, чтобы подключиться</string>
     <string name="tap_again">Нажмите ещё раз</string>
     <string name="tap_to_renew_subscription_and_connect">Нажмите для продления подписки и подключения</string>
     <string name="tap_to_sign_up">Нажмите для регистрации</string>
@@ -3018,6 +3030,7 @@ d MMMM"</string>
     <string name="tip_close_flares">Уведомления о действиях приложения в текущем сеансе отключены</string>
     <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
     <string name="title_usb_accessory">USB-устройство</string>
+    <string name="to_switch_networks_disconnect_ethernet">Чтобы переключиться между сетями, отключите кабель Ethernet</string>
     <string name="toast_for_first_use_three_gesture">Проведите горизонтально четырьмя пальцами для переключения между приложениями</string>
     <string name="today">Сегодня</string>
     <string name="tomorrow">Завтра</string>
@@ -3092,6 +3105,7 @@ d MMMM"</string>
     <string name="tuner_toast">Функция System UI Tuner добавлена в меню настроек</string>
     <string name="tuner_warning">System UI Tuner позволяет настраивать интерфейс устройства Android по вашему вкусу. В будущем эти экспериментальные функции могут измениться, перестать работать или исчезнуть. Будьте осторожны.</string>
     <string name="tuner_warning_title">Внимание!</string>
+    <string name="turn_on_wifi">Включить Wi‑Fi</string>
     <string name="tv_notification_panel_no_notifications">Нет уведомлений</string>
     <string name="tv_notification_panel_title">Уведомления</string>
     <string name="two_weeks_timestamp">2 недели назад</string>
@@ -3329,9 +3343,11 @@ d MMMM"</string>
     <string name="wifi_disconnected">Не подключено</string>
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводного дисплея</string>
+    <string name="wifi_empty_list_wifi_on">Поиск сетей…</string>
     <string name="wifi_enhanced_mac_randomization">Непостоянная рандомизация MAC-адреса Wi-Fi</string>
     <string name="wifi_enhanced_mac_randomization_summary">Когда этот режим включён, MAC-адрес устройства будет меняться при каждом подключении к сети, в которой доступна рандомизация MAC-адреса.</string>
     <string name="wifi_fail_to_scan">Не удалось выполнить поиск сетей</string>
+    <string name="wifi_failed_connect_message">Не удалось подключиться к сети.</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI сертификат</string>
     <string name="wifi_hotspot_switch_off_text">Откл.</string>
     <string name="wifi_hotspot_switch_on_text">Вкл.</string>
