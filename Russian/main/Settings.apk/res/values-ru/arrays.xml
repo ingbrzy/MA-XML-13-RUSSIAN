@@ -305,6 +305,7 @@
         <item>Добавленные более 60 дней назад</item>
         <item>Добавленные более 90 дней назад</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_indicator_style_entries">
         <item>Графический</item>
         <item>Процентный (внутри)</item>
@@ -451,6 +452,11 @@
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Без шифрования (нет защиты)</item>
+        <item>4-значный PIN-код (низкая степень защиты)</item>
+        <item>16-значный PIN-код (высокая степень защиты)</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (по умолчанию)</item>
@@ -1144,6 +1150,10 @@
         <item>Медленная скорость из-за слабого сигнала</item>
         <item>Перемещение…</item>
     </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Всегда</item>
+        <item>Если не открыто другое платежное приложение</item>
+    </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Графический</item>
         <item>Процентный (внутри)</item>
@@ -1421,10 +1431,21 @@
         <item>По умолчанию</item>
         <item>Компактный</item>
     </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Никогда</item>
+        <item>Через 1 минуту</item>
+        <item>Через 5 минут</item>
+    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Четкость</item>
         <item>Наглядность</item>
         <item>Акцент</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Зарядка</item>
+        <item>Спящий режим</item>
+        <item>Режим экономии заряда</item>
+        <item>Состояние процесса</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12-часовой</item>

@@ -175,6 +175,7 @@
     <string-array name="bluetooth_a2dp_codec_sample_rate_values"></string-array>
     <string-array name="bluetooth_a2dp_codec_values"></string-array>
     <string-array name="bluetooth_avrcp_version_values"></string-array>
+    <string-array name="bluetooth_broadcast_pin_config_values"></string-array>
     <string-array name="bluetooth_map_version_values"></string-array>
     <string-array name="bluetooth_max_connected_audio_devices_values"></string-array>
     <integer-array name="body_water_line_chart_default_y"></integer-array>
@@ -373,6 +374,7 @@
     <string-array name="config_disableAutoGroupSummaryPackages"></string-array>
     <array name="config_disabledDreamComponents" />
     <string-array name="config_disabledUntilUsedPreinstalledImes"></string-array>
+    <array name="config_disallowed_app_localeChange_packages" />
     <array name="config_displayCompositionColorModes" />
     <array name="config_displayCompositionColorSpaces" />
     <string-array name="config_displayCutoutApproximationRectArray"></string-array>
@@ -519,10 +521,13 @@
     <array name="config_screenBrightnessNits" />
     <integer-array name="config_screenDarkeningThresholds"></integer-array>
     <array name="config_screenThresholdLevels" />
+    <string-array name="config_screen_resolution_options_strings"></string-array>
+    <string-array name="config_screen_resolution_summaries_strings"></string-array>
     <integer-array name="config_scrollBarrierVibePattern"></integer-array>
     <array name="config_secondaryBuiltInDisplayWaterfallCutout"></array>
     <array name="config_serialPorts" />
     <string-array name="config_serviceStateLocationAllowedPackages"></string-array>
+    <array name="config_settableAutoRotationDeviceStatesDescriptions" />
     <array name="config_settings_slices_accessibility_components" />
     <array name="config_sfps_sensor_props" />
     <array name="config_sharedLibrariesLoadedAfterApp" />
@@ -609,6 +614,7 @@
     <array name="dark_thunder"></array>
     <string-array name="dark_ui_mode_values"></string-array>
     <string-array name="dark_ui_scheduler_preference_titles"></string-array>
+    <string-array name="dark_ui_scheduler_with_bedtime_preference_titles"></string-array>
     <string-array name="data_network_type_name_default"></string-array>
     <array name="data_type_name_cus_reg_key" />
     <array name="data_type_name_cus_reg_value" />
@@ -828,6 +834,8 @@
     <string-array name="hour_24_items"></string-array>
     <string-array name="icon_size"></string-array>
     <string-array name="important_section_whitelist"></string-array>
+    <string-array name="ingress_rate_limit_entries"></string-array>
+    <string-array name="ingress_rate_limit_values"></string-array>
     <string-array name="input_method_function_des"></string-array>
     <array name="input_method_function_icons"></array>
     <array name="input_method_function_icons_black"></array>
@@ -1004,6 +1012,7 @@
     <string-array name="networks_not_clear_data"></string-array>
     <string-array name="new_dndm_vip_list_group_array"></string-array>
     <string-array name="nfc_entrance_card_name_list"></string-array>
+    <string-array name="nfc_payment_favor_values"></string-array>
     <string-array name="nfc_se_route_values"></string-array>
     <string-array name="no_ems_support_sim_operators"></string-array>
     <string-array name="non_preemption_list"></string-array>
@@ -1318,6 +1327,7 @@
     <string-array name="silent_entries"></string-array>
     <string-array name="silent_mode_duration_value"></string-array>
     <string-array name="silent_values"></string-array>
+    <array name="sim_color_light"></array>
     <array name="sim_colors"></array>
     <string-array name="simulate_color_space_entries"></string-array>
     <string-array name="simulate_color_space_values"></string-array>
@@ -1427,6 +1437,7 @@
     <string-array name="swipe_direction_values"></string-array>
     <string-array name="switch_sdk_value"></string-array>
     <string-array name="switch_sound_effect"></string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_values"></string-array>
     <string-array name="system_alert_window_notification_whitelist"></string-array>
     <string-array name="system_cta_runtime_perm"></string-array>
     <string-array name="system_cta_runtime_perm_desc"></string-array>
@@ -1444,6 +1455,12 @@
     <string-array name="t9_indexing_method_entry_values"></string-array>
     <integer-array name="table_default"></integer-array>
     <string-array name="table_titles"></string-array>
+    <string-array name="tare_alarm_manager_actions"></string-array>
+    <string-array name="tare_app_balance_subfactors"></string-array>
+    <string-array name="tare_consumption_limit_subfactors"></string-array>
+    <string-array name="tare_job_scheduler_actions"></string-array>
+    <string-array name="tare_policies"></string-array>
+    <string-array name="tare_rewards_subfactors"></string-array>
     <string-array name="target_activity"></string-array>
     <string-array name="temperature_setting_unit_values"></string-array>
     <string-array name="temperature_unit_settings_labels"></string-array>

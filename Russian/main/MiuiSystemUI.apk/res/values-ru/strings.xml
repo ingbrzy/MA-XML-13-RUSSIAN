@@ -3359,6 +3359,7 @@ d MMMM"</string>
     <string name="wifi_not_in_range">Недоступно</string>
     <string name="wifi_passpoint_expired">Срок действия истёк</string>
     <string name="wifi_remembered">Сохранено</string>
+    <string name="wifi_scan_notify_message">Чтобы улучшать работу устройства (например, для более точного определения вашего местоположения), приложения и сервисы могут искать беспроводные сети в любое время, даже если вы отключили Wi‑Fi. Запретить это можно в настройках поиска сетей Wi-Fi.</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
