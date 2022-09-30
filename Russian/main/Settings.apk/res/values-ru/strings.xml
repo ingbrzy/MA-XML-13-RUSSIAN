@@ -570,6 +570,7 @@
     <string name="add_fingerprint_text">Добавить отпечаток</string>
     <string name="add_fingerprint_toast_text">Приложите палец к сканеру</string>
     <string name="add_front_fingerprint_instruction_msg">Сканер отпечатков встроен в кнопку \"Домой\" вашего устройства</string>
+    <string name="add_guest_failed">Не удалось создать нового гостя</string>
     <string name="add_new">Добавить</string>
     <string name="add_one_text_app_name_once">Можно добавить только одно приложение за раз</string>
     <string name="add_rule">Новое расписание</string>
@@ -681,6 +682,8 @@
     <string name="allow_ongoing_title">Разрешить постоянные уведомления</string>
     <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать работе с приложениями или искажать их интерфейс.</string>
     <string name="allow_sound_title">Звук</string>
+    <string name="allow_turn_screen_on">Разрешить включение экрана</string>
+    <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="allow_vibrate_title">Вибрация</string>
     <string name="alpha_build">Альфа</string>
     <string name="already_delete_system_app">Удаленные системные приложения</string>
@@ -917,6 +920,7 @@
     <string name="assist_flash_title">Подсвечивать экран</string>
     <string name="assist_footer">Приложения-помощники могут использовать информацию на экране. Для большего удобства некоторые из них поддерживают запуск других приложений и голосовой ввод.</string>
     <string name="assist_gesture_title">Жест для вызова помощника</string>
+    <string name="assistance_category_title">Спец. возможности</string>
     <string name="assistant_corner_gesture_summary">Свайп вверх из нижнего угла для вызова цифрового помощника</string>
     <string name="assistant_corner_gesture_title">Жест вызова помощника</string>
     <string name="assistant_gesture_category_title">Цифровой помощник</string>
@@ -945,10 +949,12 @@
     <string name="audio_and_captions_category_title">Аудио и озвучивание текста</string>
     <string name="audio_category_title">Аудио</string>
     <string name="audio_files_title">Аудиофайлы</string>
+    <string name="audio_not_synced">Аудио не синхронизировано</string>
     <string name="audio_profile_settings_title">Профили аудио</string>
     <string name="audio_record_proc_title">Шумоподавление</string>
     <string name="audio_share_cancel">Отмена</string>
     <string name="audio_share_confirm">Передать</string>
+    <string name="audio_synced">Аудио синхронизировано</string>
     <string name="auto_adjst_effect_summary">Автоматическая регулировка цветового тона под окружающее освещение</string>
     <string name="auto_adjust_effect_title">Авторегулировка тона</string>
     <string name="auto_anc_closed">Откл.</string>
@@ -1059,6 +1065,7 @@
     <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
     <string name="available_virtual_keyboard_category">Доступная виртуальная клавиатура</string>
+    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="average_memory_use">Средний объем исп. памяти</string>
     <string name="average_used">Среднее использование</string>
     <string name="avoid_ui">Блокировка сенсора</string>
@@ -1069,6 +1076,9 @@
     <string name="back_button">Назад</string>
     <string name="back_double_tap">Двойное касание</string>
     <string name="back_key">Кнопка \"Назад\"</string>
+    <string name="back_navigation_animation">Анимация предиктивного отклика</string>
+    <string name="back_navigation_animation_dialog">Этот параметр включает системную анимацию для предиктивной анимации жестов. Для каждого приложения в файле манифеста необходимо установить значение enableOnBackInvokedCallback в true.</string>
+    <string name="back_navigation_animation_summary">Включение системной анимации для предиктивного отклика</string>
     <string name="back_sensitivity_dialog_message">"
 Высокая чувствительность может конфликтовать с жестами приложений от края экрана"</string>
     <string name="back_sensitivity_dialog_title">Чувствительность края экрана</string>
@@ -1220,6 +1230,7 @@
     <string name="battery_info_status_charging_wireless">Беспроводная зарядка</string>
     <string name="battery_info_status_discharging">Не заряжается</string>
     <string name="battery_info_status_full">Заряжена</string>
+    <string name="battery_info_status_full_charged">Полностью заряжена</string>
     <string name="battery_info_status_label">Состояние батареи:</string>
     <string name="battery_info_status_not_charging">Подключено, не заряжается</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
@@ -1621,8 +1632,11 @@
     <string name="bluetooth_hd_music_play_title">Воспроизведение аудио %d кГц</string>
     <string name="bluetooth_headset_profile_summary_connected">Подключено к аудиоустройству</string>
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства</string>
+    <string name="bluetooth_hearing_aid_left_active">Активно. Только левый.</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">Активно. Левый и правый.</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">Подключен к слуховому аппарату</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Используйте для слухового аппарата</string>
+    <string name="bluetooth_hearing_aid_right_active">Активно. Только правый.</string>
     <string name="bluetooth_hearingaid_left_battery_level">Левый | Батарея %1$s</string>
     <string name="bluetooth_hearingaid_left_pairing_message">Подключение левого слухового аппарата…</string>
     <string name="bluetooth_hearingaid_right_battery_level">Правый | Батарея %1$s</string>
@@ -1988,6 +2002,10 @@
     <string name="bt_ldac_open_dialog_title">Включить LDAC?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Свойства</string>
+    <string name="bt_le_audio_broadcast_dialog_different_output">Изменить вывод</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">В случае трансляции %1$s или изменения вывода, текущая трансляция будет остановлена</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Транслировать %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">Остановить трансляцию %1$s?</string>
     <string name="bt_le_audio_qr_code_is_not_valid_format">Недопустимый формат QR-кода.</string>
     <string name="bt_le_audio_scan_qr_code_scanner">Чтобы прослушать аудио, поместите QR-код в центр.</string>
     <string name="bt_leaudio_cg_dialog_summary">После включения LC3 некоторые функции будут недоступны. LC3 не поддерживает подключение несколько устройств к гарнитуре. Если подключено два устройства, сначала отключите одно из них. Включить LC3?</string>
@@ -2435,6 +2453,10 @@
     <string name="config_face_enroll" />
     <string name="config_grayscale_settings_intent" />
     <string name="config_list_label">Настроенные сети</string>
+    <string name="config_rat_2g">2G</string>
+    <string name="config_rat_3g">3G</string>
+    <string name="config_rat_4g">4G</string>
+    <string name="config_rat_unknown" />
     <string name="config_settingsintelligence_log_action" />
     <string name="config_styles_and_wallpaper_picker_class" />
     <string name="configure">Настройка</string>
@@ -2568,6 +2590,7 @@
     <string name="corner_assistant_gesture_title">Google Ассистент</string>
     <string name="country_name">%s (система)</string>
     <string name="create">Создать</string>
+    <string name="creating_new_guest_dialog_message">Создание нового гостя…</string>
     <string name="creating_new_user_dialog_message">Создание нового пользователя…</string>
     <string name="credential_contains">Содержимое записи:</string>
     <string name="credential_for_vpn_and_apps">Установлено для VPN и приложений</string>
@@ -2740,9 +2763,14 @@
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
     <string name="data_connection_4g">4G</string>
+    <string name="data_connection_4g_lte">4G LTE</string>
+    <string name="data_connection_4g_lte_plus">4G LTE+</string>
     <string name="data_connection_4g_plus">4G+</string>
     <string name="data_connection_5g">5G</string>
+    <string name="data_connection_5g_basic">5GBasic</string>
     <string name="data_connection_5g_plus">5G+</string>
+    <string name="data_connection_5g_sa">5GSA</string>
+    <string name="data_connection_5g_uwb">5GUWB</string>
     <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
     <string name="data_connection_carrier_wifi">W+</string>
     <string name="data_connection_cdma">1X</string>
@@ -2951,6 +2979,7 @@
     <string name="default_suppression_title">По умолчанию (рекомендуется)</string>
     <string name="default_theme">По умолчанию</string>
     <string name="default_usb_mode">Режим USB</string>
+    <string name="default_user_icon_description">Аватар по умолчанию</string>
     <string name="default_vol_stream_title">Регулировка громкости</string>
     <string name="deferred_setup_hintViewTitle">Проверка…</string>
     <string name="delete">Удалить</string>
@@ -3156,6 +3185,7 @@ ID: %s
     <string name="disabled_by_admin">Отключено администратором</string>
     <string name="disabled_by_admin_summary_text">Управляется администратором</string>
     <string name="disabled_by_administrator_summary">Отключено администратором</string>
+    <string name="disabled_by_app_ops_text">Контролируется ограниченной настройкой</string>
     <string name="disabled_by_policy_content_biometric_parental_consent">Чтобы настроить эту функцию, попроси родителя тебе помочь</string>
     <string name="disabled_by_policy_title">Заблокировано администратором</string>
     <string name="disabled_by_policy_title_adjust_volume">Невозможно изменить громкость</string>
@@ -3330,6 +3360,11 @@ ID: %s
     <string name="dpp_sharing_wifi_summary">Создание общей сети Wi-Fi…</string>
     <string name="dpp_theme_title">Общая сеть Wi-Fi</string>
     <string name="draw_overlay">Поверх других приложений</string>
+    <string name="dream_complication_title_aqi">Качество воздуха</string>
+    <string name="dream_complication_title_cast_info">Информация о трансляции</string>
+    <string name="dream_complication_title_date">Дата</string>
+    <string name="dream_complication_title_time">Время</string>
+    <string name="dream_complication_title_weather">Погода</string>
     <string name="dream_complications_toggle_summary">Показывает время, дату, погоду, качество воздуха и сведения о трансляции на экране заставки</string>
     <string name="dream_complications_toggle_title">Показывать дополнительную информацию</string>
     <string name="dream_more_settings_category">Дополнительные настройки</string>
@@ -3749,6 +3784,10 @@ ID: %s
     <string name="face_unlock_success_stay_screen_title">Оставаться на экране блокировки</string>
     <string name="face_unlock_title">Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль.</string>
     <string name="factory_reset_summary">Удалить все данные из внутренней памяти устройства</string>
+    <string name="failed_attempts_now_wiping_device">Слишком много неверных попыток. Данные на этом устройстве будут удалены.</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Закрыть</string>
+    <string name="failed_attempts_now_wiping_profile">Слишком много неверных попыток. Рабочий профиль и его данные будут удалены.</string>
+    <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удален.</string>
     <string name="failed_to_check_find_device_status_content">Не удалось проверить статус Поиска устройства. Подождите немного и повторите попытку.</string>
     <string name="failed_to_check_find_device_status_title">Не удалось проверить статус</string>
     <string name="failed_to_erase_text">Отключите пароль блокировки экрана перед вводом кода \"1217\".</string>
@@ -4234,6 +4273,8 @@ ID: %s
     <string name="guest_exit_guest">Выйти из гостевого аккаунта</string>
     <string name="guest_new_guest">Войти в гостевой аккаунт</string>
     <string name="guest_nickname">Гость</string>
+    <string name="guest_remove_guest_confirm_button">Удалить</string>
+    <string name="guest_remove_guest_dialog_title">Удалить гостя?</string>
     <string name="guest_reset_guest">Сбросить гостевой аккаунт</string>
     <string name="guest_reset_guest_confirm_button">Сбросить</string>
     <string name="guest_reset_guest_dialog_title">Сбросить гостевой аккаунт?</string>
@@ -4434,11 +4475,13 @@ ID: %s
     <string name="help_url_account_detail" />
     <string name="help_url_accounts" />
     <string name="help_url_action_disabled_by_it_admin" />
+    <string name="help_url_action_disabled_by_restricted_settings" />
     <string name="help_url_adaptive_sleep" />
     <string name="help_url_app_usage_settings" />
     <string name="help_url_apps_and_notifications" />
     <string name="help_url_audio_accessory_not_supported" />
     <string name="help_url_auto_brightness" />
+    <string name="help_url_auto_rotate_settings" />
     <string name="help_url_autoclick" />
     <string name="help_url_backup_reset" />
     <string name="help_url_battery" />
@@ -4797,6 +4840,8 @@ ID: %s
     <string name="keyboard_layout_dialog_title">Выбор раскладки клавиатуры</string>
     <string name="keyboard_layout_picker_title">Раскладка клавиатуры</string>
     <string name="keyboard_mouse_touch">Клавиатура, мышь и трекпад</string>
+    <string name="keyboard_select">Настройка размера</string>
+    <string name="keyboard_select_summary">Настройка размера клавиатуры под свой захват</string>
     <string name="keyboard_settings_category">Способы ввода</string>
     <string name="keyboard_settings_title">Клавиатура Android</string>
     <string name="keyboard_shortcuts_helper">Быстрые клавиши</string>
@@ -5812,6 +5857,8 @@ ID: %s
     <string name="menu_stats_total">Всего</string>
     <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
     <string name="menu_use_uss">Использовать USS</string>
+    <string name="metadata_not_synced">Метаданные не синхронизированы</string>
+    <string name="metadata_synced">Метаданные синхронизированы</string>
     <string name="mi_headset_healthy">Здоровье слуха</string>
     <string name="mi_pay">Mi Кошелёк</string>
     <string name="mi_pay_indonesia">Аккаунт Mi Pay</string>
@@ -6171,6 +6218,8 @@ ID: %s
     <string name="mobile_data_off_summary">Без автоподключения к мобильному интернету</string>
     <string name="mobile_data_settings_summary">Доступ по мобильной сети</string>
     <string name="mobile_data_settings_summary_auto_switch">Устройство автоматически переключится на этого оператора в зоне действия его сети</string>
+    <string name="mobile_data_settings_summary_dds_roaming_unavailable">Мобильный интернет недоступен во время вызова с использованием другой SIM-карты</string>
+    <string name="mobile_data_settings_summary_default_data_unavailable">Устройство автоматически переключится на этого оператора после завершения вызова, для использования мобильного интернета</string>
     <string name="mobile_data_settings_summary_unavailable">Нет SIM-карты</string>
     <string name="mobile_data_settings_title">Мобильный интернет</string>
     <string name="mobile_data_usage_title">Трафик</string>
@@ -6373,6 +6422,7 @@ ID: %s
     <string name="mtrl_picker_toggle_to_day_selection">Выбрать день</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Ручной ввод</string>
     <string name="mtrl_picker_toggle_to_year_selection">Выбрать год</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
     <string name="muffled_text">Низкие частоты мягко подчеркивают визуальные переходы и делают жесты естественнее</string>
     <string name="multi_face_delete_message">Внимание</string>
     <string name="multi_face_delete_show_message">Удалить данные лица?</string>
@@ -7326,6 +7376,8 @@ OTG отключается автоматически через 10 минут �
     <string name="pref_volume_launch_camera_title">Запуск камеры</string>
     <string name="pref_volume_wake_summary">Нажатие кнопок громкости в спящем режиме разбудит устройство</string>
     <string name="pref_volume_wake_title">Пробуждать кнопками громкости</string>
+    <string name="prefer_vonr_mode_summary">Включение или отключение VoNR</string>
+    <string name="prefer_vonr_mode_title">Включение/отключение VoNR</string>
     <string name="preference_change_password_title">Изменить пароль</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_of_system_locale_summary">Системные настройки по умолчанию</string>
@@ -8292,6 +8344,8 @@ UT-интерфейс: %5$s"</string>
     <string name="search_gps">GPS;Геолокация;Службы геолокации;Местоположение;Доступ к геоданным</string>
     <string name="search_handy_mode">Управление одной рукой;Управление одной рукой;Режим одной руки;Одна рука</string>
     <string name="search_hint">Поиск настроек</string>
+    <string name="search_history_clear_description">Очистка истории поиска</string>
+    <string name="search_history_description">История поиска</string>
     <string name="search_home_key">Домой;Кнопка домой;Клавиша домой</string>
     <string name="search_input_hint">Поиск настроек</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
@@ -8345,6 +8399,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_preferred_network_type_title">Предпочтительный тип сети;Предпочтительные сети;Тип сети</string>
     <string name="search_privacy_policy">Политика конфиденциальности</string>
     <string name="search_privacy_settings">Резервное копирование;Восстановление и сброс;Бэкап и сброс;Резервирование;Бэкап;сброс;Резервное копирование и восстановление</string>
+    <string name="search_result_feedback_text">Ничего не найдено</string>
     <string name="search_results_title">Настройки</string>
     <string name="search_ring_volume_option_title">Громкость;громкость;Мелодия и уведомления;рингтон;мелодия;Будильник;Музыка</string>
     <string name="search_ringtone_title">Мелодия звонка;рингтон;мелодии</string>
@@ -9850,6 +9905,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tare_actions_ctp">Действия (затраты на выполнение)</string>
     <string name="tare_balances">Баланс</string>
     <string name="tare_consumption_limits">Ограничение потребления</string>
+    <string name="tare_dialog_confirm_button_title">ОК</string>
     <string name="tare_hard_consumption_limit">Максимальное ограничение потребления</string>
     <string name="tare_initial_consumption_limit">Начальное ограничение потребления</string>
     <string name="tare_job_default_running">Выполняется задание (приор. по умолч.)</string>
@@ -10161,6 +10217,7 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_security_lock">Способ защиты</string>
     <string name="turn_on_torch">Фонарик</string>
     <string name="turn_on_wifi">Включить Wi-Fi</string>
+    <string name="turn_screen_on_title">Включение экрана</string>
     <string name="turn_update_keyguard_password_wait_dialog">Изменение пароля…</string>
     <string name="twilight_mode_launch_location">Использование геолокации</string>
     <string name="twilight_mode_location_off_dialog_message">Чтобы определять время заката и рассвета, разрешите использовать геолокацию</string>
@@ -10525,7 +10582,8 @@ UT-интерфейс: %5$s"</string>
     <string name="user_add_on_lockscreen_menu">Доб. пользов. на забл. экране</string>
     <string name="user_add_profile_item_summary">Ограничение доступа к приложениям и контенту из вашего аккаунта</string>
     <string name="user_add_profile_item_title">Профиль с огранич. доступом</string>
-    <string name="user_add_user_item_summary">У пользователей есть свои приложения и контент</string>
+    <string name="user_add_user">Добавить пользователя</string>
+    <string name="user_add_user_item_summary">Отдельные приложения и контент для каждого пользователя</string>
     <string name="user_add_user_item_title">Добавить пользователя</string>
     <string name="user_add_user_menu">Добавить пользователя</string>
     <string name="user_add_user_message_long">"Если вашим устройством пользуется кто-то ещё, создайте на нем дополнительные профили. Владелец профиля может настроить его по своему вкусу, в том числе выбрать обои и установить нужные приложения. Кроме того, пользователи могут изменять общие для всех параметры устройства, такие как Wi-Fi.
@@ -10966,12 +11024,14 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_ap_choose">%1$s ГГц</string>
     <string name="wifi_ap_choose_2G">2,4 ГГц</string>
     <string name="wifi_ap_choose_5G">5 ГГц</string>
+    <string name="wifi_ap_choose_6G">6.0 ГГц</string>
     <string name="wifi_ap_choose_auto">Авто</string>
     <string name="wifi_ap_choose_dual">Оба</string>
     <string name="wifi_ap_choose_vendor_both">Оба</string>
     <string name="wifi_ap_choose_vendor_dual_band">Двухдиапазонный Wi-Fi</string>
     <string name="wifi_ap_hidden_ssid">Скрыть SSID</string>
     <string name="wifi_ap_prefer_5G">5.0 ГГц (предпочтительно)</string>
+    <string name="wifi_ap_prefer_6G">6.0 ГГц (предпочтительно)</string>
     <string name="wifi_ap_ssid_off">Откл.</string>
     <string name="wifi_ap_ssid_on">Вкл.</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Точка доступа временно заполнена</string>
@@ -11283,6 +11343,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_no_related_sim_card">Нет</string>
     <string name="wifi_no_sim_card">Нет SIM-карты</string>
     <string name="wifi_no_user_cert_warning">Требуется сертификат.</string>
+    <string name="wifi_non_persistent_mac_randomization">Непостоянная рандомизация MAC-адресов Wi-Fi</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Когда этот режим включен, MAC-адрес устройства будет меняться каждый раз при подключении к сети с рандомизацией MAC-адресов</string>
     <string name="wifi_not_in_range">Сеть недоступна</string>
     <string name="wifi_not_in_range_message">Сеть недоступна</string>
     <string name="wifi_notify_cmcc_connected_summary">Показывать уведомление при подключении к сети CMCC</string>
@@ -11590,6 +11652,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wps_onstart_pin">Введите код %1$s на вашем роутере. Настройка может занять до двух минут.</string>
     <string name="wifi_wps_overlap_error">Обнаружен другой сеанс WPS. Подождите немного и повторите попытку.</string>
     <string name="wifi_wps_setup_title">Безопасная настройка Wi-Fi</string>
+    <string name="wifitrackerlib_admin_restricted_network">Запрещено вашей организацией</string>
     <string name="wifitrackerlib_auto_connect_disable">Без автоподключения</string>
     <string name="wifitrackerlib_available_via_app">Доступно через %1$s</string>
     <string name="wifitrackerlib_connected_via_app">Подключено через %1$s</string>
@@ -11649,6 +11712,13 @@ UT-интерфейс: %5$s"</string>
     <string name="wifitrackerlib_wifi_security_wep">WEP</string>
     <string name="wifitrackerlib_wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
     <string name="wifitrackerlib_wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">Wi-Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ad">WiGig</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">Wi-Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">Wi-Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">Wi-Fi 4</string>
+    <string name="wifitrackerlib_wifi_standard_legacy">Устаревший</string>
+    <string name="wifitrackerlib_wifi_standard_unknown">Неизвестный</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Безлимитный</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi без автоподключения</string>
     <string name="window_animation_scale_title">Анимация окон</string>

@@ -572,6 +572,8 @@
     <string name="monday">Понедельник</string>
     <string name="monday_short">Пн</string>
     <string name="monday_shortest">Пн</string>
+    <string name="monochrome_summary">Изменять цвет фона для совместимых иконок</string>
+    <string name="monochrome_title">Цвет фона</string>
     <string name="month_april">апреля</string>
     <string name="month_april_short">апр</string>
     <string name="month_april_shortest">Апр</string>
@@ -921,6 +923,7 @@
     <string name="sort_by_abc">По имени</string>
     <string name="sort_by_frequency">По популярности</string>
     <string name="sort_by_not_defined">По порядку</string>
+    <string name="split_screen_position_top">Разделение сверху</string>
     <string name="start_activity_failed">Не удалось запустить рабочий стол</string>
     <string name="starting_preset_app">Запуск…</string>
     <string name="status_bar_recent_memory_giga">%1$s ГБ</string>
@@ -1004,6 +1007,8 @@
     <string name="title_select_shortcut">Выберите ярлык</string>
     <string name="toast_drag_to_assistant_reject">Инициализация Ленты виджетов…</string>
     <string name="toast_screen_icons_misplaced">Восстановлено из другого источника, порядок приложений и ярлыков может быть изменён</string>
+    <string name="toast_split_app_unsupported">Приложение не поддерживает разделение экрана</string>
+    <string name="toast_split_select_app">Добавьте приложение для разделения экрана</string>
     <string name="today">Сегодня</string>
     <string name="toggle_select_title">Выберите переключатели</string>
     <string name="toggle_title">Переключатели</string>
@@ -1057,8 +1062,12 @@
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
     <string name="widgets_preview_title">Виджеты</string>
+    <string name="work_mode_off_detailed_text">Рабочие приложения не смогут отправлять уведомления, расходовать заряд батареи или использовать геолокацию</string>
     <string name="work_mode_off_label">Уведомления отключены, приложения недоступны</string>
+    <string name="work_mode_off_text">Рабочие приложения приостановлены</string>
     <string name="work_mode_on_label">Управляется вашей организацией</string>
+    <string name="work_mode_toggle_off">Отключить рабочие приложения</string>
+    <string name="work_mode_toggle_on">Включить рабочие приложения</string>
     <string name="work_profile_first_content">Личные данные отделены и скрыты от рабочих приложений</string>
     <string name="work_profile_got_button">Понятно</string>
     <string name="work_profile_next_button">Далее</string>

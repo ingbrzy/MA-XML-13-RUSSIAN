@@ -180,6 +180,7 @@
     <string name="available_via_app">Доступно через %1$s</string>
     <string name="available_via_carrier">Доступно через %1$s</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
+    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="back_navigation_animation">Анимация предиктивного отклика</string>
     <string name="back_navigation_animation_dialog">Этот параметр включает системную анимацию для предиктивной анимации жестов. Для каждого приложения в файле манифеста необходимо установить значение enableOnBackInvokedCallback в true.</string>
     <string name="back_navigation_animation_summary">Включение системной анимации для предиктивного отклика</string>
@@ -434,7 +435,10 @@
     <string name="data_connection_4g_lte_plus">4G LTE+</string>
     <string name="data_connection_4g_plus">4G+</string>
     <string name="data_connection_5g">5G</string>
+    <string name="data_connection_5g_basic">5GBasic</string>
     <string name="data_connection_5g_plus">5G+</string>
+    <string name="data_connection_5g_sa">5GSA</string>
+    <string name="data_connection_5g_uwb">5GUWB</string>
     <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
     <string name="data_connection_carrier_wifi">W+</string>
     <string name="data_connection_cdma">1X</string>
@@ -1341,6 +1345,7 @@ mm"</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
     <string name="tuesday_shortest">Вт</string>
+    <string name="turn_screen_on_title">Включение экрана</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknown_error_info">Неизвестная ошибка</string>
     <string name="usb_audio_disable_routing">Отключить передачу звука по USB</string>
@@ -1348,6 +1353,7 @@ mm"</string>
     <string name="use_system_language_to_select_input_method_subtypes">Языки системы</string>
     <string name="user_add_profile_item_summary">Профиль с ограниченным доступом к приложениям и контенту</string>
     <string name="user_add_profile_item_title">Ограниченный профиль</string>
+    <string name="user_add_user">Добавить пользователя</string>
     <string name="user_add_user_item_summary">Отдельные приложения и контент для каждого пользователя</string>
     <string name="user_add_user_item_title">Пользователь</string>
     <string name="user_add_user_message_long">"Устройством могут пользоваться несколько человек, для каждого пользователя создается собственное пространство со своими настройками и набором приложений. Настройки параметров устройства, такие как Wi-Fi, являются общими для всех.
@@ -1429,6 +1435,8 @@ mm"</string>
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="wifi_ap_choose_6G">6.0 ГГц</string>
+    <string name="wifi_ap_prefer_6G">6.0 ГГц (предпочтительно)</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Точка доступа временно заполнена</string>
     <string name="wifi_auto_sel_wapi_cert">Автовыбор</string>
     <string name="wifi_available_action_all_networks">Все сети</string>
