@@ -4917,6 +4917,7 @@ ID: %s
     <string name="link_turbo_usage_state_today_total">Сегодня</string>
     <string name="list_bg_header_text">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные.</string>
     <string name="list_empty_text">Список пуст</string>
+    <string name="lite_font_weight_title">Толщина шрифта</string>
     <string name="live_caption_summary">Автоматически добавлять субтитры</string>
     <string name="live_caption_title">Автоматические субтитры</string>
     <string name="load_networks_progress">Поиск…</string>
@@ -6069,6 +6070,7 @@ ID: %s
     <string name="more_account_settings_title">Другие аккаунты</string>
     <string name="more_dangerous_option_hint">Включена функция с высоким риском \"%1$s\". Нажмите для изменения настроек.</string>
     <string name="more_dark_mode_settings">Дополнительные параметры</string>
+    <string name="more_font_pref_title">Другие шрифты</string>
     <string name="more_installed_services_title">Загруженные сервисы</string>
     <string name="more_settings_button">Доп. настройки</string>
     <string name="morning">Утро</string>

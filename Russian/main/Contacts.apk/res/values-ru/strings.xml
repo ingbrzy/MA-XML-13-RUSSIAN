@@ -367,6 +367,7 @@
     <string name="call_disambig_title">Выберите номер</string>
     <string name="call_fax_home">Домашний факс</string>
     <string name="call_fax_work">Рабочий факс</string>
+    <string name="call_feature_vilte">ViLTE</string>
     <string name="call_feature_volte">VoLTE</string>
     <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Домашний телефон</string>
