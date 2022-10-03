@@ -100,8 +100,8 @@
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
-    <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия. </string>   
-        <string name="animator_duration_scale_title">Длительность анимации</string>
+    <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
+    <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
@@ -491,6 +491,7 @@
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
     <string name="long_traces">Длительная трассировка</string>
     <string name="long_traces_summary">Постоянно сохраняется на устройстве</string>
+    <string name="long_traces_summary_betterbug">Постоянно сохраняется на устройстве (не будет автоматически прикрепляться к отчетам об ошибках)</string>
     <string name="managed_user_title">Корпоративные приложения</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>

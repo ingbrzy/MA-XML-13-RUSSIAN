@@ -233,8 +233,17 @@
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
     <string name="alert_dialog_close">Закрытие профиля</string>
     <string name="alert_dialog_dismiss">Закрыть</string>
-    <string name="alert_dialog_in_ecm_call">Выбранное действие недоступно при экстренном вызове.</string>
+    <string name="alert_dialog_exit_ecm">{count, plural, =1 {Режим экстренных обратных вызовов будет действовать ещё 1 минуту. Приложения с поддержкой передачи данных будут недоступны. Выйти?} other {Режим экстренных обратных вызовов будет действовать ещё %s минут. Приложения с поддержкой передачи данных будут недоступны. Выйти?}  few {Режим экстренных обратных вызовов будет действовать ещё %s минуты. Приложения с поддержкой передачи данных будут недоступны. Выйти?} }</string>
+    <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {Режим экстренных обратных вызовов будет действовать ещё 1 минуту.
+Выйти?} other {Режим экстренных обратных вызовов будет действовать ещё %s минут. 
+Выйти?}  few {Режим экстренных обратных вызовов будет действовать ещё %s минуты. 
+Выйти?} }"</string>
+    <string name="alert_dialog_exit_scm">Устройство находится в режиме SMS Callback. Приложения с поддержкой передачи данных недоступны. Выйти?</string>
+    <string name="alert_dialog_in_ecm_call">Выбранное действие недоступно при экстренном вызове</string>
+    <string name="alert_dialog_in_scm_call">Выбранное действие недоступно при экстренном вызове</string>
     <string name="alert_dialog_no">Нет</string>
+    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё 1 минуту. Выйти?} other {Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё %s минут. Выйти?}  few {Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё %s минуты. Выйти?} }"</string>
+    <string name="alert_dialog_not_avaialble_in_scm">Выбранное действие недоступно в режиме SMS Callback. Выйти?</string>
     <string name="alert_dialog_ok">ОК</string>
     <string name="alert_dialog_yes">Да</string>
     <string name="alertdialogtitle">Результаты</string>
@@ -447,6 +456,8 @@
     <string name="business_hall_settings_summary">Управление вызовами и мобильным трафиком</string>
     <string name="business_hall_settings_title">Настройки тарифного плана</string>
     <string name="button_convert_fbe">Очистить и перейти…</string>
+    <string name="c_iwlan_exit_notification_description">Отключение может помочь получить доступ к сервису</string>
+    <string name="c_iwlan_exit_notification_title">Передача голоса через сотовый интернет недоступна</string>
     <string name="cached_apps_freezer_device_default">По умолчанию</string>
     <string name="cached_apps_freezer_disabled">Отключено</string>
     <string name="cached_apps_freezer_enabled">Включено</string>
@@ -531,6 +542,7 @@
     <string name="callFailed_requested_facility_not_subscribed">Запрашиваемый объект отсутствует в подписках</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Ресурсы недоступны, не указаны</string>
     <string name="callFailed_resp_to_status_enquiry">Ответ на STATUS ENQUIRY</string>
+    <string name="callFailed_secure_mode">Неэкстренный вызов в безопасном режиме недоступен</string>
     <string name="callFailed_semantically_incorrect_message">Семантически неверное сообщение</string>
     <string name="callFailed_server_error">Ошибка сервера. Повторите попытку позже.</string>
     <string name="callFailed_server_unreachable">Сервер недоступен</string>
@@ -1432,6 +1444,7 @@
     <string name="labelCDMAMore">Настройки CDMA вызовов</string>
     <string name="labelCF">Переадресация вызовов</string>
     <string name="labelCFB">Если номер занят</string>
+    <string name="labelCFNL">Если нет авторизации</string>
     <string name="labelCFNRc">Если абонент недоступен</string>
     <string name="labelCFNRy">Если нет ответа</string>
     <string name="labelCFType">Переадресация вызовов</string>
@@ -1550,6 +1563,7 @@
     <string name="menu_new_display_open">Открыть в новом окне</string>
     <string name="menu_pc_open">Открыть на ПК</string>
     <string name="messageCFB">Номер для переадресации, если линия занята</string>
+    <string name="messageCFNL">Номер, если нет авторизации</string>
     <string name="messageCFNRc">Номер для переадресации, если абонент недоступен</string>
     <string name="messageCFNRc_kr_kt">"Сетевой сервис для перенаправления всех входящих вызовов и текстовых сообщений на указанный номер, когда вы не можете отвечать на вызовы или ваше устройство выключено. Необходима подписка на этот сервис. Свяжитесь с центром поддержки (114+[Отправить]), чтобы подписаться или отказаться от этого сервиса. Введите *72+[номер для переадресации][Отправить], чтобы включить, или *720[Отправить], чтобы отключить.
 
@@ -2045,11 +2059,15 @@
     <string name="phone_accounts_selection_header">Аккаунты для вызовов</string>
     <string name="phone_accounts_settings_header">Настройки</string>
     <string name="phone_entered_ecm_text">Телефон переведен в режим экстренных обратных вызовов</string>
+    <string name="phone_entered_scm_text">Вход в режим SMS Callback</string>
     <string name="phone_in_ecm_call_notification_text">Передача данных отключена</string>
     <string name="phone_in_ecm_call_notification_text_without_data_restriction_hint">Телефон находится в режиме экстренного обратного вызова</string>
     <string name="phone_in_ecm_notification_complete_time">Передача данных отключена до %s</string>
     <string name="phone_in_ecm_notification_complete_time_without_data_restriction_hint">До %s</string>
     <string name="phone_in_ecm_notification_title">Режим экстренных обратных вызовов</string>
+    <string name="phone_in_scm_call_notification_text_without_data_restriction_hint">Устройство в режиме SMS callback</string>
+    <string name="phone_in_scm_notification_complete_time">Начало: %s</string>
+    <string name="phone_in_scm_notification_title">Режим SMS Callback</string>
     <string name="phone_index_label">Выберите индекс телефона</string>
     <string name="phone_info_label">Информация о телефоне&#160;</string>
     <string name="phone_report_title">Чтение информации о входящем вызове</string>
@@ -2253,6 +2271,7 @@
     <string name="profile_connect_timeout_subtext">Проблема с подключением. Выключите и снова включите устройство</string>
     <string name="profile_info_settings_title">Информация о профиле</string>
     <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
+    <string name="progress_dialog_exiting_scm">Выход из режима SMS Callback</string>
     <string name="prompt_to_suggest_no_call_service_notification_content">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM (China Telecom).</string>
     <string name="prompt_to_suggest_no_call_service_notification_content2">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM %d (China Telecom).</string>
     <string name="prompt_to_suggest_no_call_service_notification_title">Вызовы не поддерживаются</string>
@@ -2336,6 +2355,7 @@ UT-интерфейс: %5$s"</string>
     <string name="radio_info_nr_available">Доступность NR:</string>
     <string name="radio_info_nr_frequency">Частота NR:</string>
     <string name="radio_info_nr_state">Состояние NR:</string>
+    <string name="radio_info_override_network_type_label">Переопределяемый тип сети:</string>
     <string name="radio_info_phone_number_label">Номер телефона:</string>
     <string name="radio_info_phy_chan_config">Конфигурация физического канала LTE:</string>
     <string name="radio_info_ping_hostname_v4">Запрос ping для www.google.com, IPv4:</string>
@@ -2384,6 +2404,7 @@ UT-интерфейс: %5$s"</string>
     <string name="relay_call_released_due_to_connect_lost">Соединение было потеряно. Продолжайте разговор на отключённом устройстве.</string>
     <string name="relay_connection_service_label">Встроенная ретрансляция вызова</string>
     <string name="remaining_length_format">Осталось %1$s</string>
+    <string name="removable_esim_string">Установить съемную eSIM по умолчанию</string>
     <string name="remove">Удалить</string>
     <string name="remove_sip_account">Удалить аккаунт</string>
     <string name="removing_account">Удаление аккаунта…</string>
@@ -2679,6 +2700,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sum_cdma_call_settings">Дополнительные настройки (только CDMA)</string>
     <string name="sum_cfb_disabled">Отключено</string>
     <string name="sum_cfb_enabled">Переадресация на номер: {0}</string>
+    <string name="sum_cfnl_disabled">Отключено</string>
+    <string name="sum_cfnl_enabled">Переадресация на номер: {0}</string>
     <string name="sum_cfnrc_disabled">Отключено</string>
     <string name="sum_cfnrc_enabled">Переадресация на номер: {0}</string>
     <string name="sum_cfnry_disabled">Отключено</string>
@@ -2968,6 +2991,7 @@ UT-интерфейс: %5$s"</string>
     <string name="username">UserName</string>
     <string name="username_title">Имя пользователя</string>
     <string name="ussdRunning">Выполняется USSD запрос…</string>
+    <string name="ussdinitiated_title">USSD запущен</string>
     <string name="ut_not_support">UT не поддерживается</string>
     <string name="ut_unavailable_to_set_video_cf_toast">UT недоступно для установки переадресации вызовов для видео, закройте эту страницу и выйдите.</string>
     <string name="v7_preference_off">ОТКЛ.</string>

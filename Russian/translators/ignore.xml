@@ -985,6 +985,9 @@
     <string name="brush_WaterColor">WaterColor</string>
     <string name="bugreport_status" formatted="false">%s (%s)</string>
     <string name="burst_transition_image_view">photo_view_burst</string>
+    <string name="c_iwlan_channel_name">C_IWi-Fi</string>
+    <string name="c_iwlan_exit_notification_negative_button">DISMISS</string>
+    <string name="c_iwlan_exit_notification_positive_button">OPEN SETTINGS</string>
     <string name="cache_db_name">app_icons.db</string>
     <string name="call_manager_summary">%1$s</string>
     <string name="call_settings_package_name">com.android.phone</string>
@@ -4103,6 +4106,7 @@
     <string name="saturn_id">saturn</string>
     <string name="save_to_note">转存至便签</string>
     <string name="scan_express_num">扫码查询</string>
+    <string name="scm_exit_dialog">ScmExitDialog</string>
     <string name="scope_a"> </string>
     <string name="scope_b"> </string>
     <string name="scope_c"> </string>
