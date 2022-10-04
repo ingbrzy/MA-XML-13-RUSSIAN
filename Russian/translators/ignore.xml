@@ -115,6 +115,7 @@
     <string name="ad_view">曝光</string>
     <string name="add_one">(1)</string>
     <string name="add_remark_dialog_title">@string/record_item_title_remark</string>
+    <string name="add_user_supervised">@android:string/supervised_user_creation_label</string>
     <string name="advanced_settings_container">Дополнительные параметры</string>
     <string name="ae_channel_key_class_1">ae_channel_key_class_1</string>
     <string name="ae_channel_key_class_2">ae_channel_key_class_2</string>
@@ -1560,6 +1561,7 @@
     <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
     <string name="config_chooserActivity">com.android.systemui/com.android.systemui.chooser.ChooserActivity</string>
     <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
+    <string name="config_communalSourceComponent">@null</string>
     <string name="config_companionDeviceManagerPackage" />
     <string name="config_controlsPackage">com.android.systemui</string>
     <string name="config_customAdbPublicKeyConfirmationComponent">com.android.systemui/com.android.systemui.usb.UsbDebuggingActivity</string>
@@ -3551,6 +3553,7 @@
     <string name="notification_importance_divider">%1$s: %2$s</string>
     <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="np_mcc">429</string>
+    <string name="num_pad_key_ratio">1</string>
     <string name="number_of_lucky_money"> </string>
     <string name="number_tag_divider">" ｜ "</string>
     <string name="numbers">0123456789</string>

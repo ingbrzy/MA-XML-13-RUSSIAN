@@ -673,8 +673,8 @@
     <string name="face_recalibrate_notification_content">Для улучшения распознавания добавьте данные лица ещё раз</string>
     <string name="face_recalibrate_notification_name">Распознавание по лицу</string>
     <string name="face_recalibrate_notification_title">Подтверждение данных лица</string>
-    <string name="face_sensor_privacy_enabled">Чтобы использовать распознавание по лицу, разрешите <b>доступ к камере</b>. Для этого перейдите в настройки и нажмите \"Конфиденциальность\".</string>
-    <string name="face_setup_notification_content">Разблокируйте устройство, взглянув на него</string>
+    <string name="face_sensor_privacy_enabled">Для разблокировки по лицу разрешите <b>Доступ к камере</b> в Настройки > Приложения > Разрешения</string>
+    <string name="face_setup_notification_content">Разблокировка по лицу</string>
     <string name="face_setup_notification_title">Настройка разблокировки по лицу</string>
     <string name="faceunlock_multiple_failures">Попытки исчерпаны</string>
     <string name="factory_reset_message">"Невозможно использовать приложение для администрирования. С устройства будут удалены все данные.
