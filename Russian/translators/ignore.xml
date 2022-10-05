@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="APN_NAME_CBNET">CBNET</string>
     <string name="APN_NAME_CMMMS">CMMMS</string>
     <string name="APN_NAME_CMNET">CMNET</string>
     <string name="APN_NAME_CMWAP">CMWAP</string>
@@ -12,11 +13,23 @@
     <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
     <string name="APN_NAME_CUWAP">China Unicom WAP</string>
     <string name="APPID_client1">3100</string>
+    <string name="AUTO_UPGRADE_FEATURE">20220318</string>
+    <string name="BLE_MMA_FEATURE">20220110</string>
+    <string name="CLOSE_BOX_SILENT_UPGRADE_EXIST">20220629</string>
+    <string name="DETAIL_NOTIFICATION_FEATURE_V1">v1</string>
+    <string name="EROS_MMA_FEATURE">20220218</string>
     <string name="HA_AFFILIATE_ID">1268</string>
     <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
     <string name="HA_DOMAIN">mivideo</string>
     <string name="HA_DOMAIN_TEST">test</string>
     <string name="HA_SERVICE_ID">PLAY</string>
+    <string name="IS_SUPPORT_SPACE_SOUND">1652086800</string>
+    <string name="L71_AUTO_UPGRADE_FEATURE">20220321</string>
+    <string name="SURPPORT_COMPATIBLE_AT_VERSION">V2.4.3.0</string>
+    <string name="SURPPORT_EARBUDS_LOG_UPLOAD">V1.1</string>
+    <string name="SURPPORT_HOT_WORD">V1.0</string>
+    <string name="SURPPORT_QCOM_LE_AUDIO">V1.0</string>
+    <string name="VIRTUAL_SURROUND_SOUND_FEATURE">20220315</string>
     <string name="_00_00">00:00</string>
     <string name="aab">f4bb9b1cdc1a0f4b</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -2279,6 +2292,16 @@
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
+    <string name="earth_coordinate_latitude_0">13.910°E</string>
+    <string name="earth_coordinate_latitude_1">110.152°E</string>
+    <string name="earth_coordinate_latitude_2">51.100°W</string>
+    <string name="earth_coordinate_latitude_3">20.624°E</string>
+    <string name="earth_coordinate_latitude_4">11.733°E</string>
+    <string name="earth_coordinate_longitude_0">44.767°N</string>
+    <string name="earth_coordinate_longitude_1">25.803°N</string>
+    <string name="earth_coordinate_longitude_2">69.217°N</string>
+    <string name="earth_coordinate_longitude_3">37.859°N</string>
+    <string name="earth_coordinate_longitude_4">46.601°N</string>
     <string name="earth_id">earth</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -3144,9 +3167,13 @@
     <string name="mars_coordinate_latitude_0">73.287°E</string>
     <string name="mars_coordinate_latitude_1">323.483°E</string>
     <string name="mars_coordinate_latitude_2">340.780°E</string>
+    <string name="mars_coordinate_latitude_3">137.379°E</string>
+    <string name="mars_coordinate_latitude_4">303.208°E</string>
     <string name="mars_coordinate_longitude_0">29.290°N</string>
     <string name="mars_coordinate_longitude_1">35.667°S</string>
     <string name="mars_coordinate_longitude_2">22.884°N</string>
+    <string name="mars_coordinate_longitude_3">4.676°S</string>
+    <string name="mars_coordinate_longitude_4">20.953°N</string>
     <string name="mars_id">mars</string>
     <string name="mars_view_height_0">287.3 km</string>
     <string name="mars_view_height_1">256.7 km</string>
