@@ -3778,10 +3778,10 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_super_wireless_charge_summary">Увеличение скорости вращения вентилятора кулера беспроводного зарядного устройства</string>
     <string name="power_center_super_wireless_charge_toast_close">Быстрая беспроводная зарядка отключена</string>
     <string name="power_center_surface_temp_high">Высокая</string>
-    <string name="power_center_surface_temp_higher">Перегрев</string>
+    <string name="power_center_surface_temp_higher">Средняя</string>
     <string name="power_center_surface_temp_low">Низкая</string>
-    <string name="power_center_surface_temp_lower">Оч. низкая</string>
-    <string name="power_center_surface_temp_normal">В порядке</string>
+    <string name="power_center_surface_temp_lower">Низкая</string>
+    <string name="power_center_surface_temp_normal">Норма</string>
     <string name="power_center_time_to_boot">Время включения</string>
     <string name="power_center_time_to_shutdown">Время выключения</string>
     <string name="power_center_title">Батарея</string>
