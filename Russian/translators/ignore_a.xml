@@ -1432,6 +1432,7 @@
     <string-array name="support_speaker_auto_clean_device_list"></string-array>
     <string-array name="support_super_wallpaper_devices"></string-array>
     <string-array name="supported_locales"></string-array>
+    <string-array name="suppot_lite_font_page_device"></string-array>
     <string-array name="svapp_white_list"></string-array>
     <string-array name="swipe_direction_titles"></string-array>
     <string-array name="swipe_direction_values"></string-array>

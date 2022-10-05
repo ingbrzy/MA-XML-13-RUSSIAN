@@ -445,7 +445,6 @@
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
-    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="always_use_accessory">Использовать по умолчанию для этого USB аксессуара</string>
     <string name="always_use_device">Использовать по умолчанию для этого USB устройства</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>

@@ -684,7 +684,6 @@
     <string name="allow_sound_title">Звук</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
-    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="allow_vibrate_title">Вибрация</string>
     <string name="alpha_build">Альфа</string>
     <string name="already_delete_system_app">Удаленные системные приложения</string>
