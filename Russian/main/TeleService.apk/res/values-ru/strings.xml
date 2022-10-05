@@ -233,16 +233,10 @@
     <string name="alarms_and_reminders_title">Будильники и напоминания</string>
     <string name="alert_dialog_close">Закрытие профиля</string>
     <string name="alert_dialog_dismiss">Закрыть</string>
-    <string name="alert_dialog_exit_ecm">"{count, plural, =1 {Режим экстренных обратных вызовов будет действовать ещё 1 минуту. Приложения с поддержкой передачи данных будут недоступны. Выйти?} other {Режим экстренных обратных вызовов будет действовать ещё %s минут. Приложения с поддержкой передачи данных будут недоступны. Выйти?} few {Режим экстренных обратных вызовов будет действовать ещё %s минуты. Приложения с поддержкой передачи данных будут недоступны. Выйти?}}"</string>
-    <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {Режим экстренных обратных вызовов будет действовать ещё 1 минуту.
-Выйти?} other {Режим экстренных обратных вызовов будет действовать ещё %s минут. 
-Выйти?}  few {Режим экстренных обратных вызовов будет действовать ещё %s минуты. 
-Выйти?} }"</string>
     <string name="alert_dialog_exit_scm">Устройство находится в режиме SMS Callback. Приложения с поддержкой передачи данных недоступны. Выйти?</string>
     <string name="alert_dialog_in_ecm_call">Выбранное действие недоступно при экстренном вызове</string>
     <string name="alert_dialog_in_scm_call">Выбранное действие недоступно при экстренном вызове</string>
     <string name="alert_dialog_no">Нет</string>
-    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё 1 минуту. Выйти?} other {Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё %s минут. Выйти?}  few {Выбранное действие недоступно в режиме экстренных обратных вызовов. Устройство будет в этом режиме ещё %s минуты. Выйти?}}"</string>
     <string name="alert_dialog_not_avaialble_in_scm">Выбранное действие недоступно в режиме SMS Callback. Выйти?</string>
     <string name="alert_dialog_ok">ОК</string>
     <string name="alert_dialog_yes">Да</string>
