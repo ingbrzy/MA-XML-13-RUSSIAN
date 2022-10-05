@@ -161,7 +161,7 @@
     <string name="accessibility_dialog_button_deny">Запретить</string>
     <string name="accessibility_dialog_button_stop">Остановить</string>
     <string name="accessibility_disable_animations">Отключить анимацию</string>
-    <string name="accessibility_disable_animations_summary">Уменьшить количество анимаций на экране</string>
+    <string name="accessibility_disable_animations_summary">Уменьшить количество анимации на экране</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Настройте отображение цветов на вашем устройстве. Это может быть полезно, когда хотите:<ol><li><br/><br/> Видеть цвета более точно</li><li> Убрать цвета, чтобы сосредоточиться</li></ol></string>
     <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
     <string name="accessibility_display_inversion_preference_intro_text">Инверсия цветов позволяет сделать светлые цвета темными, а темные – светлыми.</string>
@@ -817,7 +817,7 @@
     <string name="app_launch_other_defaults_title">Другие настройки по умолчанию</string>
     <string name="app_launch_supported_domain_urls_title">Поддерживаемые ссылки</string>
     <string name="app_launch_supported_links_add">Добавить</string>
-    <string name="app_launch_supported_links_subtext">Открывается в приложении  %s</string>
+    <string name="app_launch_supported_links_subtext">Открывается в приложении %s</string>
     <string name="app_launch_top_intro_message">Открывать ссылки на веб-страницы в этом приложении</string>
     <string name="app_launch_verified_links_info_description">Показать список проверенных ссылок</string>
     <string name="app_link_open_always">Открывать</string>
@@ -1831,7 +1831,7 @@
     <string name="bluetooth_sim_card_access_notification_title">Запрос на доступ к SIM-карте</string>
     <string name="bluetooth_source_added_message">Источник трансляции успешно добавлен на приёмнике %1$s.</string>
     <string name="bluetooth_source_addition_error_message">Не удалось добавить источник трансляции на приёмнике %1$s.</string>
-    <string name="bluetooth_source_dup_addition_error_message">Не удалось добавить источник трансляции на приёмнике %1$s . Дублирование источника.</string>
+    <string name="bluetooth_source_dup_addition_error_message">Не удалось добавить источник трансляции на приёмнике %1$s. Дублирование источника.</string>
     <string name="bluetooth_source_no_empty_slot_error_message">Попробуйте удалить какой-либо источник на приёмнике %1$s. Нет свободного слота.</string>
     <string name="bluetooth_source_removal_error_message">Не удалось удалить источник трансляции на %1$s.</string>
     <string name="bluetooth_source_remove_invalid_group_op">Не удалось удалить источник трансляции на %1$s. Недопустимая групповая операция, попробуйте негрупповую операцию.</string>
@@ -3709,7 +3709,7 @@ ID: %s
     <string name="extra_app_info_summary" />
     <string name="extreme_threats_summary">Получать уведомления о серьезных угрозах жизни и имуществу</string>
     <string name="extreme_threats_title">Серьезные угрозы</string>
-    <string name="eye_gaze_summary">Устройство не будет блокироваться когда вы смотрите на экран</string>
+    <string name="eye_gaze_summary">Устройство не будет блокироваться, когда вы смотрите на экран</string>
     <string name="eye_gaze_title">Отслеживание взгляда</string>
     <string name="face_add_max">Максимальное количество лиц, которые можно добавить: %d</string>
     <string name="face_data_apply_for_category_title">Разблокировка</string>
@@ -4795,7 +4795,7 @@ ID: %s
     <string name="join_two_items">%1$s и %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
-    <string name="kddi_nfc_disabled_summary">Недоступно, функция NFC/Osaifu-keita отключена</string>
+    <string name="kddi_nfc_disabled_summary">Недоступно, функция NFC/Osaifu-keitai отключена</string>
     <string name="kddi_nfc_quick_toggle_summary">Включить функцию NFC/Osaifu-keitai</string>
     <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
     <string name="kddi_nfc_secure_settings_title">Выключение после блокировки</string>
@@ -5420,7 +5420,7 @@ ID: %s
     <string name="lockpassword_choose_your_pin_header_second_space">"Задайте PIN-код для
  второго пространства.
 Он должен быть такой же длины, как и PIN-код первого пространства."</string>
-    <string name="lockpassword_choose_your_pin_message">Задайте  PIN-код</string>
+    <string name="lockpassword_choose_your_pin_message">Задайте PIN-код</string>
     <string name="lockpassword_choose_your_pin_title">Введите от %1$d до %2$d цифр</string>
     <string name="lockpassword_choose_your_profile_password_header">Задайте пароль для рабочего профиля</string>
     <string name="lockpassword_choose_your_profile_pattern_header">Задайте граф. ключ для рабочего профиля</string>
@@ -5582,7 +5582,7 @@ ID: %s
     <string name="lost_internet_access_cancel">Не отключаться от сети Wi-Fi</string>
     <string name="lost_internet_access_persist">Больше не показывать</string>
     <string name="lost_internet_access_switch">Переключаться на мобильный интернет</string>
-    <string name="lost_internet_access_text">Использовать переключение на мобильный интернет при слабом сигнале Wi-Fi. За передачу данных может взиматься плата .</string>
+    <string name="lost_internet_access_text">Использовать переключение на мобильный интернет при слабом сигнале Wi-Fi. За передачу данных может взиматься плата.</string>
     <string name="lost_internet_access_title">Сеть Wi-Fi без доступа к интернету</string>
     <string name="low_battery_summary">Низкий заряд батареи</string>
     <string name="low_dc_light_title">Устранение мерцания при низкой освещенности</string>
@@ -6103,7 +6103,7 @@ ID: %s
     <string name="miui_optimization_disabled">Отключить оптимизацию MIUI</string>
     <string name="miui_sos_around_photo_summary">Прикрепить %d фото с фронтальной и задней камер к текстовому сообщению, для отправки контактам в экстренных ситуациях</string>
     <string name="miui_sos_around_photo_title">Прикрепление фото</string>
-    <string name="miui_sos_around_voice_summary">Прикрепить %d-секундную аудиозапись к текстовому сообщению,  для отправки контактам в экстренных ситуациях</string>
+    <string name="miui_sos_around_voice_summary">Прикрепить %d-секундную аудиозапись к текстовому сообщению, для отправки контактам в экстренных ситуациях</string>
     <string name="miui_sos_around_voice_title">Прикрепление %d-секундного аудио</string>
     <string name="miui_sos_audio_summary">Воспроизвести сообщение SOS после поднятия трубки экстренным контактом</string>
     <string name="miui_sos_audio_title">Голосовое сообщение SOS</string>
