@@ -2351,8 +2351,8 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Выберите &lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt; и дождитесь перезагрузки устройства.</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Как стереть данные?</string>
     <string name="phone_locked_string">Устройство заблокировано</string>
-    <string name="phone_locked_string_owner_user">Слишком много неудачных попыток ввода пароля первого простанства. Устройство заблокировано.</string>
-    <string name="phone_locked_string_second_user">Слишком много неудачных попыток ввода пароля второго простанства. Устройство заблокировано.</string>
+    <string name="phone_locked_string_owner_user">Слишком много неудачных попыток ввода пароля первого пространства. Устройство заблокировано.</string>
+    <string name="phone_locked_string_second_user">Слишком много неудачных попыток ввода пароля второго пространства. Устройство заблокировано.</string>
     <string name="physical_keyboard_title">Физическая клавиатура</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
