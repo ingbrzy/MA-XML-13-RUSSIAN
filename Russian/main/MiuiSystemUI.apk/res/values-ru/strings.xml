@@ -444,7 +444,8 @@
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
-    <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.    <string name="avatar_picker_title">Выберите фото профиля</string>
+    <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
+    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="always_use_accessory">Использовать по умолчанию для этого USB аксессуара</string>
     <string name="always_use_device">Использовать по умолчанию для этого USB устройства</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
@@ -511,7 +512,7 @@
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="battery_low_button_not_open_power_save">Не сейчас</string>
     <string name="battery_low_button_open_power_save">Включить</string>
-    <string name="battery_low_description">Уровень заряда: %s. В режиме  экономии заряда включается тёмная тема, ограничиваются фоновые процессы и уведомления.</string>
+    <string name="battery_low_description">Уровень заряда: %s. В режиме экономии заряда включается тёмная тема, ограничиваются фоновые процессы и уведомления.</string>
     <string name="battery_low_intro">В режиме экономии заряда включается тёмная тема, ограничиваются фоновые процессы и уведомления</string>
     <string name="battery_low_percent_format">Осталось %s</string>
     <string name="battery_low_percent_format_hybrid">Осталось %1$s, хватит примерно на %2$s при текущем использовании</string>
@@ -579,7 +580,7 @@
     <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
     <string name="bluetooth_active_battery_level">Активно. Уровень заряда: %1$s</string>
-    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R:%2$s</string>
+    <string name="bluetooth_active_battery_level_untethered">Активно. Уровень заряда L: %1$s, R: %2$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
     <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
@@ -874,7 +875,7 @@
     <string name="controls_media_button_prev">Предыдущий трек</string>
     <string name="controls_media_close_session">Скрыть текущий сеанс?</string>
     <string name="controls_media_dismiss_button">Скрыть</string>
-    <string name="controls_media_playing_item_description">Воспроизводится %1$s с помошью %2$s из %3$s</string>
+    <string name="controls_media_playing_item_description">Воспроизводится %1$s с помощью %2$s из %3$s</string>
     <string name="controls_media_resume">Возобновить</string>
     <string name="controls_media_seekbar_description">%1$s из %2$s</string>
     <string name="controls_media_settings_button">Настройки</string>

@@ -1037,7 +1037,7 @@
     <string name="bh_settings_policy_text">Политика конфиденциальности</string>
     <string name="bh_settings_user_agreement">Пользовательское соглашение</string>
     <string name="bh_settings_withdrawal_dialog_content_text">"Если вы продолжите, согласие с Политикой конфиденциальности Yulore Limited будет отозвано.
-Сбор и использование вашей личной информации будут прекращены, а история заказов удалена. Прежде чем отозвать согласие, убедитесь что все транзакции завершены."</string>
+Сбор и использование вашей личной информации будут прекращены, а история заказов удалена. Прежде чем отозвать согласие, убедитесь, что все транзакции завершены."</string>
     <string name="bh_settings_withdrawal_dialog_not_content_text">"Вы хотите отозвать согласие с политикой конфиденциальности компании Yulore Limited.
 Некоторые транзакции еще не завершены. Чтобы отозвать согласие, обратитесь в службу поддержки для закрытия заказов."</string>
     <string name="bh_settings_withdrawal_dialog_title">Отзыв согласия</string>
@@ -1093,7 +1093,7 @@
     <string name="btn_text_goto_setup">Настройки</string>
     <string name="btn_text_network_speed_detail">Подключение</string>
     <string name="btn_text_open_now">Включить</string>
-    <string name="btn_text_optimize_extend_battery_time">Добавить %sк автономности</string>
+    <string name="btn_text_optimize_extend_battery_time">Добавить %s к автономности</string>
     <string name="btn_text_optimize_manually">Оптимизировать вручную</string>
     <string name="btn_text_optimize_now">Оптимизировать</string>
     <string name="btn_text_power_cleanup">Глубокая очистка</string>
@@ -1544,7 +1544,7 @@
     <string name="eletric_group_title_two_identification_risk_screen_summary">Приостановка трансляции при переключении на личные приложения, такие как Галерея, Сообщения и др.</string>
     <string name="eletric_group_two_identification_risk_app">Предупреждение о рискованных финансовых операциях</string>
     <string name="eletric_group_two_identification_risk_mms">Защита кодов подтверждения</string>
-    <string name="eletric_identification_unfamiliar_numbers">Идентифицикация неизвестных номеров</string>
+    <string name="eletric_identification_unfamiliar_numbers">Идентификация неизвестных номеров</string>
     <string name="eletric_identification_unfamiliar_numbers_summary">Отображение типа вызова для неизвестных номеров на основе отзывов пользователей</string>
     <string name="eletric_key_protect_electric_announcement">Защита от мошенничества</string>
     <string name="eletric_no_grant_dialog_message_for_phone">Предоставьте необходимые разрешения для определения неизвестных номеров</string>
@@ -2865,7 +2865,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="mark_sell_time_setting">Блокировать номера, отмеченные как телемаркетинг определённое количество раз</string>
     <string name="mark_time_setting_dialog_title">Отметить номер</string>
     <string name="mark_time_text">%d</string>
-    <string name="marked_by_user">"Вы отметили как "</string>
+    <string name="marked_by_user">"Отмечено как "</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Выберите AM или PM</string>
     <string name="material_hour_selection">Часы</string>
@@ -3355,7 +3355,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="open_activity_err">Приложение не найдено</string>
     <string name="open_alarm_right_now">Открыть</string>
     <string name="open_app">Открыть</string>
-    <string name="open_callwait">Вкл</string>
+    <string name="open_callwait">Вкл.</string>
     <string name="open_dnd_mode">Режим \"Не беспокоить\"</string>
     <string name="open_extreme_power_save_mode_title">Включение экстремальной экономии заряда</string>
     <string name="open_game">Открыть</string>
@@ -4209,7 +4209,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_apps_shield_message_title">Не показывать уведомления</string>
     <string name="privacy_apps_tutorial">Руководство</string>
     <string name="privacy_apps_tutorial_dlg_message_1">Разведите два пальца на рабочем столе для доступа к скрытым приложениям</string>
-    <string name="privacy_apps_tutorial_dlg_message_2">Примечание: При скрытии приложения скрывается только его ярлык с рабочего стола</string>
+    <string name="privacy_apps_tutorial_dlg_message_2">Примечание: при скрытии приложения скрывается только его ярлык с рабочего стола</string>
     <string name="privacy_apps_tutorial_dlg_title">Как найти скрытые приложения</string>
     <string name="privacy_apps_tutorial_prompt_pageone">Функция позволяет скрыть ярлыки приложений с рабочего стола</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">В случае включенной защиты приложений, появится запрос пароля. После успешного ввода откроется папка со скрытыми приложениями.</string>
@@ -4258,7 +4258,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_flares_current_detail_cam_loc">Приложение использует камеру и геолокацию</string>
     <string name="privacy_flares_current_detail_cam_mic">Приложение использует камеру и микрофон</string>
     <string name="privacy_flares_current_detail_loc">Приложение использует геолокацию</string>
-    <string name="privacy_flares_current_detail_mic">TПриложение использует микрофон</string>
+    <string name="privacy_flares_current_detail_mic">Приложение использует микрофон</string>
     <string name="privacy_flares_current_detail_mic_loc">Приложение использует микрофон и геолокацию</string>
     <string name="privacy_flares_current_detail_more">Приложение использует конфиденциальное разрешение</string>
     <string name="privacy_flares_recent">Недавно</string>
@@ -4329,7 +4329,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="privacy_provision_back">Назад</string>
     <string name="privacy_provision_more">Узнайте больше о защите приватности</string>
     <string name="privacy_provision_next">Далее</string>
-    <string name="privacy_provision_summary">Защита приватности - это обязательство, стоящее за дизайном наших продуктов</string>
+    <string name="privacy_provision_summary">Защита приватности - обязательство, стоящее за дизайном наших продуктов</string>
     <string name="privacy_provision_text">Мы уважаем вашу конфиденциальность и стремимся защищать её. Отдавая приоритет исследованиям и разработкам в области информационной безопасности, Xiaomi постоянно работает над улучшением методов, практик и технических решений, обеспечивающих защиту ваших данных. Мы также делимся нашими последними достижениями с нашими партнерами, чтобы обеспечить вашу конфиденциальность по всем направлениям.</string>
     <string name="privacy_provision_title">Конфиденциальность</string>
     <string name="privacy_recommend_category">Персонализация</string>
@@ -4698,7 +4698,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="show_traffic_dialog_message">Информация о трафике будет показана в шторке уведомлений. Включить или отключить эту функцию можно в Настройках.</string>
     <string name="show_traffic_dialog_title">Виджет в шторке уведомлений</string>
     <string name="showpattern">Отображать ключ при вводе</string>
-    <string name="shut_down_password_content">У случае потери устройства, подтверждение выключения защитит его от выключения любым, кто его найдет</string>
+    <string name="shut_down_password_content">В случае потери устройства, подтверждение выключения защитит его от выключения любым, кто его найдет</string>
     <string name="shutdown_cancel_reminder">Устройство не было выключено</string>
     <string name="shutdown_cancel_reminder_detail">Устройство не было выключено, так как совершался вызов</string>
     <string name="shutdown_cancel_reminder_detail2">Устройство не было выключено, так как запущено игровое приложение</string>
@@ -5157,7 +5157,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="storage_app_detail_dialog_cancel">Отмена</string>
     <string name="storage_app_detail_dialog_ok">ОК</string>
     <string name="storage_app_detail_manage_space">%s - Управление местом</string>
-    <string name="storage_app_detail_manager_enabled">On</string>
+    <string name="storage_app_detail_manager_enabled">Вкл.</string>
     <string name="storage_app_detail_qq_cleaner">QQ Cleaner</string>
     <string name="storage_app_detail_sdcard">Данные приложения</string>
     <string name="storage_app_detail_system">Размер приложения</string>
@@ -5619,7 +5619,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="timeshow_s">%d сек.</string>
     <string name="tips">Совет</string>
     <string name="tips_by_auto_close">Для возможности предупреждений о балансе и лимите трафика, необходима автоматическая синхронизация статистики оператора. Включить синхронизацию?</string>
-    <string name="tips_by_reminder_function">Вы не сможете получать предупреждения  о балансе и лимите трафика, если отключите автоматическую синхронизацию.</string>
+    <string name="tips_by_reminder_function">Вы не сможете получать предупреждения о балансе и лимите трафика, если отключите автоматическую синхронизацию.</string>
     <string name="tips_dialog_title">Лимит неизвестен</string>
     <string name="tips_message">Чтобы узнать о своем тарифном плане, позвоните %2$s (%1$s).</string>
     <string name="tips_of_app_manage">Удаление редко используемых приложений</string>
@@ -6184,7 +6184,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="wireless_charging_fg_control_cancel">Отмена</string>
     <string name="wireless_charging_fg_control_messgae">Заряд батареи менее %s, обратная беспроводная зарядка отключена. Чтобы изменить порог отключения, перейдите в настройки.</string>
     <string name="wireless_charging_fg_control_ok">Настройки</string>
-    <string name="wireless_charging_low_battery_level_message">Обратная беспроводная зарядка надоступна при заряде батареи менее %s</string>
+    <string name="wireless_charging_low_battery_level_message">Обратная беспроводная зарядка недоступна при заряде батареи менее %s</string>
     <string name="wireless_charging_ok">ОК</string>
     <string name="wireless_charging_saver_cancel">Отключить</string>
     <string name="wireless_charging_saver_message">Включена экономия заряда батареи. Оставить включенной обратную беспроводную зарядку?</string>

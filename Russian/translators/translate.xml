@@ -168,7 +168,8 @@
     <string name="allow_mock_modem">Разрешить имитацию модема</string>
     <string name="allow_mock_modem_summary">Разрешить этому устройству запускать сервис, имитирующий модем, для инструментального теста. Не включайте этот параметр, когда пользуетесь телефоном в обычном режиме.</string>
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
-    <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.    <string name="avatar_picker_title">Выберите фото профиля</string>
+     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
+    <string name="avatar_picker_title">Выберите фото профиля</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="app_info_all_services_label">Все сервисы</string>
     <string name="app_locale_picker_summary">Выберите язык для каждого приложения</string>

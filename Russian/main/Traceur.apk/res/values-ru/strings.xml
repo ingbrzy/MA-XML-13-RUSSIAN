@@ -102,7 +102,6 @@
     <string name="allow_turn_screen_on">Разрешить включение экрана</string>
     <string name="allow_turn_screen_on_description">Разрешить приложению включать экран. Приложение сможет включать экран в любое время без вашего участия.</string>
     <string name="animator_duration_scale_title">Длительность анимации</string>
-    <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="apn_settings_not_available">Access Point Name settings are not available for this user</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="applications">Приложения</string>

@@ -511,7 +511,7 @@
     <string name="not_support_data_link">Данные, которые не могут быть перенесены</string>
     <string name="not_support_data_summary1">Темы, обои, транспортные карты и карты-ключи не могут быть перенесены с помощью Mi Mover.</string>
     <string name="not_support_data_summary2">Некоторые приложения накладывают ограничения на передачу данных приложения в целях безопасности. К таким приложениям относятся банковские и финансовые приложения.</string>
-    <string name="not_support_data_summary3">Из-за системных ограничений данные из второго простанства не могут быть перенесены с помощью Mi Mover.</string>
+    <string name="not_support_data_summary3">Из-за системных ограничений данные из второго пространства не могут быть перенесены с помощью Mi Mover.</string>
     <string name="not_support_data_summary4">Клоны приложений и их данные не могут быть перенесены, но вы можете перенести соответствующие основные приложения.</string>
     <string name="not_support_data_title">Данные, которые не могут быть перенесены</string>
     <string name="note">Заметки</string>
