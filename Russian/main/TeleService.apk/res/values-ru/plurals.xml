@@ -32,7 +32,6 @@
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Режим экстренных обратных вызовов будет действовать ещё %s мин. Приложения с поддержкой передачи данных будут недоступны. Выйти?</item>
         <item quantity="one">Режим экстренных обратных вызовов будет действовать ещё %s мин. Приложения с поддержкой передачи данных будут недоступны. Выйти?</item>
-</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
         <item quantity="other">"Режим экстренных обратных вызовов будет действовать ещё %s мин. 
