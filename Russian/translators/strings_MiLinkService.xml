@@ -104,8 +104,22 @@
     <string name="circulate_card_mirror_tv_button_1">Плавающее окно</string>
     <string name="circulate_card_mirror_tv_button_2">Выключить экран</string>
     <string name="circulate_card_mirror_tv_button_3">Конфиденциальность</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_card_sticker">Stickers</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Show remotes</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_card_sticker_access">Double tap to activate</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_card_sticker_add">Add stickers</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_card_sticker_blank_contentDescription">Double tap the blank area to exit</string>
     <string name="circulate_card_sticker_complete">Готово</string>
     <string name="circulate_card_sticker_control_contentDescription">Панель управления</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_card_sticker_dressing_equipment">Customize device</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_card_sticker_expend_contentDescription">Show customized devices</string>
     <string name="circulate_card_sticker_no">Ничего нет</string>
     <string name="circulate_card_sticker_remote_control">Пульт ТВ</string>
     <string name="circulate_card_sticker_remote_control_bottom">Вниз</string>
@@ -140,6 +154,64 @@
     <string name="circulate_device_type_name_phone">Телефон</string>
     <string name="circulate_device_type_name_tv">ТВ</string>
     <string name="circulate_device_type_name_wifi_speaker">Динамик</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_device_type_name_wifi_speaker_with_screen">Touch screen speaker</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_desc">"1. Put both earphones in the charging case.
+2. Press and hold the button on the case.
+3. Finish pairing on the target device."</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_desc_err_308">To be able to transfer playback between devices, pair your earphones to your TV first.</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Put both earphones in the case.
+2. Press and hold the button on the case.
+3. Finish pairing in Bluetooth settings or using a pop-up dialog on this device."</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Put both earphones in the case.
+2. Press and hold the button on the case.
+3. Finish pairing in Bluetooth settings or using a pop-up dialog on this device."</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Put both earphones in the charging case.
+2. Press and hold the button on the case.
+3. Open the list of available Bluetooth devices on your TV and confirm pairing."</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_subtitle">"Can't pair these earphones automatically. Pair them manually on the target device instead."</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_title">Pair earphones first</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_title_err_308">Pair your earphones</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_title_pad">Pair earphones with this device</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_title_phone">Pair earphones with this device</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_back_to_box_title_tv">Pair your earphones</string>
+    <string name="circulate_headset_duplicate_cancel">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_duplicate_dialog_message">Looks like another set of earphones is connected to your %1$s. Replace them with the current set?</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_duplicate_dialog_title">Replace earphones connected to %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_duplicate_ok">Replace</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_account_not_match">"Make sure you're using the same Xiaomi Account on both devices"</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_acquired_by_other_host">Using another device now. Try again later.</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_default">Connection timed out</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_device_not_support">"Can't connect earphones to this device"</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_headset_not_support">"Can't connect your earphones to this computer"</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Turn on Bluetooth on your TV
+and sign in to your Xiaomi Account"</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_self_upgrade">"Couldn't complete this action. Update Mi Smart Hub first."</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_timeout">Connection timed out</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_headset_error_upgrade">Update Mi Smart Hub on your target device first</string>
     <string name="circulate_help_button_content_description">Справка</string>
     <string name="circulate_help_card_subtitle">Просмотр справки</string>
     <string name="circulate_help_card_title">"Не удалось
@@ -151,15 +223,21 @@
     <string name="circulate_local_phone_name">Моё устройство</string>
     <string name="circulate_public_device_title_format">"%1$s %2$s"</string>
     <string name="circulate_title">Mi Smart Hub</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_tv_power_alter_text">"You've set your TV to power off or turn its screen off. Remotes and TVs will disappear from here after the TV is powered off."</string>
     <string name="circulate_tv_power_alter_title">Внимание</string>
     <string name="circulate_video_capture_fail">Не удалось сделать скриншот</string>
     <string name="circulate_video_capture_success">Скриншот сделан</string>
+<!-- ### FROM SOURCE -->
+    <string name="circulate_video_retry_later">Trying to control TV…</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_hotspot_hint_DFS">Отключите точку доступа перед трансляцией</string>
     <string name="close_invisible_mode_dialog_cancel">Отмена</string>
+<!-- ### FROM SOURCE -->
+    <string name="close_invisible_mode_dialog_message">"Can't use Mi Smart Play now. Turn off Incognito mode in the Settings to be able to use this feature."</string>
     <string name="close_invisible_mode_dialog_ok">Настройки</string>
     <string name="close_invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="close_slave_wifi_hint">Отключите дополнительную сеть Wi-Fi перед трансляцией</string>
@@ -217,8 +295,12 @@
     <string name="enable_screen_projection_summary">Вывод на внешний монитор</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
+<!-- ### FROM SOURCE -->
+    <string name="err_toast_msg_audio_support_support_only">This device only supports transferring audio playback. Try dragging the audio card.</string>
     <string name="err_toast_msg_default">Это действие не поддерживается</string>
     <string name="err_toast_msg_mirror_and_bluetooth_support_only">Не удалось передать аудиопоток</string>
+<!-- ### FROM SOURCE -->
+    <string name="err_toast_msg_mirror_support_support_only">"This device only supports screen mirroring. Try dragging the card with this device's screen."</string>
     <string name="err_toast_msg_not_support">Это действие не поддерживается</string>
     <string name="err_toast_msg_not_support_audio_protocol">Передача аудиопотока на это устройство не поддерживается</string>
     <string name="err_toast_msg_not_support_video_protocol">Это устройство не поддерживает MIUI+</string>
@@ -264,6 +346,22 @@
     <string name="guide_confirm_button_text">Начать</string>
     <string name="guide_exit_button_content_description">Выход</string>
     <string name="guide_next_button_text">Подробнее</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_0">Mi Smart Hub unites your devices into a single working station by allowing you to start a task on one of the devices and then switching to another device seamlessly.</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_0_pad">Mi Smart Hub combines your mobile devices, as well as TVs and smart speakers that are connected to the same Wi-Fi network, into a single working station by allowing you to start a task on one of the devices and then switching to another device seamlessly.</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_0_pad_global">Mi Smart Hub combines your mobile devices, as well as TVs and smart speakers that are connected to the same Wi-Fi network, into a single working station by allowing you to start a task on one of the devices and then switching to another device seamlessly.</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_1">Drag the audio card to a speaker or TV to continue playback on another device.</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_1_pad">Drag the audio card to a speaker or TV to continue playback on another device.</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_2">"Drag the card with this device's screen to a tablet, computer, or TV to mirror what's on your device's screen."</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_2_pad">"Drag the card with this device's screen to a TV to mirror what's on your device's screen."</string>
+<!-- ### FROM SOURCE -->
+    <string name="guide_page_subtitle_3">"Drag the app to Mi Smart Hub and select the device on which you'd like to continue your current task."</string>
     <string name="guide_page_title_0">Добро пожаловать в Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">Добро пожаловать в Mi Smart Hub!</string>
     <string name="guide_page_title_1">Воспроизведение аудио</string>
@@ -381,7 +479,35 @@
     <string name="midnight">Ночь</string>
     <string name="mipaly_server_exit_touping">Сначала остановите текущую трансляцию</string>
     <string name="miplay_accessibility_cast">Выбор устройства</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_accessibility_cover">Cover</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_accessibility_next">Next song</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_accessibility_pause">Pause</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_accessibility_play">Play</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_accessibility_prev">Previous song</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_accessibility_seekbar">Progress bar</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_accessibility_volume">Volume</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_detail_divider_title">TV and speakers</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_detail_header_no_song">No playback</string>
     <string name="miplay_device_full_name">"%1$s %2$s"</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_headset_lc3_hint">Turn off LC3 mode to switch audio output back to this device.</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_mini_card_no_song_but_attached_hint">About to play audio on %1$s</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_mini_card_no_song_pad_title">Tablet audio</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_mini_card_no_song_subtitle">No playback</string>
+<!-- ### FROM SOURCE -->
+    <string name="miplay_mini_card_no_song_title">Phone audio</string>
     <string name="miplay_service_timeout_toast">Таймаут соединения. Попробуйте снова.</string>
     <string name="miplay_song_title_empty">Ничего нет</string>
     <string name="miuix_access_state_desc">Выбрано</string>

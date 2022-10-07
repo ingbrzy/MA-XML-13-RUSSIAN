@@ -4360,6 +4360,15 @@
     <string name="st_antispam_mode_only_contacts_state">11110000</string>
     <string name="st_antispam_mode_only_whitelist_state">11000000</string>
     <string name="st_antispam_mode_smart_state">11111111</string>
+    <string name="stat_cancel">cancel</string>
+    <string name="stat_confirm">confirm</string>
+    <string name="stat_failed">fail</string>
+    <string name="stat_pad">pad</string>
+    <string name="stat_phone">phone</string>
+    <string name="stat_src_click">click</string>
+    <string name="stat_src_pull">pull</string>
+    <string name="stat_src_push">push</string>
+    <string name="stat_success">success</string>
     <string name="stat_sys_data_connected_1x_half">1X</string>
     <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
     <string name="status_bar_airplane">airplane</string>
