@@ -251,13 +251,13 @@
     <string name="pbap_notification_group">Передача контактов по Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth</string>
     <string name="pbap_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
-    <string name="permdesc_bluetoothAcceptlist">Приложение сможет временно внести Bluetooth-устройство в список разрешенных и позволить ему отправлять файлы на ваше устройство без подтверждения</string>
+    <string name="permdesc_bluetoothAcceptlist">Приложение сможет временно внести Bluetooth-устройство в список разрешённых и позволить ему отправлять файлы на ваше устройство без подтверждения</string>
     <string name="permdesc_bluetoothShareManager">Приложение получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов.</string>
-    <string name="permdesc_bluetoothWhitelist">Приложение сможет временно внести Bluetooth-устройство в список разрешенных и позволить ему отправлять файлы на ваше устройство без подтверждения</string>
+    <string name="permdesc_bluetoothWhitelist">Приложение сможет временно внести Bluetooth-устройство в список разрешённых и позволить ему отправлять файлы на ваше устройство без подтверждения</string>
     <string name="permdesc_handoverStatus">Позволяет получать информацию о статусе передачи по Bluetooth.</string>
-    <string name="permlab_bluetoothAcceptlist">Доступ для Bluetooth-устройств из списка разрешенных</string>
+    <string name="permlab_bluetoothAcceptlist">Доступ для Bluetooth-устройств из списка разрешённых</string>
     <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки</string>
-    <string name="permlab_bluetoothWhitelist">Доступ для Bluetooth-устройств из списка разрешенных</string>
+    <string name="permlab_bluetoothWhitelist">Доступ для Bluetooth-устройств из списка разрешённых</string>
     <string name="permlab_handoverStatus">Приём широковещательной передачи с BT</string>
     <string name="phonebook_advance_feature_support">Поддержка телефонной книги</string>
     <string name="process"/>

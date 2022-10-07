@@ -176,7 +176,7 @@
     <string name="activity_title_fakecell">Защита от поддельных базовых станций</string>
     <string name="adb_device_fingerprint_title_format">Отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Забыть</string>
-    <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешен?</string>
+    <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешён?</string>
     <string name="adb_pair_method_code_summary">Сопряжение новых устройств с помощью шестизначного кода</string>
     <string name="adb_pair_method_code_title">Шестизначный код</string>
     <string name="adb_pair_method_qrcode_summary">Сопряжение новых устройств с помощью сканера QR-кодов</string>
@@ -493,7 +493,7 @@
     <string name="callFailed_dsac_restricted_normal">В вашем домене запрещено звонить на обычные номера</string>
     <string name="callFailed_emergency_call_over_wfc_not_available">Экстренные вызовы по Wi-Fi не доступны.</string>
     <string name="callFailed_facility_rejected">Объект отклонен</string>
-    <string name="callFailed_fdn_only">Вы можете звонить только на номера из списка разрешенных.</string>
+    <string name="callFailed_fdn_only">Вы можете звонить только на номера из списка разрешённых.</string>
     <string name="callFailed_imei_not_accepted">Ошибка подключения. Вставьте поддерживаемую SIM-карту.</string>
     <string name="callFailed_incoming_calls_barred_within_CUG">Входящие звонки запрещены в пределах CUG</string>
     <string name="callFailed_incoming_cb_enabled">Все входящие вызовы запрещены.</string>
@@ -1182,8 +1182,8 @@
     <string name="fake_phone_activity_placeCall_text">Поддельный входящий вызов</string>
     <string name="fdn">Разрешенные номера</string>
     <string name="fdnListLabel">Разрешенные номера</string>
-    <string name="fdn_activation">Активация разрешенных номеров</string>
-    <string name="fdn_check_failure">Включена функция набора разрешенных номеров. Некоторые функции вызовов недоступны.</string>
+    <string name="fdn_activation">Активация разрешённых номеров</string>
+    <string name="fdn_check_failure">Включена функция набора разрешённых номеров. Некоторые функции вызовов недоступны.</string>
     <string name="fdn_contact_added">Разрешенный номер добавлен</string>
     <string name="fdn_contact_deleted">Разрешенный номер удалён</string>
     <string name="fdn_contact_updated">Разрешенный номер обновлён</string>
@@ -1194,7 +1194,7 @@
     <string name="fdn_full">Разрешенный номер не обновлён. Список заполнен.</string>
     <string name="fdn_invalid_number">Разрешенный номер не обновлён. Он пуст или содержит более %d цифр.</string>
     <string name="fdn_list_with_label">Разрешенные номера (%s)</string>
-    <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешенных номеров или определёнными префиксами</string>
+    <string name="fdn_summary">Настройки ограничения исходящих вызовов списком разрешённых номеров или определёнными префиксами</string>
     <string name="fdn_with_label">Разрешенные номера (%s)</string>
     <string name="fire_type_description">Активность</string>
     <string name="fiveg_available_status1">Доступность NR :</string>
@@ -2083,7 +2083,7 @@
 Телефон будет заблокирован при неудачной попытке ввода"</string>
     <string name="pin_progress_change_pin">Изменение PIN…</string>
     <string name="pin_progress_change_pin2">Изменение PIN2…</string>
-    <string name="pin_progress_set_fdn_lock">Установка блокировки разрешенных номеров…</string>
+    <string name="pin_progress_set_fdn_lock">Установка блокировки разрешённых номеров…</string>
     <string name="pin_progress_set_icc_lock">Установка блокировки ICC…</string>
     <string name="pin_progress_unlock_icc">Разблокировка SIM-карты…</string>
     <string name="pin_puk_system_user_only">Только владелец устройства может вводить коды PIN/PUK.</string>
@@ -2539,7 +2539,7 @@ UT-интерфейс: %5$s"</string>
     <string name="simContacts_empty">На SIM-карте нет контактов</string>
     <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
     <string name="simContacts_title">Выберите контакты для импорта</string>
-    <string name="simFdnContacts_empty">Нет разрешенных номеров</string>
+    <string name="simFdnContacts_empty">Нет разрешённых номеров</string>
     <string name="sim_accounts">Аккаунты SIM</string>
     <string name="sim_can_not_read">слот для карты %d поддерживает только SIM-карту оператора MTN</string>
     <string name="sim_card_num">SIM %s</string>
@@ -2710,8 +2710,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sum_cw_enabled">Уведомление о входящих вызовах во время разговора</string>
     <string name="sum_default_caller_id">Использовать настройки оператора связи</string>
     <string name="sum_fdn">Управление разрешенными номерами</string>
-    <string name="sum_fdn_change_pin">Изменение кода доступа к списку разрешенных номеров</string>
-    <string name="sum_fdn_manage_list">Управление списком разрешенных номеров</string>
+    <string name="sum_fdn_change_pin">Изменение кода доступа к списку разрешённых номеров</string>
+    <string name="sum_fdn_manage_list">Управление списком разрешённых номеров</string>
     <string name="sum_gsm_call_settings">Дополнительные настройки (только GSM)</string>
     <string name="sum_hide_caller_id">Скрывать номер при исходящих вызовах</string>
     <string name="sum_loading_settings">Загрузка настроек…</string>

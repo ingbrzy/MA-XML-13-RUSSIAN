@@ -1228,7 +1228,7 @@
     <string name="mmiComplete">Запрос MMI завершен.</string>
     <string name="mmiError">Неполадки подключения или неверный код MMI.</string>
     <string name="mmiErrorWhileRoaming">Вы не можете изменить настройки переадресации вызовов, поскольку находитесь в роуминге.</string>
-    <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
+    <string name="mmiFdnError">Операция возможна только для разрешённых номеров.</string>
     <string name="mobile_no_internet">Мобильная сеть без доступа в интернет</string>
     <string name="mobile_provisioning_apn"/>
     <string name="mobile_provisioning_url"/>

@@ -168,7 +168,7 @@
     <string name="cetus_invisible_mode_notice_location">Режим инкогнито: геолокация недоступна</string>
     <string name="cetus_invisible_mode_notice_tip">Нажмите, чтобы отключить режим инкогнито в настройках</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
-    <string name="clipboard_ai_allow_once">Приложению %1$s был автоматически разрешен доступ к буферу обмена</string>
+    <string name="clipboard_ai_allow_once">Приложению %1$s был автоматически разрешён доступ к буферу обмена</string>
     <string name="clipboard_ai_allow_tip">Приложению %1$s разрешено чтение %2$s из буфера обмена</string>
     <string name="clipboard_data">Буфер обмена</string>
     <string name="clipboard_data_request">Приложение %1$s пытается получить доступ к буферу обмена</string>

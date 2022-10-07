@@ -512,7 +512,7 @@
     <string name="adb_authorization_timeout_title">Отмена авторизации ADB</string>
     <string name="adb_device_fingerprint_title_format">Отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Забыть</string>
-    <string name="adb_keys_warning_message">Запретить доступ к отладке по USB для всех компьютеров, которым он был разрешен?</string>
+    <string name="adb_keys_warning_message">Запретить доступ к отладке по USB для всех компьютеров, которым он был разрешён?</string>
     <string name="adb_pair_method_code_summary">Сопряжение новых устройств с использованием шестизначного кода</string>
     <string name="adb_pair_method_code_title">Шестизначный код</string>
     <string name="adb_pair_method_qrcode_summary">Сопряжение новых устройств с использованием QR-кода</string>
@@ -867,8 +867,8 @@
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="app_restricted_settings_lockscreen_title">Разрешить доступ к настройкам</string>
     <string name="app_restrictions_custom_label">Настроить ограничения</string>
-    <string name="app_sees_restricted_accounts">Этому приложению разрешен доступ к вашим аккаунтам</string>
-    <string name="app_sees_restricted_accounts_and_controlled_by">Этому приложению разрешен доступ к вашим аккаунтам. Управляется приложением \"%1$s\".</string>
+    <string name="app_sees_restricted_accounts">Этому приложению разрешён доступ к вашим аккаунтам</string>
+    <string name="app_sees_restricted_accounts_and_controlled_by">Этому приложению разрешён доступ к вашим аккаунтам. Управляется приложением \"%1$s\".</string>
     <string name="app_settings_link">Настройки уведомлений в приложении</string>
     <string name="app_switch_key">Кнопка \"Меню\"</string>
     <string name="app_uninstall_sounds_enable_title">Звук удаления приложения</string>
@@ -6778,7 +6778,7 @@ ID: %s
     <string name="notifi_importance_low">Звук и вибрация отключены</string>
     <string name="notifi_importance_min">Только в панели уведомлений</string>
     <string name="notifi_importance_none">Все уведомления отключены</string>
-    <string name="notifi_importance_unspecified">Звук разрешен</string>
+    <string name="notifi_importance_unspecified">Звук разрешён</string>
     <string name="notifi_no_channels">Категории отсутствуют</string>
     <string name="notification_access_detail_switch">Разрешить доступ</string>
     <string name="notification_alert_title">Оповещения</string>
@@ -10091,7 +10091,7 @@ UT-интерфейс: %5$s"</string>
     <string name="title_special_features_health_global">Частота пульса</string>
     <string name="to_close">Отключить</string>
     <string name="to_switch_networks_disconnect_ethernet">Чтобы переключиться между сетями, отключите кабель Ethernet</string>
-    <string name="toast_allows_restricted_settings_successfully">Приложению \"%s\" разрешен доступ к настройкам.</string>
+    <string name="toast_allows_restricted_settings_successfully">Приложению \"%s\" разрешён доступ к настройкам.</string>
     <string name="toast_apply_font_fail">Не удалось установить шрифт</string>
     <string name="toast_disconnect_earphone">Отсоедините наушники и повторите попытку</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
@@ -10842,7 +10842,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vpn_l2tp_secret">Ключ L2TP</string>
     <string name="vpn_lockdown_config_error">Укажите IP-адрес для сервера и DNS.</string>
     <string name="vpn_lockdown_none">Не использовать</string>
-    <string name="vpn_lockdown_summary">Выберите постоянную сеть VPN: трафик будет разрешен только при подключении к этой сети.</string>
+    <string name="vpn_lockdown_summary">Выберите постоянную сеть VPN: трафик будет разрешён только при подключении к этой сети.</string>
     <string name="vpn_menu_delete">Удалить профиль</string>
     <string name="vpn_menu_edit">Изменить профиль</string>
     <string name="vpn_menu_lockdown">Постоянная VPN</string>
@@ -11800,7 +11800,7 @@ UT-интерфейс: %5$s"</string>
     <string name="yes">Да</string>
     <string name="yesterday">Вчера</string>
     <string name="zen_access_detail_switch">Разрешить доступ к режиму \"Не беспокоить\"</string>
-    <string name="zen_access_disabled_package_warning">Должно быть включено, поскольку разрешен доступ к уведомлениям</string>
+    <string name="zen_access_disabled_package_warning">Должно быть включено, поскольку разрешён доступ к уведомлениям</string>
     <string name="zen_access_empty_text">Установленные приложения не запрашивали доступ к функции \"Не беспокоить\"</string>
     <string name="zen_access_revoke_warning_dialog_summary">Все правила режима \"Не беспокоить\", созданные этим приложением, будут удалены.</string>
     <string name="zen_access_revoke_warning_dialog_title">Отменить доступ к режиму \"Не беспокоить\" для приложения %1$s?</string>
@@ -12078,7 +12078,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_when_every_night">Каждый вечер</string>
     <string name="zen_mode_when_never">Никогда</string>
     <string name="zen_mode_when_weeknights">Вечером по будням</string>
-    <string name="zen_msg_event_reminder_footer">В режиме \"Не беспокоить\" все сообщения, напоминания и мероприятия будут без звука, за исключением разрешенных выше. Можно изменить настройки, чтобы ваши друзья, семья или другие контакты могли связаться с вами.</string>
+    <string name="zen_msg_event_reminder_footer">В режиме \"Не беспокоить\" все сообщения, напоминания и мероприятия будут без звука, за исключением разрешённых выше. Можно изменить настройки, чтобы ваши друзья, семья или другие контакты могли связаться с вами.</string>
     <string name="zen_msg_event_reminder_title">Сообщения, мероприятия и напоминания</string>
     <string name="zen_onboarding_current_setting_summary">(текущие)</string>
     <string name="zen_onboarding_current_setting_title">Отключить звук уведомлений</string>

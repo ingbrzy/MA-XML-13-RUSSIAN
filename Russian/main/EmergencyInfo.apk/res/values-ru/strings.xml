@@ -66,7 +66,7 @@
     <string name="active_input_method_subtypes">Активные способы ввода</string>
     <string name="adb_device_fingerprint_title_format">Отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Забыть</string>
-    <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешен?</string>
+    <string name="adb_keys_warning_message">Запретить доступ к USB-отладке для всех компьютеров, которым он был разрешён?</string>
     <string name="adb_pair_method_code_summary">Сопряжение новых устройств с помощью шестизначного кода</string>
     <string name="adb_pair_method_code_title">Шестизначный код</string>
     <string name="adb_pair_method_qrcode_summary">Сопряжение новых устройств с помощью сканера QR-кодов</string>

@@ -397,7 +397,7 @@
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="adb_device_fingerprint_title_format">Отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Забыть</string>
-    <string name="adb_keys_warning_message">Запретить доступ к отладке по USB для всех компьютеров, которым он был разрешен?</string>
+    <string name="adb_keys_warning_message">Запретить доступ к отладке по USB для всех ПК, которым он был разрешён?</string>
     <string name="adb_pair_method_code_summary">Сопряжение новых устройств с помощью шестизначного кода</string>
     <string name="adb_pair_method_code_title">Шестизначный код</string>
     <string name="adb_pair_method_qrcode_summary">Сопряжение новых устройств с помощью сканера QR-кодов</string>
@@ -408,7 +408,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Код сопряжения Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Сопряжение с устройством</string>
     <string name="adb_qrcode_pairing_device_failed_msg">Ошибка сопряжения. Либо неверный QR-код, либо устройство не подключено к той же сети.</string>
-    <string name="adb_warning_message">Отладка по USB предназначена только для целей разработки. Этот режим позволяет перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения и просматривать системные журналы.</string>
+    <string name="adb_warning_message">Отладка по USB предназначена только для целей разработки. Этот режим позволяет перемещать файлы (с ПК и на ПК), напрямую устанавливать приложения и просматривать системные журналы.</string>
     <string name="adb_warning_title">Разрешить отладку по USB?</string>
     <string name="adb_wireless_connection_failed_message">Убедитесь, что %1$s подключен к правильной сети</string>
     <string name="adb_wireless_connection_failed_title">Ошибка подключения</string>
@@ -423,7 +423,7 @@
     <string name="adb_wireless_qrcode_summary">Сопряжение по Wi-Fi с помощью QR-кода</string>
     <string name="adb_wireless_settings">Беспроводная отладка</string>
     <string name="adb_wireless_verifying_qrcode_text">Сопряжение…</string>
-    <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения и просматривать системные журналы</string>
+    <string name="adbwifi_warning_message">Беспроводная отладка предназначена только для целей разработки.  Этот режим позволяет перемещать файлы (с ПК и на ПК), напрямую устанавливать приложения и просматривать системные журналы</string>
     <string name="adbwifi_warning_title">Разрешить беспроводную отладку?</string>
     <string name="add">Добавить</string>
     <string name="add_guest_failed">Не удалось создать нового гостя</string>
@@ -1070,7 +1070,7 @@
     <string name="empty_title">" "</string>
     <string name="empty_user_name">Друзья</string>
     <string name="enable_adb">Отладка по USB</string>
-    <string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
+    <string name="enable_adb_summary">Включить режим отладки при подключении к ПК по USB</string>
     <string name="enable_adb_wireless">Беспроводная отладка</string>
     <string name="enable_adb_wireless_summary">Режим отладки при подключении Wi-Fi</string>
     <string name="enable_atrace">Включить atrace</string>
@@ -3307,7 +3307,7 @@ d MMMM"</string>
 Вы получите уведомление, когда снова можно будет использовать USB-порт."</string>
     <string name="usb_contaminant_title">USB-порт отключён</string>
     <string name="usb_debugging_allow">Разрешить</string>
-    <string name="usb_debugging_always">Всегда разрешать этому компьютеру</string>
+    <string name="usb_debugging_always">Всегда разрешать этому ПК</string>
     <string name="usb_debugging_message">"Цифровой отпечаток ключа RSA:
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">В этом аккаунте нельзя включить отладку по USB. Перейдите в аккаунт основного пользователя.</string>
@@ -3325,10 +3325,10 @@ d MMMM"</string>
     <string name="usb_mode_notification">USB накопитель</string>
     <string name="usb_mtp_text">Файлы</string>
     <string name="usb_notification">USB подключено</string>
-    <string name="usb_notification_mtp_info">Доступ к файлам с компьютера</string>
+    <string name="usb_notification_mtp_info">Доступ к файлам с ПК</string>
     <string name="usb_notification_mtp_problem">Помощь</string>
     <string name="usb_notification_mtp_ticker_text">USB подключен (файлы)</string>
-    <string name="usb_notification_ptp_info">Доступ к фото с компьютера</string>
+    <string name="usb_notification_ptp_info">Доступ к фото с ПК</string>
     <string name="usb_notification_ptp_ticker_text">USB подключен (фото)</string>
     <string name="usb_port_enabled">USB-порт включён для обнаружения зарядных устройств и аксессуаров</string>
     <string name="usb_port_overheated_dialog_content">Порт зарядки перегрет. Отключите зарядное устройство от устройства и проверьте чистоту порта зарядки. Обратитесь в службу поддержки, если у вас есть вопросы.</string>
@@ -3341,12 +3341,12 @@ d MMMM"</string>
     <string name="usb_port_short_circuit_title">Порт зарядки содержит влагу</string>
     <string name="usb_preference_title">Параметры передачи через USB</string>
     <string name="usb_ptp_text">Фото</string>
-    <string name="usb_share_net_info">Использовать интернет компьютера</string>
+    <string name="usb_share_net_info">Использовать интернет ПК</string>
     <string name="usb_storage_error_message">Ошибка SD карты.</string>
-    <string name="usb_storage_message">Подключение к компьютеру через USB. Нажмите на кнопку ниже, если вы хотите обмениваться файлами между компьютером и накопителем вашего Android устройства.</string>
-    <string name="usb_storage_notification_message">Нажмите для обмена файлами с компьютером.</string>
+    <string name="usb_storage_message">Подключение к ПК через USB. Нажмите на кнопку ниже, если вы хотите обмениваться файлами между ПК и накопителем вашего Android устройства.</string>
+    <string name="usb_storage_notification_message">Нажмите для обмена файлами с ПК.</string>
     <string name="usb_storage_notification_title">USB подключено</string>
-    <string name="usb_storage_stop_message">Прежде чем отключить USB накопитель, убедитесь, что безопасно извлекли Android USB накопитель из вашего компьютера.</string>
+    <string name="usb_storage_stop_message">Прежде чем отключить USB накопитель, убедитесь, что безопасно извлекли Android USB накопитель из вашего ПК.</string>
     <string name="usb_storage_stop_notification_message">Нажмите для отключения USB накопителя.</string>
     <string name="usb_storage_stop_notification_title">Отключение USB накопителя</string>
     <string name="usb_storage_stop_title">USB накопитель используется</string>

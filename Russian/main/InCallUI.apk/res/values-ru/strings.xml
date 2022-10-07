@@ -52,7 +52,7 @@
     <string name="callFailed_dsac_restricted">В вашем домене запрещено выполнять вызовы</string>
     <string name="callFailed_dsac_restricted_emergency">В вашем домене запрещено выполнять экстренные вызовы</string>
     <string name="callFailed_dsac_restricted_normal">В вашем домене запрещено выполнять обычные вызовы</string>
-    <string name="callFailed_fdn_only">Можно звонить только на номера из списка разрешенных.</string>
+    <string name="callFailed_fdn_only">Можно звонить только на номера из списка разрешённых.</string>
     <string name="callFailed_incoming_cb_enabled">Входящие вызовы запрещены.</string>
     <string name="callFailed_invalid_credentials">Неверное имя пользователя или пароль</string>
     <string name="callFailed_limitExceeded">Превышен лимит ACM</string>

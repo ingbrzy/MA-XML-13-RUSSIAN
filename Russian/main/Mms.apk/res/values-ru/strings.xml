@@ -325,7 +325,7 @@
     <string name="fake_cell_safe_hint">Это сообщение безопасно</string>
     <string name="fake_cell_timeout_hint">Не удалось проверить безопасность</string>
     <string name="favorite_at_time">Добавлено в избранные: %1s</string>
-    <string name="fdn_check_failure">Можно отправлять сообщения только на номера из списка разрешенных.</string>
+    <string name="fdn_check_failure">Можно отправлять сообщения только на номера из списка разрешённых.</string>
     <string name="feature_mx">Mi Сообщения</string>
     <string name="feature_mx_summary"><b>Mi Сообщения позволяют бесплатно отправлять сообщения другим пользователям MIUI через интернет</b>. Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение. Перед использованием этого сервиса прочтите и примите <font color="#B3000000"><a href="http://url1">Пользовательское соглашение</a></font> и <font color="#B3000000"><a href="http://url2">Политику конфиденциальности</a></font>.</string>
     <string name="feature_smart_sms">Умные сообщения</string>

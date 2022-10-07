@@ -16,7 +16,7 @@
     <string name="HIPS_Perm_External_Storage">Хранилище</string>
     <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам в хранилище</string>
     <string name="HIPS_Perm_External_Storage_Group">Управление доступом</string>
-    <string name="HIPS_Perm_External_Storage_Group_Desc">Выбор файлов, к которым разрешен доступ приложениям</string>
+    <string name="HIPS_Perm_External_Storage_Group_Desc">Выбор файлов, к которым разрешён доступ приложениям</string>
     <string name="HIPS_Perm_GetInstall_Desc">Получение информации о приложениях, установленных на устройстве</string>
     <string name="HIPS_Perm_PhoneID_Desc">Доступ к номеру телефона, IMEI и IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и состоянию устройства</string>
@@ -728,7 +728,7 @@
     <string name="apps_item_sms_reset_button_text">Сброс настроек</string>
     <string name="apps_item_sms_title">Настройки сообщений по умолчанию</string>
     <string name="apps_item_summary_sms">%s имеет доступ к вашим сообщениям, это может привести к проблемам безопасности</string>
-    <string name="apps_item_summary_system_rooted">Разрешен ROOT-доступ. Восстановите настройки по умолчанию чтобы избежать угроз безопасности.</string>
+    <string name="apps_item_summary_system_rooted">Разрешён ROOT-доступ. Восстановите настройки по умолчанию чтобы избежать угроз безопасности.</string>
     <string name="apps_item_summary_system_update">В новой версии были исправлены некоторые ошибки, платежи стали более безопасными</string>
     <string name="apps_item_title_system">Обновление системы</string>
     <string name="apps_item_virus_cleanup_success">Очистка завершена</string>
@@ -1913,9 +1913,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="first_aid_card_airplane_title">Вызовы и подключение к сети недоступны</string>
     <string name="first_aid_card_consume_power_button1">Ограничить</string>
     <string name="first_aid_card_consume_power_button2">Отключить</string>
-    <string name="first_aid_card_consume_power_summary1">Разрешен автозапуск более 5 приложений. Ограничьте их число для экономии заряда.</string>
+    <string name="first_aid_card_consume_power_summary1">Разрешён автозапуск более 5 приложений. Ограничьте их число для экономии заряда.</string>
     <string name="first_aid_card_consume_power_summary2">Отключите точку доступа для экономии заряда</string>
-    <string name="first_aid_card_consume_power_summary_app">Разрешен автозапуск более %d приложений. Ограничьте их число для экономии заряда.</string>
+    <string name="first_aid_card_consume_power_summary_app">Разрешён автозапуск более %d приложений. Ограничьте их число для экономии заряда.</string>
     <string name="first_aid_card_consume_power_title">Расход батареи</string>
     <string name="first_aid_card_kadun_button1">Освободить</string>
     <string name="first_aid_card_kadun_button2">Запретить</string>
@@ -2479,7 +2479,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="go_to_mi_sim">Нажмите, чтобы использовать Mi SIM.</string>
     <string name="go_to_send">Отправить</string>
     <string name="go_to_setting_fingerprint">Настройки</string>
-    <string name="google_base_app_fail">Не удалось загрузить. Убедитесь, что приложению Безопасность разрешен доступ в интернет.</string>
+    <string name="google_base_app_fail">Не удалось загрузить. Убедитесь, что приложению Безопасность разрешён доступ в интернет.</string>
     <string name="google_base_app_install_choice">Приложение для нормальной работы требует наличия Google Services Framework, загрузить и установить?</string>
     <string name="google_base_app_installed">Успешно установлено</string>
     <string name="google_base_app_installing">Установка…</string>
@@ -3317,7 +3317,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="oaid_apps_title">Управление виртуальным ID</string>
     <string name="oaid_reset_content_tip">Если вы отключите виртуальный ID, некоторые приложения могут перестать работать должным образом, некоторые данные приложений могут быть потеряны или стать непригодными для использования.</string>
     <string name="oaid_reset_final_tip">Отключить виртуальный ID?</string>
-    <string name="oaid_tips_content">Виртуальный ID (OAID) используется для отслеживания ваших предпочтений и персонализации рекламы. Можно выбрать приложения, которым разрешен доступ к виртуальному ID. Обратите внимание, если вы ограничите доступ, рекомендации по рекламе могут стать неактуальными или приложения не будут нормально работать.</string>
+    <string name="oaid_tips_content">Виртуальный ID (OAID) используется для отслеживания ваших предпочтений и персонализации рекламы. Можно выбрать приложения, которым разрешён доступ к виртуальному ID. Обратите внимание, если вы ограничите доступ, рекомендации по рекламе могут стать неактуальными или приложения не будут нормально работать.</string>
     <string name="offline_voice_input">Голосовой ввод офлайн</string>
     <string name="offline_voice_input_detail">Голосовой ввод без использования интернета</string>
     <string name="ok">ОК</string>
@@ -3640,7 +3640,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pm_newfeature_sub_text">НОВОЕ</string>
     <string name="pm_remember_choice">Запомнить выбор</string>
     <string name="pm_root_success_notification_infomation">Убедитесь, что вы понимаете риски, связанные с ROOT доступом</string>
-    <string name="pm_root_success_notification_title">ROOT-доступ разрешен</string>
+    <string name="pm_root_success_notification_title">ROOT-доступ разрешён</string>
     <string name="popular_action_anti_spam_summary">Блокировка нежелательных вызовов и SMS</string>
     <string name="popular_action_anti_spam_title">Антиспам</string>
     <string name="popular_action_app_lock_summary">Дополнительная защита и конфиденциальность приложений</string>
@@ -4049,7 +4049,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="pp_icon_layout_status_bg_content_unable">Отключено</string>
     <string name="pp_identifier_protection">Защита персональных идентификаторов</string>
     <string name="pp_interception_net_visit_content_manager">Управление доступом</string>
-    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешен доступ к Галерее и файлам приложений соцсетей</string>
+    <string name="pp_interception_net_visit_content_manager_detail">Выбор приложений, которым разрешён доступ к Галерее и файлам приложений соцсетей</string>
     <string name="pp_local_msg">Геолокация</string>
     <string name="pp_manage_apps_location_information">Настройка использования геолокации</string>
     <string name="pp_manage_track">Мониторинг трекеров</string>
@@ -4486,11 +4486,11 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="reach_warning_reminder_type">При достижении лимита трафика</string>
     <string name="read_all_sms">Прочитать все</string>
     <string name="read_and_write_clipboard">Буфер обмена</string>
-    <string name="read_clipboard_ai_action_desc">Уведомлять каждый раз, когда доступ разрешен или ограничен</string>
+    <string name="read_clipboard_ai_action_desc">Уведомлять каждый раз, когда доступ разрешён или ограничен</string>
     <string name="read_clipboard_ai_close_no">Не сейчас</string>
     <string name="read_clipboard_ai_close_tip">Вы больше не будете получать уведомления, когда приложения обращаются к буферу обмена. Приложения автоматически получат разрешение только на время использования. Настроить разрешения?</string>
     <string name="read_clipboard_ai_close_yes">Настроить</string>
-    <string name="read_clipboard_op_content">Уведомлять каждый раз, когда доступ разрешен или ограничен</string>
+    <string name="read_clipboard_op_content">Уведомлять каждый раз, когда доступ разрешён или ограничен</string>
     <string name="read_clipboard_op_title">Уведомлять о доступе</string>
     <string name="read_clipboard_tip_content">Это разрешение позволяет приложениям читать содержимое буфера обмена, в котором может содержаться скопированная личная информация (например, данные счета, номера банковских карт и пароли).</string>
     <string name="read_clipboard_tip_title">Чтение из буфера обмена</string>
@@ -4580,7 +4580,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="safe_result_item_info_sms_default">Восстановлено приложение обмена сообщениями по умолчанию</string>
     <string name="safe_result_item_info_sms_url">Защищено от вредоносных ссылок в SMS</string>
     <string name="safe_result_item_info_system_antivirus">Защищено от фишинговых вирусов</string>
-    <string name="safe_result_item_info_system_root">ROOT-доступ не разрешен</string>
+    <string name="safe_result_item_info_system_root">ROOT-доступ не разрешён</string>
     <string name="safe_result_item_info_system_scan">Мониторинг платежей включён</string>
     <string name="safe_result_item_info_system_version">Обновление MIUI не требуется</string>
     <string name="safepay_alert_dialog_button_continue">Продолжить</string>
@@ -4879,7 +4879,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_background_risk_dialog_title">Внимание</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Публичная сеть Wi-Fi</string>
     <string name="sp_background_risk_type_messaging">Системное приложение обмена сообщениями было заменено</string>
-    <string name="sp_background_risk_type_root">Разрешен ROOT-доступ</string>
+    <string name="sp_background_risk_type_root">Разрешён ROOT-доступ</string>
     <string name="sp_background_risk_type_sign">Запущено неофициальное приложение</string>
     <string name="sp_background_risk_type_virus">Запущено вирусное приложение</string>
     <string name="sp_background_risk_type_wifi">Эта сеть Wi-Fi не является безопасной</string>
@@ -6189,7 +6189,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="wireless_charging_saver_cancel">Отключить</string>
     <string name="wireless_charging_saver_message">Включена экономия заряда батареи. Оставить включенной обратную беспроводную зарядку?</string>
     <string name="wireless_charging_saver_ok">Оставить</string>
-    <string name="wl_no_whitelist">Нет разрешенных номеров</string>
+    <string name="wl_no_whitelist">Нет разрешённых номеров</string>
     <string name="wlan_booster">Оптимизация Wi-Fi</string>
     <string name="wlan_change_protection_detail">Не переключаться на Wi-Fi при наличии подключения к мобильной сети</string>
     <string name="wlan_change_protection_title">Не переключать сети</string>

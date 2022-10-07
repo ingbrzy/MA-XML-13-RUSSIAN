@@ -57,7 +57,7 @@
     <string name="clipboard_tip">Скопировано из %1$s</string>
     <string name="close">Закрыть</string>
     <string name="confirm_device_credential_password">Использовать пароль</string>
-    <string name="connect_fail_busy_mishare">Идет передача файлов с другого устройства. Дождитесь окончания передачи и повторите попытку.</string>
+    <string name="connect_fail_busy_mishare">Идет передача файлов с другого устройства. Дождитесь окончания и повторите попытку.</string>
     <string name="connecting_pc">Подключение к ПК…</string>
     <string name="copy">Копировать</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Для передачи звука во время трансляции</string>
