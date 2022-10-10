@@ -4403,12 +4403,14 @@ ID: %s
     <string name="headset_find_disconnect">Не подключено</string>
     <string name="headset_find_handle_tip">Нажмите для воспроизведения сигнала</string>
     <string name="headset_find_left">Левый</string>
+    <string name="headset_find_left_tip">Левый наушник находится в чехле или в ухе</string>
     <string name="headset_find_notify_connected">Подключено</string>
     <string name="headset_find_notify_disconnect">Отключено. Подключите и повторите попытку.</string>
     <string name="headset_find_play_warning">Похоже, один из наушников сейчас находится в ухе. Воспроизведение сигнала может повредить слух. Снимите, прежде чем продолжить.</string>
     <string name="headset_find_playing">Воспроизведение…</string>
     <string name="headset_find_query_play">Воспроизвести</string>
     <string name="headset_find_right">Правый</string>
+    <string name="headset_find_right_tip">Правый наушник находится в чехле или в ухе</string>
     <string name="headset_find_tip">Наушники должны быть поблизости и подключены к этому устройству, чтобы можно было их найти. Воспроизведение сигнала, когда хотя бы один из наушников в ухе, может повредить слух.</string>
     <string name="headset_find_tip_title">Внимание</string>
     <string name="headset_find_title">Поиск наушников</string>
@@ -5926,6 +5928,7 @@ ID: %s
     <string name="miheadset_codec_sample_rate">Частота дискретизации звука Bluetooth</string>
     <string name="miheadset_common_problem">FAQ</string>
     <string name="miheadset_connectHeadsetForFw">Подключите наушники для просмотра версии прошивки</string>
+    <string name="miheadset_connect_device_hfp">Подключите наушники и убедитесь, что звук вызовов включён</string>
     <string name="miheadset_connect_play_music">Автовоспроизведение при подключении наушников</string>
     <string name="miheadset_connect_toast_tips">Подключите наушники</string>
     <string name="miheadset_custom_sound">Пользовательские настройки</string>
@@ -5951,6 +5954,7 @@ ID: %s
     <string name="miheadset_feedback">Обратная связь</string>
     <string name="miheadset_feedback_summary">Для отправки журналов поместите оба наушника в кейс для зарядки и оставьте крышку открытой</string>
     <string name="miheadset_feedback_title">Отправка журналов</string>
+    <string name="miheadset_firmware_version_update">Обновление прошивки</string>
     <string name="miheadset_fitness_check">Тест вкладышей</string>
     <string name="miheadset_fitness_check_checking">Тестирование…</string>
     <string name="miheadset_fitness_check_continue">Далее</string>

@@ -164,6 +164,7 @@
     <string name="change_zodiac">Изменить знак зодиака</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
+    <string name="check_new_version">Проверка обновлений</string>
     <string name="check_reminded_text">Просмотр события</string>
     <string name="chip_text">Текст</string>
     <string name="chips_action_cancel">Отмена</string>
@@ -502,6 +503,7 @@
     <string name="hotel_detail_title">Информация об отеле</string>
     <string name="hotel_event_delete_successfully">Бронирование успешно удалено</string>
     <string name="hotel_event_title">Пребывание в отеле:</string>
+    <string name="hour_1">%d ч.</string>
     <string name="icon_add_description">Добавить ярлык на рабочий стол</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="icon_remove_confirm">Удалить</string>
@@ -652,6 +654,10 @@
     <string name="mesens_card_title_today_begin">Период может начаться сегодня</string>
     <string name="mesens_card_title_tomorrow_begin">Период может начаться завтра</string>
     <string name="midnight">Ночь</string>
+    <string name="minutes_10">%d мин.</string>
+    <string name="minutes_15">%d мин.</string>
+    <string name="minutes_30">%d мин.</string>
+    <string name="minutes_5">%d мин.</string>
     <string name="missing_name">(Без имени)</string>
     <string name="missing_required_permission">Вы не имеете необходимых разрешений.</string>
     <string name="miuishare_account_activate_confirmation">Активируйте Xiaomi аккаунт</string>
@@ -1215,6 +1221,7 @@
     <string name="subtitle_mi_calendar_predict_menstruation">Записывайте и будьте в курсе предстоящих периодов с помощью календаря</string>
     <string name="subtitle_record_and_start_predict">Запишите период, чтобы знать, когда начнется следующий</string>
     <string name="subtitle_stick_record">Записывайте периоды для более точных прогнозов</string>
+    <string name="suggestions_and_feedback">Обратная связь</string>
     <string name="summary_import_by_caldav">Поддержка импорта мероприятий из iCloud, lark</string>
     <string name="summary_import_by_email">Поддержка аккаунта Outlook, QQ и др.</string>
     <string name="summary_import_by_local">Поддержка файлов ICS</string>

@@ -63,4 +63,58 @@
         <item>Ю</item>
         <item>Я</item>
     </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Плохое соединение Wi-Fi. Переключите диапазон беспроводной сети или перезагрузите роутер.</item>
+        <item>Не удается получить доступ к сети. Переподключитесь к Wi-Fi или перезагрузите роутер.</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Плохое соединение Wi-Fi. Переключите диапазон беспроводной сети или перезагрузите роутер.</item>
+        <item>Не удается получить доступ к сети. Переподключитесь к Wi-Fi или перезагрузите роутер.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Для доступа к сети требуется аутентификация</item>
+        <item>Доступ к сети ограничен. Настройте время на устройстве и проверьте сетевые настройки роутера.</item>
+        <item>Ошибка сети. Проверьте настройки HTTP-прокси.</item>
+        <item>Ошибка сети. Проверьте наличие доступа к интернету у роутера.</item>
+        <item>Ошибка подключения к сети. Переподключитесь к Wi-Fi или перезагрузите роутер.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Для доступа к сети требуется аутентификация</item>
+        <item>Доступ к сети ограничен. Настройте время на устройстве и проверьте сетевые настройки роутера.</item>
+        <item>Ошибка сети. Проверьте настройки HTTP-прокси.</item>
+        <item>Ошибка сети. Проверьте наличие доступа к интернету у роутера.</item>
+        <item>Ошибка подключения к сети. Переподключитесь к Wi-Fi или перезагрузите роутер.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>Ошибка DNS-сервера. Проверьте конфигурацию DNS роутера.</item>
+        <item>Большие задержки при обращению к DNS-серверу. Проверьте конфигурацию DNS роутера.</item>
+        <item>Не удается получить доступ к шлюзу. Переподключитесь к Wi-Fi или перезагрузите роутер.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>Ошибка DNS-сервера. Проверьте конфигурацию DNS роутера.</item>
+        <item>Большие задержки при обращению к DNS-серверу. Проверьте конфигурацию DNS роутера.</item>
+        <item>Не удается получить доступ к шлюзу. Переподключитесь к Wi-Fi или перезагрузите роутер.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Большие задержки в локальной сети. Перезагрузите роутер или подключитесь к другой сети.</item>
+        <item>Большие задержки при подключении к интернету. Проверьте настройки сети оператора или подключитесь к другой сети.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Используйте DHCP вместо статического IP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Ошибка сетевого протокола. Переподключитесь к Wi-Fi или перезагрузите устройство.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Ошибка сетевого протокола. Переподключитесь к Wi-Fi или перезагрузите устройство.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Найдите зону с лучшим покрытием Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Найдите зону с лучшим покрытием Wi-Fi</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>Проверьте проводное соединение и настройки DHCP роутера</item>
+    </string-array>
 </resources>

@@ -194,6 +194,10 @@ Email: service.jp@xiaomi.com"</string>
     <string name="miui_main_control_center_desc">Или переключитесь на старую версию в Настройки > Уведомления и центр управления</string>
     <string name="miui_main_control_center_open">Новый центр управления</string>
     <string name="miui_main_control_center_title">Проведите по экрану для переключения между шторкой и центром управления</string>
+    <string name="miui_main_icon_callback">Ярлык на рабочем столе</string>
+    <string name="miui_main_icon_callback_create">Создать</string>
+    <string name="miui_main_icon_callback_desc">Создать ярлык на рабочем столе?</string>
+    <string name="miui_main_icon_callback_nocreate">Отмена</string>
     <string name="miui_main_mirror_new_title">Единые данные на мобильном устройстве и ПК</string>
     <string name="miui_main_mirror_tab_desc1">Используйте автоподключение</string>
     <string name="miui_main_mirror_tab_desc2">Просматривайте изображения на большом экране</string>
