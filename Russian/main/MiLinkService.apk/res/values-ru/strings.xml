@@ -104,8 +104,15 @@
     <string name="circulate_card_mirror_tv_button_1">Плавающее окно</string>
     <string name="circulate_card_mirror_tv_button_2">Выключить экран</string>
     <string name="circulate_card_mirror_tv_button_3">Конфиденциальность</string>
+    <string name="circulate_card_sticker">Стикеры</string>
+    <string name="circulate_card_sticker__remote_control_expend_contentDescription">Показать пульты управления</string>
+    <string name="circulate_card_sticker_access">Нажмите дважды, чтобы активировать</string>
+    <string name="circulate_card_sticker_add">Добавить стикеры</string>
+    <string name="circulate_card_sticker_blank_contentDescription">Нажмите дважды на пустой области, чтобы выйти</string>
     <string name="circulate_card_sticker_complete">Готово</string>
     <string name="circulate_card_sticker_control_contentDescription">Панель управления</string>
+    <string name="circulate_card_sticker_dressing_equipment">Настройка устройства</string>
+    <string name="circulate_card_sticker_expend_contentDescription">Показать настраиваемые устройства</string>
     <string name="circulate_card_sticker_no">Ничего нет</string>
     <string name="circulate_card_sticker_remote_control">Пульт ТВ</string>
     <string name="circulate_card_sticker_remote_control_bottom">Вниз</string>
@@ -139,7 +146,41 @@
     <string name="circulate_device_type_name_pc">ПК</string>
     <string name="circulate_device_type_name_phone">Телефон</string>
     <string name="circulate_device_type_name_tv">ТВ</string>
-    <string name="circulate_device_type_name_wifi_speaker">Динамик</string>
+    <string name="circulate_device_type_name_wifi_speaker">Колонка</string>
+    <string name="circulate_device_type_name_wifi_speaker_with_screen">Сенсорная колонка</string>
+    <string name="circulate_headset_back_to_box_desc">"1. Поместите оба наушника в зарядный чехол.
+2. Нажмите и удерживайте кнопку на чехле.
+3. Завершите сопряжение на целевом устройстве."</string>
+    <string name="circulate_headset_back_to_box_desc_err_308">Подключите наушники к ТВ</string>
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Поместите оба наушника в чехол.
+2. Нажмите и удерживайте кнопку на чехле.
+3. Завершите сопряжение в настройках Bluetooth или с помощью всплывающего диалогового окна на устройстве."</string>
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Поместите оба наушника в чехол.
+2. Нажмите и удерживайте кнопку на чехле.
+3. Завершите сопряжение в настройках Bluetooth или с помощью всплывающего диалогового окна на устройстве."</string>
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Поместите оба наушника в зарядный чехол.
+2. Нажмите и удерживайте кнопку на чехле.
+3. Откройте список доступных устройств Bluetooth на ТВ и подтвердите сопряжение."</string>
+    <string name="circulate_headset_back_to_box_subtitle">Не удалось автоматически подключить наушники. Подключите их вручную на целевом устройстве.</string>
+    <string name="circulate_headset_back_to_box_title">Подключите наушники</string>
+    <string name="circulate_headset_back_to_box_title_err_308">Подключение наушников</string>
+    <string name="circulate_headset_back_to_box_title_pad">Подключение наушников к этому устройству</string>
+    <string name="circulate_headset_back_to_box_title_phone">Подключение наушников к этому устройству</string>
+    <string name="circulate_headset_back_to_box_title_tv">Подключение наушников</string>
+    <string name="circulate_headset_duplicate_cancel">Отмена</string>
+    <string name="circulate_headset_duplicate_dialog_message">К %1$s подключен другой комплект наушников. Заменить на этот комплект?</string>
+    <string name="circulate_headset_duplicate_dialog_title">Замена наушников, подключенных к %1$s</string>
+    <string name="circulate_headset_duplicate_ok">ОК</string>
+    <string name="circulate_headset_error_account_not_match">Убедитесь, что на обоих устройствах используется один и тот же аккаунт Xiaomi</string>
+    <string name="circulate_headset_error_acquired_by_other_host">Используется другим устройством. Повторите попытку позже.</string>
+    <string name="circulate_headset_error_default">Таймаут соединения</string>
+    <string name="circulate_headset_error_device_not_support">Не удалось подключить наушники к этому устройству</string>
+    <string name="circulate_headset_error_headset_not_support">Не удалось подключить наушники к этому ПК</string>
+    <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Включите Bluetooth на ТВ
+и войдите в аккаунт Xiaomi"</string>
+    <string name="circulate_headset_error_self_upgrade">Не удалось выполнить это действие. Обновите Mi Smart Hub.</string>
+    <string name="circulate_headset_error_timeout">Таймаут соединения</string>
+    <string name="circulate_headset_error_upgrade">Обновите Mi Smart Hub на целевом устройстве</string>
     <string name="circulate_help_button_content_description">Справка</string>
     <string name="circulate_help_card_subtitle">Просмотр справки</string>
     <string name="circulate_help_card_title">"Не удалось
@@ -151,15 +192,18 @@
     <string name="circulate_local_phone_name">Моё устройство</string>
     <string name="circulate_public_device_title_format">"%1$s %2$s"</string>
     <string name="circulate_title">Mi Smart Hub</string>
+    <string name="circulate_tv_power_alter_text">Вы настроили ТВ на выключение питания или экрана. После выключения, пульты управления и ТВ будут не видны.</string>
     <string name="circulate_tv_power_alter_title">Внимание</string>
     <string name="circulate_video_capture_fail">Не удалось сделать скриншот</string>
     <string name="circulate_video_capture_success">Скриншот сделан</string>
+    <string name="circulate_video_retry_later">Проверка пульта ТВ…</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="close">Закрыть</string>
     <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_hotspot_hint_DFS">Отключите точку доступа перед трансляцией</string>
     <string name="close_invisible_mode_dialog_cancel">Отмена</string>
+    <string name="close_invisible_mode_dialog_message">Mi Smart Play сейчас недоступен. Отключите режим инкогнито в настройках, чтобы использовать эту функцию.</string>
     <string name="close_invisible_mode_dialog_ok">Настройки</string>
     <string name="close_invisible_mode_dialog_title">Режим инкогнито</string>
     <string name="close_slave_wifi_hint">Отключите дополнительную сеть Wi-Fi перед трансляцией</string>
@@ -217,8 +261,10 @@
     <string name="enable_screen_projection_summary">Вывод на внешний монитор</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
+    <string name="err_toast_msg_audio_support_support_only">Это устройство поддерживает только передачу аудиопотока. Попробуйте перетащить карточку аудио.</string>
     <string name="err_toast_msg_default">Это действие не поддерживается</string>
     <string name="err_toast_msg_mirror_and_bluetooth_support_only">Не удалось передать аудиопоток</string>
+    <string name="err_toast_msg_mirror_support_support_only">Это устройство поддерживает только трансляцию. Попробуйте перетащить карточку экрана.</string>
     <string name="err_toast_msg_not_support">Это действие не поддерживается</string>
     <string name="err_toast_msg_not_support_audio_protocol">Передача аудиопотока на это устройство не поддерживается</string>
     <string name="err_toast_msg_not_support_video_protocol">Это устройство не поддерживает MIUI+</string>
@@ -264,6 +310,14 @@
     <string name="guide_confirm_button_text">Начать</string>
     <string name="guide_exit_button_content_description">Выход</string>
     <string name="guide_next_button_text">Подробнее</string>
+    <string name="guide_page_subtitle_0">Mi Smart Hub объединяет ваши устройства в единую рабочую станцию, позволяя запускать задачу на одном из устройств, затем продолжать её на другом устройстве.</string>
+    <string name="guide_page_subtitle_0_pad">Mi Smart Hub объединяет ваши мобильные устройства, а также ТВ и умные колонки, подключенные к одной сети Wi-Fi, в единую рабочую станцию, позволяя запускать задачу на одном из устройств, затем продолжать её на другом устройстве.</string>
+    <string name="guide_page_subtitle_0_pad_global">Mi Smart Hub объединяет ваши мобильные устройства, а также ТВ и умные колонки, подключенные к одной сети Wi-Fi, в единую рабочую станцию, позволяя запускать задачу на одном из устройств, затем продолжать её на другом устройстве.</string>
+    <string name="guide_page_subtitle_1">Перетащите карточку аудио на колонку или ТВ, чтобы продолжить воспроизведение на другом устройстве.</string>
+    <string name="guide_page_subtitle_1_pad">Перетащите карточку аудио на колонку или ТВ, чтобы продолжить воспроизведение на другом устройстве.</string>
+    <string name="guide_page_subtitle_2">Перетащите карточку экрана этого устройства на планшет, ПК или ТВ для трансляции экрана устройства.</string>
+    <string name="guide_page_subtitle_2_pad">Перетащите карточку экрана этого устройства на ТВ для отображения экрана устройства.</string>
+    <string name="guide_page_subtitle_3">Перетащите приложение в Mi Smart Hub и выберите устройство, на котором хотите продолжить текущую задачу.</string>
     <string name="guide_page_title_0">Добро пожаловать в Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">Добро пожаловать в Mi Smart Hub!</string>
     <string name="guide_page_title_1">Воспроизведение аудио</string>
@@ -381,7 +435,21 @@
     <string name="midnight">Ночь</string>
     <string name="mipaly_server_exit_touping">Сначала остановите текущую трансляцию</string>
     <string name="miplay_accessibility_cast">Выбор устройства</string>
+    <string name="miplay_accessibility_cover">Обложка</string>
+    <string name="miplay_accessibility_next">Следующий трек</string>
+    <string name="miplay_accessibility_pause">Пауза</string>
+    <string name="miplay_accessibility_play">Воспроизведение</string>
+    <string name="miplay_accessibility_prev">Предыдущий трек</string>
+    <string name="miplay_accessibility_seekbar">Полоса прогресса</string>
+    <string name="miplay_accessibility_volume">Громкость</string>
+    <string name="miplay_detail_divider_title">ТВ и колонки</string>
+    <string name="miplay_detail_header_no_song">Нет воспроизведения</string>
     <string name="miplay_device_full_name">"%1$s %2$s"</string>
+    <string name="miplay_headset_lc3_hint">Отключите режим LC3, чтобы переключить аудиовыход обратно на это устройство</string>
+    <string name="miplay_mini_card_no_song_but_attached_hint">Аудио будет воспроизводиться на %1$s</string>
+    <string name="miplay_mini_card_no_song_pad_title">Воспроизведение на планшете</string>
+    <string name="miplay_mini_card_no_song_subtitle">Нет воспроизведения</string>
+    <string name="miplay_mini_card_no_song_title">Воспроизведение на устройстве</string>
     <string name="miplay_service_timeout_toast">Таймаут соединения. Попробуйте снова.</string>
     <string name="miplay_song_title_empty">Ничего нет</string>
     <string name="miuix_access_state_desc">Выбрано</string>
