@@ -427,6 +427,7 @@
     <string name="pref_title_data_slot">SIM-карта для интернета</string>
     <string name="pref_title_voice_slot">SIM-карта для вызовов</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="preinstall_tips">Подготовка…</string>
     <string name="privacy_content_one">Рекомендации \"Карусели обоев\" разработаны Taboola, нашим надежным сторонним поставщиком контента. Для предоставления контента, Taboola требуется доступ и разрешение сохранять неличные данные с вашего устройства, включая язык системы и тип браузера. Вы можете узнать, как Taboola использует собранные данные в &lt;a href =\"%1$s\">Политике конфиденциальности&lt;/a> и &lt;a href =\"%2$s\">Пользовательском соглашении&lt;/a> Taboola. Прежде чем продолжить, прочтите и примите условия, приведенные в этих документах. В случае несогласия, сервисы \"Карусели обоев\" будут отключены.</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_provision_back">Назад</string>

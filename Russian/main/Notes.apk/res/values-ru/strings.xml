@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="access_denied_info">Слишком много запросов. Повторите позже.</string>
+    <string name="access_photos_and_videos">Доступ к фото и видео</string>
     <string name="action_collapse">Свернуть</string>
     <string name="action_expand">Развернуть</string>
     <string name="action_folder_description">Просмотреть папки</string>
@@ -508,6 +509,7 @@
     <string name="new_audio_create_guide_tip">Нажмите и удерживайте для создания голосовой заметки</string>
     <string name="new_audio_create_talkback_des">Коснитесь, чтобы создать текстовую заметку. Нажмите и удерживайте для создания голосовой заметки. Отпустите для остановки записи и создания заметки, или сдвиньте вверх для отмены.</string>
     <string name="new_data_empty_note">Ничего нет</string>
+    <string name="new_lite_audio_create_talkback_des">Нажмите, чтобы создать заметку</string>
     <string name="night">Вечер</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="noon">Полдень</string>
@@ -599,6 +601,8 @@
     <string name="permission_microphone_desc">Создание голосовых заметок</string>
     <string name="permission_network_for_cloud_desc">Для синхронизации заметок с облаком, необходимо подключение к интернету. Могут использоваться мобильные данные. Подключиться?</string>
     <string name="permission_phone_state_desc">Для остановки записи голосовых заметок во время вызовов</string>
+    <string name="permission_photos_desc">Для добавления изображений в заметки</string>
+    <string name="permission_photos_desc_pad">Для добавления изображений в заметки</string>
     <string name="permission_read_contact_desc">Связывание заметок, созданных во время вызовов, с контактами</string>
     <string name="permission_storage_desc">Для сохранения заметок в виде изображений</string>
     <string name="permission_storage_desc_new_v12">Для добавления изображений в заметки и сохранения заметок в виде изображений</string>
@@ -706,6 +710,7 @@
     <string name="select_account_prompt">Синхронизация заметок</string>
     <string name="select_up_limit_toast">Выберите не более %d элементов</string>
     <string name="send">Отправить</string>
+    <string name="send_notifications_for_reminder">Для отправки напоминаний</string>
     <string name="set_alarm_description">Установить напоминание</string>
     <string name="setting_big_screen_layout_columns">Боковая панель</string>
     <string name="setting_big_screen_layout_flat">Плитка</string>
@@ -872,6 +877,7 @@
 Разрешить Заметкам чтение SD-карты."</string>
     <string name="toast_refuse_to_use_phone_state">"Доступ к состоянию телефона ограничен.
 Разрешить Заметкам чтение состояния телефона и идентификацию."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Разрешите приложению доступ к фото для добавления изображений в заметки</string>
     <string name="toast_refuse_to_use_record_audio">"Доступ к микрофону ограничен. 
 Разрешить Заметкам запись аудио."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Разрешите приложению Заметки доступ к хранилищу устройства для возможности добавления изображений в заметки</string>
@@ -978,6 +984,9 @@
     <string name="wednesday">Среда</string>
     <string name="wednesday_short">Ср</string>
     <string name="wednesday_shortest">Ср</string>
+    <string name="widget_all_notes_name">Все заметки</string>
+    <string name="widget_all_todo_name">Все задачи</string>
+    <string name="widget_click_check">Нажмите для просмотра</string>
     <string name="widget_content_loading">Подождите…</string>
     <string name="widget_create_select_size">Выбор размера</string>
     <string name="widget_empty_content">Нажмите для выбора заметки</string>
@@ -990,6 +999,8 @@
     <string name="widget_size_item_super_big">Очень большой</string>
     <string name="widget_size_not_support">Очень большой размер виджета не поддерживается на этом устройстве</string>
     <string name="widget_take_notes_title">Заметки</string>
+    <string name="widget_total_notes">%1$d</string>
+    <string name="widget_total_todo">%1$d</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Не сейчас</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Обновить</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Доступно обновление</string>

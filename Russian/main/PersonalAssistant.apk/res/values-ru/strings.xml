@@ -1643,7 +1643,7 @@ ID:%s
     <string name="pa_accessibility_picker_home_title">Добавление веджета</string>
     <string name="pa_accessibility_picker_home_widget_replace">Выбран %s. Переключение виджетов.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Виджет: %s. Нажмите дважды кнопку ниже для замены другим виджетом.</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, размер: %2$s, состояние установки: %3$s, строка %4$d, номер %5$d. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Выбран %1$s, размер: %2$s, состояние установки: %3$s. Нажмите дважды для подробностей. Нажмите и удерживайте, чтобы перетащить.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Выбран %1$s, строка %2$d, номер %3$d. Нажмите дважды для подробностей.</string>
     <string name="pa_accessibility_picker_search_cancel">Панель поиска виджета. Нажмите дважды для отмены.</string>
     <string name="pa_accessibility_picker_search_clear">Очистить ввод</string>

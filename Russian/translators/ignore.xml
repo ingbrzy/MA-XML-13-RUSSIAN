@@ -1526,6 +1526,7 @@
     <string name="color_effect_entry_monochrom">LEICA BW NAT</string>
     <string name="color_effect_entry_monochrom_high_contrast">LEICA BW HC</string>
     <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">87300ca0ba5a4c8891cebaf4268bf6c2</string>
     <string name="com.miapm.build_id">5cb5b53b22b0419b81dfdaf74e5bc280</string>
     <string name="command_139_mail_open_pop3_imap">KQ</string>
     <string name="common_join_str">%1$s %2$s</string>

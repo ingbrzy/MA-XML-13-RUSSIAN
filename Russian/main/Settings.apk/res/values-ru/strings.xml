@@ -1974,7 +1974,8 @@
     <string name="bt_absVolume_open_dialog_title">Внимание</string>
     <string name="bt_absVolume_pre_title">Абсолютная громкость</string>
     <string name="bt_absVolume_summary">Уровень громкости Bluetooth-устройств и устройства должен быть одинаковым. Вы можете включать и выключать эту функцию, когда мультимедиа не воспроизводится в фоновом режиме.</string>
-    <string name="bt_always_show_icon">Всегда показывать значок в строке состояния</string>
+    <string name="bt_always_show_icon">Скрыть значок Bluetooth в строке состояния</string>
+    <string name="bt_always_show_icon_summary">Показывать значок Bluetooth только в шторке уведомлений и в Центре управления</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive обеспечивает высокое качество звука и уменьшает задержку в играх и видео, но увеличивает расход заряда. Воспроизведение может прерываться из-за аппаратных ограничений Bluetooth или окружающих помех.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">Переключиться на aptX Adaptive?</string>
     <string name="bt_audio_repair_property">Исправление проблем со звуком</string>
@@ -8004,7 +8005,7 @@ UT-интерфейс: %5$s"</string>
     <string name="rx_link_speed">%1$d Мбит/с</string>
     <string name="rx_link_speed_label">Скорость приёма:</string>
     <string name="rx_wifi_speed">Скорость приёма</string>
-    <string name="safe_install_mode_settings">Secure mode</string>
+    <string name="safe_install_mode_settings">Mi Защита</string>
     <string name="safety_and_regulatory_info">Безопасность и соответствие стандартам</string>
     <string name="safety_center_summary">Безопасность приложений, блокировка устройства и разрешения</string>
     <string name="safety_center_title">Защита и конфиденциальность</string>

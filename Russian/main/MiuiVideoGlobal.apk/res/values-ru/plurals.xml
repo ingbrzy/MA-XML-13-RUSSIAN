@@ -39,6 +39,18 @@
         <item quantity="one">Выбрана %s звезда</item>
         <item quantity="few">Выбрано %s звезды</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Быстрая перемотка вперед на %d сек.</item>
+        <item quantity="one">Быстрая перемотка вперед на %d сек.</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Перемотка назад на %d сек.</item>
+        <item quantity="one">Перемотка назад на %d сек.</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Посмотрите еще %s сек. видео, чтобы заработать баллы и получить награду</item>
+        <item quantity="one">Посмотрите еще %s сек. видео, чтобы заработать баллы и получить награду</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Переход на домашнюю страницу через %1$d секунд…</item>
         <item quantity="one">Переход на домашнюю страницу через %1$d секунду…</item>
@@ -213,6 +225,11 @@
         <item quantity="one">%d новое уведомление</item>
         <item quantity="few">%d новых уведомления</item>
      </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">Вы поделились материалами и заработали %d баллов. Получить баллы можно в Центре баллов.</item>
         <item quantity="one">Вы поделились материалами и заработали %d балл. Получить баллы можно в Центре баллов.</item>
@@ -312,6 +329,11 @@
         <item quantity="other">Можно добавить %d закладок</item>
         <item quantity="one">Можно добавить %d закладку</item>
         <item quantity="few">Можно добавить %d закладки</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Скрыть %d выбранных файлов?</item>
+        <item quantity="one">Скрыть %d выбранный файл?</item>
+        <item quantity="few">Скрыть %d выбранных файла?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s лайков</item>

@@ -55,6 +55,8 @@
     <string name="date_picker_lunar">Китайский традиционный календарь</string>
     <string name="date_time_picker_dialog_title">Установите дату и время</string>
     <string name="default_list_type">Сортировка по времени</string>
+    <string name="disable_description_content">Приложение \"Уведомления\" является системным. После его отключения будет недоступно управление уведомлениями приложений. Отключить?</string>
+    <string name="disable_description_title">Отключить \"Уведомления\"?</string>
     <string name="disable_float_notification">Всплывающие уведомления запрещены</string>
     <string name="disable_lockscreen_notification">Уведомления запрещены</string>
     <string name="disable_show_badge_notification">Метка на иконке запрещена</string>

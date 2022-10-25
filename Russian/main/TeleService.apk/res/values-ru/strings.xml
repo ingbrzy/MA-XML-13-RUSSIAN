@@ -2227,7 +2227,7 @@
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">Предпочтительно 4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_jp_sb">4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM (автоматически)</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G предпочтительно)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (автоматически)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G (автоматически)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G (автоматически)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G (автоматически)</string>
@@ -2235,7 +2235,7 @@
     <string name="preferred_network_type_pref_entries_5g_preferred">Предпочтительно 5G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM (автоматически)</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G предпочтительно)</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (автоматически)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G (автоматически)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_vd">5G/4G/3G/2G (автоматически)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G (автоматически)</string>
@@ -2671,6 +2671,7 @@ UT-интерфейс: %5$s"</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
+    <string name="speed_limit_card_toast">Достигнут лимит трафика на полной скорости передачи. Скорость передачи ограничена.</string>
     <string name="sports_news_settings">Новости спорта</string>
     <string name="srvcc_message">Сеть 4G недоступна. Переключение на 2G/3G.</string>
     <string name="srvcc_video_message">Сеть 4G недоступна. Переключение на 2G/3G.</string>

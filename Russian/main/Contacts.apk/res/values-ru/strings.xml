@@ -1365,6 +1365,10 @@
     <string name="notification_action_voicemail_play">Прослушать</string>
     <string name="notification_click_detail">Подробности</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud хочет удалить некоторые контакты</string>
+    <string name="notification_missedCallTitle">Пропущенный вызов</string>
+    <string name="notification_missedCall_call_back">Вызов</string>
+    <string name="notification_missedCall_message">Отправить SMS</string>
+    <string name="notification_missedCallsTitle">Пропущенные вызовы</string>
     <string name="notification_new_voicemail_ticker">Новое голосовое сообщение от %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Клавиатура</string>

@@ -47,6 +47,7 @@
     <string name="calibrate_failed">Ошибка калибровки высоты</string>
     <string name="calibrate_failed_no_location">Калибровка не удалась</string>
     <string name="calibrate_failed_timeout">Не удалось подключиться к серверу</string>
+    <string name="calibrate_new_tip">Резко наклоните устройство, чтобы прокатить шар по кругу</string>
     <string name="calibrate_rotate_again">Повторите попытку</string>
     <string name="calibrate_success">Калибровка завершена</string>
     <string name="calibrate_tip">Наклоняйте устройство так, чтобы шар катился по кругу</string>

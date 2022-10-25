@@ -182,6 +182,7 @@
     <string name="component_title_settings_video_wallpaper">Живые обои</string>
     <string name="component_title_video_wallpaper">Живые обои</string>
     <string name="component_title_wallpaper">Обои</string>
+    <string name="component_title_widget_suit">Виджеты</string>
     <string name="concentration_old_period">Ещё</string>
     <string name="configure_success_not_enable_aod">Включите Активный экран, чтобы применить тему</string>
     <string name="copy">Копировать</string>
@@ -762,6 +763,7 @@ mm"</string>
     <string name="pad_fold_no_permission">Разрешите доступ к хранилищу</string>
     <string name="pad_fold_no_permission_detail">Разрешите доступ к хранилищу для настройки персонализации и сохранения загруженных компонент.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="paying">Покупка…</string>
     <string name="personalize">Персонализация</string>
     <string name="personalize_alarm_ringtone_title">Будильники</string>
     <string name="personalize_aod_title">Активный экран</string>
@@ -774,6 +776,7 @@ mm"</string>
     <string name="personalize_notify_ringtone_title">Уведомления</string>
     <string name="personalize_notify_style_title">Эффекты</string>
     <string name="personalize_recommend_switch_desc">Персонализированные рекомендации по контенту на основе ID устройства</string>
+    <string name="personalize_second_space_not_support_buy_widget">Покупка виджетов недоступна во втором пространстве</string>
     <string name="personalize_second_space_not_support_set_font">Смена шрифта недоступна во втором пространстве</string>
     <string name="personalize_theme_entrance">Темы</string>
     <string name="personalize_third_font">Шрифты</string>
@@ -1194,6 +1197,7 @@ mm"</string>
     <string name="search_sort_news">Новые</string>
     <string name="search_sort_synthesize">Основные</string>
     <string name="search_sort_top">Популярные</string>
+    <string name="search_view_description_clear">Очистить поисковый запрос</string>
     <string name="selected_resource_file_invalid">Выбранный файл не поддерживается</string>
     <string name="send">Отправить</string>
     <string name="server_internal_error">Ошибка сервера. Повторите попытку позже.</string>
@@ -1543,6 +1547,7 @@ mm"</string>
     <string name="update_no_net">Произошла ошибка сети. Повторите попытку.</string>
     <string name="update_title">ДОСТУПНО ОБНОВЛЕНИЕ</string>
     <string name="use_hint">Внимание</string>
+    <string name="use_now">Добавить</string>
     <string name="using_theme_has_update_tips">Доступно обновление для этой темы</string>
     <string name="using_theme_next_automatic_update">Автообновление тем</string>
     <string name="using_theme_next_automatic_update_summary">Автоматически обновлять загруженные темы через Wi-Fi</string>

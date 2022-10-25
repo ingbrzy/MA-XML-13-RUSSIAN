@@ -209,6 +209,11 @@
         <item quantity="one">%d приглашение</item>
         <item quantity="few">%d приглашения</item>
      </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d пропущенных вызовов</item>
+        <item quantity="one">%d пропущенный вызов</item>
+        <item quantity="few">%d пропущенных вызова</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Выбрано: %1$d</item>
         <item quantity="one">Выбрано: %1$d</item>

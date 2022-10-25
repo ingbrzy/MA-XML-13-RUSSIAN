@@ -122,6 +122,8 @@
     <string name="dialog_storage_upgrade_now">Обновить</string>
     <string name="dialog_title_prompt">Внимание</string>
     <string name="do_not_merge">Отмена</string>
+    <string name="download_gallery_data_summary">Перейдите на i.mi.com для загрузки синхронизированных фото и видео на устройство</string>
+    <string name="download_gallery_data_title">Загрузка файлов</string>
     <string name="early_morning">Утро</string>
     <string name="enable_find_device_success">Поиск устройства включён</string>
     <string name="enable_micloud">Регистрация или вход</string>
@@ -195,6 +197,13 @@
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gallery_auto_sync_fail_noti_content">Недостаточно места в облаке. Измените тарифный план для синхронизации фото и видео.</string>
+    <string name="gallery_data_transfer_ddl">Крайний срок: %s</string>
+    <string name="gallery_data_transfer_summary">Файлы галереи больше не будут синхронизироваться с Xiaomi Cloud. Рекомендуется перенести все синхронизированные фото и видео из Xiaomi Cloud в Google Фото и использовать его сервисы для резервного копирования файлов.</string>
+    <string name="gallery_data_transfer_title">Перенос в Google Фото</string>
+    <string name="gallery_service_termination_announcement">Внимание: файлы галереи больше не будут синхронизироваться с Xiaomi Cloud</string>
+    <string name="gallery_service_termination_announcement_title">Файлы галереи больше не будут синхронизироваться с Xiaomi Cloud. Рекомендуется перенести все синхронизированные фото и видео из Xiaomi Cloud в Google Фото или зайти на сайт i.mi.com для их загрузки на устройство. Перенос и загрузка будут доступны до %s, после чего все файлы галереи в Xiaomi Cloud будут удалены безвозвратно.</string>
+    <string name="gallery_service_termination_btn_continue">Продолжить</string>
+    <string name="gallery_service_termination_more_info">Подробнее см. \"%s\"</string>
     <string name="help_and_feedback">Помощь и обратная связь</string>
     <string name="hybrid_provider">Предоставлено %1$s</string>
     <string name="i_know">OK</string>
@@ -277,6 +286,7 @@
     <string name="member_menu_vipname_ultra">Ультра</string>
     <string name="menu_add_feedback">Обратная связь</string>
     <string name="menu_add_short_cut">Добавить ярлык на рабочий стол</string>
+    <string name="menu_migrate_to_google_photos">Перенос файлов в Google Фото</string>
     <string name="merge">Объединить</string>
     <string name="mi_drive_not_publish_toast">Mi Drive скоро будет доступен</string>
     <string name="mi_drive_summary">Доступ к документам из Xiaomi Cloud на нескольких устройствах</string>
@@ -959,6 +969,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="soundrecorder_sync_records">Синхронизация записей</string>
     <string name="special_func_title">Специальные функции</string>
     <string name="starred_contact">Избранные</string>
+    <string name="start_transfer_gallery_data">Перенести файлы</string>
     <string name="storage_manage_cloud_data_title">Просмотр в облаке</string>
     <string name="storage_manage_expansion">Ещё</string>
     <string name="storage_manage_full_summary">Облачное хранилище переполнено. Обновите план.</string>
@@ -969,7 +980,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="storage_manage_title">Обновить план Xiaomi Cloud</string>
     <string name="storage_manage_upgrade">Обновить</string>
     <string name="storage_upgrade_card_summary">Больше места в облаке</string>
-    <string name="storage_upgrade_card_title">VIP-подписка</string>
+    <string name="storage_upgrade_card_title">Обновление</string>
     <string name="sub_alert_notif_content">Включите синхронизацию с Xiaomi Cloud для резервного копирования данных</string>
     <string name="sub_alert_notif_title">Синхронизация с Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">Синхронизировать сообщения, содержащие фото, аудио и другие медиаданные, только по Wi-Fi</string>

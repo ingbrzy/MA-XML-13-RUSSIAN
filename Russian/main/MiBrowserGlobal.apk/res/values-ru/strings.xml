@@ -1724,7 +1724,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="next">Далее</string>
     <string name="nf_choose_reason">Опишите проблему</string>
     <string name="nf_content_gif_label">GIF</string>
-    <string name="nf_content_promo_label">ПРОМО</string>
+    <string name="nf_content_promo_label">Реклама</string>
     <string name="nf_detail_collection">В избранное</string>
     <string name="nf_dislike">Не интересует</string>
     <string name="nf_feed_list_exit_toast">Нажмите ещё раз, чтобы закрыть Ленту</string>

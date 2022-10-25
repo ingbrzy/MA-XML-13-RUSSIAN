@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accept">OK</string>
     <string name="app_name">Xiaomi Service Framework</string>
+    <string name="app_update_dialog_btn_bg_update">Обновить</string>
+    <string name="app_update_dialog_btn_cancel">Отмена</string>
+    <string name="app_update_dialog_btn_update">Обновить</string>
+    <string name="app_update_dialog_desc_title">Что нового?</string>
+    <string name="app_update_dialog_support">Обновления предоставлены GetApps</string>
+    <string name="app_update_dialog_tag_save_traffic">Экономия трафика</string>
+    <string name="app_update_dialog_title">Доступно обновление</string>
     <string name="error_device_id_message">"Неверный ID устройства: %s
 ID устройства - это действительный IMEI или MAC адрес. Без ID устройства некоторые функции Xiaomi аккаунта и Xiaomi Cloud будут недоступны."</string>
     <string name="error_device_id_title">Не удалось получить ID устройства</string>
@@ -10,6 +44,11 @@ ID устройства - это действительный IMEI или MAC а
     <string name="explain_send_sms_permission_title">Подтвердите номер телефона</string>
     <string name="pop_up_allow_notify_dialog">Разрешить</string>
     <string name="pop_up_deny_notify_dialog">Отклонить</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="size_unit_byte">%1$s Б</string>
+    <string name="size_unit_gigabyte">%1$s ГБ</string>
+    <string name="size_unit_kilobyte">%1$s КБ</string>
+    <string name="size_unit_megabyte">%1$s МБ</string>
     <string name="sync_notification_title_format">Синхронизация: %1$s</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xmsf_activate_info">Информация активации XMSF</string>

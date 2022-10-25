@@ -358,7 +358,7 @@ ID: %s
     <string name="dialog_my_playlist_set_to_public">Поделиться плейлистом со всеми пользователями Mi Music и Hungama music</string>
     <string name="dialog_queued_body">Этот файл находится в очереди загрузок.</string>
     <string name="dialog_renew_failure">Произошла ошибка</string>
-    <string name="dialog_renew_free_end">Пробный период окончен. Подписаться на Hungama PRO?</string>
+    <string name="dialog_renew_free_end">Пробный период окончен. Подписаться на Hungama Gold?</string>
     <string name="dialog_renew_positive_text">ДА, Я ЛЮБЛЮ МУЗЫКУ</string>
     <string name="dialog_renew_success">Спасибо за подтверждение</string>
     <string name="dialog_score_btn_good">Оценить</string>
@@ -486,7 +486,7 @@ ID: %s
     <string name="empty_page_no_album">Нет альбомов</string>
     <string name="empty_page_no_artist">Нет исполнителей</string>
     <string name="enabled">ОК</string>
-    <string name="enjoy_hungama_pro">Наслаждайтесь Hungama PRO</string>
+    <string name="enjoy_hungama_pro">Наслаждайтесь Hungama Gold</string>
     <string name="enroll_in">Регистрация</string>
     <string name="enter_garbage_clean">Требуется очистка</string>
     <string name="entertainment">Развлечения</string>
@@ -693,24 +693,24 @@ ID: %s
     <string name="home_tab_yandex">Яндекс Музыка</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama">Hungama</string>
-    <string name="hungama_batch_download_alert_summary">Загрузить все треки могут только владельцы PRO подписки. Купить её?</string>
+    <string name="hungama_batch_download_alert_summary">Загрузить все треки могут только владельцы Gold подписки. Купить её?</string>
     <string name="hungama_batch_download_alert_summary_toast">Оформите подписку для скачивания всего плейлиста.</string>
     <string name="hungama_category_chart">Чарты</string>
     <string name="hungama_category_playlist">Плейлисты</string>
     <string name="hungama_category_radio">Радио</string>
     <string name="hungama_category_video">Видео</string>
-    <string name="hungama_category_vip">PRO</string>
+    <string name="hungama_category_vip">Gold</string>
     <string name="hungama_download_subscription_toast">Подпишитесь на Hungama Music, чтобы скачать эту песню</string>
-    <string name="hungama_free_download_out_summary">Вы больше не можете загружать бесплатные треки. Купить PRO подписку для загрузки без ограничений?</string>
+    <string name="hungama_free_download_out_summary">Вы больше не можете загружать бесплатные треки. Купить Gold подписку для загрузки без ограничений?</string>
     <string name="hungama_free_download_out_summary_toast">Вы уже загрузили %d треков. Оформите подписку, чтобы загрузить больше.</string>
     <string name="hungama_playlist_category">Категория</string>
     <string name="hungama_privacy_desc">Политика конфиденциальности Hungama (необязательное)</string>
     <string name="hungama_privacy_tips_content">Для получения доступа к онлайн-контенту, вы должны принять &lt;a href="/link/click"&gt;Политику конфиденциальности Hungama&lt;/a&gt;.</string>
     <string name="hungama_privacy_tips_title">Политика конфиденциальности Hungama</string>
-    <string name="hungama_pro">Hungama PRO</string>
-    <string name="hungama_subscribe_message">Купите PRO подписку для загрузки музыки в высоком качестве.</string>
-    <string name="hungama_subscribe_positive_button">Купить PRO подписку</string>
-    <string name="hungama_subscribe_title">PRO подписка</string>
+    <string name="hungama_pro">Hungama Gold</string>
+    <string name="hungama_subscribe_message">Купите Gold подписку для загрузки музыки в высоком качестве.</string>
+    <string name="hungama_subscribe_positive_button">Купить Gold подписку</string>
+    <string name="hungama_subscribe_title">Gold подписка</string>
     <string name="i_know">ОК</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="id_namespace">hungama</string>
@@ -1136,7 +1136,7 @@ ID: %s
     <string name="online_switch_confirm_title">Отключение служб онлайн-контента сделает все онлайн-функции недоступными. Отключить?</string>
     <string name="online_switch_message">Отключение онлайн-сервисов повлияет на сервисы VIP и рекомендации. Отключить?</string>
     <string name="online_switch_setting">Настройки онлайн-контента</string>
-    <string name="only_pro_can_choose_hd_sound_quality">HD качество доступно только для PRO подписчиков</string>
+    <string name="only_pro_can_choose_hd_sound_quality">HD качество доступно только для Gold подписчиков</string>
     <string name="open_online_service">Для использования этой функции необходимо включить онлайн-сервисы. Включить их сейчас?</string>
     <string name="open_service">Включить</string>
     <string name="open_settings">Настройки</string>
@@ -1290,7 +1290,7 @@ ID: %s
     <string name="paused_waiting_for_network">Ожидание подключения</string>
     <string name="paused_waiting_to_retry">Ожидание повтора</string>
     <string name="pay_now">Текущие сервисы</string>
-    <string name="payment_success_message">Спасибо! Ваш платеж был обработан успешно. Наслаждайтесь услугами PRO.</string>
+    <string name="payment_success_message">Спасибо! Ваш платеж был обработан успешно. Наслаждайтесь Gold подпиской.</string>
     <string name="payment_success_title">Поздравляем!</string>
     <string name="pending_apk">Ожидание…</string>
     <string name="periodic_dump_memory_profile">Запись дампа памяти в журнал</string>
@@ -1355,7 +1355,7 @@ ID: %s
 - Онлайн-сервисы потокового вещания</string>
     <string name="privacy_request_subtitle_offline">Добро пожаловать в приложение Музыка! Это приложение предоставляет локальный аудиоплеер.</string>
     <string name="privacy_request_title">Условия и положения</string>
-    <string name="pro_member">PRO подписчик</string>
+    <string name="pro_member">Gold подписчик</string>
     <string name="progressbar_title">Проверка проблем с безопасностью…</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Разрешить изменение параметров системы</string>
@@ -1391,7 +1391,7 @@ ID: %s
     <string name="remove_user_privacy_dialog_message">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Музыка. Сбор вашей личной информации будет прекращён. Собранная и сохраненная личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Для обеспечения основных сервисов, приложению требуется сбор некоторой личной информации. Отзыв согласия будет рассматриваться как отказ от использования вышеупомянутых сервисов.</string>
     <string name="remove_user_privacy_dialog_message_canuse">Выключая переключатель, вы отзываете свое согласие с Политикой конфиденциальности приложения Музыка. Сбор вашей личной информации будет прекращён. Собранная и сохраненная личная информация будет удалена в течение определённого периода, как того требует действующее законодательство. Для предоставления онлайн-сервисов потокового вещания, приложению требуется сбор некоторой личной информации. Отзыв согласия будет рассматриваться как отказ от использования вышеупомянутых онлайн-сервисов.</string>
     <string name="remove_user_privacy_dialog_title">Отзыв согласия</string>
-    <string name="renew_dialog_title">"Оформите PRO
+    <string name="renew_dialog_title">"Оформите Gold
 Будьте счастливы"</string>
     <string name="repeat_all_notif">Повтор всех треков.</string>
     <string name="repeat_current_notif">Повтор текущего трека.</string>
@@ -1523,7 +1523,7 @@ ID: %s
     <string name="sleep_mode_canceled">Таймер сна отключён</string>
     <string name="sleep_mode_summary">Остановить плеер через заданное время</string>
     <string name="sleep_mode_title">Таймер сна</string>
-    <string name="sliding_pro_center">PRO центр</string>
+    <string name="sliding_pro_center">Hungama Gold</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
     <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
@@ -1683,6 +1683,7 @@ ID: %s
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="time_to_upgrade">Доступно обновление</string>
+    <string name="tips_click_here_to_continue">Нажмите, чтобы возобновить воспроизведение</string>
     <string name="title_command_mode">Режим команд</string>
     <string name="title_online_fm_recommend">Популярные радиостанции</string>
     <string name="title_online_recommend">Популярные плейлисты</string>
@@ -1697,8 +1698,8 @@ ID: %s
     <string name="toast_download_in_process">Загрузка…</string>
     <string name="toast_favorite_has_been_added">Добавлено в плейлист</string>
     <string name="toast_follow_success">Добавлено в подписки</string>
-    <string name="toast_hungama_vip_song">Эта трек доступен только PRO подписчикам. Оформите подписку для скачивания.</string>
-    <string name="toast_is_pro">Вы уже являетесь PRO подписчиком</string>
+    <string name="toast_hungama_vip_song">Эта трек доступен только Gold подписчикам. Оформите подписку для скачивания.</string>
+    <string name="toast_is_pro">Вы уже являетесь Gold подписчиком</string>
     <string name="toast_my_playlist_illegal_name">Некорректное название плейлиста. Переименуйте плейлист.</string>
     <string name="toast_my_playlist_set_to_private">Плейлист закрыт и никому не доступен</string>
     <string name="toast_my_playlist_set_to_public">Плейлист доступен всем</string>
@@ -1708,7 +1709,7 @@ ID: %s
     <string name="toast_new_playlist_name_too_long">Имя плейлиста слишком длинное</string>
     <string name="toast_normal_songs_for_download">Качество загрузок: стандартное</string>
     <string name="toast_normal_songs_for_stream">Качество музыки: стандартное</string>
-    <string name="toast_not_pro">Эта функция доступна только PRO подписчикам</string>
+    <string name="toast_not_pro">Эта функция доступна только Gold подписчикам</string>
     <string name="toast_playlist_has_been_added">Добавлено в очередь</string>
     <string name="toast_playlist_has_been_private">Личный плейлист</string>
     <string name="toast_playlist_has_been_public">Общий плейлист</string>
@@ -1801,7 +1802,7 @@ ID: %s
     <string name="view_component_button_sure">ОК</string>
     <string name="vip">VIP</string>
     <string name="vip_required">Приобретите пакет Премиум, чтобы воспроизвести этот трек. Пока пропустим его.</string>
-    <string name="vip_required_with_song">Трек %s доступен только PRO подписчикам. Пока пропустим его.</string>
+    <string name="vip_required_with_song">Трек %s доступен только Gold подписчикам. Пока пропустим его.</string>
     <string name="voice_search_first_hint">Попробуйте голосовой поиск</string>
     <string name="wallet_history_record">Записи</string>
     <string name="wallet_record">Записи</string>

@@ -305,6 +305,8 @@ dd.MM"</string>
     <string name="select_notification_animation_style">Анимация</string>
     <string name="select_notification_notify_style">Эффекты уведомлений</string>
     <string name="send">Отправить</string>
+    <string name="settings_view_btn_check_off">Откл.</string>
+    <string name="settings_view_btn_check_on">Вкл.</string>
     <string name="share">Отправить</string>
     <string name="share_to_community">Отправить в Xiaomi Community</string>
     <string name="show_battery">Показывать состояние батареи</string>
