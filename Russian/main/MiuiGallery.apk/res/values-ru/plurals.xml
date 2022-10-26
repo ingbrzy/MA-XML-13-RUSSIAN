@@ -565,10 +565,53 @@
         <item quantity="other">Получение %2$d архивов (%3$s) от %1$s…</item>
         <item quantity="one">Получение %2$d архива (%3$s) от %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Загружено %d фото</item>
+        <item quantity="one">Загружено %d фото</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d комнат</item>
+        <item quantity="one">%1$d комната</item>
+        <item quantity="few">%1$d комнаты</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d экранов</item>
+        <item quantity="one">%1$d экран</item>
+        <item quantity="few">%1$d экрана</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d общих экранов</item>
+        <item quantity="one">%1$d общий экран</item>
+        <item quantity="few">%1$d общих экрана</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">Доступны %1$d сред умного дома</item>
+        <item quantity="one">Доступна %1$d среда умного дома</item>
+        <item quantity="few">Доступны %1$d среды умного дома</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d файлов слишком велики для синхронизации</item>
+        <item quantity="one">%d файл слишком велик для синхронизации</item>
+        <item quantity="few">%d файла слишком велики для синхронизации</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Не удалось синхронизировать %d файлов. Обновите подписку.</item>
+        <item quantity="one">Не удалось синхронизировать %d файл. Обновите подписку.</item>
+        <item quantity="few">Не удалось синхронизировать %d файла. Обновите подписку.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Не удалось синхронизировать %d файлов. Повторите попытку.</item>
+        <item quantity="one">Не удалось синхронизировать %d файл. Повторите попытку.</item>
+        <item quantity="few">Не удалось синхронизировать %d файла. Повторите попытку.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Не удалось синхронизировать %d файлов. Владелец альбома вышел из облачного хранилища.</item>
+        <item quantity="one">Не удалось синхронизировать %d файл. Владелец альбома вышел из облачного хранилища.</item>
+        <item quantity="few">Не удалось синхронизировать %d файла. Владелец альбома вышел из облачного хранилища.</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
-        <item quantity="other">%1$d секунд</item>
-        <item quantity="one">%1$d секунда</item>
-        <item quantity="few">%1$d секунды</item>
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">Оптимизировано %d фото</item>

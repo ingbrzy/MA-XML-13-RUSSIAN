@@ -57,6 +57,11 @@
     <item quantity="one">%1$d день назад</item>
     <item quantity="few">%1$d дня назад</item>
   </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Удалить %1$d файлов со всех устройств и из облака? Файлы Mi Drive можно восстановить в \"Недавно удаленные файлы\".</item>
+        <item quantity="one">Удалить %1$d файл со всех устройств и из облака? Файлы Mi Drive можно восстановить в \"Недавно удаленные файлы\".</item>
+        <item quantity="few">Удалить %1$d файла со всех устройств и из облака? Файлы Mi Drive можно восстановить в \"Недавно удаленные файлы\".</item>
+    </plurals>
     <plurals name="delete_files">
     <item quantity="other">Удалить %1$d файлов?</item>
     <item quantity="one">Удалить %1$d файл?</item>
@@ -162,6 +167,16 @@
         <item quantity="one">%d новое уведомление</item>
         <item quantity="few">%d новых уведомления</item>
      </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">Не удалось синхронизировать %1$s файлов</item>
+        <item quantity="one">Не удалось синхронизировать %1$s файл</item>
+        <item quantity="few">Не удалось синхронизировать %1$s файла</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Синхронизировано %1$s файлов | "</item>
+        <item quantity="one">"Синхронизирован %1$s файл | "</item>
+        <item quantity="few">"Синхронизировано %1$s файла | "</item>
+    </plurals>
     <plurals name="numSelectedFile">
     <item quantity="other">Выбрано: %1$d</item>
     <item quantity="one">Выбрано: %1$d</item>

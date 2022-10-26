@@ -1866,6 +1866,8 @@ ID:%s
     <string name="pa_olympic_label">Медали</string>
     <string name="pa_olympic_medal_count">Всего медалей</string>
     <string name="pa_olympic_medals_description">Рейтинг олимпийских медалей</string>
+    <string name="pa_open_personal_assistant_dialog_desc">После отключения Ленты виджетов, доступ к виджетам свайпом вправо на рабочем столе будет недоступен. Отключить?</string>
+    <string name="pa_open_personal_assistant_dialog_title">Отключить Ленту виджетов?</string>
     <string name="pa_operation_switch_summary">Просмотр популярных виджетов</string>
     <string name="pa_operation_switch_title">Популярные предложения</string>
     <string name="pa_pad_privacy_text">Виджеты рабочего стола</string>
@@ -2028,6 +2030,7 @@ ID:%s
     <string name="pa_setting_privacy_revoke_positive">Понятно</string>
     <string name="pa_setting_privacy_third_parties">Заявление о передаче данных третьим лицам</string>
     <string name="pa_setting_privacy_view_priv">Политика конфиденциальности</string>
+    <string name="pa_setting_simplify_title_bar">Лента виджетов</string>
     <string name="pa_setting_version">Версия：%1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Добро пожаловать в Покупки! Этот виджет можно использовать для получения скидок и торговых предложений. Прежде чем продолжить, прочтите и примите Положение об услугах третих сторон и Политику конфиденциальности.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Условия и положения</string>

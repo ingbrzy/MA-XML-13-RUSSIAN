@@ -61,6 +61,7 @@
     <string name="account_user_phone">Номер телефона для восстановления</string>
     <string name="account_user_region">Регион</string>
     <string name="action_add_phone">Добавить номер телефона</string>
+    <string name="action_settings">Настройки</string>
     <string name="action_update_phone">Изменить номер телефона</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_email_notice">Обязательно активируйте свой аккаунт в течение 24 часов</string>

@@ -120,8 +120,7 @@
     <string name="city_time_contrast_desc">Нажмите, чтобы сравнить время в разных городах</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
     <string name="click_listen_news_container">Утренние новости</string>
-<!-- ### FROM SOURCE -->
-    <string name="click_to_cancel_alarm">Tap to turn off</string>
+    <string name="click_to_cancel_alarm">Нажмите, чтобы выключить</string>
     <string name="clock_bg_button_setting_summary_common">Выбор цвета фона приложения Часы</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Чёрный будет использоваться в качестве цвета фона при каждом переходе в тёмный режим</string>
     <string name="clock_bg_button_setting_title">Цвет фона</string>
