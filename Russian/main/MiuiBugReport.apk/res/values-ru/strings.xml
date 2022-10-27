@@ -252,7 +252,7 @@ ID: %s
     <string name="feedback_edit_popup_window_related_title">Это может быть актуально</string>
     <string name="feedback_empty_report_list">Пока нет отчётов</string>
     <string name="feedback_evaluation_btn_content">Оценить</string>
-    <string name="feedback_evaluation_expired_hint">Оценка устарела</string>
+    <string name="feedback_evaluation_expired_hint">Оценка недоступна</string>
     <string name="feedback_evaluation_hint_dialog_content">Ваши отзывы помогают совершенствовать наши продукты и услуги</string>
     <string name="feedback_evaluation_hint_dialog_title">Проблема решена?</string>
     <string name="feedback_evaluation_invitation_content">Поделитесь оценкой, чтобы помочь нам улучшить обработку отзывов</string>

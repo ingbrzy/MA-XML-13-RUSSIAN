@@ -3806,7 +3806,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_dailog_night_charge_protection_summary">Батарея полностью заряжена. MIUI включила оптимизированную зарядку для уменьшения старения батареи.</string>
     <string name="power_dialog_cancel">Отмена</string>
     <string name="power_dialog_ok">ОК</string>
-    <string name="power_dialog_performance_mode_checkbox">Частота обновления 120 Гц</string>
+    <string name="power_dialog_performance_mode_checkbox">Частота обновления %d Гц</string>
     <string name="power_dialog_super_save_msg">Ультраэкономия заряда ограничивает большинство энергопотребляющих функций и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультраэкономию?</string>
     <string name="power_dialog_super_save_msg_5g">Ультраэкономия заряда ограничивает большинство энергопотребляющих функций (например, 5G подключение) и снижает производительность устройства. Звонки, SMS и подключение к сети затронуты не будут. Включить ультраэкономию?</string>
     <string name="power_dialog_super_save_title">Ультраэкономия заряда</string>
