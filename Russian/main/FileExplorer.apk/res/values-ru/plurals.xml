@@ -177,6 +177,10 @@
         <item quantity="one">"Синхронизирован %1$s файл | "</item>
         <item quantity="few">"Синхронизировано %1$s файла | "</item>
     </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Ожидание подключения к сети. Осталось файлов: %1$s.</item>
+        <item quantity="one">Ожидание подключения к сети. Осталось файлов: %1$s.</item>
+    </plurals>
     <plurals name="numSelectedFile">
     <item quantity="other">Выбрано: %1$d</item>
     <item quantity="one">Выбрано: %1$d</item>

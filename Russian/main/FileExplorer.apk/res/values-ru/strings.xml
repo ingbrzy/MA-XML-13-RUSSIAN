@@ -140,6 +140,7 @@
     <string name="click_to_switch_volume_pad">Переключение между хранилищем и SD-картой</string>
     <string name="clock_in">Регистрация…</string>
     <string name="close">Закрыть</string>
+    <string name="cloud_copy_to_local_title">Сохранить в…</string>
     <string name="cloud_drive_files">Файлы Mi Drive</string>
     <string name="cloud_drive_not_login_summary">Вход не выполнен</string>
     <string name="cloud_drive_settings">Настройки Mi Drive</string>
@@ -193,6 +194,7 @@
     <string name="cta_function_account_operation">Для быстрого входа в аккаунт Xiaomi</string>
     <string name="data_consume_dialog_message">Используется мобильный интернет. Если вы продолжите, будет использовано %s трафика.</string>
     <string name="data_consume_dialog_title">Использовать мобильный интернет?</string>
+    <string name="data_consume_dialog_upload_title">Использовать мобильный интернет?</string>
     <string name="data_consumption_cancel">Отмена</string>
     <string name="data_consumption_checkbox_hint">Больше не показывать</string>
     <string name="data_consumption_confirm">ОК</string>
@@ -387,6 +389,7 @@
     <string name="homepage_tab_file_view_phone">Устройство</string>
     <string name="homepage_tab_recent">Недавние</string>
     <string name="hot_sticker">Стикеры</string>
+    <string name="hybrid_provider">Предоставлено %1$s</string>
     <string name="icon_content_description">Иконка диалога</string>
     <string name="if_cancel">Отменить это действие?</string>
     <string name="image_loading_error">Не удалось загрузить фото</string>
@@ -604,6 +607,7 @@
     <string name="no_enough_storage_indication">Память устройства заполнена</string>
     <string name="no_enough_storage_title">Недостаточно места</string>
     <string name="no_file">Ничего нет</string>
+    <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_network_error_message">Проверьте настройки сети и повторите попытку</string>
     <string name="no_network_error_title">Не удалось подключиться к сети</string>
     <string name="no_permission">Предоставьте необходимые разрешения для доступа к этой функции</string>
@@ -674,6 +678,7 @@
     <string name="operation_moving">Перемещение…</string>
     <string name="operation_new_folder">Создать папку</string>
     <string name="operation_no_network_err">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="operation_not_support_directory_rename">Эту папку нельзя переименовать</string>
     <string name="operation_not_support_err">Не удалось выполнить</string>
     <string name="operation_open">Открыть</string>
     <string name="operation_open_mode">Открыть с помощью</string>
@@ -707,6 +712,7 @@
     <string name="operation_upload_error_title">Ошибка загрузки</string>
     <string name="operation_upload_retry">Повтор</string>
     <string name="operation_upload_save_to_local">Сохранить в…</string>
+    <string name="operation_upload_use_data">Загрузить</string>
     <string name="optional_change_wifi">Для удаленного управления файлами через Wi-Fi</string>
     <string name="otg_data_transfer_success">Успешная передача</string>
     <string name="otg_data_transferring">Передача файлов… Не отключайте внешний накопитель.</string>
@@ -1006,6 +1012,9 @@
     <string name="video_data_consume_dialog_confirm">OК</string>
     <string name="video_data_consume_dialog_title">Использовать мобильный интернет?</string>
     <string name="view_type">Просмотр</string>
+    <string name="web_sso_login_fail">Необходимо выполнить вход повторно</string>
+    <string name="web_sso_login_message">Авторизация…</string>
+    <string name="webview_reload">Повторить</string>
     <string name="wechat_msg">Из-за ограничений Android 11 Проводник не может получить доступ к документам в WeChat. Сохраняйте документы из WeChat для возможности просмотра здесь.</string>
     <string name="wechat_title">Доступ ограничен</string>
     <string name="wechat_video">Видео из %s</string>

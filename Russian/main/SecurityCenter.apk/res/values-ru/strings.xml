@@ -1263,6 +1263,7 @@
     <string name="confirm_open">Включить</string>
     <string name="confirm_open_shut_down_password_content">Установите блокировку экрана перед включением подтверждения выключения</string>
     <string name="confirm_open_shut_down_password_title">Включение защиты</string>
+    <string name="confirm_package_type">Подтвердите тарифный план</string>
     <string name="confirm_prompt_all_permission">Запрашивать разрешения для всех приложений?</string>
     <string name="confirm_reject_all_permission">Запретить всем приложениям использовать эту функцию?</string>
     <string name="confirm_take">Получить</string>
@@ -1709,6 +1710,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="ew_main_warning_list">Предупреждения</string>
     <string name="ew_main_warning_list_tips">Просмотр</string>
     <string name="ew_main_warning_list_title">История предупреждений</string>
+    <string name="ew_monitor_bad_request_tips">Приложение Безопасность не может получить доступ к информации об устройстве</string>
     <string name="ew_monitor_content">Ваше мобильное устройство может стать частью сети раннего предупреждения о землетрясениях. После того как его датчики зафиксируют сейсмические волны, данные будут проанализированы искусственным интеллектом, людям в районах бедствия будут отправлены ранние предупреждения.</string>
     <string name="ew_monitor_exit">Выйти</string>
     <string name="ew_monitor_exit_content">Привет, волонтер № %s! Ваше устройство может отслеживать сейсмическую активность и собирать данные, которые помогут выдавать ранние предупреждения о землетрясениях. Выйти из программы?</string>
@@ -1825,6 +1827,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="exo_download_downloading">Загрузка…</string>
     <string name="exo_download_failed">Ошибка загрузки</string>
     <string name="exo_download_notification_channel_name">Загрузки</string>
+    <string name="exo_download_paused">Загрузки приостановлены</string>
+    <string name="exo_download_paused_for_network">Ожидание сети…</string>
+    <string name="exo_download_paused_for_wifi">Ожидание Wi-Fi…</string>
     <string name="exo_download_removing">Удаление загрузок…</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_player_time_seperate">/</string>
@@ -2103,6 +2108,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gamebox_func_switch_simcard_immersion">"Невозможно переключить SIM-карты в режиме погружения"</string>
     <string name="gamebox_func_wlan_close">Wi-Fi отключён</string>
     <string name="gamebox_func_wlan_open">Wi-Fi включён</string>
+    <string name="gamebox_game_center_app_not_find">Установите Ускорение игр</string>
     <string name="gamebox_hangup">Выключение экрана</string>
     <string name="gamebox_hangup_tips_content">Эта функция позволяет выключить экран, сохранив игру в фоновом режиме. Отключается автоматически после разблокировки устройства.</string>
     <string name="gamebox_hangup_tips_title">Выключение экрана</string>
@@ -2182,6 +2188,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_barrage_chat_text_speed_faster">Быстрая</string>
     <string name="gb_barrage_chat_text_speed_moderate">Средняя</string>
     <string name="gb_barrage_chat_text_speed_slow">Медленная</string>
+    <string name="gb_barrage_dnd_conflict_toast">Чтобы использовать комментарии на экране, отключите функцию \"Не беспокоить\"</string>
     <string name="gb_beauty_cold_light">Холодный</string>
     <string name="gb_beauty_face">Улучшение</string>
     <string name="gb_beauty_light">Рассеянный свет</string>
@@ -2213,6 +2220,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_dialog_record_way_setting_tips">Примечание: запись игровых сессий может приводить к повышенному расходу заряда батареи и подтормаживанию</string>
     <string name="gb_dialog_record_way_title">Выберите метод записи</string>
     <string name="gb_dialog_wlan_wifi_weak">460 мс.</string>
+    <string name="gb_dnd_barrage_conflict_toast">Комментарии на экране недоступны в режиме \"Не беспокоить\"</string>
     <string name="gb_first_guide_function_shiled_title">Отключить системные функции, когда включено Ускорение игр</string>
     <string name="gb_first_guide_gamebox_des">Используйте ярлыки во время игр</string>
     <string name="gb_first_guide_handsfree_des">Отвечайте на звонки в фоновом режиме</string>
@@ -2306,6 +2314,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_performance_mode">Игровой режим</string>
     <string name="gb_performance_tips">"Производительный режим повышает скорость графики,
 но увеличивает расход заряда и вероятность перегрева"</string>
+    <string name="gb_predownload_check">Посмотреть награды</string>
     <string name="gb_predownload_dialog_cancel">Отмена</string>
     <string name="gb_predownload_dialog_checked">Больше не показывать</string>
     <string name="gb_predownload_dialog_confirm">Включить</string>
@@ -2315,6 +2324,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="gb_predownload_message_new">Включите автообновление совместимых игр в фоновом режиме, когда устройство не используется</string>
     <string name="gb_predownload_noti_message">%2$1.2f ГБ обновления уже загружено. Оно станет доступно, как только выйдет новая версия.</string>
     <string name="gb_predownload_noti_title">Обновление %s завершено</string>
+    <string name="gb_predownload_receive">Получить награды</string>
+    <string name="gb_predownload_receive_tips">Включите обновление в фоновом режиме для получения наград</string>
     <string name="gb_predownload_title">Обновления в фоновом режиме</string>
     <string name="gb_shortcut_pref_title">Ярлык на рабочем столе</string>
     <string name="gb_shoulder_guide_message1">Переместите [Л] в любое функциональное положение для использования с навесным триггером.</string>
@@ -4890,6 +4901,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="sp_eew_summary">Предупреждения о предстоящих землетрясениях</string>
     <string name="sp_eew_title">Предупреждения о землетрясении</string>
     <string name="sp_empty_title_sign_exception">Удерживайте объект для добавления его в исключения</string>
+    <string name="sp_family_guard_summary">Предоставление удаленной помощи</string>
+    <string name="sp_family_guard_title">Семейный защитник</string>
     <string name="sp_find_device_summary">Удаленный поиск устройства</string>
     <string name="sp_find_device_title">Поиск устройства</string>
     <string name="sp_guard_summary">Управление устройствами друзей и семьи</string>
@@ -5546,6 +5559,23 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tc_sms_report_upload_when_net">Спасибо за ваш отчёт!</string>
     <string name="tc_web_correct_error">Ошибка калибровки</string>
     <string name="ten_percent_total_pkg">%s (10%% от месячного лимита)</string>
+    <string name="terminal_privacy">Защита конфиденциальности на устройстве</string>
+    <string name="terminal_privacy_ability">Функции и механизмы</string>
+    <string name="terminal_privacy_ability_img">Обработка изображений</string>
+    <string name="terminal_privacy_ability_img_summary">Умное редактирование и распознавание фото и видео в приложениях Камера, Галерея и Taplus</string>
+    <string name="terminal_privacy_ability_model">Распознавание взаимодействия устройства с окружающей средой</string>
+    <string name="terminal_privacy_ability_model_summary">Счетчик шагов, умные жесты, режим \"В кармане\" и автояркость</string>
+    <string name="terminal_privacy_ability_others">Другие механизмы</string>
+    <string name="terminal_privacy_ability_others_summary">Совместное использование экрана, тестирование платежной среды, распознавание отпечатков пальцев и лиц</string>
+    <string name="terminal_privacy_ability_suggest">Рекомендации</string>
+    <string name="terminal_privacy_ability_suggest_summary">Рекомендации и предложения в Проводнике, боковой панели, Mi AI и Mi Wallet.</string>
+    <string name="terminal_privacy_ability_summary">*Функции и механизмы защиты конфиденциальности на устройстве могут отличаться в зависимости от модели устройства</string>
+    <string name="terminal_privacy_ability_txt">Текст</string>
+    <string name="terminal_privacy_ability_txt_summary">Редактирование текста, умные субтитры, Taplus, сообщения и общий буфер обмена</string>
+    <string name="terminal_privacy_ability_voice">Распознавание речи</string>
+    <string name="terminal_privacy_ability_voice_summary">Голосовые команды Mi AI и умные субтитры</string>
+    <string name="terminal_privacy_instruction">Защита конфиденциальности на устройстве включает в себя функции, которые гарантируют, что ваша личная информация хранится только на устройстве и не загружается в облако</string>
+    <string name="terminal_privacy_summary">Лкальная обработка личной информации на устройстве</string>
     <string name="terms_and_conditions_content"><Data>"Эта функция предупреждает о землетрясениях. Она сообщит о предстоящем землетрясении и воспроизведет сигнал тревоги. Вы сможете найти ближайшее убежище, позвонить в службу спасения и, при необходимости, предъявить медкарту. &lt;br>Мы будем защищать вашу личную информацию в соответствии с действующими законами, нормативными актами и политикой конфиденциальности. &lt;br>Для нормальной работы этой функции необходимы следующие разрешения для сбора вашей личной информации: &lt;br>• Геолокация: &lt;br>Для определения геопозиции и предоставления точных предупреждений о землетрясениях. &lt;br>В случае отказа предоставить необходимое разрешение и поделиться личной информацией, функция будет недоступна. В этом случае можно отключить эту функцию или не включать её. &lt;br>Перед использованием функции прочтите и примите &lt;a href=\"%s\">Политику конфиденциальности&lt;/a>."</Data></string>
     <string name="tether_custom_dialog_title">Лимит трафика</string>
     <string name="tether_limit_dialog_title">Лимит трафика</string>
