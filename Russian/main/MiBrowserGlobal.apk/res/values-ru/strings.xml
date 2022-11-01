@@ -984,6 +984,7 @@ ID:%s
     <string name="file_type">Формат: %s</string>
     <string name="filename_empty_alert_message">Введите имя файла</string>
     <string name="filename_illegal_alert_message">Недопустимый символ был удалён из имени файла</string>
+    <string name="files_stored_in_the_phone">Файлы на устройстве</string>
     <string name="find_garbage">Обнаружено %d МБ мусора</string>
     <string name="find_new_version">Доступно обновление</string>
     <string name="find_on_page_cancel">Отмена</string>
@@ -1259,6 +1260,7 @@ ID:%s
     <string name="loading_tips">Потяните вниз для обновления</string>
     <string name="local_apps">Установленные</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Локальные файлы</string>
     <string name="location_permission_name">Доступ к местоположению</string>
     <string name="lockpattern_continue_button_text">Далее</string>
     <string name="lockpattern_need_to_confirm">Подтвердите графический ключ</string>
@@ -1417,6 +1419,7 @@ ID:%s
     <string name="month_september_short">сен</string>
     <string name="month_september_shortest">Сен</string>
     <string name="more">Ещё</string>
+    <string name="more_convenient_features_and_content">Взгляните на новые инструменты и контент, который предлагает Браузер!</string>
     <string name="more_description">Меню</string>
     <string name="more_info">Подробности</string>
     <string name="more_option">Дополнительно</string>
@@ -2263,6 +2266,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="qq_application_id" />
     <string name="qr_code_title">QR-код</string>
     <string name="qr_description">Сканирование QR-кода</string>
+    <string name="quick_access_to_common_functions">Быстрый доступ к избранным функциям</string>
     <string name="quick_search_and_access_to_functions">Быстрый поиск предоставляет удобный доступ к часто используемым функциям.</string>
     <string name="quicklink_add_last7day">Последние 7 дней</string>
     <string name="quicklink_add_today">Сегодня</string>
@@ -2421,6 +2425,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="search">Поиск</string>
     <string name="search_bar_hint_content">Поиск приложений и материалов</string>
     <string name="search_button_text">Найти</string>
+    <string name="search_card_online_rec_app">Магазины приложений</string>
+    <string name="search_card_online_rec_app_install">Установить</string>
+    <string name="search_card_online_rec_app_open">Открыть</string>
     <string name="search_description">Панель поиска</string>
     <string name="search_empty_view_hint">Ничего не найдено</string>
     <string name="search_engine_title">Поиск по умолчанию</string>
@@ -2505,6 +2512,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="setting_searchable_content">Объекты поиска</string>
     <string name="setting_sms_content">Содержание SMS</string>
     <string name="setting_swipe_up">Свайп вверх на рабочем столе</string>
+    <string name="settings_search_online_apps">Магазины приложений</string>
+    <string name="settings_search_online_apps_desc">Контент из магазинов приложений</string>
     <string name="share_image_text">Посмотрите, чем я поделился! @MIUI</string>
     <string name="share_page_text">Посмотрите, чем я поделился: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">%1$s</string>
@@ -3188,9 +3197,11 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_translation_pop_text">Функция перевода доступна в панели инструментов</string>
     <string name="web_translation_tip">Всплывающее окно перевода можно отключить в дополнительных настройках</string>
     <string name="web_video_accelerate">Скорость</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">Скачать</string>
     <string name="web_video_download_no_access">Для загрузки объектов необходимы разрешения</string>
     <string name="web_video_enable_long_click_toast">Воспроизведение на скорости %dX</string>
+    <string name="web_video_float_drag_msg">Потяните, чтобы изменить размер</string>
     <string name="web_video_list_more">Ещё</string>
     <string name="web_video_list_playing">Воспроизведение</string>
     <string name="web_video_list_replay">Повтор</string>
