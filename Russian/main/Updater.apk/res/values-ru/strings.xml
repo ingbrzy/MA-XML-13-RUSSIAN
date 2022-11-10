@@ -89,6 +89,6 @@
     <string name="stable">стабильная</string>
     <string name="unit" formatted="false">%1$s %</string>
     <string name="version">Текущая версия:</string>
-    <string name="weekly">еженедельная</string>
+    <string name="weekly">Бета</string>
     <string name="wifi_recommended">Отсутствует Wi-Fi соединение</string>
 </resources>

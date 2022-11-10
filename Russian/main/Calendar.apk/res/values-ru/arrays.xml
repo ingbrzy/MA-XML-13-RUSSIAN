@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>Нет</item>
-        <item>Хиджра Самват</item>
-        <item>Сака Самват</item>
-        <item>Викрам Самват</item>
+        <item>Исламский календарь</item>
+        <item>Национальный календарь Индии</item>
+        <item>Календарь Викрам</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>А</item>

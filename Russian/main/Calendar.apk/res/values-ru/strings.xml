@@ -82,7 +82,7 @@
     <string name="add_holiday_desc">Добавление праздников</string>
     <string name="add_holiday_title">Добавление праздника</string>
     <string name="additional_cal_dialog_title">Выбор календаря</string>
-    <string name="additional_cal_pref_title">Дополнительный календарь</string>
+    <string name="additional_cal_pref_title">Дополнительные календари</string>
     <string name="additional_calendar_note">Некоторые дополнительные календари могут быть недоступны или измениться по какой-либо причине</string>
     <string name="address">Адрес</string>
     <string name="afternoon">После полудня</string>
@@ -858,7 +858,7 @@
     <string name="no_visiable_calendar_title">Добавление аккаунта</string>
     <string name="none">Нет</string>
     <string name="noon">Полдень</string>
-    <string name="not_more_than_three_weekday">Можно выбрать не более 3 дней</string>
+    <string name="not_more_than_three_weekday">Можно выбрать не более %d дней</string>
     <string name="not_set">Не задано</string>
     <string name="not_synced">не синхронизирован</string>
     <string name="notes_hint">Нажмите, чтобы добавить задачу</string>
@@ -1108,7 +1108,7 @@
     <string name="setting_daysoff_update_net_err">Не удалось проверить наличие обновлений. Попробуйте позже.</string>
     <string name="setting_daysoff_update_schedule">Обновление…</string>
     <string name="setting_daysoff_update_success">Успешно обновлено</string>
-    <string name="setting_desc_import_todo">Импорт запланированных задач из Заметок</string>
+    <string name="setting_desc_import_todo">Импорт срочных задач из Заметок</string>
     <string name="setting_features_title">Настройки функций</string>
     <string name="setting_holiday_display_desc">Карточки праздников расположены под вашей повесткой дня на главной странице</string>
     <string name="setting_holiday_reminder">Напоминания о праздниках</string>

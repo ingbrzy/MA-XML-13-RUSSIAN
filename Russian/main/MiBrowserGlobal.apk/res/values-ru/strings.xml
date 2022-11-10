@@ -1060,7 +1060,7 @@ ID:%s
     <string name="gcm_fallback_notification_channel_label">Другое</string>
     <string name="general__open_third_party_app_tip">Не удалось открыть. Приложение не установлено.</string>
     <string name="geolocation_permissions_prompt_dont_share">Запретить</string>
-    <string name="geolocation_permissions_prompt_message">%s хочет получить доступ к вашему местоположению</string>
+    <string name="geolocation_permissions_prompt_message">%s запрашивает разрешение на геолокацию</string>
     <string name="geolocation_permissions_prompt_remember">Запомнить</string>
     <string name="geolocation_permissions_prompt_share">Разрешить</string>
     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к информации о вашем местоположении. Для изменения перейдите в Настройки.</string>
@@ -1261,7 +1261,8 @@ ID:%s
     <string name="local_apps">Установленные</string>
     <string name="local_bookmarks">Mi</string>
     <string name="local_file">Локальные файлы</string>
-    <string name="location_permission_name">Доступ к местоположению</string>
+    <string name="local_video_player_label">Видеоплейер (Mi Браузер)</string>
+    <string name="location_permission_name">Геолокация</string>
     <string name="lockpattern_continue_button_text">Далее</string>
     <string name="lockpattern_need_to_confirm">Подтвердите графический ключ</string>
     <string name="lockpattern_need_to_unlock_wrong">Повторите</string>
@@ -2100,7 +2101,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные веб-форм</string>
     <string name="pref_privacy_clear_geolocation_access">Очистить геоданные</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
-    <string name="pref_privacy_clear_geolocation_access_summary">Удалить сайты, имеющие доступ к вашему местоположению</string>
+    <string name="pref_privacy_clear_geolocation_access_summary">Удалить сайты, имеющие доступ к геоданным</string>
     <string name="pref_privacy_clear_history">Очистить историю</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Очистить историю просмотров?</string>
     <string name="pref_privacy_clear_history_dlg">Очистить историю?</string>
@@ -2545,7 +2546,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Мы будем собирать и использовать ваши личные данные, если вы решите воспользоваться нашим сервисом.
 Сбор данных:
 1. Безопасные URL: сбор посещаемых URL веб-сайтов.
-2. Данные о местоположении: доступ к информации о вашем местоположении.
+2. Геоданные: доступ к информации о вашем местоположении.
 Использование данных:
 1. Безопасность: мы будем использовать ваши данные, для защиты от мошенничества и вирусов, а также для хранения и резервного копирования.
 2. Контент: предоставление релевантного локализованного новостного контента.
@@ -3013,7 +3014,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="view_document_downloaded_files">Просмотр загруженных файлов</string>
     <string name="vo_ad_detail">%s · реклама</string>
     <string name="vo_choose_activity_cancel">Отмена</string>
-    <string name="vo_choose_activity_content">Не удалось получить информацию о местоположении. Выберите город вручную.</string>
+    <string name="vo_choose_activity_content">Не удалось получить геоданные. Выберите город вручную.</string>
     <string name="vo_choose_activity_positive">Выбрать</string>
     <string name="vo_comment_text">Комментировать</string>
     <string name="vo_fast_game_card_bottom_text">Play games without installing them</string>
@@ -3160,7 +3161,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_privacy_auto_play_title">Автоматическое воспроизведение</string>
     <string name="web_permission_protect_privacy_clip_title">Доступ к буферу обмена и сохранение в нем данных</string>
     <string name="web_permission_protect_privacy_dialog_title">Открытие новых окон</string>
-    <string name="web_permission_protect_privacy_location_title">Доступ к местоположению</string>
+    <string name="web_permission_protect_privacy_location_title">Геолокация</string>
     <string name="web_permission_protect_privacy_vibrate_title">Использование вибрации</string>
     <string name="web_permission_protect_privacy_voice_title">Воспроизведение звука</string>
     <string name="web_permission_protect_record">История действий веб-сайта</string>

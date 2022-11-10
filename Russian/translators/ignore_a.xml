@@ -107,6 +107,7 @@
     <array name="aqi_level_bg_colors"></array>
     <array name="aqi_level_content_colors"></array>
     <string-array name="aqi_level_simple_desc"></string-array>
+    <string-array name="area"></string-array>
     <string-array name="aritst_area_filter"></string-array>
     <string-array name="aritst_area_filter_api"></string-array>
     <string-array name="aritst_gender_filter"></string-array>
@@ -643,6 +644,7 @@
     <string-array name="default_gallery_package"></string-array>
     <string-array name="default_mms_package"></string-array>
     <string-array name="default_quick_responses"></string-array>
+    <string-array name="default_reason_list"></string-array>
     <integer-array name="default_vibration_pattern"></integer-array>
     <string-array name="default_video_package"></string-array>
     <string-array name="default_vol_stream_values"></string-array>

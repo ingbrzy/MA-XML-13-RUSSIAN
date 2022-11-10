@@ -78,7 +78,7 @@
     <string name="aqi_alert_channel_name">Индекс качества воздуха</string>
     <string name="aqi_data_source">Поддержка: Colorful Clouds</string>
     <string name="aqi_desc">Индекс качества воздуха</string>
-    <string name="aqi_detail_24_hours">Прогноз на 24 часа</string>
+    <string name="aqi_detail_24_hours">Прогноз на %d часа</string>
     <string name="aqi_detail_5_days">Прогноз на 5 дней</string>
     <string name="aqi_detail_co">CO</string>
     <string name="aqi_detail_co_unit">Единица: мг/м³</string>
@@ -518,7 +518,7 @@
     <string name="share_weather_desc">\#MIUI Weather#Сегодня %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Не удалось сделать скриншот</string>
-    <string name="shortcut_short_label_24_hour_forecast">24-часовой прогноз</string>
+    <string name="shortcut_short_label_24_hour_forecast">%d-часовой прогноз</string>
     <string name="shortcut_short_label_recent_forecast">Проверить погоду</string>
     <string name="size_byte">" Б"</string>
     <string name="size_giga_byte">" ГБ"</string>
@@ -660,7 +660,7 @@
     <string name="unit">Единицы измерения</string>
     <string name="unit_temperature">Температура</string>
     <string name="unit_wind">Скорость ветра</string>
-    <string name="update_night_setting_summary_text">Обновлять данные с 23:00 до 07:00</string>
+    <string name="update_night_setting_summary_text">Обновлять данные с %1$s до %2$s</string>
     <string name="update_night_setting_title_text">Обновлять ночью</string>
     <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
     <string name="update_setting_title_text">Настройки обновления</string>
@@ -698,6 +698,7 @@
     <string name="wednesday_shortest">Ср</string>
     <string name="welcome_app_title">Добро пожаловать в Погоду!</string>
     <string name="wind_direction_no_data">Ветер</string>
+    <string name="wind_power">%d</string>
     <string name="wind_unit">%1$s км/ч</string>
     <string name="xiaomi_weather_description_content">Приложение дает вам точную информацию о погоде. Виджеты \"Погода\" в строке состояния и на рабочем столе не будут работать без него должным образом. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="xiaomi_weather_description_content_remove">Приложение \"Погода\" является системным, удалить его нельзя. После удаления ярлыка приложения с рабочего стола, связанные виджеты и просмотр информации о погоде могут быть недоступны.</string>

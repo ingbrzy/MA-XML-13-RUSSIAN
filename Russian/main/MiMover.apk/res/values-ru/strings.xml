@@ -167,7 +167,7 @@
     <string name="dialog_connect_ap_timeout_button">Подключиться</string>
     <string name="dialog_connect_ap_timeout_message">Автоматическое подключение не удалось. Попробуйте подключиться вручную.</string>
     <string name="dialog_connect_ap_timeout_title">Подключение вручную</string>
-    <string name="dialog_forbidden_use_tips">Mi Mover в настоящее время не поддерживает передачу данных на планшеты или с них.</string>
+    <string name="dialog_forbidden_use_tips">Текущая версия устарела. Обновите Mi Mover.</string>
     <string name="dialog_rating_desc_ask">Вам нравится Mi Mover?</string>
     <string name="dialog_rating_desc_less">Могли бы вы оставить отзыв?</string>
     <string name="dialog_rating_desc_perfect">Хотите оценить приложение в GetApps?</string>

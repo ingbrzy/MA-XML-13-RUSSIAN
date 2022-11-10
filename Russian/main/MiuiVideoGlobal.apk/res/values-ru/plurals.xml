@@ -64,6 +64,11 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Полчаса назад</item>
     </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s просмотров</item>
+        <item quantity="one">%s просмотр</item>
+        <item quantity="few">%s просмотра</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Через час</item>
     </plurals>
