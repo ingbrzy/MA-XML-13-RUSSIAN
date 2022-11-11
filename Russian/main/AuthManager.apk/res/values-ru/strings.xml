@@ -331,7 +331,7 @@
     <string name="permdesc_read_call_log">Разрешить %1$s доступ к журналу вызовов?</string>
     <string name="permdesc_read_contacts">Разрешить %1$s доступ к контактам?</string>
     <string name="permdesc_read_mms">Разрешить %1$s читать MMS?</string>
-    <string name="permdesc_read_phone_numbers">Разрешить %1$s читать телефонные номера?</string>
+    <string name="permdesc_read_phone_numbers">Разрешить %1$s читать номера телефонов?</string>
     <string name="permdesc_read_phone_state">Разрешить %1$s доступ к состоянию устройства и мобильной сети?</string>
     <string name="permdesc_read_sms">Разрешить %1$s читать и отправлять SMS или MMS?</string>
     <string name="permdesc_read_storage">Разрешить %1$s доступ к файлам на устройстве?</string>
