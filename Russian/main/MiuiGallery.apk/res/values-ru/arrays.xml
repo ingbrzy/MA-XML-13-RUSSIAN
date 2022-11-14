@@ -14,6 +14,10 @@
         <item>Выберите изображение</item>
         <item>Прозрачный фон</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Особенный день</item>
         <item>Памятный день</item>
