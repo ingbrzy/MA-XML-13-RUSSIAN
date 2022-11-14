@@ -266,7 +266,7 @@
     <string name="current_wallpaper">Выбранные</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Для вызовов экстренных контактов в Простом режиме</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Для отображения экстренных контактов в Простом режиме</string>
-    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Для отображения статуса устройства</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Для отображения состояния устройства</string>
     <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Для отображения виджетов календаря</string>
     <string name="custom_define_permission_desc_android.permission_group.CAMERA">Для отображения виджетов галереи</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Для доступа к имени виджета Wi-Fi в Android Q</string>

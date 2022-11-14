@@ -794,7 +794,7 @@ Xiaomi Cloud для нормальной работы необходимы по�
     <string name="privacy_runtime_perm_contacts_title">Контакты</string>
     <string name="privacy_runtime_perm_external_storage_desc">Для синхронизации фото профиля контактов и вложений</string>
     <string name="privacy_runtime_perm_external_storage_title">Хранилище</string>
-    <string name="privacy_runtime_perm_phone_state_desc">Для доступа к номеру телефона и состоянию устройства</string>
+    <string name="privacy_runtime_perm_phone_state_desc">Для получения номера телефона и состояния устройства</string>
     <string name="privacy_runtime_perm_phone_state_title">Информация об устройстве</string>
     <string name="privacy_runtime_perm_sms_desc">Для синхронизации сообщений</string>
     <string name="privacy_runtime_perm_sms_title">Сообщения</string>

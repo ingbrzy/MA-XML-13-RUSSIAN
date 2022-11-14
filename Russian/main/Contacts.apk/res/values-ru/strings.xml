@@ -1584,7 +1584,7 @@
     <string name="privacy_settings_read_call_log_description">Просмотр журнала вызовов</string>
     <string name="privacy_settings_read_contacts">Контакты</string>
     <string name="privacy_settings_read_contacts_description">Просмотр контактов</string>
-    <string name="privacy_settings_read_phone_state">Информация о устройстве</string>
+    <string name="privacy_settings_read_phone_state">Информация об устройстве</string>
     <string name="privacy_settings_read_phone_state_description">Доступ к информации о SIM-карте</string>
     <string name="privacy_settings_read_write_phone">Хранилище</string>
     <string name="privacy_settings_read_write_phone_description">Добавление фото профиля и импорт визитных карточек</string>

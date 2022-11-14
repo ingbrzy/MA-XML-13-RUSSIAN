@@ -804,9 +804,9 @@
     <string name="pref_title_perm_calander">Доступ к календарю</string>
     <string name="pref_title_perm_call">Вызовы</string>
     <string name="pref_title_perm_camera">Доступ к  камере</string>
-    <string name="pref_title_perm_location">Использование геолокации</string>
-    <string name="pref_title_perm_read_call_log">Доступ к журналу вызовов</string>
-    <string name="pref_title_perm_read_contacts">Доступ к контактам</string>
+    <string name="pref_title_perm_location">Геолокация</string>
+    <string name="pref_title_perm_read_call_log">Чтение журнала вызовов</string>
+    <string name="pref_title_perm_read_contacts">Чтение контактов</string>
     <string name="pref_title_perm_read_mms">Чтение SMS</string>
     <string name="pref_title_perm_send_mms">Отправка SMS</string>
     <string name="pref_title_perm_storage">Доступ к хранилищу</string>

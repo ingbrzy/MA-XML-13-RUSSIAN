@@ -560,10 +560,10 @@
     <string name="perm_manage_external_storage">Доступ ко всем файлам</string>
     <string name="perm_package_stats">Доступ к истории использования</string>
     <string name="perm_payment_dspt">Разрешить приложению оплачивать через Mi Pay Service</string>
-    <string name="perm_read_call_log">Доступ к журналу вызовов</string>
-    <string name="perm_read_contacts">Доступ к контактам</string>
-    <string name="perm_read_phone_state">Доступ к статусу телефона</string>
-    <string name="perm_read_sms">Доступ к сообщениям</string>
+    <string name="perm_read_call_log">Чтение журнала вызовов</string>
+    <string name="perm_read_contacts">Чтение контактов</string>
+    <string name="perm_read_phone_state">Информация об устройстве</string>
+    <string name="perm_read_sms">Чтение SMS</string>
     <string name="perm_storage">Доступ к хранилищу</string>
     <string name="perm_write_settings">Изменение настроек системы</string>
     <string name="permdesc_sendSmsNoConfirmation">Приложение может отправлять SMS-сообщения без вашего разрешения. Ваш оператор может взимать плату за эти сообщения.</string>

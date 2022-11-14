@@ -162,9 +162,9 @@
     <string name="cloud_backup_in_process">Резервное копирование…</string>
     <string name="cloud_backup_permission_allow">Предоставлено</string>
     <string name="cloud_backup_permission_not_allow">Не предоставлено</string>
-    <string name="cloud_backup_phone_state_summary">Для доступа к номеру телефона и состоянию устройства</string>
+    <string name="cloud_backup_phone_state_summary">Для получения номера телефона и состояния устройства</string>
     <string name="cloud_backup_phone_state_title">Доступ к информации об устройстве</string>
-    <string name="cloud_backup_rw_storage_summary">Для облачного резервного копирования рабочего стола, данных и настроек приложений</string>
+    <string name="cloud_backup_rw_storage_summary">Для резервного копирования рабочего стола, данных и настроек приложений в облако</string>
     <string name="cloud_backup_rw_storage_title">Доступ к хранилищу</string>
     <string name="cloud_backup_select_recover">Выберите копию из Xiaomi Cloud</string>
     <string name="cloud_restore_from_other_device">Остановить восстановление из %s и удалить копию? Это необратимое действие!</string>

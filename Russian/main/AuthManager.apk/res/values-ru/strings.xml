@@ -29,7 +29,7 @@
     <string name="HIPS_Perm_External_Storage_Desc">Доступ к файлам в хранилище</string>
     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Запись аудио</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Автозапуск приложений в фоновом режиме</string>
-    <string name="HIPS_Perm_Intl_group_desc_calendar">Доступ к событиям календаря</string>
+    <string name="HIPS_Perm_Intl_group_desc_calendar">Доступ к мероприятиям календаря</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">Доступ к журналу вызовов</string>
     <string name="HIPS_Perm_Intl_group_desc_camera">Съемка фото и видео</string>
     <string name="HIPS_Perm_Intl_group_desc_contact">Изменение и удаление контактов</string>
@@ -89,8 +89,8 @@
     <string name="HIPS_Perm_get_accounts_Desc">Доступ ко всем аккаунтам на устройстве</string>
     <string name="HIPS_Perm_get_installed_apps">Информация о приложениях</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">Получение информации об установленных приложениях</string>
-    <string name="HIPS_Perm_get_tasks">Получение задач</string>
-    <string name="HIPS_Perm_get_tasks_Desc">Разрешение на получение задач</string>
+    <string name="HIPS_Perm_get_tasks">Используемые приложения</string>
+    <string name="HIPS_Perm_get_tasks_Desc">Мониторинг используемых приложений</string>
     <string name="HIPS_Perm_install_shortcut">Ярлыки рабочего стола</string>
     <string name="HIPS_Perm_install_shortcut_Desc">Добавление ярлыков на рабочий стол</string>
     <string name="HIPS_Perm_mediaVolume">Изменение громкости</string>
