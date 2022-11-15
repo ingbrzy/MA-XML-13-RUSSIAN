@@ -64,6 +64,10 @@
     <string name="account_user_phone">Номер телефона для восстановления</string>
     <string name="account_user_region">Регион</string>
     <string name="action_add_phone">Добавить номер телефона</string>
+    <string name="action_setting_ab_playing">Повтор фрагмента…</string>
+    <string name="action_setting_ab_reset">Сброс</string>
+    <string name="action_setting_ab_set_end">Выберите конец</string>
+    <string name="action_setting_ab_set_start">Выберите начало</string>
     <string name="action_update_phone">Изменить номер телефона</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="activate_email_notice">Обязательно активируйте аккаунт в течение 24 часов</string>
@@ -504,7 +508,16 @@ ID: %s
     <string name="fcm_push_title">Популярные</string>
     <string name="fcmpts_dialog_continue">Просмотр</string>
     <string name="fcmpts_dialog_not_interested">Отмена</string>
+    <string name="fcmpts_dialog_two" formatted="false">Посмотрите %d секунд еще %d видео, чтобы получить купон Mi Store.</string>
+    <string name="fcmpts_popup_final">Готово! Нажмите, чтобы активировать награды.</string>
+    <string name="fcmpts_popup_final_redeem">Активировать</string>
+    <string name="fcmpts_popup_four" formatted="false">Готово! Посмотрите %d секунд еще %d видео, чтобы получить купон Mi Store.</string>
+    <string name="fcmpts_popup_one" formatted="false">Посмотрите сегодня %d видео, чтобы получить купон Mi Store на %d баллов.</string>
     <string name="fcmpts_popup_one_cts">Просмотр</string>
+    <string name="fcmpts_popup_three" formatted="false">Просмотрено %d секунд. Вы заработали %d баллов!</string>
+    <string name="fcmpts_popup_three_claim">Получить</string>
+    <string name="fcmpts_popup_three_login_claim">Войти</string>
+    <string name="fcmpts_popup_two" formatted="false">Посмотрите %d секунд этого видео, чтобы получить %d баллов.</string>
     <string name="feedback">Обратная связь</string>
     <string name="feedback_activity_title">Обратная связь</string>
     <string name="feedback_contact_empty">Введите контактную информацию</string>
@@ -1212,6 +1225,7 @@ ID: %s
     <string name="no_history">Ничего нет</string>
     <string name="no_longer_prompt">Больше не показывать</string>
     <string name="no_more_content">Больше ничего нет</string>
+    <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_network_tips">Невозможно использовать функцию. Доступ к сети ограничен.</string>
     <string name="no_phone">Нет номера телефона</string>
     <string name="no_recommend_data">Нет рекомендаций</string>
@@ -1958,6 +1972,7 @@ ID: %s
     <string name="tip_subscribe_guide_hint_b">Смотрите без рекламы новые видео с каналов YouTube, на которые вы подписаны</string>
     <string name="tip_tap_download_button">%d. Нажите \"Загрузить\"</string>
     <string name="tip_topic_click">Нажмите, чтобы найти больше видео по этой теме</string>
+    <string name="title_ab_loop">Повтор A-B</string>
     <string name="title_bookmarks">Закладки</string>
     <string name="title_continue_to_borwser">Открыть в браузере</string>
     <string name="title_download_setting">Настройки загрузки</string>
@@ -1965,6 +1980,7 @@ ID: %s
     <string name="title_history">История</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (эпизод %d)</string>
     <string name="title_mangotv_subtitle_language">Язык субтитров</string>
+    <string name="title_more_wonderful_smallvideo">Другие короткие видео</string>
     <string name="title_publisher">Создатели</string>
     <string name="title_select_directory">Выбор папки</string>
     <string name="title_selected">Выбрано</string>
