@@ -132,6 +132,12 @@
         <item quantity="one">%d подписчик</item>
         <item quantity="few">%d подписчика</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d часов назад</item>
         <item quantity="one">%1$d час назад</item>
@@ -190,6 +196,12 @@
         <item quantity="other">%1$d минут назад</item>
         <item quantity="one">%1$d минуту назад</item>
         <item quantity="few">%1$d минуты назад</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+        <item quantity="many">%d мин.</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Выбрано %d элементов</item>

@@ -232,6 +232,7 @@
     <string name="app_update_install">Обновление готово к установке</string>
     <string name="application">Приложения</string>
     <string name="application_name">Браузер</string>
+    <string name="application_upgrade">Обновления</string>
     <string name="aqi_quality_index_break">Чрезвычайно опасный</string>
     <string name="aqi_quality_index_dangerous">Очень нездоровый</string>
     <string name="aqi_quality_index_good">Хороший</string>
@@ -405,6 +406,7 @@
     <string name="choose_to_signin">Да</string>
     <string name="choose_to_signup">Нет, создать новый</string>
     <string name="choosertitle_sharevia">Отправить с помощью</string>
+    <string name="clean_cache">Очистить кэш</string>
     <string name="clear">Очистить</string>
     <string name="clear_clipboard">Очистить буфер обмена</string>
     <string name="clear_clipboard_confirm">Вы уверены, что хотите полностью очистить буфер обмена?</string>
@@ -412,6 +414,8 @@
     <string name="clear_input_history_confirm">Вы уверены, что хотите полностью очистить историю?</string>
     <string name="clear_input_history_confirm_bt_text">Подтвердить</string>
     <string name="clear_most_visited">Недавняя история</string>
+    <string name="clear_result_page_more_content">Обзор</string>
+    <string name="clear_result_page_show_more">Показать еще</string>
     <string name="clear_search_history">Очистить историю</string>
     <string name="clear_transfer_summary">Снимите флажки настроек системы, так вы сможете повторно передать</string>
     <string name="clear_transfer_title">Очистить флажки передачи</string>
@@ -1028,6 +1032,7 @@ ID:%s
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
     <string name="gaid">GAID (нажмите для экспорта)</string>
+    <string name="game_center">Игры</string>
     <string name="game_center_recommend_play">Играть</string>
     <string name="game_center_recommend_title">Рекомендуемое</string>
     <string name="game_exit_when_press_back_again">Нажмите ещё раз, чтобы выйти</string>
@@ -1158,6 +1163,7 @@ ID:%s
     <string name="hot_word_item_mark_new_text">НОВОЕ</string>
     <string name="hot_word_item_mark_recommend_text">РЕКОМЕНДУЕМ</string>
     <string name="hot_words_item_ads_mark">Реклама</string>
+    <string name="hour_minute">%2$s %1$s</string>
     <string name="i_know">Понятно</string>
     <string name="identity">Идентификация</string>
     <string name="if_cancel">Отменить это действие?</string>
@@ -1297,6 +1303,7 @@ ID:%s
     <string name="media_error_video_not_exist">Видео не существует</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">Очищено %1$s</string>
+    <string name="memory_management">Управление хранилищем</string>
     <string name="memory_usage">Память</string>
     <string name="menu_addtodesk">Добавить на рабочий стол</string>
     <string name="menu_exit_nightmode">Выход</string>
@@ -1763,6 +1770,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="no_network">Проверьте подключение и повторите попытку.</string>
     <string name="no_phone">Нет номера телефона</string>
     <string name="no_recent_files">Нет недавних файлов</string>
+    <string name="no_scalable_applications">Обновление не требуется</string>
     <string name="no_space_alert_cancel">Позже</string>
     <string name="no_space_alert_clean">Освободить место</string>
     <string name="no_space_alert_text">Недостаточно места</string>
@@ -1800,6 +1808,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="novel_continue_read_popup">Читать</string>
     <string name="novel_tab_popup">Смотрите новейшие книги здесь</string>
     <string name="novel_tab_popup_ok">OK</string>
+    <string name="occupy" formatted="false">Занято %d%</string>
     <string name="offline_notification_text">Нажмите для просмотра рекламы, сохраненной в автономном режиме</string>
     <string name="offline_notification_title">Просмотр рекламы</string>
     <string name="offline_opt_in_confirm">ОК</string>
@@ -2013,6 +2022,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="popup_video">Всплывающее видео</string>
     <string name="popup_window_attempt">Разрешить сайту всплывающие окна?</string>
     <string name="positive_confirm_message">Отключить</string>
+    <string name="power_saving_settings">Экономия энергии</string>
     <string name="pref_accept_quicklink_push">Новостная лента</string>
     <string name="pref_accessibility">Специальные возможности</string>
     <string name="pref_accessibility_recommending_search_title">Рекомендовать поиск</string>
@@ -2827,6 +2837,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="the_united_nations_day">День Организации Объединенных Наций</string>
     <string name="the_valentines_day">День святого Валентина</string>
     <string name="the_water_lantern_festival">Фестиваль водных фонарей</string>
+    <string name="third_image_viewer_label">Просмотр изображений (Mi Браузер)</string>
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
@@ -2896,6 +2907,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="update_no_network_toast">Ошибка подключения к сети</string>
     <string name="update_now">ОБНОВИТЬ</string>
     <string name="update_phone_notice">Измените настройки безопасности</string>
+    <string name="upgrade">Обновить</string>
     <string name="upload_error_log">Загрузить журнал</string>
     <string name="upload_usage_statistics">Включите, чтобы делиться с нами статистикой использования в режиме инкогнито.</string>
     <string name="uploads_disabled">Загрузка файлов отключена</string>
