@@ -2364,8 +2364,8 @@ ID сбоя: http://crash/%1$s"</string>
 Если вы не согласны предоставить это разрешение, то функция не будет работать должным образом, но она не повлияет на использование вами основных функций этого приложения. Вы можете отключить вышеуказанное разрешение в настройках системы."</string>
     <string name="request_profile_error">Не удалось получить данные аккаунта</string>
     <string name="resend_active_email">Повторить</string>
-    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что сообщение не попало в папку со спамом.</string>
-    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="resend_email_success">Отправлено</string>
     <string name="restart">Начать сначала</string>
     <string name="restart_action">Начать сначала</string>

@@ -830,9 +830,9 @@ mm"</string>
     <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
     <string name="require_permission">Предоставьте разрешения</string>
     <string name="require_permission_text">Разрешите Карусели обоев доступ к памяти устройства для сохранения и просмотра файлов</string>
-    <string name="resend_active_email">Отправить снова</string>
-    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
-    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="resend_email_success">Письмо отправлено снова</string>
     <string name="resource_apply">Применить</string>
     <string name="resource_no_network_text">Проверьте настройки сети и повторите попытку</string>

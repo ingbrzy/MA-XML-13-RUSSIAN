@@ -814,9 +814,9 @@ ID: %s
     <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
     <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
-    <string name="resend_active_email">Отправить снова</string>
-    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
-    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="resend_email_success">Письмо отправлено снова</string>
     <string name="restart_action">Начать сначала</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>

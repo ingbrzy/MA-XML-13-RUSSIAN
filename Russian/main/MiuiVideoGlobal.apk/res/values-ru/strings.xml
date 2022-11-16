@@ -1700,8 +1700,8 @@ ID: %s
     <string name="report_success">Отчёт успешно отправлен</string>
     <string name="request_camera_permission_message">"Мы будем защищать вашу личную информацию в соответствии с соответствующими законами и постановлениями. Для нормальной работы приложению необходимы следующие разрешения:&lt;br>&lt;br>&lt;b>Камера (для установки фото профиля)&lt;/b>&lt;br>&lt;br>Если вы не согласитесь предоставить такие разрешения, вы не сможете использовать некоторые функции приложения, однако его основные функции все равно будут вам доступны. Вы всегда можете ограничить разрешения или отозвать свою авторизацию в настройках."</string>
     <string name="resend_active_email">Повторить</string>
-    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что сообщение не попало в папку со спамом.</string>
-    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="resend_email_success">Отправлено</string>
     <string name="restart_action">Начать сначала</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Начать сначала?</string>

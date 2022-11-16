@@ -1010,9 +1010,9 @@ ID:%s
     <string name="reply_comment_hint">Ответить на %s:</string>
     <string name="report">Отчёт</string>
     <string name="report_comment_success">Мы рассмотрим ваш отчёт. Благодарим за отзыв!</string>
-    <string name="resend_active_email">Отправить снова</string>
-    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
-    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="resend_email_success">Письмо отправлено снова</string>
     <string name="restart_action">Начать сначала</string>
     <string name="restart_download">Повтор</string>

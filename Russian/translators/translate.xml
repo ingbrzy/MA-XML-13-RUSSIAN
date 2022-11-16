@@ -1007,7 +1007,16 @@ mm"</string>
     <string name="passport_register_restricted">С этим номером связано слишком много аккаунтов, выберите другой</string>
     <string name="passport_reload_ph_ticket">Повторить</string>
     <string name="passport_relogin_notice">Необходимо выполнить вход повторно</string>
+    <string name="passport_remove_confirm">Удалить</string>
+    <string name="passport_remove_unactivated_account_notice">Ваш аккаунт не активирован</string>
+    <string name="passport_resend_active_email">Повторить</string>
     <string name="passport_resend_ticket">Отправить код повторно</string>
+    <string name="passport_reset_fail_title">Не удалось сбросить пароль</string>
+    <string name="passport_reset_password_prompt">Неверный пароль</string>
+    <string name="passport_reset_password_title">Сброс пароля</string>
+    <string name="passport_restart">Начать сначала</string>
+    <string name="passport_restart_register_prompt">Возможно, потребуется отправить код подтверждения повторно.</string>
+    <string name="passport_restart_register_title">Создание Xiaomi аккаунта</string>
     <string name="passport_retry">Повтор</string>
     <string name="passport_send_sms_to">Код отправлен на %1$s</string>
     <string name="passport_send_too_many_code">На этот номер отправлено слишком много кодов подтверждения. Подождите 24 часа и повторите попытку.</string>
@@ -1106,6 +1115,9 @@ mm"</string>
     <string name="request_error_network">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="request_error_unknown">Ошибка системы. Вернитесь назад и повторите попытку.</string>
     <string name="request_gallery_permission_message">Разрешите доступ к Галерее:&lt;br />Для установки фото профиля</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="retail_demo_reset_message">Для сброса настроек в деморежиме введите пароль.</string>
     <string name="retail_demo_reset_next">Далее</string>
     <string name="retail_demo_reset_title">Требуется пароль</string>

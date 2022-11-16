@@ -775,7 +775,7 @@ ID:%s
     <string name="passport_relogin_notice">Необходимо повторно выполнить вход</string>
     <string name="passport_remove_confirm">Удалить</string>
     <string name="passport_remove_unactivated_account_notice">Ваш аккаунт не активирован</string>
-    <string name="passport_resend_active_email">Отправить повторно</string>
+    <string name="passport_resend_active_email">Повторить</string>
     <string name="passport_reset_fail_title">Не удалось сбросить пароль</string>
     <string name="passport_reset_password_prompt">Неверный пароль</string>
     <string name="passport_reset_password_title">Сброс пароля</string>
@@ -860,9 +860,9 @@ ID:%s
 Доступ к камере: запись в режиме реального времени для установки аватара 
 
 Если вы не предоставите необходимое разрешение, функция не будет работать должным образом, но это не повлияет на использование основных функций приложения. Отозвать разрешение можно в любой момент."</string>
-    <string name="resend_active_email">Отправить</string>
-    <string name="resend_email_reach_limit_message">Вы запросили слишком много писем с подтверждением. Убедитесь, что письмо с подтверждением не находится в папке «Спам» вашего почтового ящика.</string>
-    <string name="resend_email_reach_limit_title">Слишком много попыток</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="resend_email_success">Успешно отправлено</string>
     <string name="restart_action">Начать ещё раз</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Начать все равно?</string>

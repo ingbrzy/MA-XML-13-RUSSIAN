@@ -664,7 +664,7 @@ ID:%s
     <string name="passport_relogin_notice">Необходимо выполнить вход повторно</string>
     <string name="passport_remove_confirm">Удалить</string>
     <string name="passport_remove_unactivated_account_notice">Ваш аккаунт не активирован</string>
-    <string name="passport_resend_active_email">Отправить снова</string>
+    <string name="passport_resend_active_email">Повторить</string>
     <string name="passport_reset_fail_title">Не удалось сбросить пароль</string>
     <string name="passport_reset_password_prompt">Неверный пароль</string>
     <string name="passport_reset_password_title">Сброс пароля</string>
@@ -784,9 +784,9 @@ ID:%s
     <string name="request_use_gallery_message">Разрешить Xiaomi аккаунту доступ к галерее?</string>
     <string name="request_use_gallery_title">Доступ к галерее</string>
     <string name="request_use_writing_clipboard_message">Для копирования идентификатора Xiaomi аккаунта, разрешите запись в буфер обмена</string>
-    <string name="resend_active_email">Отправить снова</string>
-    <string name="resend_email_reach_limit_message">Слишком много запросов писем для подтверждения. Убедитесь, что письмо не попало в папку для спама вашего почтового ящика.</string>
-    <string name="resend_email_reach_limit_title">Лимит запросов</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
     <string name="resend_email_success">Письмо отправлено снова</string>
     <string name="restart_action">Начать сначала</string>
     <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
