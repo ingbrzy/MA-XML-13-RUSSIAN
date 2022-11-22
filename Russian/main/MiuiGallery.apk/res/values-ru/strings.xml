@@ -81,6 +81,8 @@
     <string name="account_user_phone">Телефон</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="actionbar_overflow_item_desc">Дополнительные параметры</string>
+    <string name="activate_email_notice">Обязательно активируйте свой аккаунт в течение 24 часов</string>
+    <string name="activity_not_found_notice">Приложение не найдено</string>
     <string name="add_automatically_alert_msg">Добавлять фото из альбома \"%1$s\" в этот альбом автоматически?</string>
     <string name="add_automatically_alert_title">Автоматическое добавление</string>
     <string name="add_nomedia_with_move_to_rubbish">Добавить файлы \".nomedia\" в выбранные альбомы, чтобы сделать их невидимыми для других приложений</string>
@@ -320,6 +322,10 @@
     <string name="back_up_gp_btn_no_migrating">Отмена</string>
     <string name="back_up_gp_btn_setup">Включить</string>
     <string name="back_up_gp_btn_setup_migrating">Настройки</string>
+    <string name="back_up_gp_msg">"Включите резервное копирование в Google Фото для автоматического сохранения фото и видео в аккаунте Google.
+• Новым функциям могут потребоваться дополнительные разрешения как в Галерее Xiaomi, так и в Google Фото."</string>
+    <string name="back_up_gp_msg_migrating">Файлы из облака переносятся в Google Фото. Настройте резервное копирование в Google Фото для возможности синхронизации новых файлов.</string>
+    <string name="back_up_gp_title">Резервное копирование в Google Фото</string>
     <string name="background_picture">Фон %1$d</string>
     <string name="backup_automatically_summary">Синхронизация фото и видео со всех устройств в Xiaomi Cloud. Вы сможете просматривать, сортировать, редактировать и обмениваться фото и видео на всех устройствах.</string>
     <string name="backup_automatically_title">Автосинхронизация</string>
@@ -358,6 +364,12 @@
     <string name="backup_pause_title">Синхронизация приостановлена</string>
     <string name="backup_pending">Ожидание выгрузки</string>
     <string name="backup_settings">Синхронизация с облаком</string>
+    <string name="backup_settings_banner_msg_off">Резервное копирование фото и видео в Google Фото позволит сохранить все памятные моменты</string>
+    <string name="backup_settings_banner_msg_on">Просмотр состояния резервного копирования в Google Фото</string>
+    <string name="backup_settings_banner_title_not_allow">Резервное копирование в Google Фото</string>
+    <string name="backup_settings_banner_title_off">Резервное копирование отключено</string>
+    <string name="backup_settings_banner_title_on">Резервное копирование включено</string>
+    <string name="backup_settings_jump_err">Не удалось включить резервное копирование в Google Фото</string>
     <string name="backup_settings_more">Дополнительно</string>
     <string name="backup_stop">Остановить</string>
     <string name="backup_sync_dialog_confirm">Включить</string>
@@ -659,6 +671,9 @@
     <string name="continue_back_up_gp_msg">Чтобы включть резервное копирование необходимо открыть Google Фото</string>
     <string name="continue_back_up_gp_title">Открытие Google Фото</string>
     <string name="continue_feedback">Дополнительный отзыв</string>
+    <string name="continue_migration_msg">Часть фото и видео перенесены в Google Фото. Возобновите передачу, чтобы не потерять остальные файлы, когда синхронизация с Xiaomi Cloud станет недоступной.</string>
+    <string name="continue_migration_ok">ОК</string>
+    <string name="continue_migration_title">Возобновление передачи</string>
     <string name="copy">Копировать</string>
     <string name="correct_photo_time">Коррекция даты и времени фото</string>
     <string name="correct_time_success">Коррекция завершена</string>
@@ -736,6 +751,9 @@ ID: %s
     <string name="disable_auto_upload_tip">Отключить синхронизацию с облаком для этого альбома?</string>
     <string name="disable_auto_upload_title">Отключение синхронизации</string>
     <string name="disable_secret_album_upload_message">Новые фото не будут синхронизироваться с облаком, если отключить эту функцию. Отключить?</string>
+    <string name="disconnect_migration_btn_disconnect">Прервать</string>
+    <string name="disconnect_migration_msg">Фото и видео, которые уже переданы, останутся в Google Фото.</string>
+    <string name="disconnect_migration_title">Прервать передачу?</string>
     <string name="do_not_remind_me">Больше не показывать</string>
     <string name="doc_photo_enter"/>
     <string name="document_provider_guide_step_1">%d. Нажмите кнопку \"Ещё\".</string>
@@ -1345,6 +1363,7 @@ ID: %s
     <string name="input_a_name">Введите имя</string>
     <string name="input_baby_name">Введите имя</string>
     <string name="input_baby_nick_name">Введите прозвище</string>
+    <string name="input_email_address_notice">Этот адрес электронной почты будет использоваться для подтверждения вашего аккаунта</string>
     <string name="input_nickname_toast">Введите имя ребенка</string>
     <string name="input_or_select_a_name">Введите или выберите имя</string>
     <string name="input_relation_name">Введите имя группы</string>
@@ -1623,6 +1642,16 @@ ID: %s
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="micloud_introduce">Автоматически синхронизировать фото и видео (требуется Xiaomi аккаунт)</string>
     <string name="midnight">Ночь</string>
+    <string name="migrate_gp_bottom_msg_0">Для переноса файлов в Google Фото, добавьте аккаунт Google и предоставьте Xiaomi следующее разрешение:</string>
+    <string name="migrate_gp_bottom_msg_1">После переноса файлов в Google Фото все папки Галереи (включая приватную) будут удалены.</string>
+    <string name="migrate_gp_bottom_msg_li_0">Ознакомьтесь с требованиями Google One и рекомендациями по хранению.</string>
+    <string name="migrate_gp_bottom_msg_li_1">Добавить в библиотеку Google Фото</string>
+    <string name="migrate_gp_btn_migrate">Перенести</string>
+    <string name="migrate_gp_btn_no">Не сейчас</string>
+    <string name="migrate_gp_msg">"Фото и видео больше не будут синхронизироваться с Xiaomi Cloud. Вы можете перенести свои файлы в Google Фото или посетить i.mi.com для их загрузки до %1$s. После этого файлы, оставшиеся в Xiaomi Cloud, будут удалены навсегда.
+%2$s"</string>
+    <string name="migrate_gp_msg_link">Подробности</string>
+    <string name="migrate_gp_title">Синхронизация с облаком больше не доступна</string>
     <string name="migrate_msg">После обновления системы для некоторых альбомов требуется выдача разрешения на перемещение файлов.</string>
     <string name="miplay_adjust_volume">Уровень громкости: %d</string>
     <string name="miplay_circulate_failed">Ошибка трансляции потока. Повторите попытку позже.</string>
@@ -1831,6 +1860,9 @@ ID: %s
     <string name="no_network_connected">Интернет недоступен</string>
     <string name="noon">Полдень</string>
     <string name="not_ask_any_more">Не подтверждать при ответе \"%s\"</string>
+    <string name="not_enough_space_msg_with_email">В облачном хранилище аккаунта Google %1$s недостаточно места. Начните снова и обновите план, когда появится соответствующий запрос.</string>
+    <string name="not_enough_space_ok">Начать сначала</string>
+    <string name="not_enough_space_title">Недостаточно места</string>
     <string name="not_is">Нет</string>
     <string name="not_remind_again">Больше не показывать</string>
     <string name="not_remind_any_more">Больше не показывать</string>
@@ -2510,6 +2542,10 @@ ID: %s
     <string name="request_sms_url_failed">Не удалось получить данные</string>
     <string name="request_sms_url_msg">Запрос информации…</string>
     <string name="request_sms_url_title">Предупреждение</string>
+    <string name="resend_active_email">Повторить</string>
+    <string name="resend_email_reach_limit_message">Запрошено слишком много писем для подтверждения. Убедитесь, что они не попали в папку для спама.</string>
+    <string name="resend_email_reach_limit_title">Лимит попыток</string>
+    <string name="resend_email_success">Успешно отправлено</string>
     <string name="retry_to_create_album">Повторить</string>
     <string name="retry_to_request_qr_code">Повторить</string>
     <string name="risk_control_deleted_date">dd.MM</string>
@@ -2531,6 +2567,7 @@ ID: %s
     <string name="saf_secret_album">Приватный альбом</string>
     <string name="saf_secret_album_guide">Предоставьте приложению разрешение для отображения содержимого приватного альбома</string>
     <string name="same_name_album_exist_and_toast">Альбом с таким именем уже существует. Создан альбом \"%s\".</string>
+    <string name="same_new_and_old_pwd">Пароли не должны совпадать</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung</string>
     <string name="saturday">Суббота</string>
@@ -2674,6 +2711,7 @@ ID: %s
     <string name="send_diagnosis_log">Отправить журнал</string>
     <string name="send_dolby_vision_duration_more_than_40s">Видео Dolby Vision более 4 минут можно передать только в исходном формате, который может не поддерживаться принимающим устройством. Все равно продолжить?</string>
     <string name="send_dolby_vision_video_continue">Продолжить</string>
+    <string name="send_email_activate_message">Письмо с подтверждением отправлено</string>
     <string name="send_file_beautify_failed">Не удалось отправить</string>
     <string name="send_files_by">Отправить через</string>
     <string name="send_files_to">Отправить</string>
@@ -2704,6 +2742,18 @@ ID: %s
     <string name="setup_network_connection">Настройки сети</string>
     <string name="share">Поделиться</string>
     <string name="share_album">Общий альбом</string>
+    <string name="share_album_action_mode_title">Контроль доступа</string>
+    <string name="share_album_add_share_photos">Добавить общие фотографии</string>
+    <string name="share_album_auto_add_people">Выбор</string>
+    <string name="share_album_baby_age">%1$s</string>
+    <string name="share_album_cancel_share">Отменить доступ</string>
+    <string name="share_album_change_background">Изменить фоновое фото</string>
+    <string name="share_album_create_failed">Не удалось создать общий альбом</string>
+    <string name="share_album_exit_confirm_title">Покинуть группу?</string>
+    <string name="share_album_family_add_sharer_dialog_title">Пригласить</string>
+    <string name="share_album_family_delete_sharer_title">Ограничение доступа</string>
+    <string name="share_album_family_invite_category_title">Добавление в семейную группу</string>
+    <string name="share_album_family_invite_default">Поделиться</string>
     <string name="share_album_family_invite_family_cate_title">Семейная группа</string>
     <string name="share_album_family_invite_link">URL-адрес</string>
     <string name="share_album_family_invite_miaccount">Xiaomi аккаунт</string>
@@ -2721,6 +2771,8 @@ ID: %s
     <string name="share_album_home_pref_cate_name">Умный дом</string>
     <string name="share_album_home_pref_has_home_summary">У этой группы уже есть семейная заставка</string>
     <string name="share_album_home_pref_name_default">Умный дом</string>
+    <string name="share_album_home_pref_name_fail">Не удалось получить информацию об окружающей среде умного дома</string>
+    <string name="share_album_home_pref_no_device_summary">Нет общих экранов</string>
     <string name="share_album_home_pref_operation_manage">Управление</string>
     <string name="share_album_home_pref_operation_open">Включить</string>
     <string name="share_album_home_pref_unshare_nonOwner_summary">Без общего доступа</string>
@@ -2819,6 +2871,9 @@ ID: %s
     <string name="slow_motion_enter"/>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
+    <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+    <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
+    <string name="sns_sign_in">Другие способы входа</string>
     <string name="solar_children_day_title">День детей</string>
     <string name="solar_christmas_title">Рождество</string>
     <string name="solar_fathers_day_title">День отца</string>
@@ -2911,6 +2966,9 @@ ID: %s
     <string name="sticker_tab_talkback_summer_day">Летний день</string>
     <string name="sticker_tab_talkback_words">Текст</string>
     <string name="sticker_words">Слова</string>
+    <string name="stop_migration_msg">Вы не сможете возобновить перенос, если прервёте его сейчас. Вам понадобится посетить i.mi.com для копирования вручную оставшихся файлов в Xiaomi Cloud.</string>
+    <string name="stop_migration_ok">Прервать</string>
+    <string name="stop_migration_title">Прервать перенос?</string>
     <string name="storage_description_primary">Хранилище</string>
     <string name="storage_description_sdcard">SD-карта</string>
     <string name="storage_description_usb">USB накопитель</string>
@@ -2953,6 +3011,10 @@ ID: %s
     <string name="super_slow_motion_enter"/>
     <string name="support_single_image">Выберите изображение</string>
     <string name="support_single_video">Выберите видео</string>
+    <string name="switch_account_continue">Возобновить</string>
+    <string name="switch_account_msg_with_email">Перенос был ранее остановлен на %1$s. Возобновить или начать сначала с другим аккаунтом Google?</string>
+    <string name="switch_account_switch">Начать сначала</string>
+    <string name="switch_account_title">Возобновить перенос?</string>
     <string name="sync_album_in_proecess">Синхронизация альбома…</string>
     <string name="sync_backup_disable_confirm_message_downloading">Если вы отключите синхронизацию сейчас, загрузка исходных файлов будет прервана. Изображения высокого качества будут недоступны. Отключить синхронизацию?</string>
     <string name="sync_backup_disable_confirm_message_wait">Изображения высокого качества после отключения синхронизации будут недоступны. Вы можете скачать исходные файлы из облака, затем отключить синхронизацию</string>
@@ -3197,6 +3259,27 @@ ID: %s
     <string name="today_of_year_photo_num">Фотографии</string>
     <string name="tomorrow">Завтра</string>
     <string name="too_many_recipients">Нельзя добавить больше %2$s получателей (Добавлено на данный момент %1$s).</string>
+    <string name="tran_notification_complete_title">Перенос завершен</string>
+    <string name="tran_notification_paused_msg">Возобновите перенос</string>
+    <string name="tran_notification_paused_title">Перенос приостановлен</string>
+    <string name="tran_notification_preparing_msg">Подготовка файлов…</string>
+    <string name="tran_notification_preparing_title">О переносе фото и видео</string>
+    <string name="tran_notification_storage_msg">Обновите облачный план хранения, чтобы продолжить перенос</string>
+    <string name="tran_notification_storage_title">Недостаточно места в облаке</string>
+    <string name="tran_notification_succeeded_msg">%1$d/%2$d | 100%%</string>
+    <string name="tran_notification_succeeded_title">Фото и видео перенесены</string>
+    <string name="tran_notification_update_msg">%1$d/%2$d | %3$d%%</string>
+    <string name="tran_notification_update_title">Перенос фото и видео…</string>
+    <string name="transfer_status_banner_msg_complete">Файлы перенесены</string>
+    <string name="transfer_status_banner_msg_need_retry">Перенос прерван. Попробуйте еще раз или посетите i.mi.com для загрузки файлов вручную.</string>
+    <string name="transfer_status_banner_msg_no_space">Перенос приостановлен. Недостаточно места в аккаунте Google. Обновите план хранения, чтобы продолжить.</string>
+    <string name="transfer_status_banner_msg_no_space_inline">Обновить</string>
+    <string name="transfer_status_banner_msg_not_started">Синхронизация с облаком больше недоступна. Начните перенос или загрузите файлы вручную.</string>
+    <string name="transfer_status_banner_msg_pausing">Перенос прерван %1$s</string>
+    <string name="transfer_status_banner_msg_preparing">Подготовка к переносу %1$s</string>
+    <string name="transfer_status_banner_msg_processing">"Перенос фото и видео %1$s
+(%2$d/%3$d)"</string>
+    <string name="transfer_status_banner_msg_unbinding">Удаление аккаунта. Подождите немного и начните перенос снова %1$s</string>
     <string name="trash_bin">Корзина</string>
     <string name="trash_bin_key_word">Удаленные файлы</string>
     <string name="trash_bin_summary">Просмотр недавно удаленных фото и видео, сохраненных в Xiaomi Cloud</string>
@@ -3217,8 +3300,14 @@ ID: %s
     <string name="trash_vip_button_unlogin">Вход</string>
     <string name="try_again_later">Повторите попытку позже.</string>
     <string name="try_to_send">Отправить</string>
+    <string name="tsb_action_backup_apk_err">Настройка резервного копирования</string>
+    <string name="tsb_action_completed_allow_closed">Включить резервное копирование</string>
+    <string name="tsb_action_completed_open">Просмотр состояния резервного копирования</string>
+    <string name="tsb_action_err">Произошла ошибка. Повторите попытку.</string>
+    <string name="tsb_action_err_fast">Не удалось возобновить передачу. Попробуйте завтра.</string>
     <string name="tsb_action_file_failed">Понятно</string>
     <string name="tsb_action_need_retry">Повтор</string>
+    <string name="tsb_action_not_started">Перенести файлы</string>
     <string name="tsb_action_show_details">Подробности</string>
     <string name="tuesday">Вторник</string>
     <string name="tuesday_short">Вт</string>
@@ -3252,6 +3341,8 @@ ID: %s
     <string name="update_btn_positive">Обновить</string>
     <string name="update_check">Проверка обновлений</string>
     <string name="update_check_title">Текущая версия: %s</string>
+    <string name="update_email_address_dialog_message">Перед обновлением адреса электронной почты для восстановления необходимо подтвердить личность.</string>
+    <string name="update_email_address_dialog_title">Обновление адреса email</string>
     <string name="update_ignore">Пропустить эту версию</string>
     <string name="update_latest_version">Текущая версия актуальна</string>
     <string name="update_log_format" formatted="false">%s %s</string>

@@ -1207,6 +1207,9 @@ mm"</string>
     <string name="size_peta_byte">" ПБ"</string>
     <string name="size_tera_byte">" ТБ"</string>
     <string name="skip_query_account">Пропустить</string>
+    <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+    <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
+    <string name="sns_sign_in">Другие способы входа</string>
     <string name="softap_beacon_protection">Включить защиту SoftAp Beacon</string>
     <string name="softap_beacon_protection_summary">Включить защиту SoftAp Beacon  с использованием точки доступа</string>
     <string name="softap_ocv">Включить SoftAp OCV</string>

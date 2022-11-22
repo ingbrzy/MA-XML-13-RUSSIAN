@@ -832,6 +832,7 @@ ID:%s
     <string name="skip_query_account">Пропустить</string>
     <string name="sms_send_success">Отправлено</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+    <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>
     <string name="solar_term_clear_and_bright">Ясно</string>

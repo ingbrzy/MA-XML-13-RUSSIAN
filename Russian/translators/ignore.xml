@@ -4274,6 +4274,7 @@
     <string name="settingslib_config_headlineFontFamily">@android:string/config_headlineFontFamily</string>
     <string name="settingslib_config_headlineFontFamilyMedium">@android:string/config_headlineFontFamilyMedium</string>
     <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
+    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_by_yidianzixun">【一点资讯】</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="shift_card_reminder_day">本轮第%1$d天</string>
@@ -4941,6 +4942,12 @@
     <string name="time_placeholder">--</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_permission">PermissionActivity</string>
+    <string name="title_dynamicfeature_7350">Feature_7350</string>
+    <string name="title_dynamicfeature_8450">Feature_8450</string>
+    <string name="title_dynamicfeature_8550">Feature_8550</string>
+    <string name="title_dynamicfeature_basefeature">Feature_baseFeature</string>
+    <string name="title_dynamicfeature_default">Feature_default</string>
+    <string name="title_dynamicfeature_mtk">Feature_mtk</string>
     <string name="toast_download_with_metered_network_btn_cancel">@string/base_btn_cancel</string>
     <string name="today_hot_search">今日热搜</string>
     <string name="trail_sport_target_value_desc">%1$s</string>

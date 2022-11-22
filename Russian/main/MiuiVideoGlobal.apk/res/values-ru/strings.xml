@@ -1782,8 +1782,8 @@ ID: %s
     <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="small_video_tab_expose_hint">Нажмите для просмотра других видеороликов</string>
     <string name="sms_send_success">Отправлено</string>
-    <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
-    <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
+    <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+    <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
     <string name="sns_sign_in">Другие способы входа</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>

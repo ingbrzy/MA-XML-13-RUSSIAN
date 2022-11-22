@@ -2608,8 +2608,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="snapshot">Локальные</string>
     <string name="snapshot_failed">Ошибка сохранения страницы</string>
     <string name="snapshot_successed">Сохранено в Закладки > Локальные</string>
-    <string name="sns_access_token_expired_warning">Сессия устарела. Повторите вход в систему.</string>
-    <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
+    <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
+    <string name="sns_bind_limit">Слишком много попыток. Попробуйте другие способы входа.</string>
     <string name="sns_sign_in">Другие способы входа</string>
     <string name="soft_toast_see_view">Просмотр</string>
     <string name="software_update">Обновить</string>

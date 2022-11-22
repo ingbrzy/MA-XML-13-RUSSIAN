@@ -3644,9 +3644,9 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="phone_manager_title">Панель инструментов</string>
     <string name="pkg_traffic">Лимит трафика</string>
     <string name="pm_auto_start_by_other">Цепной запуск</string>
-    <string name="pm_auto_start_by_other_app">Разрешение запускать другие приложения</string>
+    <string name="pm_auto_start_by_other_app">Разрешить запуск других приложений</string>
     <string name="pm_auto_start_by_system">Автозапуск</string>
-    <string name="pm_auto_start_by_system_event">Разрешение запускаться автоматически</string>
+    <string name="pm_auto_start_by_system_event">Разрешить автозапуск</string>
     <string name="pm_auto_start_proc_is_running">Запущено</string>
     <string name="pm_newfeature_sub_text">НОВОЕ</string>
     <string name="pm_remember_choice">Запомнить выбор</string>
@@ -3726,8 +3726,8 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_center_list_item_wake_notification">Не пробуждать для уведомлений</string>
     <string name="power_center_list_item_wake_notification_summary">Входящие уведомления будут отображаться только при включении экрана</string>
     <string name="power_center_night_charge_noti_subtitle">Батарея будет полностью заряжена %s</string>
-    <string name="power_center_night_charge_noti_title">Включена оптимизированная зарядка</string>
-    <string name="power_center_night_charge_protection">Оптимизированная зарядка</string>
+    <string name="power_center_night_charge_noti_title">Включена оптимизация зарядки</string>
+    <string name="power_center_night_charge_protection">Оптимизация зарядки</string>
     <string name="power_center_night_charge_protection_setting">Дополнительные параметры в Безопасность > Батарея.</string>
     <string name="power_center_night_charge_protection_summary">Для уменьшения старения батареи, MIUI собирает статистику по зарядке, чтобы исключить избыточную непрерывную зарядку</string>
     <string name="power_center_one_key_save">Оптимизировать</string>
