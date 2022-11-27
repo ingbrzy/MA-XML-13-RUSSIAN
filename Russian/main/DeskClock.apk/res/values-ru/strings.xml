@@ -58,7 +58,7 @@
     <string name="alarm_notify_text">Отложите или отключите будильник.</string>
     <string name="alarm_repeat">Повтор</string>
     <string name="alarm_ringtone">Мелодии будильников</string>
-    <string name="alarm_ringtone_picker">Будильники</string>
+    <string name="alarm_ringtone_picker">Будильник</string>
     <string name="alarm_settings">Настройки будильника</string>
     <string name="alarm_settings_category_title">Будильник</string>
     <string name="alarm_vibrate">Вибрация</string>

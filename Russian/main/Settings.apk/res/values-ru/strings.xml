@@ -641,12 +641,12 @@
     <string name="airplane_mode_summary">Отключение вызовов, SMS и мобильного интернета</string>
     <string name="alarm_ringtone_title">Звук будильника по умолчанию</string>
     <string name="alarm_sound_dialog_title">Выберите мелодию будильника</string>
-    <string name="alarm_sound_title">Будильники</string>
+    <string name="alarm_sound_title">Будильник</string>
     <string name="alarm_stop">Отключать режим \"Без звука\" при звонке будильника</string>
     <string name="alarm_stop_info">Режим \"Без звука\" будет отключён при звонке будильника</string>
     <string name="alarm_template">%1$s</string>
     <string name="alarm_template_far">%1$s</string>
-    <string name="alarm_volume_option_title">Будильники</string>
+    <string name="alarm_volume_option_title">Будильник</string>
     <string name="alarm_volume_title">Будильник</string>
     <string name="alarms_and_reminders_footer_title">"Разрешите приложению устанавливать будильники и планировать действия по времени. Это позволит приложению работать в фоновом режиме, но может увеличить расход батареи.
 
@@ -7950,14 +7950,14 @@ UT-интерфейс: %5$s"</string>
     <string name="right_to_left_slide">Свайп влево</string>
     <string name="ring_to_you">Рингтон вызова</string>
     <string name="ring_to_you_info">Установите свой рингтон, который услышат вызывающие абоненты</string>
-    <string name="ring_volume_option_title">Рингтоны и уведомления</string>
+    <string name="ring_volume_option_title">Рингтон и уведомления</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringer_mode_setting_summary">Отключить звук входящих вызовов и уведомлений</string>
     <string name="ringer_mode_setting_title">Режим \"Без звука\"</string>
     <string name="ringtone_slot_setting_title">Отдельно для каждой SIM</string>
-    <string name="ringtone_title">Рингтоны</string>
+    <string name="ringtone_title">Рингтон</string>
     <string name="ringtone_uniform_setting_title">Настройки двух SIM карт</string>
-    <string name="ringtones_category_preference_title">Рингтоны</string>
+    <string name="ringtones_category_preference_title">Рингтон</string>
     <string name="ringtones_install_custom_sound_content">Этот файл будет скопирован в папку \"%s\"</string>
     <string name="ringtones_install_custom_sound_title">Добавление пользовательского сигнала</string>
     <string name="risk_tip">Найдена угроза</string>
@@ -10791,7 +10791,7 @@ UT-интерфейс: %5$s"</string>
     <string name="volte_5G_limited_title">Отключить VoLTE?</string>
     <string name="volte_provisioned_switch_string">Синхронизация VoLTE включена</string>
     <string name="volume_adjustment">Регулировка громкости</string>
-    <string name="volume_alarm_description">Будильники</string>
+    <string name="volume_alarm_description">Будильник</string>
     <string name="volume_alarm_mute">Скрыть оповещения</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">Громкость</string>
