@@ -467,7 +467,7 @@
     <string name="inactive_app_inactive_summary">Выключено. Нажмите, чтобы включить.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
     <string name="incall_error_call_failed">Вызов не осуществлен.</string>
-    <string name="incall_error_power_off">Для совершения вызова отключите режим полета.</string>
+    <string name="incall_error_power_off">Для совершения вызова отключите режим полёта.</string>
     <string name="incall_error_supp_service_unknown">Услуга не поддерживается.</string>
     <string name="install_other_apps">Установка неизвестных приложений</string>
     <string name="item_view_role_description">Вкладка</string>

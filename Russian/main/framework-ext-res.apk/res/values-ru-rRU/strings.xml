@@ -197,7 +197,7 @@
     <string name="game">Игра</string>
     <string name="gesture_function_dialog_message">%1$s используется для \"%2$s\". Заменить на \"%3$s\"?</string>
     <string name="glee">Радость</string>
-    <string name="global_actions_airplane_mode">Режим полета</string>
+    <string name="global_actions_airplane_mode">Режим полёта</string>
     <string name="global_actions_reboot">Перезагрузка</string>
     <string name="global_actions_shutdown">Выключение</string>
     <string name="global_actions_silent_mode">Режим \"Без звука\"</string>
@@ -542,7 +542,7 @@
     <string name="status_bar_toggle_cast">Трансляция</string>
     <string name="status_bar_toggle_data">Интернет</string>
     <string name="status_bar_toggle_edit">Сортировка</string>
-    <string name="status_bar_toggle_flight_mode">Режим полета</string>
+    <string name="status_bar_toggle_flight_mode">Режим полёта</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Блокировка</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>

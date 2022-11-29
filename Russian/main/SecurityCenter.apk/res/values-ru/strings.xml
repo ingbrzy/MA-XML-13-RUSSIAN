@@ -803,7 +803,7 @@
     <string name="auto_task_edit_condition_title">Новое условие</string>
     <string name="auto_task_edit_default_task_name">Имя задачи</string>
     <string name="auto_task_edit_my_custom_task">Имя</string>
-    <string name="auto_task_edit_operation_summary">Например, \"Включить Режим полета\"</string>
+    <string name="auto_task_edit_operation_summary">Например, \"Включить Режим полёта\"</string>
     <string name="auto_task_edit_step1_new">%d.</string>
     <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">Имя</string>
@@ -842,7 +842,7 @@
     <string name="auto_task_open_app">Запустить %s</string>
     <string name="auto_task_open_bluetooth">Включить Bluetooth</string>
     <string name="auto_task_open_wlan">Включить Wi-Fi</string>
-    <string name="auto_task_operation_airplane_mode">Режим полета</string>
+    <string name="auto_task_operation_airplane_mode">Режим полёта</string>
     <string name="auto_task_operation_auto_brightness">Автояркость</string>
     <string name="auto_task_operation_bluetooth">Bluetooth</string>
     <string name="auto_task_operation_brightness">Яркость экрана</string>
@@ -1367,7 +1367,7 @@
     <string name="default_condition_summary">Например, \"Заряд батареи ниже 20%\"</string>
     <string name="default_condition_title">Добавить условие</string>
     <string name="default_condition_title_continue">Добавить условие</string>
-    <string name="default_result_summary">Например, \"Отключить режим полета\"</string>
+    <string name="default_result_summary">Например, \"Отключить режим полёта\"</string>
     <string name="default_result_title">Добавить действие</string>
     <string name="default_result_title_continue">Добавить действие</string>
     <string name="delete">Удалить</string>
@@ -1429,7 +1429,7 @@
     <string name="dialog_title_attention">Внимание</string>
     <string name="dialog_title_auto_start_declare">Об автозапуске</string>
     <string name="dialog_title_stop_virus_scan">Остановка проверки</string>
-    <string name="disable_air_mode">Сначала отключите режим полета</string>
+    <string name="disable_air_mode">Сначала отключите режим полёта</string>
     <string name="disable_sensitive_permissions">Конфиденциальные разрешения ограничены</string>
     <string name="disable_sensitive_permissions_detail">Клавиатура не сможет использовать конфиденциальные разрешения (например, доступ к контактам или геолокацию).</string>
     <string name="dlg_add_blacklist">Заблокировать этот номер?</string>
@@ -1914,7 +1914,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="firewall_wifi_dialog_message">Когда этот переключатель выключен, установленное приложение не сможет подключаться к интернету по Wi-Fi.</string>
     <string name="first_aid_activity_title">Решение проблем</string>
     <string name="first_aid_card_airplane_button">Отключить</string>
-    <string name="first_aid_card_airplane_summary">Отключите режим полета, чтобы совершать вызовы и подключаться к сети</string>
+    <string name="first_aid_card_airplane_summary">Отключите режим полёта, чтобы совершать вызовы и подключаться к сети</string>
     <string name="first_aid_card_airplane_title">Вызовы и подключение к сети недоступны</string>
     <string name="first_aid_card_consume_power_button1">Ограничить</string>
     <string name="first_aid_card_consume_power_button2">Отключить</string>
@@ -3826,7 +3826,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="power_main_battery_last_hour_minute">Заряда хватит на %1$s ч. %2$s мин.</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Осталось %1$s %2$s экранного времени</string>
     <string name="power_main_open_last_hour_minute_screen_on">Включите, чтобы добавить %1$s %2$s экранного времени</string>
-    <string name="power_mode_airplane_mode">Режим полета</string>
+    <string name="power_mode_airplane_mode">Режим полёта</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Через %1$d мин.</string>
     <string name="power_mode_auto_clean_memory">Очистка процессов</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Через 5 мин.</string>
@@ -5437,7 +5437,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="tab_sms">SMS</string>
     <string name="tab_sort_all">Все</string>
     <string name="tab_title">Антиспам</string>
-    <string name="task_summary_close_airplane">Отключить режим полета</string>
+    <string name="task_summary_close_airplane">Отключить режим полёта</string>
     <string name="task_summary_close_auto_brightness">Отключить автояркость</string>
     <string name="task_summary_close_bluetooth">Отключить Bluetooth</string>
     <string name="task_summary_close_dark_mode">Отключить тёмный режим</string>
@@ -5456,7 +5456,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="task_summary_close_system_touch">Отключить виброотклик</string>
     <string name="task_summary_close_wlan">Отключить Wi-Fi</string>
     <string name="task_summary_close_zen_mode">Отключить режим \"Не беспокоить\"</string>
-    <string name="task_summary_open_airplane">Включить режим полета</string>
+    <string name="task_summary_open_airplane">Включить режим полёта</string>
     <string name="task_summary_open_auto_brightness">Включить автояркость</string>
     <string name="task_summary_open_bluetooth">Включить Bluetooth</string>
     <string name="task_summary_open_dark_mode">Включить тёмный режим</string>
@@ -5737,7 +5737,7 @@ Xiaomi не обещает и не гарантирует точность, до
     <string name="title_restrict_data_usage">%s не может подключиться к интернету?</string>
     <string name="title_result_absorbed">Режим медитации</string>
     <string name="title_result_adjust_volume">Громкость</string>
-    <string name="title_result_airplan">Режим полета</string>
+    <string name="title_result_airplan">Режим полёта</string>
     <string name="title_result_bluetooth">Bluetooth</string>
     <string name="title_result_brightness">Автояркость</string>
     <string name="title_result_dark">Тёмный режим</string>

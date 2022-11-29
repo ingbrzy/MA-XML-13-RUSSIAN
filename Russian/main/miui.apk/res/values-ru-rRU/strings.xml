@@ -525,7 +525,7 @@
     <string name="send_sms_for_sync_title">Предупреждение</string>
     <string name="sim_changed_reactivate_int_notice">Для повторной активации данной услуги может потребоваться отправка международного SMS. Оплата взимается согласно тарифу вашего оператора.</string>
     <string name="sim_changed_reactivate_notice">Для повторной активации данной услуги может потребоваться отправка SMS. Оплата взимается согласно тарифу вашего оператора.</string>
-    <string name="sim_in_airplane_mode">Отключите режим полета</string>
+    <string name="sim_in_airplane_mode">Отключите режим полёта</string>
     <string name="sim_locked">SIM карта заблокирована</string>
     <string name="sim_not_ready">SIM карта уже используется</string>
     <string name="sim_unavailable">SIM карта недоступна</string>

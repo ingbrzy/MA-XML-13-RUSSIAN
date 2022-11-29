@@ -159,8 +159,8 @@
     <string name="deselect_all">Отменить выбор</string>
     <string name="deselect_all_description">Отменить выбор всех элементов</string>
     <string name="dialog_airplane_mode_button">Настройки</string>
-    <string name="dialog_airplane_mode_content">Mi Mover не может работать в режиме полета. Отключите режим полета в настройках.</string>
-    <string name="dialog_airplane_mode_title">Отключение режима полета</string>
+    <string name="dialog_airplane_mode_content">Mi Mover не может работать в режиме полёта. Отключите режим полёта в настройках.</string>
+    <string name="dialog_airplane_mode_title">Отключение режима полёта</string>
     <string name="dialog_backup_password_cancel">Отмена</string>
     <string name="dialog_backup_password_change_machine_tips">Вы не сможете передавать резервные копии, защищенные паролем. Отключите пароль резервного копирования перед использованием Mi Mover.</string>
     <string name="dialog_backup_password_verify">ОК</string>
@@ -712,7 +712,7 @@
     <string name="settings_wifi">Настройки Wi-Fi</string>
     <string name="sim_changed_reactivate_int_notice">Для возобновления работы этой службы может потребоваться исходящее международное SMS-сообщение. Ваш оператор будет взимать плату за это сообщение.</string>
     <string name="sim_changed_reactivate_notice">Исходящее SMS-сообщение может потребоваться для повторной активации этой услуги. Ваш оператор будет взимать плату за это сообщение.</string>
-    <string name="sim_in_airplane_mode">Выключите режим полета.</string>
+    <string name="sim_in_airplane_mode">Выключите режим полёта.</string>
     <string name="sim_locked">SIM-карта заблокирована.</string>
     <string name="sim_not_ready">SIM-карта используется. Попробуйте позже.</string>
     <string name="sim_unavailable">SIM-карта недоступна.</string>

@@ -369,7 +369,7 @@
     <string name="biometric_or_screen_lock_app_setting_name">Использовать биометрию или другой способ разблокировки</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Чтобы продолжить, используйте биометрию или другой способ разблокировки</string>
     <string name="bluetooth_a2dp_audio_route_name">Воспроизведение звука через Bluetooth</string>
-    <string name="bluetooth_airplane_mode_toast">Bluetooth останется включенным в режиме полета</string>
+    <string name="bluetooth_airplane_mode_toast">Bluetooth останется включенным в режиме полёта</string>
     <string name="browse">Браузер</string>
     <string name="browse_desc">Открыть выбранный URL</string>
     <string name="bugreport_countdown">{count,plural, =1{Скриншот для отчета об ошибке будет сделан через # секунду.}one{Скриншот для отчета об ошибке будет сделан через # секунду.}few{Скриншот для отчета об ошибке будет сделан через # секунды.}many{Скриншот для отчета об ошибке будет сделан через # секунд.}other{Скриншот для отчета об ошибке будет сделан через # секунды.}}</string>
@@ -778,7 +778,7 @@
     <string name="global_actions">Параметры устройства</string>
     <string name="global_actions_airplane_mode_off_status">Включить</string>
     <string name="global_actions_airplane_mode_on_status">Выключить</string>
-    <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+    <string name="global_actions_toggle_airplane_mode">Режим полёта</string>
     <string name="gnss_nfw_notification_message_carrier">Оператор связи получил информацию о вашем местоположении во время недавнего экстренного сеанса связи</string>
     <string name="gnss_nfw_notification_message_oem">Производитель устройства получил информацию о вашем местоположении во время недавнего экстренного сеанса связи</string>
     <string name="gnss_nfw_notification_title">Использование геолокации</string>

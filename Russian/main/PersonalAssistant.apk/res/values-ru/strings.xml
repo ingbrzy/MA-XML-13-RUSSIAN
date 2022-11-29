@@ -379,7 +379,7 @@
     <string name="app_pa_setting_service_management">Управление сервисами</string>
     <string name="app_pa_setting_service_memory">Очистка памяти</string>
     <string name="app_pa_setting_service_my_book">Билеты</string>
-    <string name="app_pa_setting_service_my_book_summary">Билеты на самолет и поезд</string>
+    <string name="app_pa_setting_service_my_book_summary">Билеты на самолёт и поезд</string>
     <string name="app_pa_setting_service_my_collection">Избранное</string>
     <string name="app_pa_setting_service_my_collection_summary">Храните избранное из разных приложений</string>
     <string name="app_pa_setting_service_my_express">Экспресс доставка</string>
@@ -626,7 +626,7 @@
     <string name="card_already_fly">Вылетел</string>
     <string name="card_book_all">Все бронирования</string>
     <string name="card_book_nodata">Нет бронирований</string>
-    <string name="card_bookall_flight">Билеты на самолет</string>
+    <string name="card_bookall_flight">Билеты на самолёт</string>
     <string name="card_bookall_hotel">Бронирование гостиниц</string>
     <string name="card_bookall_movie">Билеты в кино</string>
     <string name="card_bookall_train">Билеты на поезд</string>
@@ -2399,7 +2399,7 @@ ID:%s
     <string name="setting_ball_recent">Недавно добавленный</string>
     <string name="setting_basketball_brief_detail">Просматривайте информацию, изучайте результаты и следите за 4 баскетбольными командами.</string>
     <string name="setting_booking">Бронирование</string>
-    <string name="setting_booking_brief"> Поезд, самолет, билеты в кино и бронирование гостиниц</string>
+    <string name="setting_booking_brief"> Поезд, самолёт, билеты в кино и бронирование гостиниц</string>
     <string name="setting_booking_brief_detail">Получить информацию о ваших бронированиях из входящих текстовых сообщений.</string>
     <string name="setting_btn_add">Добавить</string>
     <string name="setting_btn_added">Добавлено</string>

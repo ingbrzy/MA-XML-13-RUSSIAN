@@ -259,7 +259,7 @@
     <string name="filename_cannot_beempty">Имя файла не может быть пустым</string>
     <string name="flash_close">отключить</string>
     <string name="flash_open">включить</string>
-    <string name="flight_mode_connecting_to_wifi">Включите Wi-Fi вручную, когда включён Режим полета</string>
+    <string name="flight_mode_connecting_to_wifi">Включите Wi-Fi вручную, когда включён Режим полёта</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd.MM</string>

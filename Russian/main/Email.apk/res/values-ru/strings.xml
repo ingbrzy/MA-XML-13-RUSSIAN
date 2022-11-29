@@ -1498,12 +1498,12 @@
     <string name="recognize_hotel_user_names">Гость</string>
     <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">Параметры поездки</string>
-    <string name="recognize_ticket_air_notification_content">Приятного полета!</string>
+    <string name="recognize_ticket_air_notification_content">Приятного полёта!</string>
     <string name="recognize_ticket_air_notification_title">Рейс %3$s (%2$s.%1$s) вскоре вылетает. Проверьте информацию о рейсе.</string>
     <string name="recognize_ticket_air_state_stopover">Транзит</string>
     <string name="recognize_ticket_air_state_transfer">Пересадка</string>
     <string name="recognize_ticket_air_user_name">Пассажир: %1$s</string>
-    <string name="recognize_ticket_title">Билеты на самолет и поезд</string>
+    <string name="recognize_ticket_title">Билеты на самолёт и поезд</string>
     <string name="recognize_ticket_train_alter">Изменён</string>
     <string name="recognize_ticket_train_depart_date">Отправление в %3$s:%4$s %2$s.%1$s</string>
     <string name="recognize_ticket_train_notification_content">Счастливого пути!</string>

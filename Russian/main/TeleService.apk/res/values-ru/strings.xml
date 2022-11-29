@@ -773,7 +773,7 @@
     <string name="clh_callFailed_number_changed_txt">Номер изменён</string>
     <string name="clh_callFailed_only_restricted_digital_information_bearer_capability_is_available_txt">Ограниченная возможность передачи цифровой информации</string>
     <string name="clh_callFailed_operator_determined_barring_txt">Запрет оператора</string>
-    <string name="clh_callFailed_powerOff_txt">Включён режим полета.</string>
+    <string name="clh_callFailed_powerOff_txt">Включён режим полёта.</string>
     <string name="clh_callFailed_pre_emption_txt">Упреждение</string>
     <string name="clh_callFailed_protocol_Error_unspecified_txt">Ошибка протокола, неуказанная</string>
     <string name="clh_callFailed_quality_of_service_unavailable_txt">Качество обслуживания недоступно</string>
@@ -1342,13 +1342,13 @@
     <string name="incall_error_out_of_service_kr">Доступны только экстренные вызовы.</string>
     <string name="incall_error_out_of_service_wfc">Мобильная сеть недоступна. Для совершения вызова подключитесь к сети Wi-Fi.</string>
     <string name="incall_error_outgoing_call_failed">Не удалось осуществить вызов</string>
-    <string name="incall_error_power_off">Для совершения вызова отключите режим полета.</string>
+    <string name="incall_error_power_off">Для совершения вызова отключите режим полёта.</string>
     <string name="incall_error_power_off_thermal"><b>Сильный нагрев устройства</b>"
 
 Не удается совершить вызов. Повторите позже, когда устройство остынет.
 
 Доступны только экстренные вызовы."</string>
-    <string name="incall_error_power_off_wfc">Для совершения вызова отключите режим полета или подключитесь к сети Wi-Fi.</string>
+    <string name="incall_error_power_off_wfc">Для совершения вызова отключите режим полёта или подключитесь к сети Wi-Fi.</string>
     <string name="incall_error_promote_wfc">Чтобы позвонить, включите Wi-Fi вызовы.</string>
     <string name="incall_error_supp_service_conference">Не удалось создать конференц-вызов.</string>
     <string name="incall_error_supp_service_hangup">Не удалось завершить вызов.</string>
@@ -2369,7 +2369,7 @@ UT-интерфейс: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">Включить/отключить проверку DNS</string>
     <string name="radio_info_ul_kbps">Пропускная способность UL-канала (кбит/с):</string>
     <string name="radio_info_voice_network_type_label">Тип сети для голосовой связи:</string>
-    <string name="radio_off_during_emergency_call">Во время экстренного вызова перейти в режим полета нельзя</string>
+    <string name="radio_off_during_emergency_call">Во время экстренного вызова перейти в режим полёта нельзя</string>
     <string name="radio_off_error">Включите радиомодуль для просмотра этих настроек.</string>
     <string name="read_call_log">Запись аудио</string>
     <string name="read_call_log_summary">Для записи вызовов</string>
@@ -2535,7 +2535,7 @@ UT-интерфейс: %5$s"</string>
     <string name="show_vonr_switch_title">Переключатель VoNR</string>
     <string name="show_vowifi_switch_summary">Показывать переключатель вызовов Wi-Fi в сведениях о SIM-карте</string>
     <string name="show_vowifi_switch_title">Переключатель вызовов Wi-Fi</string>
-    <string name="simContacts_airplaneMode">Для импорта контактов с SIM-карты отключите режим полета</string>
+    <string name="simContacts_airplaneMode">Для импорта контактов с SIM-карты отключите режим полёта</string>
     <string name="simContacts_empty">На SIM-карте нет контактов</string>
     <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
     <string name="simContacts_title">Выберите контакты для импорта</string>

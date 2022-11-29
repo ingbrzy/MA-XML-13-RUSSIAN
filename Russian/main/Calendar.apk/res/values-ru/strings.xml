@@ -388,10 +388,10 @@
     <string name="flight_disclaimer">Отказ от ответственности</string>
     <string name="flight_disclaimer_content">Информация о рейсе и услуги предоставляются компанией VariFlight. Все связанные с этим обязанности будут нести третьи лица. Если у вас есть какие-либо вопросы, обратитесь в службу поддержки клиентов VariFlight. Информация о рейсе предоставляется только для вашей справки. Для получения более точной и актуальной информации обратитесь к объявлениям авиакомпаний.</string>
     <string name="flight_disclaimer_dialog_ok">Понятно</string>
-    <string name="flight_event_delete_successfully">Маршрут полета успешно удалён</string>
+    <string name="flight_event_delete_successfully">Маршрут полёта успешно удалён</string>
     <string name="flight_plan_time">Расписание %1$s</string>
     <string name="flight_seat_no">Место %1$s</string>
-    <string name="flight_state">Статус полета</string>
+    <string name="flight_state">Статус полёта</string>
     <string name="flight_time">Ожидается %1$s</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
@@ -952,7 +952,7 @@
     <string name="preferences_import_hotel">Пребывание в отеле</string>
     <string name="preferences_import_loan">Кредиты</string>
     <string name="preferences_import_movie">Билеты в кино</string>
-    <string name="preferences_import_plane">Билеты на самолет</string>
+    <string name="preferences_import_plane">Билеты на самолёт</string>
     <string name="preferences_import_train">Билеты на поезд</string>
     <string name="preferences_import_travel">Билеты на поезд</string>
     <string name="preferences_notification_ringtone_title">Мелодия</string>

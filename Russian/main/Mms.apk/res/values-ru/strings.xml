@@ -460,7 +460,7 @@
     <string name="menu_view_contact">Просмотреть контакт</string>
     <string name="menu_view_group_info">Информация о группе</string>
     <string name="message_cannot_send_air_mode">"Не удалось отправить сообщения.
-Отключите режим полета."</string>
+Отключите режим полёта."</string>
     <string name="message_cannot_send_sim_unavailable">"Не удалось отправить сообщения.
 Проверьте SIM-карту."</string>
     <string name="message_class_label">"Класс сообщения: "</string>

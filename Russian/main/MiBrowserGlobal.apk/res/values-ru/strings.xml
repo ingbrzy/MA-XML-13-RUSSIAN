@@ -1582,8 +1582,8 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="mw_miui_content_share">Поделиться</string>
     <string name="mw_miui_content_translate">Перевод</string>
     <string name="mw_miui_content_web_search">Поиск</string>
-    <string name="mw_miuichromium_error_page_airplane_mode">Режим полета</string>
-    <string name="mw_miuichromium_error_page_airplane_mode_on">Отключите режим полета для подключения</string>
+    <string name="mw_miuichromium_error_page_airplane_mode">Режим полёта</string>
+    <string name="mw_miuichromium_error_page_airplane_mode_on">Отключите режим полёта для подключения</string>
     <string name="mw_miuichromium_error_page_btn_close">Закрыть</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Обновить</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Сообщить о проблеме</string>

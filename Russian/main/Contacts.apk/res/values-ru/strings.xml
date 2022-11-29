@@ -169,7 +169,7 @@
     <string name="bh_express_name">Служба доставки</string>
     <string name="bh_express_number">Номер заказа</string>
     <string name="bh_fetch_balance">Проверить баланс</string>
-    <string name="bh_flight_mode_on"><Data>&lt;font color =#FF6666>Режим полета включён&lt;/font></Data></string>
+    <string name="bh_flight_mode_on"><Data>&lt;font color =#FF6666>Режим полёта включён&lt;/font></Data></string>
     <string name="bh_flow_exceed">Превышен предел</string>
     <string name="bh_flow_order">Мобильный интернет</string>
     <string name="bh_flow_service">Мобильный интернет</string>
@@ -803,7 +803,7 @@
     <string name="dialog_new_group_account">Создать группу в аккаунте</string>
     <string name="dialog_phone_call_prohibited_message">Вызов не осуществлен</string>
     <string name="dialog_sync_add">Включить синхронизацию группы</string>
-    <string name="dialog_voicemail_airplane_mode_message">Для звонка на голосовую почту отключите режим полета.</string>
+    <string name="dialog_voicemail_airplane_mode_message">Для звонка на голосовую почту отключите режим полёта.</string>
     <string name="dialog_voicemail_not_ready_message">Для настройки голосовой почты перейдите в Меню &gt; Настройки.</string>
     <string name="directory_search_label">Каталог</string>
     <string name="disclaimer_text">"Справочник получает информацию о вашем балансе путем отправки SMS. Ваш оператор может обновлять информацию с задержкой, и значения, которые вы получаете, могут быть неточными. При обнаружении ошибки вы можете сообщить о ней SMS-запросом, чтобы помочь нам улучшить сервис. 
@@ -1768,7 +1768,7 @@
     <string name="shortcut_new_contact_label">Новый контакт</string>
     <string name="shortcut_scan_label">Загрузить визитку</string>
     <string name="showAllContactsJoinItem">Показать все контакты</string>
-    <string name="simContacts_airplaneMode">Для импорта контактов с SIM карты отключите режим полета</string>
+    <string name="simContacts_airplaneMode">Для импорта контактов с SIM карты отключите режим полёта</string>
     <string name="simContacts_empty">На SIM карте нет контактов</string>
     <string name="simContacts_emptyLoading">Загрузка контактов с SIM карты…</string>
     <string name="simContacts_title">Контакты на SIM карте</string>

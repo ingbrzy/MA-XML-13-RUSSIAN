@@ -637,7 +637,7 @@
     <string name="ai_settings_long_click_category">Нажмите и удерживайте AI кнопку</string>
     <string name="ai_settings_long_click_title">Нажмите и удерживайте</string>
     <string name="ai_settings_single_press_des">Нажмите AI кнопку для вызова Google Ассистента, затем отпустите, чтобы получить ответ.</string>
-    <string name="airplane_mode">Режим полета</string>
+    <string name="airplane_mode">Режим полёта</string>
     <string name="airplane_mode_summary">Отключение вызовов, SMS и мобильного интернета</string>
     <string name="alarm_ringtone_title">Звук будильника по умолчанию</string>
     <string name="alarm_sound_dialog_title">Выберите мелодию будильника</string>
@@ -1308,7 +1308,7 @@
     <string name="battery_sugg_bluetooth_basic">Отключите канал Bluetooth, если он не используется</string>
     <string name="battery_sugg_bluetooth_headset">Попробуйте подключиться к другому Bluetooth-устройству</string>
     <string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
-    <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
+    <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полёта для экономии заряда</string>
     <string name="battery_sugg_wifi">Отключайте Wi-Fi, когда он не используется или сеть недоступна</string>
     <string name="battery_suggestion_summary" />
     <string name="battery_suggestion_title">Продлите время работы от батареи</string>
@@ -2418,7 +2418,7 @@
     <string name="computer_backup_title">Компьютер</string>
     <string name="computing_size">Вычисление…</string>
     <string name="condition_airplane_summary">Wi-Fi, Bluetooth и мобильная сеть отключены. Вы не сможете позвонить или подключиться к Интернету.</string>
-    <string name="condition_airplane_title">Режим полета включён</string>
+    <string name="condition_airplane_title">Режим полёта включён</string>
     <string name="condition_battery_summary">Производительность снижена. Геолокация и фоновый режим отключены.</string>
     <string name="condition_battery_title">Режим экономии заряда включён</string>
     <string name="condition_bg_data_summary">Для обмена данными в фоновом режиме требуется подключение к сети Wi-Fi. Когда она недоступна, некоторые сервисы и приложения не будут работать.</string>
@@ -4861,8 +4861,8 @@ ID: %s
     <string name="keywords_add_an_account">рабочий профиль</string>
     <string name="keywords_add_bt_device">bluetooth</string>
     <string name="keywords_add_language">язык, добавить язык</string>
-    <string name="keywords_airplane">Самолет;Режим полета;Самолет;Режим полета;Полет;Режим полета</string>
-    <string name="keywords_airplane_safe_networks">самолет, безопасность для самолета</string>
+    <string name="keywords_airplane">Самолёт;Режим полёта;Самолёт;Режим полёта;Полёт;Полет;Режим полёта</string>
+    <string name="keywords_airplane_safe_networks">самолёт, безопасность для самолёта</string>
     <string name="keywords_alarm_vibration">виброотклик, вибрация, чувствительность, будильник</string>
     <string name="keywords_alarms_and_reminders">расписание, будильник, напоминание, часы</string>
     <string name="keywords_all_apps">приложения, скачать, установить, система</string>
@@ -5897,7 +5897,7 @@ ID: %s
     <string name="miheadset_ancClosed">Откл.</string>
     <string name="miheadset_ancDepth">Глубина</string>
     <string name="miheadset_ancEquilibrium">Баланс</string>
-    <string name="miheadset_ancHigh">Самолет</string>
+    <string name="miheadset_ancHigh">Самолёт</string>
     <string name="miheadset_ancLow">Офис</string>
     <string name="miheadset_ancMedium">Стандарт</string>
     <string name="miheadset_ancMild">Мягкость</string>
@@ -6214,7 +6214,7 @@ ID: %s
     <string name="mobile_data_active">Мобильный интернет включён</string>
     <string name="mobile_data_always_on">Мобильный интернет</string>
     <string name="mobile_data_always_on_summary">Не отключать мобильный интернет даже при активном Wi-Fi (для быстрого переключения между сетями)</string>
-    <string name="mobile_data_ap_mode_disabled">Недоступен в режиме полета</string>
+    <string name="mobile_data_ap_mode_disabled">Недоступен в режиме полёта</string>
     <string name="mobile_data_connection_active">Подключено</string>
     <string name="mobile_data_disable_message">У вас не будет доступа к данным или интернету через оператора \"%s\". Интернет будет доступен только по сети Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">ваш оператор</string>
@@ -8292,7 +8292,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_account_list">Другие аккаунты;Аккаунт;Аккаунты</string>
     <string name="search_add_facerecoginition_text">Разблокировка по лицу;Распознавание лица</string>
     <string name="search_advanced_settings">Расширенные настройки;WiFi;Wi-Fi;Настройки WiFi;Настройки Wi-Fi;Настройки WLAN</string>
-    <string name="search_airplane_mode">Режим полета;Режим самолета;Авиарежим;Самолет;Самолет;Полет</string>
+    <string name="search_airplane_mode">Режим полёта;Режим самолёта;Авиарежим;Самолёт;Самолёт;Полёт</string>
     <string name="search_alarm_sound_title">Звук будильника;Мелодия будильника;будильник</string>
     <string name="search_ambient_display_screen_title">Активный экран;Режим Always-on;Активный дисплей</string>
     <string name="search_android_auto">авто;автомобиль</string>
@@ -10694,7 +10694,7 @@ UT-интерфейс: %5$s"</string>
     <string name="user_you">Вы (%s)</string>
     <string name="users_summary">Вы вошли как %1$s</string>
     <string name="uwb_settings_summary">Помогает определить относительное позиционирование устройств с технологией сверхширокополосной связи поблизости</string>
-    <string name="uwb_settings_summary_airplane_mode">Выключает режим полета для использования сверхширокополосной связи</string>
+    <string name="uwb_settings_summary_airplane_mode">Выключает режим полёта для использования сверхширокополосной связи</string>
     <string name="uwb_settings_title">Сверхширокополосная связь (СШП)</string>
     <string name="v7_preference_off">ОТКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
@@ -11294,7 +11294,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_hotspot_switch_on_text">Вкл.</string>
     <string name="wifi_hotspot_tethering_on_subtext">Доступно интернет-подключение через точку доступа</string>
     <string name="wifi_hotspot_title">Войти и подключить?</string>
-    <string name="wifi_in_airplane_mode">Режим полета</string>
+    <string name="wifi_in_airplane_mode">Режим полёта</string>
     <string name="wifi_info_reconnect">Ошибка подключения, повторите попытку.</string>
     <string name="wifi_install_credentials">Установка сертификатов</string>
     <string name="wifi_ip_address">IP-адрес</string>
@@ -11359,7 +11359,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_notify_open_networks_summary">Сообщать о наличии общедоступных сетей с хорошим сигналом</string>
     <string name="wifi_off_airplane_on_cancel">Отмена</string>
     <string name="wifi_off_airplane_on_confirm">OK</string>
-    <string name="wifi_off_airplane_on_content">Можно включить Wi-Fi вручную в режиме полета.</string>
+    <string name="wifi_off_airplane_on_content">Можно включить Wi-Fi вручную в режиме полёта.</string>
     <string name="wifi_off_airplane_on_not_remind">Больше не показывать</string>
     <string name="wifi_off_airplane_on_title">Внимание</string>
     <string name="wifi_on_time">Время работы Wi-Fi</string>

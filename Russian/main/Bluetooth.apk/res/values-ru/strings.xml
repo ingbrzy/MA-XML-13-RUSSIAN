@@ -32,8 +32,8 @@
     <string name="ack_record">Запись подтверждения</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="airplane_error_msg">В режиме полета нельзя использовать Bluetooth.</string>
-    <string name="airplane_error_title">Режим полета</string>
+    <string name="airplane_error_msg">В режиме полёта нельзя использовать Bluetooth.</string>
+    <string name="airplane_error_title">Режим полёта</string>
     <string name="app_name">Bluetooth</string>
     <string name="aptx_notification_aptx">Это устройство поддерживает Qualcomm® aptX™</string>
     <string name="aptx_notification_aptx_adaptive">Это устройство поддерживает Qualcomm® aptX™ Adaptive</string>

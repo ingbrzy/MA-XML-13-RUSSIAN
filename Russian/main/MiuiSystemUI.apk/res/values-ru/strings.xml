@@ -68,7 +68,7 @@
     <string name="accessibility_action_pip_unstash">Развернуть</string>
     <string name="accessibility_action_start_one_handed">Режим управления одной рукой</string>
     <string name="accessibility_action_stop_one_handed">Выход из режима управления одной рукой</string>
-    <string name="accessibility_airplane_mode">Режим полета.</string>
+    <string name="accessibility_airplane_mode">Режим полёта.</string>
     <string name="accessibility_ambient_display_charging">Зарядка батареи</string>
     <string name="accessibility_aspect_button">Полноэкранный режим</string>
     <string name="accessibility_assistant">Сенсорный помощник</string>
@@ -248,10 +248,10 @@
     <string name="accessibility_qs_edit_tile_removed">Кнопка %1$s удалена</string>
     <string name="accessibility_qs_edit_tile_start_add">Добавить кнопку</string>
     <string name="accessibility_qs_edit_tile_start_move">Переместить кнопку</string>
-    <string name="accessibility_quick_settings_airplane_changed_off">Режим полета отключён.</string>
-    <string name="accessibility_quick_settings_airplane_changed_on">Режим полета включён.</string>
-    <string name="accessibility_quick_settings_airplane_off">Режим полета отключён.</string>
-    <string name="accessibility_quick_settings_airplane_on">Режим полета включён.</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Режим полёта отключён.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Режим полёта включён.</string>
+    <string name="accessibility_quick_settings_airplane_off">Режим полёта отключён.</string>
+    <string name="accessibility_quick_settings_airplane_on">Режим полёта включён.</string>
     <string name="accessibility_quick_settings_alarm">Будильник установлен на %s.</string>
     <string name="accessibility_quick_settings_alarm_on">Будильник включён.</string>
     <string name="accessibility_quick_settings_alarm_set">Будильник установлен.</string>
@@ -431,7 +431,7 @@
     <string name="add_user_failed">Ошибка создания нового пользователя</string>
     <string name="adjust_button_width">Выбор ширины кнопки</string>
     <string name="afternoon">После полудня</string>
-    <string name="airplane_mode">Режим полета</string>
+    <string name="airplane_mode">Режим полёта</string>
     <string name="alarm_template">в %1$s</string>
     <string name="alarm_template_far">в %1$s</string>
     <string name="alarms_and_reminders_footer_title">"Разрешите приложению устанавливать будильники и планировать действия по времени. Это позволит приложению работать в фоновом режиме, но может увеличить расход батареи.
@@ -1722,7 +1722,7 @@
     <string name="location_status">Данные о местоположении</string>
     <string name="location_status_content_description">%1$s поделился местоположением</string>
     <string name="lock_screen_access_to_5G">Доступ к 5G</string>
-    <string name="lock_screen_carrier_airplane_mode_on">Режим полета</string>
+    <string name="lock_screen_carrier_airplane_mode_on">Режим полёта</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_screen_date_two_lines">"EEEE
@@ -2979,7 +2979,7 @@ mm"</string>
     <string name="start_dreams">Заставка</string>
     <string name="status_bar">Строка состояния</string>
     <string name="status_bar_accessibility_dismiss_recents">Закрыть недавние приложения</string>
-    <string name="status_bar_airplane">Режим полета</string>
+    <string name="status_bar_airplane">Режим полёта</string>
     <string name="status_bar_alarm">Будильник</string>
     <string name="status_bar_clear_all_button">Очистить</string>
     <string name="status_bar_clock_date_format">E, d MMMM</string>
@@ -3019,7 +3019,7 @@ d MMMM"</string>
     <string name="status_bar_safepay_safe">Платежи безопасны</string>
     <string name="status_bar_safepay_scanning">Проверка безопасности платежей…</string>
     <string name="status_bar_safepay_unknown">Не удалось проверить безопасность платежей</string>
-    <string name="status_bar_settings_airplane">Режим полета</string>
+    <string name="status_bar_settings_airplane">Режим полёта</string>
     <string name="status_bar_settings_auto_brightness_label">АВТО</string>
     <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
     <string name="status_bar_settings_mute_label">ОТКЛ</string>
@@ -3271,7 +3271,7 @@ d MMMM"</string>
     <string name="tuner_toast">Функция System UI Tuner добавлена в меню настроек</string>
     <string name="tuner_warning">System UI Tuner позволяет настраивать интерфейс устройства Android по вашему вкусу. В будущем эти экспериментальные функции могут измениться, перестать работать или исчезнуть. Будьте осторожны.</string>
     <string name="tuner_warning_title">Внимание!</string>
-    <string name="turn_off_airplane_mode">Отключить режим полета</string>
+    <string name="turn_off_airplane_mode">Отключить режим полёта</string>
     <string name="turn_on_wifi">Включить Wi-Fi</string>
     <string name="turn_screen_on_title">Включение экрана</string>
     <string name="tv_notification_panel_no_notifications">Нет уведомлений</string>
