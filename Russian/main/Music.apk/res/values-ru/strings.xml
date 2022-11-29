@@ -170,6 +170,8 @@
     <string name="audio_ad_pass">Пропустить рекламу</string>
     <string name="audio_picker_title">Выберите трек</string>
     <string name="auth_fail_warning">Сессия устарела. Войдите повторно.</string>
+    <string name="auto_play_switch">Автовоспроизведение видео</string>
+    <string name="auto_play_toast">Автовоспроизведение включено. Вы можете отключить его в Настройках.</string>
     <string name="auto_recommend">Авто (рекомендуется)</string>
     <string name="auto_sound_quality">Авто</string>
     <string name="auto_update">Автообновление</string>
