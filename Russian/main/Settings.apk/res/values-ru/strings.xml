@@ -5133,6 +5133,7 @@ ID: %s
     <string name="legacy_control_center_title">Старый стиль</string>
     <string name="legacy_navigation_summary">Кнопки навигации внизу экрана (Назад, Домой, Недавние приложения)</string>
     <string name="legacy_navigation_title">Кнопки навигации</string>
+    <string name="legacy_power_menu">Старое меню питания</string>
     <string name="legal_information">Юридическая информация</string>
     <string name="legal_workday">По рабочим дням</string>
     <string name="legal_workday_invalidate">Пн-пт (данные праздников устарели)</string>

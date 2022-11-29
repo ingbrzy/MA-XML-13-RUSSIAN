@@ -51,7 +51,8 @@
     <string name="accessibility_volume_expand">Развернуть</string>
     <string name="actionbar_button_up_description">Назад</string>
     <string name="afternoon">После полудня</string>
-    <string name="airplane_mode">Режим полета</string>
+    <string name="airplane">Режим полёта</string>
+    <string name="airplane_mode">Режим полёта</string>
     <string name="already_in_small_freeform">Некоторые приложения уже открыты в плавающих окнах</string>
     <string name="app_name">systemui-controls</string>
     <string name="auto_brightness_off">Автояркость отключена</string>
@@ -59,6 +60,7 @@
     <string name="auto_connect_disable">Без автоподключения</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Кнопки навигации отключены, для включения дважды нажмите на любую из них</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
+    <string name="bootloader">Fastboot</string>
     <string name="bt_is_off">Bluetooth отключён</string>
     <string name="character_counter_content_description">Введено: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
@@ -407,6 +409,7 @@
     <string name="quick_settings_wireless_label">Обратная беспроводная зарядка</string>
     <string name="reboot_info_auto_boot">Устройство включится в %s</string>
     <string name="reboot_info_shutdown_alarm">Предстоящий будильник: %s</string>
+    <string name="recovery">Recovery</string>
     <string name="reset">Сброс</string>
     <string name="restart">Перезагрузка</string>
     <string name="safe_media_volume_warning">"Поднять громкость выше рекомендуемого уровня?
@@ -418,7 +421,10 @@
     <string name="save">Сохранить</string>
     <string name="search_menu_title">Поиск</string>
     <string name="send">Отправить</string>
-    <string name="slider_view_content_description">Проведите вверх для выключения, или вниз для перезагрузки</string>
+    <string name="silent">Без звука</string>
+    <string name="slider_view_content_description">Сдвиньте вверх для выключения, или вниз для перезагрузки</string>
+    <string name="slider_view_content_left_description">Сдвиньте вверх для перезагрузки в Fastboot или вниз для перезагрузки в Recovery</string>
+    <string name="slider_view_content_right_description">Сдвиньте вверх для переключения режима полета или вниз для переключения режима \"Без звука\".</string>
     <string name="smart_home_title">Умные устройства</string>
     <string name="solar_term_autumn_begins">Начало осени</string>
     <string name="solar_term_autumn_equinox">Осеннее равноденствие</string>

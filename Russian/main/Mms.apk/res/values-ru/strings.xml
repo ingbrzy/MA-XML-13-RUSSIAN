@@ -534,6 +534,7 @@
 Это сообщение может быть нежелательным."</string>
     <string name="mms_block_hint_highlight">Блокировка MMS</string>
     <string name="mms_main_purpose">Чтобы использовать все функции, разрешите приложению подключение к интернету, включите Mi Сообщения и Умные сообщения.</string>
+    <string name="mms_main_purpose_new">Для обеспечения основных сервисов, разрешите приложению подключение к интернету, а также включите Mi Сообщения и Умные сообщения.</string>
     <string name="mms_mi_message_main_purpose">Добро пожаловать в Mi Сообщения! Для активации этого сервиса необходима отправка SMS. Ваш оператор связи может взимать плату за это сообщение.</string>
     <string name="mms_mi_message_request_notice">Используйте Mi Сообщения с максимальной отдачей</string>
     <string name="mms_mx_privacy_policy">Политика конфиденциальности Mi Сообщений</string>
@@ -1299,6 +1300,7 @@
 %2s. 
   
 Нажатие \"Принимаю\" означает что вы согласны с вышеперечисленным."</string>
+    <string name="system_permission_declare_exit">Выход</string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Добро пожаловать в %1s! 
 %2s"</string>
     <string name="system_permission_declare_mi_message">Добро пожаловать в Mi Сообщения!</string>
@@ -1494,6 +1496,7 @@
     <string name="voice_report_anytime">Всегда</string>
     <string name="voice_report_off">Откл.</string>
     <string name="voice_report_wiredon">Через наушники</string>
+    <string name="wait_for_sp_mark_as_read">Подождите…</string>
     <string name="wap_push_title">[WAP Push] </string>
     <string name="warning_show">Отправка через %d сек.</string>
     <string name="web_content_invalid_hint">Отображение этого контента ограничено местными законами и положениями.</string>

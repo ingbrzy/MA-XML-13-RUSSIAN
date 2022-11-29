@@ -2749,7 +2749,9 @@ ID: %s
     <string name="share_album_cancel_share">Отменить доступ</string>
     <string name="share_album_change_background">Изменить фоновое фото</string>
     <string name="share_album_create_failed">Не удалось создать общий альбом</string>
-    <string name="share_album_exit_confirm_title">Покинуть группу?</string>
+    <string name="share_album_exit_button_text">Выйти</string>
+    <string name="share_album_exit_confirm">Все файлы из этого альбома станут недоступны. Сохраните важные файлы перед выходом.</string>
+    <string name="share_album_exit_confirm_title">Выйти из группы?</string>
     <string name="share_album_family_add_sharer_dialog_title">Пригласить</string>
     <string name="share_album_family_delete_sharer_title">Ограничение доступа</string>
     <string name="share_album_family_invite_category_title">Добавление в семейную группу</string>
@@ -2768,6 +2770,7 @@ ID: %s
     <string name="share_album_family_invite_wechat">WeChat</string>
     <string name="share_album_family_manage">Семейный доступ</string>
     <string name="share_album_family_share_to_friend">Друзья</string>
+    <string name="share_album_home_device_low_version">Обновите до последней версии</string>
     <string name="share_album_home_pref_cate_name">Умный дом</string>
     <string name="share_album_home_pref_has_home_summary">У этой группы уже есть семейная заставка</string>
     <string name="share_album_home_pref_name_default">Умный дом</string>
@@ -2969,6 +2972,12 @@ ID: %s
     <string name="stop_migration_msg">Вы не сможете возобновить перенос, если прервёте его сейчас. Вам понадобится посетить i.mi.com для копирования вручную оставшихся файлов в Xiaomi Cloud.</string>
     <string name="stop_migration_ok">Прервать</string>
     <string name="stop_migration_title">Прервать перенос?</string>
+    <string name="stop_use_secret_cancel">Позже</string>
+    <string name="stop_use_secret_msg">"Синхронизация фото и видео с Xiaomi Cloud, а также использование приватного альбома, больше недоступны.
+До %1$s можно переместить свои файлы в Google Фото или зайти на i.mi.com для загрузки вручную. По окончанию срока все файлы в Xiaomi Cloud будут удалены навсегда.
+%2$s"</string>
+    <string name="stop_use_secret_ok">Перенести файлы</string>
+    <string name="stop_use_secret_title">Приватный альбом больше не доступен</string>
     <string name="storage_description_primary">Хранилище</string>
     <string name="storage_description_sdcard">SD-карта</string>
     <string name="storage_description_usb">USB накопитель</string>
