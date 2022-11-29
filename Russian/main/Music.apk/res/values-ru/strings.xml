@@ -651,6 +651,7 @@ ID: %s
     <string name="friday">Пятница</string>
     <string name="friday_short">Пт</string>
     <string name="friday_shortest">Пт</string>
+    <string name="game_center">Игры</string>
     <string name="gcm_fallback_notification_channel_label">Разное</string>
     <string name="get_back_pwd">Выполняется сброс пароля</string>
     <string name="get_more_favorite_content_after_login">Войдите для поиска песен и видео</string>

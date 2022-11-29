@@ -277,6 +277,7 @@
     <string name="bookmark_cannot_save_url">Этот URL не может быть добавлен в закладки.</string>
     <string name="bookmark_deleted">Удалено из закладок</string>
     <string name="bookmark_error_page_title">Произошла ошибка</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">Теперь ярлыки функций и режимы просмотра находятся здесь</string>
     <string name="bookmark_folder_needs_title">Введите имя папки</string>
     <string name="bookmark_group_lable">Папка</string>
     <string name="bookmark_move_to">Переместить</string>
@@ -1157,6 +1158,9 @@ ID:%s
     <string name="homepage_setting">Настройки главной страницы</string>
     <string name="homepage_top_card_menu">Начало списка</string>
     <string name="hot_games">Популярное</string>
+    <string name="hot_news_notify_summary">Push-уведомления о свежих новостях</string>
+    <string name="hot_news_notify_tips_light">Вы можете отключить Уведомления о новостях в разделе &lt;font color=\"#0D84FF\">Настройки&lt;/font></string>
+    <string name="hot_news_notify_title">Уведомления о новостях</string>
     <string name="hot_word_item_mark_ads_text">РЕКЛАМА</string>
     <string name="hot_word_item_mark_burst_text">СЕРИЯ</string>
     <string name="hot_word_item_mark_hot_text">ПОПУЛЯРНОЕ</string>
@@ -1835,6 +1839,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="operation_rename">Переименовать</string>
     <string name="operation_rename_message">Введите новое имя</string>
     <string name="operation_send">Отправить</string>
+    <string name="opr_activity_title">Смотрите сезон и получайте награды</string>
     <string name="other_channel">Нажмите для добавления каналов.</string>
     <string name="page_hang_message">Страница не отвечает, необходимо перезапустить браузер</string>
     <string name="page_hang_title">Страница не отвечает</string>
@@ -2297,6 +2302,9 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="quicklinks_most_visited">Добавить на главную</string>
     <string name="quicklinks_most_visited_subtitle">Показывать недавно посещенные сайты в новой вкладке</string>
     <string name="quicklinks_most_visited_title">Добавить на главную</string>
+    <string name="reading__business_recommend_at_end_more">Показать еще</string>
+    <string name="reading__business_recommend_at_end_other_docs">Дальнейшее чтение</string>
+    <string name="reading__business_recommend_at_end_title">Рекомендуемый контент</string>
     <string name="reading__cancel">Отмена</string>
     <string name="reading__menu_open_with_another_app">Открыть в другом приложении</string>
     <string name="reading__menu_play">Слайд-шоу</string>
@@ -2304,6 +2312,7 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="reading__menu_search">Поиск</string>
     <string name="reading__menu_share">Поделиться</string>
     <string name="reading__menu_thumbnail">Миниатюры страниц</string>
+    <string name="reading__reading_end">Завершить</string>
     <string name="reading__reading_first_page">Это первая страница</string>
     <string name="reading__reading_last_page">Это последняя страница</string>
     <string name="reading__search_cancel">Отмена</string>
@@ -2647,6 +2656,11 @@ ID сбоя: http://crash/%1$s"</string>
     <string name="speed_test_upload">Загрузка</string>
     <string name="splash__access_dialog_agree">Принимаю</string>
     <string name="splash__access_dialog_protect">Условия и положения</string>
+    <string name="sport_card_match_week">%d неделя</string>
+    <string name="sports_card_match_season">Сезон</string>
+    <string name="sports_card_match_status_1">Скоро</string>
+    <string name="sports_card_match_status_2">В процессе</string>
+    <string name="sports_card_match_status_3">Матч завершен</string>
     <string name="srl_component_falsify" formatted="false">%s фальсифицирует область,
   отражает высоту [%.1fdp] перетаскивания во время выполнения,
   больше ничего не показывает.</string>
@@ -3200,6 +3214,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">Показывать миниатюры посещенных ранее страниц.</string>
     <string name="web_tag_tips">Нажмите здеь, чтобы посетить страницу</string>
     <string name="web_tag_title">Миниатюры веб-страниц</string>
+    <string name="web_tools_moved_here">Инструменты теперь здесь</string>
     <string name="web_translation_after_button_text">Восстановить</string>
     <string name="web_translation_after_tips">Восстановить исходную страницу</string>
     <string name="web_translation_before_button_text">Перевести</string>
