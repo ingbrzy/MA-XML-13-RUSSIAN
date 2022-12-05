@@ -194,7 +194,7 @@
     <string name="morning">Утро</string>
     <string name="new_cta_app_purpose">Отображение направления и координат</string>
     <string name="new_cta_v2_app_purpose">Отображение направления, координат, атмосферного давления и текущей высоты</string>
-    <string name="new_permission_camera_desc">Для калибровки</string>
+    <string name="new_permission_camera_desc">Для предпросмотра в реальном времени</string>
     <string name="new_permission_location_desc">Для отображения координат</string>
     <string name="night">Вечер</string>
     <string name="noon">Полдень</string>
