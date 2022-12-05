@@ -2770,6 +2770,10 @@ ID: %s
     <string name="share_album_family_invite_wechat">WeChat</string>
     <string name="share_album_family_manage">Семейный доступ</string>
     <string name="share_album_family_share_to_friend">Друзья</string>
+    <string name="share_album_home_cancel_device_share_dialog_title">Удаление устройств</string>
+    <string name="share_album_home_choose_family">Выберите среду для Умного дома</string>
+    <string name="share_album_home_close_home_share_dialog_message">Все члены семейной группы больше не смогут просматривать этот альбом. Отключить доступ?</string>
+    <string name="share_album_home_close_home_share_dialog_title">Отключение семейного доступа</string>
     <string name="share_album_home_device_low_version">Обновите до последней версии</string>
     <string name="share_album_home_pref_cate_name">Умный дом</string>
     <string name="share_album_home_pref_has_home_summary">У этой группы уже есть семейная заставка</string>

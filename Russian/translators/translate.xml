@@ -411,6 +411,7 @@
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
     <string name="copy">Копировать</string>
     <string name="copy">Копировать</string>
+    <string name="copy_toast_msg">Ссылка скопирована в буфер обмена</string>
     <string name="creating_new_guest_dialog_message">Создание нового гостя…</string>
     <string name="creating_new_user_dialog_message">Создание нового пользователя…</string>
     <string name="customize_button_title">Настроить</string>
@@ -593,6 +594,9 @@ ID: %s
     <string name="failed_attempts_now_wiping_profile">Слишком много неверных попыток. Рабочий профиль и его данные будут удалены.</string>
     <string name="failed_attempts_now_wiping_user">Слишком много неверных попыток. Пользователь будет удален.</string>
     <string name="failed_to_open_app_settings_toast">Не удалось открыть настройки для %1$s</string>
+    <string name="fallback_menu_item_copy_link">Копировать ссылку</string>
+    <string name="fallback_menu_item_open_in_browser">Открыть в браузере</string>
+    <string name="fallback_menu_item_share_link">Отправить ссылку</string>
     <string name="fiveg_sa_switch_summary">Использовать сеть SA на дополнительной SIM-карте (только для тестирования)</string>
     <string name="fiveg_sa_vice_switch_title">SA на дополнительной SIM-карте</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
