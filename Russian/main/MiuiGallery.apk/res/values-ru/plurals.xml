@@ -180,6 +180,11 @@
         <item quantity="other">Выбрано: %d</item>
         <item quantity="one">Выбрано: %d</item>
     </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Удалить %d серийных снимков?</item>
+        <item quantity="one">Удалить %d серийный снимок?</item>
+        <item quantity="few">Удалить %d серийных снимка?</item>
+    </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Удалить %d серийных снимков из Xiaomi Cloud и со всех синхронизированных устройств?</item>
         <item quantity="one">Удалить %d серийный снимок из Xiaomi Cloud и со всех синхронизированных устройств?</item>
@@ -214,6 +219,11 @@
         <item quantity="other">Удалить %d файлов из этого альбома и из Xiaomi Cloud?</item>
         <item quantity="one">Удалить %d файл из этого альбома и из Xiaomi Cloud?</item>
         <item quantity="few">Удалить %d файла из этого альбома и из Xiaomi Cloud?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Удалить %d файлов?</item>
+        <item quantity="one">Удалить %d файл?</item>
+        <item quantity="few">Удалить %d файла?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Удалить %d фото со всех устройств и из Xiaomi Cloud?</item>
@@ -579,6 +589,11 @@
         <item quantity="one">%1$d комната</item>
         <item quantity="few">%1$d комнаты</item>
     </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d экранов</item>
+        <item quantity="one">%1$d экран</item>
+        <item quantity="few">%1$d экрана</item>
+    </plurals>
     <plurals name="share_album_home_pref_screens">
         <item quantity="other">%1$d экранов</item>
         <item quantity="one">%1$d экран</item>
@@ -752,9 +767,9 @@
         <item quantity="few">Файлы могут храниться здесь %1$d дня (%2$s)</item>
     </plurals>
     <plurals name="trash_vip_info_text_login_medium_or_low_level">
-        <item quantity="other">Файлы могут храниться здесь %1$d дней. Нажмите для продления периода.</item>
-        <item quantity="one">Файлы могут храниться здесь %1$d день. Нажмите для продления периода.</item>
-        <item quantity="few">Файлы могут храниться здесь %1$d дня. Нажмите для продления периода.</item>
+        <item quantity="other">Файлы могут храниться здесь %1$s дней. Нажмите для продления периода.</item>
+        <item quantity="one">Файлы могут храниться здесь %1$s день. Нажмите для продления периода.</item>
+        <item quantity="few">Файлы могут храниться здесь %1$s дня. Нажмите для продления периода.</item>
     </plurals>
     <plurals name="trash_vip_info_text_no_sync_server">
         <item quantity="other">Удаленные файлы будут храниться в облаке %1$d дней</item>

@@ -245,6 +245,7 @@
     <string name="annual_babies_title">Они так быстро растут</string>
     <string name="annual_group_people_title">Вместе</string>
     <string name="annual_pets_title">Лапа в лапу</string>
+    <string name="annual_speci_year_title">%d назад</string>
     <string name="annual_year_title">Этот год</string>
     <string name="annula_sports_title">Движение вперед</string>
     <string name="app_is_launching">%s запускается…</string>
@@ -390,7 +391,7 @@
     <string name="backuping_title_normal">Выгрузка…</string>
     <string name="base_btn_cancel">Отмена</string>
     <string name="base_btn_download">Загрузить</string>
-    <string name="begin_share">Альбом ребенка \"%s\" успешно создан</string>
+    <string name="begin_share">Создан детский альбом \"%s\"</string>
     <string name="begin_share_toast">Создать отдельный альбом для этого ребенка?</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
@@ -401,14 +402,14 @@
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
     <string name="blank_app_name" />
-    <string name="blur_refocus_enter"/>
+    <string name="blur_refocus_enter">Боке</string>
     <string name="browse_category_title">Отображение</string>
     <string name="btn_cancel">Отмена</string>
     <string name="btn_cancel_send">Отмена</string>
     <string name="btn_exit_send">Выход</string>
     <string name="btn_sure">ОК</string>
     <string name="burst_image_download_item_title" formatted="false">Загрузка оригинала (%s|%s)</string>
-    <string name="burst_photo_enter"/>
+    <string name="burst_photo_enter">Серия</string>
     <string name="burst_preview_title">Серийный снимок</string>
     <string name="burst_save_all">Сохранить все фото</string>
     <string name="burst_save_choice_title" formatted="false">Выбрано %d из %d</string>
@@ -714,15 +715,16 @@
     <string name="delete_account_message">Галерее необходимо очистить кэш после выхода из Xiaomi аккаунта.</string>
     <string name="delete_album_failed">Ошибка удаления альбома</string>
     <string name="delete_album_msg_format">Удалить альбом \"%2$s\" %1$s %3$s?</string>
-    <string name="delete_album_msg_format_cloud">Удалить %1$s %2$s из Xiaomi Cloud и всех синхронизированных устройств?</string>
+    <string name="delete_album_msg_format_cloud">Удалить %1$s %2$s из Xiaomi Cloud и всех подключённых устройств?</string>
     <string name="delete_album_msg_format_local">Удалить %1$s %2$s?</string>
     <string name="delete_album_success">Альбом удалён</string>
     <string name="delete_from_all_devices_and_cloud">со всех устройств и из Xiaomi Cloud</string>
-    <string name="delete_from_cloud">Удалить файлы из Xiaomi Cloud</string>
+    <string name="delete_from_cloud">Удалить также файлы из облака</string>
     <string name="delete_from_this_album_and_cloud">из этого альбома и из Xiaomi Cloud</string>
-    <string name="delete_in_album">Выбранные файлы будут удалены из облака и на всех подключённых устройствах и сохранены в облачной корзине в течение %d дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
-    <string name="delete_in_home_page">Выбранные файлы будут удалены из облака и на всех подключённых устройствах и сохранены в облачной корзине в течение %d дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
+    <string name="delete_in_album">Выбранные файлы будут удалены из облака и на всех подключённых устройствах и сохранены в Корзине в течение %d дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
+    <string name="delete_in_home_page">Выбранные файлы будут удалены из облака и на всех подключённых устройствах и сохранены в Корзине в течение %d дней, если у вас есть бесплатный план хранения в облаке. Удалить?</string>
     <string name="delete_in_process">Удаление…</string>
+    <string name="delete_media_for_cloud">Выбранные файлы будут удалены из облака и на всех подключённых устройствах и сохранены в Корзине</string>
     <string name="delete_origin">Удалить из исходного альбома</string>
     <string name="delete_other_shared_images">Нельзя удалить фото других пользователей</string>
     <string name="delete_owner_and_other_shared_images_format">Удалено: %1$d | Сохранено: %2$d</string>
@@ -755,7 +757,7 @@ ID: %s
     <string name="disconnect_migration_msg">Фото и видео, которые уже переданы, останутся в Google Фото.</string>
     <string name="disconnect_migration_title">Прервать передачу?</string>
     <string name="do_not_remind_me">Больше не показывать</string>
-    <string name="doc_photo_enter"/>
+    <string name="doc_photo_enter">Редактирование в документе</string>
     <string name="document_provider_guide_step_1">%d. Нажмите кнопку \"Ещё\".</string>
     <string name="document_provider_guide_step_2">%d. Нажмите \"Показать внутреннюю память\".</string>
     <string name="document_provider_guide_step_3">%d. Нажмите кнопку бокового меню.</string>
@@ -812,7 +814,7 @@ ID: %s
     <string name="dump_db_info">Дамп информации базы данных</string>
     <string name="early_morning">Утро</string>
     <string name="edit_baby_info">Показать информацию</string>
-    <string name="edit_subtitle_enter"/>
+    <string name="edit_subtitle_enter">Редактирование субтитров</string>
     <string name="editor_cancel">Отмена</string>
     <string name="editor_export">Сохранить</string>
     <string name="editor_talkback_redo">Повтор</string>
@@ -843,6 +845,7 @@ ID: %s
     <string name="enable_secret_album_upload_message">Все файлы из приватного альбома будут синхронизированы с облаком после включения этой функции. Включить?</string>
     <string name="enter_choice_mode">Диалог общего доступа открыт</string>
     <string name="enter_email_hint">Введите адрес Email</string>
+    <string name="equivalent_focal_length">(эквивалентное фокусное расстояние %d мм)</string>
     <string name="eras_ad">н. э.</string>
     <string name="eras_bc">до н. э.</string>
     <string name="error_album_not_exist">Альбом не существует</string>
@@ -851,10 +854,12 @@ ID: %s
     <string name="error_build_thumbnail_tip">Не удалось загрузить эскиз.</string>
     <string name="error_change_storage_action">Сменить хранилище</string>
     <string name="error_change_storage_msg">Перейдите в Настройки &gt; Хранилище, смените хранилище и повторите попытку.</string>
+    <string name="error_check_network_later">Проверьте настройки сети и повторите попытку</string>
     <string name="error_cloud_not_active">Нет фото в Xiaomi Cloud</string>
     <string name="error_connect_timeout_action">Выбрать сеть</string>
     <string name="error_connect_timeout_msg">Подключитесь к другой сети и повторите попытку.</string>
     <string name="error_connect_timeout_tip">Время ожидания истекло.</string>
+    <string name="error_create_share_album_fail_default">Не удалось создать из-за неизвестной ошибки</string>
     <string name="error_decode_tip">Тип файла не поддерживается или файлы повреждены.</string>
     <string name="error_download_tip">Ошибка загрузки</string>
     <string name="error_dup_binded_email">Этот адрес электронной почты уже связан с другим Mi аккаунтом</string>
@@ -985,7 +990,7 @@ ID: %s
     <string name="filter_bi_warm">Теплый</string>
     <string name="filter_category_black_white">Ч/Б</string>
     <string name="filter_category_classic">Классика</string>
-    <string name="filter_category_film">Пленка</string>
+    <string name="filter_category_film">Плёнка</string>
     <string name="filter_category_food">Еда</string>
     <string name="filter_category_fresh">Свежесть</string>
     <string name="filter_category_general">Общие</string>
@@ -1003,7 +1008,7 @@ ID: %s
     <string name="filter_film_classic">Классика</string>
     <string name="filter_film_dew">Роса</string>
     <string name="filter_film_fade">Блеклый</string>
-    <string name="filter_film_film">Пленка</string>
+    <string name="filter_film_film">Плёнка</string>
     <string name="filter_film_grey">Серый</string>
     <string name="filter_film_quiet">Покой</string>
     <string name="filter_film_style">Поэзия</string>
@@ -1026,7 +1031,7 @@ ID: %s
     <string name="filter_general_greenorange">Лайм</string>
     <string name="filter_general_japanese">Свежесть</string>
     <string name="filter_general_lilt">Ритм</string>
-    <string name="filter_general_movie">Пленка</string>
+    <string name="filter_general_movie">Плёнка</string>
     <string name="filter_general_nature">Натуральный</string>
     <string name="filter_general_past">Прошлое</string>
     <string name="filter_general_pink">Румянец</string>
@@ -1049,7 +1054,7 @@ ID: %s
     <string name="filter_movie_encounter">Схватка</string>
     <string name="filter_movie_fantasy">Фантазия</string>
     <string name="filter_movie_fengyin">Ветер</string>
-    <string name="filter_movie_film">Пленка</string>
+    <string name="filter_movie_film">Плёнка</string>
     <string name="filter_movie_koizora">Манга</string>
     <string name="filter_movie_latin">Танго</string>
     <string name="filter_movie_lost">Потерянный</string>
@@ -1205,6 +1210,7 @@ ID: %s
     <string name="filter_travel_charlotte">Шарлотта</string>
     <string name="finish_create_baby_album_toast">Альбом для \"%s\" создан в Xiaomi Cloud</string>
     <string name="finish_fill_baby">Создать</string>
+    <string name="first_delete_media_for_cloud">Выбранные файлы будут удалены из облака и со всех подключенных устройств в Корзину. Затем через %d дней будут удалены навсегда, если у вас нет плана облачного хранения. Удалить файлы?</string>
     <string name="first_time_add_video_to_secret_tips">Обновите галерею, для возможности добавлять видео в приватный альбом</string>
     <string name="flash_off">Без вспышки</string>
     <string name="flash_on">Со вспышкой</string>
@@ -1283,6 +1289,10 @@ ID: %s
     <string name="group_header_title_user_create_album">Мои альбомы</string>
     <string name="has_invalid_recipient">Недопустимые получатели: %1$s</string>
     <string name="have_known">Понятно</string>
+    <string name="hdr_show_hint">Настройте дисплей для улучшения детализации бликов и теней у объектов с высоким динамическим диапазоном</string>
+    <string name="hdr_show_title">Использование HDR</string>
+    <string name="hdr_switch_show_hint">Используйте HDR для лучшей детализации бликов и теней</string>
+    <string name="hdr_switch_show_title">Использование HDR</string>
     <string name="header_help">Помощь</string>
     <string name="hello_blank_fragment">Пустой фрагмент</string>
     <string name="help">Не можете найти устройство?</string>
@@ -1481,7 +1491,7 @@ ID: %s
     <string name="magic_cut_video_no_support_image_edit">Этот формат не поддерживается</string>
     <string name="magic_cut_video_no_support_video_edit">Этот формат не поддерживается</string>
     <string name="magic_edit_cancel">Выход</string>
-    <string name="magic_edit_dsc">Все несохраненные изменения будут потеряны. Выйти?</string>
+    <string name="magic_edit_dsc">Все несохранённые изменения будут потеряны. Выйти?</string>
     <string name="magic_effect">Эффекты</string>
     <string name="magic_effect_text">Арт</string>
     <string name="magic_effect_video_text">Видеоэффекты</string>
@@ -1559,7 +1569,7 @@ ID: %s
     <string name="magic_video_soundtrack_is_turned_on">Оригинальный звук включён</string>
     <string name="magic_width">Ширина</string>
     <string name="magic_zidiyi">Пользовательский</string>
-    <string name="main_discard_confirm_message">У вас есть несохраненные изменения</string>
+    <string name="main_discard_confirm_message">У вас есть несохранённые изменения</string>
     <string name="main_discard_negative_btn">Не сохранять</string>
     <string name="main_discard_positive_btn">Сохранить и выйти</string>
     <string name="main_save_cancel">Отмена</string>
@@ -2111,7 +2121,9 @@ ID: %s
     <string name="permission_optional_category">Необязательные разрешения</string>
     <string name="permission_phone_desc">Синхронизация на связанных устройствах недавно удаленных файлов в Xiaomi Cloud</string>
     <string name="permission_phone_name">Устройство</string>
+    <string name="permission_post_notification_desc">Для уведомлений об общих альбомах и обновления статуса синхронизации</string>
     <string name="permission_prompt_point">•</string>
+    <string name="permission_read_media_images_desc">Для доступа к фото и видео при использовании Галереи</string>
     <string name="permission_require_category">Обязательные разрешения</string>
     <string name="permission_storage_desc">Хранение, отображение, редактирование, синхронизация и загрузка фото и видео</string>
     <string name="permission_storage_name">Хранилище</string>
@@ -2260,7 +2272,7 @@ ID: %s
     <string name="photo_print_menu_loading">Загрузка плагина…</string>
     <string name="photo_print_package_finish">Плагин Печать успешно загружен</string>
     <string name="photo_print_package_installing">Загрузка плагина Печать…</string>
-    <string name="photo_purge_dialog_message_cloud">Выбранные файлы будут безвозвратно удалены из облака и со всех синхронизированных устройств. Все равно удалить?</string>
+    <string name="photo_purge_dialog_message_cloud">Выбранные файлы будут безвозвратно удалены из облака и со всех подключённых устройств. Все равно удалить?</string>
     <string name="photo_purge_dialog_message_image">Вы не сможете восстановить фото, если удалите их. Удалить?</string>
     <string name="photo_purge_dialog_message_local">Выбранные файлы будут удалены без возможности восстановления. Все равно удалить?</string>
     <string name="photo_purge_dialog_message_video">Вы не сможете восстановить видео, если удалите их. Удалить?</string>
@@ -2344,7 +2356,7 @@ ID: %s
     <string name="picker_title_specify_format">Выберите %d фото</string>
     <string name="picker_title_specify_format_one">Выберите %d фото</string>
     <string name="picker_title_unlimit">Выберите фото</string>
-    <string name="places_album_empty_title">Фото можно отсортировать по месту съемки</string>
+    <string name="places_album_empty_title">Фото можно отсортировать по месту съёмки</string>
     <string name="play_gif_desc">Воспроизвести GIF</string>
     <string name="play_video_desc">Воспроизвести видео</string>
     <string name="please_agree_protocal">Примите Протокол</string>
@@ -2396,6 +2408,8 @@ ID: %s
     <string name="privacy_rejected_map_detail">Отзыв согласия с Политикой конфиденциальности Карты галереи будет расцениваться как отказ от использования сервиса. Другие основные функции и сервисы Галереи затронуты не будут. Отозвать согласие?</string>
     <string name="privacy_rejected_map_new">Отзыв согласия с Заявлением Карты галереи о совместном использовании данных третьей стороной</string>
     <string name="privacy_rejected_pos_btn">Отозвать</string>
+    <string name="privacy_share_album_confirm">Условия и положения</string>
+    <string name="privacy_share_album_confirm_detail">Общие альбомы предоставляются Xiaomi Cloud. Перед использованием этой функции прочтите и примите наши &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Пользовательское соглашение>&lt;/a>&lt;/font> и &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Политику конфиденциальности&lt;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Отпустите для открытия приватного альбома</string>
     <string name="private_entry_lock_state_enterd_text">Потяните вниз для открытия приватного альбома</string>
     <string name="problem_feedback">Обратная связь</string>
@@ -2684,15 +2698,18 @@ ID: %s
     <string name="secret_album_card_description">Лучшее место для секретов</string>
     <string name="secret_album_card_title">Приватный альбом</string>
     <string name="secret_album_display_name">Приватный альбом</string>
-    <string name="secret_album_password_first_use_msg">Для защиты приватных фото и альбомов будет использоваться пароль конфиденциальности</string>
+    <string name="secret_album_password_first_use_msg">Для защиты фото, заметок и приватных папок будет использоваться пароль конфиденциальности</string>
     <string name="secret_album_password_first_use_title">Пароль конфиденциальности</string>
-    <string name="secret_album_password_update_dialog_msg">Пароль конфиденциальности защищает приватные фото и альбомы</string>
+    <string name="secret_album_password_first_use_with_sms_msg">Для защиты сообщений, фото, заметок и приватных папок будет использоваться пароль конфиденциальности</string>
+    <string name="secret_album_password_update_dialog_msg">Пароль конфиденциальности защищает фото, заметки, приватные папки и др.</string>
     <string name="secret_album_password_update_dialog_title">Обновите пароль</string>
-    <string name="secret_album_password_update_first_user_dialog_msg">Пароль конфиденциальности защищает приватные фото и альбомы</string>
+    <string name="secret_album_password_update_first_user_dialog_msg">Пароль конфиденциальности защищает фото, заметки, приватные папки и др.</string>
     <string name="secret_album_password_update_first_user_dialog_title">Обновите пароль</string>
-    <string name="secret_album_set_pc_password_dialog_msg">Для защиты фото и приватных альбомов будет использоваться пароль конфиденциальности</string>
+    <string name="secret_album_password_update_with_sms_dialog_msg">Пароль конфиденциальности защищает фото, заметки, приватные папки и др.</string>
+    <string name="secret_album_set_pc_password_dialog_msg">Для защиты фото, заметок и приватных папок будет использоваться пароль конфиденциальностии</string>
     <string name="secret_album_set_pc_password_dialog_ok">Задать новый пароль</string>
     <string name="secret_album_set_pc_password_dialog_title">Задайте пароль</string>
+    <string name="secret_album_set_pc_password_with_sms_dialog_msg">Для защиты сообщений, фото, заметок и приватных папок будет использоваться пароль конфиденциальности</string>
     <string name="secret_reason_space_full">Облачные альбомы заполнены</string>
     <string name="secret_reason_too_large">Файл слишком большой</string>
     <string name="secret_reason_type_not_support">Тип файла не поддерживается</string>
@@ -2753,6 +2770,8 @@ ID: %s
     <string name="share_album_exit_confirm">Все файлы из этого альбома станут недоступны. Сохраните важные файлы перед выходом.</string>
     <string name="share_album_exit_confirm_title">Выйти из группы?</string>
     <string name="share_album_family_add_sharer_dialog_title">Пригласить</string>
+    <string name="share_album_family_cancel_share_dialog_message">После отмены доступа к этому альбому, он будет недоступен для просмотра другим людям. Отменить доступ?</string>
+    <string name="share_album_family_delete_sharer_message">Альбом будет недоступен для просмотра этому человеку. Все равно удалить?</string>
     <string name="share_album_family_delete_sharer_title">Ограничение доступа</string>
     <string name="share_album_family_invite_category_title">Добавление в семейную группу</string>
     <string name="share_album_family_invite_default">Поделиться</string>
@@ -2770,6 +2789,9 @@ ID: %s
     <string name="share_album_family_invite_wechat">WeChat</string>
     <string name="share_album_family_manage">Семейный доступ</string>
     <string name="share_album_family_share_to_friend">Друзья</string>
+    <string name="share_album_family_share_to_friend_and_family">Доступ для друзей и семьи</string>
+    <string name="share_album_family_sharer_title">Люди с доступом</string>
+    <string name="share_album_home_cancel_device_share_dialog_message">Этот альбом не будет отображаться на %1$s, если вы удалите это устройство. Удалить?</string>
     <string name="share_album_home_cancel_device_share_dialog_title">Удаление устройств</string>
     <string name="share_album_home_choose_family">Выберите среду для Умного дома</string>
     <string name="share_album_home_close_home_share_dialog_message">Все члены семейной группы больше не смогут просматривать этот альбом. Отключить доступ?</string>
@@ -2784,6 +2806,7 @@ ID: %s
     <string name="share_album_home_pref_operation_open">Включить</string>
     <string name="share_album_home_pref_unshare_nonOwner_summary">Без общего доступа</string>
     <string name="share_album_home_share_to_home">Умный дом</string>
+    <string name="share_album_home_switch_family">Переключить</string>
     <string name="share_album_home_text_tip">Этот альбом будет воспроизводиться в виде слайд-шоу на экранах, доступных членам семейной группы</string>
     <string name="share_album_invite_send_failed">Не удалось отправить приглашение. Повторите позже.</string>
     <string name="share_album_invite_send_success">Приглашение отправлено</string>
@@ -2793,6 +2816,21 @@ ID: %s
     <string name="share_album_pref_auto_add_photos_summary">Фото от выбранных людей будут автоматически добавляться в этот альбом</string>
     <string name="share_album_pref_auto_add_photos_title">Автодобавление фото</string>
     <string name="share_album_qr_code">QR-код альбома</string>
+    <string name="share_album_risk_control_invalid_name">Введите другое имя альбома</string>
+    <string name="share_album_risk_control_tip_off">Сообщение</string>
+    <string name="share_album_risk_control_tip_off_cate">Тип контента</string>
+    <string name="share_album_risk_control_tip_off_cate_illegal">Незаконные заявления</string>
+    <string name="share_album_risk_control_tip_off_cate_other">Другое</string>
+    <string name="share_album_risk_control_tip_off_cate_political">Политика</string>
+    <string name="share_album_risk_control_tip_off_cate_sex">Откровенное содержание</string>
+    <string name="share_album_risk_control_tip_off_cate_violence">Насилие</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Сообщение о содержимом общего альбома сможет просмотреть только владелец альбома. Отправить сообщение?</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Сообщение</string>
+    <string name="share_album_risk_control_tip_off_select">Выберите тип контента</string>
+    <string name="share_album_risk_control_tip_off_success">Сообщение отправлено</string>
+    <string name="share_album_risk_control_too_many_albums">Исчерпан лимит создания общих альбомов</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">Исчерпан лимит участников</string>
+    <string name="share_album_risk_control_too_many_sharers_invite">Исчерпан лимит приглашений</string>
     <string name="share_album_sync_textline_action_continue">Продолжить</string>
     <string name="share_album_sync_textline_action_login">Вход</string>
     <string name="share_album_sync_textline_action_retry">Повтор</string>
@@ -2862,20 +2900,20 @@ ID: %s
     <string name="slim_dialog_empty_message">Нет файлов для оптимизации</string>
     <string name="slim_dialog_empty_positive">Понятно</string>
     <string name="slim_dialog_empty_title">Внимание</string>
-    <string name="slim_dialog_message" formatted="false">Оригиналы будут сохранены в облаке и заменены копиями высокого качества через %d дней после съемки. На устройстве освободится около %s.</string>
+    <string name="slim_dialog_message" formatted="false">Оригиналы будут сохранены в облаке и заменены копиями высокого качества через %d дней после съёмки. На устройстве освободится около %s.</string>
     <string name="slim_dialog_positive">Оптимизировать</string>
     <string name="slim_dialog_title">Оптимизация места</string>
     <string name="slim_exit_dialog_positive">Остановить</string>
     <string name="slim_exit_dialog_title">Остановка оптимизации</string>
     <string name="slim_preference_scanning">Анализ фото и видео…</string>
-    <string name="slim_preference_summery">Загрузка оригиналов в облако и сохранение копий меньшего размера высокого качества на устройстве через %d дней после съемки.</string>
+    <string name="slim_preference_summery">Загрузка оригиналов в облако и сохранение копий меньшего размера высокого качества на устройстве через %d дней после съёмки.</string>
     <string name="slim_preference_title">Оптимизация места</string>
     <string name="slim_running">Оптимизация…</string>
     <string name="slim_space">освобождено</string>
     <string name="slim_stop">Остановить</string>
     <string name="slim_stop_v2">Остановить</string>
     <string name="slim_success_tip">Освобождено %s на устройстве</string>
-    <string name="slow_motion_enter"/>
+    <string name="slow_motion_enter">Замедленная съёмка</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="sns_access_token_expired_warning">Превышено время авторизации. Войдите в аккаунт заново.</string>
@@ -2917,6 +2955,7 @@ ID: %s
     <string name="solar_term_winter_solstice">Зимнее солнцестояние</string>
     <string name="solar_valentines_day_title">День святого Валентина</string>
     <string name="sort">Сортировка</string>
+    <string name="sort_and_showmode">Сортировка и просмотр</string>
     <string name="special_type_8k">AI 8K</string>
     <string name="special_type_ai_audio">AI аудио</string>
     <string name="special_type_eye_repair">Исправление закрытых глаз при помощи AI</string>
@@ -3021,7 +3060,7 @@ ID: %s
     <string name="sunday">Воскресенье</string>
     <string name="sunday_short">Вс</string>
     <string name="sunday_shortest">Вс</string>
-    <string name="super_slow_motion_enter"/>
+    <string name="super_slow_motion_enter">Сверхзамедленная съёмка</string>
     <string name="support_single_image">Выберите изображение</string>
     <string name="support_single_video">Выберите видео</string>
     <string name="switch_account_continue">Возобновить</string>
@@ -3229,8 +3268,8 @@ ID: %s
     <string name="thursday">Четверг</string>
     <string name="thursday_short">Чт</string>
     <string name="thursday_shortest">Чт</string>
-    <string name="time_burst_photo_enter">Серийная съемка по таймеру</string>
-    <string name="time_burst_preview_title">Серийная съемка по таймеру</string>
+    <string name="time_burst_photo_enter">Серийная съёмка по таймеру</string>
+    <string name="time_burst_preview_title">Серийная съёмка по таймеру</string>
     <string name="time_burst_save_all">Экспортировать все</string>
     <string name="time_burst_save_dialog_title">Экспорт</string>
     <string name="time_burst_save_select">Экспортировать выбранные</string>
@@ -3240,7 +3279,7 @@ ID: %s
     <string name="time_picker_label_minute">М</string>
     <string name="tip_capture_location">Местоположение:</string>
     <string name="tip_capture_params">Данные EXIF:</string>
-    <string name="tip_capture_time">Дата съемки:</string>
+    <string name="tip_capture_time">Дата съёмки:</string>
     <string name="tip_file_info">Файл:</string>
     <string name="tip_file_path">Расположение:</string>
     <string name="tip_not_download">Нет на устройстве. Будет загружено из Xiaomi Cloud при воспроизведении.</string>
@@ -3256,7 +3295,7 @@ ID: %s
     <string name="to_enable_sync_dialog_positive_button_text">Настройки</string>
     <string name="to_enable_sync_dialog_title">Синхронизация</string>
     <string name="toast_download_with_metered_network_btn_continue">Загрузить</string>
-    <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Использовать мобильный интернет?</string>
+    <string name="toast_download_with_metered_network_msg">Устройство не подключено к Wi-Fi. Загрузить с использованием мобильного интернета?</string>
     <string name="toast_download_with_metered_network_title">Мобильный интернет</string>
     <string name="toast_invalid_char">Имя файла не может содержать \"%s\"</string>
     <string name="toast_invalid_prefix">Имя файла не может начинаться с \".\" или \"_\"</string>
@@ -3295,7 +3334,7 @@ ID: %s
     <string name="transfer_status_banner_msg_unbinding">Удаление аккаунта. Подождите немного и начните перенос снова %1$s</string>
     <string name="trash_bin">Корзина</string>
     <string name="trash_bin_key_word">Удаленные файлы</string>
-    <string name="trash_bin_summary">Просмотр недавно удаленных фото и видео, сохраненных в Xiaomi Cloud</string>
+    <string name="trash_bin_summary">Просмотр недавно удаленных фото и видео, сохранённых в Xiaomi Cloud</string>
     <string name="trash_bin_summary_local">Просмотр недавно удаленных фото и видео</string>
     <string name="trash_empty">Ничего нет</string>
     <string name="trash_high_occupied_tip_banner">Размер корзины %1$s. Выполните очистку, чтобы освободить место.</string>
@@ -3303,8 +3342,9 @@ ID: %s
     <string name="trash_menu_delete">Удалить</string>
     <string name="trash_menu_recovery">Восстановить</string>
     <string name="trash_purge_all">Все фото и видео будут удалены из облака. Вы не сможете их восстановить. Удалить?</string>
-    <string name="trash_purge_all_cloud">Все файлы в корзине будут безвозвратно удалены из облака и со всех синхронизированных устройств. Все равно удалить?</string>
+    <string name="trash_purge_all_cloud">Все файлы в корзине будут безвозвратно удалены из облака и со всех подключённых устройств. Все равно удалить?</string>
     <string name="trash_purge_all_local">Все файлы в корзине будут удалены без возможности восстановления. Все равно удалить?</string>
+    <string name="trash_purge_all_media">Удалить навсегда все файлы из облака и со всех подключённых устройств? Вы не можете отменить это действие.</string>
     <string name="trash_purge_dialog_title">Очистка корзины</string>
     <string name="trash_purge_positive_button">Удалить</string>
     <string name="trash_size">Корзина (%s)</string>
@@ -3437,7 +3477,7 @@ ID: %s
     <string name="video_editor_filter_cloud">Холод</string>
     <string name="video_editor_filter_gothic">Зелень</string>
     <string name="video_editor_filter_heibai">Ч/Б</string>
-    <string name="video_editor_filter_jiaopian">Пленка</string>
+    <string name="video_editor_filter_jiaopian">Плёнка</string>
     <string name="video_editor_filter_jingmi">Покой</string>
     <string name="video_editor_filter_moon">Луна</string>
     <string name="video_editor_filter_none">Нет</string>
@@ -3528,7 +3568,7 @@ ID: %s
     <string name="video_quality_720p_original">720P (без сжатия)</string>
     <string name="video_quality_8k">8K</string>
     <string name="video_quality_title_sub">Текущее разрешение: %1$s (≈%2$s)</string>
-    <string name="video_tags_enter"/>
+    <string name="video_tags_enter">Показ меток</string>
     <string name="video_with_time">Видео снято в %s</string>
     <string name="video_with_time_and_location">Видео снято в %1$s. Место: %2$s.</string>
     <string name="view_by_gallery_tip">Галерея MIUI</string>
@@ -3609,7 +3649,7 @@ ID: %s
     <string name="vlog_estimated_size_x">≈%d МБ</string>
     <string name="vlog_exit_ddit_message">Если вы выйдете сейчас, все изменения будут потеряны. Выйти?</string>
     <string name="vlog_exit_edit_title">Выход из редактора</string>
-    <string name="vlog_exit_message">Все несохраненные изменения будут потеряны. Отменить?</string>
+    <string name="vlog_exit_message">Все несохранённые изменения будут потеряны. Отменить?</string>
     <string name="vlog_exit_title">Отмена изменений</string>
     <string name="vlog_film_title">Открытие</string>
     <string name="vlog_filter_bbp">BBP</string>
